@@ -2,7 +2,10 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "5fU35AS121k",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "kw5Itpq4UN4",
     "rss:bbc": "https://www.bbc.co.uk/news/articles/clyw3rkj2p7o#0",
-    "rss:nhk": "https://news.web.nhk/newsweb/na/na-k10015163361000",
+    "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015164231000",
+        "https://news.web.nhk/newsweb/na/na-k10015163361000"
+    ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/kodak-charmera-millenium/",
         "https://www.gizmodo.jp/article/arm-cover-summer/",
