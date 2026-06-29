@@ -109,7 +109,6 @@ def handle_youtube_source(source, state):
         )
 
     content = (
-        f"🟥 {name} 新着動画！\n\n"
         f"{latest['title']}\n"
         f"{latest['link']}"
     )
