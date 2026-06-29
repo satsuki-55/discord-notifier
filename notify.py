@@ -228,9 +228,13 @@ def handle_rss_source(source, state):
         return
 
     state_key = f"rss:{webhook_name}"
-    last_seen_id = state.get(state_key)
+    sent_ids = state.get(state_key, [])
 
-    if latest["id"] == last_seen_id:
+    # 旧バージョンとの互換性
+    if isinstance(sent_ids, str):
+        sent_ids = [sent_ids]
+
+    if latest["id"] in sent_ids:
         print(f"[{name}] No new article.")
         return
 
@@ -253,7 +257,11 @@ def handle_rss_source(source, state):
 
     send_discord(webhook_url, content)
 
-    state[state_key] = latest["id"]
+    # 新しい記事を先頭に追加
+    sent_ids.insert(0, latest["id"])
+
+    # 最新20件だけ保持
+    state[state_key] = sent_ids[:20]
 
     print(f"[{name}] Sent: {latest['title']}")
 
