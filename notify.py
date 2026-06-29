@@ -88,8 +88,14 @@ def handle_youtube_source(source, state):
         print(f"[{name}] No videos found.")
         return
 
-    state_key = f"youtube:{name}"
+    state_key = f"youtube:{channel_id}"
+    old_state_key = f"youtube:{name}"
     last_seen_id = state.get(state_key)
+
+    if last_seen_id is None and old_state_key in state:
+        last_seen_id = state[old_state_key]
+        state[state_key] = last_seen_id
+        del state[old_state_key]
 
     if latest["id"] == last_seen_id:
         print(f"[{name}] No new video.")
