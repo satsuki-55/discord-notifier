@@ -1,9 +1,6 @@
 name: Discord Notifier
 
 on:
-  push:
-    branches:
-      - main
   workflow_dispatch:
 
 permissions:
