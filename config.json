@@ -11,6 +11,24 @@
       "name": "マグロヘッド",
       "channel_id": "UCjJmYy279ehSYSwR1A3fXtA",
       "webhook": "magurohead"
+    },
+    {
+      "type": "rss",
+      "name": "BBC",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "webhook": "bbc"
+    },
+    {
+      "type": "rss",
+      "name": "NHK",
+      "url": "https://news.web.nhk/n-data/conf/na/rss/cat0.xml",
+      "webhook": "nhk"
+    },
+    {
+      "type": "rss",
+      "name": "Gizmodo",
+      "url": "https://www.gizmodo.jp/index.xml",
+      "webhook": "gizmodo"
     }
   ]
 }

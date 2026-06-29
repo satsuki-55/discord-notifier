@@ -1,6 +1,10 @@
 import json
 import os
+import html
+import re
 import urllib.request
+import urllib.error
+import urllib.parse
 import xml.etree.ElementTree as ET
 
 
@@ -51,6 +55,94 @@ def fetch_youtube_latest(channel_id):
     return {
         "id": video_id,
         "title": title,
+        "link": link,
+    }
+
+
+def strip_html(text):
+    if not text:
+        return ""
+
+    text = re.sub(r"<[^>]+>", "", text)
+    text = html.unescape(text)
+    return " ".join(text.split())
+
+
+def find_text(element, paths, namespaces):
+    for path in paths:
+        found = element.find(path, namespaces)
+        if found is not None and found.text:
+            return strip_html(found.text)
+    return ""
+
+
+def fetch_rss_latest(feed_url):
+    request = urllib.request.Request(
+        feed_url,
+        headers={"User-Agent": "Mozilla/5.0"},
+    )
+
+    try:
+        with urllib.request.urlopen(request) as response:
+            xml_data = response.read()
+    except urllib.error.HTTPError as error:
+        if error.code in (301, 302, 303, 307, 308):
+            redirected_url = error.headers.get("Location")
+            if not redirected_url:
+                raise
+
+            redirected_url = urllib.parse.urljoin(feed_url, redirected_url)
+
+            redirected_request = urllib.request.Request(
+                redirected_url,
+                headers={"User-Agent": "Mozilla/5.0"},
+            )
+
+            with urllib.request.urlopen(redirected_request) as response:
+                xml_data = response.read()
+        else:
+            raise
+
+    root = ET.fromstring(xml_data)
+
+    namespaces = {
+        "atom": "http://www.w3.org/2005/Atom",
+        "content": "http://purl.org/rss/1.0/modules/content/",
+        "dc": "http://purl.org/dc/elements/1.1/",
+    }
+
+    entry = root.find(".//item")
+    is_atom = False
+
+    if entry is None:
+        entry = root.find("atom:entry", namespaces)
+        is_atom = True
+
+    if entry is None:
+        return None
+
+    if is_atom:
+        title = find_text(entry, ["atom:title"], namespaces)
+        summary = find_text(entry, ["atom:summary", "atom:content"], namespaces)
+        article_id = find_text(entry, ["atom:id"], namespaces)
+
+        link_element = entry.find("atom:link", namespaces)
+        link = ""
+        if link_element is not None:
+            link = link_element.attrib.get("href", "")
+    else:
+        title = find_text(entry, ["title"], namespaces)
+        summary = find_text(entry, ["description", "content:encoded"], namespaces)
+        article_id = find_text(entry, ["guid"], namespaces)
+        link = find_text(entry, ["link"], namespaces)
+
+    if not article_id:
+        article_id = link or title
+
+    return {
+        "id": article_id,
+        "title": title,
+        "summary": summary,
         "link": link,
     }
 
@@ -120,6 +212,52 @@ def handle_youtube_source(source, state):
     print(f"[{name}] Sent: {latest['title']}")
 
 
+def handle_rss_source(source, state):
+    name = source["name"]
+    feed_url = source["url"]
+    webhook_name = source["webhook"]
+
+    if not feed_url:
+        print(f"[{name}] RSS URL is empty. Skipped.")
+        return
+
+    latest = fetch_rss_latest(feed_url)
+
+    if latest is None:
+        print(f"[{name}] No RSS entries found.")
+        return
+
+    state_key = f"rss:{webhook_name}"
+    last_seen_id = state.get(state_key)
+
+    if latest["id"] == last_seen_id:
+        print(f"[{name}] No new article.")
+        return
+
+    webhook_url = get_webhook_url(webhook_name)
+
+    if webhook_url is None:
+        raise RuntimeError(
+            f"Webhook secret not found: DISCORD_WEBHOOK_{webhook_name.upper()}"
+        )
+
+    content_parts = [latest["title"]]
+
+    if latest["summary"]:
+        content_parts.append(latest["summary"])
+
+    if latest["link"]:
+        content_parts.append(latest["link"])
+
+    content = "\n\n".join(content_parts)
+
+    send_discord(webhook_url, content)
+
+    state[state_key] = latest["id"]
+
+    print(f"[{name}] Sent: {latest['title']}")
+
+
 def main():
     config = load_json(CONFIG_FILE, {"sources": []})
     state = load_json(STATE_FILE, {})
@@ -127,10 +265,16 @@ def main():
     for source in config["sources"]:
         source_type = source.get("type")
 
-        if source_type == "youtube":
-            handle_youtube_source(source, state)
-        else:
-            print(f"Unsupported source type: {source_type}")
+        try:
+            if source_type == "youtube":
+                handle_youtube_source(source, state)
+            elif source_type == "rss":
+                handle_rss_source(source, state)
+            else:
+                print(f"Unsupported source type: {source_type}")
+        except Exception as error:
+            source_name = source.get("name", "unknown")
+            print(f"[{source_name}] Error: {error}")
 
     save_json(STATE_FILE, state)
 
