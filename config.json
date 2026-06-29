@@ -1,6 +1,7 @@
 {
-    "youtube": [
+    "sources": [
         {
+            "type": "youtube",
             "name": "QuizKnock",
             "channel_id": "UCQ_MqAw18jFTlBB-f8BP7dw",
             "webhook": "youtube"
