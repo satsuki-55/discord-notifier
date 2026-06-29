@@ -24,7 +24,11 @@ jobs:
       - name: Run notifier
         run: python3 notify.py
         env:
-          DISCORD_WEBHOOK_YOUTUBE: ${{ secrets.DISCORD_WEBHOOK_YOUTUBE }}
+          DISCORD_WEBHOOK_QUIZKNOCK: ${{ secrets.DISCORD_WEBHOOK_QUIZKNOCK }}
+          DISCORD_WEBHOOK_MAGUROHEAD: ${{ secrets.DISCORD_WEBHOOK_MAGUROHEAD }}
+          DISCORD_WEBHOOK_BBC: ${{ secrets.DISCORD_WEBHOOK_BBC }}
+          DISCORD_WEBHOOK_NHK: ${{ secrets.DISCORD_WEBHOOK_NHK }}
+          DISCORD_WEBHOOK_GIZMODO: ${{ secrets.DISCORD_WEBHOOK_GIZMODO }}
 
       - name: Commit updated state
         run: |
