@@ -1,10 +1,16 @@
 {
-    "sources": [
-        {
-            "type": "youtube",
-            "name": "QuizKnock",
-            "channel_id": "UCQ_MqAw18jFTlBB-f8BP7dw",
-            "webhook": "youtube"
-        }
-    ]
+  "sources": [
+    {
+      "type": "youtube",
+      "name": "QuizKnock",
+      "channel_id": "UCQ_MqAw18jFTlBB-f8BP7dw",
+      "webhook": "quizknock"
+    },
+    {
+      "type": "youtube",
+      "name": "マグロヘッド",
+      "channel_id": "UCjJmYy279ehSYSwR1A3fXtA",
+      "webhook": "magurohead"
+    }
+  ]
 }
