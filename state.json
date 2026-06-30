@@ -14,6 +14,7 @@
         "https://www.bbc.co.uk/news/articles/clyw3rkj2p7o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015163811000",
         "https://news.web.nhk/newsweb/na/na-k10015164691000",
         "https://news.web.nhk/newsweb/na/na-k10015164651000",
         "https://news.web.nhk/newsweb/na/na-k10015164561000",
@@ -32,10 +33,10 @@
         "https://news.web.nhk/newsweb/na/na-k10015164441000",
         "https://news.web.nhk/newsweb/na/na-k10015164451000",
         "https://news.web.nhk/newsweb/na/na-k10015164361000",
-        "https://news.web.nhk/newsweb/na/na-k10015164121000",
-        "https://news.web.nhk/newsweb/na/na-k10015164471000"
+        "https://news.web.nhk/newsweb/na/na-k10015164121000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/iphone-battely_lifespan/",
         "https://www.gizmodo.jp/article/au-infobar-smart-recovery-ring/",
         "https://www.gizmodo.jp/article/3coins-rain-item/",
         "https://www.gizmodo.jp/article/peacock_miniicepack_for_summer/",
@@ -54,7 +55,6 @@
         "https://www.gizmodo.jp/article/samsung-galaxy-watch-ultra-2-jpn/",
         "https://www.gizmodo.jp/article/spacexs-next-big-business-could-be-building-stuff-in-space/",
         "https://www.gizmodo.jp/article/gizmart-keychron-t1-he-re/",
-        "https://www.gizmodo.jp/article/keychron-trackball-review/",
-        "https://www.gizmodo.jp/article/tp-link-tc93d-kit/"
+        "https://www.gizmodo.jp/article/keychron-trackball-review/"
     ]
 }
