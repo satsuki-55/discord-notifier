@@ -15,6 +15,7 @@
         "https://www.bbc.co.uk/news/articles/clyw3rkj2p7o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015164581000",
         "https://news.web.nhk/newsweb/na/na-k10015164681000",
         "https://news.web.nhk/newsweb/na/na-k10015163811000",
         "https://news.web.nhk/newsweb/na/na-k10015164691000",
@@ -33,8 +34,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015164081000",
         "https://news.web.nhk/newsweb/na/na-k10015164371000",
         "https://news.web.nhk/newsweb/na/na-k10015164441000",
-        "https://news.web.nhk/newsweb/na/na-k10015164451000",
-        "https://news.web.nhk/newsweb/na/na-k10015164361000"
+        "https://news.web.nhk/newsweb/na/na-k10015164451000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/super-strong-metal-foam-cmf/",
