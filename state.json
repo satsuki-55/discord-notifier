@@ -2,6 +2,12 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "5fU35AS121k",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "kw5Itpq4UN4",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cwy0rrnq317o#0",
+        "https://www.bbc.co.uk/news/articles/cdej6ej7w4go#0",
+        "https://www.bbc.co.uk/news/articles/c3vyen243dno#1",
+        "https://www.bbc.co.uk/news/articles/cy4wwy0nkeno#1",
+        "https://www.bbc.co.uk/news/articles/c5yzd18dxzxo#0",
+        "https://www.bbc.co.uk/news/articles/cy4eq1l184po#0",
         "https://www.bbc.co.uk/sport/football/videos/cm20j4m2k3xo#0",
         "https://www.bbc.co.uk/sport/football/articles/c992kzk00kzo#0",
         "https://www.bbc.co.uk/sport/football/articles/cm2dy359e8yo#0",
@@ -89,6 +95,19 @@
         "https://www.bbc.co.uk/news/articles/crlw2xw1yy2o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015164281000",
+        "https://news.web.nhk/newsweb/na/na-k10015164401000",
+        "https://news.web.nhk/newsweb/na/na-k10015164301000",
+        "https://news.web.nhk/newsweb/na/na-k10015164091000",
+        "https://news.web.nhk/newsweb/na/na-k10015158431000",
+        "https://news.web.nhk/newsweb/na/na-k10015160931000",
+        "https://news.web.nhk/newsweb/na/na-k10015160781000",
+        "https://news.web.nhk/newsweb/na/na-k10015164321000",
+        "https://news.web.nhk/newsweb/na/na-k10015164001000",
+        "https://news.web.nhk/newsweb/na/na-k10015163861000",
+        "https://news.web.nhk/newsweb/na/na-k10015164361000",
+        "https://news.web.nhk/newsweb/na/na-k10015164691000",
+        "https://news.web.nhk/newsweb/na/na-k10015164451000",
         "https://news.web.nhk/newsweb/na/na-k10015164671000",
         "https://news.web.nhk/newsweb/na/na-k10015164581000",
         "https://news.web.nhk/newsweb/na/na-k10015164681000",
@@ -111,6 +130,9 @@
         "https://news.web.nhk/newsweb/na/na-k10015164441000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/au-infobar-smart-recovery-ring/",
+        "https://www.gizmodo.jp/article/researchers-identify-3-key-drivers-behind-ai-psychosis/",
+        "https://www.gizmodo.jp/article/3coins-rain-item/",
         "https://www.gizmodo.jp/article/datacenter_backlash_repost/",
         "https://www.gizmodo.jp/article/triple_force_1/",
         "https://www.gizmodo.jp/article/063d00bc-3442-4395-80cb-5f85d9811ef2/",
