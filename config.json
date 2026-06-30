@@ -56,18 +56,6 @@
     },
     {
       "type": "rss",
-      "name": "BBC Sport",
-      "url": "https://feeds.bbci.co.uk/sport/rss.xml?edition=uk",
-      "webhook": "bbc"
-    },
-    {
-      "type": "rss",
-      "name": "BBC Football",
-      "url": "https://feeds.bbci.co.uk/sport/football/rss.xml",
-      "webhook": "bbc"
-    },
-    {
-      "type": "rss",
       "name": "NHK Major",
       "url": "https://news.web.nhk/n-data/conf/na/rss/cat0.xml",
       "webhook": "nhk"
@@ -106,12 +94,6 @@
       "type": "rss",
       "name": "NHK International",
       "url": "https://news.web.nhk/n-data/conf/na/rss/cat6.xml",
-      "webhook": "nhk"
-    },
-    {
-      "type": "rss",
-      "name": "NHK Sports",
-      "url": "https://news.web.nhk/n-data/conf/na/rss/cat7.xml",
       "webhook": "nhk"
     },
     {
