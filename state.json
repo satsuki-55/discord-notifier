@@ -2,6 +2,8 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "5fU35AS121k",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "kw5Itpq4UN4",
     "rss:bbc": [
+        "https://www.bbc.co.uk/sport/football/articles/c5yz3yjgp5yo#1",
+        "https://www.bbc.co.uk/sport/football/articles/c992kzk00kzo#1",
         "https://www.bbc.co.uk/news/articles/cqj1210rj0yo#1",
         "https://www.bbc.co.uk/news/articles/c17yzzw1vkjo#1",
         "https://www.bbc.co.uk/news/videos/cz75y2rggppo#1",
@@ -102,6 +104,7 @@
         "https://www.bbc.co.uk/news/articles/crlw2xw1yy2o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015164761000",
         "https://news.web.nhk/newsweb/na/na-k10015164731000",
         "https://news.web.nhk/newsweb/na/na-k10015164641000",
         "https://news.web.nhk/newsweb/na/na-k10015164661000",
