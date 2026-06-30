@@ -14,14 +14,110 @@
     },
     {
       "type": "rss",
-      "name": "BBC",
+      "name": "BBC Top Stories",
+      "url": "https://feeds.bbci.co.uk/news/rss.xml",
+      "webhook": "bbc"
+    },
+    {
+      "type": "rss",
+      "name": "BBC World",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "webhook": "bbc"
     },
     {
       "type": "rss",
-      "name": "NHK",
+      "name": "BBC Business",
+      "url": "https://feeds.bbci.co.uk/news/business/rss.xml",
+      "webhook": "bbc"
+    },
+    {
+      "type": "rss",
+      "name": "BBC Technology",
+      "url": "https://feeds.bbci.co.uk/news/technology/rss.xml",
+      "webhook": "bbc"
+    },
+    {
+      "type": "rss",
+      "name": "BBC Science & Environment",
+      "url": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
+      "webhook": "bbc"
+    },
+    {
+      "type": "rss",
+      "name": "BBC Health",
+      "url": "https://feeds.bbci.co.uk/news/health/rss.xml",
+      "webhook": "bbc"
+    },
+    {
+      "type": "rss",
+      "name": "BBC Entertainment & Arts",
+      "url": "https://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml",
+      "webhook": "bbc"
+    },
+    {
+      "type": "rss",
+      "name": "BBC Sport",
+      "url": "https://feeds.bbci.co.uk/sport/rss.xml?edition=uk",
+      "webhook": "bbc"
+    },
+    {
+      "type": "rss",
+      "name": "BBC Football",
+      "url": "https://feeds.bbci.co.uk/sport/football/rss.xml",
+      "webhook": "bbc"
+    },
+    {
+      "type": "rss",
+      "name": "NHK Major",
       "url": "https://news.web.nhk/n-data/conf/na/rss/cat0.xml",
+      "webhook": "nhk"
+    },
+    {
+      "type": "rss",
+      "name": "NHK Social",
+      "url": "https://news.web.nhk/n-data/conf/na/rss/cat1.xml",
+      "webhook": "nhk"
+    },
+    {
+      "type": "rss",
+      "name": "NHK Culture & Entertainment",
+      "url": "https://news.web.nhk/n-data/conf/na/rss/cat2.xml",
+      "webhook": "nhk"
+    },
+    {
+      "type": "rss",
+      "name": "NHK Science & Medical",
+      "url": "https://news.web.nhk/n-data/conf/na/rss/cat3.xml",
+      "webhook": "nhk"
+    },
+    {
+      "type": "rss",
+      "name": "NHK Politics",
+      "url": "https://news.web.nhk/n-data/conf/na/rss/cat4.xml",
+      "webhook": "nhk"
+    },
+    {
+      "type": "rss",
+      "name": "NHK Business",
+      "url": "https://news.web.nhk/n-data/conf/na/rss/cat5.xml",
+      "webhook": "nhk"
+    },
+    {
+      "type": "rss",
+      "name": "NHK International",
+      "url": "https://news.web.nhk/n-data/conf/na/rss/cat6.xml",
+      "webhook": "nhk"
+    },
+    {
+      "type": "rss",
+      "name": "NHK Sports",
+      "url": "https://news.web.nhk/n-data/conf/na/rss/cat7.xml",
+      "webhook": "nhk"
+    },
+    {
+      "type": "rss",
+      "name": "NHK Live",
+      "url": "https://news.web.nhk/n-data/conf/na/rss/cat-live.xml",
       "webhook": "nhk"
     },
     {

@@ -8,8 +8,28 @@ import urllib.parse
 import xml.etree.ElementTree as ET
 
 
+
 CONFIG_FILE = "config.json"
 STATE_FILE = "state.json"
+ENV_FILE = ".env"
+
+
+def load_env_file(path=ENV_FILE):
+    if not os.path.exists(path):
+        return
+
+    with open(path, "r", encoding="utf-8") as file:
+        for line in file:
+            line = line.strip()
+
+            if not line or line.startswith("#") or "=" not in line:
+                continue
+
+            key, value = line.split("=", 1)
+            key = key.strip()
+            value = value.strip().strip('"').strip("'")
+
+            os.environ.setdefault(key, value)
 
 
 def load_json(path, default):
@@ -267,6 +287,7 @@ def handle_rss_source(source, state):
 
 
 def main():
+    load_env_file()
     config = load_json(CONFIG_FILE, {"sources": []})
     state = load_json(STATE_FILE, {})
 
