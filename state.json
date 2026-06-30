@@ -95,6 +95,17 @@
         "https://www.bbc.co.uk/news/articles/crlw2xw1yy2o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015164311000",
+        "https://news.web.nhk/newsweb/na/na-k10015164291000",
+        "https://news.web.nhk/newsweb/na/na-k10015164231000",
+        "https://news.web.nhk/newsweb/na/na-k10015158601000",
+        "https://news.web.nhk/newsweb/na/na-k10015158471000",
+        "https://news.web.nhk/newsweb/na/na-k10015162871000",
+        "https://news.web.nhk/newsweb/na/na-k10015162651000",
+        "https://news.web.nhk/newsweb/na/na-k10015162041000",
+        "https://news.web.nhk/newsweb/na/na-k10015161921000",
+        "https://news.web.nhk/newsweb/na/na-k10015161471000",
+        "https://news.web.nhk/newsweb/na/na-k10015160961000",
         "https://news.web.nhk/newsweb/na/na-k10015164281000",
         "https://news.web.nhk/newsweb/na/na-k10015164401000",
         "https://news.web.nhk/newsweb/na/na-k10015164301000",
@@ -130,6 +141,8 @@
         "https://news.web.nhk/newsweb/na/na-k10015164441000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/summer-fair-report/",
+        "https://www.gizmodo.jp/article/f81787c6-9ddc-4785-bb1e-6a4c526f27c9/",
         "https://www.gizmodo.jp/article/au-infobar-smart-recovery-ring/",
         "https://www.gizmodo.jp/article/researchers-identify-3-key-drivers-behind-ai-psychosis/",
         "https://www.gizmodo.jp/article/3coins-rain-item/",
