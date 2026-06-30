@@ -95,6 +95,20 @@
         "https://www.bbc.co.uk/news/articles/crlw2xw1yy2o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015164331000",
+        "https://news.web.nhk/newsweb/na/na-k10015164261000",
+        "https://news.web.nhk/newsweb/na/na-k10015164411000",
+        "https://news.web.nhk/newsweb/na/na-k10015164251000",
+        "https://news.web.nhk/newsweb/na/na-k10015164101000",
+        "https://news.web.nhk/newsweb/na/na-k10015164511000",
+        "https://news.web.nhk/newsweb/na/na-k10015164471000",
+        "https://news.web.nhk/newsweb/na/na-k10015164431000",
+        "https://news.web.nhk/newsweb/na/na-k10015164351000",
+        "https://news.web.nhk/newsweb/na/na-k10015163271000",
+        "https://news.web.nhk/newsweb/na/na-k10015161591000",
+        "https://news.web.nhk/newsweb/na/na-k10015159891000",
+        "https://news.web.nhk/newsweb/na/na-k10015159801000",
+        "https://news.web.nhk/newsweb/na/na-k10015159441000",
         "https://news.web.nhk/newsweb/na/na-k10015164311000",
         "https://news.web.nhk/newsweb/na/na-k10015164291000",
         "https://news.web.nhk/newsweb/na/na-k10015164231000",
@@ -141,6 +155,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015164441000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/peacock_miniicepack_for_summer/",
         "https://www.gizmodo.jp/article/summer-fair-report/",
         "https://www.gizmodo.jp/article/f81787c6-9ddc-4785-bb1e-6a4c526f27c9/",
         "https://www.gizmodo.jp/article/au-infobar-smart-recovery-ring/",
