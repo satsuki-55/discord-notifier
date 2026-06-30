@@ -34,6 +34,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015163361000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/peacock_miniicepack_for_summer/",
         "https://www.gizmodo.jp/article/researchers-identify-3-key-drivers-behind-ai-psychosis/",
         "https://www.gizmodo.jp/article/summer-fair-report/",
         "https://www.gizmodo.jp/article/datacenter_backlash_repost/",
@@ -52,7 +53,6 @@
         "https://www.gizmodo.jp/article/keychron-trackball-review/",
         "https://www.gizmodo.jp/article/tp-link-tc93d-kit/",
         "https://www.gizmodo.jp/article/minnna-no-ginko-video/",
-        "https://www.gizmodo.jp/article/amazon_datacenter_water/",
-        "https://www.gizmodo.jp/article/super-strong-metal-foam-cmf/"
+        "https://www.gizmodo.jp/article/amazon_datacenter_water/"
     ]
 }
