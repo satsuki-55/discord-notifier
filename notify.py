@@ -11,7 +11,14 @@ import xml.etree.ElementTree as ET
 
 CONFIG_FILE = "config.json"
 STATE_FILE = "state.json"
+
 ENV_FILE = ".env"
+
+REQUEST_HEADERS = {
+    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36",
+    "Accept": "application/atom+xml, application/rss+xml, application/xml;q=0.9, text/xml;q=0.8, */*;q=0.7",
+    "Accept-Language": "ja,en-US;q=0.9,en;q=0.8",
+}
 
 
 def load_env_file(path=ENV_FILE):
@@ -50,11 +57,14 @@ def fetch_youtube_latest(channel_id):
 
     request = urllib.request.Request(
         rss_url,
-        headers={"User-Agent": "Mozilla/5.0"},
+        headers=REQUEST_HEADERS,
     )
 
-    with urllib.request.urlopen(request) as response:
-        xml_data = response.read()
+    try:
+        with urllib.request.urlopen(request) as response:
+            xml_data = response.read()
+    except urllib.error.HTTPError as error:
+        raise RuntimeError(f"YouTube RSS fetch failed: {error.code} {error.reason} ({rss_url})") from error
 
     root = ET.fromstring(xml_data)
 
@@ -96,10 +106,10 @@ def find_text(element, paths, namespaces):
     return ""
 
 
-def fetch_rss_latest(feed_url):
+def fetch_rss_entries(feed_url, limit=10):
     request = urllib.request.Request(
         feed_url,
-        headers={"User-Agent": "Mozilla/5.0"},
+        headers=REQUEST_HEADERS,
     )
 
     try:
@@ -115,7 +125,7 @@ def fetch_rss_latest(feed_url):
 
             redirected_request = urllib.request.Request(
                 redirected_url,
-                headers={"User-Agent": "Mozilla/5.0"},
+                headers=REQUEST_HEADERS,
             )
 
             with urllib.request.urlopen(redirected_request) as response:
@@ -131,40 +141,45 @@ def fetch_rss_latest(feed_url):
         "dc": "http://purl.org/dc/elements/1.1/",
     }
 
-    entry = root.find(".//item")
+    entries = root.findall(".//item")
     is_atom = False
 
-    if entry is None:
-        entry = root.find("atom:entry", namespaces)
+    if not entries:
+        entries = root.findall("atom:entry", namespaces)
         is_atom = True
 
-    if entry is None:
-        return None
+    articles = []
 
-    if is_atom:
-        title = find_text(entry, ["atom:title"], namespaces)
-        summary = find_text(entry, ["atom:summary", "atom:content"], namespaces)
-        article_id = find_text(entry, ["atom:id"], namespaces)
+    for entry in entries[:limit]:
+        if is_atom:
+            title = find_text(entry, ["atom:title"], namespaces)
+            summary = find_text(entry, ["atom:summary", "atom:content"], namespaces)
+            article_id = find_text(entry, ["atom:id"], namespaces)
 
-        link_element = entry.find("atom:link", namespaces)
-        link = ""
-        if link_element is not None:
-            link = link_element.attrib.get("href", "")
-    else:
-        title = find_text(entry, ["title"], namespaces)
-        summary = find_text(entry, ["description", "content:encoded"], namespaces)
-        article_id = find_text(entry, ["guid"], namespaces)
-        link = find_text(entry, ["link"], namespaces)
+            link_element = entry.find("atom:link", namespaces)
+            link = ""
+            if link_element is not None:
+                link = link_element.attrib.get("href", "")
+        else:
+            title = find_text(entry, ["title"], namespaces)
+            summary = find_text(entry, ["description", "content:encoded"], namespaces)
+            article_id = find_text(entry, ["guid"], namespaces)
+            link = find_text(entry, ["link"], namespaces)
 
-    if not article_id:
-        article_id = link or title
+        if not article_id:
+            article_id = link or title
 
-    return {
-        "id": article_id,
-        "title": title,
-        "summary": summary,
-        "link": link,
-    }
+        if not article_id:
+            continue
+
+        articles.append({
+            "id": article_id,
+            "title": title,
+            "summary": summary,
+            "link": link,
+        })
+
+    return articles
 
 
 def send_discord(webhook_url, content):
@@ -241,9 +256,9 @@ def handle_rss_source(source, state):
         print(f"[{name}] RSS URL is empty. Skipped.")
         return
 
-    latest = fetch_rss_latest(feed_url)
+    articles = fetch_rss_entries(feed_url)
 
-    if latest is None:
+    if not articles:
         print(f"[{name}] No RSS entries found.")
         return
 
@@ -254,7 +269,9 @@ def handle_rss_source(source, state):
     if isinstance(sent_ids, str):
         sent_ids = [sent_ids]
 
-    if latest["id"] in sent_ids:
+    new_articles = [article for article in articles if article["id"] not in sent_ids]
+
+    if not new_articles:
         print(f"[{name}] No new article.")
         return
 
@@ -265,25 +282,25 @@ def handle_rss_source(source, state):
             f"Webhook secret not found: DISCORD_WEBHOOK_{webhook_name.upper()}"
         )
 
-    content_parts = [latest["title"]]
+    for article in reversed(new_articles):
+        content_parts = [article["title"]]
 
-    if latest["summary"]:
-        content_parts.append(latest["summary"])
+        if article["summary"]:
+            content_parts.append(article["summary"])
 
-    if latest["link"]:
-        content_parts.append(latest["link"])
+        if article["link"]:
+            content_parts.append(article["link"])
 
-    content = "\n\n".join(content_parts)
+        content = "\n\n".join(content_parts)
 
-    send_discord(webhook_url, content)
+        send_discord(webhook_url, content)
 
-    # 新しい記事を先頭に追加
-    sent_ids.insert(0, latest["id"])
+        sent_ids.insert(0, article["id"])
 
-    # 最新20件だけ保持
-    state[state_key] = sent_ids[:20]
+        print(f"[{name}] Sent: {article['title']}")
 
-    print(f"[{name}] Sent: {latest['title']}")
+    # 最新200件だけ保持
+    state[state_key] = sent_ids[:200]
 
 
 def main():
