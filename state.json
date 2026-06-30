@@ -14,6 +14,8 @@
         "https://www.bbc.co.uk/news/articles/clyw3rkj2p7o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015163871000",
+        "https://news.web.nhk/newsweb/na/na-k10015164501000",
         "https://news.web.nhk/newsweb/na/na-k10015164141000",
         "https://news.web.nhk/newsweb/na/na-k10015164611000",
         "https://news.web.nhk/newsweb/na/na-k10015164421000",
@@ -31,9 +33,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015164471000",
         "https://news.web.nhk/newsweb/na/na-k10015163811000",
         "https://news.web.nhk/newsweb/na/na-k10015163761000",
-        "https://news.web.nhk/newsweb/na/na-k10015164381000",
-        "https://news.web.nhk/newsweb/na/na-k10015164341000",
-        "https://news.web.nhk/newsweb/na/na-k10015163871000"
+        "https://news.web.nhk/newsweb/na/na-k10015164381000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/3coins-rain-item/",
