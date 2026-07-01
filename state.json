@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "6BCDHnJVM10",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "ykntOhsxoRQ",
     "rss:bbc": [
+        "https://www.bbc.co.uk/weather/articles/c4gyjvpl4eno#0",
         "https://www.bbc.co.uk/sport/football/articles/cvgd12vj79qo#0",
         "https://www.bbc.co.uk/news/articles/c70yk07vq0po#0",
         "https://www.bbc.co.uk/news/articles/c9w2nwg4zd5o#0",
@@ -200,10 +201,10 @@
         "https://www.bbc.co.uk/news/articles/cy8wygyed0wo#1",
         "https://www.bbc.co.uk/news/articles/clyw31zvpgmo#1",
         "https://www.bbc.co.uk/news/articles/c5yzlnp6p52o#0",
-        "https://www.bbc.co.uk/news/articles/cwy0rrnq317o#0",
-        "https://www.bbc.co.uk/news/articles/cdej6ej7w4go#0"
+        "https://www.bbc.co.uk/news/articles/cwy0rrnq317o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015166741000",
         "https://news.web.nhk/newsweb/na/na-k10015166761000",
         "https://news.web.nhk/newsweb/na/na-k10015163811000",
         "https://news.web.nhk/newsweb/na/na-k10015166531000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015163861000",
         "https://news.web.nhk/newsweb/na/na-k10015164361000",
         "https://news.web.nhk/newsweb/na/na-k10015164691000",
-        "https://news.web.nhk/newsweb/na/na-k10015164451000",
-        "https://news.web.nhk/newsweb/na/na-k10015164671000"
+        "https://news.web.nhk/newsweb/na/na-k10015164451000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/task_repetition_on_the_neural/",
