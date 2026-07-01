@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "6BCDHnJVM10",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "ykntOhsxoRQ",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c0ryjyvjq41o#0",
         "https://www.bbc.co.uk/news/articles/cddlgqpg7mzo#0",
         "https://www.bbc.co.uk/news/articles/clye2enp0lxo#0",
         "https://www.bbc.co.uk/news/articles/cgmepnx1wzzo#1",
@@ -200,10 +201,10 @@
         "https://www.bbc.co.uk/sport/tennis/articles/cd0mymk9d70o#1",
         "https://www.bbc.co.uk/news/articles/cx2xyx1qjnyo#1",
         "https://www.bbc.co.uk/news/articles/cwy0rw5dx1ko#0",
-        "https://www.bbc.co.uk/news/articles/cx2jw5q5pdzo#0",
-        "https://www.bbc.co.uk/news/articles/crkvr3xjxx3o#0"
+        "https://www.bbc.co.uk/news/articles/cx2jw5q5pdzo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015166341000",
         "https://news.web.nhk/newsweb/na/na-k10015166411000",
         "https://news.web.nhk/newsweb/na/na-k10015166331000",
         "https://news.web.nhk/newsweb/na/na-k10015166321000",
