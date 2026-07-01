@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cpq3yxdyx9do#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015166001000",
         "https://news.web.nhk/newsweb/na/na-k10015166191000",
         "https://news.web.nhk/newsweb/na/na-k10015166031000",
         "https://news.web.nhk/newsweb/na/na-k10015166181000",
@@ -373,6 +374,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015164441000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/enya_st1_review/",
         "https://www.gizmodo.jp/article/oxtak-money-penny-look/",
         "https://www.gizmodo.jp/article/ibm-crosses-one-of-computings-biggest-barriers-with-worlds-first-sub-1-nanometer-chip/",
         "https://www.gizmodo.jp/article/entirely-new-type-of-wood-macrofibril/",
