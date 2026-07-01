@@ -2,6 +2,8 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "6BCDHnJVM10",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "ykntOhsxoRQ",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c05yv34qlnlo#0",
+        "https://www.bbc.co.uk/news/articles/c77yeykgxlpo#0",
         "https://www.bbc.co.uk/news/articles/cx2xjwj8p39o#1",
         "https://www.bbc.co.uk/sport/football/articles/cvgd12vj79qo#1",
         "https://www.bbc.co.uk/news/articles/c9d2n8elwdlo#0",
@@ -199,11 +201,10 @@
         "https://www.bbc.co.uk/news/articles/c5yzd18dxzxo#0",
         "https://www.bbc.co.uk/news/articles/cy4eq1l184po#0",
         "https://www.bbc.co.uk/sport/football/videos/cm20j4m2k3xo#0",
-        "https://www.bbc.co.uk/sport/football/articles/c992kzk00kzo#0",
-        "https://www.bbc.co.uk/sport/football/articles/cm2dy359e8yo#0",
-        "https://www.bbc.co.uk/sport/football/articles/cqj1g9egd80o#0"
+        "https://www.bbc.co.uk/sport/football/articles/c992kzk00kzo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015166271000",
         "https://news.web.nhk/newsweb/na/na-k10015166221000",
         "https://news.web.nhk/newsweb/na/na-k10015166391000",
         "https://news.web.nhk/newsweb/na/na-k10015166641000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015164381000",
         "https://news.web.nhk/newsweb/na/na-k10015164341000",
         "https://news.web.nhk/newsweb/na/na-k10015163871000",
-        "https://news.web.nhk/newsweb/na/na-k10015164501000",
-        "https://news.web.nhk/newsweb/na/na-k10015164141000"
+        "https://news.web.nhk/newsweb/na/na-k10015164501000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/three_thule-enroute/",
