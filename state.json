@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/sport/football/articles/cqj1g9egd80o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015166391000",
         "https://news.web.nhk/newsweb/na/na-k10015166641000",
         "https://news.web.nhk/newsweb/na/na-k10015166721000",
         "https://news.web.nhk/newsweb/na/na-k10015166461000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015163871000",
         "https://news.web.nhk/newsweb/na/na-k10015164501000",
         "https://news.web.nhk/newsweb/na/na-k10015164141000",
-        "https://news.web.nhk/newsweb/na/na-k10015164611000",
-        "https://news.web.nhk/newsweb/na/na-k10015164421000"
+        "https://news.web.nhk/newsweb/na/na-k10015164611000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/three_thule-enroute/",
