@@ -2,6 +2,8 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "6BCDHnJVM10",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "ykntOhsxoRQ",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/ce37gd41gx1o#0",
+        "https://www.bbc.co.uk/news/articles/cj6gd6e706jo#0",
         "https://www.bbc.co.uk/news/articles/c3eyxjy01y3o#0",
         "https://www.bbc.co.uk/news/articles/cn4r8zlv8edo#0",
         "https://www.bbc.co.uk/news/articles/c77yejxnvpxo#0",
@@ -199,9 +201,7 @@
         "https://www.bbc.co.uk/news/articles/cwy0rrnq317o#1",
         "https://www.bbc.co.uk/news/articles/c0kkddzr874o#1",
         "https://www.bbc.co.uk/news/articles/cj4gz85erywo#0",
-        "https://www.bbc.co.uk/news/articles/cjeg15vw3z9o#1",
-        "https://www.bbc.co.uk/news/articles/c5yzkwen02ko#0",
-        "https://www.bbc.co.uk/news/articles/cpd3y6lv819o#1"
+        "https://www.bbc.co.uk/news/articles/cjeg15vw3z9o#1"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/na-k10015167311000",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015164561000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/the-folks-behind-beloved-hacker-tool-flipper-zero-have-a-new-device-for-focus/",
         "https://www.gizmodo.jp/article/qurra-clothes-dryer-hfr-mrx/",
         "https://www.gizmodo.jp/article/1e13e07b-9c1f-4967-ae62-2c655bd2609e/",
         "https://www.gizmodo.jp/article/cats-ginger-tabbies-qef-zhf/",
