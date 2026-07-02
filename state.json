@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "_zawxvSuoIA",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "CG-Z396jruo",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c5yz9j7v0z6o#0",
         "https://www.bbc.co.uk/news/articles/c2ky3p9jlveo#0",
         "https://www.bbc.co.uk/news/articles/ckg4807pn9lo#0",
         "https://www.bbc.co.uk/news/articles/cevlkzer7vdo#0",
@@ -200,10 +201,10 @@
         "https://www.bbc.co.uk/news/articles/c3vy7z35ve0o#0",
         "https://www.bbc.co.uk/news/articles/cd95jzy4zyeo#0",
         "https://www.bbc.co.uk/sport/football/articles/cz9lq5y9pj2o#0",
-        "https://www.bbc.co.uk/news/articles/cdr42623e1do#1",
-        "https://www.bbc.co.uk/news/articles/cdr42623e1do#0"
+        "https://www.bbc.co.uk/news/articles/cdr42623e1do#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015167641000",
         "https://news.web.nhk/newsweb/na/na-k10015167631000",
         "https://news.web.nhk/newsweb/na/na-k10015167691000",
         "https://news.web.nhk/newsweb/na/na-k10015167551000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015165041000",
         "https://news.web.nhk/newsweb/na/na-k10015165031000",
         "https://news.web.nhk/newsweb/na/na-k10015165021000",
-        "https://news.web.nhk/newsweb/na/na-k10015164771000",
-        "https://news.web.nhk/newsweb/na/na-k10015164991000"
+        "https://news.web.nhk/newsweb/na/na-k10015164771000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/nasa-chief-and-elon-musk-are-dreaming-of-antimatter-propulsion/",
