@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/c79yvw23yr9o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015163271000",
+        "https://news.web.nhk/newsweb/na/na-k10015167161000",
         "https://news.web.nhk/newsweb/na/na-k10015161591000",
         "https://news.web.nhk/newsweb/na/na-k10015167131000",
         "https://news.web.nhk/newsweb/na/na-k10015167101000",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015164251000",
         "https://news.web.nhk/newsweb/na/na-k10015164101000",
         "https://news.web.nhk/newsweb/na/na-k10015164511000",
-        "https://news.web.nhk/newsweb/na/na-k10015164471000",
-        "https://news.web.nhk/newsweb/na/na-k10015164431000",
-        "https://news.web.nhk/newsweb/na/na-k10015164351000"
+        "https://news.web.nhk/newsweb/na/na-k10015164471000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/simon-says-buy-this-openai-mechanical-keyboard-thingy/",
