@@ -2,6 +2,10 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "_zawxvSuoIA",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "CG-Z396jruo",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cx2wllrlrxgo#0",
+        "https://www.bbc.co.uk/news/articles/cwyd3nxr5ggo#1",
+        "https://www.bbc.co.uk/news/articles/cj6gr0xkyr3o#0",
+        "https://www.bbc.co.uk/news/articles/crkvlekgy07o#1",
         "https://www.bbc.co.uk/news/articles/c75ykve4zzxo#1",
         "https://www.bbc.co.uk/sport/cricket/articles/cy731p46j5mo#0",
         "https://www.bbc.co.uk/news/articles/ce95y1zlzyxo#0",
@@ -197,11 +201,7 @@
         "https://www.bbc.co.uk/news/articles/c70yj1749j0o#0",
         "https://www.bbc.co.uk/news/articles/cvg51ppny7po#1",
         "https://www.bbc.co.uk/news/articles/cvg51ppny7po#0",
-        "https://www.bbc.co.uk/news/articles/cr7x3njjdeko#1",
-        "https://www.bbc.co.uk/news/articles/cly8x4dlxg5o#0",
-        "https://www.bbc.co.uk/news/articles/c4gy7r0n9qno#0",
-        "https://www.bbc.co.uk/news/videos/cy06378zyl3o#0",
-        "https://www.bbc.co.uk/news/articles/cnv96j5qdgmo#0"
+        "https://www.bbc.co.uk/news/articles/cr7x3njjdeko#1"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/na-k10015167751000",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015165141000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/urxr-one/",
         "https://www.gizmodo.jp/article/july7-siguma-post/",
         "https://www.gizmodo.jp/article/seal-destroying-traffic-cones/",
         "https://www.gizmodo.jp/article/nasa-chief-and-elon-musk-are-dreaming-of-antimatter-propulsion/",
