@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c9q2prq8301o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015167451000",
         "https://news.web.nhk/newsweb/na/na-k10015167441000",
         "https://news.web.nhk/newsweb/na/na-k10015167431000",
         "https://news.web.nhk/newsweb/na/na-k10015167421000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015164961000",
         "https://news.web.nhk/newsweb/na/na-k10015133001000",
         "https://news.web.nhk/newsweb/na/na-k10015164911000",
-        "https://news.web.nhk/newsweb/na/na-k10015164921000",
-        "https://news.web.nhk/newsweb/na/na-k10015164861000"
+        "https://news.web.nhk/newsweb/na/na-k10015164921000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/hp-omnibook-ultra-review-perfect-if-not-for-the-little-things/",
