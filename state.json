@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c4gy843m5lno#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015167181000",
         "https://news.web.nhk/newsweb/na/na-k10015167191000",
         "https://news.web.nhk/newsweb/na/na-k10015167171000",
         "https://news.web.nhk/newsweb/na/na-k10015163271000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015164331000",
         "https://news.web.nhk/newsweb/na/na-k10015164261000",
         "https://news.web.nhk/newsweb/na/na-k10015164411000",
-        "https://news.web.nhk/newsweb/na/na-k10015164251000",
-        "https://news.web.nhk/newsweb/na/na-k10015164101000"
+        "https://news.web.nhk/newsweb/na/na-k10015164251000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/amazon-sony-inzone-buds/",
