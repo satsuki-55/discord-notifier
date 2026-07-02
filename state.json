@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/videos/cz75y2rggppo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015166861000",
         "https://news.web.nhk/newsweb/na/na-k10015166991000",
         "https://news.web.nhk/newsweb/na/na-k10015167071000",
         "https://news.web.nhk/newsweb/na/na-k10015167001000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015164291000",
         "https://news.web.nhk/newsweb/na/na-k10015164231000",
         "https://news.web.nhk/newsweb/na/na-k10015158601000",
-        "https://news.web.nhk/newsweb/na/na-k10015158471000",
-        "https://news.web.nhk/newsweb/na/na-k10015162871000"
+        "https://news.web.nhk/newsweb/na/na-k10015158471000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/google-android-alert/",
