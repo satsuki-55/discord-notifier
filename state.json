@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c5yzlnp6p52o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015166821000",
         "https://news.web.nhk/newsweb/na/na-k10015166831000",
         "https://news.web.nhk/newsweb/na/na-k10015166791000",
         "https://news.web.nhk/newsweb/na/na-k10015166741000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015160781000",
         "https://news.web.nhk/newsweb/na/na-k10015164321000",
         "https://news.web.nhk/newsweb/na/na-k10015164001000",
-        "https://news.web.nhk/newsweb/na/na-k10015163861000",
-        "https://news.web.nhk/newsweb/na/na-k10015164361000"
+        "https://news.web.nhk/newsweb/na/na-k10015163861000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/task_repetition_on_the_neural/",
