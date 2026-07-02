@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "6BCDHnJVM10",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "ykntOhsxoRQ",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/clye9zn0y1ro#0",
         "https://www.bbc.co.uk/news/videos/cx2xw52ng5do#0",
         "https://www.bbc.co.uk/news/articles/c9d2n8elwdlo#1",
         "https://www.bbc.co.uk/news/articles/c1jyk4985xwo#1",
@@ -200,10 +201,10 @@
         "https://www.bbc.co.uk/sport/football/articles/c5yz3yjgp5yo#1",
         "https://www.bbc.co.uk/sport/football/articles/c992kzk00kzo#1",
         "https://www.bbc.co.uk/news/articles/cqj1210rj0yo#1",
-        "https://www.bbc.co.uk/news/articles/c17yzzw1vkjo#1",
-        "https://www.bbc.co.uk/news/videos/cz75y2rggppo#1"
+        "https://www.bbc.co.uk/news/articles/c17yzzw1vkjo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015167111000",
         "https://news.web.nhk/newsweb/na/na-k10015167091000",
         "https://news.web.nhk/newsweb/na/na-k10015162871000",
         "https://news.web.nhk/newsweb/na/na-k10015166861000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015159801000",
         "https://news.web.nhk/newsweb/na/na-k10015159441000",
         "https://news.web.nhk/newsweb/na/na-k10015164311000",
-        "https://news.web.nhk/newsweb/na/na-k10015164291000",
-        "https://news.web.nhk/newsweb/na/na-k10015164231000"
+        "https://news.web.nhk/newsweb/na/na-k10015164291000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/sony-aibo-discontinued/",
