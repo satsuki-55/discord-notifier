@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c0kkddzr874o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015167381000",
         "https://news.web.nhk/newsweb/na/na-k10015167261000",
         "https://news.web.nhk/newsweb/na/na-k10015167301000",
         "https://news.web.nhk/newsweb/na/na-k10015167291000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015164761000",
         "https://news.web.nhk/newsweb/na/na-k10015164731000",
         "https://news.web.nhk/newsweb/na/na-k10015164641000",
-        "https://news.web.nhk/newsweb/na/na-k10015164661000",
-        "https://news.web.nhk/newsweb/na/na-k10015164781000"
+        "https://news.web.nhk/newsweb/na/na-k10015164661000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/muji-labo_crew_neck_tshirt/",
