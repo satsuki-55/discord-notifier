@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c5yzlnp6p52o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015166841000",
         "https://news.web.nhk/newsweb/na/na-k10015166751000",
         "https://news.web.nhk/newsweb/na/na-k10015166821000",
         "https://news.web.nhk/newsweb/na/na-k10015166831000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015158431000",
         "https://news.web.nhk/newsweb/na/na-k10015160931000",
         "https://news.web.nhk/newsweb/na/na-k10015160781000",
-        "https://news.web.nhk/newsweb/na/na-k10015164321000",
-        "https://news.web.nhk/newsweb/na/na-k10015164001000"
+        "https://news.web.nhk/newsweb/na/na-k10015164321000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/nasas-moon-plan-depends-on-15-starship-launches-theres-just-one-problem/",
