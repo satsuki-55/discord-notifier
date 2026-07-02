@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/clyw31zvpgmo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015166911000",
         "https://news.web.nhk/newsweb/na/na-k10015166901000",
         "https://news.web.nhk/newsweb/na/na-k10015166881000",
         "https://news.web.nhk/newsweb/na/na-k10015166891000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015161471000",
         "https://news.web.nhk/newsweb/na/na-k10015160961000",
         "https://news.web.nhk/newsweb/na/na-k10015164281000",
-        "https://news.web.nhk/newsweb/na/na-k10015164401000",
-        "https://news.web.nhk/newsweb/na/na-k10015164301000"
+        "https://news.web.nhk/newsweb/na/na-k10015164401000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/the-foundation-of-an-artificial-island-in-scotland-lying-at-thebottomof-a-lake-dates-back-more-than-5000-years-kmn/",
