@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cjeg15vw3z9o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015167351000",
         "https://news.web.nhk/newsweb/na/na-k10015167311000",
         "https://news.web.nhk/newsweb/na/na-k10015166871000",
         "https://news.web.nhk/newsweb/na/na-k10015167251000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015164741000",
         "https://news.web.nhk/newsweb/na/na-k10015164751000",
         "https://news.web.nhk/newsweb/na/na-k10015164791000",
-        "https://news.web.nhk/newsweb/na/na-k10015164651000",
-        "https://news.web.nhk/newsweb/na/na-k10015164561000"
+        "https://news.web.nhk/newsweb/na/na-k10015164651000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/the-folks-behind-beloved-hacker-tool-flipper-zero-have-a-new-device-for-focus/",
