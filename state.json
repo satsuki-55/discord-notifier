@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "_zawxvSuoIA",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "ykntOhsxoRQ",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c3wy317d71jo#0",
         "https://www.bbc.co.uk/news/articles/c2lywez0zddo#0",
         "https://www.bbc.co.uk/news/articles/ce37gd41gx1o#1",
         "https://www.bbc.co.uk/news/articles/cr471w6ykxno#0",
@@ -200,8 +201,7 @@
         "https://www.bbc.co.uk/news/articles/cj40x888d9go#1",
         "https://www.bbc.co.uk/news/videos/c621d53wqw0o#0",
         "https://www.bbc.co.uk/news/articles/cwy09753nq3o#0",
-        "https://www.bbc.co.uk/news/articles/crlw4ng79wzo#1",
-        "https://www.bbc.co.uk/news/articles/cn07ew5n2jro#0"
+        "https://www.bbc.co.uk/news/articles/crlw4ng79wzo#1"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/na-k10015167561000",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015164971000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/individual_locomotor_bias/",
         "https://www.gizmodo.jp/article/biccamera_bicidea_pcstand/",
         "https://www.gizmodo.jp/article/yamazakijitsugyo-slidepanel/",
         "https://www.gizmodo.jp/article/hp-omnibook-ultra-review-perfect-if-not-for-the-little-things/",
