@@ -1,5 +1,5 @@
 {
-    "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "_zawxvSuoIA",
+    "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "6BCDHnJVM10",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "ykntOhsxoRQ",
     "rss:bbc": [
         "https://www.bbc.co.uk/news/articles/cvgj0pp5p62o#0",
@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cwy0rrnq317o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015167151000",
         "https://news.web.nhk/newsweb/na/na-k10015167331000",
         "https://news.web.nhk/newsweb/na/na-k10015167271000",
         "https://news.web.nhk/newsweb/na/na-k10015167361000",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/na-k10015164851000",
         "https://news.web.nhk/newsweb/na/na-k10015164841000",
         "https://news.web.nhk/newsweb/na/na-k10015164831000",
-        "https://news.web.nhk/newsweb/na/na-k10015164721000",
-        "https://news.web.nhk/newsweb/na/na-k10015164761000"
+        "https://news.web.nhk/newsweb/na/na-k10015164721000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/3coins-folding-laundry-hanger/",
         "https://www.gizmodo.jp/article/muji-labo_crew_neck_tshirt/",
         "https://www.gizmodo.jp/article/the-folks-behind-beloved-hacker-tool-flipper-zero-have-a-new-device-for-focus/",
         "https://www.gizmodo.jp/article/qurra-clothes-dryer-hfr-mrx/",
