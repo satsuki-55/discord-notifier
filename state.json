@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cn751pkmgyxo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015168111000",
         "https://news.web.nhk/newsweb/na/na-k10015165691000",
         "https://news.web.nhk/newsweb/na/na-k10015168241000",
         "https://news.web.nhk/newsweb/na/na-k10015168231000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015163791000",
         "https://news.web.nhk/newsweb/na/na-k10015165951000",
         "https://news.web.nhk/newsweb/na/na-k10015165811000",
-        "https://news.web.nhk/newsweb/na/na-k10015133061000",
-        "https://news.web.nhk/newsweb/na/na-k10015165961000"
+        "https://news.web.nhk/newsweb/na/na-k10015133061000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/best_running-shoes_2026first-half/",
