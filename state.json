@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c0ky1v2e275o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015168071000",
         "https://news.web.nhk/newsweb/na/na-k10015165431000",
         "https://news.web.nhk/newsweb/na/na-k10015168081000",
         "https://news.web.nhk/newsweb/na/na-k10015167821000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015165501000",
         "https://news.web.nhk/newsweb/na/na-k10015165471000",
         "https://news.web.nhk/newsweb/na/na-k10015165661000",
-        "https://news.web.nhk/newsweb/na/na-k10015165441000",
-        "https://news.web.nhk/newsweb/na/na-k10015165461000"
+        "https://news.web.nhk/newsweb/na/na-k10015165441000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/parasom-nephone/",
