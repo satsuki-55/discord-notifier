@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cn751pkmgyxo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015167891000",
         "https://news.web.nhk/newsweb/na/na-k10015168191000",
         "https://news.web.nhk/newsweb/na/na-k10015168051000",
         "https://news.web.nhk/newsweb/na/na-k10015168101000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015165761000",
         "https://news.web.nhk/newsweb/na/na-k10015165681000",
         "https://news.web.nhk/newsweb/na/na-k10015165751000",
-        "https://news.web.nhk/newsweb/na/na-k10015165711000",
-        "https://news.web.nhk/newsweb/na/na-k10015165501000"
+        "https://news.web.nhk/newsweb/na/na-k10015165711000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/convert_into_a_shoulder_bag_with_metal-rings_snatch-c20-lgq/",
