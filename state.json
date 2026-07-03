@@ -2,6 +2,8 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "y1HsCDJUcdw",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "HfaLiCqL3cU",
     "rss:bbc": [
+        "https://www.bbc.co.uk/weather/articles/cjdg98g8lg8o#0",
+        "https://www.bbc.co.uk/news/articles/c8e2j0z7xgxo#0",
         "https://www.bbc.co.uk/news/articles/cddlgqpg7mzo#0",
         "https://www.bbc.co.uk/news/articles/c0ryjyvjq41o#0",
         "https://www.bbc.co.uk/news/articles/cwylkvpl80xo#0",
@@ -199,9 +201,7 @@
         "https://www.bbc.co.uk/news/articles/c0ryjyvjq41o#1",
         "https://www.bbc.co.uk/news/articles/c14ymy41v5go#0",
         "https://www.bbc.co.uk/news/articles/cdxdgpgn0zwo#0",
-        "https://www.bbc.co.uk/news/articles/cvgl8lp1p4lo#0",
-        "https://www.bbc.co.uk/news/articles/c4gy843m5lno#1",
-        "https://www.bbc.co.uk/weather/articles/cjdg98g8lg8o#0"
+        "https://www.bbc.co.uk/news/articles/cvgl8lp1p4lo#0"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/na-k10015168521000",
