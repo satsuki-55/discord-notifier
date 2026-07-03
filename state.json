@@ -1,6 +1,6 @@
 {
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "_zawxvSuoIA",
-    "youtube:UCjJmYy279ehSYSwR1A3fXtA": "HfaLiCqL3cU",
+    "youtube:UCjJmYy279ehSYSwR1A3fXtA": "CG-Z396jruo",
     "rss:bbc": [
         "https://www.bbc.co.uk/news/articles/cvgm4e0316zo#0",
         "https://www.bbc.co.uk/news/articles/cj0gez6d50ro#0",
@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cddlnqy8zmqo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015166311000",
         "https://news.web.nhk/newsweb/na/na-k10015168021000",
         "https://news.web.nhk/newsweb/na/na-k10015167911000",
         "https://news.web.nhk/newsweb/na/na-k10015167831000",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/na-k10015165381000",
         "https://news.web.nhk/newsweb/na/na-k10015165321000",
         "https://news.web.nhk/newsweb/na/na-k10015165411000",
-        "https://news.web.nhk/newsweb/na/na-k10015165341000",
-        "https://news.web.nhk/newsweb/na/na-k10015165361000"
+        "https://news.web.nhk/newsweb/na/na-k10015165341000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/solar-storms-trigger-instant-changes-in-earths-weather-study-suggests-jpn/",
         "https://www.gizmodo.jp/article/amazon-gorilla-dryer/",
         "https://www.gizmodo.jp/article/muji-2026ss-sandal/",
         "https://www.gizmodo.jp/article/antarcticas-oldest-largest-iceberg-is-turning-an-ominous-blue-color-9g7-hso/",
