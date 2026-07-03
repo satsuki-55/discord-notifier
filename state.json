@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cly8x4dlxg5o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015167841000",
         "https://news.web.nhk/newsweb/na/na-k10015167961000",
         "https://news.web.nhk/newsweb/na/na-k10015167941000",
         "https://news.web.nhk/newsweb/na/na-k10015167901000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015165221000",
         "https://news.web.nhk/newsweb/na/na-k10015165201000",
         "https://news.web.nhk/newsweb/na/na-k10015165261000",
-        "https://news.web.nhk/newsweb/na/na-k10015165081000",
-        "https://news.web.nhk/newsweb/na/na-k10015165171000"
+        "https://news.web.nhk/newsweb/na/na-k10015165081000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/muji-2026ss-sandal/",
