@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "_zawxvSuoIA",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "HfaLiCqL3cU",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cr471w6ykxno#1",
         "https://www.bbc.co.uk/news/articles/cx2k4k7jqeno#0",
         "https://www.bbc.co.uk/news/articles/c1mykzj15xno#1",
         "https://www.bbc.co.uk/news/articles/c3wylj128qlo#0",
@@ -200,10 +201,10 @@
         "https://www.bbc.co.uk/news/articles/c74y7wdgy49o#1",
         "https://www.bbc.co.uk/news/articles/cn8k7p74z31o#0",
         "https://www.bbc.co.uk/news/articles/cz9lqvx0z1vo#1",
-        "https://www.bbc.co.uk/news/articles/c621dx0vl7xo#0",
-        "https://www.bbc.co.uk/news/articles/c0ky1v2e275o#0"
+        "https://www.bbc.co.uk/news/articles/c621dx0vl7xo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015168101000",
         "https://news.web.nhk/newsweb/na/na-k10015168071000",
         "https://news.web.nhk/newsweb/na/na-k10015165431000",
         "https://news.web.nhk/newsweb/na/na-k10015168081000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015165711000",
         "https://news.web.nhk/newsweb/na/na-k10015165501000",
         "https://news.web.nhk/newsweb/na/na-k10015165471000",
-        "https://news.web.nhk/newsweb/na/na-k10015165661000",
-        "https://news.web.nhk/newsweb/na/na-k10015165441000"
+        "https://news.web.nhk/newsweb/na/na-k10015165661000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/parasom-nephone/",
