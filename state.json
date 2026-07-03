@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/clye2enp0lxo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015166111000",
+        "https://news.web.nhk/newsweb/na/na-k10015168471000",
         "https://news.web.nhk/newsweb/na/na-k10015166151000",
         "https://news.web.nhk/newsweb/na/na-k10015168291000",
         "https://news.web.nhk/newsweb/na/na-k10015166121000",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015166191000",
         "https://news.web.nhk/newsweb/na/na-k10015166031000",
         "https://news.web.nhk/newsweb/na/na-k10015166181000",
-        "https://news.web.nhk/newsweb/na/na-k10015166211000",
-        "https://news.web.nhk/newsweb/na/na-k10015166201000",
-        "https://news.web.nhk/newsweb/na/na-k10015166111000"
+        "https://news.web.nhk/newsweb/na/na-k10015166211000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/china-smart-glasses-privacy-code/",
