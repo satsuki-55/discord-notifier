@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cvgl8lp1p4lo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015168541000",
         "https://news.web.nhk/newsweb/na/na-k10015168521000",
         "https://news.web.nhk/newsweb/na/na-k10015168381000",
         "https://news.web.nhk/newsweb/na/na-k10015168501000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015166041000",
         "https://news.web.nhk/newsweb/na/na-k10015166131000",
         "https://news.web.nhk/newsweb/na/na-k10015166171000",
-        "https://news.web.nhk/newsweb/na/na-k10015166001000",
-        "https://news.web.nhk/newsweb/na/na-k10015166191000"
+        "https://news.web.nhk/newsweb/na/na-k10015166001000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/nitori_foldable-cordless-fan/",
