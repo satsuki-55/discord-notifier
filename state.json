@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "_zawxvSuoIA",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "HfaLiCqL3cU",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/ce8ml4q37veo#1",
         "https://www.bbc.co.uk/news/articles/c2l9vvj097lo#1",
         "https://www.bbc.co.uk/news/articles/c1mykzj15xno#0",
         "https://www.bbc.co.uk/news/articles/cn0vwxyz40zo#1",
@@ -200,8 +201,7 @@
         "https://www.bbc.co.uk/news/articles/cx2xjwj8p39o#0",
         "https://www.bbc.co.uk/news/articles/cy9rgg9ddw2o#0",
         "https://www.bbc.co.uk/news/articles/ce8j24ng6p0o#0",
-        "https://www.bbc.co.uk/sport/football/articles/c17y8r90082o#0",
-        "https://www.bbc.co.uk/news/articles/cd6ezln069vo#0"
+        "https://www.bbc.co.uk/sport/football/articles/c17y8r90082o#0"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/na-k10015168041000",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015165401000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/iran_war_gold_price_repost/",
         "https://www.gizmodo.jp/article/samsung-rollerable-smartphone/",
         "https://www.gizmodo.jp/article/apple-confidential-information-leak-dark-web/",
         "https://www.gizmodo.jp/article/solar-storms-trigger-instant-changes-in-earths-weather-study-suggests-jpn/",
