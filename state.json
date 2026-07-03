@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cly8x4dlxg5o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015167901000",
         "https://news.web.nhk/newsweb/na/na-k10015167861000",
         "https://news.web.nhk/newsweb/na/na-k10015167871000",
         "https://news.web.nhk/newsweb/na/na-k10015167801000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015165081000",
         "https://news.web.nhk/newsweb/na/na-k10015165171000",
         "https://news.web.nhk/newsweb/na/na-k10015164901000",
-        "https://news.web.nhk/newsweb/na/na-k10015165101000",
-        "https://news.web.nhk/newsweb/na/na-k10015165351000"
+        "https://news.web.nhk/newsweb/na/na-k10015165101000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/bernie-sanders-new-ai-bill-would-pay-americans-1000-a-year/",
