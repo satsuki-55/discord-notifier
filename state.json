@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/weather/articles/c4gyjvpl4eno#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015169201000",
         "https://news.web.nhk/newsweb/na/na-k10015169221000",
         "https://news.web.nhk/newsweb/na/na-k10015166561000",
         "https://news.web.nhk/newsweb/na/na-k10015169131000",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/na-k10015166461000",
         "https://news.web.nhk/newsweb/na/na-k10015166711000",
         "https://news.web.nhk/newsweb/na/na-k10015166681000",
-        "https://news.web.nhk/newsweb/na/na-k10015166401000",
-        "https://news.web.nhk/newsweb/na/na-k10015166521000"
+        "https://news.web.nhk/newsweb/na/na-k10015166401000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/water_light_cogit/",
         "https://www.gizmodo.jp/article/elecom_nestout_solar-2/",
         "https://www.gizmodo.jp/article/amnazon-annker-nano-power-strip/",
         "https://www.gizmodo.jp/article/workman-square-vacuum-hybrid-container-review-awe/",
