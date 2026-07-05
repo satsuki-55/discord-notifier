@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c3eyxjy01y3o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015169351000",
         "https://news.web.nhk/newsweb/na/na-k10015169331000",
         "https://news.web.nhk/newsweb/na/na-k10015169341000",
         "https://news.web.nhk/newsweb/na/na-k10015169321000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015166531000",
         "https://news.web.nhk/newsweb/na/na-k10015166731000",
         "https://news.web.nhk/newsweb/na/na-k10015166511000",
-        "https://news.web.nhk/newsweb/na/na-k10015166291000",
-        "https://news.web.nhk/newsweb/na/na-k10015166671000"
+        "https://news.web.nhk/newsweb/na/na-k10015166291000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/earth-could-survive-the-suns-bloated-death-stage-but-theres-a-catch/",
