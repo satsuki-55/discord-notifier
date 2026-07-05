@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c1jyk4985xwo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015169241000",
         "https://news.web.nhk/newsweb/na/na-k10015168941000",
         "https://news.web.nhk/newsweb/na/na-k10015169211000",
         "https://news.web.nhk/newsweb/na/na-k10015169201000",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/na-k10015166391000",
         "https://news.web.nhk/newsweb/na/na-k10015166641000",
         "https://news.web.nhk/newsweb/na/na-k10015166721000",
-        "https://news.web.nhk/newsweb/na/na-k10015166461000",
-        "https://news.web.nhk/newsweb/na/na-k10015166711000"
+        "https://news.web.nhk/newsweb/na/na-k10015166461000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/nitori_seiro_lifestyle/",
         "https://www.gizmodo.jp/article/788ad845-55f1-48bd-986e-6471cc445ec4/",
         "https://www.gizmodo.jp/article/apples-hide-my-email-feature-may-reveal-users-real-addresses/",
         "https://www.gizmodo.jp/article/shiftall_chillerx-guq/",
