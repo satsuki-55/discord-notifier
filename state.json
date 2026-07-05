@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c0myggk4ngmo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015169471000",
         "https://news.web.nhk/newsweb/na/na-k10015167281000",
         "https://news.web.nhk/newsweb/na/na-k10015169501000",
         "https://news.web.nhk/newsweb/na/na-k10015169441000",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/na-k10015166891000",
         "https://news.web.nhk/newsweb/na/na-k10015166781000",
         "https://news.web.nhk/newsweb/na/na-k10015166801000",
-        "https://news.web.nhk/newsweb/na/na-k10015166841000",
-        "https://news.web.nhk/newsweb/na/na-k10015166751000"
+        "https://news.web.nhk/newsweb/na/na-k10015166841000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/neanderthals-developed-in-the-womb/",
         "https://www.gizmodo.jp/article/i-let-a-brain-scanning-headset-prime-my-focus-to-make-me-a-better-gamer/",
         "https://www.gizmodo.jp/article/battery_smart_watchs/",
         "https://www.gizmodo.jp/article/corona_window-airconditioner_relala-1-ppr/",
