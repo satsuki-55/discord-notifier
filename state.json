@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cn751pkmgyxo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015169401000",
         "https://news.web.nhk/newsweb/na/na-k10015169411000",
         "https://news.web.nhk/newsweb/na/na-k10015169361000",
         "https://news.web.nhk/newsweb/na/na-k10015169311000",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/na-k10015166751000",
         "https://news.web.nhk/newsweb/na/na-k10015166821000",
         "https://news.web.nhk/newsweb/na/na-k10015166831000",
-        "https://news.web.nhk/newsweb/na/na-k10015166791000",
-        "https://news.web.nhk/newsweb/na/na-k10015166741000"
+        "https://news.web.nhk/newsweb/na/na-k10015166791000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/battery_smart_watchs/",
         "https://www.gizmodo.jp/article/corona_window-airconditioner_relala-1-ppr/",
         "https://www.gizmodo.jp/article/diversity-in-streaming-movies-is-shrinking-and-trumps-anti-dei-crusade-could-make-it-worse/",
         "https://www.gizmodo.jp/article/the-tiny-ai-model-that-lives-inside-the-chrome-browser-hallucinates-a-whole-lot-zce/",
