@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c3eyxjy01y3o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015169311000",
         "https://news.web.nhk/newsweb/na/na-k10015169121000",
         "https://news.web.nhk/newsweb/na/na-k10015169381000",
         "https://news.web.nhk/newsweb/na/na-k10015169371000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015166791000",
         "https://news.web.nhk/newsweb/na/na-k10015166741000",
         "https://news.web.nhk/newsweb/na/na-k10015166761000",
-        "https://news.web.nhk/newsweb/na/na-k10015163811000",
-        "https://news.web.nhk/newsweb/na/na-k10015166531000"
+        "https://news.web.nhk/newsweb/na/na-k10015163811000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/diversity-in-streaming-movies-is-shrinking-and-trumps-anti-dei-crusade-could-make-it-worse/",
