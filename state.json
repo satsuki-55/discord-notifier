@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c2l9vvj097lo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015169651000",
         "https://news.web.nhk/newsweb/na/na-k10015169611000",
         "https://news.web.nhk/newsweb/na/na-k10015169511000",
         "https://news.web.nhk/newsweb/na/na-k10015169561000",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/na-k10015167081000",
         "https://news.web.nhk/newsweb/na/na-k10015167111000",
         "https://news.web.nhk/newsweb/na/na-k10015167091000",
-        "https://news.web.nhk/newsweb/na/na-k10015162871000",
-        "https://news.web.nhk/newsweb/na/na-k10015166861000"
+        "https://news.web.nhk/newsweb/na/na-k10015162871000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/oracles-data-center-warning-is-a-worst-case-scenario-for-the-whole-ai-boom/",
         "https://www.gizmodo.jp/article/oracle-cuts-21000-jobs-in-one-year-blames-ai-for-at-least-some/",
         "https://www.gizmodo.jp/article/3c8c6fd3-68a4-4e21-a5bd-96bea795d72d-uvh/",
         "https://www.gizmodo.jp/article/rubin-observatory-begins-its-10-year-survey-of-the-universe/",
