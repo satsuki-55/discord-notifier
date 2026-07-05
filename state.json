@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/weather/articles/c4gyjvpl4eno#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015166561000",
         "https://news.web.nhk/newsweb/na/na-k10015169131000",
         "https://news.web.nhk/newsweb/na/na-k10015169001000",
         "https://news.web.nhk/newsweb/na/na-k10015140541000",
@@ -402,10 +403,11 @@
         "https://news.web.nhk/newsweb/na/na-k10015166681000",
         "https://news.web.nhk/newsweb/na/na-k10015166401000",
         "https://news.web.nhk/newsweb/na/na-k10015166521000",
-        "https://news.web.nhk/newsweb/na/na-k10015166431000",
-        "https://news.web.nhk/newsweb/na/na-k10015166701000"
+        "https://news.web.nhk/newsweb/na/na-k10015166431000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/workman-square-vacuum-hybrid-container-review-awe/",
+        "https://www.gizmodo.jp/article/spacex/",
         "https://www.gizmodo.jp/article/meta-fury-ai-glasses-review-the-worst-company-still-makes-the-best-smart-glasses/",
         "https://www.gizmodo.jp/article/illinois-could-become-the-first-state-to-ban-drivers-from-wearing-smart-glasses/",
         "https://www.gizmodo.jp/article/convenience_wares_summary/",
