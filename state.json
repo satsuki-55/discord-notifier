@@ -204,6 +204,10 @@
         "https://www.bbc.co.uk/news/articles/c4gyv05gk4do#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015170441000",
+        "https://news.web.nhk/newsweb/na/na-k10015170471000",
+        "https://news.web.nhk/newsweb/na/na-k10015170501000",
+        "https://news.web.nhk/newsweb/na/na-k10015170491000",
         "https://news.web.nhk/newsweb/na/na-k10015170481000",
         "https://news.web.nhk/newsweb/na/na-k10015170421000",
         "https://news.web.nhk/newsweb/na/na-k10015170321000",
@@ -399,11 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015167911000",
         "https://news.web.nhk/newsweb/na/na-k10015167831000",
         "https://news.web.nhk/newsweb/na/na-k10015167921000",
-        "https://news.web.nhk/newsweb/na/na-k10015167841000",
-        "https://news.web.nhk/newsweb/na/na-k10015167961000",
-        "https://news.web.nhk/newsweb/na/na-k10015167941000",
-        "https://news.web.nhk/newsweb/na/na-k10015167901000",
-        "https://news.web.nhk/newsweb/na/na-k10015167861000"
+        "https://news.web.nhk/newsweb/na/na-k10015167841000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/amazon-primeday-apple-products/",
