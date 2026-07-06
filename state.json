@@ -2,6 +2,8 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "Vfpr-ly554w",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "3ooKjxpGFjQ",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cj6gr0xkyr3o#0",
+        "https://www.bbc.co.uk/news/articles/cx2kkrndr00o#1",
         "https://www.bbc.co.uk/news/articles/cp3xxz1g25go#0",
         "https://www.bbc.co.uk/news/articles/cp8rpn75gmgo#1",
         "https://www.bbc.co.uk/news/videos/c1kyylkz9vyo#0",
@@ -199,11 +201,10 @@
         "https://www.bbc.co.uk/news/articles/cj6g0rdy40jo#0",
         "https://www.bbc.co.uk/news/articles/c78yj9p0m91o#0",
         "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o#1",
-        "https://www.bbc.co.uk/news/articles/cx2wllrlrxgo#0",
-        "https://www.bbc.co.uk/news/articles/cwyd3nxr5ggo#1",
-        "https://www.bbc.co.uk/news/articles/cj6gr0xkyr3o#0"
+        "https://www.bbc.co.uk/news/articles/cx2wllrlrxgo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015170241000",
         "https://news.web.nhk/newsweb/na/na-k10015167631000",
         "https://news.web.nhk/newsweb/na/na-k10015168921000",
         "https://news.web.nhk/newsweb/na/na-k10015170191000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015167621000",
         "https://news.web.nhk/newsweb/na/na-k10015167541000",
         "https://news.web.nhk/newsweb/na/na-k10015167671000",
-        "https://news.web.nhk/newsweb/na/na-k10015167711000",
-        "https://news.web.nhk/newsweb/na/na-k10015167701000"
+        "https://news.web.nhk/newsweb/na/na-k10015167711000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/moej_urbanmining/",
