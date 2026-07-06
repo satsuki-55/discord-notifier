@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c982m1m95q9o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015169761000",
         "https://news.web.nhk/newsweb/na/na-k10015169741000",
         "https://news.web.nhk/newsweb/na/na-k10015169831000",
         "https://news.web.nhk/newsweb/na/na-k10015169851000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015166871000",
         "https://news.web.nhk/newsweb/na/na-k10015167251000",
         "https://news.web.nhk/newsweb/na/na-k10015167231000",
-        "https://news.web.nhk/newsweb/na/na-k10015167211000",
-        "https://news.web.nhk/newsweb/na/na-k10015167201000"
+        "https://news.web.nhk/newsweb/na/na-k10015167211000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/oxtak-money-penny-start/",
