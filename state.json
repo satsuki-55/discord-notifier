@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c3wy317d71jo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015169661000",
         "https://news.web.nhk/newsweb/na/na-k10015169641000",
         "https://news.web.nhk/newsweb/na/na-k10015169631000",
         "https://news.web.nhk/newsweb/na/na-k10015169621000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015167101000",
         "https://news.web.nhk/newsweb/na/na-k10015167121000",
         "https://news.web.nhk/newsweb/na/na-k10015140521000",
-        "https://news.web.nhk/newsweb/na/na-k10015166851000",
-        "https://news.web.nhk/newsweb/na/na-k10015167081000"
+        "https://news.web.nhk/newsweb/na/na-k10015166851000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/plague-caused-mass-deaths-even-before-the-black-death/",
