@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/clye9zn0y1ro#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015169971000",
         "https://news.web.nhk/newsweb/na/na-k10015169951000",
         "https://news.web.nhk/newsweb/na/na-k10015169921000",
         "https://news.web.nhk/newsweb/na/na-k10015169931000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015167151000",
         "https://news.web.nhk/newsweb/na/na-k10015167331000",
         "https://news.web.nhk/newsweb/na/na-k10015167271000",
-        "https://news.web.nhk/newsweb/na/na-k10015167361000",
-        "https://news.web.nhk/newsweb/na/na-k10015167381000"
+        "https://news.web.nhk/newsweb/na/na-k10015167361000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/utsurundesu-waterproof-black-and-white/",
