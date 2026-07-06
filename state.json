@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "Vfpr-ly554w",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "3ooKjxpGFjQ",
     "rss:bbc": [
+        "https://www.bbc.co.uk/weather/articles/cly77zjey40o#0",
         "https://www.bbc.co.uk/news/articles/cdejj44kl70o#0",
         "https://www.bbc.co.uk/news/articles/cr7xxj7rey5o#0",
         "https://www.bbc.co.uk/news/articles/cj6gr0xkyr3o#0",
@@ -200,10 +201,10 @@
         "https://www.bbc.co.uk/news/articles/c5yzk5rqyr4o#0",
         "https://www.bbc.co.uk/news/articles/cvg53ngvvpxo#0",
         "https://www.bbc.co.uk/news/articles/cx2vpz2qee5o#0",
-        "https://www.bbc.co.uk/news/articles/cj6g0rdy40jo#0",
-        "https://www.bbc.co.uk/news/articles/c78yj9p0m91o#0"
+        "https://www.bbc.co.uk/news/articles/cj6g0rdy40jo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015170311000",
         "https://news.web.nhk/newsweb/na/na-k10015170171000",
         "https://news.web.nhk/newsweb/na/na-k10015170251000",
         "https://news.web.nhk/newsweb/na/na-k10015170211000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015167731000",
         "https://news.web.nhk/newsweb/na/na-k10015167241000",
         "https://news.web.nhk/newsweb/na/na-k10015167461000",
-        "https://news.web.nhk/newsweb/na/na-k10015167481000",
-        "https://news.web.nhk/newsweb/na/na-k10015167611000"
+        "https://news.web.nhk/newsweb/na/na-k10015167481000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/samsungs-next-foldables-leaked-again/",
