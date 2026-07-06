@@ -204,6 +204,9 @@
         "https://www.bbc.co.uk/news/articles/cn4rvy3y2elo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015169771000",
+        "https://news.web.nhk/newsweb/na/na-k10015169841000",
+        "https://news.web.nhk/newsweb/na/na-k10015169811000",
         "https://news.web.nhk/newsweb/na/na-k10015169711000",
         "https://news.web.nhk/newsweb/na/na-k10015169701000",
         "https://news.web.nhk/newsweb/na/na-k10015169691000",
@@ -400,10 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015167191000",
         "https://news.web.nhk/newsweb/na/na-k10015167171000",
         "https://news.web.nhk/newsweb/na/na-k10015163271000",
-        "https://news.web.nhk/newsweb/na/na-k10015167161000",
-        "https://news.web.nhk/newsweb/na/na-k10015161591000",
-        "https://news.web.nhk/newsweb/na/na-k10015167131000",
-        "https://news.web.nhk/newsweb/na/na-k10015167101000"
+        "https://news.web.nhk/newsweb/na/na-k10015167161000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/playstation-kills-off-future-physical-games/",
