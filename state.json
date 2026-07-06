@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/cj6gr0xkyr3o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015167631000",
+        "https://news.web.nhk/newsweb/na/na-k10015168921000",
         "https://news.web.nhk/newsweb/na/na-k10015170191000",
         "https://news.web.nhk/newsweb/na/na-k10015170081000",
         "https://news.web.nhk/newsweb/na/na-k10015170141000",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015167541000",
         "https://news.web.nhk/newsweb/na/na-k10015167671000",
         "https://news.web.nhk/newsweb/na/na-k10015167711000",
-        "https://news.web.nhk/newsweb/na/na-k10015167701000",
-        "https://news.web.nhk/newsweb/na/na-k10015167641000",
-        "https://news.web.nhk/newsweb/na/na-k10015167631000"
+        "https://news.web.nhk/newsweb/na/na-k10015167701000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/moej_urbanmining/",
