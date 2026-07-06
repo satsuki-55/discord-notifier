@@ -2,6 +2,10 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "Vfpr-ly554w",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "3ooKjxpGFjQ",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c4gyxnj38m1o#0",
+        "https://www.bbc.co.uk/news/articles/c1kyy8yrpxdo#0",
+        "https://www.bbc.co.uk/news/articles/cx2wwgeg041o#1",
+        "https://www.bbc.co.uk/news/articles/ce8mmm5v8j0o#0",
         "https://www.bbc.co.uk/news/articles/c0ryjyvjq41o#0",
         "https://www.bbc.co.uk/news/articles/c4gymkg9lr2o#0",
         "https://www.bbc.co.uk/news/articles/cg4w39gvdw1o#1",
@@ -197,13 +201,11 @@
         "https://www.bbc.co.uk/news/articles/cd7wj7d0jzzo#0",
         "https://www.bbc.co.uk/news/articles/c3wy26p5lexo#0",
         "https://www.bbc.co.uk/news/articles/cvge0gd6lnqo#0",
-        "https://www.bbc.co.uk/news/articles/cwylkvpl80xo#1",
-        "https://www.bbc.co.uk/news/articles/cdxdgpgn0zwo#0",
-        "https://www.bbc.co.uk/news/articles/cvg53ngvvpxo#1",
-        "https://www.bbc.co.uk/news/articles/c4gyxnj38m1o#0",
-        "https://www.bbc.co.uk/weather/articles/cjdg98g8lg8o#0"
+        "https://www.bbc.co.uk/news/articles/cwylkvpl80xo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015170531000",
+        "https://news.web.nhk/newsweb/na/na-k10015170561000",
         "https://news.web.nhk/newsweb/na/na-k10015170521000",
         "https://news.web.nhk/newsweb/na/na-k10015170261000",
         "https://news.web.nhk/newsweb/na/na-k10015170511000",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015167931000",
         "https://news.web.nhk/newsweb/na/na-k10015168001000",
         "https://news.web.nhk/newsweb/na/na-k10015168031000",
-        "https://news.web.nhk/newsweb/na/na-k10015168011000",
-        "https://news.web.nhk/newsweb/na/na-k10015166311000",
-        "https://news.web.nhk/newsweb/na/na-k10015168021000"
+        "https://news.web.nhk/newsweb/na/na-k10015168011000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/73bf7c27-3b9d-4a72-8db0-4df2475b943f/",
