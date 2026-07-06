@@ -2,6 +2,9 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "Vfpr-ly554w",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "3ooKjxpGFjQ",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cp3xxz1g25go#0",
+        "https://www.bbc.co.uk/news/articles/cp8rpn75gmgo#1",
+        "https://www.bbc.co.uk/news/videos/c1kyylkz9vyo#0",
         "https://www.bbc.co.uk/sport/football/articles/c5yzzd73871o#0",
         "https://www.bbc.co.uk/sport/football/videos/c8x221q8zp2o#1",
         "https://www.bbc.co.uk/news/articles/c77yykl87yno#0",
@@ -198,12 +201,11 @@
         "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o#1",
         "https://www.bbc.co.uk/news/articles/cx2wllrlrxgo#0",
         "https://www.bbc.co.uk/news/articles/cwyd3nxr5ggo#1",
-        "https://www.bbc.co.uk/news/articles/cj6gr0xkyr3o#0",
-        "https://www.bbc.co.uk/news/articles/crkvlekgy07o#1",
-        "https://www.bbc.co.uk/news/articles/c75ykve4zzxo#1",
-        "https://www.bbc.co.uk/sport/cricket/articles/cy731p46j5mo#0"
+        "https://www.bbc.co.uk/news/articles/cj6gr0xkyr3o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015170131000",
+        "https://news.web.nhk/newsweb/na/na-k10015170041000",
         "https://news.web.nhk/newsweb/na/na-k10015170181000",
         "https://news.web.nhk/newsweb/na/na-k10015170151000",
         "https://news.web.nhk/newsweb/na/na-k10015170161000",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015167631000",
         "https://news.web.nhk/newsweb/na/na-k10015167691000",
         "https://news.web.nhk/newsweb/na/na-k10015167551000",
-        "https://news.web.nhk/newsweb/na/na-k10015167511000",
-        "https://news.web.nhk/newsweb/na/na-k10015167601000",
-        "https://news.web.nhk/newsweb/na/na-k10015167581000"
+        "https://news.web.nhk/newsweb/na/na-k10015167511000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/elecom-egg-mouse/",
