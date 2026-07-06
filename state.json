@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/weather/videos/cjdg81ejk9ro#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015169931000",
         "https://news.web.nhk/newsweb/na/na-k10015169891000",
         "https://news.web.nhk/newsweb/na/na-k10015140741000",
         "https://news.web.nhk/newsweb/na/na-k10015169821000",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/na-k10015167361000",
         "https://news.web.nhk/newsweb/na/na-k10015167381000",
         "https://news.web.nhk/newsweb/na/na-k10015167261000",
-        "https://news.web.nhk/newsweb/na/na-k10015167301000",
-        "https://news.web.nhk/newsweb/na/na-k10015167291000"
+        "https://news.web.nhk/newsweb/na/na-k10015167301000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/slate_compact_ev_pickup_truck/",
         "https://www.gizmodo.jp/article/aimdesk-pro-5/",
         "https://www.gizmodo.jp/article/oxtak-money-penny-start/",
         "https://www.gizmodo.jp/article/samsungs-smart-glasses-could-team-up-with-its-rings-and-watches/",
