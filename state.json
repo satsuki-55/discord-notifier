@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cvgj0pp5p62o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015169901000",
         "https://news.web.nhk/newsweb/na/na-k10015170091000",
         "https://news.web.nhk/newsweb/na/na-k10015170011000",
         "https://news.web.nhk/newsweb/na/na-k10015170051000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015167521000",
         "https://news.web.nhk/newsweb/na/na-k10015167471000",
         "https://news.web.nhk/newsweb/na/na-k10015167451000",
-        "https://news.web.nhk/newsweb/na/na-k10015167441000",
-        "https://news.web.nhk/newsweb/na/na-k10015167431000"
+        "https://news.web.nhk/newsweb/na/na-k10015167441000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/mosquito-habits/",
