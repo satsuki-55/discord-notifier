@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/cvgj0pp5p62o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015169911000",
+        "https://news.web.nhk/newsweb/na/na-k10015170001000",
         "https://news.web.nhk/newsweb/na/na-k10015169991000",
         "https://news.web.nhk/newsweb/na/na-k10015169971000",
         "https://news.web.nhk/newsweb/na/na-k10015169951000",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015167411000",
         "https://news.web.nhk/newsweb/na/na-k10015167401000",
         "https://news.web.nhk/newsweb/na/na-k10015167391000",
-        "https://news.web.nhk/newsweb/na/na-k10015167151000",
-        "https://news.web.nhk/newsweb/na/na-k10015167331000",
-        "https://news.web.nhk/newsweb/na/na-k10015167271000"
+        "https://news.web.nhk/newsweb/na/na-k10015167151000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/gizmodo-science-fair-a-spacecraft-that-hunts-down-space-junk-5v6/",
