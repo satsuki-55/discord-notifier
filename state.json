@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "lwHXU1EvdV4",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "3ooKjxpGFjQ",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c1my27lyjx9o#0",
         "https://www.bbc.co.uk/news/articles/cewqqnd7zdwo#0",
         "https://www.bbc.co.uk/sport/football/videos/c9w22dqpjw9o#0",
         "https://www.bbc.co.uk/news/articles/c9922x87nj8o#0",
@@ -200,10 +201,10 @@
         "https://www.bbc.co.uk/news/articles/cd7wjy2e1d8o#0",
         "https://www.bbc.co.uk/weather/videos/cjdg81ejk9ro#0",
         "https://www.bbc.co.uk/news/articles/cvg53d9p18vo#0",
-        "https://www.bbc.co.uk/news/articles/cm2j8kd0dk4o#0",
-        "https://www.bbc.co.uk/news/articles/c5yz95188jjo#0"
+        "https://www.bbc.co.uk/news/articles/cm2j8kd0dk4o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015169821000",
         "https://news.web.nhk/newsweb/na/na-k10015167251000",
         "https://news.web.nhk/newsweb/na/na-k10015169871000",
         "https://news.web.nhk/newsweb/na/na-k10015169861000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015167301000",
         "https://news.web.nhk/newsweb/na/na-k10015167291000",
         "https://news.web.nhk/newsweb/na/na-k10015167341000",
-        "https://news.web.nhk/newsweb/na/na-k10015167351000",
-        "https://news.web.nhk/newsweb/na/na-k10015167311000"
+        "https://news.web.nhk/newsweb/na/na-k10015167351000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/aimdesk-pro-5/",
