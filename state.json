@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015170211000",
         "https://news.web.nhk/newsweb/na/na-k10015170121000",
         "https://news.web.nhk/newsweb/na/na-k10015170241000",
         "https://news.web.nhk/newsweb/na/na-k10015167631000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015167481000",
         "https://news.web.nhk/newsweb/na/na-k10015167611000",
         "https://news.web.nhk/newsweb/na/na-k10015167621000",
-        "https://news.web.nhk/newsweb/na/na-k10015167541000",
-        "https://news.web.nhk/newsweb/na/na-k10015167671000"
+        "https://news.web.nhk/newsweb/na/na-k10015167541000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/amazon-500point-back/",
