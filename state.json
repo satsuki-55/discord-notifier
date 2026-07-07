@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015168291000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/elecom-mobile-battery-ec-c58mn-act2/",
         "https://www.gizmodo.jp/article/amazon-primeday-projector-nx1/",
         "https://www.gizmodo.jp/article/plaud-note-youtube/",
         "https://www.gizmodo.jp/article/stretch_pole_ex_lpn/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/iphone-18-ram-9gb-pro-12gb/",
         "https://www.gizmodo.jp/article/t1-he-last-chance/",
         "https://www.gizmodo.jp/article/samsungs-budget-galaxy-a27-isnt-much-of-an-upgrade/",
-        "https://www.gizmodo.jp/article/samsung-galaxy-watch-ultra-2-jpn/",
-        "https://www.gizmodo.jp/article/spacexs-next-big-business-could-be-building-stuff-in-space/"
+        "https://www.gizmodo.jp/article/samsung-galaxy-watch-ultra-2-jpn/"
     ]
 }
