@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "vcFw7UKnHzw",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "3ooKjxpGFjQ",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c5yzzz856m3o#0",
         "https://www.bbc.co.uk/news/articles/cvgdlnvg2n5o#0",
         "https://www.bbc.co.uk/sport/football/articles/cdejw7xxe23o#1",
         "https://www.bbc.co.uk/sport/football/articles/cdejw7xxe23o#0",
@@ -200,10 +201,10 @@
         "https://www.bbc.co.uk/news/articles/cg534ryp660o#0",
         "https://www.bbc.co.uk/news/articles/cp8r1798kp7o#0",
         "https://www.bbc.co.uk/news/articles/c5yzlwz34p7o#0",
-        "https://www.bbc.co.uk/news/articles/cp9lppvkmz5o#0",
-        "https://www.bbc.co.uk/news/articles/c04yx44xq19o#0"
+        "https://www.bbc.co.uk/news/articles/cp9lppvkmz5o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015171311000",
         "https://news.web.nhk/newsweb/na/na-k10015171281000",
         "https://news.web.nhk/newsweb/na/na-k10015168491000",
         "https://news.web.nhk/newsweb/na/na-k10015169021000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015166331000",
         "https://news.web.nhk/newsweb/na/na-k10015169171000",
         "https://news.web.nhk/newsweb/na/na-k10015169141000",
-        "https://news.web.nhk/newsweb/na/na-k10015169161000",
-        "https://news.web.nhk/newsweb/na/na-k10015169091000"
+        "https://news.web.nhk/newsweb/na/na-k10015169161000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/drink_holder_strap_mimpi_color-codes/",
