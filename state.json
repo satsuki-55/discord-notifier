@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/cp9lv31k552o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015168051000",
+        "https://news.web.nhk/newsweb/na/na-k10015170681000",
         "https://news.web.nhk/newsweb/na/na-k10015170641000",
         "https://news.web.nhk/newsweb/na/na-k10015170651000",
         "https://news.web.nhk/newsweb/na/na-k10015170621000",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015168151000",
         "https://news.web.nhk/newsweb/na/na-k10015168141000",
         "https://news.web.nhk/newsweb/na/na-k10015168121000",
-        "https://news.web.nhk/newsweb/na/na-k10015167891000",
-        "https://news.web.nhk/newsweb/na/na-k10015168191000",
-        "https://news.web.nhk/newsweb/na/na-k10015168051000"
+        "https://news.web.nhk/newsweb/na/na-k10015167891000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/purplesaver_amon_for_safe/",
