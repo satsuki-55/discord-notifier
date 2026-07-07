@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c04yx44xq19o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015171281000",
         "https://news.web.nhk/newsweb/na/na-k10015168491000",
         "https://news.web.nhk/newsweb/na/na-k10015169021000",
         "https://news.web.nhk/newsweb/na/na-k10015171201000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015169171000",
         "https://news.web.nhk/newsweb/na/na-k10015169141000",
         "https://news.web.nhk/newsweb/na/na-k10015169161000",
-        "https://news.web.nhk/newsweb/na/na-k10015169091000",
-        "https://news.web.nhk/newsweb/na/na-k10015168811000"
+        "https://news.web.nhk/newsweb/na/na-k10015169091000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/drink_holder_strap_mimpi_color-codes/",
