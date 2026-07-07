@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c05yvyn3186o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015171171000",
         "https://news.web.nhk/newsweb/na/na-k10015171071000",
         "https://news.web.nhk/newsweb/na/na-k10015171081000",
         "https://news.web.nhk/newsweb/na/na-k10015171091000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015168981000",
         "https://news.web.nhk/newsweb/na/na-k10015168971000",
         "https://news.web.nhk/newsweb/na/na-k10015169051000",
-        "https://news.web.nhk/newsweb/na/na-k10015169031000",
-        "https://news.web.nhk/newsweb/na/na-k10015168541000"
+        "https://news.web.nhk/newsweb/na/na-k10015169031000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/soundcore-liberty5-amazon-primeday/",
