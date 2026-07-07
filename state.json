@@ -2,6 +2,11 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "vcFw7UKnHzw",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "3ooKjxpGFjQ",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c79ygnv9e93o#0",
+        "https://www.bbc.co.uk/news/articles/cvgj0pp5p62o#0",
+        "https://www.bbc.co.uk/news/articles/cy49w2knlrdo#0",
+        "https://www.bbc.co.uk/news/articles/c1kyy8yrpxdo#1",
+        "https://www.bbc.co.uk/news/articles/c17y81vnje5o#0",
         "https://www.bbc.co.uk/news/articles/cp8llpp67l1o#0",
         "https://www.bbc.co.uk/weather/articles/cwy0jpez1nqo#0",
         "https://www.bbc.co.uk/news/articles/cjdg4y3g0z7o#0",
@@ -196,14 +201,10 @@
         "https://www.bbc.co.uk/news/articles/c5yz9j7v0z6o#1",
         "https://www.bbc.co.uk/news/articles/cgjxx7ngz51o#0",
         "https://www.bbc.co.uk/news/articles/c0ryxr0l4elo#1",
-        "https://www.bbc.co.uk/news/articles/ce955jp3jz9o#0",
-        "https://www.bbc.co.uk/news/articles/cly004391wno#0",
-        "https://www.bbc.co.uk/news/articles/c4gy51ky75vo#1",
-        "https://www.bbc.co.uk/news/articles/cvgj0pp5p62o#0",
-        "https://www.bbc.co.uk/news/articles/c5yzzw5vk8vo#0",
-        "https://www.bbc.co.uk/news/articles/clyxxr9n2kjo#0"
+        "https://www.bbc.co.uk/news/articles/ce955jp3jz9o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015171451000",
         "https://news.web.nhk/newsweb/na/na-k10015171481000",
         "https://news.web.nhk/newsweb/na/na-k10015168941000",
         "https://news.web.nhk/newsweb/na/na-k10015171431000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015169341000",
         "https://news.web.nhk/newsweb/na/na-k10015169321000",
         "https://news.web.nhk/newsweb/na/na-k10015169261000",
-        "https://news.web.nhk/newsweb/na/na-k10015169281000",
-        "https://news.web.nhk/newsweb/na/na-k10015140551000"
+        "https://news.web.nhk/newsweb/na/na-k10015169281000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/cat_gadget_4_review/",
