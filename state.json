@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cvge0gd6lnqo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015170811000",
         "https://news.web.nhk/newsweb/na/na-k10015170831000",
         "https://news.web.nhk/newsweb/na/na-k10015170801000",
         "https://news.web.nhk/newsweb/na/na-k10015168221000",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/na-k10015168301000",
         "https://news.web.nhk/newsweb/na/na-k10015168061000",
         "https://news.web.nhk/newsweb/na/na-k10015140531000",
-        "https://news.web.nhk/newsweb/na/na-k10015168111000",
-        "https://news.web.nhk/newsweb/na/na-k10015165691000"
+        "https://news.web.nhk/newsweb/na/na-k10015168111000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/karcher_multi_cleaner_oc3/",
         "https://www.gizmodo.jp/article/brainsleep-comforter-perfectcoolairthrow-lnr/",
         "https://www.gizmodo.jp/article/heres-a-clue-about-spacexs-actual-revenue-generating-plans/",
         "https://www.gizmodo.jp/article/amazon-primeday-iphone-air-1tb/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/minnna-no-ginko-video/",
         "https://www.gizmodo.jp/article/amazon_datacenter_water/",
         "https://www.gizmodo.jp/article/super-strong-metal-foam-cmf/",
-        "https://www.gizmodo.jp/article/kodak-charmera-millenium/",
-        "https://www.gizmodo.jp/article/arm-cover-summer/"
+        "https://www.gizmodo.jp/article/kodak-charmera-millenium/"
     ]
 }
