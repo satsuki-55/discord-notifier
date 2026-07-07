@@ -2,6 +2,8 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "Vfpr-ly554w",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "3ooKjxpGFjQ",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/videos/cx2v1e9dpn9o#0",
+        "https://www.bbc.co.uk/news/articles/c9d227e5zj6o#0",
         "https://www.bbc.co.uk/news/videos/c1eyyevn5j7o#0",
         "https://www.bbc.co.uk/news/articles/c07yy3j3nljo#0",
         "https://www.bbc.co.uk/news/articles/c04yywdq69vo#0",
@@ -199,11 +201,10 @@
         "https://www.bbc.co.uk/news/articles/c982r5z7v0no#0",
         "https://www.bbc.co.uk/news/articles/c8x27k180x8o#1",
         "https://www.bbc.co.uk/news/articles/cvge0gd6lnqo#1",
-        "https://www.bbc.co.uk/news/articles/cp9lv31k552o#0",
-        "https://www.bbc.co.uk/news/articles/c23y9gvd73ko#1",
-        "https://www.bbc.co.uk/news/videos/cx2v1e9dpn9o#0"
+        "https://www.bbc.co.uk/news/articles/cp9lv31k552o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015170611000",
         "https://news.web.nhk/newsweb/na/na-k10015170631000",
         "https://news.web.nhk/newsweb/na/na-k10015170591000",
         "https://news.web.nhk/newsweb/na/na-k10015170541000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015168051000",
         "https://news.web.nhk/newsweb/na/na-k10015168101000",
         "https://news.web.nhk/newsweb/na/na-k10015168071000",
-        "https://news.web.nhk/newsweb/na/na-k10015165431000",
-        "https://news.web.nhk/newsweb/na/na-k10015168081000"
+        "https://news.web.nhk/newsweb/na/na-k10015165431000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/amazon-primeday-apple-watch-se3/",
