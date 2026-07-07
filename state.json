@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015169211000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/spacex_fomo_netscape/",
         "https://www.gizmodo.jp/article/bizrack_review_kokuyo/",
         "https://www.gizmodo.jp/article/drink_holder_strap_mimpi_color-codes/",
         "https://www.gizmodo.jp/article/stta_tech-oshibori/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/au-infobar-smart-recovery-ring/",
         "https://www.gizmodo.jp/article/researchers-identify-3-key-drivers-behind-ai-psychosis/",
         "https://www.gizmodo.jp/article/3coins-rain-item/",
-        "https://www.gizmodo.jp/article/datacenter_backlash_repost/",
-        "https://www.gizmodo.jp/article/triple_force_1/"
+        "https://www.gizmodo.jp/article/datacenter_backlash_repost/"
     ]
 }
