@@ -1,5 +1,5 @@
 {
-    "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "Vfpr-ly554w",
+    "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "vcFw7UKnHzw",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "3ooKjxpGFjQ",
     "rss:bbc": [
         "https://www.bbc.co.uk/news/articles/c0my2kjjnp2o#0",
@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c8j2vmzxezro#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015170981000",
         "https://news.web.nhk/newsweb/na/na-k10015170971000",
         "https://news.web.nhk/newsweb/na/na-k10015170961000",
         "https://news.web.nhk/newsweb/na/na-k10015140761000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015168471000",
         "https://news.web.nhk/newsweb/na/na-k10015166151000",
         "https://news.web.nhk/newsweb/na/na-k10015168291000",
-        "https://news.web.nhk/newsweb/na/na-k10015166121000",
-        "https://news.web.nhk/newsweb/na/na-k10015168271000"
+        "https://news.web.nhk/newsweb/na/na-k10015166121000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/stretch_pole_ex_lpn/",
