@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c8j2vmzxezro#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015170961000",
         "https://news.web.nhk/newsweb/na/na-k10015140761000",
         "https://news.web.nhk/newsweb/na/na-k10015170921000",
         "https://news.web.nhk/newsweb/na/na-k10015170821000",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/na-k10015168291000",
         "https://news.web.nhk/newsweb/na/na-k10015166121000",
         "https://news.web.nhk/newsweb/na/na-k10015168271000",
-        "https://news.web.nhk/newsweb/na/na-k10015168321000",
-        "https://news.web.nhk/newsweb/na/na-k10015168211000"
+        "https://news.web.nhk/newsweb/na/na-k10015168321000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/stretch_pole_ex_lpn/",
         "https://www.gizmodo.jp/article/elecom_ist-plus_easy-to-maintain/",
         "https://www.gizmodo.jp/article/triple_force_2/",
         "https://www.gizmodo.jp/article/069a0871-fd37-4d07-8cc5-7737277109b7/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/samsung-galaxy-watch-ultra-2-jpn/",
         "https://www.gizmodo.jp/article/spacexs-next-big-business-could-be-building-stuff-in-space/",
         "https://www.gizmodo.jp/article/gizmart-keychron-t1-he-re/",
-        "https://www.gizmodo.jp/article/keychron-trackball-review/",
-        "https://www.gizmodo.jp/article/tp-link-tc93d-kit/"
+        "https://www.gizmodo.jp/article/keychron-trackball-review/"
     ]
 }
