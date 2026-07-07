@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015168351000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/triple_force_2/",
         "https://www.gizmodo.jp/article/069a0871-fd37-4d07-8cc5-7737277109b7/",
         "https://www.gizmodo.jp/article/rayneo-air-4-pro/",
         "https://www.gizmodo.jp/article/karcher_multi_cleaner_oc3/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/gizmart-keychron-t1-he-re/",
         "https://www.gizmodo.jp/article/keychron-trackball-review/",
         "https://www.gizmodo.jp/article/tp-link-tc93d-kit/",
-        "https://www.gizmodo.jp/article/minnna-no-ginko-video/",
-        "https://www.gizmodo.jp/article/amazon_datacenter_water/"
+        "https://www.gizmodo.jp/article/minnna-no-ginko-video/"
     ]
 }
