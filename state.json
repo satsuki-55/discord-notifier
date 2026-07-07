@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cp9lv31k552o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015170801000",
         "https://news.web.nhk/newsweb/na/na-k10015168221000",
         "https://news.web.nhk/newsweb/na/na-k10015168151000",
         "https://news.web.nhk/newsweb/na/na-k10015170771000",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/na-k10015140531000",
         "https://news.web.nhk/newsweb/na/na-k10015168111000",
         "https://news.web.nhk/newsweb/na/na-k10015165691000",
-        "https://news.web.nhk/newsweb/na/na-k10015168241000",
-        "https://news.web.nhk/newsweb/na/na-k10015168231000"
+        "https://news.web.nhk/newsweb/na/na-k10015168241000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/brainsleep-comforter-perfectcoolairthrow-lnr/",
         "https://www.gizmodo.jp/article/heres-a-clue-about-spacexs-actual-revenue-generating-plans/",
         "https://www.gizmodo.jp/article/amazon-primeday-iphone-air-1tb/",
         "https://www.gizmodo.jp/article/audio-technica-ath-cks50tw2-summer-02/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/amazon_datacenter_water/",
         "https://www.gizmodo.jp/article/super-strong-metal-foam-cmf/",
         "https://www.gizmodo.jp/article/kodak-charmera-millenium/",
-        "https://www.gizmodo.jp/article/arm-cover-summer/",
-        "https://www.gizmodo.jp/article/familymart-cotton-linen-shirt-pants/"
+        "https://www.gizmodo.jp/article/arm-cover-summer/"
     ]
 }
