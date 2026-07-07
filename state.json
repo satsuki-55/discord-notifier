@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cx2vx4dvgzno#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015171371000",
         "https://news.web.nhk/newsweb/na/na-k10015171421000",
         "https://news.web.nhk/newsweb/na/na-k10015171331000",
         "https://news.web.nhk/newsweb/na/na-k10015171291000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015169211000",
         "https://news.web.nhk/newsweb/na/na-k10015169201000",
         "https://news.web.nhk/newsweb/na/na-k10015169221000",
-        "https://news.web.nhk/newsweb/na/na-k10015166561000",
-        "https://news.web.nhk/newsweb/na/na-k10015169131000"
+        "https://news.web.nhk/newsweb/na/na-k10015166561000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/bizrack_review_kokuyo/",
