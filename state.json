@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cvge0gd6lnqo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015170831000",
         "https://news.web.nhk/newsweb/na/na-k10015170801000",
         "https://news.web.nhk/newsweb/na/na-k10015168221000",
         "https://news.web.nhk/newsweb/na/na-k10015168151000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015168061000",
         "https://news.web.nhk/newsweb/na/na-k10015140531000",
         "https://news.web.nhk/newsweb/na/na-k10015168111000",
-        "https://news.web.nhk/newsweb/na/na-k10015165691000",
-        "https://news.web.nhk/newsweb/na/na-k10015168241000"
+        "https://news.web.nhk/newsweb/na/na-k10015165691000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/brainsleep-comforter-perfectcoolairthrow-lnr/",
