@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015166121000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/plaud-note-youtube/",
         "https://www.gizmodo.jp/article/stretch_pole_ex_lpn/",
         "https://www.gizmodo.jp/article/elecom_ist-plus_easy-to-maintain/",
         "https://www.gizmodo.jp/article/triple_force_2/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/samsungs-budget-galaxy-a27-isnt-much-of-an-upgrade/",
         "https://www.gizmodo.jp/article/samsung-galaxy-watch-ultra-2-jpn/",
         "https://www.gizmodo.jp/article/spacexs-next-big-business-could-be-building-stuff-in-space/",
-        "https://www.gizmodo.jp/article/gizmart-keychron-t1-he-re/",
-        "https://www.gizmodo.jp/article/keychron-trackball-review/"
+        "https://www.gizmodo.jp/article/gizmart-keychron-t1-he-re/"
     ]
 }
