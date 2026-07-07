@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015169061000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/ugreen_mobile_battery_built_in/",
         "https://www.gizmodo.jp/article/ugreen-amazon-primeday-2026/",
         "https://www.gizmodo.jp/article/soundcore-liberty5-amazon-primeday/",
         "https://www.gizmodo.jp/article/recommending-the-ghost-in-the-shell-manga/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/063d00bc-3442-4395-80cb-5f85d9811ef2/",
         "https://www.gizmodo.jp/article/cobol_engineer_help/",
         "https://www.gizmodo.jp/article/nuclear_inspired_cooling_system/",
-        "https://www.gizmodo.jp/article/pico-projector-gizmart-re/",
-        "https://www.gizmodo.jp/article/brainsleep-comforter-perfectcoolairthrow/"
+        "https://www.gizmodo.jp/article/pico-projector-gizmart-re/"
     ]
 }
