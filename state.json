@@ -2,6 +2,9 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "Vfpr-ly554w",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "3ooKjxpGFjQ",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/clyxxr9n2kjo#1",
+        "https://www.bbc.co.uk/news/articles/c05y9pe5p1jo#0",
+        "https://www.bbc.co.uk/news/articles/cvgl8dlxjd3o#1",
         "https://www.bbc.co.uk/sport/football/articles/c4gyxdeql5eo#0",
         "https://www.bbc.co.uk/news/articles/cj9gggjekyjo#0",
         "https://www.bbc.co.uk/sport/football/videos/cj0gg55613do#0",
@@ -198,10 +201,7 @@
         "https://www.bbc.co.uk/news/articles/cy0429yx1k9o#0",
         "https://www.bbc.co.uk/news/articles/c0my2kjjnp2o#0",
         "https://www.bbc.co.uk/news/articles/c04yx44xq19o#1",
-        "https://www.bbc.co.uk/news/articles/c5yzlwz34p7o#1",
-        "https://www.bbc.co.uk/news/articles/ce3ex7rnpg6o#1",
-        "https://www.bbc.co.uk/news/articles/ckg54yldw1eo#1",
-        "https://www.bbc.co.uk/news/articles/c982r5z7v0no#0"
+        "https://www.bbc.co.uk/news/articles/c5yzlwz34p7o#1"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/na-k10015170851000",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015168301000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/069a0871-fd37-4d07-8cc5-7737277109b7/",
         "https://www.gizmodo.jp/article/rayneo-air-4-pro/",
         "https://www.gizmodo.jp/article/karcher_multi_cleaner_oc3/",
         "https://www.gizmodo.jp/article/brainsleep-comforter-perfectcoolairthrow-lnr/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/keychron-trackball-review/",
         "https://www.gizmodo.jp/article/tp-link-tc93d-kit/",
         "https://www.gizmodo.jp/article/minnna-no-ginko-video/",
-        "https://www.gizmodo.jp/article/amazon_datacenter_water/",
-        "https://www.gizmodo.jp/article/super-strong-metal-foam-cmf/"
+        "https://www.gizmodo.jp/article/amazon_datacenter_water/"
     ]
 }
