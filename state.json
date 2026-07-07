@@ -204,6 +204,9 @@
         "https://www.bbc.co.uk/news/articles/cvg5zn58nj2o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015168491000",
+        "https://news.web.nhk/newsweb/na/na-k10015169021000",
+        "https://news.web.nhk/newsweb/na/na-k10015171201000",
         "https://news.web.nhk/newsweb/na/na-k10015171161000",
         "https://news.web.nhk/newsweb/na/na-k10015168951000",
         "https://news.web.nhk/newsweb/na/na-k10015171211000",
@@ -400,10 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015169141000",
         "https://news.web.nhk/newsweb/na/na-k10015169161000",
         "https://news.web.nhk/newsweb/na/na-k10015169091000",
-        "https://news.web.nhk/newsweb/na/na-k10015168811000",
-        "https://news.web.nhk/newsweb/na/na-k10015168891000",
-        "https://news.web.nhk/newsweb/na/na-k10015168491000",
-        "https://news.web.nhk/newsweb/na/na-k10015166231000"
+        "https://news.web.nhk/newsweb/na/na-k10015168811000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/ugreen-45w-gan/",
