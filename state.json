@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015167451000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/bose_quietcomfort_ultra_headphones_review/",
         "https://www.gizmodo.jp/article/claude_free_handson/",
         "https://www.gizmodo.jp/article/biologists-want-nasa-to-build-a-quarantine-lab-for-alien-germs-on-the-moon/",
         "https://www.gizmodo.jp/article/amazon-primeday-motorola-razr-60/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/vesuvius_volcano/",
         "https://www.gizmodo.jp/article/andrew-yang_new_business/",
         "https://www.gizmodo.jp/article/commodore-callback-8020/",
-        "https://www.gizmodo.jp/article/ideas4space-development/",
-        "https://www.gizmodo.jp/article/spy-turtles_and_spy-fish/"
+        "https://www.gizmodo.jp/article/ideas4space-development/"
     ]
 }
