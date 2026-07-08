@@ -2,6 +2,8 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "vcFw7UKnHzw",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "m_TN_mfNfv0",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cqj1xvy44xno#1",
+        "https://www.bbc.co.uk/news/articles/c982vm2jzl1o#0",
         "https://www.bbc.co.uk/news/articles/cr7xk8j0j2do#0",
         "https://www.bbc.co.uk/news/articles/cr5j983p046o#1",
         "https://www.bbc.co.uk/news/articles/c6211ng49zwo#0",
@@ -199,9 +201,7 @@
         "https://www.bbc.co.uk/news/articles/c982e3k9zw9o#1",
         "https://www.bbc.co.uk/news/articles/cr477en6w3go#0",
         "https://www.bbc.co.uk/news/articles/c1jyydr7jnjo#1",
-        "https://www.bbc.co.uk/news/articles/c3wy317d71jo#0",
-        "https://www.bbc.co.uk/news/articles/cy4e1lzwgvxo#1",
-        "https://www.bbc.co.uk/sport/football/articles/cwy006zywj8o#0"
+        "https://www.bbc.co.uk/news/articles/c3wy317d71jo#0"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/na-k10015169561000",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015169611000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/blue-signature-sp3i/",
         "https://www.gizmodo.jp/article/yamazaki_tower_breadcase/",
         "https://www.gizmodo.jp/article/bauhutte-bhd-tb-1500sc/",
         "https://www.gizmodo.jp/article/kikippa-earphone-02/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/ntt-docomo-fcnt-arrows-alpha2-and-we3/",
         "https://www.gizmodo.jp/article/apple_airpods_max_care/",
         "https://www.gizmodo.jp/article/amazon-coleman-umbrella/",
-        "https://www.gizmodo.jp/article/0385016f-f20b-4e28-b92a-6742e0eff5dc/",
-        "https://www.gizmodo.jp/article/2606-changes-in-recruitment-of-nuclear-personnel-rfd/"
+        "https://www.gizmodo.jp/article/0385016f-f20b-4e28-b92a-6742e0eff5dc/"
     ]
 }
