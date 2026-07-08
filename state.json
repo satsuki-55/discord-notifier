@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cp9llgg5k8ro#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015172461000",
         "https://news.web.nhk/newsweb/na/na-k10015172071000",
         "https://news.web.nhk/newsweb/na/na-k10015172241000",
         "https://news.web.nhk/newsweb/na/na-k10015172301000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015170461000",
         "https://news.web.nhk/newsweb/na/na-k10015170331000",
         "https://news.web.nhk/newsweb/na/na-k10015170291000",
-        "https://news.web.nhk/newsweb/na/na-k10015170451000",
-        "https://news.web.nhk/newsweb/na/na-k10015167461000"
+        "https://news.web.nhk/newsweb/na/na-k10015170451000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/nintendo-will-quit-selling-the-original-switch-in-europe-whos-next/",
