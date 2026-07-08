@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cewqqnd7zdwo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015169771000",
         "https://news.web.nhk/newsweb/na/na-k10015171981000",
         "https://news.web.nhk/newsweb/na/na-k10015171931000",
         "https://news.web.nhk/newsweb/na/na-k10015171911000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015169741000",
         "https://news.web.nhk/newsweb/na/na-k10015169831000",
         "https://news.web.nhk/newsweb/na/na-k10015169851000",
-        "https://news.web.nhk/newsweb/na/na-k10015169791000",
-        "https://news.web.nhk/newsweb/na/na-k10015169781000"
+        "https://news.web.nhk/newsweb/na/na-k10015169791000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/tp-link-tc93d-kit-sale/",
