@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "vcFw7UKnHzw",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "m_TN_mfNfv0",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cq819jyp2g7o#0",
         "https://www.bbc.co.uk/news/articles/cly85e2z2n4o#0",
         "https://www.bbc.co.uk/sport/football/articles/c5yzdd070r3o#0",
         "https://www.bbc.co.uk/news/articles/c20yjjm7n87o#0",
@@ -200,8 +201,7 @@
         "https://www.bbc.co.uk/weather/articles/cly77zjey40o#0",
         "https://www.bbc.co.uk/news/articles/cdejj44kl70o#0",
         "https://www.bbc.co.uk/news/articles/cr7xxj7rey5o#0",
-        "https://www.bbc.co.uk/news/articles/cj6gr0xkyr3o#0",
-        "https://www.bbc.co.uk/news/articles/cx2kkrndr00o#1"
+        "https://www.bbc.co.uk/news/articles/cj6gr0xkyr3o#0"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/na-k10015172341000",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015170101000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/claude_free_handson/",
         "https://www.gizmodo.jp/article/biologists-want-nasa-to-build-a-quarantine-lab-for-alien-germs-on-the-moon/",
         "https://www.gizmodo.jp/article/amazon-primeday-motorola-razr-60/",
         "https://www.gizmodo.jp/article/top-10-of-consumers-create-up-to-5-7-trillion-in-environmental-damage-annually/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/andrew-yang_new_business/",
         "https://www.gizmodo.jp/article/commodore-callback-8020/",
         "https://www.gizmodo.jp/article/ideas4space-development/",
-        "https://www.gizmodo.jp/article/spy-turtles_and_spy-fish/",
-        "https://www.gizmodo.jp/article/the-world-cup-is-quietly-making-a-case-for-smart-glasses-in-sports-jpn/"
+        "https://www.gizmodo.jp/article/spy-turtles_and_spy-fish/"
     ]
 }
