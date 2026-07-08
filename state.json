@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cn8kkr844kdo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015171501000",
         "https://news.web.nhk/newsweb/na/na-k10015171531000",
         "https://news.web.nhk/newsweb/na/na-k10015171471000",
         "https://news.web.nhk/newsweb/na/na-k10015171461000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015169381000",
         "https://news.web.nhk/newsweb/na/na-k10015169371000",
         "https://news.web.nhk/newsweb/na/na-k10015169351000",
-        "https://news.web.nhk/newsweb/na/na-k10015169331000",
-        "https://news.web.nhk/newsweb/na/na-k10015169341000"
+        "https://news.web.nhk/newsweb/na/na-k10015169331000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/xai-is-dead-long-live-spacexai-jpn/",
