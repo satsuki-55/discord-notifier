@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cewqqnd7zdwo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015171981000",
         "https://news.web.nhk/newsweb/na/na-k10015171931000",
         "https://news.web.nhk/newsweb/na/na-k10015171911000",
         "https://news.web.nhk/newsweb/na/na-k10015171891000",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/na-k10015169831000",
         "https://news.web.nhk/newsweb/na/na-k10015169851000",
         "https://news.web.nhk/newsweb/na/na-k10015169791000",
-        "https://news.web.nhk/newsweb/na/na-k10015169781000",
-        "https://news.web.nhk/newsweb/na/na-k10015169771000"
+        "https://news.web.nhk/newsweb/na/na-k10015169781000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/tp-link-tc93d-kit-sale/",
         "https://www.gizmodo.jp/article/fe69c2a7-b857-427b-b2f3-67fd6ba50332/",
         "https://www.gizmodo.jp/article/anker-soundcore-spaceonepro-amazon-primeday/",
         "https://www.gizmodo.jp/article/blue-signature-sp3i/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/keychron-t1-he-last-chance/",
         "https://www.gizmodo.jp/article/nanga_plc-excursion-longsleeve_tops/",
         "https://www.gizmodo.jp/article/knirps_t220rs_uv_umbrella/",
-        "https://www.gizmodo.jp/article/ntt-docomo-fcnt-arrows-alpha2-and-we3/",
-        "https://www.gizmodo.jp/article/apple_airpods_max_care/"
+        "https://www.gizmodo.jp/article/ntt-docomo-fcnt-arrows-alpha2-and-we3/"
     ]
 }
