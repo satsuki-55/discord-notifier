@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "vcFw7UKnHzw",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "m_TN_mfNfv0",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cgk6606j6zeo#0",
         "https://www.bbc.co.uk/news/articles/c1wyx7g9e1do#0",
         "https://www.bbc.co.uk/news/articles/c9324nyqwjno#1",
         "https://www.bbc.co.uk/news/articles/cj0gel72mlgo#0",
@@ -200,8 +201,7 @@
         "https://www.bbc.co.uk/news/articles/czj8w4pjd4yo#1",
         "https://www.bbc.co.uk/news/articles/cwykk095yzzo#1",
         "https://www.bbc.co.uk/news/articles/cgjxx7ngz51o#1",
-        "https://www.bbc.co.uk/news/articles/c4gy9lpylz9o#0",
-        "https://www.bbc.co.uk/sport/football/articles/cvgmmmgemd8o#0"
+        "https://www.bbc.co.uk/news/articles/c4gy9lpylz9o#0"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/na-k10015172071000",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015167461000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/nintendo-will-quit-selling-the-original-switch-in-europe-whos-next/",
         "https://www.gizmodo.jp/article/nvidia-touts-100-reduction-in-water-use-with-new-data-center-design-jpn/",
         "https://www.gizmodo.jp/article/gpt_live_chatgpt_voice_update/",
         "https://www.gizmodo.jp/article/bose_quietcomfort_ultra_headphones_review/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/f21e7fac-10e4-495c-85fe-decda2c674fd/",
         "https://www.gizmodo.jp/article/bravo_best_article_june/",
         "https://www.gizmodo.jp/article/msi-claw-8-ex-ai-review-the-best-handheld-pc-but-youll-have-to-pay-for-it/",
-        "https://www.gizmodo.jp/article/vesuvius_volcano/",
-        "https://www.gizmodo.jp/article/andrew-yang_new_business/"
+        "https://www.gizmodo.jp/article/vesuvius_volcano/"
     ]
 }
