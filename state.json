@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/cg4w39gvdw1o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015168401000",
+        "https://news.web.nhk/newsweb/na/na-k10015171731000",
         "https://news.web.nhk/newsweb/na/na-k10015171741000",
         "https://news.web.nhk/newsweb/na/na-k10015171701000",
         "https://news.web.nhk/newsweb/na/na-k10015171601000",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015169591000",
         "https://news.web.nhk/newsweb/na/na-k10015169571000",
         "https://news.web.nhk/newsweb/na/na-k10015169581000",
-        "https://news.web.nhk/newsweb/na/na-k10015169491000",
-        "https://news.web.nhk/newsweb/na/na-k10015169481000",
-        "https://news.web.nhk/newsweb/na/na-k10015168401000"
+        "https://news.web.nhk/newsweb/na/na-k10015169491000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/bauhutte-bhd-tb-1500sc/",
