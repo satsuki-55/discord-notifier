@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/c78yj9p0m91o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015172131000",
+        "https://news.web.nhk/newsweb/na/na-k10015169991000",
         "https://news.web.nhk/newsweb/na/na-k10015172151000",
         "https://news.web.nhk/newsweb/na/na-k10015172171000",
         "https://news.web.nhk/newsweb/na/na-k10015171971000",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015170011000",
         "https://news.web.nhk/newsweb/na/na-k10015170051000",
         "https://news.web.nhk/newsweb/na/na-k10015170021000",
-        "https://news.web.nhk/newsweb/na/na-k10015169981000",
-        "https://news.web.nhk/newsweb/na/na-k10015169911000",
-        "https://news.web.nhk/newsweb/na/na-k10015170001000"
+        "https://news.web.nhk/newsweb/na/na-k10015169981000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/wild-new-study-claims-we-can-nudge-hurricanes-away-from-land/",
