@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/cqj11lxwnn0o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015171491000",
+        "https://news.web.nhk/newsweb/na/na-k10015171681000",
         "https://news.web.nhk/newsweb/na/na-k10015171571000",
         "https://news.web.nhk/newsweb/na/na-k10015171521000",
         "https://news.web.nhk/newsweb/na/na-k10015171641000",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015169451000",
         "https://news.web.nhk/newsweb/na/na-k10015169471000",
         "https://news.web.nhk/newsweb/na/na-k10015167281000",
-        "https://news.web.nhk/newsweb/na/na-k10015169501000",
-        "https://news.web.nhk/newsweb/na/na-k10015169441000",
-        "https://news.web.nhk/newsweb/na/na-k10015169401000"
+        "https://news.web.nhk/newsweb/na/na-k10015169501000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/hyperx-4mic/",
