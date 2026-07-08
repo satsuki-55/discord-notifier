@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cg4w39gvdw1o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015171701000",
         "https://news.web.nhk/newsweb/na/na-k10015171601000",
         "https://news.web.nhk/newsweb/na/na-k10015171591000",
         "https://news.web.nhk/newsweb/na/na-k10015171691000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015169491000",
         "https://news.web.nhk/newsweb/na/na-k10015169481000",
         "https://news.web.nhk/newsweb/na/na-k10015168401000",
-        "https://news.web.nhk/newsweb/na/na-k10015169521000",
-        "https://news.web.nhk/newsweb/na/na-k10015169531000"
+        "https://news.web.nhk/newsweb/na/na-k10015169521000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/kikippa-earphone-02/",
