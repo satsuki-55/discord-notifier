@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cr7xpgx50jxo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015172041000",
         "https://news.web.nhk/newsweb/na/na-k10015172061000",
         "https://news.web.nhk/newsweb/na/na-k10015172141000",
         "https://news.web.nhk/newsweb/na/na-k10015171961000",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/na-k10015169921000",
         "https://news.web.nhk/newsweb/na/na-k10015169931000",
         "https://news.web.nhk/newsweb/na/na-k10015169891000",
-        "https://news.web.nhk/newsweb/na/na-k10015140741000",
-        "https://news.web.nhk/newsweb/na/na-k10015169821000"
+        "https://news.web.nhk/newsweb/na/na-k10015140741000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/ringke-strap/",
         "https://www.gizmodo.jp/article/baramood_handyfan_type-02-silky/",
         "https://www.gizmodo.jp/article/sony-rx10v/",
         "https://www.gizmodo.jp/article/tp-link-tc93d-kit-sale/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/soccer-world-cup-ai-bringing-in/",
         "https://www.gizmodo.jp/article/snowpeak_stainless-cooling-pack-set/",
         "https://www.gizmodo.jp/article/orca-echo-last-chance-20off/",
-        "https://www.gizmodo.jp/article/keychron-t1-he-last-chance/",
-        "https://www.gizmodo.jp/article/nanga_plc-excursion-longsleeve_tops/"
+        "https://www.gizmodo.jp/article/keychron-t1-he-last-chance/"
     ]
 }
