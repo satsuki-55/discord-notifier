@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c1my27lyjx9o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015171951000",
         "https://news.web.nhk/newsweb/na/na-k10015171941000",
         "https://news.web.nhk/newsweb/na/na-k10015169771000",
         "https://news.web.nhk/newsweb/na/na-k10015171981000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015169881000",
         "https://news.web.nhk/newsweb/na/na-k10015169761000",
         "https://news.web.nhk/newsweb/na/na-k10015169741000",
-        "https://news.web.nhk/newsweb/na/na-k10015169831000",
-        "https://news.web.nhk/newsweb/na/na-k10015169851000"
+        "https://news.web.nhk/newsweb/na/na-k10015169831000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/sony-rx10v/",
