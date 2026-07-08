@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/sport/football/articles/cjrgg07p8dlo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015171971000",
         "https://news.web.nhk/newsweb/na/na-k10015169891000",
         "https://news.web.nhk/newsweb/na/na-k10015172081000",
         "https://news.web.nhk/newsweb/na/na-k10015172111000",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/na-k10015169911000",
         "https://news.web.nhk/newsweb/na/na-k10015170001000",
         "https://news.web.nhk/newsweb/na/na-k10015169991000",
-        "https://news.web.nhk/newsweb/na/na-k10015169971000",
-        "https://news.web.nhk/newsweb/na/na-k10015169951000"
+        "https://news.web.nhk/newsweb/na/na-k10015169971000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/hiroshima-chair/",
         "https://www.gizmodo.jp/article/doom-t-shirt/",
         "https://www.gizmodo.jp/article/amazon-primeday-a159w/",
         "https://www.gizmodo.jp/article/ringke-strap/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/viture-beast-friendly-xr/",
         "https://www.gizmodo.jp/article/mofma_ghost-table-regular-size/",
         "https://www.gizmodo.jp/article/3coins_silicone-magnetic-umbrella-holder/",
-        "https://www.gizmodo.jp/article/soccer-world-cup-ai-bringing-in/",
-        "https://www.gizmodo.jp/article/snowpeak_stainless-cooling-pack-set/"
+        "https://www.gizmodo.jp/article/soccer-world-cup-ai-bringing-in/"
     ]
 }
