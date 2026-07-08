@@ -2,6 +2,11 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "vcFw7UKnHzw",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "m_TN_mfNfv0",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c0ky1gxgxjro#0",
+        "https://www.bbc.co.uk/news/articles/cvg49eqwe48o#0",
+        "https://www.bbc.co.uk/news/articles/cevlm4lxjxeo#1",
+        "https://www.bbc.co.uk/news/articles/cly77j4741lo#1",
+        "https://www.bbc.co.uk/news/articles/clyw89g3443o#0",
         "https://www.bbc.co.uk/news/articles/c1ly1vddj6qo#0",
         "https://www.bbc.co.uk/news/articles/cvgdlprp1r3o#0",
         "https://www.bbc.co.uk/news/articles/cjdg4r3k3emo#1",
@@ -196,14 +201,11 @@
         "https://www.bbc.co.uk/news/articles/cq61j11r577o#1",
         "https://www.bbc.co.uk/news/articles/cy5vvydg0eqo#0",
         "https://www.bbc.co.uk/news/articles/crlwwkyg610o#0",
-        "https://www.bbc.co.uk/news/articles/c20y39wy760o#0",
-        "https://www.bbc.co.uk/news/articles/czj8w4pjd4yo#0",
-        "https://www.bbc.co.uk/news/articles/cj4gy9qy7vyo#1",
-        "https://www.bbc.co.uk/news/articles/clyeele4leeo#0",
-        "https://www.bbc.co.uk/news/articles/cdx7zzywz7wo#0",
-        "https://www.bbc.co.uk/news/articles/cg4w39gvdw1o#0"
+        "https://www.bbc.co.uk/news/articles/c20y39wy760o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015171771000",
+        "https://news.web.nhk/newsweb/na/na-k10015171761000",
         "https://news.web.nhk/newsweb/na/na-k10015168401000",
         "https://news.web.nhk/newsweb/na/na-k10015171731000",
         "https://news.web.nhk/newsweb/na/na-k10015171741000",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015169511000",
         "https://news.web.nhk/newsweb/na/na-k10015169561000",
         "https://news.web.nhk/newsweb/na/na-k10015169591000",
-        "https://news.web.nhk/newsweb/na/na-k10015169571000",
-        "https://news.web.nhk/newsweb/na/na-k10015169581000",
-        "https://news.web.nhk/newsweb/na/na-k10015169491000"
+        "https://news.web.nhk/newsweb/na/na-k10015169571000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/bauhutte-bhd-tb-1500sc/",
