@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cly77j4741lo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015172301000",
         "https://news.web.nhk/newsweb/na/na-k10015170251000",
         "https://news.web.nhk/newsweb/na/na-k10015172311000",
         "https://news.web.nhk/newsweb/na/na-k10015172451000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015170451000",
         "https://news.web.nhk/newsweb/na/na-k10015167461000",
         "https://news.web.nhk/newsweb/na/na-k10015170111000",
-        "https://news.web.nhk/newsweb/na/na-k10015170271000",
-        "https://news.web.nhk/newsweb/na/na-k10015170311000"
+        "https://news.web.nhk/newsweb/na/na-k10015170271000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/gpt_live_chatgpt_voice_update/",
