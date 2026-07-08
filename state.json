@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "vcFw7UKnHzw",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "m_TN_mfNfv0",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/crel4yyxwd1o#0",
         "https://www.bbc.co.uk/news/articles/cz75zjj5wp8o#0",
         "https://www.bbc.co.uk/news/articles/c0jy3pd2jzqo#0",
         "https://www.bbc.co.uk/weather/articles/ce3e443e1yko#0",
@@ -200,10 +201,10 @@
         "https://www.bbc.co.uk/sport/tennis/articles/cly99r28k9no#0",
         "https://www.bbc.co.uk/news/articles/cly77j4741lo#0",
         "https://www.bbc.co.uk/news/articles/cx2jj11kg5do#0",
-        "https://www.bbc.co.uk/news/videos/c2lyyqzvl28o#0",
-        "https://www.bbc.co.uk/news/articles/c1myyyyjvx5o#0"
+        "https://www.bbc.co.uk/news/videos/c2lyyqzvl28o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015172451000",
         "https://news.web.nhk/newsweb/na/na-k10015172441000",
         "https://news.web.nhk/newsweb/na/na-k10015167631000",
         "https://news.web.nhk/newsweb/na/na-k10015172371000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015170271000",
         "https://news.web.nhk/newsweb/na/na-k10015170311000",
         "https://news.web.nhk/newsweb/na/na-k10015170171000",
-        "https://news.web.nhk/newsweb/na/na-k10015170251000",
-        "https://news.web.nhk/newsweb/na/na-k10015170211000"
+        "https://news.web.nhk/newsweb/na/na-k10015170251000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/bose_quietcomfort_ultra_headphones_review/",
