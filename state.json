@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/cq61j11r577o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015169561000",
+        "https://news.web.nhk/newsweb/na/na-k10015171611000",
         "https://news.web.nhk/newsweb/na/na-k10015171801000",
         "https://news.web.nhk/newsweb/na/na-k10015171781000",
         "https://news.web.nhk/newsweb/na/na-k10015171771000",
@@ -401,11 +403,10 @@
         "https://news.web.nhk/newsweb/na/na-k10015169631000",
         "https://news.web.nhk/newsweb/na/na-k10015169621000",
         "https://news.web.nhk/newsweb/na/na-k10015169651000",
-        "https://news.web.nhk/newsweb/na/na-k10015169611000",
-        "https://news.web.nhk/newsweb/na/na-k10015169511000",
-        "https://news.web.nhk/newsweb/na/na-k10015169561000"
+        "https://news.web.nhk/newsweb/na/na-k10015169611000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/yamazaki_tower_breadcase/",
         "https://www.gizmodo.jp/article/bauhutte-bhd-tb-1500sc/",
         "https://www.gizmodo.jp/article/kikippa-earphone-02/",
         "https://www.gizmodo.jp/article/anker-soundcore-liberty-5-pro-max/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/apple_airpods_max_care/",
         "https://www.gizmodo.jp/article/amazon-coleman-umbrella/",
         "https://www.gizmodo.jp/article/0385016f-f20b-4e28-b92a-6742e0eff5dc/",
-        "https://www.gizmodo.jp/article/2606-changes-in-recruitment-of-nuclear-personnel-rfd/",
-        "https://www.gizmodo.jp/article/macbook-ultra-design-change-spec-keep/"
+        "https://www.gizmodo.jp/article/2606-changes-in-recruitment-of-nuclear-personnel-rfd/"
     ]
 }
