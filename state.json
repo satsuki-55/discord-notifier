@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c24y2303ev8o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015172171000",
         "https://news.web.nhk/newsweb/na/na-k10015171971000",
         "https://news.web.nhk/newsweb/na/na-k10015169891000",
         "https://news.web.nhk/newsweb/na/na-k10015172081000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015169981000",
         "https://news.web.nhk/newsweb/na/na-k10015169911000",
         "https://news.web.nhk/newsweb/na/na-k10015170001000",
-        "https://news.web.nhk/newsweb/na/na-k10015169991000",
-        "https://news.web.nhk/newsweb/na/na-k10015169971000"
+        "https://news.web.nhk/newsweb/na/na-k10015169991000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/hiroshima-chair/",
