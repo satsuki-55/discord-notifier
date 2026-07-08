@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/cvg77klne3yo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015167631000",
+        "https://news.web.nhk/newsweb/na/na-k10015172371000",
         "https://news.web.nhk/newsweb/na/na-k10015170191000",
         "https://news.web.nhk/newsweb/na/na-k10015172281000",
         "https://news.web.nhk/newsweb/na/na-k10015172271000",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015170171000",
         "https://news.web.nhk/newsweb/na/na-k10015170251000",
         "https://news.web.nhk/newsweb/na/na-k10015170211000",
-        "https://news.web.nhk/newsweb/na/na-k10015170121000",
-        "https://news.web.nhk/newsweb/na/na-k10015170241000",
-        "https://news.web.nhk/newsweb/na/na-k10015167631000"
+        "https://news.web.nhk/newsweb/na/na-k10015170121000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/bose_quietcomfort_ultra_headphones_review/",
