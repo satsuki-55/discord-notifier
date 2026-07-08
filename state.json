@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "vcFw7UKnHzw",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "m_TN_mfNfv0",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c5yz3770yg8o#1",
         "https://www.bbc.co.uk/sport/football/articles/c1my1pr18jmo#0",
         "https://www.bbc.co.uk/news/articles/cvg49eqwe48o#1",
         "https://www.bbc.co.uk/news/articles/c8e2njxnn7jo#0",
@@ -200,10 +201,10 @@
         "https://www.bbc.co.uk/news/videos/cn077rdg1p8o#1",
         "https://www.bbc.co.uk/news/articles/cdx7zzywz7wo#1",
         "https://www.bbc.co.uk/news/articles/cr7xpgx50jxo#1",
-        "https://www.bbc.co.uk/news/articles/c1my27lyjx9o#0",
-        "https://www.bbc.co.uk/news/articles/cewqqnd7zdwo#0"
+        "https://www.bbc.co.uk/news/articles/c1my27lyjx9o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015171941000",
         "https://news.web.nhk/newsweb/na/na-k10015169771000",
         "https://news.web.nhk/newsweb/na/na-k10015171981000",
         "https://news.web.nhk/newsweb/na/na-k10015171931000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015169761000",
         "https://news.web.nhk/newsweb/na/na-k10015169741000",
         "https://news.web.nhk/newsweb/na/na-k10015169831000",
-        "https://news.web.nhk/newsweb/na/na-k10015169851000",
-        "https://news.web.nhk/newsweb/na/na-k10015169791000"
+        "https://news.web.nhk/newsweb/na/na-k10015169851000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/tp-link-tc93d-kit-sale/",
