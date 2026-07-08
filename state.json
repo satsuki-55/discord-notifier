@@ -2,6 +2,10 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "vcFw7UKnHzw",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "m_TN_mfNfv0",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/videos/cy8www7pv5wo#0",
+        "https://www.bbc.co.uk/news/articles/c4gyy08zg2no#0",
+        "https://www.bbc.co.uk/news/articles/ce8klree690o#0",
+        "https://www.bbc.co.uk/news/articles/cx2wkzww20ro#1",
         "https://www.bbc.co.uk/news/articles/c36yy27rnpeo#0",
         "https://www.bbc.co.uk/news/articles/cly0ly30384o#0",
         "https://www.bbc.co.uk/news/articles/c9v24wpynv1o#0",
@@ -197,13 +201,10 @@
         "https://www.bbc.co.uk/news/articles/cvgjjzj46jjo#1",
         "https://www.bbc.co.uk/news/articles/c5yzzzdwqjko#0",
         "https://www.bbc.co.uk/sport/football/articles/cvgmmm5923yo#0",
-        "https://www.bbc.co.uk/news/videos/c78yyyl2ev4o#0",
-        "https://www.bbc.co.uk/news/articles/c79yyyxzergo#0",
-        "https://www.bbc.co.uk/news/articles/cj0ggn1214vo#0",
-        "https://www.bbc.co.uk/news/videos/cy8www7pv5wo#0",
-        "https://www.bbc.co.uk/news/articles/c4gyy08zg2no#0"
+        "https://www.bbc.co.uk/news/videos/c78yyyl2ev4o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015172421000",
         "https://news.web.nhk/newsweb/na/na-k10015172411000",
         "https://news.web.nhk/newsweb/na/na-k10015167451000",
         "https://news.web.nhk/newsweb/na/na-k10015172361000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015170081000",
         "https://news.web.nhk/newsweb/na/na-k10015170141000",
         "https://news.web.nhk/newsweb/na/na-k10015170131000",
-        "https://news.web.nhk/newsweb/na/na-k10015170041000",
-        "https://news.web.nhk/newsweb/na/na-k10015170181000"
+        "https://news.web.nhk/newsweb/na/na-k10015170041000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/bose_quietcomfort_ultra_headphones_review/",
