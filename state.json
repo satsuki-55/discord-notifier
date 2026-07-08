@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c9922x87nj8o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015171841000",
         "https://news.web.nhk/newsweb/na/na-k10015171851000",
         "https://news.web.nhk/newsweb/na/na-k10015140771000",
         "https://news.web.nhk/newsweb/na/na-k10015171881000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015169711000",
         "https://news.web.nhk/newsweb/na/na-k10015169701000",
         "https://news.web.nhk/newsweb/na/na-k10015169691000",
-        "https://news.web.nhk/newsweb/na/na-k10015169661000",
-        "https://news.web.nhk/newsweb/na/na-k10015169641000"
+        "https://news.web.nhk/newsweb/na/na-k10015169661000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/anker-soundcore-spaceonepro-amazon-primeday/",
