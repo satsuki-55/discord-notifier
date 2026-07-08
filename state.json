@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/sport/football/articles/cly99dxjkxxo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015172101000",
         "https://news.web.nhk/newsweb/na/na-k10015172181000",
         "https://news.web.nhk/newsweb/na/na-k10015172161000",
         "https://news.web.nhk/newsweb/na/na-k10015172131000",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/na-k10015170031000",
         "https://news.web.nhk/newsweb/na/na-k10015169901000",
         "https://news.web.nhk/newsweb/na/na-k10015170091000",
-        "https://news.web.nhk/newsweb/na/na-k10015170011000",
-        "https://news.web.nhk/newsweb/na/na-k10015170051000"
+        "https://news.web.nhk/newsweb/na/na-k10015170011000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/amazon-primeday-motorola-razr-60/",
         "https://www.gizmodo.jp/article/top-10-of-consumers-create-up-to-5-7-trillion-in-environmental-damage-annually/",
         "https://www.gizmodo.jp/article/wild-new-study-claims-we-can-nudge-hurricanes-away-from-land/",
         "https://www.gizmodo.jp/article/game-discs-deserve-to-die/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/ideas4space-development/",
         "https://www.gizmodo.jp/article/spy-turtles_and_spy-fish/",
         "https://www.gizmodo.jp/article/the-world-cup-is-quietly-making-a-case-for-smart-glasses-in-sports-jpn/",
-        "https://www.gizmodo.jp/article/meta-thinks-social-learning-can-fix-smart-glasses-privacy-problems/",
-        "https://www.gizmodo.jp/article/viture-beast-friendly-xr/"
+        "https://www.gizmodo.jp/article/meta-thinks-social-learning-can-fix-smart-glasses-privacy-problems/"
     ]
 }
