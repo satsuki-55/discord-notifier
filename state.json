@@ -2,6 +2,9 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "vcFw7UKnHzw",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "m_TN_mfNfv0",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c4gyp1knzzxo#0",
+        "https://www.bbc.co.uk/news/articles/c77y0n7k801o#0",
+        "https://www.bbc.co.uk/news/articles/cly76jlxljlo#1",
         "https://www.bbc.co.uk/news/articles/cg5pd9z2487o#0",
         "https://www.bbc.co.uk/news/articles/clypqj2z1zpo#1",
         "https://www.bbc.co.uk/news/articles/cn75nm0e4plo#1",
@@ -198,12 +201,12 @@
         "https://www.bbc.co.uk/news/videos/cj0g3rze2gqo#0",
         "https://www.bbc.co.uk/news/articles/c20y2lkgz13o#0",
         "https://www.bbc.co.uk/news/articles/cewqzrkvwvqo#0",
-        "https://www.bbc.co.uk/news/articles/c8e2j0j87reo#0",
-        "https://www.bbc.co.uk/news/videos/cq61d22ved2o#0",
-        "https://www.bbc.co.uk/news/articles/c872ngz405xo#1",
-        "https://www.bbc.co.uk/news/articles/cy8ddd1m3mpo#1"
+        "https://www.bbc.co.uk/news/articles/c8e2j0j87reo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015172941000",
+        "https://news.web.nhk/newsweb/na/na-k10015172961000",
+        "https://news.web.nhk/newsweb/na/na-k10015172911000",
         "https://news.web.nhk/newsweb/na/na-k10015172871000",
         "https://news.web.nhk/newsweb/na/na-k10015172901000",
         "https://news.web.nhk/newsweb/na/na-k10015172881000",
@@ -400,12 +403,11 @@
         "https://news.web.nhk/newsweb/na/na-k10015170691000",
         "https://news.web.nhk/newsweb/na/na-k10015170661000",
         "https://news.web.nhk/newsweb/na/na-k10015168051000",
-        "https://news.web.nhk/newsweb/na/na-k10015170681000",
-        "https://news.web.nhk/newsweb/na/na-k10015170641000",
-        "https://news.web.nhk/newsweb/na/na-k10015170651000",
-        "https://news.web.nhk/newsweb/na/na-k10015170621000"
+        "https://news.web.nhk/newsweb/na/na-k10015170681000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/alta-green-magnet-smartphone-holder/",
+        "https://www.gizmodo.jp/article/pebble-round-2-will-cash-in-on-smartwatch-nostalgia-next-month/",
         "https://www.gizmodo.jp/article/nothings-ear-3a-wireless-earbuds-can-take-audio-snapshots/",
         "https://www.gizmodo.jp/article/anker_solix_ps30_portable_solar_panel/",
         "https://www.gizmodo.jp/article/lawson-car-camping/",
@@ -603,8 +605,6 @@
         "https://www.gizmodo.jp/article/ibm-crosses-one-of-computings-biggest-barriers-with-worlds-first-sub-1-nanometer-chip/",
         "https://www.gizmodo.jp/article/entirely-new-type-of-wood-macrofibril/",
         "https://www.gizmodo.jp/article/bandw-pi8-1/",
-        "https://www.gizmodo.jp/article/headrest_stick_fan_seikosangyo/",
-        "https://www.gizmodo.jp/article/7e42c88d-33d1-4e24-ab84-fcbd2fdc8c1a/",
-        "https://www.gizmodo.jp/article/2605-stock-market-investing-strategy-buy-sell-in-may-midterm-elections-qwc/"
+        "https://www.gizmodo.jp/article/headrest_stick_fan_seikosangyo/"
     ]
 }
