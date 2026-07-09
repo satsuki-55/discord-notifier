@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "vcFw7UKnHzw",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "m_TN_mfNfv0",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/ckg4e3lwzqzo#1",
         "https://www.bbc.co.uk/news/articles/cj3gdj300lyo#0",
         "https://www.bbc.co.uk/news/articles/cvg49lq1jw6o#0",
         "https://www.bbc.co.uk/news/articles/c621k5r8764o#0",
@@ -200,10 +201,10 @@
         "https://www.bbc.co.uk/news/articles/c5yzzz856m3o#0",
         "https://www.bbc.co.uk/news/articles/cvgdlnvg2n5o#0",
         "https://www.bbc.co.uk/sport/football/articles/cdejw7xxe23o#1",
-        "https://www.bbc.co.uk/sport/football/articles/cdejw7xxe23o#0",
-        "https://www.bbc.co.uk/bitesize/articles/zfvxjfr#1"
+        "https://www.bbc.co.uk/sport/football/articles/cdejw7xxe23o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015173141000",
         "https://news.web.nhk/newsweb/na/na-k10015173211000",
         "https://news.web.nhk/newsweb/na/na-k10015173191000",
         "https://news.web.nhk/newsweb/na/na-k10015173181000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015171121000",
         "https://news.web.nhk/newsweb/na/na-k10015171061000",
         "https://news.web.nhk/newsweb/na/na-k10015171011000",
-        "https://news.web.nhk/newsweb/na/na-k10015171021000",
-        "https://news.web.nhk/newsweb/na/na-k10015171001000"
+        "https://news.web.nhk/newsweb/na/na-k10015171021000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/switchbot-smart-lock-aef/",
