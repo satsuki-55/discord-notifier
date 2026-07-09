@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cj9gggjekyjo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015140781000",
         "https://news.web.nhk/newsweb/na/na-k10015172771000",
         "https://news.web.nhk/newsweb/na/na-k10015172731000",
         "https://news.web.nhk/newsweb/na/na-k10015172751000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015170571000",
         "https://news.web.nhk/newsweb/na/na-k10015170531000",
         "https://news.web.nhk/newsweb/na/na-k10015170561000",
-        "https://news.web.nhk/newsweb/na/na-k10015170521000",
-        "https://news.web.nhk/newsweb/na/na-k10015170261000"
+        "https://news.web.nhk/newsweb/na/na-k10015170521000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/this-is-supposedly-the-iphone-air-2-in-lavender/",
