@@ -2,6 +2,11 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "vcFw7UKnHzw",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "m_TN_mfNfv0",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cg5pd9z2487o#0",
+        "https://www.bbc.co.uk/news/articles/clypqj2z1zpo#1",
+        "https://www.bbc.co.uk/news/articles/cn75nm0e4plo#1",
+        "https://www.bbc.co.uk/news/articles/cevlw4wnlmxo#0",
+        "https://www.bbc.co.uk/news/articles/c4gyp1knzzxo#1",
         "https://www.bbc.co.uk/news/articles/crm0r94mv7jo#0",
         "https://www.bbc.co.uk/news/articles/cx235xy2ky4o#0",
         "https://www.bbc.co.uk/news/articles/c9q2rgx9qglo#0",
@@ -196,14 +201,12 @@
         "https://www.bbc.co.uk/news/articles/c8e2j0j87reo#0",
         "https://www.bbc.co.uk/news/videos/cq61d22ved2o#0",
         "https://www.bbc.co.uk/news/articles/c872ngz405xo#1",
-        "https://www.bbc.co.uk/news/articles/cy8ddd1m3mpo#1",
-        "https://www.bbc.co.uk/sport/football/articles/c4gyj50450go#0",
-        "https://www.bbc.co.uk/news/articles/clyee17y0e7o#1",
-        "https://www.bbc.co.uk/news/articles/c0my2kjjnp2o#0",
-        "https://www.bbc.co.uk/news/articles/c04yx44xq19o#1",
-        "https://www.bbc.co.uk/news/articles/c872ngz405xo#0"
+        "https://www.bbc.co.uk/news/articles/cy8ddd1m3mpo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015172871000",
+        "https://news.web.nhk/newsweb/na/na-k10015172901000",
+        "https://news.web.nhk/newsweb/na/na-k10015172881000",
         "https://news.web.nhk/newsweb/na/na-k10015172891000",
         "https://news.web.nhk/newsweb/na/na-k10015172861000",
         "https://news.web.nhk/newsweb/na/na-k10015172851000",
@@ -400,10 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015170681000",
         "https://news.web.nhk/newsweb/na/na-k10015170641000",
         "https://news.web.nhk/newsweb/na/na-k10015170651000",
-        "https://news.web.nhk/newsweb/na/na-k10015170621000",
-        "https://news.web.nhk/newsweb/na/na-k10015170611000",
-        "https://news.web.nhk/newsweb/na/na-k10015170631000",
-        "https://news.web.nhk/newsweb/na/na-k10015170591000"
+        "https://news.web.nhk/newsweb/na/na-k10015170621000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/nothings-ear-3a-wireless-earbuds-can-take-audio-snapshots/",
