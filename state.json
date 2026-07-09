@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015170921000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/oxtak-money-penny-look/",
         "https://www.gizmodo.jp/article/amazon-primeday-usb-charger-with-cable/",
         "https://www.gizmodo.jp/article/extensions-sdk-bate/",
         "https://www.gizmodo.jp/article/panasonic-tv-door-phone-review-oay/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/commodore-callback8020/",
         "https://www.gizmodo.jp/article/sand-battery/",
         "https://www.gizmodo.jp/article/beats-seven-eleven/",
-        "https://www.gizmodo.jp/article/the-token-belt-tightening-is-coming-for-pdfs/",
-        "https://www.gizmodo.jp/article/jumping-jacks-gadget-68/"
+        "https://www.gizmodo.jp/article/the-token-belt-tightening-is-coming-for-pdfs/"
     ]
 }
