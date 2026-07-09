@@ -2,6 +2,8 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "vcFw7UKnHzw",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "m_TN_mfNfv0",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c4gyy8jdn3eo#0",
+        "https://www.bbc.co.uk/news/articles/c07ylddnvmyo#0",
         "https://www.bbc.co.uk/news/articles/cwylzxw7p52o#0",
         "https://www.bbc.co.uk/news/articles/c75ygdgk5v6o#0",
         "https://www.bbc.co.uk/news/articles/cj6g3rd6k2jo#0",
@@ -199,11 +201,11 @@
         "https://www.bbc.co.uk/news/articles/cdjk0d3yp02o#0",
         "https://www.bbc.co.uk/news/articles/cze9kpxx6d8o#0",
         "https://www.bbc.co.uk/news/articles/c05y9pe5p1jo#1",
-        "https://www.bbc.co.uk/news/articles/c1my1rvy28do#0",
-        "https://www.bbc.co.uk/sport/football/articles/c1myykx0gmxo#1",
-        "https://www.bbc.co.uk/news/articles/c4gyy8jdn3eo#0"
+        "https://www.bbc.co.uk/news/articles/c1my1rvy28do#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015173001000",
+        "https://news.web.nhk/newsweb/na/na-k10015173011000",
         "https://news.web.nhk/newsweb/na/na-k10015173021000",
         "https://news.web.nhk/newsweb/na/na-k10015172991000",
         "https://news.web.nhk/newsweb/na/na-k10015172971000",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015170891000",
         "https://news.web.nhk/newsweb/na/na-k10015170791000",
         "https://news.web.nhk/newsweb/na/na-k10015170811000",
-        "https://news.web.nhk/newsweb/na/na-k10015170831000",
-        "https://news.web.nhk/newsweb/na/na-k10015170801000",
-        "https://news.web.nhk/newsweb/na/na-k10015168221000"
+        "https://news.web.nhk/newsweb/na/na-k10015170831000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/cable-15cm-amazon-primeday/",
