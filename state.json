@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015171181000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/genuins-hawaii-kfq/",
         "https://www.gizmodo.jp/article/openai_gpt-5_6/",
         "https://www.gizmodo.jp/article/switchbot-smart-lock-aef/",
         "https://www.gizmodo.jp/article/oxtak-money-penny-look/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/three_thule-enroute/",
         "https://www.gizmodo.jp/article/fossil_discovered_in_denmark/",
         "https://www.gizmodo.jp/article/trump-admin-wants-to-make-brake-pedals-optional-in-autonomous-vehicles/",
-        "https://www.gizmodo.jp/article/commodore-callback8020/",
-        "https://www.gizmodo.jp/article/sand-battery/"
+        "https://www.gizmodo.jp/article/commodore-callback8020/"
     ]
 }
