@@ -2,6 +2,8 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "vcFw7UKnHzw",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "m_TN_mfNfv0",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cze9zd8drzro#0",
+        "https://www.bbc.co.uk/news/articles/czrxz18720eo#1",
         "https://www.bbc.co.uk/weather/articles/c0my38l4ex3o#0",
         "https://www.bbc.co.uk/news/articles/ce8kkerxz74o#0",
         "https://www.bbc.co.uk/news/articles/c39y78rwrmno#0",
@@ -199,11 +201,10 @@
         "https://www.bbc.co.uk/news/articles/cjdg4y3g0z7o#0",
         "https://www.bbc.co.uk/sport/tennis/articles/czx5q0kzrkro#0",
         "https://www.bbc.co.uk/news/articles/cgevwq1pndgo#1",
-        "https://www.bbc.co.uk/news/articles/cwykq59jwpvo#0",
-        "https://www.bbc.co.uk/news/articles/cevlm4lxjxeo#0",
-        "https://www.bbc.co.uk/news/articles/c4gyy4p0x3no#1"
+        "https://www.bbc.co.uk/news/articles/cwykq59jwpvo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015173331000",
         "https://news.web.nhk/newsweb/na/na-k10015173321000",
         "https://news.web.nhk/newsweb/na/na-k10015173301000",
         "https://news.web.nhk/newsweb/na/na-k10015173311000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015171281000",
         "https://news.web.nhk/newsweb/na/na-k10015168491000",
         "https://news.web.nhk/newsweb/na/na-k10015169021000",
-        "https://news.web.nhk/newsweb/na/na-k10015171201000",
-        "https://news.web.nhk/newsweb/na/na-k10015171161000"
+        "https://news.web.nhk/newsweb/na/na-k10015171201000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/ecovacs-amazon-primeday-2026/",
