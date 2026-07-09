@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "vcFw7UKnHzw",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "m_TN_mfNfv0",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cj6g3rd6k2jo#0",
         "https://www.bbc.co.uk/news/articles/clyr4l1p6d4o#0",
         "https://www.bbc.co.uk/news/articles/cy49w2knlrdo#1",
         "https://www.bbc.co.uk/news/articles/c2ey1p0jnmxo#0",
@@ -200,8 +201,7 @@
         "https://www.bbc.co.uk/sport/football/articles/c1myykx0gmxo#1",
         "https://www.bbc.co.uk/news/articles/c4gyy8jdn3eo#0",
         "https://www.bbc.co.uk/news/articles/c1myyyyjvx5o#1",
-        "https://www.bbc.co.uk/news/articles/c2eylx1jj9ko#0",
-        "https://www.bbc.co.uk/news/videos/cj0g3rze2gqo#0"
+        "https://www.bbc.co.uk/news/articles/c2eylx1jj9ko#0"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/na-k10015172971000",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015170771000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/amazon-primeday-nothing-watch-pro-2/",
         "https://www.gizmodo.jp/article/alta-green-magnet-smartphone-holder/",
         "https://www.gizmodo.jp/article/pebble-round-2-will-cash-in-on-smartwatch-nostalgia-next-month/",
         "https://www.gizmodo.jp/article/nothings-ear-3a-wireless-earbuds-can-take-audio-snapshots/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/oxtak-money-penny-look/",
         "https://www.gizmodo.jp/article/ibm-crosses-one-of-computings-biggest-barriers-with-worlds-first-sub-1-nanometer-chip/",
         "https://www.gizmodo.jp/article/entirely-new-type-of-wood-macrofibril/",
-        "https://www.gizmodo.jp/article/bandw-pi8-1/",
-        "https://www.gizmodo.jp/article/headrest_stick_fan_seikosangyo/"
+        "https://www.gizmodo.jp/article/bandw-pi8-1/"
     ]
 }
