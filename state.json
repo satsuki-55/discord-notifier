@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "vcFw7UKnHzw",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "m_TN_mfNfv0",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c2ey1p0jnmxo#0",
         "https://www.bbc.co.uk/news/articles/c4gyp1knzzxo#0",
         "https://www.bbc.co.uk/news/articles/c77y0n7k801o#0",
         "https://www.bbc.co.uk/news/articles/cly76jlxljlo#1",
@@ -200,10 +201,12 @@
         "https://www.bbc.co.uk/news/articles/c2eylx1jj9ko#0",
         "https://www.bbc.co.uk/news/videos/cj0g3rze2gqo#0",
         "https://www.bbc.co.uk/news/articles/c20y2lkgz13o#0",
-        "https://www.bbc.co.uk/news/articles/cewqzrkvwvqo#0",
-        "https://www.bbc.co.uk/news/articles/c8e2j0j87reo#0"
+        "https://www.bbc.co.uk/news/articles/cewqzrkvwvqo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015172931000",
+        "https://news.web.nhk/newsweb/na/na-k10015172981000",
+        "https://news.web.nhk/newsweb/na/na-k10015172841000",
         "https://news.web.nhk/newsweb/na/na-k10015172941000",
         "https://news.web.nhk/newsweb/na/na-k10015172961000",
         "https://news.web.nhk/newsweb/na/na-k10015172911000",
@@ -400,10 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015168151000",
         "https://news.web.nhk/newsweb/na/na-k10015170771000",
         "https://news.web.nhk/newsweb/na/na-k10015170711000",
-        "https://news.web.nhk/newsweb/na/na-k10015170691000",
-        "https://news.web.nhk/newsweb/na/na-k10015170661000",
-        "https://news.web.nhk/newsweb/na/na-k10015168051000",
-        "https://news.web.nhk/newsweb/na/na-k10015170681000"
+        "https://news.web.nhk/newsweb/na/na-k10015170691000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/alta-green-magnet-smartphone-holder/",
