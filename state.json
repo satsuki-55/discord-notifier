@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/ckg018w1r02o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015170291000",
         "https://news.web.nhk/newsweb/na/na-k10015172501000",
         "https://news.web.nhk/newsweb/na/na-k10015172471000",
         "https://news.web.nhk/newsweb/na/na-k10015172461000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015170401000",
         "https://news.web.nhk/newsweb/na/na-k10015170231000",
         "https://news.web.nhk/newsweb/na/na-k10015170431000",
-        "https://news.web.nhk/newsweb/na/na-k10015170461000",
-        "https://news.web.nhk/newsweb/na/na-k10015170331000"
+        "https://news.web.nhk/newsweb/na/na-k10015170461000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/realforce_keyboard_seven_eleven/",
