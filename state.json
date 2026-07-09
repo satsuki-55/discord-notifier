@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "vcFw7UKnHzw",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "m_TN_mfNfv0",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c982vm2jzl1o#1",
         "https://www.bbc.co.uk/news/articles/cy73znrkg5yo#0",
         "https://www.bbc.co.uk/news/articles/c20yjjm7n87o#1",
         "https://www.bbc.co.uk/news/articles/cx2vz51v2pjo#0",
@@ -200,10 +201,10 @@
         "https://www.bbc.co.uk/news/articles/cqj1xvy44xno#0",
         "https://www.bbc.co.uk/news/articles/c4gy9lpylz9o#1",
         "https://www.bbc.co.uk/news/articles/c0ly51kzdz3o#0",
-        "https://www.bbc.co.uk/news/articles/cvg49lq1jw6o#0",
-        "https://www.bbc.co.uk/news/articles/c07yy3j3nljo#1"
+        "https://www.bbc.co.uk/news/articles/cvg49lq1jw6o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015173181000",
         "https://news.web.nhk/newsweb/na/na-k10015173201000",
         "https://news.web.nhk/newsweb/na/na-k10015173171000",
         "https://news.web.nhk/newsweb/na/na-k10015173161000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015171021000",
         "https://news.web.nhk/newsweb/na/na-k10015171001000",
         "https://news.web.nhk/newsweb/na/na-k10015170981000",
-        "https://news.web.nhk/newsweb/na/na-k10015170971000",
-        "https://news.web.nhk/newsweb/na/na-k10015170961000"
+        "https://news.web.nhk/newsweb/na/na-k10015170971000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/switchbot-smart-lock-aef/",
