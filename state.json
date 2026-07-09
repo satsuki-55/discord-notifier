@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c1my1rvy28do#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015173081000",
         "https://news.web.nhk/newsweb/na/na-k10015173001000",
         "https://news.web.nhk/newsweb/na/na-k10015173011000",
         "https://news.web.nhk/newsweb/na/na-k10015173021000",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/na-k10015170851000",
         "https://news.web.nhk/newsweb/na/na-k10015170891000",
         "https://news.web.nhk/newsweb/na/na-k10015170791000",
-        "https://news.web.nhk/newsweb/na/na-k10015170811000",
-        "https://news.web.nhk/newsweb/na/na-k10015170831000"
+        "https://news.web.nhk/newsweb/na/na-k10015170811000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/ore_energy_ironpower/",
         "https://www.gizmodo.jp/article/cable-15cm-amazon-primeday/",
         "https://www.gizmodo.jp/article/amazon-primeday-nothing-watch-pro-2/",
         "https://www.gizmodo.jp/article/alta-green-magnet-smartphone-holder/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/jumping-jacks-gadget-68/",
         "https://www.gizmodo.jp/article/enya_st1_review/",
         "https://www.gizmodo.jp/article/oxtak-money-penny-look/",
-        "https://www.gizmodo.jp/article/ibm-crosses-one-of-computings-biggest-barriers-with-worlds-first-sub-1-nanometer-chip/",
-        "https://www.gizmodo.jp/article/entirely-new-type-of-wood-macrofibril/"
+        "https://www.gizmodo.jp/article/ibm-crosses-one-of-computings-biggest-barriers-with-worlds-first-sub-1-nanometer-chip/"
     ]
 }
