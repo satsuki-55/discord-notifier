@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cze9kpxx6d8o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015173161000",
         "https://news.web.nhk/newsweb/na/na-k10015172741000",
         "https://news.web.nhk/newsweb/na/na-k10015170901000",
         "https://news.web.nhk/newsweb/na/na-k10015171991000",
@@ -402,10 +403,11 @@
         "https://news.web.nhk/newsweb/na/na-k10015170971000",
         "https://news.web.nhk/newsweb/na/na-k10015170961000",
         "https://news.web.nhk/newsweb/na/na-k10015140761000",
-        "https://news.web.nhk/newsweb/na/na-k10015170921000",
-        "https://news.web.nhk/newsweb/na/na-k10015170821000"
+        "https://news.web.nhk/newsweb/na/na-k10015170921000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/amazon-primeday-usb-charger-with-cable/",
+        "https://www.gizmodo.jp/article/extensions-sdk-bate/",
         "https://www.gizmodo.jp/article/panasonic-tv-door-phone-review-oay/",
         "https://www.gizmodo.jp/article/ore_energy_ironpower/",
         "https://www.gizmodo.jp/article/cable-15cm-amazon-primeday/",
@@ -603,8 +605,6 @@
         "https://www.gizmodo.jp/article/sand-battery/",
         "https://www.gizmodo.jp/article/beats-seven-eleven/",
         "https://www.gizmodo.jp/article/the-token-belt-tightening-is-coming-for-pdfs/",
-        "https://www.gizmodo.jp/article/jumping-jacks-gadget-68/",
-        "https://www.gizmodo.jp/article/enya_st1_review/",
-        "https://www.gizmodo.jp/article/oxtak-money-penny-look/"
+        "https://www.gizmodo.jp/article/jumping-jacks-gadget-68/"
     ]
 }
