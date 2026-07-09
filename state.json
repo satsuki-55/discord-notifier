@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "vcFw7UKnHzw",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "m_TN_mfNfv0",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cn59n10qnqzo#0",
         "https://www.bbc.co.uk/news/articles/czxq4ge246wo#0",
         "https://www.bbc.co.uk/news/videos/cpq309jrve4o#0",
         "https://www.bbc.co.uk/news/articles/c9928zr2m5xo#0",
@@ -200,10 +201,10 @@
         "https://www.bbc.co.uk/news/articles/c04yywdq69vo#0",
         "https://www.bbc.co.uk/sport/tennis/articles/c3wyyj54p18o#0",
         "https://www.bbc.co.uk/news/articles/cd7wj7d0jzzo#0",
-        "https://www.bbc.co.uk/news/articles/c5yzzzdwqjko#1",
-        "https://www.bbc.co.uk/news/articles/cdxdgpgn0zwo#0"
+        "https://www.bbc.co.uk/news/articles/c5yzzzdwqjko#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015172701000",
         "https://news.web.nhk/newsweb/na/na-k10015172671000",
         "https://news.web.nhk/newsweb/na/na-k10015172641000",
         "https://news.web.nhk/newsweb/na/na-k10015172651000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015170441000",
         "https://news.web.nhk/newsweb/na/na-k10015170471000",
         "https://news.web.nhk/newsweb/na/na-k10015170501000",
-        "https://news.web.nhk/newsweb/na/na-k10015170491000",
-        "https://news.web.nhk/newsweb/na/na-k10015170481000"
+        "https://news.web.nhk/newsweb/na/na-k10015170491000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/zebra-stylus-2way/",
