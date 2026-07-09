@@ -2,6 +2,11 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "vcFw7UKnHzw",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "m_TN_mfNfv0",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/czxq4ge246wo#0",
+        "https://www.bbc.co.uk/news/videos/cpq309jrve4o#0",
+        "https://www.bbc.co.uk/news/articles/c9928zr2m5xo#0",
+        "https://www.bbc.co.uk/news/articles/c0jy3pd2jzqo#1",
+        "https://www.bbc.co.uk/news/articles/c9q29j47v9ro#1",
         "https://www.bbc.co.uk/news/articles/c20y9g2v2wvo#0",
         "https://www.bbc.co.uk/news/articles/c4gymkg9lr2o#0",
         "https://www.bbc.co.uk/news/articles/c98205r7dylo#0",
@@ -196,12 +201,7 @@
         "https://www.bbc.co.uk/sport/tennis/articles/c3wyyj54p18o#0",
         "https://www.bbc.co.uk/news/articles/cd7wj7d0jzzo#0",
         "https://www.bbc.co.uk/news/articles/c5yzzzdwqjko#1",
-        "https://www.bbc.co.uk/news/articles/cdxdgpgn0zwo#0",
-        "https://www.bbc.co.uk/news/articles/c36yy27rnpeo#1",
-        "https://www.bbc.co.uk/news/articles/cx2kkrx8jeno#0",
-        "https://www.bbc.co.uk/news/articles/c4gyxnj38m1o#0",
-        "https://www.bbc.co.uk/news/articles/c1kyy8yrpxdo#0",
-        "https://www.bbc.co.uk/news/articles/cx2wwgeg041o#1"
+        "https://www.bbc.co.uk/news/articles/cdxdgpgn0zwo#0"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/na-k10015172611000",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015170351000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/zebra-stylus-2way/",
         "https://www.gizmodo.jp/article/clip-ons-are-wireless-earbuds-next-inescapable-trend/",
         "https://www.gizmodo.jp/article/compax-best-answer/",
         "https://www.gizmodo.jp/article/iphone-18-18pro-rumors-summary/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/meta-reportedly-got-too-addicted-to-google-ai-tokens-and-had-to-be-cut-off/",
         "https://www.gizmodo.jp/article/review-3coins-peltier-mist-fan/",
         "https://www.gizmodo.jp/article/netflix-profile-mail-address-must/",
-        "https://www.gizmodo.jp/article/photochromatic_lens_for_summer/",
-        "https://www.gizmodo.jp/article/switchbot-smart-circulator-fan-2-pro/"
+        "https://www.gizmodo.jp/article/photochromatic_lens_for_summer/"
     ]
 }
