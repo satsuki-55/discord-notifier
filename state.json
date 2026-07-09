@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "vcFw7UKnHzw",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "m_TN_mfNfv0",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cq819y09g2lo#0",
         "https://www.bbc.co.uk/news/articles/c4gyy8jdn3eo#0",
         "https://www.bbc.co.uk/news/articles/c07ylddnvmyo#0",
         "https://www.bbc.co.uk/news/articles/cwylzxw7p52o#0",
@@ -200,8 +201,7 @@
         "https://www.bbc.co.uk/news/articles/cy498d400pro#0",
         "https://www.bbc.co.uk/news/articles/cdjk0d3yp02o#0",
         "https://www.bbc.co.uk/news/articles/cze9kpxx6d8o#0",
-        "https://www.bbc.co.uk/news/articles/c05y9pe5p1jo#1",
-        "https://www.bbc.co.uk/news/articles/c1my1rvy28do#0"
+        "https://www.bbc.co.uk/news/articles/c05y9pe5p1jo#1"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/na-k10015173081000",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015170811000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/panasonic-tv-door-phone-review-oay/",
         "https://www.gizmodo.jp/article/ore_energy_ironpower/",
         "https://www.gizmodo.jp/article/cable-15cm-amazon-primeday/",
         "https://www.gizmodo.jp/article/amazon-primeday-nothing-watch-pro-2/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/the-token-belt-tightening-is-coming-for-pdfs/",
         "https://www.gizmodo.jp/article/jumping-jacks-gadget-68/",
         "https://www.gizmodo.jp/article/enya_st1_review/",
-        "https://www.gizmodo.jp/article/oxtak-money-penny-look/",
-        "https://www.gizmodo.jp/article/ibm-crosses-one-of-computings-biggest-barriers-with-worlds-first-sub-1-nanometer-chip/"
+        "https://www.gizmodo.jp/article/oxtak-money-penny-look/"
     ]
 }
