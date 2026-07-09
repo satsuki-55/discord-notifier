@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "vcFw7UKnHzw",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "m_TN_mfNfv0",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cdxdgpgn0zwo#0",
         "https://www.bbc.co.uk/news/articles/c0ryjyvjq41o#0",
         "https://www.bbc.co.uk/sport/articles/cy047zjr5rqo#0",
         "https://www.bbc.co.uk/news/articles/c1dy11vvwk1o#1",
@@ -200,10 +201,11 @@
         "https://www.bbc.co.uk/news/articles/c872ngz405xo#0",
         "https://www.bbc.co.uk/news/articles/crlwweye9glo#1",
         "https://www.bbc.co.uk/news/articles/clyxxr9n2kjo#1",
-        "https://www.bbc.co.uk/news/articles/c05y9pe5p1jo#0",
-        "https://www.bbc.co.uk/news/articles/cvgl8dlxjd3o#1"
+        "https://www.bbc.co.uk/news/articles/c05y9pe5p1jo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015172811000",
+        "https://news.web.nhk/newsweb/na/na-k10015172801000",
         "https://news.web.nhk/newsweb/na/na-k10015140781000",
         "https://news.web.nhk/newsweb/na/na-k10015172771000",
         "https://news.web.nhk/newsweb/na/na-k10015172731000",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015170581000",
         "https://news.web.nhk/newsweb/na/na-k10015170551000",
         "https://news.web.nhk/newsweb/na/na-k10015170571000",
-        "https://news.web.nhk/newsweb/na/na-k10015170531000",
-        "https://news.web.nhk/newsweb/na/na-k10015170561000",
-        "https://news.web.nhk/newsweb/na/na-k10015170521000"
+        "https://news.web.nhk/newsweb/na/na-k10015170531000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/this-is-supposedly-the-iphone-air-2-in-lavender/",
