@@ -2,6 +2,8 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "vcFw7UKnHzw",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "m_TN_mfNfv0",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cx235xy2ky4o#0",
+        "https://www.bbc.co.uk/news/articles/c9q2rgx9qglo#0",
         "https://www.bbc.co.uk/news/articles/cdxdgpgn0zwo#0",
         "https://www.bbc.co.uk/news/articles/c0ryjyvjq41o#0",
         "https://www.bbc.co.uk/sport/articles/cy047zjr5rqo#0",
@@ -199,11 +201,12 @@
         "https://www.bbc.co.uk/news/articles/c0my2kjjnp2o#0",
         "https://www.bbc.co.uk/news/articles/c04yx44xq19o#1",
         "https://www.bbc.co.uk/news/articles/c872ngz405xo#0",
-        "https://www.bbc.co.uk/news/articles/crlwweye9glo#1",
-        "https://www.bbc.co.uk/news/articles/clyxxr9n2kjo#1",
-        "https://www.bbc.co.uk/news/articles/c05y9pe5p1jo#0"
+        "https://www.bbc.co.uk/news/articles/crlwweye9glo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015172831000",
+        "https://news.web.nhk/newsweb/na/na-k10015172791000",
+        "https://news.web.nhk/newsweb/na/na-k10015172821000",
         "https://news.web.nhk/newsweb/na/na-k10015172811000",
         "https://news.web.nhk/newsweb/na/na-k10015172801000",
         "https://news.web.nhk/newsweb/na/na-k10015140781000",
@@ -400,12 +403,11 @@
         "https://news.web.nhk/newsweb/na/na-k10015170591000",
         "https://news.web.nhk/newsweb/na/na-k10015170541000",
         "https://news.web.nhk/newsweb/na/na-k10015170601000",
-        "https://news.web.nhk/newsweb/na/na-k10015170581000",
-        "https://news.web.nhk/newsweb/na/na-k10015170551000",
-        "https://news.web.nhk/newsweb/na/na-k10015170571000",
-        "https://news.web.nhk/newsweb/na/na-k10015170531000"
+        "https://news.web.nhk/newsweb/na/na-k10015170581000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/anker_solix_ps30_portable_solar_panel/",
+        "https://www.gizmodo.jp/article/lawson-car-camping/",
         "https://www.gizmodo.jp/article/this-is-supposedly-the-iphone-air-2-in-lavender/",
         "https://www.gizmodo.jp/article/b2cfecc4-0bfe-45ef-bcca-dd88846a81ec/",
         "https://www.gizmodo.jp/article/xbx-a01/",
@@ -603,8 +605,6 @@
         "https://www.gizmodo.jp/article/headrest_stick_fan_seikosangyo/",
         "https://www.gizmodo.jp/article/7e42c88d-33d1-4e24-ab84-fcbd2fdc8c1a/",
         "https://www.gizmodo.jp/article/2605-stock-market-investing-strategy-buy-sell-in-may-midterm-elections-qwc/",
-        "https://www.gizmodo.jp/article/inllie-luna-light/",
-        "https://www.gizmodo.jp/article/openclaw_ios_android_app/",
-        "https://www.gizmodo.jp/article/meta-reportedly-got-too-addicted-to-google-ai-tokens-and-had-to-be-cut-off/"
+        "https://www.gizmodo.jp/article/inllie-luna-light/"
     ]
 }
