@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/cr7xpgx50jxo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015173041000",
+        "https://news.web.nhk/newsweb/na/na-k10015173031000",
         "https://news.web.nhk/newsweb/na/na-k10015173231000",
         "https://news.web.nhk/newsweb/na/na-k10015173051000",
         "https://news.web.nhk/newsweb/na/na-k10015173141000",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015171171000",
         "https://news.web.nhk/newsweb/na/na-k10015171071000",
         "https://news.web.nhk/newsweb/na/na-k10015171081000",
-        "https://news.web.nhk/newsweb/na/na-k10015171091000",
-        "https://news.web.nhk/newsweb/na/na-k10015171121000",
-        "https://news.web.nhk/newsweb/na/na-k10015171061000"
+        "https://news.web.nhk/newsweb/na/na-k10015171091000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/openai_gpt-5_6/",
