@@ -204,6 +204,11 @@
         "https://www.bbc.co.uk/news/articles/cze9kpxx6d8o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015172741000",
+        "https://news.web.nhk/newsweb/na/na-k10015170901000",
+        "https://news.web.nhk/newsweb/na/na-k10015171991000",
+        "https://news.web.nhk/newsweb/na/na-k10015173151000",
+        "https://news.web.nhk/newsweb/na/na-k10015173121000",
         "https://news.web.nhk/newsweb/na/na-k10015173101000",
         "https://news.web.nhk/newsweb/na/na-k10015173131000",
         "https://news.web.nhk/newsweb/na/na-k10015173091000",
@@ -398,12 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015170961000",
         "https://news.web.nhk/newsweb/na/na-k10015140761000",
         "https://news.web.nhk/newsweb/na/na-k10015170921000",
-        "https://news.web.nhk/newsweb/na/na-k10015170821000",
-        "https://news.web.nhk/newsweb/na/na-k10015170841000",
-        "https://news.web.nhk/newsweb/na/na-k10015170861000",
-        "https://news.web.nhk/newsweb/na/na-k10015170901000",
-        "https://news.web.nhk/newsweb/na/na-k10015170941000",
-        "https://news.web.nhk/newsweb/na/na-k10015170851000"
+        "https://news.web.nhk/newsweb/na/na-k10015170821000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/panasonic-tv-door-phone-review-oay/",
