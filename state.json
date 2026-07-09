@@ -2,6 +2,8 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "vcFw7UKnHzw",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "m_TN_mfNfv0",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cx24r41933eo#1",
+        "https://www.bbc.co.uk/news/articles/cdjk0d3yp02o#1",
         "https://www.bbc.co.uk/news/articles/c4gy3ynx79no#0",
         "https://www.bbc.co.uk/news/articles/cn59n10qnqzo#0",
         "https://www.bbc.co.uk/news/articles/czxq4ge246wo#0",
@@ -199,9 +201,7 @@
         "https://www.bbc.co.uk/news/articles/c9d227e5zj6o#0",
         "https://www.bbc.co.uk/news/videos/c1eyyevn5j7o#0",
         "https://www.bbc.co.uk/news/articles/c07yy3j3nljo#0",
-        "https://www.bbc.co.uk/news/articles/c04yywdq69vo#0",
-        "https://www.bbc.co.uk/sport/tennis/articles/c3wyyj54p18o#0",
-        "https://www.bbc.co.uk/news/articles/cd7wj7d0jzzo#0"
+        "https://www.bbc.co.uk/news/articles/c04yywdq69vo#0"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/na-k10015172701000",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015170491000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/xbx-a01/",
         "https://www.gizmodo.jp/article/zebra-stylus-2way/",
         "https://www.gizmodo.jp/article/clip-ons-are-wireless-earbuds-next-inescapable-trend/",
         "https://www.gizmodo.jp/article/compax-best-answer/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/openclaw_ios_android_app/",
         "https://www.gizmodo.jp/article/meta-reportedly-got-too-addicted-to-google-ai-tokens-and-had-to-be-cut-off/",
         "https://www.gizmodo.jp/article/review-3coins-peltier-mist-fan/",
-        "https://www.gizmodo.jp/article/netflix-profile-mail-address-must/",
-        "https://www.gizmodo.jp/article/photochromatic_lens_for_summer/"
+        "https://www.gizmodo.jp/article/netflix-profile-mail-address-must/"
     ]
 }
