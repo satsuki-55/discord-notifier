@@ -2,6 +2,8 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "vcFw7UKnHzw",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "m_TN_mfNfv0",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/ckg888vpz4do#0",
+        "https://www.bbc.co.uk/news/articles/c8x2kyr4wv5o#0",
         "https://www.bbc.co.uk/news/articles/cvgj0pp5p62o#0",
         "https://www.bbc.co.uk/news/articles/c9v229434p2o#1",
         "https://www.bbc.co.uk/news/articles/c8j2mv0zw82o#0",
@@ -199,9 +201,7 @@
         "https://www.bbc.co.uk/news/videos/c7vygmmdyr8o#0",
         "https://www.bbc.co.uk/sport/football/articles/c5yzd23jll5o#0",
         "https://www.bbc.co.uk/sport/tennis/articles/cy8wev0p0wno#0",
-        "https://www.bbc.co.uk/news/articles/cn0vnx2192vo#0",
-        "https://www.bbc.co.uk/news/articles/c3wy56v4ge6o#1",
-        "https://www.bbc.co.uk/news/articles/ckg888vpz4do#0"
+        "https://www.bbc.co.uk/news/articles/cn0vnx2192vo#0"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/na-k10015173461000",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015171351000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/ligar/",
         "https://www.gizmodo.jp/article/the_presidents_cake_interview/",
         "https://www.gizmodo.jp/article/amazon-primeday-iphone-16e/",
         "https://www.gizmodo.jp/article/gerry-cargo-pants-apd/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/gulikit-dock-for-switch-2/",
         "https://www.gizmodo.jp/article/boiled-egg-japanese-government/",
         "https://www.gizmodo.jp/article/the-foundation-of-an-artificial-island-in-scotland-lying-at-thebottomof-a-lake-dates-back-more-than-5000-years-kmn/",
-        "https://www.gizmodo.jp/article/oxtak-money-penny-laurent-san/",
-        "https://www.gizmodo.jp/article/nasas-moon-plan-depends-on-15-starship-launches-theres-just-one-problem/"
+        "https://www.gizmodo.jp/article/oxtak-money-penny-laurent-san/"
     ]
 }
