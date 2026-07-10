@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "vcFw7UKnHzw",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "m_TN_mfNfv0",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c4gy3n415l2o#0",
         "https://www.bbc.co.uk/sport/tennis/articles/cpq30vnj7jlo#0",
         "https://www.bbc.co.uk/news/articles/cyv0z8g0975o#1",
         "https://www.bbc.co.uk/news/articles/clyw89g3443o#0",
@@ -200,10 +201,10 @@
         "https://www.bbc.co.uk/news/articles/cr7xk8j0j2do#0",
         "https://www.bbc.co.uk/news/articles/cr5j983p046o#1",
         "https://www.bbc.co.uk/news/articles/c6211ng49zwo#0",
-        "https://www.bbc.co.uk/news/articles/cze9kpxx6d8o#1",
-        "https://www.bbc.co.uk/news/articles/czj8w4pjd4yo#0"
+        "https://www.bbc.co.uk/news/articles/cze9kpxx6d8o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015173731000",
         "https://news.web.nhk/newsweb/na/na-k10015173691000",
         "https://news.web.nhk/newsweb/na/na-k10015173681000",
         "https://news.web.nhk/newsweb/na/na-k10015173671000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015171501000",
         "https://news.web.nhk/newsweb/na/na-k10015171531000",
         "https://news.web.nhk/newsweb/na/na-k10015171471000",
-        "https://news.web.nhk/newsweb/na/na-k10015171461000",
-        "https://news.web.nhk/newsweb/na/na-k10015171451000"
+        "https://news.web.nhk/newsweb/na/na-k10015171461000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/keyuca-horeicloth/",
