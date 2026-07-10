@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cze9kpxx6d8o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015173751000",
         "https://news.web.nhk/newsweb/na/na-k10015173661000",
         "https://news.web.nhk/newsweb/na/na-k10015173731000",
         "https://news.web.nhk/newsweb/na/na-k10015173691000",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/na-k10015171561000",
         "https://news.web.nhk/newsweb/na/na-k10015171541000",
         "https://news.web.nhk/newsweb/na/na-k10015171501000",
-        "https://news.web.nhk/newsweb/na/na-k10015171531000",
-        "https://news.web.nhk/newsweb/na/na-k10015171471000"
+        "https://news.web.nhk/newsweb/na/na-k10015171531000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/comulytic-note-pro_primeday/",
         "https://www.gizmodo.jp/article/keyuca-horeicloth/",
         "https://www.gizmodo.jp/article/amazon-primeday-k-mini-plus/",
         "https://www.gizmodo.jp/article/8ee9f003-b16d-4b6b-805f-be487a166df8/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/qurra-clothes-dryer-hfr-mrx/",
         "https://www.gizmodo.jp/article/1e13e07b-9c1f-4967-ae62-2c655bd2609e/",
         "https://www.gizmodo.jp/article/cats-ginger-tabbies-qef-zhf/",
-        "https://www.gizmodo.jp/article/amazon-sony-inzone-buds/",
-        "https://www.gizmodo.jp/article/ps5-controller-lmited-color/"
+        "https://www.gizmodo.jp/article/amazon-sony-inzone-buds/"
     ]
 }
