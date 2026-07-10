@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "maDnHaPHdJ4",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "Cda9ISKUxuk",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c2dyw9lp02wo#0",
         "https://www.bbc.co.uk/news/articles/c9q2rznjqwwo#0",
         "https://www.bbc.co.uk/news/articles/c8e23yy91x7o#0",
         "https://www.bbc.co.uk/news/articles/c4gy3n415l2o#1",
@@ -200,8 +201,7 @@
         "https://www.bbc.co.uk/news/articles/cgevw0d95pdo#0",
         "https://www.bbc.co.uk/news/articles/c17y81vnje5o#1",
         "https://www.bbc.co.uk/news/articles/c3wy317d71jo#0",
-        "https://www.bbc.co.uk/news/articles/cjdg4r3k3emo#0",
-        "https://www.bbc.co.uk/news/articles/cqj1xvy44xno#1"
+        "https://www.bbc.co.uk/news/articles/cjdg4r3k3emo#0"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/na-k10015173621000",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015171641000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/amazon-primeday-fire-tv-stick/",
         "https://www.gizmodo.jp/article/gan_cube-vro/",
         "https://www.gizmodo.jp/article/amazon-primeday-torras-neck-cooler/",
         "https://www.gizmodo.jp/article/how_to_use_new_chatgpt_desktop_app/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/uniqlo_ultra-stretch-active-widepants/",
         "https://www.gizmodo.jp/article/top-intel-agencies-say-ai-driven-cyber-catastrophes-are-imminent-the-timeline-is-not-years-it-is-months-jpn/",
         "https://www.gizmodo.jp/article/3coins-folding-laundry-hanger/",
-        "https://www.gizmodo.jp/article/muji-labo_crew_neck_tshirt/",
-        "https://www.gizmodo.jp/article/the-folks-behind-beloved-hacker-tool-flipper-zero-have-a-new-device-for-focus/"
+        "https://www.gizmodo.jp/article/muji-labo_crew_neck_tshirt/"
     ]
 }
