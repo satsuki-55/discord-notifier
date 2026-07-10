@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c6211ng49zwo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015173791000",
         "https://news.web.nhk/newsweb/na/na-k10015173771000",
         "https://news.web.nhk/newsweb/na/na-k10015173751000",
         "https://news.web.nhk/newsweb/na/na-k10015173661000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015171581000",
         "https://news.web.nhk/newsweb/na/na-k10015171511000",
         "https://news.web.nhk/newsweb/na/na-k10015171561000",
-        "https://news.web.nhk/newsweb/na/na-k10015171541000",
-        "https://news.web.nhk/newsweb/na/na-k10015171501000"
+        "https://news.web.nhk/newsweb/na/na-k10015171541000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/eero-pro-7-review-great-mesh-networking-even-if-you-dont-have-wi-fi-7-mtp/",
