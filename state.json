@@ -2,6 +2,8 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "vcFw7UKnHzw",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "m_TN_mfNfv0",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c8e2382jk7jo#0",
+        "https://www.bbc.co.uk/news/articles/c70yd1g67z5o#1",
         "https://www.bbc.co.uk/news/articles/c9v29d7vml7o#0",
         "https://www.bbc.co.uk/news/articles/ckg888vpz4do#0",
         "https://www.bbc.co.uk/news/articles/c8x2kyr4wv5o#0",
@@ -199,9 +201,7 @@
         "https://www.bbc.co.uk/news/articles/cgl33dyk7y9o#1",
         "https://www.bbc.co.uk/news/articles/c30y4vqq4p6o#0",
         "https://www.bbc.co.uk/news/articles/cp9llgg5k8ro#1",
-        "https://www.bbc.co.uk/news/videos/c7vygmmdyr8o#0",
-        "https://www.bbc.co.uk/sport/football/articles/c5yzd23jll5o#0",
-        "https://www.bbc.co.uk/sport/tennis/articles/cy8wev0p0wno#0"
+        "https://www.bbc.co.uk/news/videos/c7vygmmdyr8o#0"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/na-k10015173401000",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015171401000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/elleair-pocket-wet-tissue/",
         "https://www.gizmodo.jp/article/jbl-tour-pro-3-review-gkp/",
         "https://www.gizmodo.jp/article/ligar/",
         "https://www.gizmodo.jp/article/the_presidents_cake_interview/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/sony-aibo-discontinued/",
         "https://www.gizmodo.jp/article/google-android-alert/",
         "https://www.gizmodo.jp/article/gulikit-dock-for-switch-2/",
-        "https://www.gizmodo.jp/article/boiled-egg-japanese-government/",
-        "https://www.gizmodo.jp/article/the-foundation-of-an-artificial-island-in-scotland-lying-at-thebottomof-a-lake-dates-back-more-than-5000-years-kmn/"
+        "https://www.gizmodo.jp/article/boiled-egg-japanese-government/"
     ]
 }
