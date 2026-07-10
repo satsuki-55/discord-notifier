@@ -6,6 +6,7 @@ import urllib.request
 import urllib.error
 import urllib.parse
 import xml.etree.ElementTree as ET
+import time
 
 
 
@@ -208,11 +209,13 @@ def handle_youtube_source(source, state):
     name = source["name"]
     channel_id = source["channel_id"]
     webhook_name = source["webhook"]
+    start_time = time.perf_counter()
 
     latest = fetch_youtube_latest(channel_id)
 
     if latest is None:
         print(f"[{name}] No videos found.")
+        print(f"[{name}] Took {time.perf_counter() - start_time:.2f}s")
         return
 
     state_key = f"youtube:{channel_id}"
@@ -226,6 +229,7 @@ def handle_youtube_source(source, state):
 
     if latest["id"] == last_seen_id:
         print(f"[{name}] No new video.")
+        print(f"[{name}] Took {time.perf_counter() - start_time:.2f}s")
         return
 
     webhook_url = get_webhook_url(webhook_name)
@@ -245,21 +249,25 @@ def handle_youtube_source(source, state):
     state[state_key] = latest["id"]
 
     print(f"[{name}] Sent: {latest['title']}")
+    print(f"[{name}] Took {time.perf_counter() - start_time:.2f}s")
 
 
 def handle_rss_source(source, state):
     name = source["name"]
     feed_url = source["url"]
     webhook_name = source["webhook"]
+    start_time = time.perf_counter()
 
     if not feed_url:
         print(f"[{name}] RSS URL is empty. Skipped.")
+        print(f"[{name}] Took {time.perf_counter() - start_time:.2f}s")
         return
 
     articles = fetch_rss_entries(feed_url)
 
     if not articles:
         print(f"[{name}] No RSS entries found.")
+        print(f"[{name}] Took {time.perf_counter() - start_time:.2f}s")
         return
 
     state_key = f"rss:{webhook_name}"
@@ -273,6 +281,7 @@ def handle_rss_source(source, state):
 
     if not new_articles:
         print(f"[{name}] No new article.")
+        print(f"[{name}] Took {time.perf_counter() - start_time:.2f}s")
         return
 
     webhook_url = get_webhook_url(webhook_name)
@@ -301,12 +310,14 @@ def handle_rss_source(source, state):
 
     # 最新200件だけ保持
     state[state_key] = sent_ids[:200]
+    print(f"[{name}] Took {time.perf_counter() - start_time:.2f}s")
 
 
 def main():
     load_env_file()
     config = load_json(CONFIG_FILE, {"sources": []})
     state = load_json(STATE_FILE, {})
+    total_start = time.perf_counter()
 
     for source in config["sources"]:
         source_type = source.get("type")
@@ -323,6 +334,7 @@ def main():
             print(f"[{source_name}] Error: {error}")
 
     save_json(STATE_FILE, state)
+    print(f"[Total] Took {time.perf_counter() - total_start:.2f}s")
 
 
 if __name__ == "__main__":
