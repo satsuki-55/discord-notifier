@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "vcFw7UKnHzw",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "m_TN_mfNfv0",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c5yzm8m4peeo#0",
         "https://www.bbc.co.uk/news/articles/ced47jqyg1eo#0",
         "https://www.bbc.co.uk/news/articles/cly9r54e5r4o#0",
         "https://www.bbc.co.uk/news/articles/cd7wldr3prro#1",
@@ -200,10 +201,10 @@
         "https://www.bbc.co.uk/news/articles/cd95wendvdeo#1",
         "https://www.bbc.co.uk/news/articles/cm2004nx8v9o#1",
         "https://www.bbc.co.uk/news/articles/ckg4e3lwzqzo#0",
-        "https://www.bbc.co.uk/news/articles/cd95wendvdeo#0",
-        "https://www.bbc.co.uk/news/articles/cgl33dyk7y9o#1"
+        "https://www.bbc.co.uk/news/articles/cd95wendvdeo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015173591000",
         "https://news.web.nhk/newsweb/na/na-k10015173551000",
         "https://news.web.nhk/newsweb/na/na-k10015173571000",
         "https://news.web.nhk/newsweb/na/na-k10015173581000",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/na-k10015171381000",
         "https://news.web.nhk/newsweb/na/na-k10015171301000",
         "https://news.web.nhk/newsweb/na/na-k10015166561000",
-        "https://news.web.nhk/newsweb/na/na-k10015171151000",
-        "https://news.web.nhk/newsweb/na/na-k10015171371000"
+        "https://news.web.nhk/newsweb/na/na-k10015171151000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/8ee9f003-b16d-4b6b-805f-be487a166df8/",
         "https://www.gizmodo.jp/article/mobile-battery_mechanism/",
         "https://www.gizmodo.jp/article/modular-synthesizer_event_patching-for-modular/",
         "https://www.gizmodo.jp/article/amazon-primeday-matech-mobile-battery/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/amazon-sony-inzone-buds/",
         "https://www.gizmodo.jp/article/ps5-controller-lmited-color/",
         "https://www.gizmodo.jp/article/simon-says-buy-this-openai-mechanical-keyboard-thingy/",
-        "https://www.gizmodo.jp/article/2603-china-top-graduates-factory-manufacturing-jobs-tsinghua-fhd/",
-        "https://www.gizmodo.jp/article/samsung-new-foldable-smartphone-size/"
+        "https://www.gizmodo.jp/article/2603-china-top-graduates-factory-manufacturing-jobs-tsinghua-fhd/"
     ]
 }
