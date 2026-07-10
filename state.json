@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/clyw8w1g409o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015174071000",
         "https://news.web.nhk/newsweb/na/na-k10015174091000",
         "https://news.web.nhk/newsweb/na/na-k10015174081000",
         "https://news.web.nhk/newsweb/na/na-k10015173761000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015171981000",
         "https://news.web.nhk/newsweb/na/na-k10015171931000",
         "https://news.web.nhk/newsweb/na/na-k10015171911000",
-        "https://news.web.nhk/newsweb/na/na-k10015171891000",
-        "https://news.web.nhk/newsweb/na/na-k10015171901000"
+        "https://news.web.nhk/newsweb/na/na-k10015171891000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/amazon-primday-2026-editors-buy/",
