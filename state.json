@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cjdg4y3g0z7o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015173391000",
         "https://news.web.nhk/newsweb/na/na-k10015173381000",
         "https://news.web.nhk/newsweb/na/na-k10015173371000",
         "https://news.web.nhk/newsweb/na/na-k10015173361000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015171241000",
         "https://news.web.nhk/newsweb/na/na-k10015171391000",
         "https://news.web.nhk/newsweb/na/na-k10015171351000",
-        "https://news.web.nhk/newsweb/na/na-k10015171341000",
-        "https://news.web.nhk/newsweb/na/na-k10015171321000"
+        "https://news.web.nhk/newsweb/na/na-k10015171341000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/gerry-cargo-pants-apd/",
