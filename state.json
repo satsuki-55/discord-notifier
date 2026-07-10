@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cx24r41933eo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015174281000",
         "https://news.web.nhk/newsweb/na/na-k10015173861000",
         "https://news.web.nhk/newsweb/na/na-k10015140921000",
         "https://news.web.nhk/newsweb/na/na-k10015174271000",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/na-k10015172131000",
         "https://news.web.nhk/newsweb/na/na-k10015169991000",
         "https://news.web.nhk/newsweb/na/na-k10015172151000",
-        "https://news.web.nhk/newsweb/na/na-k10015172171000",
-        "https://news.web.nhk/newsweb/na/na-k10015171971000"
+        "https://news.web.nhk/newsweb/na/na-k10015172171000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/organize_your_desk/",
         "https://www.gizmodo.jp/article/summer_items-bmw/",
         "https://www.gizmodo.jp/article/amazon-primeday-phillips-mobile-battery/",
         "https://www.gizmodo.jp/article/amazon-prime-day-earth-no-matt-coleman-bfm/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/scientists-think-this-is-the-best-way-to-detect-ai-slop-imagery/",
         "https://www.gizmodo.jp/article/urxr-one/",
         "https://www.gizmodo.jp/article/july7-siguma-post/",
-        "https://www.gizmodo.jp/article/seal-destroying-traffic-cones/",
-        "https://www.gizmodo.jp/article/nasa-chief-and-elon-musk-are-dreaming-of-antimatter-propulsion/"
+        "https://www.gizmodo.jp/article/seal-destroying-traffic-cones/"
     ]
 }
