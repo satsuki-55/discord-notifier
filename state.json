@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "vcFw7UKnHzw",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "m_TN_mfNfv0",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c4gyvp7y89jo#0",
         "https://www.bbc.co.uk/news/articles/c2eyl3zkpwko#0",
         "https://www.bbc.co.uk/weather/articles/cwy0jpez1nqo#0",
         "https://www.bbc.co.uk/news/articles/cj6g41pzy41o#0",
@@ -200,8 +201,7 @@
         "https://www.bbc.co.uk/news/articles/ckg888vpz4do#0",
         "https://www.bbc.co.uk/news/articles/c79ygnv9e93o#0",
         "https://www.bbc.co.uk/news/articles/cvgj0pp5p62o#0",
-        "https://www.bbc.co.uk/news/articles/cy49w2knlrdo#0",
-        "https://www.bbc.co.uk/news/articles/c1kyy8yrpxdo#1"
+        "https://www.bbc.co.uk/news/articles/cy49w2knlrdo#0"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/na-k10015173391000",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015171341000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/amazon-primeday-iphone-16e/",
         "https://www.gizmodo.jp/article/gerry-cargo-pants-apd/",
         "https://www.gizmodo.jp/article/new_chatgpt_app_with_work/",
         "https://www.gizmodo.jp/article/shark-chillpill-handy-fan/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/the-foundation-of-an-artificial-island-in-scotland-lying-at-thebottomof-a-lake-dates-back-more-than-5000-years-kmn/",
         "https://www.gizmodo.jp/article/oxtak-money-penny-laurent-san/",
         "https://www.gizmodo.jp/article/nasas-moon-plan-depends-on-15-starship-launches-theres-just-one-problem/",
-        "https://www.gizmodo.jp/article/while-jony-ive-is-designing-ferraris-another-apple-designer-is-thinking-different-about-the-golf-cart/",
-        "https://www.gizmodo.jp/article/task_repetition_on_the_neural/"
+        "https://www.gizmodo.jp/article/while-jony-ive-is-designing-ferraris-another-apple-designer-is-thinking-different-about-the-golf-cart/"
     ]
 }
