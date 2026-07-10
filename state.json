@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cgevw0d95pdo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015173951000",
         "https://news.web.nhk/newsweb/na/na-k10015173941000",
         "https://news.web.nhk/newsweb/na/na-k10015173611000",
         "https://news.web.nhk/newsweb/na/na-k10015173831000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015168401000",
         "https://news.web.nhk/newsweb/na/na-k10015171731000",
         "https://news.web.nhk/newsweb/na/na-k10015171741000",
-        "https://news.web.nhk/newsweb/na/na-k10015171701000",
-        "https://news.web.nhk/newsweb/na/na-k10015171601000"
+        "https://news.web.nhk/newsweb/na/na-k10015171701000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/jackery-slimpower-h1/",
