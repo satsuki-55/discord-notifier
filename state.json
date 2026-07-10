@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "maDnHaPHdJ4",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "Cda9ISKUxuk",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c4gym70r0y4o#1",
         "https://www.bbc.co.uk/news/articles/c621k5r8764o#1",
         "https://www.bbc.co.uk/news/articles/c8j2dje3pldo#0",
         "https://www.bbc.co.uk/news/articles/cwylznzjk04o#1",
@@ -200,10 +201,12 @@
         "https://www.bbc.co.uk/news/articles/clyw8w1g409o#0",
         "https://www.bbc.co.uk/sport/tennis/articles/c20y4x4y714o#0",
         "https://www.bbc.co.uk/news/articles/clyw89g3443o#1",
-        "https://www.bbc.co.uk/news/articles/cn75nm0e4plo#0",
-        "https://www.bbc.co.uk/news/articles/c5yzzz856m3o#1"
+        "https://www.bbc.co.uk/news/articles/cn75nm0e4plo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015171881000",
+        "https://news.web.nhk/newsweb/na/na-k10015174051000",
+        "https://news.web.nhk/newsweb/na/na-k10015174031000",
         "https://news.web.nhk/newsweb/na/na-k10015171611000",
         "https://news.web.nhk/newsweb/na/na-k10015174041000",
         "https://news.web.nhk/newsweb/na/na-k10015174011000",
@@ -400,12 +403,10 @@
         "https://news.web.nhk/newsweb/na/na-k10015171871000",
         "https://news.web.nhk/newsweb/na/na-k10015170371000",
         "https://news.web.nhk/newsweb/na/na-k10015171841000",
-        "https://news.web.nhk/newsweb/na/na-k10015171851000",
-        "https://news.web.nhk/newsweb/na/na-k10015140771000",
-        "https://news.web.nhk/newsweb/na/na-k10015171881000",
-        "https://news.web.nhk/newsweb/na/na-k10015171791000"
+        "https://news.web.nhk/newsweb/na/na-k10015171851000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/thule_approach-bfa/",
         "https://www.gizmodo.jp/article/aimdesk-pro-7/",
         "https://www.gizmodo.jp/article/brita-amazon-primeday/",
         "https://www.gizmodo.jp/article/jackery-slimpower-h1/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/individual_locomotor_bias/",
         "https://www.gizmodo.jp/article/biccamera_bicidea_pcstand/",
         "https://www.gizmodo.jp/article/yamazakijitsugyo-slidepanel/",
-        "https://www.gizmodo.jp/article/hp-omnibook-ultra-review-perfect-if-not-for-the-little-things/",
-        "https://www.gizmodo.jp/article/uniqlo_ultra-stretch-active-widepants/"
+        "https://www.gizmodo.jp/article/hp-omnibook-ultra-review-perfect-if-not-for-the-little-things/"
     ]
 }
