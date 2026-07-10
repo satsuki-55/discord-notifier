@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "maDnHaPHdJ4",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "Cda9ISKUxuk",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c04y6wr03gxo#0",
         "https://www.bbc.co.uk/news/articles/cvg4y289ppjo#0",
         "https://www.bbc.co.uk/news/articles/c2dyw9lp02wo#0",
         "https://www.bbc.co.uk/news/articles/c9q2rznjqwwo#0",
@@ -200,10 +201,10 @@
         "https://www.bbc.co.uk/news/articles/cvg49eqwe48o#1",
         "https://www.bbc.co.uk/news/articles/c8e2njxnn7jo#0",
         "https://www.bbc.co.uk/news/articles/cgevw0d95pdo#0",
-        "https://www.bbc.co.uk/news/articles/c17y81vnje5o#1",
-        "https://www.bbc.co.uk/news/articles/c3wy317d71jo#0"
+        "https://www.bbc.co.uk/news/articles/c17y81vnje5o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015173831000",
         "https://news.web.nhk/newsweb/na/na-k10015173911000",
         "https://news.web.nhk/newsweb/na/na-k10015173871000",
         "https://news.web.nhk/newsweb/na/na-k10015173891000",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/na-k10015171701000",
         "https://news.web.nhk/newsweb/na/na-k10015171601000",
         "https://news.web.nhk/newsweb/na/na-k10015171591000",
-        "https://news.web.nhk/newsweb/na/na-k10015171691000",
-        "https://news.web.nhk/newsweb/na/na-k10015171721000"
+        "https://news.web.nhk/newsweb/na/na-k10015171691000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/jackery-slimpower-h1/",
         "https://www.gizmodo.jp/article/amazon-primeday-fire-tv-stick/",
         "https://www.gizmodo.jp/article/gan_cube-vro/",
         "https://www.gizmodo.jp/article/amazon-primeday-torras-neck-cooler/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/hp-omnibook-ultra-review-perfect-if-not-for-the-little-things/",
         "https://www.gizmodo.jp/article/uniqlo_ultra-stretch-active-widepants/",
         "https://www.gizmodo.jp/article/top-intel-agencies-say-ai-driven-cyber-catastrophes-are-imminent-the-timeline-is-not-years-it-is-months-jpn/",
-        "https://www.gizmodo.jp/article/3coins-folding-laundry-hanger/",
-        "https://www.gizmodo.jp/article/muji-labo_crew_neck_tshirt/"
+        "https://www.gizmodo.jp/article/3coins-folding-laundry-hanger/"
     ]
 }
