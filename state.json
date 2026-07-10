@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/videos/c7vygmmdyr8o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015173441000",
+        "https://news.web.nhk/newsweb/na/na-k10015173511000",
         "https://news.web.nhk/newsweb/na/na-k10015173501000",
         "https://news.web.nhk/newsweb/na/na-k10015173401000",
         "https://news.web.nhk/newsweb/na/na-k10015173481000",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015171331000",
         "https://news.web.nhk/newsweb/na/na-k10015171291000",
         "https://news.web.nhk/newsweb/na/na-k10015171231000",
-        "https://news.web.nhk/newsweb/na/na-k10015171221000",
-        "https://news.web.nhk/newsweb/na/na-k10015171411000",
-        "https://news.web.nhk/newsweb/na/na-k10015171361000"
+        "https://news.web.nhk/newsweb/na/na-k10015171221000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/amazon-prime-day-comfee-toaster-nay/",
