@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "maDnHaPHdJ4",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "KqUNf_LxOZk",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/videos/cwyezwg89n3o#0",
         "https://www.bbc.co.uk/news/articles/cm2d370npe4o#0",
         "https://www.bbc.co.uk/news/videos/c992zv2xpdjo#0",
         "https://www.bbc.co.uk/news/articles/cvg50lk22jpo#0",
@@ -200,10 +201,10 @@
         "https://www.bbc.co.uk/news/articles/c9q29j47v9ro#1",
         "https://www.bbc.co.uk/news/articles/c20y9g2v2wvo#0",
         "https://www.bbc.co.uk/news/articles/c4gymkg9lr2o#0",
-        "https://www.bbc.co.uk/news/articles/c98205r7dylo#0",
-        "https://www.bbc.co.uk/news/articles/ckg018w1r02o#0"
+        "https://www.bbc.co.uk/news/articles/c98205r7dylo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015174181000",
         "https://news.web.nhk/newsweb/na/na-k10015174111000",
         "https://news.web.nhk/newsweb/na/na-k10015174171000",
         "https://news.web.nhk/newsweb/na/na-k10015174261000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015172141000",
         "https://news.web.nhk/newsweb/na/na-k10015171961000",
         "https://news.web.nhk/newsweb/na/na-k10015172121000",
-        "https://news.web.nhk/newsweb/na/na-k10015172051000",
-        "https://news.web.nhk/newsweb/na/na-k10015172001000"
+        "https://news.web.nhk/newsweb/na/na-k10015172051000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/amazon-prime-day-earth-no-matt-coleman-bfm/",
