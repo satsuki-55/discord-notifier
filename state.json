@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015169021000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/shark-chillpill-handy-fan/",
         "https://www.gizmodo.jp/article/ecovacs-amazon-primeday-2026/",
         "https://www.gizmodo.jp/article/genuins-hawaii-kfq/",
         "https://www.gizmodo.jp/article/openai_gpt-5_6/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/while-jony-ive-is-designing-ferraris-another-apple-designer-is-thinking-different-about-the-golf-cart/",
         "https://www.gizmodo.jp/article/task_repetition_on_the_neural/",
         "https://www.gizmodo.jp/article/three_thule-enroute/",
-        "https://www.gizmodo.jp/article/fossil_discovered_in_denmark/",
-        "https://www.gizmodo.jp/article/trump-admin-wants-to-make-brake-pedals-optional-in-autonomous-vehicles/"
+        "https://www.gizmodo.jp/article/fossil_discovered_in_denmark/"
     ]
 }
