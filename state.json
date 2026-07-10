@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "vcFw7UKnHzw",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "m_TN_mfNfv0",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c4gym70r0y4o#0",
         "https://www.bbc.co.uk/news/articles/cze9zd8drzro#0",
         "https://www.bbc.co.uk/news/articles/czrxz18720eo#1",
         "https://www.bbc.co.uk/weather/articles/c0my38l4ex3o#0",
@@ -200,8 +201,7 @@
         "https://www.bbc.co.uk/weather/articles/cwy0jpez1nqo#0",
         "https://www.bbc.co.uk/news/articles/cjdg4y3g0z7o#0",
         "https://www.bbc.co.uk/sport/tennis/articles/czx5q0kzrkro#0",
-        "https://www.bbc.co.uk/news/articles/cgevwq1pndgo#1",
-        "https://www.bbc.co.uk/news/articles/cwykq59jwpvo#0"
+        "https://www.bbc.co.uk/news/articles/cgevwq1pndgo#1"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/na-k10015173381000",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015171321000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/gerry-cargo-pants-apd/",
         "https://www.gizmodo.jp/article/new_chatgpt_app_with_work/",
         "https://www.gizmodo.jp/article/shark-chillpill-handy-fan/",
         "https://www.gizmodo.jp/article/ecovacs-amazon-primeday-2026/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/oxtak-money-penny-laurent-san/",
         "https://www.gizmodo.jp/article/nasas-moon-plan-depends-on-15-starship-launches-theres-just-one-problem/",
         "https://www.gizmodo.jp/article/while-jony-ive-is-designing-ferraris-another-apple-designer-is-thinking-different-about-the-golf-cart/",
-        "https://www.gizmodo.jp/article/task_repetition_on_the_neural/",
-        "https://www.gizmodo.jp/article/three_thule-enroute/"
+        "https://www.gizmodo.jp/article/task_repetition_on_the_neural/"
     ]
 }
