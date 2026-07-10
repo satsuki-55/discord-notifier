@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cwykq59jwpvo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015173371000",
         "https://news.web.nhk/newsweb/na/na-k10015173361000",
         "https://news.web.nhk/newsweb/na/na-k10015173351000",
         "https://news.web.nhk/newsweb/na/na-k10015140791000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015171351000",
         "https://news.web.nhk/newsweb/na/na-k10015171341000",
         "https://news.web.nhk/newsweb/na/na-k10015171321000",
-        "https://news.web.nhk/newsweb/na/na-k10015171311000",
-        "https://news.web.nhk/newsweb/na/na-k10015171281000"
+        "https://news.web.nhk/newsweb/na/na-k10015171311000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/new_chatgpt_app_with_work/",
