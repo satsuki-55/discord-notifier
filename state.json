@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cp9llgg5k8ro#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015173571000",
         "https://news.web.nhk/newsweb/na/na-k10015173581000",
         "https://news.web.nhk/newsweb/na/na-k10015173531000",
         "https://news.web.nhk/newsweb/na/na-k10015173521000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015166561000",
         "https://news.web.nhk/newsweb/na/na-k10015171151000",
         "https://news.web.nhk/newsweb/na/na-k10015171371000",
-        "https://news.web.nhk/newsweb/na/na-k10015171421000",
-        "https://news.web.nhk/newsweb/na/na-k10015171331000"
+        "https://news.web.nhk/newsweb/na/na-k10015171421000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/modular-synthesizer_event_patching-for-modular/",
