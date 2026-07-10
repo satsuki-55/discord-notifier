@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c5yz3770yg8o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015171741000",
         "https://news.web.nhk/newsweb/na/na-k10015173921000",
         "https://news.web.nhk/newsweb/na/na-k10015173961000",
         "https://news.web.nhk/newsweb/na/na-k10015173951000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015171781000",
         "https://news.web.nhk/newsweb/na/na-k10015171771000",
         "https://news.web.nhk/newsweb/na/na-k10015171761000",
-        "https://news.web.nhk/newsweb/na/na-k10015168401000",
-        "https://news.web.nhk/newsweb/na/na-k10015171731000"
+        "https://news.web.nhk/newsweb/na/na-k10015168401000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/brita-amazon-primeday/",
