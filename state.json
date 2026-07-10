@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c0ky1gxgxjro#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015173691000",
         "https://news.web.nhk/newsweb/na/na-k10015173681000",
         "https://news.web.nhk/newsweb/na/na-k10015173671000",
         "https://news.web.nhk/newsweb/na/na-k10015173721000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015171531000",
         "https://news.web.nhk/newsweb/na/na-k10015171471000",
         "https://news.web.nhk/newsweb/na/na-k10015171461000",
-        "https://news.web.nhk/newsweb/na/na-k10015171451000",
-        "https://news.web.nhk/newsweb/na/na-k10015171481000"
+        "https://news.web.nhk/newsweb/na/na-k10015171451000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/amazon-primeday-k-mini-plus/",
