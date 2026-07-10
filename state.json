@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "vcFw7UKnHzw",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "Cda9ISKUxuk",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c621jgepljvo#0",
         "https://www.bbc.co.uk/news/articles/cm2rmmx86pdo#0",
         "https://www.bbc.co.uk/news/articles/c4gy3n415l2o#0",
         "https://www.bbc.co.uk/sport/tennis/articles/cpq30vnj7jlo#0",
@@ -200,8 +201,7 @@
         "https://www.bbc.co.uk/news/articles/cqj1xvy44xno#1",
         "https://www.bbc.co.uk/news/articles/c982vm2jzl1o#0",
         "https://www.bbc.co.uk/news/articles/cr7xk8j0j2do#0",
-        "https://www.bbc.co.uk/news/articles/cr5j983p046o#1",
-        "https://www.bbc.co.uk/news/articles/c6211ng49zwo#0"
+        "https://www.bbc.co.uk/news/articles/cr5j983p046o#1"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/na-k10015173791000",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015171541000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/amazon-primeday-torras-neck-cooler/",
         "https://www.gizmodo.jp/article/how_to_use_new_chatgpt_desktop_app/",
         "https://www.gizmodo.jp/article/eero-pro-7-review-great-mesh-networking-even-if-you-dont-have-wi-fi-7-mtp/",
         "https://www.gizmodo.jp/article/comulytic-note-pro_primeday/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/3coins-folding-laundry-hanger/",
         "https://www.gizmodo.jp/article/muji-labo_crew_neck_tshirt/",
         "https://www.gizmodo.jp/article/the-folks-behind-beloved-hacker-tool-flipper-zero-have-a-new-device-for-focus/",
-        "https://www.gizmodo.jp/article/qurra-clothes-dryer-hfr-mrx/",
-        "https://www.gizmodo.jp/article/1e13e07b-9c1f-4967-ae62-2c655bd2609e/"
+        "https://www.gizmodo.jp/article/qurra-clothes-dryer-hfr-mrx/"
     ]
 }
