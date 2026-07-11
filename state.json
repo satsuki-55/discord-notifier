@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "oDskhKLpiPU",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "PSxCe0HJR34",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cn8qwj611qxo#1",
         "https://www.bbc.co.uk/sport/football/articles/cr47y5nvrqlo#0",
         "https://www.bbc.co.uk/news/articles/cm204lgrv10o#0",
         "https://www.bbc.co.uk/news/articles/cr7xyl78vnko#0",
@@ -200,8 +201,7 @@
         "https://www.bbc.co.uk/news/articles/czrxz18720eo#0",
         "https://www.bbc.co.uk/news/articles/c78y013ny3eo#0",
         "https://www.bbc.co.uk/news/articles/c3dy7rr3kpmo#0",
-        "https://www.bbc.co.uk/news/articles/c5yz54xk12qo#0",
-        "https://www.bbc.co.uk/news/articles/c70yd1g67z5o#0"
+        "https://www.bbc.co.uk/news/articles/c5yz54xk12qo#0"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/na-k10015174621000",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015167631000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/puma_velocity-nitro-5/",
         "https://www.gizmodo.jp/article/amazon-primeday-anker-nano-docking-station/",
         "https://www.gizmodo.jp/article/amazon-primeday-vornado-circulator/",
         "https://www.gizmodo.jp/article/amazon-primday-2026-editors-buy-2/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/solidion-technologys-lithium/",
         "https://www.gizmodo.jp/article/1399iphone/",
         "https://www.gizmodo.jp/article/nitori_foldable-cordless-fan/",
-        "https://www.gizmodo.jp/article/population-capacity-xhw/",
-        "https://www.gizmodo.jp/article/windows11_hp_dell_rebootloops/"
+        "https://www.gizmodo.jp/article/population-capacity-xhw/"
     ]
 }
