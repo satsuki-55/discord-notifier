@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cvgdyjeqz8lo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015174681000",
         "https://news.web.nhk/newsweb/na/na-k10015174621000",
         "https://news.web.nhk/newsweb/na/na-k10015174601000",
         "https://news.web.nhk/newsweb/na/na-k10015174571000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015170251000",
         "https://news.web.nhk/newsweb/na/na-k10015172311000",
         "https://news.web.nhk/newsweb/na/na-k10015172451000",
-        "https://news.web.nhk/newsweb/na/na-k10015172441000",
-        "https://news.web.nhk/newsweb/na/na-k10015167631000"
+        "https://news.web.nhk/newsweb/na/na-k10015172441000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/olight-oclip-pro-black-friday-vwd/",
