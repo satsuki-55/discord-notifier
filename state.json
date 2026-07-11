@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cj6g3rd6k2jo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015174561000",
         "https://news.web.nhk/newsweb/na/na-k10015174511000",
         "https://news.web.nhk/newsweb/na/na-k10015174541000",
         "https://news.web.nhk/newsweb/na/na-k10015174521000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015172281000",
         "https://news.web.nhk/newsweb/na/na-k10015172271000",
         "https://news.web.nhk/newsweb/na/na-k10015172291000",
-        "https://news.web.nhk/newsweb/na/na-k10015172431000",
-        "https://news.web.nhk/newsweb/na/na-k10015172391000"
+        "https://news.web.nhk/newsweb/na/na-k10015172431000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/amazon-primeday-karcher-handy-cleaner/",
