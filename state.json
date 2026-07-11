@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cj6g3rd6k2jo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015174541000",
         "https://news.web.nhk/newsweb/na/na-k10015174521000",
         "https://news.web.nhk/newsweb/na/na-k10015174461000",
         "https://news.web.nhk/newsweb/na/na-k10015174471000",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/na-k10015172291000",
         "https://news.web.nhk/newsweb/na/na-k10015172431000",
         "https://news.web.nhk/newsweb/na/na-k10015172391000",
-        "https://news.web.nhk/newsweb/na/na-k10015172421000",
-        "https://news.web.nhk/newsweb/na/na-k10015172411000"
+        "https://news.web.nhk/newsweb/na/na-k10015172421000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/amazon-primeday-karcher-handy-cleaner/",
         "https://www.gizmodo.jp/article/philips_mobile-battery_dlp4350q_review/",
         "https://www.gizmodo.jp/article/amazon-primeday-ugreen-cable-holder/",
         "https://www.gizmodo.jp/article/aimdesk-pro-5-re/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/best_running-shoes_2026first-half/",
         "https://www.gizmodo.jp/article/the-effects-of-compounds-found-in-coffee-uqm/",
         "https://www.gizmodo.jp/article/convert_into_a_shoulder_bag_with_metal-rings_snatch-c20-lgq/",
-        "https://www.gizmodo.jp/article/parasom-nephone/",
-        "https://www.gizmodo.jp/article/insta360-ace-pro-2-videography-kit/"
+        "https://www.gizmodo.jp/article/parasom-nephone/"
     ]
 }
