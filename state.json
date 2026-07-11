@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c07ylddnvmyo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015174601000",
         "https://news.web.nhk/newsweb/na/na-k10015174571000",
         "https://news.web.nhk/newsweb/na/na-k10015174581000",
         "https://news.web.nhk/newsweb/na/na-k10015174481000",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/na-k10015172451000",
         "https://news.web.nhk/newsweb/na/na-k10015172441000",
         "https://news.web.nhk/newsweb/na/na-k10015167631000",
-        "https://news.web.nhk/newsweb/na/na-k10015172371000",
-        "https://news.web.nhk/newsweb/na/na-k10015170191000"
+        "https://news.web.nhk/newsweb/na/na-k10015172371000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/shokz-opendots-2-review-a-clip-worth-considering/",
         "https://www.gizmodo.jp/article/amazon-primeday-hdd/",
         "https://www.gizmodo.jp/article/soundpeats-clip1-review-4bf/",
         "https://www.gizmodo.jp/article/amazon-primeday-mx-keys-mini/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/nothing-ear3a-pink/",
         "https://www.gizmodo.jp/article/aimdesk-pro-6/",
         "https://www.gizmodo.jp/article/new-ipad-pro-spring2027/",
-        "https://www.gizmodo.jp/article/android-shuffle-your-wallpaper/",
-        "https://www.gizmodo.jp/article/fe832ed1-9809-4c46-9088-e767c1061934/"
+        "https://www.gizmodo.jp/article/android-shuffle-your-wallpaper/"
     ]
 }
