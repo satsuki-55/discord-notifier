@@ -2,6 +2,8 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "maDnHaPHdJ4",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "PSxCe0HJR34",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cwykqqk1y3wo#0",
+        "https://www.bbc.co.uk/news/articles/c992z0j4d1ko#0",
         "https://www.bbc.co.uk/news/articles/crely7g8xepo#1",
         "https://www.bbc.co.uk/news/articles/ckg47lz10p7o#1",
         "https://www.bbc.co.uk/news/articles/cm2rm66xd17o#1",
@@ -199,9 +201,7 @@
         "https://www.bbc.co.uk/news/articles/cly76jlxljlo#1",
         "https://www.bbc.co.uk/news/articles/cg5pd9z2487o#0",
         "https://www.bbc.co.uk/news/articles/clypqj2z1zpo#1",
-        "https://www.bbc.co.uk/news/articles/cn75nm0e4plo#1",
-        "https://www.bbc.co.uk/news/articles/cevlw4wnlmxo#0",
-        "https://www.bbc.co.uk/news/articles/c4gyp1knzzxo#1"
+        "https://www.bbc.co.uk/news/articles/cn75nm0e4plo#1"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/na-k10015174501000",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015172381000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/aimdesk-pro-5-re/",
         "https://www.gizmodo.jp/article/jisulife-handyfan-pro1-s/",
         "https://www.gizmodo.jp/article/11b965f6-32c2-46b5-bd85-669c66310dac/",
         "https://www.gizmodo.jp/article/g-shock-assari-smartwatch-ykg/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/parasom-nephone/",
         "https://www.gizmodo.jp/article/insta360-ace-pro-2-videography-kit/",
         "https://www.gizmodo.jp/article/iran_war_gold_price_repost/",
-        "https://www.gizmodo.jp/article/samsung-rollerable-smartphone/",
-        "https://www.gizmodo.jp/article/apple-confidential-information-leak-dark-web/"
+        "https://www.gizmodo.jp/article/samsung-rollerable-smartphone/"
     ]
 }
