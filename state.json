@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cx235xy2ky4o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015174451000",
         "https://news.web.nhk/newsweb/na/na-k10015174441000",
         "https://news.web.nhk/newsweb/na/na-k10015174431000",
         "https://news.web.nhk/newsweb/na/na-k10015174381000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015167451000",
         "https://news.web.nhk/newsweb/na/na-k10015172361000",
         "https://news.web.nhk/newsweb/na/na-k10015172381000",
-        "https://news.web.nhk/newsweb/na/na-k10015172261000",
-        "https://news.web.nhk/newsweb/na/na-k10015172341000"
+        "https://news.web.nhk/newsweb/na/na-k10015172261000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/amazon-primeday-anker-nano-power-strip/",
