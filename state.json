@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "oDskhKLpiPU",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "PSxCe0HJR34",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c992z0j4d1ko#1",
         "https://www.bbc.co.uk/news/articles/c20yvg13nqpo#0",
         "https://www.bbc.co.uk/news/articles/c07ylddnvmyo#0",
         "https://www.bbc.co.uk/news/articles/cm204lgrv10o#1",
@@ -200,8 +201,7 @@
         "https://www.bbc.co.uk/news/articles/c20yjjm7n87o#1",
         "https://www.bbc.co.uk/news/articles/cx2vz51v2pjo#0",
         "https://www.bbc.co.uk/news/articles/cdjk4zlkv42o#0",
-        "https://www.bbc.co.uk/news/articles/czdezv3j7zeo#0",
-        "https://www.bbc.co.uk/news/articles/c2ey1p0jnmxo#1"
+        "https://www.bbc.co.uk/news/articles/czdezv3j7zeo#0"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/na-k10015174601000",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015172371000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/d8b2b7c7-f449-4829-826d-7e805922fb4d/",
         "https://www.gizmodo.jp/article/shokz-opendots-2-review-a-clip-worth-considering/",
         "https://www.gizmodo.jp/article/amazon-primeday-hdd/",
         "https://www.gizmodo.jp/article/soundpeats-clip1-review-4bf/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/china-smart-glasses-privacy-code/",
         "https://www.gizmodo.jp/article/nothing-ear3a-pink/",
         "https://www.gizmodo.jp/article/aimdesk-pro-6/",
-        "https://www.gizmodo.jp/article/new-ipad-pro-spring2027/",
-        "https://www.gizmodo.jp/article/android-shuffle-your-wallpaper/"
+        "https://www.gizmodo.jp/article/new-ipad-pro-spring2027/"
     ]
 }
