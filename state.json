@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015172261000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/g-shock-assari-smartwatch-ykg/",
         "https://www.gizmodo.jp/article/amazon-primeday-anker-nano-power-strip/",
         "https://www.gizmodo.jp/article/cleaning_items_summary-wfj/",
         "https://www.gizmodo.jp/article/amazon-primeday-anker-eufy-robovac-g30/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/samsung-rollerable-smartphone/",
         "https://www.gizmodo.jp/article/apple-confidential-information-leak-dark-web/",
         "https://www.gizmodo.jp/article/solar-storms-trigger-instant-changes-in-earths-weather-study-suggests-jpn/",
-        "https://www.gizmodo.jp/article/amazon-gorilla-dryer/",
-        "https://www.gizmodo.jp/article/muji-2026ss-sandal/"
+        "https://www.gizmodo.jp/article/amazon-gorilla-dryer/"
     ]
 }
