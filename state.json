@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "oDskhKLpiPU",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "PSxCe0HJR34",
     "rss:bbc": [
+        "https://www.bbc.co.uk/sport/football/articles/cpd3wv3v1eeo#1",
         "https://www.bbc.co.uk/news/videos/cvgqxx912dro#0",
         "https://www.bbc.co.uk/news/articles/cx249p3ndjgo#0",
         "https://www.bbc.co.uk/news/articles/c8628q3eqdeo#0",
@@ -200,10 +201,10 @@
         "https://www.bbc.co.uk/news/articles/c621jgepljvo#0",
         "https://www.bbc.co.uk/news/articles/cm2rmmx86pdo#0",
         "https://www.bbc.co.uk/news/articles/c4gy3n415l2o#0",
-        "https://www.bbc.co.uk/sport/tennis/articles/cpq30vnj7jlo#0",
-        "https://www.bbc.co.uk/news/articles/cyv0z8g0975o#1"
+        "https://www.bbc.co.uk/sport/tennis/articles/cpq30vnj7jlo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015175141000",
         "https://news.web.nhk/newsweb/na/na-k10015174941000",
         "https://news.web.nhk/newsweb/na/na-k10015175091000",
         "https://news.web.nhk/newsweb/na/na-k10015175051000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015172961000",
         "https://news.web.nhk/newsweb/na/na-k10015172911000",
         "https://news.web.nhk/newsweb/na/na-k10015172871000",
-        "https://news.web.nhk/newsweb/na/na-k10015172901000",
-        "https://news.web.nhk/newsweb/na/na-k10015172881000"
+        "https://news.web.nhk/newsweb/na/na-k10015172901000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/elecom-earpods-cover-202607/",
