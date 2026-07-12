@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "oDskhKLpiPU",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "PSxCe0HJR34",
     "rss:bbc": [
+        "https://www.bbc.co.uk/sport/football/articles/cvgexz4qdlgo#1",
         "https://www.bbc.co.uk/news/articles/c9v29d7vml7o#1",
         "https://www.bbc.co.uk/news/articles/cly9r54e5r4o#0",
         "https://www.bbc.co.uk/news/articles/cvgj25j6nmeo#0",
@@ -200,8 +201,7 @@
         "https://www.bbc.co.uk/news/articles/c3eyq2np7qgo#0",
         "https://www.bbc.co.uk/news/articles/cg74gvy8lgjo#1",
         "https://www.bbc.co.uk/news/articles/c0my34g9edpo#1",
-        "https://www.bbc.co.uk/news/articles/cvgdyjeqz8lo#1",
-        "https://www.bbc.co.uk/news/articles/cj3g6n64z4mo#0"
+        "https://www.bbc.co.uk/news/articles/cvgdyjeqz8lo#1"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/na-k10015174991000",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015172801000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/amazon-primeday-anker-nano-charger/",
         "https://www.gizmodo.jp/article/inateck-abf20205-xll/",
         "https://www.gizmodo.jp/article/amazon-primeday-blueair-blue-mini-max/",
         "https://www.gizmodo.jp/article/yet-another-leak-spoils-samsung-galaxy-z-flip-8-colorways/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/apples-hide-my-email-feature-may-reveal-users-real-addresses/",
         "https://www.gizmodo.jp/article/shiftall_chillerx-guq/",
         "https://www.gizmodo.jp/article/the-poop-emoji-got-gravity-right-physicists-find/",
-        "https://www.gizmodo.jp/article/water_light_cogit/",
-        "https://www.gizmodo.jp/article/elecom_nestout_solar-2/"
+        "https://www.gizmodo.jp/article/water_light_cogit/"
     ]
 }
