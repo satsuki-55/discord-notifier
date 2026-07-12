@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c5yzm8m4peeo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015174991000",
         "https://news.web.nhk/newsweb/na/na-k10015175021000",
         "https://news.web.nhk/newsweb/na/na-k10015175011000",
         "https://news.web.nhk/newsweb/na/na-k10015175001000",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/na-k10015172791000",
         "https://news.web.nhk/newsweb/na/na-k10015172821000",
         "https://news.web.nhk/newsweb/na/na-k10015172811000",
-        "https://news.web.nhk/newsweb/na/na-k10015172801000",
-        "https://news.web.nhk/newsweb/na/na-k10015140781000"
+        "https://news.web.nhk/newsweb/na/na-k10015172801000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/inateck-abf20205-xll/",
         "https://www.gizmodo.jp/article/amazon-primeday-blueair-blue-mini-max/",
         "https://www.gizmodo.jp/article/yet-another-leak-spoils-samsung-galaxy-z-flip-8-colorways/",
         "https://www.gizmodo.jp/article/767f5283-b7ce-4edb-b420-6108f1080cf2/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/shiftall_chillerx-guq/",
         "https://www.gizmodo.jp/article/the-poop-emoji-got-gravity-right-physicists-find/",
         "https://www.gizmodo.jp/article/water_light_cogit/",
-        "https://www.gizmodo.jp/article/elecom_nestout_solar-2/",
-        "https://www.gizmodo.jp/article/amnazon-annker-nano-power-strip/"
+        "https://www.gizmodo.jp/article/elecom_nestout_solar-2/"
     ]
 }
