@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cx238gzzy74o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015175361000",
         "https://news.web.nhk/newsweb/na/na-k10015175231000",
         "https://news.web.nhk/newsweb/na/na-k10015175161000",
         "https://news.web.nhk/newsweb/na/na-k10015175301000",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/na-k10015171991000",
         "https://news.web.nhk/newsweb/na/na-k10015173151000",
         "https://news.web.nhk/newsweb/na/na-k10015173121000",
-        "https://news.web.nhk/newsweb/na/na-k10015173101000",
-        "https://news.web.nhk/newsweb/na/na-k10015173131000"
+        "https://news.web.nhk/newsweb/na/na-k10015173101000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/amazon-shell-charger-iiy/",
         "https://www.gizmodo.jp/article/amazon-primeday-microwave-oven-boiled-egg/",
         "https://www.gizmodo.jp/article/amazon-primeday-corona-window-air-conditioner/",
         "https://www.gizmodo.jp/article/raycue-maclock-gqk/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/oracle-cuts-21000-jobs-in-one-year-blames-ai-for-at-least-some/",
         "https://www.gizmodo.jp/article/3c8c6fd3-68a4-4e21-a5bd-96bea795d72d-uvh/",
         "https://www.gizmodo.jp/article/rubin-observatory-begins-its-10-year-survey-of-the-universe/",
-        "https://www.gizmodo.jp/article/veloce-motorcycles-aperion/",
-        "https://www.gizmodo.jp/article/neanderthals-developed-in-the-womb/"
+        "https://www.gizmodo.jp/article/veloce-motorcycles-aperion/"
     ]
 }
