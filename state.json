@@ -2,6 +2,9 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "oDskhKLpiPU",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "PSxCe0HJR34",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/videos/c0myengg8nzo#0",
+        "https://www.bbc.co.uk/news/articles/c24yev53q06o#0",
+        "https://www.bbc.co.uk/news/articles/c4gykgyn1r4o#1",
         "https://www.bbc.co.uk/sport/tennis/articles/c78y2eqq317o#0",
         "https://www.bbc.co.uk/sport/football/articles/cy04xjlg5p4o#0",
         "https://www.bbc.co.uk/news/articles/c4gym70r0y4o#1",
@@ -198,12 +201,10 @@
         "https://www.bbc.co.uk/news/articles/cx238gzzy74o#1",
         "https://www.bbc.co.uk/news/articles/cm2rmmx86pdo#1",
         "https://www.bbc.co.uk/news/videos/c8x2zez8qwzo#0",
-        "https://www.bbc.co.uk/sport/tennis/articles/ckg475qdnd7o#0",
-        "https://www.bbc.co.uk/news/articles/cewq9vznzz5o#0",
-        "https://www.bbc.co.uk/news/articles/cvg4y289ppjo#1",
-        "https://www.bbc.co.uk/news/videos/c0myengg8nzo#0"
+        "https://www.bbc.co.uk/sport/tennis/articles/ckg475qdnd7o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015175291000",
         "https://news.web.nhk/newsweb/na/na-k10015175191000",
         "https://news.web.nhk/newsweb/na/na-k10015175151000",
         "https://news.web.nhk/newsweb/na/na-k10015172901000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015172661000",
         "https://news.web.nhk/newsweb/na/na-k10015172931000",
         "https://news.web.nhk/newsweb/na/na-k10015172981000",
-        "https://news.web.nhk/newsweb/na/na-k10015172841000",
-        "https://news.web.nhk/newsweb/na/na-k10015172941000"
+        "https://news.web.nhk/newsweb/na/na-k10015172841000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/raycue-maclock-gqk/",
