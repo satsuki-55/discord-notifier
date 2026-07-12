@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/c4gy3n415l2o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015172901000",
+        "https://news.web.nhk/newsweb/na/na-k10015175111000",
         "https://news.web.nhk/newsweb/na/na-k10015175141000",
         "https://news.web.nhk/newsweb/na/na-k10015174941000",
         "https://news.web.nhk/newsweb/na/na-k10015175091000",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015172841000",
         "https://news.web.nhk/newsweb/na/na-k10015172941000",
         "https://news.web.nhk/newsweb/na/na-k10015172961000",
-        "https://news.web.nhk/newsweb/na/na-k10015172911000",
-        "https://news.web.nhk/newsweb/na/na-k10015172871000",
-        "https://news.web.nhk/newsweb/na/na-k10015172901000"
+        "https://news.web.nhk/newsweb/na/na-k10015172911000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/cio-smartcoby-ex05/",
