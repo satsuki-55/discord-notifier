@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "oDskhKLpiPU",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "PSxCe0HJR34",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/videos/cvgqxx912dro#1",
         "https://www.bbc.co.uk/news/articles/c39y78rwrmno#0",
         "https://www.bbc.co.uk/sport/football/videos/c20yrd39ge8o#0",
         "https://www.bbc.co.uk/news/articles/c04yxnlkdxzo#0",
@@ -200,10 +201,10 @@
         "https://www.bbc.co.uk/sport/football/articles/c3eyqdwq392o#0",
         "https://www.bbc.co.uk/news/articles/c4gym70r0y4o#0",
         "https://www.bbc.co.uk/news/articles/cze9zd8drzro#0",
-        "https://www.bbc.co.uk/news/articles/czrxz18720eo#1",
-        "https://www.bbc.co.uk/weather/articles/c0my38l4ex3o#0"
+        "https://www.bbc.co.uk/news/articles/czrxz18720eo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015174781000",
         "https://news.web.nhk/newsweb/na/na-k10015174811000",
         "https://news.web.nhk/newsweb/na/na-k10015174801000",
         "https://news.web.nhk/newsweb/na/na-k10015174631000",
@@ -402,10 +403,11 @@
         "https://news.web.nhk/newsweb/na/na-k10015172651000",
         "https://news.web.nhk/newsweb/na/na-k10015172611000",
         "https://news.web.nhk/newsweb/na/na-k10015172561000",
-        "https://news.web.nhk/newsweb/na/na-k10015172551000",
-        "https://news.web.nhk/newsweb/na/na-k10015172481000"
+        "https://news.web.nhk/newsweb/na/na-k10015172551000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/amazon-primeday-dyson-micro-plus/",
+        "https://www.gizmodo.jp/article/clever_goods_summary/",
         "https://www.gizmodo.jp/article/newbalance_higt-grade-rebounting-insole-dfe/",
         "https://www.gizmodo.jp/article/amazon-primeday-finetrack-pro/",
         "https://www.gizmodo.jp/article/olight-oclip-pro-black-friday-vwd/",
@@ -603,8 +605,6 @@
         "https://www.gizmodo.jp/article/cea0ff36-1975-4c0a-acf0-ef088e9a1b97/",
         "https://www.gizmodo.jp/article/sees-through-murky-waters/",
         "https://www.gizmodo.jp/article/cfb7148c-5414-4ddc-ba5f-b485a28d1c90/",
-        "https://www.gizmodo.jp/article/yamaha-xmax-kne/",
-        "https://www.gizmodo.jp/article/behold-our-best-view-yet-of-the-milky-ways-massive-galactic-bulge/",
-        "https://www.gizmodo.jp/article/71de77fc-45e1-4ae7-8c64-5a66cd017c34/"
+        "https://www.gizmodo.jp/article/yamaha-xmax-kne/"
     ]
 }
