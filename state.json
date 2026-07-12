@@ -204,6 +204,10 @@
         "https://www.bbc.co.uk/news/articles/c0my34g9edpo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015172821000",
+        "https://news.web.nhk/newsweb/na/na-k10015175071000",
+        "https://news.web.nhk/newsweb/na/na-k10015175041000",
+        "https://news.web.nhk/newsweb/na/na-k10015175031000",
         "https://news.web.nhk/newsweb/na/na-k10015171821000",
         "https://news.web.nhk/newsweb/na/na-k10015174991000",
         "https://news.web.nhk/newsweb/na/na-k10015175021000",
@@ -399,11 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015172881000",
         "https://news.web.nhk/newsweb/na/na-k10015172891000",
         "https://news.web.nhk/newsweb/na/na-k10015172861000",
-        "https://news.web.nhk/newsweb/na/na-k10015172851000",
-        "https://news.web.nhk/newsweb/na/na-k10015172831000",
-        "https://news.web.nhk/newsweb/na/na-k10015172791000",
-        "https://news.web.nhk/newsweb/na/na-k10015172821000",
-        "https://news.web.nhk/newsweb/na/na-k10015172811000"
+        "https://news.web.nhk/newsweb/na/na-k10015172851000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/amazon-primeday-xiaomi-redmi-pad-2/",
