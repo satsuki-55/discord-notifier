@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cze9z81d183o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015174881000",
         "https://news.web.nhk/newsweb/na/na-k10015174821000",
         "https://news.web.nhk/newsweb/na/na-k10015174781000",
         "https://news.web.nhk/newsweb/na/na-k10015174811000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015172671000",
         "https://news.web.nhk/newsweb/na/na-k10015172641000",
         "https://news.web.nhk/newsweb/na/na-k10015172651000",
-        "https://news.web.nhk/newsweb/na/na-k10015172611000",
-        "https://news.web.nhk/newsweb/na/na-k10015172561000"
+        "https://news.web.nhk/newsweb/na/na-k10015172611000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/yibooom-amazon-black-friday-2025-quy/",
