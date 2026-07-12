@@ -2,6 +2,8 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "oDskhKLpiPU",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "PSxCe0HJR34",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cly9r54e5r4o#0",
+        "https://www.bbc.co.uk/news/articles/cvgj25j6nmeo#0",
         "https://www.bbc.co.uk/news/articles/cx2wllrlrxgo#0",
         "https://www.bbc.co.uk/news/articles/cz6vz56326vo#1",
         "https://www.bbc.co.uk/news/articles/c9v29d7vml7o#0",
@@ -199,11 +201,10 @@
         "https://www.bbc.co.uk/news/articles/c0my34g9edpo#1",
         "https://www.bbc.co.uk/news/articles/cvgdyjeqz8lo#1",
         "https://www.bbc.co.uk/news/articles/cj3g6n64z4mo#0",
-        "https://www.bbc.co.uk/news/articles/c5yzm8m4peeo#0",
-        "https://www.bbc.co.uk/news/articles/ced47jqyg1eo#0",
-        "https://www.bbc.co.uk/news/articles/cly9r54e5r4o#0"
+        "https://www.bbc.co.uk/news/articles/c5yzm8m4peeo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015175021000",
         "https://news.web.nhk/newsweb/na/na-k10015175011000",
         "https://news.web.nhk/newsweb/na/na-k10015175001000",
         "https://news.web.nhk/newsweb/na/na-k10015174921000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015172821000",
         "https://news.web.nhk/newsweb/na/na-k10015172811000",
         "https://news.web.nhk/newsweb/na/na-k10015172801000",
-        "https://news.web.nhk/newsweb/na/na-k10015140781000",
-        "https://news.web.nhk/newsweb/na/na-k10015172771000"
+        "https://news.web.nhk/newsweb/na/na-k10015140781000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/amazon-primeday-blueair-blue-mini-max/",
