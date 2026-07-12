@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "oDskhKLpiPU",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "PSxCe0HJR34",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/czx5zy82n7no#0",
         "https://www.bbc.co.uk/news/videos/c8x2zez8qwzo#0",
         "https://www.bbc.co.uk/news/articles/clyrdn216k2o#0",
         "https://www.bbc.co.uk/news/articles/cql1qdq14xro#1",
@@ -200,10 +201,11 @@
         "https://www.bbc.co.uk/news/articles/cp9lee19y1yo#0",
         "https://www.bbc.co.uk/news/articles/c3vyqkqkvr9o#0",
         "https://www.bbc.co.uk/news/articles/c8j2dje3pldo#1",
-        "https://www.bbc.co.uk/news/articles/cm2rm66xd17o#0",
-        "https://www.bbc.co.uk/news/articles/cx238gzzy74o#1"
+        "https://www.bbc.co.uk/news/articles/cm2rm66xd17o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015175241000",
+        "https://news.web.nhk/newsweb/na/na-k10015175341000",
         "https://news.web.nhk/newsweb/na/na-k10015175361000",
         "https://news.web.nhk/newsweb/na/na-k10015175231000",
         "https://news.web.nhk/newsweb/na/na-k10015175161000",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015172741000",
         "https://news.web.nhk/newsweb/na/na-k10015170901000",
         "https://news.web.nhk/newsweb/na/na-k10015171991000",
-        "https://news.web.nhk/newsweb/na/na-k10015173151000",
-        "https://news.web.nhk/newsweb/na/na-k10015173121000",
-        "https://news.web.nhk/newsweb/na/na-k10015173101000"
+        "https://news.web.nhk/newsweb/na/na-k10015173151000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/amazon-shell-charger-iiy/",
