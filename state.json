@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "oDskhKLpiPU",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "PSxCe0HJR34",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c8921982pgzo#2",
         "https://www.bbc.co.uk/news/articles/cly0l5d5xn7o#0",
         "https://www.bbc.co.uk/news/articles/c39y78rwrmno#1",
         "https://www.bbc.co.uk/news/articles/c2eyl3zkpwko#0",
@@ -200,8 +201,7 @@
         "https://www.bbc.co.uk/news/articles/c8e2382jk7jo#0",
         "https://www.bbc.co.uk/news/articles/c70yd1g67z5o#1",
         "https://www.bbc.co.uk/news/articles/c9v29d7vml7o#0",
-        "https://www.bbc.co.uk/news/articles/ckg888vpz4do#0",
-        "https://www.bbc.co.uk/news/articles/c8x2kyr4wv5o#0"
+        "https://www.bbc.co.uk/news/articles/ckg888vpz4do#0"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/na-k10015174951000",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015172511000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/767f5283-b7ce-4edb-b420-6108f1080cf2/",
         "https://www.gizmodo.jp/article/cp-plus-synology-nas-1/",
         "https://www.gizmodo.jp/article/sanwa-supply-desk-mat-felt-material-black/",
         "https://www.gizmodo.jp/article/amazon-primeday-car-wi-fi/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/elecom_nestout_solar-2/",
         "https://www.gizmodo.jp/article/amnazon-annker-nano-power-strip/",
         "https://www.gizmodo.jp/article/workman-square-vacuum-hybrid-container-review-awe/",
-        "https://www.gizmodo.jp/article/spacex/",
-        "https://www.gizmodo.jp/article/meta-fury-ai-glasses-review-the-worst-company-still-makes-the-best-smart-glasses/"
+        "https://www.gizmodo.jp/article/spacex/"
     ]
 }
