@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/cx238gzzy74o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015175211000",
+        "https://news.web.nhk/newsweb/na/na-k10015175271000",
         "https://news.web.nhk/newsweb/na/na-k10015175321000",
         "https://news.web.nhk/newsweb/na/na-k10015175251000",
         "https://news.web.nhk/newsweb/na/na-k10015175261000",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015173091000",
         "https://news.web.nhk/newsweb/na/na-k10015173081000",
         "https://news.web.nhk/newsweb/na/na-k10015173001000",
-        "https://news.web.nhk/newsweb/na/na-k10015173011000",
-        "https://news.web.nhk/newsweb/na/na-k10015173021000",
-        "https://news.web.nhk/newsweb/na/na-k10015172991000"
+        "https://news.web.nhk/newsweb/na/na-k10015173011000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/raycue-maclock-gqk/",
