@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/crel4yyxwd1o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015175901000",
         "https://news.web.nhk/newsweb/na/na-k10015175461000",
         "https://news.web.nhk/newsweb/na/na-k10015175451000",
         "https://news.web.nhk/newsweb/na/na-k10015173421000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015173581000",
         "https://news.web.nhk/newsweb/na/na-k10015173531000",
         "https://news.web.nhk/newsweb/na/na-k10015173521000",
-        "https://news.web.nhk/newsweb/na/na-k10015173441000",
-        "https://news.web.nhk/newsweb/na/na-k10015173511000"
+        "https://news.web.nhk/newsweb/na/na-k10015173441000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/the-iphone-18-pro-max-could-get-a-mega-battery-upgrade/",
