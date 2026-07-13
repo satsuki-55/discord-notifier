@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/sport/videos/cewqex0vl85o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015173621000",
+        "https://news.web.nhk/newsweb/na/na-k10015176071000",
         "https://news.web.nhk/newsweb/na/na-k10015176181000",
         "https://news.web.nhk/newsweb/na/na-k10015176081000",
         "https://news.web.nhk/newsweb/na/na-k10015176131000",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015173891000",
         "https://news.web.nhk/newsweb/na/na-k10015173881000",
         "https://news.web.nhk/newsweb/na/na-k10015173821000",
-        "https://news.web.nhk/newsweb/na/na-k10015173901000",
-        "https://news.web.nhk/newsweb/na/na-k10015173851000",
-        "https://news.web.nhk/newsweb/na/na-k10015173621000"
+        "https://news.web.nhk/newsweb/na/na-k10015173901000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/o-one-can-afford-to-buy-hardware-so-nvidia-made-trading-cards-to-reminisce-about-the-good-times/",
