@@ -2,6 +2,8 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "fvzDkZi4XdA",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "PSxCe0HJR34",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cy06e5e1lygo#0",
+        "https://www.bbc.co.uk/news/articles/cg53rp4e2j4o#1",
         "https://www.bbc.co.uk/news/articles/cz0jkj7e87go#0",
         "https://www.bbc.co.uk/news/articles/cn75083d472o#0",
         "https://www.bbc.co.uk/news/articles/c20yx84g103o#0",
@@ -199,11 +201,12 @@
         "https://www.bbc.co.uk/news/articles/cx2vq71473yo#0",
         "https://www.bbc.co.uk/news/articles/cj4g79exkzlo#0",
         "https://www.bbc.co.uk/news/articles/cx2xd555levo#0",
-        "https://www.bbc.co.uk/sport/football/articles/c5yz0g0mg4no#1",
-        "https://www.bbc.co.uk/news/articles/cz9l8pzxv7vo#1",
-        "https://www.bbc.co.uk/sport/football/articles/cwyez8r7ve8o#1"
+        "https://www.bbc.co.uk/sport/football/articles/c5yz0g0mg4no#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015176011000",
+        "https://news.web.nhk/newsweb/na/na-k10015176021000",
+        "https://news.web.nhk/newsweb/na/na-k10015176031000",
         "https://news.web.nhk/newsweb/na/na-k10015175911000",
         "https://news.web.nhk/newsweb/na/na-k10015175951000",
         "https://news.web.nhk/newsweb/na/na-k10015175701000",
@@ -400,10 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015173681000",
         "https://news.web.nhk/newsweb/na/na-k10015173671000",
         "https://news.web.nhk/newsweb/na/na-k10015173721000",
-        "https://news.web.nhk/newsweb/na/na-k10015173651000",
-        "https://news.web.nhk/newsweb/na/na-k10015173631000",
-        "https://news.web.nhk/newsweb/na/na-k10015173601000",
-        "https://news.web.nhk/newsweb/na/na-k10015173591000"
+        "https://news.web.nhk/newsweb/na/na-k10015173651000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/apple_broadcom_madeinusa/",
