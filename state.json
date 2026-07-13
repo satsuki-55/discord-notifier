@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "OjUIE_sCaNY",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "PSxCe0HJR34",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cy06e5e1lygo#1",
         "https://www.bbc.co.uk/news/articles/cpwep8xnkrqo#0",
         "https://www.bbc.co.uk/sport/football/articles/c932rqverkvo#1",
         "https://www.bbc.co.uk/news/articles/ckg7mxj41lro#0",
@@ -200,8 +201,7 @@
         "https://www.bbc.co.uk/weather/articles/ce3e443e1yko#0",
         "https://www.bbc.co.uk/news/videos/c1ly3glepr1o#1",
         "https://www.bbc.co.uk/news/videos/c0lydpe9722o#1",
-        "https://www.bbc.co.uk/news/articles/c8e2382jk7jo#2",
-        "https://www.bbc.co.uk/sport/tennis/articles/ckg475qdnd7o#2"
+        "https://www.bbc.co.uk/news/articles/c8e2382jk7jo#2"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/na-k10015175811000",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015173461000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/sabae-glasses-cloth/",
         "https://www.gizmodo.jp/article/polar-street-x-oml/",
         "https://www.gizmodo.jp/article/torras-ostand-q3-air-03/",
         "https://www.gizmodo.jp/article/amazon-primeday-soudcore-aeroclip/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/notta-amazon-primeday-2026/",
         "https://www.gizmodo.jp/article/amazon-primeday-apple-products/",
         "https://www.gizmodo.jp/article/samsungs-next-foldables-leaked-again/",
-        "https://www.gizmodo.jp/article/iphone-2027lineup/",
-        "https://www.gizmodo.jp/article/amazon-500point-back/"
+        "https://www.gizmodo.jp/article/iphone-2027lineup/"
     ]
 }
