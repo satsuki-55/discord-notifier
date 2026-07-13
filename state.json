@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/sport/videos/cewqex0vl85o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015176201000",
         "https://news.web.nhk/newsweb/na/na-k10015173821000",
         "https://news.web.nhk/newsweb/na/na-k10015175871000",
         "https://news.web.nhk/newsweb/na/na-k10015176211000",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/na-k10015173611000",
         "https://news.web.nhk/newsweb/na/na-k10015173831000",
         "https://news.web.nhk/newsweb/na/na-k10015173911000",
-        "https://news.web.nhk/newsweb/na/na-k10015173871000",
-        "https://news.web.nhk/newsweb/na/na-k10015173891000"
+        "https://news.web.nhk/newsweb/na/na-k10015173871000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/swerv/",
         "https://www.gizmodo.jp/article/o-one-can-afford-to-buy-hardware-so-nvidia-made-trading-cards-to-reminisce-about-the-good-times/",
         "https://www.gizmodo.jp/article/xbox-hits-reset-button-with-thousands-of-job-cuts-and-game-studio-spin-offs/",
         "https://www.gizmodo.jp/article/flexispot-polyurethane-chair-wheels/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/brainsleep-comforter-perfectcoolairthrow-lnr/",
         "https://www.gizmodo.jp/article/heres-a-clue-about-spacexs-actual-revenue-generating-plans/",
         "https://www.gizmodo.jp/article/amazon-primeday-iphone-air-1tb/",
-        "https://www.gizmodo.jp/article/audio-technica-ath-cks50tw2-summer-02/",
-        "https://www.gizmodo.jp/article/purplesaver_amon_for_safe/"
+        "https://www.gizmodo.jp/article/audio-technica-ath-cks50tw2-summer-02/"
     ]
 }
