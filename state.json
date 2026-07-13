@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/cx2xd555levo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015176001000",
+        "https://news.web.nhk/newsweb/na/na-k10015175891000",
         "https://news.web.nhk/newsweb/na/na-k10015176041000",
         "https://news.web.nhk/newsweb/na/na-k10015176011000",
         "https://news.web.nhk/newsweb/na/na-k10015176021000",
@@ -401,11 +403,10 @@
         "https://news.web.nhk/newsweb/na/na-k10015173661000",
         "https://news.web.nhk/newsweb/na/na-k10015173731000",
         "https://news.web.nhk/newsweb/na/na-k10015173691000",
-        "https://news.web.nhk/newsweb/na/na-k10015173681000",
-        "https://news.web.nhk/newsweb/na/na-k10015173671000",
-        "https://news.web.nhk/newsweb/na/na-k10015173721000"
+        "https://news.web.nhk/newsweb/na/na-k10015173681000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/flexispot-polyurethane-chair-wheels/",
         "https://www.gizmodo.jp/article/apple_broadcom_madeinusa/",
         "https://www.gizmodo.jp/article/just-dont-use-the-super-long-zoom-on-sonys-rx10-v-for-anything-creepy-okay/",
         "https://www.gizmodo.jp/article/moft-air-flow-202607/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/audio-technica-ath-cks50tw2-summer-02/",
         "https://www.gizmodo.jp/article/purplesaver_amon_for_safe/",
         "https://www.gizmodo.jp/article/nas-and-other-ugreen-products/",
-        "https://www.gizmodo.jp/article/amazon-primeday-apple-watch-se3/",
-        "https://www.gizmodo.jp/article/switchbot-smart-circulator-fan-2-pro-primeday/"
+        "https://www.gizmodo.jp/article/amazon-primeday-apple-watch-se3/"
     ]
 }
