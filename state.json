@@ -204,6 +204,11 @@
         "https://www.bbc.co.uk/news/articles/cvg4y289ppjo#3"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015175461000",
+        "https://news.web.nhk/newsweb/na/na-k10015175451000",
+        "https://news.web.nhk/newsweb/na/na-k10015173421000",
+        "https://news.web.nhk/newsweb/na/na-k10015175581000",
+        "https://news.web.nhk/newsweb/na/na-k10015175861000",
         "https://news.web.nhk/newsweb/na/na-k10015175851000",
         "https://news.web.nhk/newsweb/na/na-k10015175821000",
         "https://news.web.nhk/newsweb/na/na-k10015175811000",
@@ -398,12 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015173531000",
         "https://news.web.nhk/newsweb/na/na-k10015173521000",
         "https://news.web.nhk/newsweb/na/na-k10015173441000",
-        "https://news.web.nhk/newsweb/na/na-k10015173511000",
-        "https://news.web.nhk/newsweb/na/na-k10015173501000",
-        "https://news.web.nhk/newsweb/na/na-k10015173401000",
-        "https://news.web.nhk/newsweb/na/na-k10015173481000",
-        "https://news.web.nhk/newsweb/na/na-k10015173471000",
-        "https://news.web.nhk/newsweb/na/na-k10015173421000"
+        "https://news.web.nhk/newsweb/na/na-k10015173511000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/ricoh-gr-iv-30th-anniversary-edition-releace/",
