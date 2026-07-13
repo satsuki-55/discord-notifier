@@ -2,6 +2,8 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "oDskhKLpiPU",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "PSxCe0HJR34",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c3wyj6e4210o#0",
+        "https://www.bbc.co.uk/news/articles/c0mye0d1297o#1",
         "https://www.bbc.co.uk/news/articles/c0mye0d1297o#0",
         "https://www.bbc.co.uk/news/articles/ce8m9615dqlo#0",
         "https://www.bbc.co.uk/news/articles/cdxd3wkp2rzo#1",
@@ -199,9 +201,7 @@
         "https://www.bbc.co.uk/news/articles/c1lj5r48vmmo#3",
         "https://www.bbc.co.uk/news/articles/c36yy27rnpeo#0",
         "https://www.bbc.co.uk/news/articles/cn94rdz3e59o#1",
-        "https://www.bbc.co.uk/news/articles/cn94rdz3e59o#0",
-        "https://www.bbc.co.uk/news/articles/c4gyvp7y89jo#1",
-        "https://www.bbc.co.uk/news/articles/c8e2382jk7jo#1"
+        "https://www.bbc.co.uk/news/articles/cn94rdz3e59o#0"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/na-k10015175651000",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015171111000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/amazon-primeday-panasonic-body-trimmer/",
         "https://www.gizmodo.jp/article/amazon-primeday-apple-products-0713/",
         "https://www.gizmodo.jp/article/bubble-frame_pc-case/",
         "https://www.gizmodo.jp/article/elecom-mobile-battery-ec-c58mn-act3/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/ecovacs-t90omni/",
         "https://www.gizmodo.jp/article/gizmodo-science-fair-a-spacecraft-that-hunts-down-space-junk-5v6/",
         "https://www.gizmodo.jp/article/godox-c100/",
-        "https://www.gizmodo.jp/article/utsurundesu-waterproof-black-and-white/",
-        "https://www.gizmodo.jp/article/slate_compact_ev_pickup_truck/"
+        "https://www.gizmodo.jp/article/utsurundesu-waterproof-black-and-white/"
     ]
 }
