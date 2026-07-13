@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cn94rdz3e59o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015175691000",
         "https://news.web.nhk/newsweb/na/na-k10015175681000",
         "https://news.web.nhk/newsweb/na/na-k10015175651000",
         "https://news.web.nhk/newsweb/na/na-k10015175481000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015172921000",
         "https://news.web.nhk/newsweb/na/na-k10015173291000",
         "https://news.web.nhk/newsweb/na/na-k10015167661000",
-        "https://news.web.nhk/newsweb/na/na-k10015173061000",
-        "https://news.web.nhk/newsweb/na/na-k10015173071000"
+        "https://news.web.nhk/newsweb/na/na-k10015173061000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/amazon-primeday-panasonic-body-trimmer/",
