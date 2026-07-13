@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c3vyqkqkvr9o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015175501000",
         "https://news.web.nhk/newsweb/na/na-k10015175431000",
         "https://news.web.nhk/newsweb/na/na-k10015175351000",
         "https://news.web.nhk/newsweb/na/na-k10015175331000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015173211000",
         "https://news.web.nhk/newsweb/na/na-k10015173191000",
         "https://news.web.nhk/newsweb/na/na-k10015173181000",
-        "https://news.web.nhk/newsweb/na/na-k10015173201000",
-        "https://news.web.nhk/newsweb/na/na-k10015173171000"
+        "https://news.web.nhk/newsweb/na/na-k10015173201000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/triple_force_3/",
