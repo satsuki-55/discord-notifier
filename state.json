@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "oDskhKLpiPU",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "PSxCe0HJR34",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/ckg55v9e2y9o#1",
         "https://www.bbc.co.uk/news/articles/c3wyj6e4210o#0",
         "https://www.bbc.co.uk/news/articles/c0mye0d1297o#1",
         "https://www.bbc.co.uk/news/articles/c0mye0d1297o#0",
@@ -200,8 +201,7 @@
         "https://www.bbc.co.uk/news/articles/cn94rdz3e59o#2",
         "https://www.bbc.co.uk/news/articles/c1lj5r48vmmo#3",
         "https://www.bbc.co.uk/news/articles/c36yy27rnpeo#0",
-        "https://www.bbc.co.uk/news/articles/cn94rdz3e59o#1",
-        "https://www.bbc.co.uk/news/articles/cn94rdz3e59o#0"
+        "https://www.bbc.co.uk/news/articles/cn94rdz3e59o#1"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/na-k10015173061000",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015173291000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/e6a4ea1f-ad88-4235-b4bd-219b3789dfba/",
         "https://www.gizmodo.jp/article/amazon-primeday-panasonic-body-trimmer/",
         "https://www.gizmodo.jp/article/amazon-primeday-apple-products-0713/",
         "https://www.gizmodo.jp/article/bubble-frame_pc-case/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/mosquito-habits/",
         "https://www.gizmodo.jp/article/ecovacs-t90omni/",
         "https://www.gizmodo.jp/article/gizmodo-science-fair-a-spacecraft-that-hunts-down-space-junk-5v6/",
-        "https://www.gizmodo.jp/article/godox-c100/",
-        "https://www.gizmodo.jp/article/utsurundesu-waterproof-black-and-white/"
+        "https://www.gizmodo.jp/article/godox-c100/"
     ]
 }
