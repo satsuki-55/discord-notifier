@@ -1,5 +1,5 @@
 {
-    "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "OjUIE_sCaNY",
+    "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "fvzDkZi4XdA",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "PSxCe0HJR34",
     "rss:bbc": [
         "https://www.bbc.co.uk/news/articles/c8r271zx43mo#0",
@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/videos/c0lydpe9722o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015175851000",
         "https://news.web.nhk/newsweb/na/na-k10015175821000",
         "https://news.web.nhk/newsweb/na/na-k10015175811000",
         "https://news.web.nhk/newsweb/na/na-k10015175441000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015173401000",
         "https://news.web.nhk/newsweb/na/na-k10015173481000",
         "https://news.web.nhk/newsweb/na/na-k10015173471000",
-        "https://news.web.nhk/newsweb/na/na-k10015173421000",
-        "https://news.web.nhk/newsweb/na/na-k10015173451000"
+        "https://news.web.nhk/newsweb/na/na-k10015173421000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/sabae-glasses-cloth/",
