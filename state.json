@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/cq819jyp2g7o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015173051000",
+        "https://news.web.nhk/newsweb/na/na-k10015175591000",
         "https://news.web.nhk/newsweb/na/na-k10015175561000",
         "https://news.web.nhk/newsweb/na/na-k10015175551000",
         "https://news.web.nhk/newsweb/na/na-k10015173191000",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015173271000",
         "https://news.web.nhk/newsweb/na/na-k10015173221000",
         "https://news.web.nhk/newsweb/na/na-k10015173251000",
-        "https://news.web.nhk/newsweb/na/na-k10015173041000",
-        "https://news.web.nhk/newsweb/na/na-k10015173031000",
-        "https://news.web.nhk/newsweb/na/na-k10015173231000"
+        "https://news.web.nhk/newsweb/na/na-k10015173041000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/amazon-primeday-wf-1000mx5/",
