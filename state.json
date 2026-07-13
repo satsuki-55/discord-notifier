@@ -406,6 +406,8 @@
         "https://news.web.nhk/newsweb/na/na-k10015173251000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/dr-air-exagun-pocket/",
+        "https://www.gizmodo.jp/article/brid-duct-rail-fan-3d-pdi/",
         "https://www.gizmodo.jp/article/beyerdynamic/",
         "https://www.gizmodo.jp/article/amazon-primeday-wf-1000mx5/",
         "https://www.gizmodo.jp/article/snowprak_tubuhozuki_review-itf/",
@@ -603,8 +605,6 @@
         "https://www.gizmodo.jp/article/slate_compact_ev_pickup_truck/",
         "https://www.gizmodo.jp/article/aimdesk-pro-5/",
         "https://www.gizmodo.jp/article/oxtak-money-penny-start/",
-        "https://www.gizmodo.jp/article/samsungs-smart-glasses-could-team-up-with-its-rings-and-watches/",
-        "https://www.gizmodo.jp/article/playstation-kills-off-future-physical-games/",
-        "https://www.gizmodo.jp/article/m6-m7-macbook-pro/"
+        "https://www.gizmodo.jp/article/samsungs-smart-glasses-could-team-up-with-its-rings-and-watches/"
     ]
 }
