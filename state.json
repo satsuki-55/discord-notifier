@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015173331000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/cio-handy-fan/",
         "https://www.gizmodo.jp/article/gadget-pouch-switch-to-kokuyo-hacobiz/",
         "https://www.gizmodo.jp/article/bandw-pi8-3/",
         "https://www.gizmodo.jp/article/e6a4ea1f-ad88-4235-b4bd-219b3789dfba/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/prevent-hospital-pneumonia-toothbrushing/",
         "https://www.gizmodo.jp/article/moej_urbanmining/",
         "https://www.gizmodo.jp/article/elecom-egg-mouse/",
-        "https://www.gizmodo.jp/article/mosquito-habits/",
-        "https://www.gizmodo.jp/article/ecovacs-t90omni/"
+        "https://www.gizmodo.jp/article/mosquito-habits/"
     ]
 }
