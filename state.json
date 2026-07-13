@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cx2xd555levo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015173671000",
         "https://news.web.nhk/newsweb/na/na-k10015176001000",
         "https://news.web.nhk/newsweb/na/na-k10015175891000",
         "https://news.web.nhk/newsweb/na/na-k10015176041000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015173751000",
         "https://news.web.nhk/newsweb/na/na-k10015173661000",
         "https://news.web.nhk/newsweb/na/na-k10015173731000",
-        "https://news.web.nhk/newsweb/na/na-k10015173691000",
-        "https://news.web.nhk/newsweb/na/na-k10015173681000"
+        "https://news.web.nhk/newsweb/na/na-k10015173691000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/flexispot-polyurethane-chair-wheels/",
