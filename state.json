@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "fvzDkZi4XdA",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "PSxCe0HJR34",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cjegqpwxk98o#0",
         "https://www.bbc.co.uk/news/articles/cx2wrvqq9rlo#0",
         "https://www.bbc.co.uk/news/articles/cy06e5e1lygo#0",
         "https://www.bbc.co.uk/news/articles/cg53rp4e2j4o#1",
@@ -200,10 +201,11 @@
         "https://www.bbc.co.uk/news/videos/c992zv2xpdjo#0",
         "https://www.bbc.co.uk/news/articles/cvg50lk22jpo#0",
         "https://www.bbc.co.uk/news/articles/cx2vq71473yo#0",
-        "https://www.bbc.co.uk/news/articles/cj4g79exkzlo#0",
-        "https://www.bbc.co.uk/news/articles/cx2xd555levo#0"
+        "https://www.bbc.co.uk/news/articles/cj4g79exkzlo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015175941000",
+        "https://news.web.nhk/newsweb/na/na-k10015175771000",
         "https://news.web.nhk/newsweb/na/na-k10015173671000",
         "https://news.web.nhk/newsweb/na/na-k10015176001000",
         "https://news.web.nhk/newsweb/na/na-k10015175891000",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015173791000",
         "https://news.web.nhk/newsweb/na/na-k10015173771000",
         "https://news.web.nhk/newsweb/na/na-k10015173751000",
-        "https://news.web.nhk/newsweb/na/na-k10015173661000",
-        "https://news.web.nhk/newsweb/na/na-k10015173731000",
-        "https://news.web.nhk/newsweb/na/na-k10015173691000"
+        "https://news.web.nhk/newsweb/na/na-k10015173661000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/xbox-hits-reset-button-with-thousands-of-job-cuts-and-game-studio-spin-offs/",
