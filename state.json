@@ -204,6 +204,9 @@
         "https://www.bbc.co.uk/news/articles/c8e2382jk7jo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015175481000",
+        "https://news.web.nhk/newsweb/na/na-k10015173221000",
+        "https://news.web.nhk/newsweb/na/na-k10015175661000",
         "https://news.web.nhk/newsweb/na/na-k10015175641000",
         "https://news.web.nhk/newsweb/na/na-k10015175631000",
         "https://news.web.nhk/newsweb/na/na-k10015173051000",
@@ -400,12 +403,10 @@
         "https://news.web.nhk/newsweb/na/na-k10015173061000",
         "https://news.web.nhk/newsweb/na/na-k10015173071000",
         "https://news.web.nhk/newsweb/na/na-k10015171111000",
-        "https://news.web.nhk/newsweb/na/na-k10015173281000",
-        "https://news.web.nhk/newsweb/na/na-k10015173261000",
-        "https://news.web.nhk/newsweb/na/na-k10015173271000",
-        "https://news.web.nhk/newsweb/na/na-k10015173221000"
+        "https://news.web.nhk/newsweb/na/na-k10015173281000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/bubble-frame_pc-case/",
         "https://www.gizmodo.jp/article/elecom-mobile-battery-ec-c58mn-act3/",
         "https://www.gizmodo.jp/article/dr-air-exagun-pocket/",
         "https://www.gizmodo.jp/article/brid-duct-rail-fan-3d-pdi/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/godox-c100/",
         "https://www.gizmodo.jp/article/utsurundesu-waterproof-black-and-white/",
         "https://www.gizmodo.jp/article/slate_compact_ev_pickup_truck/",
-        "https://www.gizmodo.jp/article/aimdesk-pro-5/",
-        "https://www.gizmodo.jp/article/oxtak-money-penny-start/"
+        "https://www.gizmodo.jp/article/aimdesk-pro-5/"
     ]
 }
