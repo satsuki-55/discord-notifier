@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015173591000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/apple_broadcom_madeinusa/",
         "https://www.gizmodo.jp/article/just-dont-use-the-super-long-zoom-on-sonys-rx10-v-for-anything-creepy-okay/",
         "https://www.gizmodo.jp/article/moft-air-flow-202607/",
         "https://www.gizmodo.jp/article/the-iphone-18-pro-max-could-get-a-mega-battery-upgrade/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/purplesaver_amon_for_safe/",
         "https://www.gizmodo.jp/article/nas-and-other-ugreen-products/",
         "https://www.gizmodo.jp/article/amazon-primeday-apple-watch-se3/",
-        "https://www.gizmodo.jp/article/switchbot-smart-circulator-fan-2-pro-primeday/",
-        "https://www.gizmodo.jp/article/bandw-pi8-2/"
+        "https://www.gizmodo.jp/article/switchbot-smart-circulator-fan-2-pro-primeday/"
     ]
 }
