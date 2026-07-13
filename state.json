@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/crel4yyxwd1o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015175961000",
         "https://news.web.nhk/newsweb/na/na-k10015175901000",
         "https://news.web.nhk/newsweb/na/na-k10015175461000",
         "https://news.web.nhk/newsweb/na/na-k10015175451000",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/na-k10015173571000",
         "https://news.web.nhk/newsweb/na/na-k10015173581000",
         "https://news.web.nhk/newsweb/na/na-k10015173531000",
-        "https://news.web.nhk/newsweb/na/na-k10015173521000",
-        "https://news.web.nhk/newsweb/na/na-k10015173441000"
+        "https://news.web.nhk/newsweb/na/na-k10015173521000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/moft-air-flow-202607/",
         "https://www.gizmodo.jp/article/the-iphone-18-pro-max-could-get-a-mega-battery-upgrade/",
         "https://www.gizmodo.jp/article/ricoh-gr-iv-30th-anniversary-edition-releace/",
         "https://www.gizmodo.jp/article/amazon-prime-day-hakoake-sip/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/amazon-primeday-apple-watch-se3/",
         "https://www.gizmodo.jp/article/switchbot-smart-circulator-fan-2-pro-primeday/",
         "https://www.gizmodo.jp/article/bandw-pi8-2/",
-        "https://www.gizmodo.jp/article/73bf7c27-3b9d-4a72-8db0-4df2475b943f/",
-        "https://www.gizmodo.jp/article/notta-amazon-primeday-2026/"
+        "https://www.gizmodo.jp/article/73bf7c27-3b9d-4a72-8db0-4df2475b943f/"
     ]
 }
