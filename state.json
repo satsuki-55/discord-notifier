@@ -406,6 +406,8 @@
         "https://news.web.nhk/newsweb/na/na-k10015173421000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/ricoh-gr-iv-30th-anniversary-edition-releace/",
+        "https://www.gizmodo.jp/article/amazon-prime-day-hakoake-sip/",
         "https://www.gizmodo.jp/article/sabae-glasses-cloth/",
         "https://www.gizmodo.jp/article/polar-street-x-oml/",
         "https://www.gizmodo.jp/article/torras-ostand-q3-air-03/",
@@ -603,8 +605,6 @@
         "https://www.gizmodo.jp/article/bandw-pi8-2/",
         "https://www.gizmodo.jp/article/73bf7c27-3b9d-4a72-8db0-4df2475b943f/",
         "https://www.gizmodo.jp/article/notta-amazon-primeday-2026/",
-        "https://www.gizmodo.jp/article/amazon-primeday-apple-products/",
-        "https://www.gizmodo.jp/article/samsungs-next-foldables-leaked-again/",
-        "https://www.gizmodo.jp/article/iphone-2027lineup/"
+        "https://www.gizmodo.jp/article/amazon-primeday-apple-products/"
     ]
 }
