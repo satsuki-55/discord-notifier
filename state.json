@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/sport/videos/cewqex0vl85o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015176221000",
         "https://news.web.nhk/newsweb/na/na-k10015176241000",
         "https://news.web.nhk/newsweb/na/na-k10015176101000",
         "https://news.web.nhk/newsweb/na/na-k10015176141000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015171741000",
         "https://news.web.nhk/newsweb/na/na-k10015173921000",
         "https://news.web.nhk/newsweb/na/na-k10015173961000",
-        "https://news.web.nhk/newsweb/na/na-k10015173951000",
-        "https://news.web.nhk/newsweb/na/na-k10015173941000"
+        "https://news.web.nhk/newsweb/na/na-k10015173951000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/chatgpt_work_handson/",
