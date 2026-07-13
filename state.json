@@ -2,6 +2,12 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "fvzDkZi4XdA",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "PSxCe0HJR34",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cn75083d472o#0",
+        "https://www.bbc.co.uk/news/articles/c20yx84g103o#0",
+        "https://www.bbc.co.uk/sport/football/articles/cj9gm31jwg8o#0",
+        "https://www.bbc.co.uk/news/articles/cvge2nd611zo#1",
+        "https://www.bbc.co.uk/news/articles/ce8k7e75k7go#1",
+        "https://www.bbc.co.uk/news/articles/cx24e09x79no#1",
         "https://www.bbc.co.uk/news/articles/crr8gnx01d7o#0",
         "https://www.bbc.co.uk/news/articles/cy8w61qz873o#0",
         "https://www.bbc.co.uk/news/articles/c0mydjl12mwo#0",
@@ -195,15 +201,10 @@
         "https://www.bbc.co.uk/sport/football/articles/c5yz0g0mg4no#1",
         "https://www.bbc.co.uk/news/articles/cz9l8pzxv7vo#1",
         "https://www.bbc.co.uk/sport/football/articles/cwyez8r7ve8o#1",
-        "https://www.bbc.co.uk/sport/football/articles/cx2j3dglq5jo#1",
-        "https://www.bbc.co.uk/news/articles/cx2xd555levo#2",
-        "https://www.bbc.co.uk/news/articles/cx2vq71473yo#2",
-        "https://www.bbc.co.uk/news/articles/cj0gel72mlgo#0",
-        "https://www.bbc.co.uk/sport/tennis/articles/c04y0pyqk6zo#1",
-        "https://www.bbc.co.uk/news/articles/cm2d370npe4o#1",
-        "https://www.bbc.co.uk/news/articles/crel4yyxwd1o#0"
+        "https://www.bbc.co.uk/sport/football/articles/cx2j3dglq5jo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015175701000",
         "https://news.web.nhk/newsweb/na/na-k10015175971000",
         "https://news.web.nhk/newsweb/na/na-k10015175931000",
         "https://news.web.nhk/newsweb/na/na-k10015175961000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015173601000",
         "https://news.web.nhk/newsweb/na/na-k10015173591000",
         "https://news.web.nhk/newsweb/na/na-k10015173551000",
-        "https://news.web.nhk/newsweb/na/na-k10015173571000",
-        "https://news.web.nhk/newsweb/na/na-k10015173581000"
+        "https://news.web.nhk/newsweb/na/na-k10015173571000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/just-dont-use-the-super-long-zoom-on-sonys-rx10-v-for-anything-creepy-okay/",
