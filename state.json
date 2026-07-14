@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/sport/football/articles/cx268mlg3lgo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015176751000",
         "https://news.web.nhk/newsweb/na/na-k10015176711000",
         "https://news.web.nhk/newsweb/na/na-k10015176791000",
         "https://news.web.nhk/newsweb/na/na-k10015176801000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015174461000",
         "https://news.web.nhk/newsweb/na/na-k10015174471000",
         "https://news.web.nhk/newsweb/na/na-k10015174501000",
-        "https://news.web.nhk/newsweb/na/na-k10015174451000",
-        "https://news.web.nhk/newsweb/na/na-k10015174441000"
+        "https://news.web.nhk/newsweb/na/na-k10015174451000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/nike_acg_radical-airflow/",
