@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c39y78rwrmno#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015177061000",
         "https://news.web.nhk/newsweb/na/na-k10015177071000",
         "https://news.web.nhk/newsweb/na/na-k10015177041000",
         "https://news.web.nhk/newsweb/na/na-k10015177021000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015174671000",
         "https://news.web.nhk/newsweb/na/na-k10015173931000",
         "https://news.web.nhk/newsweb/na/na-k10015174401000",
-        "https://news.web.nhk/newsweb/na/na-k10015174721000",
-        "https://news.web.nhk/newsweb/na/na-k10015174711000"
+        "https://news.web.nhk/newsweb/na/na-k10015174721000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/microplastics-were-found-in-a-hedgehog-s-droppings/",
