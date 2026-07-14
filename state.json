@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/videos/c8x2zez8qwzo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015177231000",
         "https://news.web.nhk/newsweb/na/na-k10015177211000",
         "https://news.web.nhk/newsweb/na/na-k10015176991000",
         "https://news.web.nhk/newsweb/na/na-k10015176961000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015175031000",
         "https://news.web.nhk/newsweb/na/na-k10015171821000",
         "https://news.web.nhk/newsweb/na/na-k10015174991000",
-        "https://news.web.nhk/newsweb/na/na-k10015175021000",
-        "https://news.web.nhk/newsweb/na/na-k10015175011000"
+        "https://news.web.nhk/newsweb/na/na-k10015175021000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/irobot-debuts-five-self-emptying-roombas-most-under/",
