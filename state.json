@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "fvzDkZi4XdA",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "PSxCe0HJR34",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c8626jpp0ewo#0",
         "https://www.bbc.co.uk/news/articles/c9323k52n67o#0",
         "https://www.bbc.co.uk/news/articles/cvgm2rz5d7lo#1",
         "https://www.bbc.co.uk/sport/football/articles/cjrgew3wv4xo#0",
@@ -200,10 +201,10 @@
         "https://www.bbc.co.uk/news/articles/cwyd7x22lp1o#1",
         "https://www.bbc.co.uk/sport/football/articles/c7vyp994jjgo#1",
         "https://www.bbc.co.uk/sport/football/articles/c7vyp994jjgo#0",
-        "https://www.bbc.co.uk/sport/tennis/articles/ce37x57gv49o#0",
-        "https://www.bbc.co.uk/news/articles/c0qyk9jwq9no#0"
+        "https://www.bbc.co.uk/sport/tennis/articles/ce37x57gv49o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015176771000",
         "https://news.web.nhk/newsweb/na/na-k10015176691000",
         "https://news.web.nhk/newsweb/na/na-k10015176761000",
         "https://news.web.nhk/newsweb/na/na-k10015176741000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015174371000",
         "https://news.web.nhk/newsweb/na/na-k10015174361000",
         "https://news.web.nhk/newsweb/na/na-k10015174351000",
-        "https://news.web.nhk/newsweb/na/na-k10015174341000",
-        "https://news.web.nhk/newsweb/na/na-k10015174301000"
+        "https://news.web.nhk/newsweb/na/na-k10015174341000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/toystory5_sonoko-konishi_interview/",
