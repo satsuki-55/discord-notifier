@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "KLNNh9S_Kqk",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "PSxCe0HJR34",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/videos/ckg8gymjv7ro#0",
         "https://www.bbc.co.uk/news/articles/cdejez0zlpno#0",
         "https://www.bbc.co.uk/sport/football/articles/cjrgew3wv4xo#1",
         "https://www.bbc.co.uk/news/articles/cp8l8zdn7k6o#0",
@@ -200,10 +201,10 @@
         "https://www.bbc.co.uk/sport/football/articles/c7vy25lqll6o#1",
         "https://www.bbc.co.uk/news/articles/cz754eey3xeo#0",
         "https://www.bbc.co.uk/sport/cricket/articles/c8028vm2g9ro#0",
-        "https://www.bbc.co.uk/news/videos/ckg5kz7qp31o#0",
-        "https://www.bbc.co.uk/sport/football/articles/cpd3wv3v1eeo#1"
+        "https://www.bbc.co.uk/news/videos/ckg5kz7qp31o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015177171000",
         "https://news.web.nhk/newsweb/na/na-k10015176841000",
         "https://news.web.nhk/newsweb/na/na-k10015176831000",
         "https://news.web.nhk/newsweb/na/na-k10015177111000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015174631000",
         "https://news.web.nhk/newsweb/na/na-k10015174761000",
         "https://news.web.nhk/newsweb/na/na-k10015140931000",
-        "https://news.web.nhk/newsweb/na/na-k10015174751000",
-        "https://news.web.nhk/newsweb/na/na-k10015174741000"
+        "https://news.web.nhk/newsweb/na/na-k10015174751000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/canon-star-wars-galaxy-map-interactive-updates-hve/",
