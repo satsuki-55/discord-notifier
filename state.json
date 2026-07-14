@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/sport/football/articles/cr47y5nvrqlo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015176491000",
         "https://news.web.nhk/newsweb/na/na-k10015176451000",
         "https://news.web.nhk/newsweb/na/na-k10015176441000",
         "https://news.web.nhk/newsweb/na/na-k10015176421000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015174161000",
         "https://news.web.nhk/newsweb/na/na-k10015174141000",
         "https://news.web.nhk/newsweb/na/na-k10015174121000",
-        "https://news.web.nhk/newsweb/na/na-k10015174071000",
-        "https://news.web.nhk/newsweb/na/na-k10015174091000"
+        "https://news.web.nhk/newsweb/na/na-k10015174071000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/retired_ev_batteries_secondlife/",
