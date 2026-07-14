@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c5yzn9xqz0po#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015176541000",
         "https://news.web.nhk/newsweb/na/na-k10015176481000",
         "https://news.web.nhk/newsweb/na/na-k10015176511000",
         "https://news.web.nhk/newsweb/na/na-k10015176461000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015174231000",
         "https://news.web.nhk/newsweb/na/na-k10015174181000",
         "https://news.web.nhk/newsweb/na/na-k10015174111000",
-        "https://news.web.nhk/newsweb/na/na-k10015174171000",
-        "https://news.web.nhk/newsweb/na/na-k10015174261000"
+        "https://news.web.nhk/newsweb/na/na-k10015174171000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/testosterone-and-cancer-risk/",
