@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "KLNNh9S_Kqk",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "PSxCe0HJR34",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c5yzyr3np8xo#0",
         "https://www.bbc.co.uk/news/articles/cwyey14r4wzo#0",
         "https://www.bbc.co.uk/news/articles/cp9ldle3d3xo#0",
         "https://www.bbc.co.uk/news/articles/c2ly580kxnko#1",
@@ -200,10 +201,11 @@
         "https://www.bbc.co.uk/sport/football/videos/c20yrd39ge8o#0",
         "https://www.bbc.co.uk/news/articles/c04yxnlkdxzo#0",
         "https://www.bbc.co.uk/news/articles/c4gykgyn1r4o#0",
-        "https://www.bbc.co.uk/sport/football/articles/cx268mlg3lgo#1",
-        "https://www.bbc.co.uk/news/articles/cz6v5z9zz8jo#0"
+        "https://www.bbc.co.uk/sport/football/articles/cx268mlg3lgo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015176711000",
+        "https://news.web.nhk/newsweb/na/na-k10015176791000",
         "https://news.web.nhk/newsweb/na/na-k10015176801000",
         "https://news.web.nhk/newsweb/na/na-k10015176331000",
         "https://news.web.nhk/newsweb/na/na-k10015176351000",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015174471000",
         "https://news.web.nhk/newsweb/na/na-k10015174501000",
         "https://news.web.nhk/newsweb/na/na-k10015174451000",
-        "https://news.web.nhk/newsweb/na/na-k10015174441000",
-        "https://news.web.nhk/newsweb/na/na-k10015174431000",
-        "https://news.web.nhk/newsweb/na/na-k10015174381000"
+        "https://news.web.nhk/newsweb/na/na-k10015174441000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/nike_acg_radical-airflow/",
