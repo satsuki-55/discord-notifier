@@ -2,6 +2,12 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "fvzDkZi4XdA",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "PSxCe0HJR34",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c07ylddnvmyo#0",
+        "https://www.bbc.co.uk/news/articles/c2ly580kxnko#0",
+        "https://www.bbc.co.uk/news/articles/c2dy9krpydlo#0",
+        "https://www.bbc.co.uk/news/articles/c05y3rlvp20o#1",
+        "https://www.bbc.co.uk/news/articles/c24yev53q06o#1",
+        "https://www.bbc.co.uk/news/articles/cx2wzpwn51lo#1",
         "https://www.bbc.co.uk/news/articles/cy8wlplellvo#0",
         "https://www.bbc.co.uk/news/articles/c5yzn2g0xw9o#0",
         "https://www.bbc.co.uk/news/articles/czj8zp9e084o#0",
@@ -195,15 +201,10 @@
         "https://www.bbc.co.uk/news/videos/c07y357zvl1o#0",
         "https://www.bbc.co.uk/sport/football/articles/cn8kdxgxlkeo#0",
         "https://www.bbc.co.uk/sport/football/articles/c6214y2dlgno#1",
-        "https://www.bbc.co.uk/news/articles/c992z0j4d1ko#1",
-        "https://www.bbc.co.uk/news/articles/c20yvg13nqpo#0",
-        "https://www.bbc.co.uk/news/articles/c07ylddnvmyo#0",
-        "https://www.bbc.co.uk/news/articles/cm204lgrv10o#1",
-        "https://www.bbc.co.uk/sport/football/articles/cn8kdxgxlkeo#1",
-        "https://www.bbc.co.uk/sport/football/articles/ckg47l8nl7jo#1",
-        "https://www.bbc.co.uk/news/articles/c3dyyln23v8o#1"
+        "https://www.bbc.co.uk/news/articles/c992z0j4d1ko#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015176311000",
         "https://news.web.nhk/newsweb/na/na-k10015176111000",
         "https://news.web.nhk/newsweb/na/na-k10015176171000",
         "https://news.web.nhk/newsweb/na/na-k10015176231000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015171611000",
         "https://news.web.nhk/newsweb/na/na-k10015174041000",
         "https://news.web.nhk/newsweb/na/na-k10015174011000",
-        "https://news.web.nhk/newsweb/na/na-k10015174001000",
-        "https://news.web.nhk/newsweb/na/na-k10015173981000"
+        "https://news.web.nhk/newsweb/na/na-k10015174001000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/the-public-got-so-mad-at-metas-new-ai-photo-tool-that-its-scrapped-already/",
