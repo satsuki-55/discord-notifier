@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cz6v5z9zz8jo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015176801000",
         "https://news.web.nhk/newsweb/na/na-k10015176331000",
         "https://news.web.nhk/newsweb/na/na-k10015176351000",
         "https://news.web.nhk/newsweb/na/na-k10015176721000",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/na-k10015174451000",
         "https://news.web.nhk/newsweb/na/na-k10015174441000",
         "https://news.web.nhk/newsweb/na/na-k10015174431000",
-        "https://news.web.nhk/newsweb/na/na-k10015174381000",
-        "https://news.web.nhk/newsweb/na/na-k10015174371000"
+        "https://news.web.nhk/newsweb/na/na-k10015174381000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/nike_acg_radical-airflow/",
         "https://www.gizmodo.jp/article/ray-ban-meta-english-to-japanese-live-translation-test/",
         "https://www.gizmodo.jp/article/toystory5_sonoko-konishi_interview/",
         "https://www.gizmodo.jp/article/salomon_amphib_bold_2-krr/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/xai-is-dead-long-live-spacexai-jpn/",
         "https://www.gizmodo.jp/article/cat_gadget_4_review/",
         "https://www.gizmodo.jp/article/spacex_fomo_netscape/",
-        "https://www.gizmodo.jp/article/bizrack_review_kokuyo/",
-        "https://www.gizmodo.jp/article/drink_holder_strap_mimpi_color-codes/"
+        "https://www.gizmodo.jp/article/bizrack_review_kokuyo/"
     ]
 }
