@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c0ky0e147jzo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015176661000",
         "https://news.web.nhk/newsweb/na/na-k10015176631000",
         "https://news.web.nhk/newsweb/na/na-k10015176611000",
         "https://news.web.nhk/newsweb/na/na-k10015176601000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015174271000",
         "https://news.web.nhk/newsweb/na/na-k10015174241000",
         "https://news.web.nhk/newsweb/na/na-k10015174251000",
-        "https://news.web.nhk/newsweb/na/na-k10015174221000",
-        "https://news.web.nhk/newsweb/na/na-k10015174191000"
+        "https://news.web.nhk/newsweb/na/na-k10015174221000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/say-hello-to-the-new-species-of-fly-officially-approved-to-clean-human-wounds/",
