@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015174301000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/toystory5_sonoko-konishi_interview/",
         "https://www.gizmodo.jp/article/salomon_amphib_bold_2-krr/",
         "https://www.gizmodo.jp/article/aquos-r11-youtube/",
         "https://www.gizmodo.jp/article/apple-store-battery-report-1-cxg/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/spacex_fomo_netscape/",
         "https://www.gizmodo.jp/article/bizrack_review_kokuyo/",
         "https://www.gizmodo.jp/article/drink_holder_strap_mimpi_color-codes/",
-        "https://www.gizmodo.jp/article/stta_tech-oshibori/",
-        "https://www.gizmodo.jp/article/ugreen-45w-gan/"
+        "https://www.gizmodo.jp/article/stta_tech-oshibori/"
     ]
 }
