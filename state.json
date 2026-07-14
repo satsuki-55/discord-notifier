@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cvglj4k03w4o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015176441000",
         "https://news.web.nhk/newsweb/na/na-k10015176421000",
         "https://news.web.nhk/newsweb/na/na-k10015176361000",
         "https://news.web.nhk/newsweb/na/na-k10015176391000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015174121000",
         "https://news.web.nhk/newsweb/na/na-k10015174071000",
         "https://news.web.nhk/newsweb/na/na-k10015174091000",
-        "https://news.web.nhk/newsweb/na/na-k10015174081000",
-        "https://news.web.nhk/newsweb/na/na-k10015173761000"
+        "https://news.web.nhk/newsweb/na/na-k10015174081000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/retired_ev_batteries_secondlife/",
