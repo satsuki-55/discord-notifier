@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/weather/articles/ce8mrn49gndo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015177081000",
         "https://news.web.nhk/newsweb/na/na-k10015177101000",
         "https://news.web.nhk/newsweb/na/na-k10015177121000",
         "https://news.web.nhk/newsweb/na/na-k10015177061000",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/na-k10015173741000",
         "https://news.web.nhk/newsweb/na/na-k10015174731000",
         "https://news.web.nhk/newsweb/na/na-k10015174701000",
-        "https://news.web.nhk/newsweb/na/na-k10015174671000",
-        "https://news.web.nhk/newsweb/na/na-k10015173931000"
+        "https://news.web.nhk/newsweb/na/na-k10015174671000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/canon-star-wars-galaxy-map-interactive-updates-hve/",
         "https://www.gizmodo.jp/article/microplastics-were-found-in-a-hedgehog-s-droppings/",
         "https://www.gizmodo.jp/article/scientists-think-uranus-and-neptune-may-not-be-the-ice-giants-we-imagined/",
         "https://www.gizmodo.jp/article/copper_drug_restores/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/kikippa-earphone-02/",
         "https://www.gizmodo.jp/article/anker-soundcore-liberty-5-pro-max/",
         "https://www.gizmodo.jp/article/moft-8-in-1/",
-        "https://www.gizmodo.jp/article/hyperx-4mic/",
-        "https://www.gizmodo.jp/article/yamazaki_gamemachine_holder_smart_article/"
+        "https://www.gizmodo.jp/article/hyperx-4mic/"
     ]
 }
