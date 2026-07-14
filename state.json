@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cwykdvgv4d4o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015176401000",
         "https://news.web.nhk/newsweb/na/na-k10015176381000",
         "https://news.web.nhk/newsweb/na/na-k10015176341000",
         "https://news.web.nhk/newsweb/na/na-k10015176301000",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/na-k10015173761000",
         "https://news.web.nhk/newsweb/na/na-k10015174061000",
         "https://news.web.nhk/newsweb/na/na-k10015171881000",
-        "https://news.web.nhk/newsweb/na/na-k10015174051000",
-        "https://news.web.nhk/newsweb/na/na-k10015174031000"
+        "https://news.web.nhk/newsweb/na/na-k10015174051000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/ps6-potable_rumor_amd/",
         "https://www.gizmodo.jp/article/samsung-galaxy-s26-ultra-review-a-more-private-screen/",
         "https://www.gizmodo.jp/article/nothing-ear-3a-review-still-nothings-value-king/",
         "https://www.gizmodo.jp/article/the-public-got-so-mad-at-metas-new-ai-photo-tool-that-its-scrapped-already/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/amazon-primeday-projector-nx1/",
         "https://www.gizmodo.jp/article/plaud-note-youtube/",
         "https://www.gizmodo.jp/article/stretch_pole_ex_lpn/",
-        "https://www.gizmodo.jp/article/elecom_ist-plus_easy-to-maintain/",
-        "https://www.gizmodo.jp/article/triple_force_2/"
+        "https://www.gizmodo.jp/article/elecom_ist-plus_easy-to-maintain/"
     ]
 }
