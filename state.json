@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cly9lnjlp1eo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015176521000",
         "https://news.web.nhk/newsweb/na/na-k10015176371000",
         "https://news.web.nhk/newsweb/na/na-k10015176491000",
         "https://news.web.nhk/newsweb/na/na-k10015176451000",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/na-k10015174131000",
         "https://news.web.nhk/newsweb/na/na-k10015174151000",
         "https://news.web.nhk/newsweb/na/na-k10015174161000",
-        "https://news.web.nhk/newsweb/na/na-k10015174141000",
-        "https://news.web.nhk/newsweb/na/na-k10015174121000"
+        "https://news.web.nhk/newsweb/na/na-k10015174141000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/testosterone-and-cancer-risk/",
         "https://www.gizmodo.jp/article/retired_ev_batteries_secondlife/",
         "https://www.gizmodo.jp/article/meanswhile_umbrella-with-dyneema/",
         "https://www.gizmodo.jp/article/oxtak-money-penny-laurent-san/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/soundcore-liberty5-amazon-primeday/",
         "https://www.gizmodo.jp/article/recommending-the-ghost-in-the-shell-manga/",
         "https://www.gizmodo.jp/article/torras-ostand-q3-air-02/",
-        "https://www.gizmodo.jp/article/elecom-mobile-battery-ec-c58mn-act2/",
-        "https://www.gizmodo.jp/article/amazon-primeday-projector-nx1/"
+        "https://www.gizmodo.jp/article/elecom-mobile-battery-ec-c58mn-act2/"
     ]
 }
