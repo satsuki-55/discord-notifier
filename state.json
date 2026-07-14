@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "KLNNh9S_Kqk",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "PSxCe0HJR34",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c07y7zj43jmo#0",
         "https://www.bbc.co.uk/news/articles/c8626147e6no#0",
         "https://www.bbc.co.uk/news/articles/c98289j7lg7o#0",
         "https://www.bbc.co.uk/news/articles/c9q28dlyxrzo#1",
@@ -200,8 +201,7 @@
         "https://www.bbc.co.uk/news/articles/c39y78rwrmno#1",
         "https://www.bbc.co.uk/news/articles/c2eyl3zkpwko#0",
         "https://www.bbc.co.uk/sport/football/articles/cy5v6544ypxo#1",
-        "https://www.bbc.co.uk/sport/football/articles/c2ey9l3yl4vo#1",
-        "https://www.bbc.co.uk/news/articles/cj6g41pzy41o#0"
+        "https://www.bbc.co.uk/sport/football/articles/c2ey9l3yl4vo#1"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/na-k10015176931000",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015174601000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/scientists-think-uranus-and-neptune-may-not-be-the-ice-giants-we-imagined/",
         "https://www.gizmodo.jp/article/copper_drug_restores/",
         "https://www.gizmodo.jp/article/7451ae4a-036d-41d2-a4a2-b093d54fb3fe/",
         "https://www.gizmodo.jp/article/nike_acg_radical-airflow/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/moft-8-in-1/",
         "https://www.gizmodo.jp/article/hyperx-4mic/",
         "https://www.gizmodo.jp/article/yamazaki_gamemachine_holder_smart_article/",
-        "https://www.gizmodo.jp/article/xai-is-dead-long-live-spacexai-jpn/",
-        "https://www.gizmodo.jp/article/cat_gadget_4_review/"
+        "https://www.gizmodo.jp/article/xai-is-dead-long-live-spacexai-jpn/"
     ]
 }
