@@ -2,6 +2,9 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "KLNNh9S_Kqk",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "PSxCe0HJR34",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/ce8kxgpe3kdo#0",
+        "https://www.bbc.co.uk/news/articles/cy0608wy8pro#1",
+        "https://www.bbc.co.uk/news/articles/c992e8g10nmo#0",
         "https://www.bbc.co.uk/news/articles/cgev4yg9d13o#0",
         "https://www.bbc.co.uk/news/articles/c8j2dje3pldo#0",
         "https://www.bbc.co.uk/news/articles/cy494yypnv3o#0",
@@ -198,10 +201,7 @@
         "https://www.bbc.co.uk/news/articles/czx5zy82n7no#0",
         "https://www.bbc.co.uk/news/videos/c8x2zez8qwzo#0",
         "https://www.bbc.co.uk/news/articles/clyrdn216k2o#0",
-        "https://www.bbc.co.uk/news/articles/cql1qdq14xro#1",
-        "https://www.bbc.co.uk/news/videos/c0myengg8nzo#0",
-        "https://www.bbc.co.uk/news/articles/c24yev53q06o#0",
-        "https://www.bbc.co.uk/news/articles/c4gykgyn1r4o#1"
+        "https://www.bbc.co.uk/news/articles/cql1qdq14xro#1"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/na-k10015176961000",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015174921000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/irobot-debuts-five-self-emptying-roombas-most-under/",
         "https://www.gizmodo.jp/article/iphone-fold-case/",
         "https://www.gizmodo.jp/article/canon-star-wars-galaxy-map-interactive-updates-hve/",
         "https://www.gizmodo.jp/article/microplastics-were-found-in-a-hedgehog-s-droppings/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/yamazaki_tower_breadcase/",
         "https://www.gizmodo.jp/article/bauhutte-bhd-tb-1500sc/",
         "https://www.gizmodo.jp/article/kikippa-earphone-02/",
-        "https://www.gizmodo.jp/article/anker-soundcore-liberty-5-pro-max/",
-        "https://www.gizmodo.jp/article/moft-8-in-1/"
+        "https://www.gizmodo.jp/article/anker-soundcore-liberty-5-pro-max/"
     ]
 }
