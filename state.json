@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "fvzDkZi4XdA",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "PSxCe0HJR34",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c5yzy0lpello#0",
         "https://www.bbc.co.uk/news/articles/c07ylddnvmyo#0",
         "https://www.bbc.co.uk/news/articles/c2ly580kxnko#0",
         "https://www.bbc.co.uk/news/articles/c2dy9krpydlo#0",
@@ -200,10 +201,10 @@
         "https://www.bbc.co.uk/news/articles/cwykdvgv4d4o#0",
         "https://www.bbc.co.uk/news/videos/c07y357zvl1o#0",
         "https://www.bbc.co.uk/sport/football/articles/cn8kdxgxlkeo#0",
-        "https://www.bbc.co.uk/sport/football/articles/c6214y2dlgno#1",
-        "https://www.bbc.co.uk/news/articles/c992z0j4d1ko#1"
+        "https://www.bbc.co.uk/sport/football/articles/c6214y2dlgno#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015176341000",
         "https://news.web.nhk/newsweb/na/na-k10015176301000",
         "https://news.web.nhk/newsweb/na/na-k10015176321000",
         "https://news.web.nhk/newsweb/na/na-k10015176311000",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/na-k10015171881000",
         "https://news.web.nhk/newsweb/na/na-k10015174051000",
         "https://news.web.nhk/newsweb/na/na-k10015174031000",
-        "https://news.web.nhk/newsweb/na/na-k10015171611000",
-        "https://news.web.nhk/newsweb/na/na-k10015174041000"
+        "https://news.web.nhk/newsweb/na/na-k10015171611000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/nothing-ear-3a-review-still-nothings-value-king/",
         "https://www.gizmodo.jp/article/the-public-got-so-mad-at-metas-new-ai-photo-tool-that-its-scrapped-already/",
         "https://www.gizmodo.jp/article/marine-biologists-discover-31-potential-new-species-in-just-2-weeks-at-sea/",
         "https://www.gizmodo.jp/article/sugihara-sangyo-rubber-coated-magnet/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/stretch_pole_ex_lpn/",
         "https://www.gizmodo.jp/article/elecom_ist-plus_easy-to-maintain/",
         "https://www.gizmodo.jp/article/triple_force_2/",
-        "https://www.gizmodo.jp/article/069a0871-fd37-4d07-8cc5-7737277109b7/",
-        "https://www.gizmodo.jp/article/rayneo-air-4-pro/"
+        "https://www.gizmodo.jp/article/069a0871-fd37-4d07-8cc5-7737277109b7/"
     ]
 }
