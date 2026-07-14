@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c3dyyln23v8o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015176281000",
         "https://news.web.nhk/newsweb/na/na-k10015176271000",
         "https://news.web.nhk/newsweb/na/na-k10015176251000",
         "https://news.web.nhk/newsweb/na/na-k10015176221000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015173981000",
         "https://news.web.nhk/newsweb/na/na-k10015174021000",
         "https://news.web.nhk/newsweb/na/na-k10015173991000",
-        "https://news.web.nhk/newsweb/na/na-k10015171741000",
-        "https://news.web.nhk/newsweb/na/na-k10015173921000"
+        "https://news.web.nhk/newsweb/na/na-k10015171741000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/sugihara-sangyo-rubber-coated-magnet/",
