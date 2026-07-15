@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cr7xyl78vnko#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015177891000",
         "https://news.web.nhk/newsweb/na/na-k10015178061000",
         "https://news.web.nhk/newsweb/na/na-k10015177261000",
         "https://news.web.nhk/newsweb/na/na-k10015178011000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015175811000",
         "https://news.web.nhk/newsweb/na/na-k10015175441000",
         "https://news.web.nhk/newsweb/na/na-k10015175791000",
-        "https://news.web.nhk/newsweb/na/na-k10015175761000",
-        "https://news.web.nhk/newsweb/na/na-k10015175781000"
+        "https://news.web.nhk/newsweb/na/na-k10015175761000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/iris-ohyama-hugel-coolerbox-1-1-nkl/",
