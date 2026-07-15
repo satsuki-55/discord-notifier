@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015175701000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/screen-toys/",
         "https://www.gizmodo.jp/article/openai_codex_micro/",
         "https://www.gizmodo.jp/article/iris-ohyama-hugel-coolerbox-1-1-nkl/",
         "https://www.gizmodo.jp/article/apple-chinese-memory-maker/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/iphone-18-18pro-rumors-summary/",
         "https://www.gizmodo.jp/article/samsungs-next-galaxy-foldables-will-be-announced-on-july-22/",
         "https://www.gizmodo.jp/article/realforce_keyboard_seven_eleven/",
-        "https://www.gizmodo.jp/article/can-we-not-normalize-5300-dollar-handheld-gaming-pcs/",
-        "https://www.gizmodo.jp/article/nintendo-will-quit-selling-the-original-switch-in-europe-whos-next/"
+        "https://www.gizmodo.jp/article/can-we-not-normalize-5300-dollar-handheld-gaming-pcs/"
     ]
 }
