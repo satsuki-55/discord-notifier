@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cgk65knkyzdo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015177331000",
         "https://news.web.nhk/newsweb/na/na-k10015177271000",
         "https://news.web.nhk/newsweb/na/na-k10015177251000",
         "https://news.web.nhk/newsweb/na/na-k10015171821000",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/na-k10015175141000",
         "https://news.web.nhk/newsweb/na/na-k10015174941000",
         "https://news.web.nhk/newsweb/na/na-k10015175091000",
-        "https://news.web.nhk/newsweb/na/na-k10015175051000",
-        "https://news.web.nhk/newsweb/na/na-k10015172821000"
+        "https://news.web.nhk/newsweb/na/na-k10015175051000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/very-annoyed-seagulls-are-waging-war-on-nycs-beach-drones-1-txd/",
         "https://www.gizmodo.jp/article/google-pixel-11-pro-fold-fcc/",
         "https://www.gizmodo.jp/article/daiso-cool-head-pcm-pad/",
         "https://www.gizmodo.jp/article/google_hasnt_released_gemini_3_5_pro_yet/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/sony-rx10v/",
         "https://www.gizmodo.jp/article/tp-link-tc93d-kit-sale/",
         "https://www.gizmodo.jp/article/fe69c2a7-b857-427b-b2f3-67fd6ba50332/",
-        "https://www.gizmodo.jp/article/anker-soundcore-spaceonepro-amazon-primeday/",
-        "https://www.gizmodo.jp/article/blue-signature-sp3i/"
+        "https://www.gizmodo.jp/article/anker-soundcore-spaceonepro-amazon-primeday/"
     ]
 }
