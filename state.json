@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c1my498j093o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015178091000",
         "https://news.web.nhk/newsweb/na/na-k10015177881000",
         "https://news.web.nhk/newsweb/na/na-k10015178051000",
         "https://news.web.nhk/newsweb/na/na-k10015177861000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015176021000",
         "https://news.web.nhk/newsweb/na/na-k10015176031000",
         "https://news.web.nhk/newsweb/na/na-k10015175911000",
-        "https://news.web.nhk/newsweb/na/na-k10015175951000",
-        "https://news.web.nhk/newsweb/na/na-k10015175701000"
+        "https://news.web.nhk/newsweb/na/na-k10015175951000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/screen-toys/",
