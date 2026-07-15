@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cvge2nd611zo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015177251000",
         "https://news.web.nhk/newsweb/na/na-k10015171821000",
         "https://news.web.nhk/newsweb/na/na-k10015177291000",
         "https://news.web.nhk/newsweb/na/na-k10015177221000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015175091000",
         "https://news.web.nhk/newsweb/na/na-k10015175051000",
         "https://news.web.nhk/newsweb/na/na-k10015172821000",
-        "https://news.web.nhk/newsweb/na/na-k10015175071000",
-        "https://news.web.nhk/newsweb/na/na-k10015175041000"
+        "https://news.web.nhk/newsweb/na/na-k10015175071000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/google-pixel-11-pro-fold-fcc/",
