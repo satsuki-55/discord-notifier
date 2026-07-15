@@ -2,6 +2,8 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "9IWU4qW5GJU",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "PSxCe0HJR34",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cm2d2qlgj71o#0",
+        "https://www.bbc.co.uk/news/articles/c0lyl5ryyr4o#1",
         "https://www.bbc.co.uk/news/articles/c8r2r76vnd1o#0",
         "https://www.bbc.co.uk/news/articles/c5yzynxwk05o#0",
         "https://www.bbc.co.uk/news/articles/c1eye5320g5o#1",
@@ -199,11 +201,10 @@
         "https://www.bbc.co.uk/news/articles/cy5vx19ey0wo#0",
         "https://www.bbc.co.uk/news/videos/cwyezwg89n3o#0",
         "https://www.bbc.co.uk/sport/football/articles/ckg7me5kdk1o#0",
-        "https://www.bbc.co.uk/news/articles/cvgl20x1ggpo#0",
-        "https://www.bbc.co.uk/sport/football/articles/cx2k9qj2nyvo#0",
-        "https://www.bbc.co.uk/news/articles/cp9ldlr588go#0"
+        "https://www.bbc.co.uk/news/articles/cvgl20x1ggpo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015178021000",
         "https://news.web.nhk/newsweb/na/na-k10015177961000",
         "https://news.web.nhk/newsweb/na/na-k10015178001000",
         "https://news.web.nhk/newsweb/na/na-k10015177871000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015175751000",
         "https://news.web.nhk/newsweb/na/na-k10015175741000",
         "https://news.web.nhk/newsweb/na/na-k10015140941000",
-        "https://news.web.nhk/newsweb/na/na-k10015175731000",
-        "https://news.web.nhk/newsweb/na/na-k10015175721000"
+        "https://news.web.nhk/newsweb/na/na-k10015175731000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/iris-ohyama-hugel-coolerbox-1-1-nkl/",
