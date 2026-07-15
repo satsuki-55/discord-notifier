@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/ckg7mxj41lro#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015177751000",
         "https://news.web.nhk/newsweb/na/na-k10015177701000",
         "https://news.web.nhk/newsweb/na/na-k10015177731000",
         "https://news.web.nhk/newsweb/na/na-k10015177661000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015173051000",
         "https://news.web.nhk/newsweb/na/na-k10015175591000",
         "https://news.web.nhk/newsweb/na/na-k10015175561000",
-        "https://news.web.nhk/newsweb/na/na-k10015175551000",
-        "https://news.web.nhk/newsweb/na/na-k10015173191000"
+        "https://news.web.nhk/newsweb/na/na-k10015175551000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/movie_kireppashino_ai_interview/",
