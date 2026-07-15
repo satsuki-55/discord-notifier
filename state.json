@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/c9q28dlyxrzo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015178051000",
+        "https://news.web.nhk/newsweb/na/na-k10015177861000",
         "https://news.web.nhk/newsweb/na/na-k10015178041000",
         "https://news.web.nhk/newsweb/na/na-k10015177931000",
         "https://news.web.nhk/newsweb/na/na-k10015178081000",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015175911000",
         "https://news.web.nhk/newsweb/na/na-k10015175951000",
         "https://news.web.nhk/newsweb/na/na-k10015175701000",
-        "https://news.web.nhk/newsweb/na/na-k10015175971000",
-        "https://news.web.nhk/newsweb/na/na-k10015175931000",
-        "https://news.web.nhk/newsweb/na/na-k10015175961000"
+        "https://news.web.nhk/newsweb/na/na-k10015175971000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/openai_codex_micro/",
