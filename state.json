@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cn75083d472o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015177841000",
         "https://news.web.nhk/newsweb/na/na-k10015177811000",
         "https://news.web.nhk/newsweb/na/na-k10015177831000",
         "https://news.web.nhk/newsweb/na/na-k10015177781000",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/na-k10015175711000",
         "https://news.web.nhk/newsweb/na/na-k10015173061000",
         "https://news.web.nhk/newsweb/na/na-k10015175671000",
-        "https://news.web.nhk/newsweb/na/na-k10015175691000",
-        "https://news.web.nhk/newsweb/na/na-k10015175681000"
+        "https://news.web.nhk/newsweb/na/na-k10015175691000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/unba_un-hiker_shoes/",
         "https://www.gizmodo.jp/article/hoka_cliftonpro_review/",
         "https://www.gizmodo.jp/article/xiaomi-ultra-thin-battery/",
         "https://www.gizmodo.jp/article/movie_kireppashino_ai_interview/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/gpt_live_chatgpt_voice_update/",
         "https://www.gizmodo.jp/article/bose_quietcomfort_ultra_headphones_review/",
         "https://www.gizmodo.jp/article/claude_free_handson/",
-        "https://www.gizmodo.jp/article/biologists-want-nasa-to-build-a-quarantine-lab-for-alien-germs-on-the-moon/",
-        "https://www.gizmodo.jp/article/amazon-primeday-motorola-razr-60/"
+        "https://www.gizmodo.jp/article/biologists-want-nasa-to-build-a-quarantine-lab-for-alien-germs-on-the-moon/"
     ]
 }
