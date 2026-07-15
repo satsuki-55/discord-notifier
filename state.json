@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "KLNNh9S_Kqk",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "PSxCe0HJR34",
     "rss:bbc": [
+        "https://www.bbc.co.uk/sport/football/articles/c6212j5zw3ko#0",
         "https://www.bbc.co.uk/news/articles/cx2wrzq7nx5o#0",
         "https://www.bbc.co.uk/news/articles/cn750p4gyjgo#1",
         "https://www.bbc.co.uk/news/articles/cn750184mkko#0",
@@ -200,10 +201,11 @@
         "https://www.bbc.co.uk/news/articles/ckg7mxj41lro#0",
         "https://www.bbc.co.uk/news/articles/clyrdn216k2o#1",
         "https://www.bbc.co.uk/news/articles/cp8leyy42nvo#1",
-        "https://www.bbc.co.uk/news/articles/cn94rdz3e59o#1",
-        "https://www.bbc.co.uk/news/articles/c78y2xg0090o#0"
+        "https://www.bbc.co.uk/news/articles/cn94rdz3e59o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015177641000",
+        "https://news.web.nhk/newsweb/na/na-k10015175221000",
         "https://news.web.nhk/newsweb/na/na-k10015177581000",
         "https://news.web.nhk/newsweb/na/na-k10015177621000",
         "https://news.web.nhk/newsweb/na/na-k10015177591000",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015175521000",
         "https://news.web.nhk/newsweb/na/na-k10015175501000",
         "https://news.web.nhk/newsweb/na/na-k10015175431000",
-        "https://news.web.nhk/newsweb/na/na-k10015175351000",
-        "https://news.web.nhk/newsweb/na/na-k10015175331000",
-        "https://news.web.nhk/newsweb/na/na-k10015175281000"
+        "https://news.web.nhk/newsweb/na/na-k10015175351000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/ligar-start/",
