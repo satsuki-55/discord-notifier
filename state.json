@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015175021000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/google_hasnt_released_gemini_3_5_pro_yet/",
         "https://www.gizmodo.jp/article/watchos-27-update/",
         "https://www.gizmodo.jp/article/irobot-debuts-five-self-emptying-roombas-most-under/",
         "https://www.gizmodo.jp/article/iphone-fold-case/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/anker-soundcore-spaceonepro-amazon-primeday/",
         "https://www.gizmodo.jp/article/blue-signature-sp3i/",
         "https://www.gizmodo.jp/article/yamazaki_tower_breadcase/",
-        "https://www.gizmodo.jp/article/bauhutte-bhd-tb-1500sc/",
-        "https://www.gizmodo.jp/article/kikippa-earphone-02/"
+        "https://www.gizmodo.jp/article/bauhutte-bhd-tb-1500sc/"
     ]
 }
