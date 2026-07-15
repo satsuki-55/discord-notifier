@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cgk65knkyzdo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015177391000",
         "https://news.web.nhk/newsweb/na/na-k10015177311000",
         "https://news.web.nhk/newsweb/na/na-k10015177331000",
         "https://news.web.nhk/newsweb/na/na-k10015177271000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015172901000",
         "https://news.web.nhk/newsweb/na/na-k10015175111000",
         "https://news.web.nhk/newsweb/na/na-k10015175141000",
-        "https://news.web.nhk/newsweb/na/na-k10015174941000",
-        "https://news.web.nhk/newsweb/na/na-k10015175091000"
+        "https://news.web.nhk/newsweb/na/na-k10015174941000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/meta-is-toying-with-the-idea-of-smart-glasses-that-record-everything-all-the-time/",
