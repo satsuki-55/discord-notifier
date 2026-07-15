@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "KLNNh9S_Kqk",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "PSxCe0HJR34",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c2dydj1wp93o#1",
         "https://www.bbc.co.uk/news/articles/c0qyq800n44o#1",
         "https://www.bbc.co.uk/news/articles/cz9l9venjd8o#1",
         "https://www.bbc.co.uk/news/articles/czx5zy82n7no#0",
@@ -200,8 +201,7 @@
         "https://www.bbc.co.uk/news/articles/cj6g41pzy41o#1",
         "https://www.bbc.co.uk/news/videos/c3ry5xl4qr1o#0",
         "https://www.bbc.co.uk/news/videos/c7vyp6lqv9yo#0",
-        "https://www.bbc.co.uk/news/articles/cp9lee19y1yo#0",
-        "https://www.bbc.co.uk/weather/articles/c0jyx16ww8jo#0"
+        "https://www.bbc.co.uk/news/articles/cp9lee19y1yo#0"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/na-k10015177231000",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015175021000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/daiso-cool-head-pcm-pad/",
         "https://www.gizmodo.jp/article/google_hasnt_released_gemini_3_5_pro_yet/",
         "https://www.gizmodo.jp/article/watchos-27-update/",
         "https://www.gizmodo.jp/article/irobot-debuts-five-self-emptying-roombas-most-under/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/fe69c2a7-b857-427b-b2f3-67fd6ba50332/",
         "https://www.gizmodo.jp/article/anker-soundcore-spaceonepro-amazon-primeday/",
         "https://www.gizmodo.jp/article/blue-signature-sp3i/",
-        "https://www.gizmodo.jp/article/yamazaki_tower_breadcase/",
-        "https://www.gizmodo.jp/article/bauhutte-bhd-tb-1500sc/"
+        "https://www.gizmodo.jp/article/yamazaki_tower_breadcase/"
     ]
 }
