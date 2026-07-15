@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c9q28dlyxrzo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015175581000",
         "https://news.web.nhk/newsweb/na/na-k10015177941000",
         "https://news.web.nhk/newsweb/na/na-k10015177901000",
         "https://news.web.nhk/newsweb/na/na-k10015177691000",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/na-k10015175961000",
         "https://news.web.nhk/newsweb/na/na-k10015175901000",
         "https://news.web.nhk/newsweb/na/na-k10015175461000",
-        "https://news.web.nhk/newsweb/na/na-k10015175451000",
-        "https://news.web.nhk/newsweb/na/na-k10015173421000"
+        "https://news.web.nhk/newsweb/na/na-k10015175451000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/openai_codex_micro/",
         "https://www.gizmodo.jp/article/iris-ohyama-hugel-coolerbox-1-1-nkl/",
         "https://www.gizmodo.jp/article/apple-chinese-memory-maker/",
         "https://www.gizmodo.jp/article/remote-controlled-cyborg-cockroaches/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/samsungs-next-galaxy-foldables-will-be-announced-on-july-22/",
         "https://www.gizmodo.jp/article/realforce_keyboard_seven_eleven/",
         "https://www.gizmodo.jp/article/can-we-not-normalize-5300-dollar-handheld-gaming-pcs/",
-        "https://www.gizmodo.jp/article/nintendo-will-quit-selling-the-original-switch-in-europe-whos-next/",
-        "https://www.gizmodo.jp/article/nvidia-touts-100-reduction-in-water-use-with-new-data-center-design-jpn/"
+        "https://www.gizmodo.jp/article/nintendo-will-quit-selling-the-original-switch-in-europe-whos-next/"
     ]
 }
