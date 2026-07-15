@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "KLNNh9S_Kqk",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "PSxCe0HJR34",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c33y3815p77o#0",
         "https://www.bbc.co.uk/news/articles/crk661074ejo#0",
         "https://www.bbc.co.uk/news/articles/c4gygp4pk31o#0",
         "https://www.bbc.co.uk/news/articles/cp9lee19y1yo#0",
@@ -200,10 +201,10 @@
         "https://www.bbc.co.uk/news/articles/ce8m9615dqlo#0",
         "https://www.bbc.co.uk/news/articles/cdxd3wkp2rzo#1",
         "https://www.bbc.co.uk/news/articles/cevlr112pmgo#0",
-        "https://www.bbc.co.uk/news/articles/clye4z168edo#0",
-        "https://www.bbc.co.uk/news/articles/cvgmyggpg42o#0"
+        "https://www.bbc.co.uk/news/articles/clye4z168edo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015177431000",
         "https://news.web.nhk/newsweb/na/na-k10015177351000",
         "https://news.web.nhk/newsweb/na/na-k10015177371000",
         "https://news.web.nhk/newsweb/na/na-k10015177301000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015175131000",
         "https://news.web.nhk/newsweb/na/na-k10015175291000",
         "https://news.web.nhk/newsweb/na/na-k10015175191000",
-        "https://news.web.nhk/newsweb/na/na-k10015175151000",
-        "https://news.web.nhk/newsweb/na/na-k10015172901000"
+        "https://news.web.nhk/newsweb/na/na-k10015175151000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/montbell-ex-light-wind-parka/",
