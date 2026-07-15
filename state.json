@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cn75083d472o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015177831000",
         "https://news.web.nhk/newsweb/na/na-k10015177781000",
         "https://news.web.nhk/newsweb/na/na-k10015177821000",
         "https://news.web.nhk/newsweb/na/na-k10015177761000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015175671000",
         "https://news.web.nhk/newsweb/na/na-k10015175691000",
         "https://news.web.nhk/newsweb/na/na-k10015175681000",
-        "https://news.web.nhk/newsweb/na/na-k10015175651000",
-        "https://news.web.nhk/newsweb/na/na-k10015175481000"
+        "https://news.web.nhk/newsweb/na/na-k10015175651000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/hoka_cliftonpro_review/",
