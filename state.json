@@ -2,6 +2,8 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "KLNNh9S_Kqk",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "PSxCe0HJR34",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c8929jv8kdzo#0",
+        "https://www.bbc.co.uk/news/articles/c9929dg5l5lo#0",
         "https://www.bbc.co.uk/news/articles/cjrgrgx2d9qo#0",
         "https://www.bbc.co.uk/news/articles/c17y7ykzgrgo#1",
         "https://www.bbc.co.uk/news/articles/cpwep8xnkrqo#0",
@@ -199,9 +201,7 @@
         "https://www.bbc.co.uk/news/articles/ce8k7e75k7go#1",
         "https://www.bbc.co.uk/news/articles/cx24e09x79no#1",
         "https://www.bbc.co.uk/news/articles/crr8gnx01d7o#0",
-        "https://www.bbc.co.uk/news/articles/cy8w61qz873o#0",
-        "https://www.bbc.co.uk/news/articles/c0mydjl12mwo#0",
-        "https://www.bbc.co.uk/news/articles/c14y35erdg2o#0"
+        "https://www.bbc.co.uk/news/articles/cy8w61qz873o#0"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/na-k10015177671000",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015175561000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/xiaomi-ultra-thin-battery/",
         "https://www.gizmodo.jp/article/movie_kireppashino_ai_interview/",
         "https://www.gizmodo.jp/article/bizrack-review-tvz/",
         "https://www.gizmodo.jp/article/ligar-start/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/claude_free_handson/",
         "https://www.gizmodo.jp/article/biologists-want-nasa-to-build-a-quarantine-lab-for-alien-germs-on-the-moon/",
         "https://www.gizmodo.jp/article/amazon-primeday-motorola-razr-60/",
-        "https://www.gizmodo.jp/article/top-10-of-consumers-create-up-to-5-7-trillion-in-environmental-damage-annually/",
-        "https://www.gizmodo.jp/article/wild-new-study-claims-we-can-nudge-hurricanes-away-from-land/"
+        "https://www.gizmodo.jp/article/top-10-of-consumers-create-up-to-5-7-trillion-in-environmental-damage-annually/"
     ]
 }
