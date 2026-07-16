@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/cevlvxgggxyo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015178681000",
+        "https://news.web.nhk/newsweb/na/na-k10015178711000",
         "https://news.web.nhk/newsweb/na/na-k10015178651000",
         "https://news.web.nhk/newsweb/na/na-k10015178671000",
         "https://news.web.nhk/newsweb/na/na-k10015178621000",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015176371000",
         "https://news.web.nhk/newsweb/na/na-k10015176491000",
         "https://news.web.nhk/newsweb/na/na-k10015176451000",
-        "https://news.web.nhk/newsweb/na/na-k10015176441000",
-        "https://news.web.nhk/newsweb/na/na-k10015176421000",
-        "https://news.web.nhk/newsweb/na/na-k10015176361000"
+        "https://news.web.nhk/newsweb/na/na-k10015176441000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/cool_spacecool_cool/",
