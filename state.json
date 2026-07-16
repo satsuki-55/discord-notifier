@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c8626147e6no#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015178311000",
         "https://news.web.nhk/newsweb/na/na-k10015178351000",
         "https://news.web.nhk/newsweb/na/na-k10015141071000",
         "https://news.web.nhk/newsweb/na/na-k10015173691000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015176071000",
         "https://news.web.nhk/newsweb/na/na-k10015176181000",
         "https://news.web.nhk/newsweb/na/na-k10015176081000",
-        "https://news.web.nhk/newsweb/na/na-k10015176131000",
-        "https://news.web.nhk/newsweb/na/na-k10015176061000"
+        "https://news.web.nhk/newsweb/na/na-k10015176131000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/deposit_interest_rate/",
