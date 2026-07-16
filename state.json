@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/cp9ldle3d3xo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015178221000",
+        "https://news.web.nhk/newsweb/na/na-k10015178171000",
         "https://news.web.nhk/newsweb/na/na-k10015178151000",
         "https://news.web.nhk/newsweb/na/na-k10015178161000",
         "https://news.web.nhk/newsweb/na/na-k10015178101000",
@@ -401,11 +403,10 @@
         "https://news.web.nhk/newsweb/na/na-k10015175941000",
         "https://news.web.nhk/newsweb/na/na-k10015175771000",
         "https://news.web.nhk/newsweb/na/na-k10015173671000",
-        "https://news.web.nhk/newsweb/na/na-k10015176001000",
-        "https://news.web.nhk/newsweb/na/na-k10015175891000",
-        "https://news.web.nhk/newsweb/na/na-k10015176041000"
+        "https://news.web.nhk/newsweb/na/na-k10015176001000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/the-memory-shortage-is-so-bad-that-smartphone-shipments-hit-a-record-low/",
         "https://www.gizmodo.jp/article/photon-matrix-ebg/",
         "https://www.gizmodo.jp/article/unprecedented-european-heatwave-has-killed-more-than-20000-new-study-claims/",
         "https://www.gizmodo.jp/article/9694e5cc-5e24-4a1d-8f9c-a3c503dfcad4/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/anker_solix_ps30_portable_solar_panel/",
         "https://www.gizmodo.jp/article/lawson-car-camping/",
         "https://www.gizmodo.jp/article/this-is-supposedly-the-iphone-air-2-in-lavender/",
-        "https://www.gizmodo.jp/article/b2cfecc4-0bfe-45ef-bcca-dd88846a81ec/",
-        "https://www.gizmodo.jp/article/xbx-a01/"
+        "https://www.gizmodo.jp/article/b2cfecc4-0bfe-45ef-bcca-dd88846a81ec/"
     ]
 }
