@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cgev34lvgp4o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015178391000",
         "https://news.web.nhk/newsweb/na/na-k10015178361000",
         "https://news.web.nhk/newsweb/na/na-k10015178311000",
         "https://news.web.nhk/newsweb/na/na-k10015178351000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015176211000",
         "https://news.web.nhk/newsweb/na/na-k10015173621000",
         "https://news.web.nhk/newsweb/na/na-k10015176071000",
-        "https://news.web.nhk/newsweb/na/na-k10015176181000",
-        "https://news.web.nhk/newsweb/na/na-k10015176081000"
+        "https://news.web.nhk/newsweb/na/na-k10015176181000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/trump-coin/",
