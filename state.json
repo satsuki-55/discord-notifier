@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c2ly580kxnko#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015177851000",
         "https://news.web.nhk/newsweb/na/na-k10015178121000",
         "https://news.web.nhk/newsweb/na/na-k10015178091000",
         "https://news.web.nhk/newsweb/na/na-k10015177881000",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/na-k10015176041000",
         "https://news.web.nhk/newsweb/na/na-k10015176011000",
         "https://news.web.nhk/newsweb/na/na-k10015176021000",
-        "https://news.web.nhk/newsweb/na/na-k10015176031000",
-        "https://news.web.nhk/newsweb/na/na-k10015175911000"
+        "https://news.web.nhk/newsweb/na/na-k10015176031000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/huawei-pura-90s-pro/",
         "https://www.gizmodo.jp/article/samsung-smart-tag3-rumor/",
         "https://www.gizmodo.jp/article/elecom_wireless-rechargeable_smart-tag_ios/",
         "https://www.gizmodo.jp/article/pixel-11-series-color-variations-leaked/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/xbx-a01/",
         "https://www.gizmodo.jp/article/zebra-stylus-2way/",
         "https://www.gizmodo.jp/article/clip-ons-are-wireless-earbuds-next-inescapable-trend/",
-        "https://www.gizmodo.jp/article/compax-best-answer/",
-        "https://www.gizmodo.jp/article/iphone-18-18pro-rumors-summary/"
+        "https://www.gizmodo.jp/article/compax-best-answer/"
     ]
 }
