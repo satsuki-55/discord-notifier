@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cevlvxgggxyo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015178121000",
         "https://news.web.nhk/newsweb/na/na-k10015178091000",
         "https://news.web.nhk/newsweb/na/na-k10015177881000",
         "https://news.web.nhk/newsweb/na/na-k10015178051000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015176011000",
         "https://news.web.nhk/newsweb/na/na-k10015176021000",
         "https://news.web.nhk/newsweb/na/na-k10015176031000",
-        "https://news.web.nhk/newsweb/na/na-k10015175911000",
-        "https://news.web.nhk/newsweb/na/na-k10015175951000"
+        "https://news.web.nhk/newsweb/na/na-k10015175911000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/samsung-smart-tag3-rumor/",
