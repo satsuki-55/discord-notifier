@@ -204,6 +204,9 @@
         "https://www.bbc.co.uk/sport/football/articles/c20y0zzdx9go#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015176541000",
+        "https://news.web.nhk/newsweb/na/na-k10015178751000",
+        "https://news.web.nhk/newsweb/na/na-k10015178801000",
         "https://news.web.nhk/newsweb/na/na-k10015178861000",
         "https://news.web.nhk/newsweb/na/na-k10015178851000",
         "https://news.web.nhk/newsweb/na/na-k10015178831000",
@@ -400,10 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015176611000",
         "https://news.web.nhk/newsweb/na/na-k10015176601000",
         "https://news.web.nhk/newsweb/na/na-k10015174111000",
-        "https://news.web.nhk/newsweb/na/na-k10015176581000",
-        "https://news.web.nhk/newsweb/na/na-k10015176531000",
-        "https://news.web.nhk/newsweb/na/na-k10015176541000",
-        "https://news.web.nhk/newsweb/na/na-k10015176481000"
+        "https://news.web.nhk/newsweb/na/na-k10015176581000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/this-weird-pyramid-always-lands-on-the-same-face-confirming-40-year-old-theory-yly/",
