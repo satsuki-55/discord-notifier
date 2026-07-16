@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "ZQU1TMxxrPw",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "PSxCe0HJR34",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cddj7e8v767o#1",
         "https://www.bbc.co.uk/news/videos/cx27ljkngxmo#1",
         "https://www.bbc.co.uk/sport/football/articles/cly5lq03l7do#0",
         "https://www.bbc.co.uk/news/articles/cz97wx2zj78o#1",
@@ -200,10 +201,10 @@
         "https://www.bbc.co.uk/news/articles/c8e2eyg2p40o#0",
         "https://www.bbc.co.uk/news/articles/cwy0ydn033yo#0",
         "https://www.bbc.co.uk/news/articles/c0ryr74zjzvo#0",
-        "https://www.bbc.co.uk/news/articles/cp3x37lw1ndo#0",
-        "https://www.bbc.co.uk/news/articles/czrxrlydyzzo#1"
+        "https://www.bbc.co.uk/news/articles/cp3x37lw1ndo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015178621000",
         "https://news.web.nhk/newsweb/na/na-k10015178631000",
         "https://news.web.nhk/newsweb/na/na-k10015178611000",
         "https://news.web.nhk/newsweb/na/na-k10015178601000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015176421000",
         "https://news.web.nhk/newsweb/na/na-k10015176361000",
         "https://news.web.nhk/newsweb/na/na-k10015176391000",
-        "https://news.web.nhk/newsweb/na/na-k10015176401000",
-        "https://news.web.nhk/newsweb/na/na-k10015176381000"
+        "https://news.web.nhk/newsweb/na/na-k10015176401000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/narwal-freo-z10-turbo-review-midrange-vacuum-high-end-performance/",
