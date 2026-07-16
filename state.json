@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cp9ldle3d3xo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015178151000",
         "https://news.web.nhk/newsweb/na/na-k10015178161000",
         "https://news.web.nhk/newsweb/na/na-k10015178101000",
         "https://news.web.nhk/newsweb/na/na-k10015177851000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015173671000",
         "https://news.web.nhk/newsweb/na/na-k10015176001000",
         "https://news.web.nhk/newsweb/na/na-k10015175891000",
-        "https://news.web.nhk/newsweb/na/na-k10015176041000",
-        "https://news.web.nhk/newsweb/na/na-k10015176011000"
+        "https://news.web.nhk/newsweb/na/na-k10015176041000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/photon-matrix-ebg/",
