@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "ZQU1TMxxrPw",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "gtl8xgVLSLA",
     "rss:bbc": [
+        "https://www.bbc.co.uk/weather/articles/ckg4gqlye02o#0",
         "https://www.bbc.co.uk/news/articles/cn750184mkko#0",
         "https://www.bbc.co.uk/news/articles/cgrkek8lrzvo#0",
         "https://www.bbc.co.uk/news/articles/c5yz4wnz6jdo#0",
@@ -200,10 +201,10 @@
         "https://www.bbc.co.uk/news/articles/c17y7ykzgrgo#0",
         "https://www.bbc.co.uk/news/articles/cqx1xdn3g4eo#1",
         "https://www.bbc.co.uk/news/articles/c3dydpgenj0o#1",
-        "https://www.bbc.co.uk/news/articles/c0lyl5ryyr4o#0",
-        "https://www.bbc.co.uk/news/articles/cqj1jqeyl5ro#1"
+        "https://www.bbc.co.uk/news/articles/c0lyl5ryyr4o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015176721000",
         "https://news.web.nhk/newsweb/na/na-k10015178931000",
         "https://news.web.nhk/newsweb/na/na-k10015178901000",
         "https://news.web.nhk/newsweb/na/na-k10015178841000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015176711000",
         "https://news.web.nhk/newsweb/na/na-k10015176791000",
         "https://news.web.nhk/newsweb/na/na-k10015176801000",
-        "https://news.web.nhk/newsweb/na/na-k10015176331000",
-        "https://news.web.nhk/newsweb/na/na-k10015176351000"
+        "https://news.web.nhk/newsweb/na/na-k10015176331000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2028-could-bring-the-most-mind-bendingly-expensive-apple-product-of-all-time/",
