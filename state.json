@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "ZQU1TMxxrPw",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "PSxCe0HJR34",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/crmrwe84rp2o#0",
         "https://www.bbc.co.uk/news/articles/cx2myxjv172o#0",
         "https://www.bbc.co.uk/news/articles/cn4n9q538z2o#1",
         "https://www.bbc.co.uk/news/articles/cddj7e8v767o#1",
@@ -200,8 +201,7 @@
         "https://www.bbc.co.uk/news/articles/c33y3rxezxdo#0",
         "https://www.bbc.co.uk/news/articles/cvg4y289ppjo#0",
         "https://www.bbc.co.uk/news/articles/c9q2rznjqwwo#0",
-        "https://www.bbc.co.uk/news/articles/c8e2eyg2p40o#0",
-        "https://www.bbc.co.uk/news/articles/cwy0ydn033yo#0"
+        "https://www.bbc.co.uk/news/articles/c8e2eyg2p40o#0"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/na-k10015178621000",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015176401000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/cool_spacecool_cool/",
         "https://www.gizmodo.jp/article/narwal-freo-z10-turbo-review-midrange-vacuum-high-end-performance/",
         "https://www.gizmodo.jp/article/amazon-hiezou-kun/",
         "https://www.gizmodo.jp/article/lenovo-legion-pro-27ud-10-review-slim-pretty-and-just-a-little-boring/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/genuins-hawaii-kfq/",
         "https://www.gizmodo.jp/article/openai_gpt-5_6/",
         "https://www.gizmodo.jp/article/switchbot-smart-lock-aef/",
-        "https://www.gizmodo.jp/article/oxtak-money-penny-look/",
-        "https://www.gizmodo.jp/article/amazon-primeday-usb-charger-with-cable/"
+        "https://www.gizmodo.jp/article/oxtak-money-penny-look/"
     ]
 }
