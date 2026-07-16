@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "9IWU4qW5GJU",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "PSxCe0HJR34",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/ce8l1zk9dk9o#0",
         "https://www.bbc.co.uk/news/articles/c70ylezgr1eo#0",
         "https://www.bbc.co.uk/news/articles/c2lq1ed28jxo#0",
         "https://www.bbc.co.uk/sport/football/videos/c62v3q3qp99o#0",
@@ -200,8 +201,7 @@
         "https://www.bbc.co.uk/news/articles/crlwln0gkzlo#1",
         "https://www.bbc.co.uk/news/articles/c0qyq800n44o#0",
         "https://www.bbc.co.uk/news/articles/cz6v6g453npo#0",
-        "https://www.bbc.co.uk/news/articles/cx232p85lp5o#1",
-        "https://www.bbc.co.uk/news/articles/cn8q0e8d4ego#1"
+        "https://www.bbc.co.uk/news/articles/cx232p85lp5o#1"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/na-k10015178401000",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015175871000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/sabae-glass-cleaner-zzi/",
         "https://www.gizmodo.jp/article/half-bike/",
         "https://www.gizmodo.jp/article/trump-coin/",
         "https://www.gizmodo.jp/article/deposit_interest_rate/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/panasonic-tv-door-phone-review-oay/",
         "https://www.gizmodo.jp/article/ore_energy_ironpower/",
         "https://www.gizmodo.jp/article/cable-15cm-amazon-primeday/",
-        "https://www.gizmodo.jp/article/amazon-primeday-nothing-watch-pro-2/",
-        "https://www.gizmodo.jp/article/alta-green-magnet-smartphone-holder/"
+        "https://www.gizmodo.jp/article/amazon-primeday-nothing-watch-pro-2/"
     ]
 }
