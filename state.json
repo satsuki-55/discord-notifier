@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "9IWU4qW5GJU",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "PSxCe0HJR34",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c07y77exx8eo#0",
         "https://www.bbc.co.uk/news/videos/c9929nl2m3go#0",
         "https://www.bbc.co.uk/news/videos/c62e47le4e1o#0",
         "https://www.bbc.co.uk/news/articles/c20y00712ezo#0",
@@ -200,8 +201,7 @@
         "https://www.bbc.co.uk/news/articles/cp9ldle3d3xo#0",
         "https://www.bbc.co.uk/news/articles/c2ly580kxnko#1",
         "https://www.bbc.co.uk/news/articles/c5yzy0lpello#1",
-        "https://www.bbc.co.uk/news/articles/cevlvxgggxyo#0",
-        "https://www.bbc.co.uk/news/articles/ce3e3nqwr5do#1"
+        "https://www.bbc.co.uk/news/articles/cevlvxgggxyo#0"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/na-k10015178091000",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015175951000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/samsung-smart-tag3-rumor/",
         "https://www.gizmodo.jp/article/elecom_wireless-rechargeable_smart-tag_ios/",
         "https://www.gizmodo.jp/article/pixel-11-series-color-variations-leaked/",
         "https://www.gizmodo.jp/article/screen-toys/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/zebra-stylus-2way/",
         "https://www.gizmodo.jp/article/clip-ons-are-wireless-earbuds-next-inescapable-trend/",
         "https://www.gizmodo.jp/article/compax-best-answer/",
-        "https://www.gizmodo.jp/article/iphone-18-18pro-rumors-summary/",
-        "https://www.gizmodo.jp/article/samsungs-next-galaxy-foldables-will-be-announced-on-july-22/"
+        "https://www.gizmodo.jp/article/iphone-18-18pro-rumors-summary/"
     ]
 }
