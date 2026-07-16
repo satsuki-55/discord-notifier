@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "9IWU4qW5GJU",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "PSxCe0HJR34",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/ce8l1zk9dk9o#1",
         "https://www.bbc.co.uk/news/articles/ce8l1zk9dk9o#0",
         "https://www.bbc.co.uk/news/articles/c70ylezgr1eo#0",
         "https://www.bbc.co.uk/news/articles/c2lq1ed28jxo#0",
@@ -200,10 +201,10 @@
         "https://www.bbc.co.uk/news/articles/c5yzyep6z63o#0",
         "https://www.bbc.co.uk/news/articles/crlwln0gkzlo#1",
         "https://www.bbc.co.uk/news/articles/c0qyq800n44o#0",
-        "https://www.bbc.co.uk/news/articles/cz6v6g453npo#0",
-        "https://www.bbc.co.uk/news/articles/cx232p85lp5o#1"
+        "https://www.bbc.co.uk/news/articles/cz6v6g453npo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015178441000",
         "https://news.web.nhk/newsweb/na/na-k10015176141000",
         "https://news.web.nhk/newsweb/na/na-k10015178421000",
         "https://news.web.nhk/newsweb/na/na-k10015178451000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015176281000",
         "https://news.web.nhk/newsweb/na/na-k10015176271000",
         "https://news.web.nhk/newsweb/na/na-k10015176251000",
-        "https://news.web.nhk/newsweb/na/na-k10015176221000",
-        "https://news.web.nhk/newsweb/na/na-k10015176241000"
+        "https://news.web.nhk/newsweb/na/na-k10015176221000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/the-results-were-disastrous-after-a-professor-suspecting-ai-use-switched-to-in-person-final-exams/",
