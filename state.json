@@ -1,5 +1,5 @@
 {
-    "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "9IWU4qW5GJU",
+    "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "ZQU1TMxxrPw",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "PSxCe0HJR34",
     "rss:bbc": [
         "https://www.bbc.co.uk/news/articles/cvgwd4nz344o#0",
@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/crlwln0gkzlo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015178181000",
         "https://news.web.nhk/newsweb/na/na-k10015178441000",
         "https://news.web.nhk/newsweb/na/na-k10015176141000",
         "https://news.web.nhk/newsweb/na/na-k10015178421000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015176231000",
         "https://news.web.nhk/newsweb/na/na-k10015176281000",
         "https://news.web.nhk/newsweb/na/na-k10015176271000",
-        "https://news.web.nhk/newsweb/na/na-k10015176251000",
-        "https://news.web.nhk/newsweb/na/na-k10015176221000"
+        "https://news.web.nhk/newsweb/na/na-k10015176251000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/sarahiya-shirts-bzo/",
