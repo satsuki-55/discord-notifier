@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/clyjnnrp2k7o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015179581000",
         "https://news.web.nhk/newsweb/na/na-k10015179611000",
         "https://news.web.nhk/newsweb/na/na-k10015179421000",
         "https://news.web.nhk/newsweb/na/na-k10015179571000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015177461000",
         "https://news.web.nhk/newsweb/na/na-k10015177381000",
         "https://news.web.nhk/newsweb/na/na-k10015177411000",
-        "https://news.web.nhk/newsweb/na/na-k10015177431000",
-        "https://news.web.nhk/newsweb/na/na-k10015177351000"
+        "https://news.web.nhk/newsweb/na/na-k10015177431000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/ewin-foldable-keyboard/",
