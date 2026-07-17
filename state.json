@@ -2,6 +2,9 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "1bRPD2ktPyc",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "sILWMvHdKOc",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cn0n3y6ewn4o#0",
+        "https://www.bbc.co.uk/news/articles/cwyjv3815yxo#0",
+        "https://www.bbc.co.uk/news/articles/cx2k9wvv5wyo#1",
         "https://www.bbc.co.uk/news/articles/cvg8w4dpjkwo#0",
         "https://www.bbc.co.uk/news/articles/cvg7l60e3nlo#0",
         "https://www.bbc.co.uk/news/articles/cly5wyynv9zo#1",
@@ -198,12 +201,11 @@
         "https://www.bbc.co.uk/news/articles/c5y68dgnylxo#0",
         "https://www.bbc.co.uk/news/articles/cz97wx2zj78o#0",
         "https://www.bbc.co.uk/news/articles/c3ryr25gvjdo#1",
-        "https://www.bbc.co.uk/news/articles/c2k7jj59x20o#0",
-        "https://www.bbc.co.uk/news/articles/cr7xyl78vnko#0",
-        "https://www.bbc.co.uk/news/articles/cy494yypnv3o#1",
-        "https://www.bbc.co.uk/news/videos/cwy0yyzdqxvo#1"
+        "https://www.bbc.co.uk/news/articles/c2k7jj59x20o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015179541000",
+        "https://news.web.nhk/newsweb/na/na-k10015179721000",
         "https://news.web.nhk/newsweb/na/na-k10015180001000",
         "https://news.web.nhk/newsweb/na/na-k10015179951000",
         "https://news.web.nhk/newsweb/na/na-k10015179941000",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015177711000",
         "https://news.web.nhk/newsweb/na/na-k10015177671000",
         "https://news.web.nhk/newsweb/na/na-k10015177751000",
-        "https://news.web.nhk/newsweb/na/na-k10015177701000",
-        "https://news.web.nhk/newsweb/na/na-k10015177731000",
-        "https://news.web.nhk/newsweb/na/na-k10015177661000"
+        "https://news.web.nhk/newsweb/na/na-k10015177701000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/nothing-smartphone/",
