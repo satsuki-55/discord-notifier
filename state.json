@@ -2,6 +2,9 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "1bRPD2ktPyc",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "gtl8xgVLSLA",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cly5wyynv9zo#0",
+        "https://www.bbc.co.uk/news/articles/cy8w379e091o#0",
+        "https://www.bbc.co.uk/news/articles/c998v0g2v0vo#0",
         "https://www.bbc.co.uk/news/videos/cly5vw5xdz8o#0",
         "https://www.bbc.co.uk/news/articles/cpv3eky4w2do#0",
         "https://www.bbc.co.uk/news/articles/cd7l3y83g7eo#1",
@@ -198,10 +201,7 @@
         "https://www.bbc.co.uk/news/articles/cm2d2mnmqg3o#0",
         "https://www.bbc.co.uk/news/articles/clyl33q0yl0o#0",
         "https://www.bbc.co.uk/news/articles/czrjgmmx5rmo#0",
-        "https://www.bbc.co.uk/news/articles/ceqe55d0q9po#0",
-        "https://www.bbc.co.uk/news/articles/c20y0rn9052o#0",
-        "https://www.bbc.co.uk/news/articles/c07y400jlngo#1",
-        "https://www.bbc.co.uk/news/articles/cy8w379e091o#0"
+        "https://www.bbc.co.uk/news/articles/ceqe55d0q9po#0"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/na-k10015179631000",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015177471000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/just-16-of-americans-believe-ai-will-positively-impact-society-pew-poll-finds/",
         "https://www.gizmodo.jp/article/x-by-xreal-a01-review-ar-glasses-that-are-light-on-your-face-and-wallet/",
         "https://www.gizmodo.jp/article/ewin-foldable-keyboard/",
         "https://www.gizmodo.jp/article/google-pixel-11-release-day/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/amazon-primeday-underwear/",
         "https://www.gizmodo.jp/article/thule_approach-bfa/",
         "https://www.gizmodo.jp/article/aimdesk-pro-7/",
-        "https://www.gizmodo.jp/article/brita-amazon-primeday/",
-        "https://www.gizmodo.jp/article/jackery-slimpower-h1/"
+        "https://www.gizmodo.jp/article/brita-amazon-primeday/"
     ]
 }
