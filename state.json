@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/c3dydpgenj0o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015174461000",
+        "https://news.web.nhk/newsweb/na/na-k10015179011000",
         "https://news.web.nhk/newsweb/na/na-k10015179001000",
         "https://news.web.nhk/newsweb/na/na-k10015178961000",
         "https://news.web.nhk/newsweb/na/na-k10015179031000",
@@ -401,11 +403,10 @@
         "https://news.web.nhk/newsweb/na/na-k10015176861000",
         "https://news.web.nhk/newsweb/na/na-k10015174511000",
         "https://news.web.nhk/newsweb/na/na-k10015176911000",
-        "https://news.web.nhk/newsweb/na/na-k10015176921000",
-        "https://news.web.nhk/newsweb/na/na-k10015176871000",
-        "https://news.web.nhk/newsweb/na/na-k10015174461000"
+        "https://news.web.nhk/newsweb/na/na-k10015176921000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/jewels-discovered-from-a-ship-that-sank-300-years-ago-xdm/",
         "https://www.gizmodo.jp/article/denon-home/",
         "https://www.gizmodo.jp/article/thanko-handy-slicer/",
         "https://www.gizmodo.jp/article/dpvr-r1/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/amazon-prime-day-comfee-toaster-nay/",
         "https://www.gizmodo.jp/article/elleair-pocket-wet-tissue/",
         "https://www.gizmodo.jp/article/jbl-tour-pro-3-review-gkp/",
-        "https://www.gizmodo.jp/article/ligar/",
-        "https://www.gizmodo.jp/article/the_presidents_cake_interview/"
+        "https://www.gizmodo.jp/article/ligar/"
     ]
 }
