@@ -2,6 +2,8 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "ZQU1TMxxrPw",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "gtl8xgVLSLA",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c36yj4pn7jdo#1",
+        "https://www.bbc.co.uk/news/articles/clyl3z2xld8o#0",
         "https://www.bbc.co.uk/news/articles/cx2k9wvv5wyo#0",
         "https://www.bbc.co.uk/news/videos/cy746z15ej3o#0",
         "https://www.bbc.co.uk/news/articles/cj632307934o#0",
@@ -199,9 +201,7 @@
         "https://www.bbc.co.uk/news/articles/c86e3q5j992o#0",
         "https://www.bbc.co.uk/news/articles/cd959x4edy8o#1",
         "https://www.bbc.co.uk/news/articles/c9323zgq6wvo#0",
-        "https://www.bbc.co.uk/news/articles/cx2w2k3vklgo#1",
-        "https://www.bbc.co.uk/news/articles/cp8l87784ngo#1",
-        "https://www.bbc.co.uk/news/articles/c3ryr25gvjdo#0"
+        "https://www.bbc.co.uk/news/articles/cx2w2k3vklgo#1"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/na-k10015179241000",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015177121000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/ftnmotion-streetdog-xr/",
         "https://www.gizmodo.jp/article/pebble-will-replace-cracked-screens-on-its-revived-smartwatch/",
         "https://www.gizmodo.jp/article/7d6595b6-9b0a-410a-a091-50c3037a1d3b/",
         "https://www.gizmodo.jp/article/intel-to-resume-production-of-older-processors/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/8ee9f003-b16d-4b6b-805f-be487a166df8/",
         "https://www.gizmodo.jp/article/mobile-battery_mechanism/",
         "https://www.gizmodo.jp/article/modular-synthesizer_event_patching-for-modular/",
-        "https://www.gizmodo.jp/article/amazon-primeday-matech-mobile-battery/",
-        "https://www.gizmodo.jp/article/amazon-prime-day-comfee-toaster-nay/"
+        "https://www.gizmodo.jp/article/amazon-primeday-matech-mobile-battery/"
     ]
 }
