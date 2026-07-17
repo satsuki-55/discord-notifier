@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "ZQU1TMxxrPw",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "gtl8xgVLSLA",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cd7l3y83g7eo#1",
         "https://www.bbc.co.uk/news/articles/cwyelj4zxn7o#0",
         "https://www.bbc.co.uk/news/articles/cr59ng05nngo#0",
         "https://www.bbc.co.uk/news/articles/c62122pgjqdo#0",
@@ -200,8 +201,7 @@
         "https://www.bbc.co.uk/news/articles/c07y400jlngo#1",
         "https://www.bbc.co.uk/news/articles/cy8w379e091o#0",
         "https://www.bbc.co.uk/news/articles/clyjnnrp2k7o#0",
-        "https://www.bbc.co.uk/sport/athletics/articles/cvgj55npzdzo#0",
-        "https://www.bbc.co.uk/news/articles/c5yzyygmxvgo#0"
+        "https://www.bbc.co.uk/sport/athletics/articles/cvgj55npzdzo#0"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/na-k10015179571000",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015177301000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/google-pixel-11-release-day/",
         "https://www.gizmodo.jp/article/marshall-milton-anc-youtube/",
         "https://www.gizmodo.jp/article/when-it-comes-to-energy-use-ai-agents-could-make-chatbots-look-like-pocket-calculators/",
         "https://www.gizmodo.jp/article/daiso-air-tag-brg/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/brita-amazon-primeday/",
         "https://www.gizmodo.jp/article/jackery-slimpower-h1/",
         "https://www.gizmodo.jp/article/amazon-primeday-fire-tv-stick/",
-        "https://www.gizmodo.jp/article/gan_cube-vro/",
-        "https://www.gizmodo.jp/article/amazon-primeday-torras-neck-cooler/"
+        "https://www.gizmodo.jp/article/gan_cube-vro/"
     ]
 }
