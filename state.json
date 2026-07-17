@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c3dydpgenj0o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015178941000",
         "https://news.web.nhk/newsweb/na/na-k10015178981000",
         "https://news.web.nhk/newsweb/na/na-k10015178951000",
         "https://news.web.nhk/newsweb/na/na-k10015178881000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015174461000",
         "https://news.web.nhk/newsweb/na/na-k10015176881000",
         "https://news.web.nhk/newsweb/na/na-k10015176851000",
-        "https://news.web.nhk/newsweb/na/na-k10015176821000",
-        "https://news.web.nhk/newsweb/na/na-k10015176781000"
+        "https://news.web.nhk/newsweb/na/na-k10015176821000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/dpvr-r1/",
