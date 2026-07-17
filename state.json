@@ -204,6 +204,9 @@
         "https://www.bbc.co.uk/news/articles/cm2d2qlgj71o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015179471000",
+        "https://news.web.nhk/newsweb/na/na-k10015179521000",
+        "https://news.web.nhk/newsweb/na/na-k10015179481000",
         "https://news.web.nhk/newsweb/na/na-k10015179531000",
         "https://news.web.nhk/newsweb/na/na-k10015179451000",
         "https://news.web.nhk/newsweb/na/na-k10015179511000",
@@ -400,10 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015177331000",
         "https://news.web.nhk/newsweb/na/na-k10015177271000",
         "https://news.web.nhk/newsweb/na/na-k10015177251000",
-        "https://news.web.nhk/newsweb/na/na-k10015171821000",
-        "https://news.web.nhk/newsweb/na/na-k10015177291000",
-        "https://news.web.nhk/newsweb/na/na-k10015177221000",
-        "https://news.web.nhk/newsweb/na/na-k10015177241000"
+        "https://news.web.nhk/newsweb/na/na-k10015171821000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/when-it-comes-to-energy-use-ai-agents-could-make-chatbots-look-like-pocket-calculators/",
