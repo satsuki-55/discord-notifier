@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/c0lyl5ryyr4o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015179081000",
+        "https://news.web.nhk/newsweb/na/na-k10015179441000",
         "https://news.web.nhk/newsweb/na/na-k10015179431000",
         "https://news.web.nhk/newsweb/na/na-k10015179411000",
         "https://news.web.nhk/newsweb/na/na-k10015176901000",
@@ -401,11 +403,10 @@
         "https://news.web.nhk/newsweb/na/na-k10015177231000",
         "https://news.web.nhk/newsweb/na/na-k10015177211000",
         "https://news.web.nhk/newsweb/na/na-k10015176991000",
-        "https://news.web.nhk/newsweb/na/na-k10015176961000",
-        "https://news.web.nhk/newsweb/na/na-k10015177201000",
-        "https://news.web.nhk/newsweb/na/na-k10015176951000"
+        "https://news.web.nhk/newsweb/na/na-k10015176961000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/daiso-air-tag-brg/",
         "https://www.gizmodo.jp/article/claude-and-chatgpt-are-getting-too-expensive-even-for-microsoft/",
         "https://www.gizmodo.jp/article/trustnic-car-fan-vvc/",
         "https://www.gizmodo.jp/article/commercial-spaceflight-just-entered-the-nuclear-age/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/gan_cube-vro/",
         "https://www.gizmodo.jp/article/amazon-primeday-torras-neck-cooler/",
         "https://www.gizmodo.jp/article/how_to_use_new_chatgpt_desktop_app/",
-        "https://www.gizmodo.jp/article/eero-pro-7-review-great-mesh-networking-even-if-you-dont-have-wi-fi-7-mtp/",
-        "https://www.gizmodo.jp/article/comulytic-note-pro_primeday/"
+        "https://www.gizmodo.jp/article/eero-pro-7-review-great-mesh-networking-even-if-you-dont-have-wi-fi-7-mtp/"
     ]
 }
