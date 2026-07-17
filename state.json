@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/cy8w379e091o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015179641000",
+        "https://news.web.nhk/newsweb/na/na-k10015179311000",
         "https://news.web.nhk/newsweb/na/na-k10015179581000",
         "https://news.web.nhk/newsweb/na/na-k10015179611000",
         "https://news.web.nhk/newsweb/na/na-k10015179421000",
@@ -401,11 +403,10 @@
         "https://news.web.nhk/newsweb/na/na-k10015177471000",
         "https://news.web.nhk/newsweb/na/na-k10015177421000",
         "https://news.web.nhk/newsweb/na/na-k10015177461000",
-        "https://news.web.nhk/newsweb/na/na-k10015177381000",
-        "https://news.web.nhk/newsweb/na/na-k10015177411000",
-        "https://news.web.nhk/newsweb/na/na-k10015177431000"
+        "https://news.web.nhk/newsweb/na/na-k10015177381000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/x-by-xreal-a01-review-ar-glasses-that-are-light-on-your-face-and-wallet/",
         "https://www.gizmodo.jp/article/ewin-foldable-keyboard/",
         "https://www.gizmodo.jp/article/google-pixel-11-release-day/",
         "https://www.gizmodo.jp/article/marshall-milton-anc-youtube/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/thule_approach-bfa/",
         "https://www.gizmodo.jp/article/aimdesk-pro-7/",
         "https://www.gizmodo.jp/article/brita-amazon-primeday/",
-        "https://www.gizmodo.jp/article/jackery-slimpower-h1/",
-        "https://www.gizmodo.jp/article/amazon-primeday-fire-tv-stick/"
+        "https://www.gizmodo.jp/article/jackery-slimpower-h1/"
     ]
 }
