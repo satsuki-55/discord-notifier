@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015176951000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/claude-and-chatgpt-are-getting-too-expensive-even-for-microsoft/",
         "https://www.gizmodo.jp/article/trustnic-car-fan-vvc/",
         "https://www.gizmodo.jp/article/commercial-spaceflight-just-entered-the-nuclear-age/",
         "https://www.gizmodo.jp/article/freshservicesports_newcollection/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/amazon-primeday-torras-neck-cooler/",
         "https://www.gizmodo.jp/article/how_to_use_new_chatgpt_desktop_app/",
         "https://www.gizmodo.jp/article/eero-pro-7-review-great-mesh-networking-even-if-you-dont-have-wi-fi-7-mtp/",
-        "https://www.gizmodo.jp/article/comulytic-note-pro_primeday/",
-        "https://www.gizmodo.jp/article/keyuca-horeicloth/"
+        "https://www.gizmodo.jp/article/comulytic-note-pro_primeday/"
     ]
 }
