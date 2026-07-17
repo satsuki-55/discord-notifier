@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "1bRPD2ktPyc",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "sILWMvHdKOc",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c9323zddvwko#0",
         "https://www.bbc.co.uk/sport/cricket/articles/cq6d421ezjdo#0",
         "https://www.bbc.co.uk/news/articles/cg74gvy8lgjo#0",
         "https://www.bbc.co.uk/news/articles/cpq8j188n90o#1",
@@ -200,10 +201,10 @@
         "https://www.bbc.co.uk/news/articles/c5yzy3ng05lo#1",
         "https://www.bbc.co.uk/news/articles/c5yzynxwk05o#1",
         "https://www.bbc.co.uk/news/articles/ceqe55d0q9po#1",
-        "https://www.bbc.co.uk/news/articles/cvg7g2z4pv3o#1",
-        "https://www.bbc.co.uk/news/articles/c8r2r76vnd1o#1"
+        "https://www.bbc.co.uk/news/articles/cvg7g2z4pv3o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015179901000",
         "https://news.web.nhk/newsweb/na/na-k10015177511000",
         "https://news.web.nhk/newsweb/na/na-k10015179891000",
         "https://news.web.nhk/newsweb/na/na-k10015179851000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015177481000",
         "https://news.web.nhk/newsweb/na/na-k10015177641000",
         "https://news.web.nhk/newsweb/na/na-k10015175221000",
-        "https://news.web.nhk/newsweb/na/na-k10015177581000",
-        "https://news.web.nhk/newsweb/na/na-k10015177621000"
+        "https://news.web.nhk/newsweb/na/na-k10015177581000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/nothing-smartphone/",
