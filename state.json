@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015177971000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/hiyashi-cupnoodle/",
         "https://www.gizmodo.jp/article/nothing-smartphone/",
         "https://www.gizmodo.jp/article/high_school_student_invented_filter/",
         "https://www.gizmodo.jp/article/just-16-of-americans-believe-ai-will-positively-impact-society-pew-poll-finds/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/amazon-primeday-phillips-mobile-battery/",
         "https://www.gizmodo.jp/article/amazon-prime-day-earth-no-matt-coleman-bfm/",
         "https://www.gizmodo.jp/article/amazon-primday-2026-editors-buy/",
-        "https://www.gizmodo.jp/article/amazon-primeday-underwear/",
-        "https://www.gizmodo.jp/article/thule_approach-bfa/"
+        "https://www.gizmodo.jp/article/amazon-primeday-underwear/"
     ]
 }
