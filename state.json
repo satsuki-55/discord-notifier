@@ -2,6 +2,8 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "ZQU1TMxxrPw",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "gtl8xgVLSLA",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cgk47yjv4pmo#0",
+        "https://www.bbc.co.uk/news/articles/c07y77exx8eo#1",
         "https://www.bbc.co.uk/news/articles/c5y680w62wno#1",
         "https://www.bbc.co.uk/news/articles/czjlyjmrzgro#0",
         "https://www.bbc.co.uk/news/articles/cp3x3487zl9o#0",
@@ -199,11 +201,11 @@
         "https://www.bbc.co.uk/news/articles/c5yzy3ng05lo#0",
         "https://www.bbc.co.uk/news/articles/ce8kxgpe3kdo#1",
         "https://www.bbc.co.uk/news/videos/c36y66j142wo#0",
-        "https://www.bbc.co.uk/news/videos/cwy0yyzdqxvo#0",
-        "https://www.bbc.co.uk/news/articles/cj9g99zkk2do#0",
-        "https://www.bbc.co.uk/news/articles/cm2d2qlgj71o#0"
+        "https://www.bbc.co.uk/news/videos/cwy0yyzdqxvo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015179381000",
+        "https://news.web.nhk/newsweb/na/na-k10015179491000",
         "https://news.web.nhk/newsweb/na/na-k10015179501000",
         "https://news.web.nhk/newsweb/na/na-k10015179471000",
         "https://news.web.nhk/newsweb/na/na-k10015179521000",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015177301000",
         "https://news.web.nhk/newsweb/na/na-k10015177391000",
         "https://news.web.nhk/newsweb/na/na-k10015177311000",
-        "https://news.web.nhk/newsweb/na/na-k10015177331000",
-        "https://news.web.nhk/newsweb/na/na-k10015177271000",
-        "https://news.web.nhk/newsweb/na/na-k10015177251000"
+        "https://news.web.nhk/newsweb/na/na-k10015177331000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/when-it-comes-to-energy-use-ai-agents-could-make-chatbots-look-like-pocket-calculators/",
