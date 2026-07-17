@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "1bRPD2ktPyc",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "gtl8xgVLSLA",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cy4kdd1e0ejo#0",
         "https://www.bbc.co.uk/news/articles/cq56ed827peo#0",
         "https://www.bbc.co.uk/news/articles/c0m70zremezo#0",
         "https://www.bbc.co.uk/news/articles/cly5wyynv9zo#0",
@@ -200,10 +201,10 @@
         "https://www.bbc.co.uk/news/articles/cvg7g2z4pv3o#0",
         "https://www.bbc.co.uk/news/articles/cjrg9r80908o#0",
         "https://www.bbc.co.uk/news/articles/c9q283r9px3o#1",
-        "https://www.bbc.co.uk/news/articles/cm2d2mnmqg3o#0",
-        "https://www.bbc.co.uk/news/articles/clyl33q0yl0o#0"
+        "https://www.bbc.co.uk/news/articles/cm2d2mnmqg3o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015179751000",
         "https://news.web.nhk/newsweb/na/na-k10015179671000",
         "https://news.web.nhk/newsweb/na/na-k10015179631000",
         "https://news.web.nhk/newsweb/na/na-k10015179651000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015177551000",
         "https://news.web.nhk/newsweb/na/na-k10015177501000",
         "https://news.web.nhk/newsweb/na/na-k10015177441000",
-        "https://news.web.nhk/newsweb/na/na-k10015140961000",
-        "https://news.web.nhk/newsweb/na/na-k10015177281000"
+        "https://news.web.nhk/newsweb/na/na-k10015140961000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/high_school_student_invented_filter/",
