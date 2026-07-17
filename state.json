@@ -1,5 +1,5 @@
 {
-    "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "ZQU1TMxxrPw",
+    "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "1bRPD2ktPyc",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "gtl8xgVLSLA",
     "rss:bbc": [
         "https://www.bbc.co.uk/news/articles/cpv3eky4w2do#0",
@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/clyjnnrp2k7o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015179611000",
         "https://news.web.nhk/newsweb/na/na-k10015179421000",
         "https://news.web.nhk/newsweb/na/na-k10015179571000",
         "https://news.web.nhk/newsweb/na/na-k10015179551000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015177381000",
         "https://news.web.nhk/newsweb/na/na-k10015177411000",
         "https://news.web.nhk/newsweb/na/na-k10015177431000",
-        "https://news.web.nhk/newsweb/na/na-k10015177351000",
-        "https://news.web.nhk/newsweb/na/na-k10015177371000"
+        "https://news.web.nhk/newsweb/na/na-k10015177351000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/ewin-foldable-keyboard/",
