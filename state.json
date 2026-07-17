@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/c1eye5320g5o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015179071000",
+        "https://news.web.nhk/newsweb/na/na-k10015179061000",
         "https://news.web.nhk/newsweb/na/na-k10015179361000",
         "https://news.web.nhk/newsweb/na/na-k10015173711000",
         "https://news.web.nhk/newsweb/na/na-k10015179341000",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015177091000",
         "https://news.web.nhk/newsweb/na/na-k10015177001000",
         "https://news.web.nhk/newsweb/na/na-k10015177011000",
-        "https://news.web.nhk/newsweb/na/na-k10015177151000",
-        "https://news.web.nhk/newsweb/na/na-k10015176941000",
-        "https://news.web.nhk/newsweb/na/na-k10015177181000"
+        "https://news.web.nhk/newsweb/na/na-k10015177151000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/freshservicesports_newcollection/",
