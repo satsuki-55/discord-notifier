@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c3ryr25gvjdo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015179041000",
         "https://news.web.nhk/newsweb/na/na-k10015179201000",
         "https://news.web.nhk/newsweb/na/na-k10015179221000",
         "https://news.web.nhk/newsweb/na/na-k10015179191000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015177081000",
         "https://news.web.nhk/newsweb/na/na-k10015177101000",
         "https://news.web.nhk/newsweb/na/na-k10015177121000",
-        "https://news.web.nhk/newsweb/na/na-k10015177061000",
-        "https://news.web.nhk/newsweb/na/na-k10015177071000"
+        "https://news.web.nhk/newsweb/na/na-k10015177061000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/pebble-will-replace-cracked-screens-on-its-revived-smartwatch/",
