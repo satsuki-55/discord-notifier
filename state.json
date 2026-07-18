@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/sport/football/videos/c62v3q3qp99o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015180391000",
         "https://news.web.nhk/newsweb/na/na-k10015180331000",
         "https://news.web.nhk/newsweb/na/na-k10015180311000",
         "https://news.web.nhk/newsweb/na/na-k10015180321000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015178171000",
         "https://news.web.nhk/newsweb/na/na-k10015178151000",
         "https://news.web.nhk/newsweb/na/na-k10015178161000",
-        "https://news.web.nhk/newsweb/na/na-k10015178101000",
-        "https://news.web.nhk/newsweb/na/na-k10015177851000"
+        "https://news.web.nhk/newsweb/na/na-k10015178101000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/items_for_sleeping_in_a_car/",
