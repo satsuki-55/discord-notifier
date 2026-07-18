@@ -2,6 +2,8 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "1bRPD2ktPyc",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "sILWMvHdKOc",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c07y77exx8eo#0",
+        "https://www.bbc.co.uk/news/articles/czek5wl6p2go#0",
         "https://www.bbc.co.uk/news/videos/c9929nl2m3go#0",
         "https://www.bbc.co.uk/news/articles/ckgv0zd497zo#1",
         "https://www.bbc.co.uk/news/articles/ce3qw4lq1d7o#0",
@@ -199,11 +201,11 @@
         "https://www.bbc.co.uk/news/articles/c3wygjz632qo#0",
         "https://www.bbc.co.uk/news/articles/cx2myl1erj8o#0",
         "https://www.bbc.co.uk/sport/football/videos/cwy059qwdg4o#0",
-        "https://www.bbc.co.uk/sport/football/articles/ce8l15903k8o#0",
-        "https://www.bbc.co.uk/news/videos/c62q3kw126xo#0",
-        "https://www.bbc.co.uk/weather/articles/c8929jdz83po#0"
+        "https://www.bbc.co.uk/sport/football/articles/ce8l15903k8o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015180201000",
+        "https://news.web.nhk/newsweb/na/na-k10015180241000",
         "https://news.web.nhk/newsweb/na/na-k10015180191000",
         "https://news.web.nhk/newsweb/na/na-k10015177691000",
         "https://news.web.nhk/newsweb/na/na-k10015180211000",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015178051000",
         "https://news.web.nhk/newsweb/na/na-k10015177861000",
         "https://news.web.nhk/newsweb/na/na-k10015178041000",
-        "https://news.web.nhk/newsweb/na/na-k10015177931000",
-        "https://news.web.nhk/newsweb/na/na-k10015178081000",
-        "https://news.web.nhk/newsweb/na/na-k10015175581000"
+        "https://news.web.nhk/newsweb/na/na-k10015177931000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/iphone-ultra-parts-being-mass-produced/",
