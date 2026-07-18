@@ -2,6 +2,12 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "1bRPD2ktPyc",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "sILWMvHdKOc",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cpwewzeyxqwo#1",
+        "https://www.bbc.co.uk/news/articles/cwyelj4zxn7o#1",
+        "https://www.bbc.co.uk/news/articles/cg74gvy8lgjo#1",
+        "https://www.bbc.co.uk/news/articles/czrxrlydyzzo#0",
+        "https://www.bbc.co.uk/news/articles/c3d39r338m0o#0",
+        "https://www.bbc.co.uk/news/articles/c5yz4wnz6jdo#1",
         "https://www.bbc.co.uk/news/articles/c62v5dz5zj8o#0",
         "https://www.bbc.co.uk/sport/football/articles/c3w0p810dj9o#1",
         "https://www.bbc.co.uk/news/articles/c78glnk524lo#0",
@@ -195,15 +201,10 @@
         "https://www.bbc.co.uk/news/articles/cvgegqrp656o#1",
         "https://www.bbc.co.uk/news/videos/c07y7r91vz9o#1",
         "https://www.bbc.co.uk/news/articles/cj6g41pzy41o#0",
-        "https://www.bbc.co.uk/news/articles/c07y7zj43jmo#0",
-        "https://www.bbc.co.uk/news/articles/c8xnllq944go#0",
-        "https://www.bbc.co.uk/news/articles/c4gygy43103o#1",
-        "https://www.bbc.co.uk/news/articles/cp8r8l84p8yo#0",
-        "https://www.bbc.co.uk/news/articles/c4gynyz4wqpo#1",
-        "https://www.bbc.co.uk/news/articles/cddj7e8v767o#0",
-        "https://www.bbc.co.uk/news/articles/c4gynyz4wqpo#0"
+        "https://www.bbc.co.uk/news/articles/c07y7zj43jmo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015180331000",
         "https://news.web.nhk/newsweb/na/na-k10015180311000",
         "https://news.web.nhk/newsweb/na/na-k10015180321000",
         "https://news.web.nhk/newsweb/na/na-k10015180341000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015178151000",
         "https://news.web.nhk/newsweb/na/na-k10015178161000",
         "https://news.web.nhk/newsweb/na/na-k10015178101000",
-        "https://news.web.nhk/newsweb/na/na-k10015177851000",
-        "https://news.web.nhk/newsweb/na/na-k10015178121000"
+        "https://news.web.nhk/newsweb/na/na-k10015177851000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/items_for_sleeping_in_a_car/",
