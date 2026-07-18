@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c8929jv8kdzo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015180131000",
         "https://news.web.nhk/newsweb/na/na-k10015180121000",
         "https://news.web.nhk/newsweb/na/na-k10015180111000",
         "https://news.web.nhk/newsweb/na/na-k10015180101000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015177801000",
         "https://news.web.nhk/newsweb/na/na-k10015177921000",
         "https://news.web.nhk/newsweb/na/na-k10015177911000",
-        "https://news.web.nhk/newsweb/na/na-k10015177891000",
-        "https://news.web.nhk/newsweb/na/na-k10015178061000"
+        "https://news.web.nhk/newsweb/na/na-k10015177891000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/meta-thinks-it-can-convince-you-that-smart-glasses-need-facial-recognition/",
