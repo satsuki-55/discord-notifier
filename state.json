@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "9krOmzyQlS8",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "sILWMvHdKOc",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c5y08z25q8eo#0",
         "https://www.bbc.co.uk/news/articles/cpd7q7eev7po#0",
         "https://www.bbc.co.uk/news/articles/cwyq93j34lgo#1",
         "https://www.bbc.co.uk/news/articles/cn8nynv8ze8o#0",
@@ -200,10 +201,10 @@
         "https://www.bbc.co.uk/news/articles/cnvnyr75r48o#0",
         "https://www.bbc.co.uk/news/articles/c4gyg0y6yg2o#0",
         "https://www.bbc.co.uk/news/articles/c4gy5jwjvz7o#0",
-        "https://www.bbc.co.uk/news/articles/c62x8ldxr7eo#0",
-        "https://www.bbc.co.uk/news/articles/ceqe52l4yr4o#1"
+        "https://www.bbc.co.uk/news/articles/c62x8ldxr7eo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015180351000",
         "https://news.web.nhk/newsweb/na/na-k10015180461000",
         "https://news.web.nhk/newsweb/na/na-k10015180561000",
         "https://news.web.nhk/newsweb/na/na-k10015180451000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015178411000",
         "https://news.web.nhk/newsweb/na/na-k10015178381000",
         "https://news.web.nhk/newsweb/na/na-k10015178391000",
-        "https://news.web.nhk/newsweb/na/na-k10015178361000",
-        "https://news.web.nhk/newsweb/na/na-k10015178311000"
+        "https://news.web.nhk/newsweb/na/na-k10015178361000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/meditation_hrv_research/",
