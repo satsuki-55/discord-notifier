@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "9krOmzyQlS8",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "sILWMvHdKOc",
     "rss:bbc": [
+        "https://www.bbc.co.uk/sport/football/articles/c4gk5jq2lj1o#1",
         "https://www.bbc.co.uk/sport/football/articles/c5yejxqll3go#1",
         "https://www.bbc.co.uk/news/articles/ce8l1zk9dk9o#0",
         "https://www.bbc.co.uk/news/articles/cx2rmjk0740o#1",
@@ -200,10 +201,10 @@
         "https://www.bbc.co.uk/news/articles/c5yzyep6z63o#0",
         "https://www.bbc.co.uk/news/articles/cd7l3y83g7eo#0",
         "https://www.bbc.co.uk/news/articles/c79y240e71po#1",
-        "https://www.bbc.co.uk/news/articles/cdx76069n3do#0",
-        "https://www.bbc.co.uk/news/articles/cvgwd4nz344o#0"
+        "https://www.bbc.co.uk/news/articles/cdx76069n3do#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015141091000",
         "https://news.web.nhk/newsweb/na/na-k10015180421000",
         "https://news.web.nhk/newsweb/na/na-k10015180291000",
         "https://news.web.nhk/newsweb/na/na-k10015180361000",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/na-k10015178351000",
         "https://news.web.nhk/newsweb/na/na-k10015141071000",
         "https://news.web.nhk/newsweb/na/na-k10015173691000",
-        "https://news.web.nhk/newsweb/na/na-k10015178301000",
-        "https://news.web.nhk/newsweb/na/na-k10015178141000"
+        "https://news.web.nhk/newsweb/na/na-k10015178301000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/meditation_hrv_research/",
         "https://www.gizmodo.jp/article/anaheim_laptop-sleeve-13inch/",
         "https://www.gizmodo.jp/article/openai-just-launched-its-first-hardware-product-and-its-a-tiny-keyboard-for-bossing-around-ai-agents/",
         "https://www.gizmodo.jp/article/items_for_sleeping_in_a_car/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/aimdesk-pro-5-re/",
         "https://www.gizmodo.jp/article/jisulife-handyfan-pro1-s/",
         "https://www.gizmodo.jp/article/11b965f6-32c2-46b5-bd85-669c66310dac/",
-        "https://www.gizmodo.jp/article/g-shock-assari-smartwatch-ykg/",
-        "https://www.gizmodo.jp/article/amazon-primeday-anker-nano-power-strip/"
+        "https://www.gizmodo.jp/article/g-shock-assari-smartwatch-ykg/"
     ]
 }
