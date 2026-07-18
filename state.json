@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/czrxrlydyzzo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015180311000",
+        "https://news.web.nhk/newsweb/na/na-k10015180321000",
         "https://news.web.nhk/newsweb/na/na-k10015180341000",
         "https://news.web.nhk/newsweb/na/na-k10015180271000",
         "https://news.web.nhk/newsweb/na/na-k10015180301000",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015178161000",
         "https://news.web.nhk/newsweb/na/na-k10015178101000",
         "https://news.web.nhk/newsweb/na/na-k10015177851000",
-        "https://news.web.nhk/newsweb/na/na-k10015178121000",
-        "https://news.web.nhk/newsweb/na/na-k10015178091000",
-        "https://news.web.nhk/newsweb/na/na-k10015177881000"
+        "https://news.web.nhk/newsweb/na/na-k10015178121000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/items_for_sleeping_in_a_car/",
