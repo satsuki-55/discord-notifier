@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c20y00712ezo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015180161000",
         "https://news.web.nhk/newsweb/na/na-k10015180171000",
         "https://news.web.nhk/newsweb/na/na-k10015180151000",
         "https://news.web.nhk/newsweb/na/na-k10015180141000",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/na-k10015177901000",
         "https://news.web.nhk/newsweb/na/na-k10015177691000",
         "https://news.web.nhk/newsweb/na/na-k10015177951000",
-        "https://news.web.nhk/newsweb/na/na-k10015175441000",
-        "https://news.web.nhk/newsweb/na/na-k10015177801000"
+        "https://news.web.nhk/newsweb/na/na-k10015175441000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/spacex-stock/",
         "https://www.gizmodo.jp/article/amazon-matech-powersight-240w/",
         "https://www.gizmodo.jp/article/how_pythons_digest_entire_prey_bones_included-ovh/",
         "https://www.gizmodo.jp/article/meta-thinks-it-can-convince-you-that-smart-glasses-need-facial-recognition/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/amazon-primeday-500point-back-0711/",
         "https://www.gizmodo.jp/article/sony_ier-m500/",
         "https://www.gizmodo.jp/article/amazon-primeday-apple-watch-11/",
-        "https://www.gizmodo.jp/article/organize_your_desk/",
-        "https://www.gizmodo.jp/article/summer_items-bmw/"
+        "https://www.gizmodo.jp/article/organize_your_desk/"
     ]
 }
