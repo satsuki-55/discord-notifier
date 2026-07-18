@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c20y00712ezo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015180171000",
         "https://news.web.nhk/newsweb/na/na-k10015180151000",
         "https://news.web.nhk/newsweb/na/na-k10015180141000",
         "https://news.web.nhk/newsweb/na/na-k10015180131000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015177691000",
         "https://news.web.nhk/newsweb/na/na-k10015177951000",
         "https://news.web.nhk/newsweb/na/na-k10015175441000",
-        "https://news.web.nhk/newsweb/na/na-k10015177801000",
-        "https://news.web.nhk/newsweb/na/na-k10015177921000"
+        "https://news.web.nhk/newsweb/na/na-k10015177801000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/amazon-matech-powersight-240w/",
