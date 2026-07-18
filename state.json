@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/videos/c62e47le4e1o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015177691000",
+        "https://news.web.nhk/newsweb/na/na-k10015180211000",
         "https://news.web.nhk/newsweb/na/na-k10015180181000",
         "https://news.web.nhk/newsweb/na/na-k10015180221000",
         "https://news.web.nhk/newsweb/na/na-k10015180161000",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015177931000",
         "https://news.web.nhk/newsweb/na/na-k10015178081000",
         "https://news.web.nhk/newsweb/na/na-k10015175581000",
-        "https://news.web.nhk/newsweb/na/na-k10015177941000",
-        "https://news.web.nhk/newsweb/na/na-k10015177901000",
-        "https://news.web.nhk/newsweb/na/na-k10015177691000"
+        "https://news.web.nhk/newsweb/na/na-k10015177941000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/iphone-ultra-parts-being-mass-produced/",
