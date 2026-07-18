@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cd959q11g54o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015180421000",
         "https://news.web.nhk/newsweb/na/na-k10015180291000",
         "https://news.web.nhk/newsweb/na/na-k10015180361000",
         "https://news.web.nhk/newsweb/na/na-k10015180441000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015141071000",
         "https://news.web.nhk/newsweb/na/na-k10015173691000",
         "https://news.web.nhk/newsweb/na/na-k10015178301000",
-        "https://news.web.nhk/newsweb/na/na-k10015178141000",
-        "https://news.web.nhk/newsweb/na/na-k10015178271000"
+        "https://news.web.nhk/newsweb/na/na-k10015178141000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/anaheim_laptop-sleeve-13inch/",
