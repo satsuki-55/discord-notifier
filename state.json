@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/clyl3z2xld8o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015181061000",
+        "https://news.web.nhk/newsweb/na/na-k10015181071000",
         "https://news.web.nhk/newsweb/na/na-k10015180811000",
         "https://news.web.nhk/newsweb/na/na-k10015180931000",
         "https://news.web.nhk/newsweb/na/na-k10015181031000",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015177141000",
         "https://news.web.nhk/newsweb/na/na-k10015178481000",
         "https://news.web.nhk/newsweb/na/na-k10015178821000",
-        "https://news.web.nhk/newsweb/na/na-k10015178731000",
-        "https://news.web.nhk/newsweb/na/na-k10015178791000",
-        "https://news.web.nhk/newsweb/na/na-k10015178661000"
+        "https://news.web.nhk/newsweb/na/na-k10015178731000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/moonshot_ai_kimi_k3/",
