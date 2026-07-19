@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/videos/cp8e1jm1delo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015180641000",
+        "https://news.web.nhk/newsweb/na/na-k10015180411000",
         "https://news.web.nhk/newsweb/na/na-k10015180621000",
         "https://news.web.nhk/newsweb/na/na-k10015180601000",
         "https://news.web.nhk/newsweb/na/na-k10015180541000",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015178511000",
         "https://news.web.nhk/newsweb/na/na-k10015178181000",
         "https://news.web.nhk/newsweb/na/na-k10015178441000",
-        "https://news.web.nhk/newsweb/na/na-k10015176141000",
-        "https://news.web.nhk/newsweb/na/na-k10015178421000",
-        "https://news.web.nhk/newsweb/na/na-k10015178451000"
+        "https://news.web.nhk/newsweb/na/na-k10015176141000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/anthropic_claude_new_movie/",
