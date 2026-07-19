@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015176491000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/crime-prevention_tv_simulator_/",
         "https://www.gizmodo.jp/article/apple-did-it-one-month-with-siri-ai/",
         "https://www.gizmodo.jp/article/self_checkout_techs/",
         "https://www.gizmodo.jp/article/products_made_with_dyneema/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/1e1f09e0-e86a-4874-8c77-df0471e8031a/",
         "https://www.gizmodo.jp/article/puma_velocity-nitro-5/",
         "https://www.gizmodo.jp/article/amazon-primeday-anker-nano-docking-station/",
-        "https://www.gizmodo.jp/article/amazon-primeday-vornado-circulator/",
-        "https://www.gizmodo.jp/article/amazon-primday-2026-editors-buy-2/"
+        "https://www.gizmodo.jp/article/amazon-primeday-vornado-circulator/"
     ]
 }
