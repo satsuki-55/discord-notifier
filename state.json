@@ -2,6 +2,9 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "9krOmzyQlS8",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "sILWMvHdKOc",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c982857nlrlo#0",
+        "https://www.bbc.co.uk/news/articles/cx2k77p2r1xo#0",
+        "https://www.bbc.co.uk/news/articles/cq56e9n1ddzo#1",
         "https://www.bbc.co.uk/news/articles/cvgq2qr9gxdo#2",
         "https://www.bbc.co.uk/weather/articles/cgmkglwnk08o#0",
         "https://www.bbc.co.uk/news/articles/c62122pgjqdo#1",
@@ -198,10 +201,7 @@
         "https://www.bbc.co.uk/news/articles/c8j2dje3pldo#0",
         "https://www.bbc.co.uk/news/articles/clyen1ned7no#0",
         "https://www.bbc.co.uk/news/articles/c36dnz1zez5o#0",
-        "https://www.bbc.co.uk/news/articles/ce97zd8yx1xo#0",
-        "https://www.bbc.co.uk/news/articles/cg5350rp3z2o#0",
-        "https://www.bbc.co.uk/news/articles/c982857nlrlo#0",
-        "https://www.bbc.co.uk/news/articles/cpq8j188n90o#0"
+        "https://www.bbc.co.uk/news/articles/ce97zd8yx1xo#0"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/na-k10015180761000",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015178611000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/3coins-sunshade-vzc/",
         "https://www.gizmodo.jp/article/d62e5d9b-52c8-43bb-ab9d-ce3a7a23469a/",
         "https://www.gizmodo.jp/article/bag_in_box_water/",
         "https://www.gizmodo.jp/article/meteorite-that-crashed-into-new-jersey-home-contains-rare-ingredients-of-life/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/philips-carcharger/",
         "https://www.gizmodo.jp/article/d8b2b7c7-f449-4829-826d-7e805922fb4d/",
         "https://www.gizmodo.jp/article/shokz-opendots-2-review-a-clip-worth-considering/",
-        "https://www.gizmodo.jp/article/amazon-primeday-hdd/",
-        "https://www.gizmodo.jp/article/soundpeats-clip1-review-4bf/"
+        "https://www.gizmodo.jp/article/amazon-primeday-hdd/"
     ]
 }
