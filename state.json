@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/videos/cx27ljkngxmo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015180601000",
         "https://news.web.nhk/newsweb/na/na-k10015180541000",
         "https://news.web.nhk/newsweb/na/na-k10015180481000",
         "https://news.web.nhk/newsweb/na/na-k10015178411000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015176141000",
         "https://news.web.nhk/newsweb/na/na-k10015178421000",
         "https://news.web.nhk/newsweb/na/na-k10015178451000",
-        "https://news.web.nhk/newsweb/na/na-k10015178461000",
-        "https://news.web.nhk/newsweb/na/na-k10015178471000"
+        "https://news.web.nhk/newsweb/na/na-k10015178461000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/oled-ipad-mini-may-launch-by-october/",
