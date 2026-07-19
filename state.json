@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "dLHqgYkpQ0g",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "sILWMvHdKOc",
     "rss:bbc": [
+        "https://www.bbc.co.uk/sport/football/articles/cql1xxxpndlo#0",
         "https://www.bbc.co.uk/news/articles/c79yyzw9v8xo#0",
         "https://www.bbc.co.uk/sport/football/videos/cm2gn7v4jljo#1",
         "https://www.bbc.co.uk/news/articles/c74glj9zkzko#0",
@@ -200,8 +201,7 @@
         "https://www.bbc.co.uk/news/articles/ckgvwxygpv2o#0",
         "https://www.bbc.co.uk/news/articles/czx5zy82n7no#0",
         "https://www.bbc.co.uk/news/articles/cn4n9023322o#0",
-        "https://www.bbc.co.uk/weather/articles/cr474wzyl73o#0",
-        "https://www.bbc.co.uk/news/videos/cx25glwll79o#0"
+        "https://www.bbc.co.uk/weather/articles/cr474wzyl73o#0"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/na-k10015180851000",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015178721000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/apple-did-it-one-month-with-siri-ai/",
         "https://www.gizmodo.jp/article/self_checkout_techs/",
         "https://www.gizmodo.jp/article/products_made_with_dyneema/",
         "https://www.gizmodo.jp/article/far-east-gadget-typesticks-review-1-zvz/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/puma_velocity-nitro-5/",
         "https://www.gizmodo.jp/article/amazon-primeday-anker-nano-docking-station/",
         "https://www.gizmodo.jp/article/amazon-primeday-vornado-circulator/",
-        "https://www.gizmodo.jp/article/amazon-primday-2026-editors-buy-2/",
-        "https://www.gizmodo.jp/article/iwatani-yakimaru2-review-jek/"
+        "https://www.gizmodo.jp/article/amazon-primday-2026-editors-buy-2/"
     ]
 }
