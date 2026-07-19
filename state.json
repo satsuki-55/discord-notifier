@@ -2,6 +2,8 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "dLHqgYkpQ0g",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "sILWMvHdKOc",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c74glj9zkzko#0",
+        "https://www.bbc.co.uk/news/articles/cm2gm99nrm7o#0",
         "https://www.bbc.co.uk/news/articles/cyv0vvg1pqdo#0",
         "https://www.bbc.co.uk/news/articles/cwyjv3znypyo#1",
         "https://www.bbc.co.uk/news/articles/c2el7xpnzrpo#0",
@@ -199,11 +201,11 @@
         "https://www.bbc.co.uk/weather/articles/cr474wzyl73o#0",
         "https://www.bbc.co.uk/news/videos/cx25glwll79o#0",
         "https://www.bbc.co.uk/sport/football/articles/cly5we2lgq4o#0",
-        "https://www.bbc.co.uk/news/articles/cp305dx493do#0",
-        "https://www.bbc.co.uk/news/articles/ce97zd8yx1xo#1",
-        "https://www.bbc.co.uk/news/articles/c74glj9zkzko#0"
+        "https://www.bbc.co.uk/news/articles/cp305dx493do#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015180821000",
+        "https://news.web.nhk/newsweb/na/na-k10015180801000",
         "https://news.web.nhk/newsweb/na/na-k10015141101000",
         "https://news.web.nhk/newsweb/na/na-k10015180781000",
         "https://news.web.nhk/newsweb/na/na-k10015180761000",
@@ -401,11 +403,10 @@
         "https://news.web.nhk/newsweb/na/na-k10015178571000",
         "https://news.web.nhk/newsweb/na/na-k10015178681000",
         "https://news.web.nhk/newsweb/na/na-k10015178711000",
-        "https://news.web.nhk/newsweb/na/na-k10015178651000",
-        "https://news.web.nhk/newsweb/na/na-k10015178671000",
-        "https://news.web.nhk/newsweb/na/na-k10015178621000"
+        "https://news.web.nhk/newsweb/na/na-k10015178651000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/products_made_with_dyneema/",
         "https://www.gizmodo.jp/article/far-east-gadget-typesticks-review-1-zvz/",
         "https://www.gizmodo.jp/article/the-most-expensive-dinosaur-fossil-in-history-is-now-a-t-rex-named-gus/",
         "https://www.gizmodo.jp/article/3coins-sunshade-vzc/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/amazon-primeday-vornado-circulator/",
         "https://www.gizmodo.jp/article/amazon-primday-2026-editors-buy-2/",
         "https://www.gizmodo.jp/article/iwatani-yakimaru2-review-jek/",
-        "https://www.gizmodo.jp/article/philips-carcharger/",
-        "https://www.gizmodo.jp/article/d8b2b7c7-f449-4829-826d-7e805922fb4d/"
+        "https://www.gizmodo.jp/article/philips-carcharger/"
     ]
 }
