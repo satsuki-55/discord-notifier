@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "9krOmzyQlS8",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "sILWMvHdKOc",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cvgq2qr9gxdo#0",
         "https://www.bbc.co.uk/news/articles/cwymly9yd33o#0",
         "https://www.bbc.co.uk/news/articles/cp9errxl97go#0",
         "https://www.bbc.co.uk/news/articles/c4gyg0y6yg2o#0",
@@ -200,8 +201,7 @@
         "https://www.bbc.co.uk/news/videos/cp8e1jm1delo#0",
         "https://www.bbc.co.uk/news/articles/crmrwe84rp2o#0",
         "https://www.bbc.co.uk/news/articles/cx2myxjv172o#0",
-        "https://www.bbc.co.uk/news/articles/cn4n9q538z2o#1",
-        "https://www.bbc.co.uk/news/articles/cddj7e8v767o#1"
+        "https://www.bbc.co.uk/news/articles/cn4n9q538z2o#1"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/na-k10015180621000",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015178451000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/anthropic_claude_new_movie/",
         "https://www.gizmodo.jp/article/oled-ipad-mini-may-launch-by-october/",
         "https://www.gizmodo.jp/article/un-secretary-general-calls-for-global-ban-on-ai-killer-robots/",
         "https://www.gizmodo.jp/article/meditation_hrv_research/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/amazon-primeday-karcher-handy-cleaner/",
         "https://www.gizmodo.jp/article/philips_mobile-battery_dlp4350q_review/",
         "https://www.gizmodo.jp/article/amazon-primeday-ugreen-cable-holder/",
-        "https://www.gizmodo.jp/article/aimdesk-pro-5-re/",
-        "https://www.gizmodo.jp/article/jisulife-handyfan-pro1-s/"
+        "https://www.gizmodo.jp/article/aimdesk-pro-5-re/"
     ]
 }
