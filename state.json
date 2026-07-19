@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/videos/cx25glwll79o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015180851000",
         "https://news.web.nhk/newsweb/na/na-k10015180841000",
         "https://news.web.nhk/newsweb/na/na-k10015180861000",
         "https://news.web.nhk/newsweb/na/na-k10015180791000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015176371000",
         "https://news.web.nhk/newsweb/na/na-k10015176491000",
         "https://news.web.nhk/newsweb/na/na-k10015178541000",
-        "https://news.web.nhk/newsweb/na/na-k10015178721000",
-        "https://news.web.nhk/newsweb/na/na-k10015178571000"
+        "https://news.web.nhk/newsweb/na/na-k10015178721000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/self_checkout_techs/",
