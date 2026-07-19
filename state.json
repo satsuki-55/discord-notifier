@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/videos/clyeydp5vg4o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015180921000",
         "https://news.web.nhk/newsweb/na/na-k10015180941000",
         "https://news.web.nhk/newsweb/na/na-k10015180911000",
         "https://news.web.nhk/newsweb/na/na-k10015176371000",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/na-k10015178691000",
         "https://news.web.nhk/newsweb/na/na-k10015178741000",
         "https://news.web.nhk/newsweb/na/na-k10015176541000",
-        "https://news.web.nhk/newsweb/na/na-k10015178751000",
-        "https://news.web.nhk/newsweb/na/na-k10015178801000"
+        "https://news.web.nhk/newsweb/na/na-k10015178751000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/razer-soma-chroma-chair-review-an-awkward-beginning-to-immersive-furniture/",
         "https://www.gizmodo.jp/article/schoolboys_ai_girlfriends/",
         "https://www.gizmodo.jp/article/crime-prevention_tv_simulator_/",
         "https://www.gizmodo.jp/article/apple-did-it-one-month-with-siri-ai/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/amazon-primeday-finetrack-pro/",
         "https://www.gizmodo.jp/article/olight-oclip-pro-black-friday-vwd/",
         "https://www.gizmodo.jp/article/1e1f09e0-e86a-4874-8c77-df0471e8031a/",
-        "https://www.gizmodo.jp/article/puma_velocity-nitro-5/",
-        "https://www.gizmodo.jp/article/amazon-primeday-anker-nano-docking-station/"
+        "https://www.gizmodo.jp/article/puma_velocity-nitro-5/"
     ]
 }
