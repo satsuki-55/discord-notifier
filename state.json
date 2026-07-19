@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015178571000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/self_checkout_techs/",
         "https://www.gizmodo.jp/article/products_made_with_dyneema/",
         "https://www.gizmodo.jp/article/far-east-gadget-typesticks-review-1-zvz/",
         "https://www.gizmodo.jp/article/the-most-expensive-dinosaur-fossil-in-history-is-now-a-t-rex-named-gus/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/amazon-primeday-anker-nano-docking-station/",
         "https://www.gizmodo.jp/article/amazon-primeday-vornado-circulator/",
         "https://www.gizmodo.jp/article/amazon-primday-2026-editors-buy-2/",
-        "https://www.gizmodo.jp/article/iwatani-yakimaru2-review-jek/",
-        "https://www.gizmodo.jp/article/philips-carcharger/"
+        "https://www.gizmodo.jp/article/iwatani-yakimaru2-review-jek/"
     ]
 }
