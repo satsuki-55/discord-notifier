@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/sport/football/articles/cwyjwdvq6dno#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015180731000",
         "https://news.web.nhk/newsweb/na/na-k10015180711000",
         "https://news.web.nhk/newsweb/na/na-k10015180651000",
         "https://news.web.nhk/newsweb/na/na-k10015180611000",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/na-k10015178611000",
         "https://news.web.nhk/newsweb/na/na-k10015178601000",
         "https://news.web.nhk/newsweb/na/na-k10015178551000",
-        "https://news.web.nhk/newsweb/na/na-k10015178561000",
-        "https://news.web.nhk/newsweb/na/na-k10015178581000"
+        "https://news.web.nhk/newsweb/na/na-k10015178561000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/d62e5d9b-52c8-43bb-ab9d-ce3a7a23469a/",
         "https://www.gizmodo.jp/article/bag_in_box_water/",
         "https://www.gizmodo.jp/article/meteorite-that-crashed-into-new-jersey-home-contains-rare-ingredients-of-life/",
         "https://www.gizmodo.jp/article/b0d4b520-3c52-49c4-bbf3-5fbc1bff663e/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/d8b2b7c7-f449-4829-826d-7e805922fb4d/",
         "https://www.gizmodo.jp/article/shokz-opendots-2-review-a-clip-worth-considering/",
         "https://www.gizmodo.jp/article/amazon-primeday-hdd/",
-        "https://www.gizmodo.jp/article/soundpeats-clip1-review-4bf/",
-        "https://www.gizmodo.jp/article/amazon-primeday-mx-keys-mini/"
+        "https://www.gizmodo.jp/article/soundpeats-clip1-review-4bf/"
     ]
 }
