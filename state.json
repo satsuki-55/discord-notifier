@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015178441000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/next_to_my_car/",
         "https://www.gizmodo.jp/article/ai_burger_recipe/",
         "https://www.gizmodo.jp/article/anthropic_claude_new_movie/",
         "https://www.gizmodo.jp/article/oled-ipad-mini-may-launch-by-october/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/amazon-primeday-mx-keys-mini/",
         "https://www.gizmodo.jp/article/koizumi_kmc-0800_shaver-1/",
         "https://www.gizmodo.jp/article/amazon-primeday-karcher-handy-cleaner/",
-        "https://www.gizmodo.jp/article/philips_mobile-battery_dlp4350q_review/",
-        "https://www.gizmodo.jp/article/amazon-primeday-ugreen-cable-holder/"
+        "https://www.gizmodo.jp/article/philips_mobile-battery_dlp4350q_review/"
     ]
 }
