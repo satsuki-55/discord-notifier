@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cpd7q7eev7po#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015181311000",
         "https://news.web.nhk/newsweb/na/na-k10015181301000",
         "https://news.web.nhk/newsweb/na/na-k10015181321000",
         "https://news.web.nhk/newsweb/na/na-k10015181461000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015173711000",
         "https://news.web.nhk/newsweb/na/na-k10015179341000",
         "https://news.web.nhk/newsweb/na/na-k10015178991000",
-        "https://news.web.nhk/newsweb/na/na-k10015179161000",
-        "https://news.web.nhk/newsweb/na/na-k10015179291000"
+        "https://news.web.nhk/newsweb/na/na-k10015179161000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/utamaro-2-awv/",
