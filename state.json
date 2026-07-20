@@ -2,6 +2,8 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "39PqWWHMb9M",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "sILWMvHdKOc",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c330e0jg6vlo#0",
+        "https://www.bbc.co.uk/news/articles/c62v5dz5zj8o#1",
         "https://www.bbc.co.uk/news/articles/cg7mg4ev8vko#0",
         "https://www.bbc.co.uk/news/articles/cqjxr1wwggno#1",
         "https://www.bbc.co.uk/news/articles/cwyq93j34lgo#0",
@@ -199,9 +201,7 @@
         "https://www.bbc.co.uk/news/articles/cwyjv3815yxo#1",
         "https://www.bbc.co.uk/news/articles/cr59n096mrmo#1",
         "https://www.bbc.co.uk/news/articles/ckgv0zd497zo#0",
-        "https://www.bbc.co.uk/news/articles/c7vg6dml34vo#0",
-        "https://www.bbc.co.uk/news/articles/c9d8ylw60e9o#0",
-        "https://www.bbc.co.uk/news/articles/cy07rz79zg9o#1"
+        "https://www.bbc.co.uk/news/articles/c7vg6dml34vo#0"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/na-k10015178981000",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015179031000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/wd-1856-b/",
         "https://www.gizmodo.jp/article/hmdr_imaging/",
         "https://www.gizmodo.jp/article/hornet-nest-discovered-at-former-nuclear-weapons-factory-bur/",
         "https://www.gizmodo.jp/article/library_robot_romi/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/amazon-primeday-blueair-blue-mini-max/",
         "https://www.gizmodo.jp/article/yet-another-leak-spoils-samsung-galaxy-z-flip-8-colorways/",
         "https://www.gizmodo.jp/article/767f5283-b7ce-4edb-b420-6108f1080cf2/",
-        "https://www.gizmodo.jp/article/cp-plus-synology-nas-1/",
-        "https://www.gizmodo.jp/article/sanwa-supply-desk-mat-felt-material-black/"
+        "https://www.gizmodo.jp/article/cp-plus-synology-nas-1/"
     ]
 }
