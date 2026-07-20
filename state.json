@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c0m70zremezo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015181241000",
         "https://news.web.nhk/newsweb/na/na-k10015181231000",
         "https://news.web.nhk/newsweb/na/na-k10015181211000",
         "https://news.web.nhk/newsweb/na/na-k10015181201000",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/na-k10015179031000",
         "https://news.web.nhk/newsweb/na/na-k10015178941000",
         "https://news.web.nhk/newsweb/na/na-k10015178981000",
-        "https://news.web.nhk/newsweb/na/na-k10015178951000",
-        "https://news.web.nhk/newsweb/na/na-k10015178881000"
+        "https://news.web.nhk/newsweb/na/na-k10015178951000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/library_robot_romi/",
         "https://www.gizmodo.jp/article/er-gk83-bhg/",
         "https://www.gizmodo.jp/article/genesis_ai_eno/",
         "https://www.gizmodo.jp/article/t-professional_car-wacher_review/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/cp-plus-synology-nas-1/",
         "https://www.gizmodo.jp/article/sanwa-supply-desk-mat-felt-material-black/",
         "https://www.gizmodo.jp/article/amazon-primeday-car-wi-fi/",
-        "https://www.gizmodo.jp/article/amazon-bf-cio-qpq/",
-        "https://www.gizmodo.jp/article/7548a0e7-2a73-4389-813a-1ee457002013/"
+        "https://www.gizmodo.jp/article/amazon-bf-cio-qpq/"
     ]
 }
