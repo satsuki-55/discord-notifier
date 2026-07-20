@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "dLHqgYkpQ0g",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "sILWMvHdKOc",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cr7k5ngde3vo#0",
         "https://www.bbc.co.uk/news/videos/cgr701xrg14o#0",
         "https://www.bbc.co.uk/news/articles/cr59mqnm081o#0",
         "https://www.bbc.co.uk/news/articles/cz9l993wj5ko#0",
@@ -200,10 +201,10 @@
         "https://www.bbc.co.uk/news/articles/c62q3ywep1ro#0",
         "https://www.bbc.co.uk/news/articles/cp8xn9exg8yo#0",
         "https://www.bbc.co.uk/news/articles/c151gegwqv1o#0",
-        "https://www.bbc.co.uk/news/articles/crel1g1j957o#0",
-        "https://www.bbc.co.uk/sport/football/articles/cwyjwdvq6dno#1"
+        "https://www.bbc.co.uk/news/articles/crel1g1j957o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015181041000",
         "https://news.web.nhk/newsweb/na/na-k10015181061000",
         "https://news.web.nhk/newsweb/na/na-k10015181071000",
         "https://news.web.nhk/newsweb/na/na-k10015180811000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015178911000",
         "https://news.web.nhk/newsweb/na/na-k10015177141000",
         "https://news.web.nhk/newsweb/na/na-k10015178481000",
-        "https://news.web.nhk/newsweb/na/na-k10015178821000",
-        "https://news.web.nhk/newsweb/na/na-k10015178731000"
+        "https://news.web.nhk/newsweb/na/na-k10015178821000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/xbox-might-have-way-to-win-over-playstation-fans-as-sony-ditches-discs/",
