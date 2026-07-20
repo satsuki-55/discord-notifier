@@ -2,6 +2,8 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "39PqWWHMb9M",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "sILWMvHdKOc",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cx25wg2x26do#0",
+        "https://www.bbc.co.uk/news/articles/cx25wg2x26do#2",
         "https://www.bbc.co.uk/news/articles/cqx7wx4vqv1o#0",
         "https://www.bbc.co.uk/news/articles/c6294y87wk6o#0",
         "https://www.bbc.co.uk/news/articles/cvg9w9dxd7lo#1",
@@ -199,11 +201,10 @@
         "https://www.bbc.co.uk/news/articles/cpd7q7eev7po#0",
         "https://www.bbc.co.uk/news/articles/cwyq93j34lgo#1",
         "https://www.bbc.co.uk/news/articles/cn8nynv8ze8o#0",
-        "https://www.bbc.co.uk/news/articles/cd0xzy2r1m7o#0",
-        "https://www.bbc.co.uk/sport/athletics/articles/cx2jl1wge2po#0",
-        "https://www.bbc.co.uk/news/articles/c304l24m0leo#0"
+        "https://www.bbc.co.uk/news/articles/cd0xzy2r1m7o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015181491000",
         "https://news.web.nhk/newsweb/na/na-k10015181481000",
         "https://news.web.nhk/newsweb/na/na-k10015181471000",
         "https://news.web.nhk/newsweb/na/na-k10015178971000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015141081000",
         "https://news.web.nhk/newsweb/na/na-k10015179271000",
         "https://news.web.nhk/newsweb/na/na-k10015179241000",
-        "https://news.web.nhk/newsweb/na/na-k10015179041000",
-        "https://news.web.nhk/newsweb/na/na-k10015179201000"
+        "https://news.web.nhk/newsweb/na/na-k10015179041000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/utamaro-2-awv/",
