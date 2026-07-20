@@ -2,6 +2,8 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "dLHqgYkpQ0g",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "sILWMvHdKOc",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c07r9m22gyyo#0",
+        "https://www.bbc.co.uk/news/articles/ckg5gg6n9x3o#1",
         "https://www.bbc.co.uk/news/articles/cr7knml2y99o#0",
         "https://www.bbc.co.uk/news/articles/cr7k5ngde3vo#0",
         "https://www.bbc.co.uk/news/videos/cgr701xrg14o#0",
@@ -199,9 +201,7 @@
         "https://www.bbc.co.uk/news/articles/c5y680w62wno#1",
         "https://www.bbc.co.uk/news/articles/czjlyjmrzgro#0",
         "https://www.bbc.co.uk/news/articles/cp3x3487zl9o#0",
-        "https://www.bbc.co.uk/news/articles/c62q3ywep1ro#0",
-        "https://www.bbc.co.uk/news/articles/cp8xn9exg8yo#0",
-        "https://www.bbc.co.uk/news/articles/c151gegwqv1o#0"
+        "https://www.bbc.co.uk/news/articles/c62q3ywep1ro#0"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/na-k10015181081000",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015178481000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/the-ai-voice-assistant-arms-race-is-far-from-over/",
         "https://www.gizmodo.jp/article/xbox-might-have-way-to-win-over-playstation-fans-as-sony-ditches-discs/",
         "https://www.gizmodo.jp/article/moonshot_ai_kimi_k3/",
         "https://www.gizmodo.jp/article/siri-ai-prompts-breaks-when-you-talk-too-long/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/ohlpro-car-tablet-holder/",
         "https://www.gizmodo.jp/article/yibooom-amazon-black-friday-2025-quy/",
         "https://www.gizmodo.jp/article/amazon-primeday-dyson-micro-plus/",
-        "https://www.gizmodo.jp/article/clever_goods_summary/",
-        "https://www.gizmodo.jp/article/newbalance_higt-grade-rebounting-insole-dfe/"
+        "https://www.gizmodo.jp/article/clever_goods_summary/"
     ]
 }
