@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015178901000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/new_browsers-kcg/",
         "https://www.gizmodo.jp/article/the-ai-voice-assistant-arms-race-is-far-from-over/",
         "https://www.gizmodo.jp/article/xbox-might-have-way-to-win-over-playstation-fans-as-sony-ditches-discs/",
         "https://www.gizmodo.jp/article/moonshot_ai_kimi_k3/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/doshisha-gorillanoreibou-dnk/",
         "https://www.gizmodo.jp/article/ohlpro-car-tablet-holder/",
         "https://www.gizmodo.jp/article/yibooom-amazon-black-friday-2025-quy/",
-        "https://www.gizmodo.jp/article/amazon-primeday-dyson-micro-plus/",
-        "https://www.gizmodo.jp/article/clever_goods_summary/"
+        "https://www.gizmodo.jp/article/amazon-primeday-dyson-micro-plus/"
     ]
 }
