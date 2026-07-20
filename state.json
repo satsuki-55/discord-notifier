@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/clyekv7rld3o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015181521000",
         "https://news.web.nhk/newsweb/na/na-k10015181511000",
         "https://news.web.nhk/newsweb/na/na-k10015181501000",
         "https://news.web.nhk/newsweb/na/na-k10015181311000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015179071000",
         "https://news.web.nhk/newsweb/na/na-k10015179061000",
         "https://news.web.nhk/newsweb/na/na-k10015179361000",
-        "https://news.web.nhk/newsweb/na/na-k10015173711000",
-        "https://news.web.nhk/newsweb/na/na-k10015179341000"
+        "https://news.web.nhk/newsweb/na/na-k10015173711000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/das_pod_cd_player/",
