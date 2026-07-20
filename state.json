@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c9d8ylw60e9o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015181331000",
         "https://news.web.nhk/newsweb/na/na-k10015181251000",
         "https://news.web.nhk/newsweb/na/na-k10015178981000",
         "https://news.web.nhk/newsweb/na/na-k10015181271000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015179021000",
         "https://news.web.nhk/newsweb/na/na-k10015174461000",
         "https://news.web.nhk/newsweb/na/na-k10015179011000",
-        "https://news.web.nhk/newsweb/na/na-k10015179001000",
-        "https://news.web.nhk/newsweb/na/na-k10015178961000"
+        "https://news.web.nhk/newsweb/na/na-k10015179001000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/new-study-says-parents-phone-use-might-be-giving-kids-attachment-issues-later-on/",
