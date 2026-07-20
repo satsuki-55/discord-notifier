@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c62122pgjqdo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015181211000",
         "https://news.web.nhk/newsweb/na/na-k10015181201000",
         "https://news.web.nhk/newsweb/na/na-k10015181181000",
         "https://news.web.nhk/newsweb/na/na-k10015181191000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015178981000",
         "https://news.web.nhk/newsweb/na/na-k10015178951000",
         "https://news.web.nhk/newsweb/na/na-k10015178881000",
-        "https://news.web.nhk/newsweb/na/na-k10015176351000",
-        "https://news.web.nhk/newsweb/na/na-k10015178921000"
+        "https://news.web.nhk/newsweb/na/na-k10015176351000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/genesis_ai_eno/",
