@@ -2,6 +2,11 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "39PqWWHMb9M",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "sILWMvHdKOc",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/clyekv7rld3o#0",
+        "https://www.bbc.co.uk/news/articles/cgl3lnpxy6no#0",
+        "https://www.bbc.co.uk/news/articles/cvg9w9dxd7lo#0",
+        "https://www.bbc.co.uk/news/articles/c4gyyx2zg59o#2",
+        "https://www.bbc.co.uk/news/articles/cvg9w9dxd7lo#2",
         "https://www.bbc.co.uk/news/articles/c4gyyx2zg59o#0",
         "https://www.bbc.co.uk/news/articles/cp8714286dpo#0",
         "https://www.bbc.co.uk/news/articles/c89nvnklkpdo#1",
@@ -196,12 +201,7 @@
         "https://www.bbc.co.uk/news/articles/ckgv0zd497zo#1",
         "https://www.bbc.co.uk/news/articles/ce3qw4lq1d7o#0",
         "https://www.bbc.co.uk/news/articles/cjej3dxxg2do#0",
-        "https://www.bbc.co.uk/news/articles/cz64wx8yjjdo#0",
-        "https://www.bbc.co.uk/news/articles/cy748n8zx8ro#0",
-        "https://www.bbc.co.uk/weather/articles/c07rex9p7x2o#0",
-        "https://www.bbc.co.uk/news/articles/clyekv7rld3o#0",
-        "https://www.bbc.co.uk/news/articles/cgl3lnpxy6no#0",
-        "https://www.bbc.co.uk/news/articles/cdr4rrzypymo#0"
+        "https://www.bbc.co.uk/news/articles/cz64wx8yjjdo#0"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/na-k10015181331000",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015179001000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/aqara-camera-hub-g350-review-an-excellent-indoor-matter-camera/",
         "https://www.gizmodo.jp/article/new-study-says-parents-phone-use-might-be-giving-kids-attachment-issues-later-on/",
         "https://www.gizmodo.jp/article/wd-1856-b/",
         "https://www.gizmodo.jp/article/hmdr_imaging/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/amazon-primeday-anker-nano-charger/",
         "https://www.gizmodo.jp/article/inateck-abf20205-xll/",
         "https://www.gizmodo.jp/article/amazon-primeday-blueair-blue-mini-max/",
-        "https://www.gizmodo.jp/article/yet-another-leak-spoils-samsung-galaxy-z-flip-8-colorways/",
-        "https://www.gizmodo.jp/article/767f5283-b7ce-4edb-b420-6108f1080cf2/"
+        "https://www.gizmodo.jp/article/yet-another-leak-spoils-samsung-galaxy-z-flip-8-colorways/"
     ]
 }
