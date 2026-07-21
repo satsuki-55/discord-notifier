@@ -2,6 +2,8 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "o7eQnuF87fA",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "sILWMvHdKOc",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cg7mglmgnvjo#0",
+        "https://www.bbc.co.uk/news/articles/c4gyyx2zg59o#1",
         "https://www.bbc.co.uk/news/articles/cg7mglmgnvjo#1",
         "https://www.bbc.co.uk/news/videos/c8xne47w4v4o#0",
         "https://www.bbc.co.uk/news/articles/cg7mg4ev8vko#1",
@@ -199,11 +201,10 @@
         "https://www.bbc.co.uk/news/articles/ce3q128kn4qo#1",
         "https://www.bbc.co.uk/news/videos/c9q9lw5rql4o#1",
         "https://www.bbc.co.uk/news/articles/cpd3dd3vv65o#0",
-        "https://www.bbc.co.uk/sport/football/articles/cm2g9g3v5gmo#1",
-        "https://www.bbc.co.uk/news/articles/c5ywdl9ne3yo#0",
-        "https://www.bbc.co.uk/news/articles/c78y2q6ve04o#0"
+        "https://www.bbc.co.uk/sport/football/articles/cm2g9g3v5gmo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015181881000",
         "https://news.web.nhk/newsweb/na/na-k10015181711000",
         "https://news.web.nhk/newsweb/na/na-k10015181871000",
         "https://news.web.nhk/newsweb/na/na-k10015181861000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015179591000",
         "https://news.web.nhk/newsweb/na/na-k10015179641000",
         "https://news.web.nhk/newsweb/na/na-k10015179311000",
-        "https://news.web.nhk/newsweb/na/na-k10015179581000",
-        "https://news.web.nhk/newsweb/na/na-k10015179611000"
+        "https://news.web.nhk/newsweb/na/na-k10015179581000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/verily-life-sciences_debug/",
