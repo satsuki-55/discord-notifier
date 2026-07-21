@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/cy9w4q8pgp0o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015181631000",
+        "https://news.web.nhk/newsweb/na/na-k10015179411000",
         "https://news.web.nhk/newsweb/na/na-k10015176901000",
         "https://news.web.nhk/newsweb/na/na-k10015181641000",
         "https://news.web.nhk/newsweb/na/na-k10015179351000",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015179451000",
         "https://news.web.nhk/newsweb/na/na-k10015179511000",
         "https://news.web.nhk/newsweb/na/na-k10015179391000",
-        "https://news.web.nhk/newsweb/na/na-k10015179081000",
-        "https://news.web.nhk/newsweb/na/na-k10015179441000",
-        "https://news.web.nhk/newsweb/na/na-k10015179431000"
+        "https://news.web.nhk/newsweb/na/na-k10015179081000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/why-light-car-is-suitable-fo-me-pdv/",
