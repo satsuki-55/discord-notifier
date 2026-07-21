@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cy8m7k98p3no#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015182191000",
         "https://news.web.nhk/newsweb/na/na-k10015181941000",
         "https://news.web.nhk/newsweb/na/na-k10015182051000",
         "https://news.web.nhk/newsweb/na/na-k10015182101000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015179941000",
         "https://news.web.nhk/newsweb/na/na-k10015179931000",
         "https://news.web.nhk/newsweb/na/na-k10015179921000",
-        "https://news.web.nhk/newsweb/na/na-k10015179911000",
-        "https://news.web.nhk/newsweb/na/na-k10015179901000"
+        "https://news.web.nhk/newsweb/na/na-k10015179911000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/s-meister-the-ghost-in-the-shell/",
