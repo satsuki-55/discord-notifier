@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cpd7q7eev7po#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015181911000",
         "https://news.web.nhk/newsweb/na/na-k10015179311000",
         "https://news.web.nhk/newsweb/na/na-k10015141121000",
         "https://news.web.nhk/newsweb/na/na-k10015181901000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015179751000",
         "https://news.web.nhk/newsweb/na/na-k10015179671000",
         "https://news.web.nhk/newsweb/na/na-k10015179631000",
-        "https://news.web.nhk/newsweb/na/na-k10015179651000",
-        "https://news.web.nhk/newsweb/na/na-k10015179591000"
+        "https://news.web.nhk/newsweb/na/na-k10015179651000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/tesla_fsd_facial-recognition-system/",
