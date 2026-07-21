@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/c4gw9n1kx9do#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015181981000",
+        "https://news.web.nhk/newsweb/na/na-k10015181951000",
         "https://news.web.nhk/newsweb/na/na-k10015181971000",
         "https://news.web.nhk/newsweb/na/na-k10015179631000",
         "https://news.web.nhk/newsweb/na/na-k10015181961000",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015179841000",
         "https://news.web.nhk/newsweb/na/na-k10015179831000",
         "https://news.web.nhk/newsweb/na/na-k10015179811000",
-        "https://news.web.nhk/newsweb/na/na-k10015179801000",
-        "https://news.web.nhk/newsweb/na/na-k10015179681000",
-        "https://news.web.nhk/newsweb/na/na-k10015179711000"
+        "https://news.web.nhk/newsweb/na/na-k10015179801000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/sun-star-stationary_cassettetape-measure/",
