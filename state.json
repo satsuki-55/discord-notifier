@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c62122pgjqdo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015181821000",
         "https://news.web.nhk/newsweb/na/na-k10015181721000",
         "https://news.web.nhk/newsweb/na/na-k10015181731000",
         "https://news.web.nhk/newsweb/na/na-k10015181741000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015179551000",
         "https://news.web.nhk/newsweb/na/na-k10015177271000",
         "https://news.web.nhk/newsweb/na/na-k10015179381000",
-        "https://news.web.nhk/newsweb/na/na-k10015179491000",
-        "https://news.web.nhk/newsweb/na/na-k10015179501000"
+        "https://news.web.nhk/newsweb/na/na-k10015179491000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/brita_cubecool_review/",
