@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "o7eQnuF87fA",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "sILWMvHdKOc",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c20y0we8nz1o#1",
         "https://www.bbc.co.uk/news/articles/cm2gm99nrm7o#0",
         "https://www.bbc.co.uk/news/articles/cyv0vvg1pqdo#0",
         "https://www.bbc.co.uk/news/articles/c74glj9zkzko#0",
@@ -200,10 +201,10 @@
         "https://www.bbc.co.uk/news/articles/c78y2q6ve04o#0",
         "https://www.bbc.co.uk/sport/football/articles/cdx8r45w2gzo#1",
         "https://www.bbc.co.uk/news/articles/cwyj4ppqn41o#0",
-        "https://www.bbc.co.uk/news/articles/clyl3z2xld8o#1",
-        "https://www.bbc.co.uk/news/articles/cx2k76gydreo#0"
+        "https://www.bbc.co.uk/news/articles/clyl3z2xld8o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015181711000",
         "https://news.web.nhk/newsweb/na/na-k10015181871000",
         "https://news.web.nhk/newsweb/na/na-k10015181861000",
         "https://news.web.nhk/newsweb/na/na-k10015181851000",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/na-k10015179641000",
         "https://news.web.nhk/newsweb/na/na-k10015179311000",
         "https://news.web.nhk/newsweb/na/na-k10015179581000",
-        "https://news.web.nhk/newsweb/na/na-k10015179611000",
-        "https://news.web.nhk/newsweb/na/na-k10015179421000"
+        "https://news.web.nhk/newsweb/na/na-k10015179611000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/verily-life-sciences_debug/",
         "https://www.gizmodo.jp/article/cargo-thieves-stole-million-of-data-center-supplies-sheriff-says/",
         "https://www.gizmodo.jp/article/insta360-luna-ultra-design-challenge/",
         "https://www.gizmodo.jp/article/brita_cubecool_review/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/amazon-shell-charger-iiy/",
         "https://www.gizmodo.jp/article/amazon-primeday-microwave-oven-boiled-egg/",
         "https://www.gizmodo.jp/article/amazon-primeday-corona-window-air-conditioner/",
-        "https://www.gizmodo.jp/article/raycue-maclock-gqk/",
-        "https://www.gizmodo.jp/article/amazon-primeday-aqumo-candle/"
+        "https://www.gizmodo.jp/article/raycue-maclock-gqk/"
     ]
 }
