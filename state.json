@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/cn8nldwj12jo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015182281000",
+        "https://news.web.nhk/newsweb/na/na-k10015182221000",
         "https://news.web.nhk/newsweb/na/na-k10015182131000",
         "https://news.web.nhk/newsweb/na/na-k10015182121000",
         "https://news.web.nhk/newsweb/na/na-k10015179621000",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015180051000",
         "https://news.web.nhk/newsweb/na/na-k10015180041000",
         "https://news.web.nhk/newsweb/na/na-k10015179991000",
-        "https://news.web.nhk/newsweb/na/na-k10015179971000",
-        "https://news.web.nhk/newsweb/na/na-k10015179981000",
-        "https://news.web.nhk/newsweb/na/na-k10015179601000"
+        "https://news.web.nhk/newsweb/na/na-k10015179971000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/digi-plus-18-5-inch-quad-display-system/",
