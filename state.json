@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "o7eQnuF87fA",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "sILWMvHdKOc",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/crmrnvl2xw8o#0",
         "https://www.bbc.co.uk/news/articles/cy8mynlmn55o#0",
         "https://www.bbc.co.uk/news/articles/clyv43x372wo#0",
         "https://www.bbc.co.uk/news/articles/c62xzn3j1p2o#0",
@@ -200,10 +201,10 @@
         "https://www.bbc.co.uk/news/articles/c0m70zremezo#1",
         "https://www.bbc.co.uk/news/articles/crmrznw82j4o#1",
         "https://www.bbc.co.uk/news/articles/czrjg0jxkpno#0",
-        "https://www.bbc.co.uk/news/articles/crmrznw82j4o#0",
-        "https://www.bbc.co.uk/news/articles/c4gw9n1kx9do#0"
+        "https://www.bbc.co.uk/news/articles/crmrznw82j4o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015182011000",
         "https://news.web.nhk/newsweb/na/na-k10015182001000",
         "https://news.web.nhk/newsweb/na/na-k10015181991000",
         "https://news.web.nhk/newsweb/na/na-k10015181981000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015179891000",
         "https://news.web.nhk/newsweb/na/na-k10015179851000",
         "https://news.web.nhk/newsweb/na/na-k10015179761000",
-        "https://news.web.nhk/newsweb/na/na-k10015179841000",
-        "https://news.web.nhk/newsweb/na/na-k10015179831000"
+        "https://news.web.nhk/newsweb/na/na-k10015179841000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/amazon-logos-ice-pack/",
