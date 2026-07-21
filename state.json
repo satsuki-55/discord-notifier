@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/cwyj4ppqn41o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015182101000",
+        "https://news.web.nhk/newsweb/na/na-k10015182041000",
         "https://news.web.nhk/newsweb/na/na-k10015182031000",
         "https://news.web.nhk/newsweb/na/na-k10015182011000",
         "https://news.web.nhk/newsweb/na/na-k10015182001000",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015179911000",
         "https://news.web.nhk/newsweb/na/na-k10015179901000",
         "https://news.web.nhk/newsweb/na/na-k10015177511000",
-        "https://news.web.nhk/newsweb/na/na-k10015179891000",
-        "https://news.web.nhk/newsweb/na/na-k10015179851000",
-        "https://news.web.nhk/newsweb/na/na-k10015179761000"
+        "https://news.web.nhk/newsweb/na/na-k10015179891000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/thank-god-macos-golden-gates-siri-is-a-terse-idiot/",
