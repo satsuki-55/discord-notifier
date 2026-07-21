@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "o7eQnuF87fA",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "sILWMvHdKOc",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cjwxll8jyz8o#0",
         "https://www.bbc.co.uk/news/articles/c20yz9v1llro#1",
         "https://www.bbc.co.uk/news/articles/c2lqdd44d0do#0",
         "https://www.bbc.co.uk/news/articles/cqjxzzdrl4lo#0",
@@ -200,10 +201,10 @@
         "https://www.bbc.co.uk/news/articles/c982857nlrlo#0",
         "https://www.bbc.co.uk/news/articles/cx2k77p2r1xo#0",
         "https://www.bbc.co.uk/news/articles/cq56e9n1ddzo#1",
-        "https://www.bbc.co.uk/news/articles/cvgq2qr9gxdo#2",
-        "https://www.bbc.co.uk/weather/articles/cgmkglwnk08o#0"
+        "https://www.bbc.co.uk/news/articles/cvgq2qr9gxdo#2"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015181811000",
         "https://news.web.nhk/newsweb/na/na-k10015181821000",
         "https://news.web.nhk/newsweb/na/na-k10015181721000",
         "https://news.web.nhk/newsweb/na/na-k10015181731000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015179571000",
         "https://news.web.nhk/newsweb/na/na-k10015179551000",
         "https://news.web.nhk/newsweb/na/na-k10015177271000",
-        "https://news.web.nhk/newsweb/na/na-k10015179381000",
-        "https://news.web.nhk/newsweb/na/na-k10015179491000"
+        "https://news.web.nhk/newsweb/na/na-k10015179381000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/insta360-luna-ultra-design-challenge/",
