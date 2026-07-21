@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "o7eQnuF87fA",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "sILWMvHdKOc",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cn7nllr4vd6o#0",
         "https://www.bbc.co.uk/news/articles/c70gek2kqyno#0",
         "https://www.bbc.co.uk/news/articles/cvgwp513jpvo#0",
         "https://www.bbc.co.uk/sport/football/articles/cy8enwn2xq4o#0",
@@ -200,8 +201,7 @@
         "https://www.bbc.co.uk/news/articles/cpv3eky4w2do#0",
         "https://www.bbc.co.uk/news/articles/c4gw9n1kx9do#1",
         "https://www.bbc.co.uk/sport/football/videos/cddj0m5pzglo#0",
-        "https://www.bbc.co.uk/news/articles/cj63kngxpxpo#0",
-        "https://www.bbc.co.uk/news/articles/cn8nldwj12jo#0"
+        "https://www.bbc.co.uk/news/articles/cj63kngxpxpo#0"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/na-k10015182281000",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015179971000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/aulgo/",
         "https://www.gizmodo.jp/article/digi-plus-18-5-inch-quad-display-system/",
         "https://www.gizmodo.jp/article/about-credit-card-gvn-ufe/",
         "https://www.gizmodo.jp/article/s-meister-the-ghost-in-the-shell/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/amazon-primeday-panasonic-body-trimmer/",
         "https://www.gizmodo.jp/article/amazon-primeday-apple-products-0713/",
         "https://www.gizmodo.jp/article/bubble-frame_pc-case/",
-        "https://www.gizmodo.jp/article/elecom-mobile-battery-ec-c58mn-act3/",
-        "https://www.gizmodo.jp/article/dr-air-exagun-pocket/"
+        "https://www.gizmodo.jp/article/elecom-mobile-battery-ec-c58mn-act3/"
     ]
 }
