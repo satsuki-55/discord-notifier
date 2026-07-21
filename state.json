@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cpd3dd3vv65o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015181941000",
         "https://news.web.nhk/newsweb/na/na-k10015182051000",
         "https://news.web.nhk/newsweb/na/na-k10015182101000",
         "https://news.web.nhk/newsweb/na/na-k10015182041000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015179931000",
         "https://news.web.nhk/newsweb/na/na-k10015179921000",
         "https://news.web.nhk/newsweb/na/na-k10015179911000",
-        "https://news.web.nhk/newsweb/na/na-k10015179901000",
-        "https://news.web.nhk/newsweb/na/na-k10015177511000"
+        "https://news.web.nhk/newsweb/na/na-k10015179901000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/astronomers-detect-sugar-in-interstellar-space-for-the-first-time/",
