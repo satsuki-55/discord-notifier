@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/sport/football/articles/c4g34gjmyl7o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015181531000",
         "https://news.web.nhk/newsweb/na/na-k10015181541000",
         "https://news.web.nhk/newsweb/na/na-k10015181551000",
         "https://news.web.nhk/newsweb/na/na-k10015173711000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015179281000",
         "https://news.web.nhk/newsweb/na/na-k10015179101000",
         "https://news.web.nhk/newsweb/na/na-k10015179331000",
-        "https://news.web.nhk/newsweb/na/na-k10015179211000",
-        "https://news.web.nhk/newsweb/na/na-k10015179261000"
+        "https://news.web.nhk/newsweb/na/na-k10015179211000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/tesla-balance-bike-for-kids/",
