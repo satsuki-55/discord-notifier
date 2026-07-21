@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c20d4j4v9g9o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015182271000",
         "https://news.web.nhk/newsweb/na/na-k10015182081000",
         "https://news.web.nhk/newsweb/na/na-k10015182061000",
         "https://news.web.nhk/newsweb/na/na-k10015182091000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015179691000",
         "https://news.web.nhk/newsweb/na/na-k10015179871000",
         "https://news.web.nhk/newsweb/na/na-k10015179731000",
-        "https://news.web.nhk/newsweb/na/na-k10015179861000",
-        "https://news.web.nhk/newsweb/na/na-k10015179771000"
+        "https://news.web.nhk/newsweb/na/na-k10015179861000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/about-credit-card-gvn-ufe/",
