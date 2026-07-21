@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/cy9w4q8pgp0o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015176901000",
+        "https://news.web.nhk/newsweb/na/na-k10015181641000",
         "https://news.web.nhk/newsweb/na/na-k10015179351000",
         "https://news.web.nhk/newsweb/na/na-k10015179281000",
         "https://news.web.nhk/newsweb/na/na-k10015181611000",
@@ -401,11 +403,10 @@
         "https://news.web.nhk/newsweb/na/na-k10015179391000",
         "https://news.web.nhk/newsweb/na/na-k10015179081000",
         "https://news.web.nhk/newsweb/na/na-k10015179441000",
-        "https://news.web.nhk/newsweb/na/na-k10015179431000",
-        "https://news.web.nhk/newsweb/na/na-k10015179411000",
-        "https://news.web.nhk/newsweb/na/na-k10015176901000"
+        "https://news.web.nhk/newsweb/na/na-k10015179431000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/why-light-car-is-suitable-fo-me-pdv/",
         "https://www.gizmodo.jp/article/motorola-edge-70-max/",
         "https://www.gizmodo.jp/article/tesla-balance-bike-for-kids/",
         "https://www.gizmodo.jp/article/scientists-say-this-climate-hack-could-stop-el-nino-before-it-starts/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/iodata-512gb-slimssd-1/",
         "https://www.gizmodo.jp/article/cio-smartcoby-ex05/",
         "https://www.gizmodo.jp/article/elecom-earpods-cover-202607/",
-        "https://www.gizmodo.jp/article/amazon-primeday-shell-usb-charger/",
-        "https://www.gizmodo.jp/article/the-next-xbox-cant-afford-to-fail/"
+        "https://www.gizmodo.jp/article/amazon-primeday-shell-usb-charger/"
     ]
 }
