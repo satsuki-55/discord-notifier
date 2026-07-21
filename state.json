@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cy9w4q8pgp0o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015181561000",
         "https://news.web.nhk/newsweb/na/na-k10015181701000",
         "https://news.web.nhk/newsweb/na/na-k10015181691000",
         "https://news.web.nhk/newsweb/na/na-k10015181681000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015179501000",
         "https://news.web.nhk/newsweb/na/na-k10015179471000",
         "https://news.web.nhk/newsweb/na/na-k10015179521000",
-        "https://news.web.nhk/newsweb/na/na-k10015179481000",
-        "https://news.web.nhk/newsweb/na/na-k10015179531000"
+        "https://news.web.nhk/newsweb/na/na-k10015179481000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/finally-a-robot-designed-to-make-chatting-with-mark-zuckerberg-feel-natural/",
