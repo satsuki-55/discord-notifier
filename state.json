@@ -2,6 +2,8 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "o7eQnuF87fA",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "sILWMvHdKOc",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c5yw85q18njo#0",
+        "https://www.bbc.co.uk/news/articles/cj9djljr43lo#1",
         "https://www.bbc.co.uk/news/articles/crmrnvl2xw8o#0",
         "https://www.bbc.co.uk/news/articles/cy8mynlmn55o#0",
         "https://www.bbc.co.uk/news/articles/clyv43x372wo#0",
@@ -199,11 +201,10 @@
         "https://www.bbc.co.uk/news/articles/cy8m7k98p3no#0",
         "https://www.bbc.co.uk/news/articles/cqjxr1wwggno#0",
         "https://www.bbc.co.uk/news/articles/c0m70zremezo#1",
-        "https://www.bbc.co.uk/news/articles/crmrznw82j4o#1",
-        "https://www.bbc.co.uk/news/articles/czrjg0jxkpno#0",
-        "https://www.bbc.co.uk/news/articles/crmrznw82j4o#0"
+        "https://www.bbc.co.uk/news/articles/crmrznw82j4o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015182031000",
         "https://news.web.nhk/newsweb/na/na-k10015182011000",
         "https://news.web.nhk/newsweb/na/na-k10015182001000",
         "https://news.web.nhk/newsweb/na/na-k10015181991000",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/na-k10015177511000",
         "https://news.web.nhk/newsweb/na/na-k10015179891000",
         "https://news.web.nhk/newsweb/na/na-k10015179851000",
-        "https://news.web.nhk/newsweb/na/na-k10015179761000",
-        "https://news.web.nhk/newsweb/na/na-k10015179841000"
+        "https://news.web.nhk/newsweb/na/na-k10015179761000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/thank-god-macos-golden-gates-siri-is-a-terse-idiot/",
         "https://www.gizmodo.jp/article/amazon-logos-ice-pack/",
         "https://www.gizmodo.jp/article/sun-star-stationary_cassettetape-measure/",
         "https://www.gizmodo.jp/article/an-unholy-union-of-smart-glasses-and-wireless-earbuds-is-upon-us/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/beyerdynamic/",
         "https://www.gizmodo.jp/article/amazon-primeday-wf-1000mx5/",
         "https://www.gizmodo.jp/article/snowprak_tubuhozuki_review-itf/",
-        "https://www.gizmodo.jp/article/triple_force_3/",
-        "https://www.gizmodo.jp/article/amazon-primeday-ajinomoto-protein/"
+        "https://www.gizmodo.jp/article/triple_force_3/"
     ]
 }
