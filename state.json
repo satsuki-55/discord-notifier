@@ -2,6 +2,9 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "IP_CJYPU4TQ",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "sILWMvHdKOc",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cp9en982n3do#0",
+        "https://www.bbc.co.uk/news/articles/cd7lnl9jzgyo#1",
+        "https://www.bbc.co.uk/news/articles/cvgwp513jpvo#1",
         "https://www.bbc.co.uk/news/articles/c36d0njy7jjo#0",
         "https://www.bbc.co.uk/news/articles/cm2glm5r185o#0",
         "https://www.bbc.co.uk/news/articles/cn0nxe1g3xxo#0",
@@ -198,12 +201,10 @@
         "https://www.bbc.co.uk/news/articles/cdr4rrzypymo#1",
         "https://www.bbc.co.uk/sport/football/articles/c2lyl82n2e2o#1",
         "https://www.bbc.co.uk/news/articles/c3r0x5nzg0eo#1",
-        "https://www.bbc.co.uk/news/articles/c89nvnklkpdo#2",
-        "https://www.bbc.co.uk/news/articles/c07y77exx8eo#0",
-        "https://www.bbc.co.uk/sport/football/articles/c2lyl82n2e2o#0",
-        "https://www.bbc.co.uk/news/articles/c4gvpv3ewv2o#0"
+        "https://www.bbc.co.uk/news/articles/c89nvnklkpdo#2"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015182761000",
         "https://news.web.nhk/newsweb/na/na-k10015183001000",
         "https://news.web.nhk/newsweb/na/na-k10015182981000",
         "https://news.web.nhk/newsweb/na/na-k10015182991000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015180651000",
         "https://news.web.nhk/newsweb/na/na-k10015180611000",
         "https://news.web.nhk/newsweb/na/na-k10015180691000",
-        "https://news.web.nhk/newsweb/na/na-k10015180681000",
-        "https://news.web.nhk/newsweb/na/na-k10015180671000"
+        "https://news.web.nhk/newsweb/na/na-k10015180681000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/lenovo-ideapad-slim-5x-gen-11-review-solid-arm-at-a-budget-price/",
