@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c62v5dz5zj8o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015182701000",
         "https://news.web.nhk/newsweb/na/na-k10015182661000",
         "https://news.web.nhk/newsweb/na/na-k10015182651000",
         "https://news.web.nhk/newsweb/na/na-k10015182641000",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/na-k10015180371000",
         "https://news.web.nhk/newsweb/na/na-k10015180391000",
         "https://news.web.nhk/newsweb/na/na-k10015180331000",
-        "https://news.web.nhk/newsweb/na/na-k10015180311000",
-        "https://news.web.nhk/newsweb/na/na-k10015180321000"
+        "https://news.web.nhk/newsweb/na/na-k10015180311000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/horological-machine-n12/",
         "https://www.gizmodo.jp/article/freedom-trax/",
         "https://www.gizmodo.jp/article/2508-gold-price-today-forecast-goldman-sachs-manhattan-real-estate-comparison-myx/",
         "https://www.gizmodo.jp/article/air-y-air--y-pro/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/ricoh-gr-iv-30th-anniversary-edition-releace/",
         "https://www.gizmodo.jp/article/amazon-prime-day-hakoake-sip/",
         "https://www.gizmodo.jp/article/sabae-glasses-cloth/",
-        "https://www.gizmodo.jp/article/polar-street-x-oml/",
-        "https://www.gizmodo.jp/article/torras-ostand-q3-air-03/"
+        "https://www.gizmodo.jp/article/polar-street-x-oml/"
     ]
 }
