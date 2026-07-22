@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/cp8714286dpo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015182901000",
+        "https://news.web.nhk/newsweb/na/na-k10015182911000",
         "https://news.web.nhk/newsweb/na/na-k10015182931000",
         "https://news.web.nhk/newsweb/na/na-k10015180401000",
         "https://news.web.nhk/newsweb/na/na-k10015182891000",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015180641000",
         "https://news.web.nhk/newsweb/na/na-k10015180411000",
         "https://news.web.nhk/newsweb/na/na-k10015180621000",
-        "https://news.web.nhk/newsweb/na/na-k10015180601000",
-        "https://news.web.nhk/newsweb/na/na-k10015180541000",
-        "https://news.web.nhk/newsweb/na/na-k10015180481000"
+        "https://news.web.nhk/newsweb/na/na-k10015180601000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/kashimura_fan-with-fully-adjustable-angle/",
