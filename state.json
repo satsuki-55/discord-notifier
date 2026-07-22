@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "IP_CJYPU4TQ",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "sILWMvHdKOc",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cm2glm5r185o#0",
         "https://www.bbc.co.uk/news/articles/cn0nxe1g3xxo#0",
         "https://www.bbc.co.uk/news/articles/c0ejwedl1gno#0",
         "https://www.bbc.co.uk/news/articles/cp9ezldrkkgo#0",
@@ -200,10 +201,11 @@
         "https://www.bbc.co.uk/news/articles/c07y77exx8eo#0",
         "https://www.bbc.co.uk/sport/football/articles/c2lyl82n2e2o#0",
         "https://www.bbc.co.uk/news/articles/c4gvpv3ewv2o#0",
-        "https://www.bbc.co.uk/news/articles/cx25nzkyj50o#0",
-        "https://www.bbc.co.uk/news/articles/cx2jnj3428lo#1"
+        "https://www.bbc.co.uk/news/articles/cx25nzkyj50o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015182981000",
+        "https://news.web.nhk/newsweb/na/na-k10015182991000",
         "https://news.web.nhk/newsweb/na/na-k10015182971000",
         "https://news.web.nhk/newsweb/na/na-k10015182951000",
         "https://news.web.nhk/newsweb/na/na-k10015182901000",
@@ -401,11 +403,10 @@
         "https://news.web.nhk/newsweb/na/na-k10015180691000",
         "https://news.web.nhk/newsweb/na/na-k10015180681000",
         "https://news.web.nhk/newsweb/na/na-k10015180671000",
-        "https://news.web.nhk/newsweb/na/na-k10015180661000",
-        "https://news.web.nhk/newsweb/na/na-k10015180641000",
-        "https://news.web.nhk/newsweb/na/na-k10015180411000"
+        "https://news.web.nhk/newsweb/na/na-k10015180661000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/f27b324a-b2a3-47f1-8e18-630ad1feed0c/",
         "https://www.gizmodo.jp/article/apple-plans-to-defeat-ram-prices-by-letting-you-lease-a-mac/",
         "https://www.gizmodo.jp/article/yamazen-portable-refrigerator/",
         "https://www.gizmodo.jp/article/kashimura_fan-with-fully-adjustable-angle/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/swerv/",
         "https://www.gizmodo.jp/article/o-one-can-afford-to-buy-hardware-so-nvidia-made-trading-cards-to-reminisce-about-the-good-times/",
         "https://www.gizmodo.jp/article/xbox-hits-reset-button-with-thousands-of-job-cuts-and-game-studio-spin-offs/",
-        "https://www.gizmodo.jp/article/flexispot-polyurethane-chair-wheels/",
-        "https://www.gizmodo.jp/article/apple_broadcom_madeinusa/"
+        "https://www.gizmodo.jp/article/flexispot-polyurethane-chair-wheels/"
     ]
 }
