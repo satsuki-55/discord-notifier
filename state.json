@@ -2,6 +2,8 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "IP_CJYPU4TQ",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "sILWMvHdKOc",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cn7nr7p323vo#0",
+        "https://www.bbc.co.uk/news/articles/c93487x97kyo#1",
         "https://www.bbc.co.uk/news/articles/cgjxqg08q82o#0",
         "https://www.bbc.co.uk/news/articles/cp9ezldrkkgo#1",
         "https://www.bbc.co.uk/news/articles/cglj9685nj0o#1",
@@ -199,11 +201,10 @@
         "https://www.bbc.co.uk/news/articles/c9357rlk494o#1",
         "https://www.bbc.co.uk/news/articles/c9357rlk494o#0",
         "https://www.bbc.co.uk/news/articles/crkvj0ngzexo#1",
-        "https://www.bbc.co.uk/news/articles/c3d3ejgdm20o#0",
-        "https://www.bbc.co.uk/news/articles/cwyr5rpglngo#0",
-        "https://www.bbc.co.uk/news/articles/c7vg3geg3qmo#1"
+        "https://www.bbc.co.uk/news/articles/c3d3ejgdm20o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015183151000",
         "https://news.web.nhk/newsweb/na/na-k10015183171000",
         "https://news.web.nhk/newsweb/na/na-k10015182761000",
         "https://news.web.nhk/newsweb/na/na-k10015183001000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015180731000",
         "https://news.web.nhk/newsweb/na/na-k10015180711000",
         "https://news.web.nhk/newsweb/na/na-k10015180651000",
-        "https://news.web.nhk/newsweb/na/na-k10015180611000",
-        "https://news.web.nhk/newsweb/na/na-k10015180691000"
+        "https://news.web.nhk/newsweb/na/na-k10015180611000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/galaxy-watch-ultra2/",
