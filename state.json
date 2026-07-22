@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "IP_CJYPU4TQ",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "sILWMvHdKOc",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c78gljynx3xo#1",
         "https://www.bbc.co.uk/news/articles/c89nxj4d5pqo#0",
         "https://www.bbc.co.uk/news/articles/c36de9n4pxpo#0",
         "https://www.bbc.co.uk/news/articles/c4g4lyze30vo#1",
@@ -200,10 +201,10 @@
         "https://www.bbc.co.uk/news/articles/c9d8l88jnwvo#1",
         "https://www.bbc.co.uk/news/articles/cp9ezldrkkgo#0",
         "https://www.bbc.co.uk/news/articles/cp9ezldrkkgo#1",
-        "https://www.bbc.co.uk/news/articles/cj9djljr43lo#0",
-        "https://www.bbc.co.uk/news/articles/c78glnk524lo#1"
+        "https://www.bbc.co.uk/news/articles/cj9djljr43lo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015182621000",
         "https://news.web.nhk/newsweb/na/na-k10015182591000",
         "https://news.web.nhk/newsweb/na/na-k10015141131000",
         "https://news.web.nhk/newsweb/na/na-k10015182701000",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/na-k10015178151000",
         "https://news.web.nhk/newsweb/na/na-k10015180281000",
         "https://news.web.nhk/newsweb/na/na-k10015180381000",
-        "https://news.web.nhk/newsweb/na/na-k10015180371000",
-        "https://news.web.nhk/newsweb/na/na-k10015180391000"
+        "https://news.web.nhk/newsweb/na/na-k10015180371000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/snow-peak-insect-shield-mesh-ls-t-shirt-ktj/",
         "https://www.gizmodo.jp/article/horological-machine-n12/",
         "https://www.gizmodo.jp/article/freedom-trax/",
         "https://www.gizmodo.jp/article/2508-gold-price-today-forecast-goldman-sachs-manhattan-real-estate-comparison-myx/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/the-iphone-18-pro-max-could-get-a-mega-battery-upgrade/",
         "https://www.gizmodo.jp/article/ricoh-gr-iv-30th-anniversary-edition-releace/",
         "https://www.gizmodo.jp/article/amazon-prime-day-hakoake-sip/",
-        "https://www.gizmodo.jp/article/sabae-glasses-cloth/",
-        "https://www.gizmodo.jp/article/polar-street-x-oml/"
+        "https://www.gizmodo.jp/article/sabae-glasses-cloth/"
     ]
 }
