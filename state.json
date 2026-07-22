@@ -2,6 +2,8 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "IP_CJYPU4TQ",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "sILWMvHdKOc",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/ce34yr1ppw3o#0",
+        "https://www.bbc.co.uk/news/articles/cp871g996qno#1",
         "https://www.bbc.co.uk/news/articles/cm2ge7z0708o#0",
         "https://www.bbc.co.uk/news/articles/cy5d36e752yo#0",
         "https://www.bbc.co.uk/news/articles/cdrv0p37k8jo#1",
@@ -199,11 +201,11 @@
         "https://www.bbc.co.uk/news/articles/c0jl839j6z3o#1",
         "https://www.bbc.co.uk/news/articles/cx2jnj3428lo#2",
         "https://www.bbc.co.uk/news/videos/cd0xgxgz135o#1",
-        "https://www.bbc.co.uk/news/articles/cx2jnj3428lo#0",
-        "https://www.bbc.co.uk/news/articles/clyq6vqx39zo#3",
-        "https://www.bbc.co.uk/news/articles/c07r9m22gyyo#1"
+        "https://www.bbc.co.uk/news/articles/cx2jnj3428lo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015182841000",
+        "https://news.web.nhk/newsweb/na/na-k10015182821000",
         "https://news.web.nhk/newsweb/na/na-k10015182791000",
         "https://news.web.nhk/newsweb/na/na-k10015182781000",
         "https://news.web.nhk/newsweb/na/na-k10015182741000",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015180431000",
         "https://news.web.nhk/newsweb/na/na-k10015141091000",
         "https://news.web.nhk/newsweb/na/na-k10015180421000",
-        "https://news.web.nhk/newsweb/na/na-k10015180291000",
-        "https://news.web.nhk/newsweb/na/na-k10015180361000",
-        "https://news.web.nhk/newsweb/na/na-k10015180441000"
+        "https://news.web.nhk/newsweb/na/na-k10015180291000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/ecowin_water-fgg/",
