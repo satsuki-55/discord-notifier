@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cz9l993wj5ko#3"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015182591000",
         "https://news.web.nhk/newsweb/na/na-k10015141131000",
         "https://news.web.nhk/newsweb/na/na-k10015182701000",
         "https://news.web.nhk/newsweb/na/na-k10015182661000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015180281000",
         "https://news.web.nhk/newsweb/na/na-k10015180381000",
         "https://news.web.nhk/newsweb/na/na-k10015180371000",
-        "https://news.web.nhk/newsweb/na/na-k10015180391000",
-        "https://news.web.nhk/newsweb/na/na-k10015180331000"
+        "https://news.web.nhk/newsweb/na/na-k10015180391000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/horological-machine-n12/",
