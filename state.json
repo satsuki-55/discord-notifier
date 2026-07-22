@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015180201000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/freedom-trax/",
         "https://www.gizmodo.jp/article/2508-gold-price-today-forecast-goldman-sachs-manhattan-real-estate-comparison-myx/",
         "https://www.gizmodo.jp/article/air-y-air--y-pro/",
         "https://www.gizmodo.jp/article/samusun-galaxy-unpacked-2026/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/amazon-prime-day-hakoake-sip/",
         "https://www.gizmodo.jp/article/sabae-glasses-cloth/",
         "https://www.gizmodo.jp/article/polar-street-x-oml/",
-        "https://www.gizmodo.jp/article/torras-ostand-q3-air-03/",
-        "https://www.gizmodo.jp/article/amazon-primeday-soudcore-aeroclip/"
+        "https://www.gizmodo.jp/article/torras-ostand-q3-air-03/"
     ]
 }
