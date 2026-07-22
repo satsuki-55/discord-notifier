@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "IP_CJYPU4TQ",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "sILWMvHdKOc",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cy5d36e752yo#1",
         "https://www.bbc.co.uk/news/articles/cj03r59z73po#0",
         "https://www.bbc.co.uk/news/articles/clyv4y3xdvgo#0",
         "https://www.bbc.co.uk/news/articles/cp9en982n3do#0",
@@ -200,8 +201,7 @@
         "https://www.bbc.co.uk/news/articles/c7vg3geg3qmo#1",
         "https://www.bbc.co.uk/news/articles/c6212klngkko#0",
         "https://www.bbc.co.uk/news/articles/c20y0we8nz1o#0",
-        "https://www.bbc.co.uk/news/articles/cdr4rrzypymo#1",
-        "https://www.bbc.co.uk/sport/football/articles/c2lyl82n2e2o#1"
+        "https://www.bbc.co.uk/news/articles/cdr4rrzypymo#1"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/na-k10015182761000",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015180681000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/galaxy-z-fold8-ultra/",
         "https://www.gizmodo.jp/article/galaxy-z-fold8/",
         "https://www.gizmodo.jp/article/lenovo-ideapad-slim-5x-gen-11-review-solid-arm-at-a-budget-price/",
         "https://www.gizmodo.jp/article/f27b324a-b2a3-47f1-8e18-630ad1feed0c/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/sugihara-sangyo-rubber-coated-magnet/",
         "https://www.gizmodo.jp/article/leap-seconds-were-a-headache-now-timekeepers-are-considering-a-leap-hour/",
         "https://www.gizmodo.jp/article/chatgpt_work_handson/",
-        "https://www.gizmodo.jp/article/swerv/",
-        "https://www.gizmodo.jp/article/o-one-can-afford-to-buy-hardware-so-nvidia-made-trading-cards-to-reminisce-about-the-good-times/"
+        "https://www.gizmodo.jp/article/swerv/"
     ]
 }
