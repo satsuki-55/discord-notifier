@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/cr474z1qyn6o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015182381000",
+        "https://news.web.nhk/newsweb/na/na-k10015182421000",
         "https://news.web.nhk/newsweb/na/na-k10015182401000",
         "https://news.web.nhk/newsweb/na/na-k10015182341000",
         "https://news.web.nhk/newsweb/na/na-k10015182331000",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015180171000",
         "https://news.web.nhk/newsweb/na/na-k10015180151000",
         "https://news.web.nhk/newsweb/na/na-k10015180141000",
-        "https://news.web.nhk/newsweb/na/na-k10015180131000",
-        "https://news.web.nhk/newsweb/na/na-k10015180121000",
-        "https://news.web.nhk/newsweb/na/na-k10015180111000"
+        "https://news.web.nhk/newsweb/na/na-k10015180131000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/why-this-part-of-antarctica-bleeds-blood-red-m4d-jok/",
