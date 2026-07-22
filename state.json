@@ -2,6 +2,8 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "o7eQnuF87fA",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "sILWMvHdKOc",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cdx8vw5k2x8o#0",
+        "https://www.bbc.co.uk/news/articles/cglj9685nj0o#0",
         "https://www.bbc.co.uk/news/articles/cpv3eky4w2do#0",
         "https://www.bbc.co.uk/news/articles/c93487x97kyo#0",
         "https://www.bbc.co.uk/news/articles/c5y045vprg5o#0",
@@ -199,9 +201,7 @@
         "https://www.bbc.co.uk/news/articles/cly52xzjd3qo#1",
         "https://www.bbc.co.uk/news/articles/cvg0xlrvv4mo#1",
         "https://www.bbc.co.uk/news/articles/cr7k5ngde3vo#1",
-        "https://www.bbc.co.uk/news/articles/cj63kngxpxpo#1",
-        "https://www.bbc.co.uk/news/articles/cvg0xlrvv4mo#0",
-        "https://www.bbc.co.uk/news/articles/crkvj0ngzexo#0"
+        "https://www.bbc.co.uk/news/articles/cj63kngxpxpo#1"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/na-k10015182301000",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015180041000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/someone-paid-almost-1-million-for-jensen-huangs-leather-jacket-and-should-be-executed-by-swirlie/",
         "https://www.gizmodo.jp/article/aulgo/",
         "https://www.gizmodo.jp/article/digi-plus-18-5-inch-quad-display-system/",
         "https://www.gizmodo.jp/article/about-credit-card-gvn-ufe/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/e6a4ea1f-ad88-4235-b4bd-219b3789dfba/",
         "https://www.gizmodo.jp/article/amazon-primeday-panasonic-body-trimmer/",
         "https://www.gizmodo.jp/article/amazon-primeday-apple-products-0713/",
-        "https://www.gizmodo.jp/article/bubble-frame_pc-case/",
-        "https://www.gizmodo.jp/article/elecom-mobile-battery-ec-c58mn-act3/"
+        "https://www.gizmodo.jp/article/bubble-frame_pc-case/"
     ]
 }
