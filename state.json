@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/cvg0xlrvv4mo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015182331000",
+        "https://news.web.nhk/newsweb/na/na-k10015182321000",
         "https://news.web.nhk/newsweb/na/na-k10015182311000",
         "https://news.web.nhk/newsweb/na/na-k10015182241000",
         "https://news.web.nhk/newsweb/na/na-k10015182291000",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015180121000",
         "https://news.web.nhk/newsweb/na/na-k10015180111000",
         "https://news.web.nhk/newsweb/na/na-k10015180101000",
-        "https://news.web.nhk/newsweb/na/na-k10015180091000",
-        "https://news.web.nhk/newsweb/na/na-k10015180061000",
-        "https://news.web.nhk/newsweb/na/na-k10015180081000"
+        "https://news.web.nhk/newsweb/na/na-k10015180091000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/someone-paid-almost-1-million-for-jensen-huangs-leather-jacket-and-should-be-executed-by-swirlie/",
