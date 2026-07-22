@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c20d4j4v9g9o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015182451000",
         "https://news.web.nhk/newsweb/na/na-k10015182431000",
         "https://news.web.nhk/newsweb/na/na-k10015182381000",
         "https://news.web.nhk/newsweb/na/na-k10015182421000",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/na-k10015180221000",
         "https://news.web.nhk/newsweb/na/na-k10015180161000",
         "https://news.web.nhk/newsweb/na/na-k10015180171000",
-        "https://news.web.nhk/newsweb/na/na-k10015180151000",
-        "https://news.web.nhk/newsweb/na/na-k10015180141000"
+        "https://news.web.nhk/newsweb/na/na-k10015180151000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/a-gaming-tablet-with-liquid-cooling-actually-makes-sense/",
         "https://www.gizmodo.jp/article/why-this-part-of-antarctica-bleeds-blood-red-m4d-jok/",
         "https://www.gizmodo.jp/article/this-years-budget-pixel-might-be-less-of-a-cop-out/",
         "https://www.gizmodo.jp/article/discs-arent-dead-quite-yet-apparently/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/amazon-edmi-buds-8-lite-jfg/",
         "https://www.gizmodo.jp/article/cio-handy-fan/",
         "https://www.gizmodo.jp/article/gadget-pouch-switch-to-kokuyo-hacobiz/",
-        "https://www.gizmodo.jp/article/bandw-pi8-3/",
-        "https://www.gizmodo.jp/article/e6a4ea1f-ad88-4235-b4bd-219b3789dfba/"
+        "https://www.gizmodo.jp/article/bandw-pi8-3/"
     ]
 }
