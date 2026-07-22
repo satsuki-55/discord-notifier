@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "IP_CJYPU4TQ",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "sILWMvHdKOc",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cvgj2vdl8r2o#0",
         "https://www.bbc.co.uk/news/articles/clyl33q0yl0o#0",
         "https://www.bbc.co.uk/news/articles/clyv43x372wo#1",
         "https://www.bbc.co.uk/news/articles/c62qw1qk95eo#0",
@@ -200,10 +201,10 @@
         "https://www.bbc.co.uk/news/articles/c3043vl2l7zo#1",
         "https://www.bbc.co.uk/news/articles/c75y4q61eevo#1",
         "https://www.bbc.co.uk/sport/football/articles/cdx8veqllw7o#2",
-        "https://www.bbc.co.uk/news/articles/c20d4j4v9g9o#2",
-        "https://www.bbc.co.uk/news/articles/cr59mqnm081o#2"
+        "https://www.bbc.co.uk/news/articles/c20d4j4v9g9o#2"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015182351000",
         "https://news.web.nhk/newsweb/na/na-k10015182371000",
         "https://news.web.nhk/newsweb/na/na-k10015182551000",
         "https://news.web.nhk/newsweb/na/na-k10015182521000",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/na-k10015180301000",
         "https://news.web.nhk/newsweb/na/na-k10015180261000",
         "https://news.web.nhk/newsweb/na/na-k10015180201000",
-        "https://news.web.nhk/newsweb/na/na-k10015180241000",
-        "https://news.web.nhk/newsweb/na/na-k10015180191000"
+        "https://news.web.nhk/newsweb/na/na-k10015180241000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/air-y-air--y-pro/",
         "https://www.gizmodo.jp/article/samusun-galaxy-unpacked-2026/",
         "https://www.gizmodo.jp/article/kodaks-new-point-and-shoot-is-a-real-disposable-replacement/",
         "https://www.gizmodo.jp/article/a-gaming-tablet-with-liquid-cooling-actually-makes-sense/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/polar-street-x-oml/",
         "https://www.gizmodo.jp/article/torras-ostand-q3-air-03/",
         "https://www.gizmodo.jp/article/amazon-primeday-soudcore-aeroclip/",
-        "https://www.gizmodo.jp/article/amazon-edmi-buds-8-lite-jfg/",
-        "https://www.gizmodo.jp/article/cio-handy-fan/"
+        "https://www.gizmodo.jp/article/amazon-edmi-buds-8-lite-jfg/"
     ]
 }
