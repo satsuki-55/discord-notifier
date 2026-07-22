@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "IP_CJYPU4TQ",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "sILWMvHdKOc",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cdrv0p37k8jo#0",
         "https://www.bbc.co.uk/news/articles/cy9wq82q1pgo#1",
         "https://www.bbc.co.uk/news/articles/c935g67wyvgo#0",
         "https://www.bbc.co.uk/news/articles/cdewk5r308jo#0",
@@ -200,10 +201,10 @@
         "https://www.bbc.co.uk/news/articles/cr7knml2y99o#1",
         "https://www.bbc.co.uk/sport/football/articles/cdx8veqllw7o#1",
         "https://www.bbc.co.uk/sport/football/videos/cddj0m5pzglo#1",
-        "https://www.bbc.co.uk/news/articles/c20d4j4v9g9o#1",
-        "https://www.bbc.co.uk/news/articles/cr474z1qyn6o#1"
+        "https://www.bbc.co.uk/news/articles/c20d4j4v9g9o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015182431000",
         "https://news.web.nhk/newsweb/na/na-k10015182381000",
         "https://news.web.nhk/newsweb/na/na-k10015182421000",
         "https://news.web.nhk/newsweb/na/na-k10015182401000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015180161000",
         "https://news.web.nhk/newsweb/na/na-k10015180171000",
         "https://news.web.nhk/newsweb/na/na-k10015180151000",
-        "https://news.web.nhk/newsweb/na/na-k10015180141000",
-        "https://news.web.nhk/newsweb/na/na-k10015180131000"
+        "https://news.web.nhk/newsweb/na/na-k10015180141000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/why-this-part-of-antarctica-bleeds-blood-red-m4d-jok/",
