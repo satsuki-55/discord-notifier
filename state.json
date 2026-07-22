@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/cx2jnj3428lo#2"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015182851000",
+        "https://news.web.nhk/newsweb/na/na-k10015182801000",
         "https://news.web.nhk/newsweb/na/na-k10015180291000",
         "https://news.web.nhk/newsweb/na/na-k10015182831000",
         "https://news.web.nhk/newsweb/na/na-k10015182841000",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015180351000",
         "https://news.web.nhk/newsweb/na/na-k10015180461000",
         "https://news.web.nhk/newsweb/na/na-k10015180561000",
-        "https://news.web.nhk/newsweb/na/na-k10015180451000",
-        "https://news.web.nhk/newsweb/na/na-k10015180431000",
-        "https://news.web.nhk/newsweb/na/na-k10015141091000"
+        "https://news.web.nhk/newsweb/na/na-k10015180451000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/hisenses-new-e-ink-phone-has-a-detachable-screen-that-actually-makes-sense/",
