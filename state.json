@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/cn8nldwj12jo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015183041000",
+        "https://news.web.nhk/newsweb/na/na-k10015183031000",
         "https://news.web.nhk/newsweb/na/na-k10015183081000",
         "https://news.web.nhk/newsweb/na/na-k10015183191000",
         "https://news.web.nhk/newsweb/na/na-k10015180761000",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015180881000",
         "https://news.web.nhk/newsweb/na/na-k10015180891000",
         "https://news.web.nhk/newsweb/na/na-k10015180851000",
-        "https://news.web.nhk/newsweb/na/na-k10015180841000",
-        "https://news.web.nhk/newsweb/na/na-k10015180861000",
-        "https://news.web.nhk/newsweb/na/na-k10015180791000"
+        "https://news.web.nhk/newsweb/na/na-k10015180841000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/folding-umbrella-handle-for-airtag-fv5-ikm/",
