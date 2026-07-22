@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "IP_CJYPU4TQ",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "sILWMvHdKOc",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c3ek3gvdnj3o#0",
         "https://www.bbc.co.uk/news/articles/cx2jnj3428lo#0",
         "https://www.bbc.co.uk/news/articles/c78gljynx3xo#0",
         "https://www.bbc.co.uk/news/articles/ce34yr1ppw3o#0",
@@ -200,10 +201,11 @@
         "https://www.bbc.co.uk/news/articles/c4gyyx2zg59o#0",
         "https://www.bbc.co.uk/news/articles/cp8714286dpo#0",
         "https://www.bbc.co.uk/news/articles/c89nvnklkpdo#1",
-        "https://www.bbc.co.uk/news/articles/c0jl839j6z3o#1",
-        "https://www.bbc.co.uk/news/articles/cx2jnj3428lo#2"
+        "https://www.bbc.co.uk/news/articles/c0jl839j6z3o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015180351000",
+        "https://news.web.nhk/newsweb/na/na-k10015182711000",
         "https://news.web.nhk/newsweb/na/na-k10015182921000",
         "https://news.web.nhk/newsweb/na/na-k10015182871000",
         "https://news.web.nhk/newsweb/na/na-k10015182881000",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015180481000",
         "https://news.web.nhk/newsweb/na/na-k10015178411000",
         "https://news.web.nhk/newsweb/na/na-k10015180231000",
-        "https://news.web.nhk/newsweb/na/na-k10015180401000",
-        "https://news.web.nhk/newsweb/na/na-k10015180551000",
-        "https://news.web.nhk/newsweb/na/na-k10015180531000"
+        "https://news.web.nhk/newsweb/na/na-k10015180401000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/kashimura_fan-with-fully-adjustable-angle/",
