@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015180691000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/galaxy-z-flip8/",
         "https://www.gizmodo.jp/article/galaxy-z-fold8-ultra/",
         "https://www.gizmodo.jp/article/galaxy-z-fold8/",
         "https://www.gizmodo.jp/article/lenovo-ideapad-slim-5x-gen-11-review-solid-arm-at-a-budget-price/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/marine-biologists-discover-31-potential-new-species-in-just-2-weeks-at-sea/",
         "https://www.gizmodo.jp/article/sugihara-sangyo-rubber-coated-magnet/",
         "https://www.gizmodo.jp/article/leap-seconds-were-a-headache-now-timekeepers-are-considering-a-leap-hour/",
-        "https://www.gizmodo.jp/article/chatgpt_work_handson/",
-        "https://www.gizmodo.jp/article/swerv/"
+        "https://www.gizmodo.jp/article/chatgpt_work_handson/"
     ]
 }
