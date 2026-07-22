@@ -2,6 +2,9 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "IP_CJYPU4TQ",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "sILWMvHdKOc",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c3d3ejgdm20o#0",
+        "https://www.bbc.co.uk/news/articles/cz97gdjgezno#1",
+        "https://www.bbc.co.uk/news/articles/cm2g93n0j2ko#0",
         "https://www.bbc.co.uk/news/articles/cn7nr7p323vo#0",
         "https://www.bbc.co.uk/news/articles/c93487x97kyo#1",
         "https://www.bbc.co.uk/news/articles/cgjxqg08q82o#0",
@@ -198,10 +201,7 @@
         "https://www.bbc.co.uk/news/articles/cm2gmddx1ldo#0",
         "https://www.bbc.co.uk/news/articles/cx25nzkyj50o#1",
         "https://www.bbc.co.uk/news/articles/ce3q1d1ed5do#0",
-        "https://www.bbc.co.uk/news/articles/c9357rlk494o#1",
-        "https://www.bbc.co.uk/news/articles/c9357rlk494o#0",
-        "https://www.bbc.co.uk/news/articles/crkvj0ngzexo#1",
-        "https://www.bbc.co.uk/news/articles/c3d3ejgdm20o#0"
+        "https://www.bbc.co.uk/news/articles/c9357rlk494o#1"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/na-k10015183151000",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015180611000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/folding-umbrella-handle-for-airtag-fv5-ikm/",
         "https://www.gizmodo.jp/article/galaxy-watch-ultra2/",
         "https://www.gizmodo.jp/article/galaxy-z-fold8-feature/",
         "https://www.gizmodo.jp/article/galaxy-z-flip8/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/samsung-galaxy-s26-ultra-review-a-more-private-screen/",
         "https://www.gizmodo.jp/article/nothing-ear-3a-review-still-nothings-value-king/",
         "https://www.gizmodo.jp/article/the-public-got-so-mad-at-metas-new-ai-photo-tool-that-its-scrapped-already/",
-        "https://www.gizmodo.jp/article/marine-biologists-discover-31-potential-new-species-in-just-2-weeks-at-sea/",
-        "https://www.gizmodo.jp/article/sugihara-sangyo-rubber-coated-magnet/"
+        "https://www.gizmodo.jp/article/marine-biologists-discover-31-potential-new-species-in-just-2-weeks-at-sea/"
     ]
 }
