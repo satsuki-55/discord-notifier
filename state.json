@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/cm2gm99nrm7o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015184081000",
+        "https://news.web.nhk/newsweb/na/na-k10015183971000",
         "https://news.web.nhk/newsweb/na/na-k10015184061000",
         "https://news.web.nhk/newsweb/na/na-k10015184001000",
         "https://news.web.nhk/newsweb/na/na-k10015184021000",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015181471000",
         "https://news.web.nhk/newsweb/na/na-k10015178971000",
         "https://news.web.nhk/newsweb/na/na-k10015181431000",
-        "https://news.web.nhk/newsweb/na/na-k10015181351000",
-        "https://news.web.nhk/newsweb/na/na-k10015181441000",
-        "https://news.web.nhk/newsweb/na/na-k10015181421000"
+        "https://news.web.nhk/newsweb/na/na-k10015181351000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/deadmanswire_interview_bill-skarsgard/",
