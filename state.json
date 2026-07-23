@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/cq89q0yyqz4o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015183761000",
+        "https://news.web.nhk/newsweb/na/na-k10015183631000",
         "https://news.web.nhk/newsweb/na/na-k10015183321000",
         "https://news.web.nhk/newsweb/na/na-k10015183611000",
         "https://news.web.nhk/newsweb/na/na-k10015183471000",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015181191000",
         "https://news.web.nhk/newsweb/na/na-k10015181161000",
         "https://news.web.nhk/newsweb/na/na-k10015181131000",
-        "https://news.web.nhk/newsweb/na/na-k10015181121000",
-        "https://news.web.nhk/newsweb/na/na-k10015181111000",
-        "https://news.web.nhk/newsweb/na/na-k10015181081000"
+        "https://news.web.nhk/newsweb/na/na-k10015181121000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/weleda-scalp-cleansing-yaf/",
