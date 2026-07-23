@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015181201000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/dohiemon_box/",
         "https://www.gizmodo.jp/article/maestro-500-wireless/",
         "https://www.gizmodo.jp/article/developers-are-claiming-openais-new-ai-model-is-going-rogue-and-deleting-files/",
         "https://www.gizmodo.jp/article/weleda-scalp-cleansing-yaf/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/apple-store-battery-report-1-cxg/",
         "https://www.gizmodo.jp/article/montbell-sock-on-sandals/",
         "https://www.gizmodo.jp/article/say-hello-to-the-new-species-of-fly-officially-approved-to-clean-human-wounds/",
-        "https://www.gizmodo.jp/article/2607-tesla-sales-q2-ev-gas-prices-twj/",
-        "https://www.gizmodo.jp/article/testosterone-and-cancer-risk/"
+        "https://www.gizmodo.jp/article/2607-tesla-sales-q2-ev-gas-prices-twj/"
     ]
 }
