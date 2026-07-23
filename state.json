@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cy8mynlmn55o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015184271000",
         "https://news.web.nhk/newsweb/na/na-k10015184291000",
         "https://news.web.nhk/newsweb/na/na-k10015184311000",
         "https://news.web.nhk/newsweb/na/na-k10015183941000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015181631000",
         "https://news.web.nhk/newsweb/na/na-k10015179411000",
         "https://news.web.nhk/newsweb/na/na-k10015176901000",
-        "https://news.web.nhk/newsweb/na/na-k10015181641000",
-        "https://news.web.nhk/newsweb/na/na-k10015179351000"
+        "https://news.web.nhk/newsweb/na/na-k10015181641000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/amazon-phomemo-d30/",
