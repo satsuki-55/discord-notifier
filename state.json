@@ -204,6 +204,9 @@
         "https://www.bbc.co.uk/news/articles/c1m1rr90dzxo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015184201000",
+        "https://news.web.nhk/newsweb/na/na-k10015184191000",
+        "https://news.web.nhk/newsweb/na/na-k10015184171000",
         "https://news.web.nhk/newsweb/na/na-k10015184181000",
         "https://news.web.nhk/newsweb/na/na-k10015180021000",
         "https://news.web.nhk/newsweb/na/na-k10015184141000",
@@ -400,10 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015181531000",
         "https://news.web.nhk/newsweb/na/na-k10015181541000",
         "https://news.web.nhk/newsweb/na/na-k10015181551000",
-        "https://news.web.nhk/newsweb/na/na-k10015173711000",
-        "https://news.web.nhk/newsweb/na/na-k10015181371000",
-        "https://news.web.nhk/newsweb/na/na-k10015181521000",
-        "https://news.web.nhk/newsweb/na/na-k10015181511000"
+        "https://news.web.nhk/newsweb/na/na-k10015173711000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/cayl_fanny-pack-grid/",
