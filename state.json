@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c3dyd4l8250o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015184441000",
         "https://news.web.nhk/newsweb/na/na-k10015184491000",
         "https://news.web.nhk/newsweb/na/na-k10015184631000",
         "https://news.web.nhk/newsweb/na/na-k10015184671000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015181981000",
         "https://news.web.nhk/newsweb/na/na-k10015181951000",
         "https://news.web.nhk/newsweb/na/na-k10015181971000",
-        "https://news.web.nhk/newsweb/na/na-k10015179631000",
-        "https://news.web.nhk/newsweb/na/na-k10015181961000"
+        "https://news.web.nhk/newsweb/na/na-k10015179631000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/bastetodon-pbf/",
