@@ -2,6 +2,8 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "IP_CJYPU4TQ",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "sILWMvHdKOc",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c80n5rvx917o#0",
+        "https://www.bbc.co.uk/news/articles/cjejx083jkeo#1",
         "https://www.bbc.co.uk/news/articles/cdrvy3pn3r0o#0",
         "https://www.bbc.co.uk/news/articles/cewrx0ldlkko#0",
         "https://www.bbc.co.uk/news/articles/c235n47g8g8o#1",
@@ -199,9 +201,7 @@
         "https://www.bbc.co.uk/news/articles/c4gvpv3ewv2o#1",
         "https://www.bbc.co.uk/news/articles/c0qvdy0jv05o#1",
         "https://www.bbc.co.uk/news/articles/c4g3l22ry6wo#0",
-        "https://www.bbc.co.uk/news/articles/c982857nlrlo#0",
-        "https://www.bbc.co.uk/news/articles/c5ywxy41vg6o#0",
-        "https://www.bbc.co.uk/news/articles/cqx7wx4vqv1o#1"
+        "https://www.bbc.co.uk/news/articles/c982857nlrlo#0"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/na-k10015183841000",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015181211000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/ap30-music-boy/",
         "https://www.gizmodo.jp/article/dohiemon_box/",
         "https://www.gizmodo.jp/article/maestro-500-wireless/",
         "https://www.gizmodo.jp/article/developers-are-claiming-openais-new-ai-model-is-going-rogue-and-deleting-files/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/aquos-r11-youtube/",
         "https://www.gizmodo.jp/article/apple-store-battery-report-1-cxg/",
         "https://www.gizmodo.jp/article/montbell-sock-on-sandals/",
-        "https://www.gizmodo.jp/article/say-hello-to-the-new-species-of-fly-officially-approved-to-clean-human-wounds/",
-        "https://www.gizmodo.jp/article/2607-tesla-sales-q2-ev-gas-prices-twj/"
+        "https://www.gizmodo.jp/article/say-hello-to-the-new-species-of-fly-officially-approved-to-clean-human-wounds/"
     ]
 }
