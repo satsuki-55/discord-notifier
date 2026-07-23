@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "IP_CJYPU4TQ",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "sILWMvHdKOc",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cpw9xzx9r4ko#0",
         "https://www.bbc.co.uk/news/articles/c3ek3gvdnj3o#1",
         "https://www.bbc.co.uk/news/articles/c5ye2gyz0x4o#0",
         "https://www.bbc.co.uk/news/articles/cqjxzzdrl4lo#0",
@@ -200,10 +201,10 @@
         "https://www.bbc.co.uk/news/articles/cqx7wx4vqv1o#1",
         "https://www.bbc.co.uk/news/articles/c17y7r9yv1ro#1",
         "https://www.bbc.co.uk/news/articles/cx2vd3qgjy9o#0",
-        "https://www.bbc.co.uk/news/articles/cq89q0yyqz4o#0",
-        "https://www.bbc.co.uk/news/articles/c24mnnnd18do#0"
+        "https://www.bbc.co.uk/news/articles/cq89q0yyqz4o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015183471000",
         "https://news.web.nhk/newsweb/na/na-k10015183351000",
         "https://news.web.nhk/newsweb/na/na-k10015183481000",
         "https://news.web.nhk/newsweb/na/na-k10015183331000",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/na-k10015181111000",
         "https://news.web.nhk/newsweb/na/na-k10015181081000",
         "https://news.web.nhk/newsweb/na/na-k10015181041000",
-        "https://news.web.nhk/newsweb/na/na-k10015181061000",
-        "https://news.web.nhk/newsweb/na/na-k10015181071000"
+        "https://news.web.nhk/newsweb/na/na-k10015181061000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/weleda-scalp-cleansing-yaf/",
         "https://www.gizmodo.jp/article/rumors-of-iphone-with-multiple-batteries/",
         "https://www.gizmodo.jp/article/fredolsen1848_brizo/",
         "https://www.gizmodo.jp/article/iphone-price-hike-coming-again-in-fall/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/2607-tesla-sales-q2-ev-gas-prices-twj/",
         "https://www.gizmodo.jp/article/testosterone-and-cancer-risk/",
         "https://www.gizmodo.jp/article/retired_ev_batteries_secondlife/",
-        "https://www.gizmodo.jp/article/meanswhile_umbrella-with-dyneema/",
-        "https://www.gizmodo.jp/article/oxtak-money-penny-laurent-san/"
+        "https://www.gizmodo.jp/article/meanswhile_umbrella-with-dyneema/"
     ]
 }
