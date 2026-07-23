@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/c24mnnnd18do#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015183311000",
+        "https://news.web.nhk/newsweb/na/na-k10015183291000",
         "https://news.web.nhk/newsweb/na/na-k10015183301000",
         "https://news.web.nhk/newsweb/na/na-k10015141141000",
         "https://news.web.nhk/newsweb/na/na-k10015183281000",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015181071000",
         "https://news.web.nhk/newsweb/na/na-k10015180811000",
         "https://news.web.nhk/newsweb/na/na-k10015180931000",
-        "https://news.web.nhk/newsweb/na/na-k10015181031000",
-        "https://news.web.nhk/newsweb/na/na-k10015180981000",
-        "https://news.web.nhk/newsweb/na/na-k10015181001000"
+        "https://news.web.nhk/newsweb/na/na-k10015181031000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/fredolsen1848_brizo/",
