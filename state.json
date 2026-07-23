@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cm2gm99nrm7o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015184001000",
         "https://news.web.nhk/newsweb/na/na-k10015184021000",
         "https://news.web.nhk/newsweb/na/na-k10015184031000",
         "https://news.web.nhk/newsweb/na/na-k10015183981000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015181351000",
         "https://news.web.nhk/newsweb/na/na-k10015181441000",
         "https://news.web.nhk/newsweb/na/na-k10015181421000",
-        "https://news.web.nhk/newsweb/na/na-k10015179001000",
-        "https://news.web.nhk/newsweb/na/na-k10015181411000"
+        "https://news.web.nhk/newsweb/na/na-k10015179001000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/quadruped-wheelchair/",
