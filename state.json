@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "amMY_jc10fk",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "sILWMvHdKOc",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c6297nw20k0o#0",
         "https://www.bbc.co.uk/news/articles/c3d3507ng37o#0",
         "https://www.bbc.co.uk/news/articles/c4gkxppljpyo#0",
         "https://www.bbc.co.uk/news/articles/cx2rkl1778zo#0",
@@ -200,10 +201,10 @@
         "https://www.bbc.co.uk/news/articles/c6294y87wk6o#1",
         "https://www.bbc.co.uk/news/articles/c9q97028ex5o#1",
         "https://www.bbc.co.uk/news/articles/czrjg0jxkpno#0",
-        "https://www.bbc.co.uk/news/articles/c5yw85q18njo#0",
-        "https://www.bbc.co.uk/news/articles/cj9djljr43lo#1"
+        "https://www.bbc.co.uk/news/articles/c5yw85q18njo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015184381000",
         "https://news.web.nhk/newsweb/na/na-k10015184391000",
         "https://news.web.nhk/newsweb/na/na-k10015184401000",
         "https://news.web.nhk/newsweb/na/na-k10015184351000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015181821000",
         "https://news.web.nhk/newsweb/na/na-k10015181721000",
         "https://news.web.nhk/newsweb/na/na-k10015181731000",
-        "https://news.web.nhk/newsweb/na/na-k10015181741000",
-        "https://news.web.nhk/newsweb/na/na-k10015181561000"
+        "https://news.web.nhk/newsweb/na/na-k10015181741000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/mont-bell-umbrella-case/",
