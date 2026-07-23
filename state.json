@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cy8mynlmn55o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015184311000",
         "https://news.web.nhk/newsweb/na/na-k10015183941000",
         "https://news.web.nhk/newsweb/na/na-k10015184281000",
         "https://news.web.nhk/newsweb/na/na-k10015184251000",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/na-k10015176901000",
         "https://news.web.nhk/newsweb/na/na-k10015181641000",
         "https://news.web.nhk/newsweb/na/na-k10015179351000",
-        "https://news.web.nhk/newsweb/na/na-k10015179281000",
-        "https://news.web.nhk/newsweb/na/na-k10015181611000"
+        "https://news.web.nhk/newsweb/na/na-k10015179281000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/amazon-phomemo-d30/",
         "https://www.gizmodo.jp/article/social-media-ban-for-kids-approved-in-france-in-first-for-an-eu-country/",
         "https://www.gizmodo.jp/article/cayl_fanny-pack-grid/",
         "https://www.gizmodo.jp/article/supernova_images-c5i/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/microplastics-were-found-in-a-hedgehog-s-droppings/",
         "https://www.gizmodo.jp/article/scientists-think-uranus-and-neptune-may-not-be-the-ice-giants-we-imagined/",
         "https://www.gizmodo.jp/article/copper_drug_restores/",
-        "https://www.gizmodo.jp/article/7451ae4a-036d-41d2-a4a2-b093d54fb3fe/",
-        "https://www.gizmodo.jp/article/nike_acg_radical-airflow/"
+        "https://www.gizmodo.jp/article/7451ae4a-036d-41d2-a4a2-b093d54fb3fe/"
     ]
 }
