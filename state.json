@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "amMY_jc10fk",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "sILWMvHdKOc",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c4gkxppljpyo#0",
         "https://www.bbc.co.uk/news/articles/cx2rkl1778zo#0",
         "https://www.bbc.co.uk/news/articles/cz97x8k4zqzo#0",
         "https://www.bbc.co.uk/news/articles/c5yrjgj984qo#0",
@@ -200,8 +201,7 @@
         "https://www.bbc.co.uk/news/articles/czrjg0jxkpno#0",
         "https://www.bbc.co.uk/news/articles/c5yw85q18njo#0",
         "https://www.bbc.co.uk/news/articles/cj9djljr43lo#1",
-        "https://www.bbc.co.uk/news/articles/crmrnvl2xw8o#0",
-        "https://www.bbc.co.uk/news/articles/cy8mynlmn55o#0"
+        "https://www.bbc.co.uk/news/articles/crmrnvl2xw8o#0"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/na-k10015184331000",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015176901000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/mont-bell-umbrella-case/",
         "https://www.gizmodo.jp/article/amazon-phomemo-d30/",
         "https://www.gizmodo.jp/article/social-media-ban-for-kids-approved-in-france-in-first-for-an-eu-country/",
         "https://www.gizmodo.jp/article/cayl_fanny-pack-grid/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/canon-star-wars-galaxy-map-interactive-updates-hve/",
         "https://www.gizmodo.jp/article/microplastics-were-found-in-a-hedgehog-s-droppings/",
         "https://www.gizmodo.jp/article/scientists-think-uranus-and-neptune-may-not-be-the-ice-giants-we-imagined/",
-        "https://www.gizmodo.jp/article/copper_drug_restores/",
-        "https://www.gizmodo.jp/article/7451ae4a-036d-41d2-a4a2-b093d54fb3fe/"
+        "https://www.gizmodo.jp/article/copper_drug_restores/"
     ]
 }
