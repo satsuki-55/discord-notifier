@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c24mnnnd18do#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015183301000",
         "https://news.web.nhk/newsweb/na/na-k10015141141000",
         "https://news.web.nhk/newsweb/na/na-k10015183281000",
         "https://news.web.nhk/newsweb/na/na-k10015183111000",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/na-k10015180931000",
         "https://news.web.nhk/newsweb/na/na-k10015181031000",
         "https://news.web.nhk/newsweb/na/na-k10015180981000",
-        "https://news.web.nhk/newsweb/na/na-k10015181001000",
-        "https://news.web.nhk/newsweb/na/na-k10015181011000"
+        "https://news.web.nhk/newsweb/na/na-k10015181001000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/fredolsen1848_brizo/",
         "https://www.gizmodo.jp/article/iphone-price-hike-coming-again-in-fall/",
         "https://www.gizmodo.jp/article/monocloth-for-apple-devices/",
         "https://www.gizmodo.jp/article/mother-3-g-shock-dw-5600mot26/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/retired_ev_batteries_secondlife/",
         "https://www.gizmodo.jp/article/meanswhile_umbrella-with-dyneema/",
         "https://www.gizmodo.jp/article/oxtak-money-penny-laurent-san/",
-        "https://www.gizmodo.jp/article/ps6-potable_rumor_amd/",
-        "https://www.gizmodo.jp/article/samsung-galaxy-s26-ultra-review-a-more-private-screen/"
+        "https://www.gizmodo.jp/article/ps6-potable_rumor_amd/"
     ]
 }
