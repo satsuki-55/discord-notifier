@@ -2,6 +2,9 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "amMY_jc10fk",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "sILWMvHdKOc",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c5ye2xlznv7o#0",
+        "https://www.bbc.co.uk/news/articles/cm2glm5r185o#1",
+        "https://www.bbc.co.uk/sport/athletics/articles/crrv0nzq8wgo#0",
         "https://www.bbc.co.uk/news/articles/cwyrj7ww1gko#1",
         "https://www.bbc.co.uk/news/articles/c4gkxppljpyo#1",
         "https://www.bbc.co.uk/news/articles/cwym1pk22g1o#0",
@@ -198,12 +201,11 @@
         "https://www.bbc.co.uk/news/articles/c7vgel8374yo#0",
         "https://www.bbc.co.uk/news/articles/cpvwnjllwvwo#0",
         "https://www.bbc.co.uk/news/articles/c79gw4lj89eo#0",
-        "https://www.bbc.co.uk/news/articles/c9d8p0l29pxo#0",
-        "https://www.bbc.co.uk/news/articles/crk661074ejo#0",
-        "https://www.bbc.co.uk/news/articles/c98v349r9lro#0",
-        "https://www.bbc.co.uk/news/articles/c6294y87wk6o#1"
+        "https://www.bbc.co.uk/news/articles/c9d8p0l29pxo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015184521000",
+        "https://news.web.nhk/newsweb/na/na-k10015184511000",
         "https://news.web.nhk/newsweb/na/na-k10015184381000",
         "https://news.web.nhk/newsweb/na/na-k10015184391000",
         "https://news.web.nhk/newsweb/na/na-k10015184401000",
@@ -401,11 +403,10 @@
         "https://news.web.nhk/newsweb/na/na-k10015179491000",
         "https://news.web.nhk/newsweb/na/na-k10015181811000",
         "https://news.web.nhk/newsweb/na/na-k10015181821000",
-        "https://news.web.nhk/newsweb/na/na-k10015181721000",
-        "https://news.web.nhk/newsweb/na/na-k10015181731000",
-        "https://news.web.nhk/newsweb/na/na-k10015181741000"
+        "https://news.web.nhk/newsweb/na/na-k10015181721000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/erdos-unit-distance-conjecture-has-been-refuted-by-ai/",
         "https://www.gizmodo.jp/article/cohn-racers-muscle-mini-1/",
         "https://www.gizmodo.jp/article/mont-bell-umbrella-case/",
         "https://www.gizmodo.jp/article/amazon-phomemo-d30/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/irobot-debuts-five-self-emptying-roombas-most-under/",
         "https://www.gizmodo.jp/article/iphone-fold-case/",
         "https://www.gizmodo.jp/article/canon-star-wars-galaxy-map-interactive-updates-hve/",
-        "https://www.gizmodo.jp/article/microplastics-were-found-in-a-hedgehog-s-droppings/",
-        "https://www.gizmodo.jp/article/scientists-think-uranus-and-neptune-may-not-be-the-ice-giants-we-imagined/"
+        "https://www.gizmodo.jp/article/microplastics-were-found-in-a-hedgehog-s-droppings/"
     ]
 }
