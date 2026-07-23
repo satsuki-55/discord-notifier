@@ -1,5 +1,5 @@
 {
-    "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "amMY_jc10fk",
+    "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "IP_CJYPU4TQ",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "sILWMvHdKOc",
     "rss:bbc": [
         "https://www.bbc.co.uk/news/articles/cm2g11ng7j2o#1",
@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cg7mglmgnvjo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015184141000",
         "https://news.web.nhk/newsweb/na/na-k10015184101000",
         "https://news.web.nhk/newsweb/na/na-k10015184151000",
         "https://news.web.nhk/newsweb/na/na-k10015184121000",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/na-k10015181521000",
         "https://news.web.nhk/newsweb/na/na-k10015181511000",
         "https://news.web.nhk/newsweb/na/na-k10015181501000",
-        "https://news.web.nhk/newsweb/na/na-k10015181311000",
-        "https://news.web.nhk/newsweb/na/na-k10015181301000"
+        "https://news.web.nhk/newsweb/na/na-k10015181311000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/cayl_fanny-pack-grid/",
         "https://www.gizmodo.jp/article/supernova_images-c5i/",
         "https://www.gizmodo.jp/article/us_keyboard-sam/",
         "https://www.gizmodo.jp/article/deadmanswire_interview_bill-skarsgard/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/copper_drug_restores/",
         "https://www.gizmodo.jp/article/7451ae4a-036d-41d2-a4a2-b093d54fb3fe/",
         "https://www.gizmodo.jp/article/nike_acg_radical-airflow/",
-        "https://www.gizmodo.jp/article/ray-ban-meta-english-to-japanese-live-translation-test/",
-        "https://www.gizmodo.jp/article/toystory5_sonoko-konishi_interview/"
+        "https://www.gizmodo.jp/article/ray-ban-meta-english-to-japanese-live-translation-test/"
     ]
 }
