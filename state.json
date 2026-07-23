@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cy8mynlmn55o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015183941000",
         "https://news.web.nhk/newsweb/na/na-k10015184281000",
         "https://news.web.nhk/newsweb/na/na-k10015184251000",
         "https://news.web.nhk/newsweb/na/na-k10015184231000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015181641000",
         "https://news.web.nhk/newsweb/na/na-k10015179351000",
         "https://news.web.nhk/newsweb/na/na-k10015179281000",
-        "https://news.web.nhk/newsweb/na/na-k10015181611000",
-        "https://news.web.nhk/newsweb/na/na-k10015181601000"
+        "https://news.web.nhk/newsweb/na/na-k10015181611000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/social-media-ban-for-kids-approved-in-france-in-first-for-an-eu-country/",
