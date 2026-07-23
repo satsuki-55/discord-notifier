@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cq89q0yyqz4o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015183751000",
         "https://news.web.nhk/newsweb/na/na-k10015183831000",
         "https://news.web.nhk/newsweb/na/na-k10015183781000",
         "https://news.web.nhk/newsweb/na/na-k10015183761000",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/na-k10015181211000",
         "https://news.web.nhk/newsweb/na/na-k10015181201000",
         "https://news.web.nhk/newsweb/na/na-k10015181181000",
-        "https://news.web.nhk/newsweb/na/na-k10015181191000",
-        "https://news.web.nhk/newsweb/na/na-k10015181161000"
+        "https://news.web.nhk/newsweb/na/na-k10015181191000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/developers-are-claiming-openais-new-ai-model-is-going-rogue-and-deleting-files/",
         "https://www.gizmodo.jp/article/weleda-scalp-cleansing-yaf/",
         "https://www.gizmodo.jp/article/rumors-of-iphone-with-multiple-batteries/",
         "https://www.gizmodo.jp/article/fredolsen1848_brizo/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/say-hello-to-the-new-species-of-fly-officially-approved-to-clean-human-wounds/",
         "https://www.gizmodo.jp/article/2607-tesla-sales-q2-ev-gas-prices-twj/",
         "https://www.gizmodo.jp/article/testosterone-and-cancer-risk/",
-        "https://www.gizmodo.jp/article/retired_ev_batteries_secondlife/",
-        "https://www.gizmodo.jp/article/meanswhile_umbrella-with-dyneema/"
+        "https://www.gizmodo.jp/article/retired_ev_batteries_secondlife/"
     ]
 }
