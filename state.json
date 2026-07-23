@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/cg7mglmgnvjo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015183951000",
+        "https://news.web.nhk/newsweb/na/na-k10015183921000",
         "https://news.web.nhk/newsweb/na/na-k10015183911000",
         "https://news.web.nhk/newsweb/na/na-k10015184071000",
         "https://news.web.nhk/newsweb/na/na-k10015183601000",
@@ -401,11 +403,10 @@
         "https://news.web.nhk/newsweb/na/na-k10015181461000",
         "https://news.web.nhk/newsweb/na/na-k10015181341000",
         "https://news.web.nhk/newsweb/na/na-k10015181391000",
-        "https://news.web.nhk/newsweb/na/na-k10015181491000",
-        "https://news.web.nhk/newsweb/na/na-k10015181481000",
-        "https://news.web.nhk/newsweb/na/na-k10015181471000"
+        "https://news.web.nhk/newsweb/na/na-k10015181491000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/supernova_images-c5i/",
         "https://www.gizmodo.jp/article/us_keyboard-sam/",
         "https://www.gizmodo.jp/article/deadmanswire_interview_bill-skarsgard/",
         "https://www.gizmodo.jp/article/quadruped-wheelchair/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/7451ae4a-036d-41d2-a4a2-b093d54fb3fe/",
         "https://www.gizmodo.jp/article/nike_acg_radical-airflow/",
         "https://www.gizmodo.jp/article/ray-ban-meta-english-to-japanese-live-translation-test/",
-        "https://www.gizmodo.jp/article/toystory5_sonoko-konishi_interview/",
-        "https://www.gizmodo.jp/article/salomon_amphib_bold_2-krr/"
+        "https://www.gizmodo.jp/article/toystory5_sonoko-konishi_interview/"
     ]
 }
