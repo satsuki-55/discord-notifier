@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cvgj2vdl8r2o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015185071000",
         "https://news.web.nhk/newsweb/na/na-k10015185171000",
         "https://news.web.nhk/newsweb/na/na-k10015185121000",
         "https://news.web.nhk/newsweb/na/na-k10015184881000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015182491000",
         "https://news.web.nhk/newsweb/na/na-k10015182471000",
         "https://news.web.nhk/newsweb/na/na-k10015182411000",
-        "https://news.web.nhk/newsweb/na/na-k10015182451000",
-        "https://news.web.nhk/newsweb/na/na-k10015182431000"
+        "https://news.web.nhk/newsweb/na/na-k10015182451000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/why-is-a-san-diego-charter-school-spending-500000-on-two-humanoid-robots/",
