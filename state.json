@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/ckg4xj8j5vjo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015185431000",
         "https://news.web.nhk/newsweb/na/na-k10015185331000",
         "https://news.web.nhk/newsweb/na/na-k10015185341000",
         "https://news.web.nhk/newsweb/na/na-k10015185241000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015182791000",
         "https://news.web.nhk/newsweb/na/na-k10015182781000",
         "https://news.web.nhk/newsweb/na/na-k10015182741000",
-        "https://news.web.nhk/newsweb/na/na-k10015182671000",
-        "https://news.web.nhk/newsweb/na/na-k10015182621000"
+        "https://news.web.nhk/newsweb/na/na-k10015182671000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/the-light-flip-phone-aims-to-be-the-luddites-best-weapon-against-ai/",
