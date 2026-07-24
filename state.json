@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "CukMTXbth44",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "PycoAISwXvM",
     "rss:bbc": [
+        "https://www.bbc.co.uk/sport/football/articles/cqjxd0n4gd2o#0",
         "https://www.bbc.co.uk/news/articles/cpq82dg0y3qo#0",
         "https://www.bbc.co.uk/news/articles/c3ek3gvdnj3o#0",
         "https://www.bbc.co.uk/news/articles/cx2jnj3428lo#0",
@@ -200,10 +201,10 @@
         "https://www.bbc.co.uk/news/articles/ce34lxy2793o#0",
         "https://www.bbc.co.uk/news/articles/ce34yr1ppw3o#1",
         "https://www.bbc.co.uk/news/articles/cp8714286dpo#0",
-        "https://www.bbc.co.uk/news/articles/clyq2dnq2zzo#0",
-        "https://www.bbc.co.uk/news/articles/c5yw85q18njo#1"
+        "https://www.bbc.co.uk/news/articles/clyq2dnq2zzo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015185631000",
         "https://news.web.nhk/newsweb/na/na-k10015185581000",
         "https://news.web.nhk/newsweb/na/na-k10015182931000",
         "https://news.web.nhk/newsweb/na/na-k10015182891000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015182761000",
         "https://news.web.nhk/newsweb/na/na-k10015183001000",
         "https://news.web.nhk/newsweb/na/na-k10015182981000",
-        "https://news.web.nhk/newsweb/na/na-k10015182991000",
-        "https://news.web.nhk/newsweb/na/na-k10015182971000"
+        "https://news.web.nhk/newsweb/na/na-k10015182991000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/if-youre-getting-a-tattoo-pay-more-attention-to-the-ink-than-the-design/",
