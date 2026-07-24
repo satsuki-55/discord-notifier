@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/clyv43x372wo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015185111000",
         "https://news.web.nhk/newsweb/na/na-k10015185041000",
         "https://news.web.nhk/newsweb/na/na-k10015185021000",
         "https://news.web.nhk/newsweb/na/na-k10015185051000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015182431000",
         "https://news.web.nhk/newsweb/na/na-k10015182381000",
         "https://news.web.nhk/newsweb/na/na-k10015182421000",
-        "https://news.web.nhk/newsweb/na/na-k10015182401000",
-        "https://news.web.nhk/newsweb/na/na-k10015182341000"
+        "https://news.web.nhk/newsweb/na/na-k10015182401000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/bad-news-for-spacex-bigger-isnt-always-better/",
