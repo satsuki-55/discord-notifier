@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "CukMTXbth44",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "PycoAISwXvM",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/czjlenp0xk8o#0",
         "https://www.bbc.co.uk/news/articles/c4g397rl4nzo#1",
         "https://www.bbc.co.uk/news/articles/cwymj9lkx13o#1",
         "https://www.bbc.co.uk/news/articles/cqjxddx12qqo#0",
@@ -200,10 +201,10 @@
         "https://www.bbc.co.uk/news/articles/cvgjp5y9qq3o#1",
         "https://www.bbc.co.uk/news/articles/cq56g2n083do#0",
         "https://www.bbc.co.uk/news/articles/c935qpz64xpo#0",
-        "https://www.bbc.co.uk/news/articles/ce8l1zk9dk9o#0",
-        "https://www.bbc.co.uk/news/articles/c204p64pqzno#0"
+        "https://www.bbc.co.uk/news/articles/ce8l1zk9dk9o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015185511000",
         "https://news.web.nhk/newsweb/na/na-k10015185701000",
         "https://news.web.nhk/newsweb/na/na-k10015185711000",
         "https://news.web.nhk/newsweb/na/na-k10015185751000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015183211000",
         "https://news.web.nhk/newsweb/na/na-k10015183101000",
         "https://news.web.nhk/newsweb/na/na-k10015183051000",
-        "https://news.web.nhk/newsweb/na/na-k10015183221000",
-        "https://news.web.nhk/newsweb/na/na-k10015183011000"
+        "https://news.web.nhk/newsweb/na/na-k10015183221000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/new_planet_three_million_years_old-igq/",
