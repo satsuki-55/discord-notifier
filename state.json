@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cy8mynlmn55o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015184791000",
         "https://news.web.nhk/newsweb/na/na-k10015184801000",
         "https://news.web.nhk/newsweb/na/na-k10015184821000",
         "https://news.web.nhk/newsweb/na/na-k10015184811000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015182151000",
         "https://news.web.nhk/newsweb/na/na-k10015182141000",
         "https://news.web.nhk/newsweb/na/na-k10015182171000",
-        "https://news.web.nhk/newsweb/na/na-k10015182271000",
-        "https://news.web.nhk/newsweb/na/na-k10015182081000"
+        "https://news.web.nhk/newsweb/na/na-k10015182271000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/smart-glasses-just-got-a-pro-cyclist-nixed-from-a-race/",
