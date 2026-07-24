@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/clyv43x372wo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015185031000",
         "https://news.web.nhk/newsweb/na/na-k10015185001000",
         "https://news.web.nhk/newsweb/na/na-k10015184991000",
         "https://news.web.nhk/newsweb/na/na-k10015184951000",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/na-k10015182321000",
         "https://news.web.nhk/newsweb/na/na-k10015182311000",
         "https://news.web.nhk/newsweb/na/na-k10015182241000",
-        "https://news.web.nhk/newsweb/na/na-k10015182291000",
-        "https://news.web.nhk/newsweb/na/na-k10015182301000"
+        "https://news.web.nhk/newsweb/na/na-k10015182291000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/6f2c3357-22ca-40b4-bdd4-c7abd945e1f7/",
         "https://www.gizmodo.jp/article/the-cheapest-way-to-cool-data-centers-wont-work-in-a-warmer-world/",
         "https://www.gizmodo.jp/article/daiso-shoe-sole-repair-glue-xdy/",
         "https://www.gizmodo.jp/article/db77a1ee-84b4-4fee-babc-8e62b34d9c30/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/lunch_bento_cost_students/",
         "https://www.gizmodo.jp/article/montbell-ex-light-wind-parka/",
         "https://www.gizmodo.jp/article/the-pixel-watch-5s-most-notable-change-might-be-its-price/",
-        "https://www.gizmodo.jp/article/galaxy-z-fold-8-ultra-display/",
-        "https://www.gizmodo.jp/article/meta-is-toying-with-the-idea-of-smart-glasses-that-record-everything-all-the-time/"
+        "https://www.gizmodo.jp/article/galaxy-z-fold-8-ultra-display/"
     ]
 }
