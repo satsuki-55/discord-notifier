@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015182611000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/apple-watch-ankle-wpl/",
         "https://www.gizmodo.jp/article/nanosheet-all-in-one-rgb-photodetector/",
         "https://www.gizmodo.jp/article/azak_reinventing_the_wheel/",
         "https://www.gizmodo.jp/article/02fc077f-3063-4802-a0c7-9665fa402a8a/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/xiaomi-ultra-thin-battery/",
         "https://www.gizmodo.jp/article/movie_kireppashino_ai_interview/",
         "https://www.gizmodo.jp/article/bizrack-review-tvz/",
-        "https://www.gizmodo.jp/article/ligar-start/",
-        "https://www.gizmodo.jp/article/bc882e82-7cbf-4e19-8a4f-81c7fb6dc3a1/"
+        "https://www.gizmodo.jp/article/ligar-start/"
     ]
 }
