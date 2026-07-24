@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "CukMTXbth44",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "PycoAISwXvM",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o#0",
         "https://www.bbc.co.uk/news/articles/cvgl8j37839o#0",
         "https://www.bbc.co.uk/news/articles/clyvnz4489wo#1",
         "https://www.bbc.co.uk/news/articles/cwymj9lkx13o#0",
@@ -200,10 +201,10 @@
         "https://www.bbc.co.uk/news/articles/c78gljynx3xo#0",
         "https://www.bbc.co.uk/news/articles/ce34yr1ppw3o#0",
         "https://www.bbc.co.uk/news/articles/cp871g996qno#1",
-        "https://www.bbc.co.uk/news/articles/cm2ge7z0708o#0",
-        "https://www.bbc.co.uk/news/articles/cy5d36e752yo#0"
+        "https://www.bbc.co.uk/news/articles/cm2ge7z0708o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015185501000",
         "https://news.web.nhk/newsweb/na/na-k10015185491000",
         "https://news.web.nhk/newsweb/na/na-k10015185481000",
         "https://news.web.nhk/newsweb/na/na-k10015185451000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015182931000",
         "https://news.web.nhk/newsweb/na/na-k10015180401000",
         "https://news.web.nhk/newsweb/na/na-k10015182891000",
-        "https://news.web.nhk/newsweb/na/na-k10015180351000",
-        "https://news.web.nhk/newsweb/na/na-k10015182711000"
+        "https://news.web.nhk/newsweb/na/na-k10015180351000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/keychron-g6-he-ultralight-release/",
