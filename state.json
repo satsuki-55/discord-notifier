@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cy9wq778dvzo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015185651000",
         "https://news.web.nhk/newsweb/na/na-k10015185641000",
         "https://news.web.nhk/newsweb/na/na-k10015185631000",
         "https://news.web.nhk/newsweb/na/na-k10015185581000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015183151000",
         "https://news.web.nhk/newsweb/na/na-k10015183171000",
         "https://news.web.nhk/newsweb/na/na-k10015182761000",
-        "https://news.web.nhk/newsweb/na/na-k10015183001000",
-        "https://news.web.nhk/newsweb/na/na-k10015182981000"
+        "https://news.web.nhk/newsweb/na/na-k10015183001000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/nifbang_car-fan-review/",
