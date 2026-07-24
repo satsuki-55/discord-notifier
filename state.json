@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cz64l78n5vpo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015185181000",
         "https://news.web.nhk/newsweb/na/na-k10015185231000",
         "https://news.web.nhk/newsweb/na/na-k10015185211000",
         "https://news.web.nhk/newsweb/na/na-k10015185191000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015182351000",
         "https://news.web.nhk/newsweb/na/na-k10015182371000",
         "https://news.web.nhk/newsweb/na/na-k10015182551000",
-        "https://news.web.nhk/newsweb/na/na-k10015182521000",
-        "https://news.web.nhk/newsweb/na/na-k10015182501000"
+        "https://news.web.nhk/newsweb/na/na-k10015182521000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/azak_reinventing_the_wheel/",
