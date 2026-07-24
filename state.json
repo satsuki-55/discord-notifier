@@ -2,6 +2,8 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "amMY_jc10fk",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "sILWMvHdKOc",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c151zp1p4qyo#0",
+        "https://www.bbc.co.uk/news/articles/c6297nw20k0o#1",
         "https://www.bbc.co.uk/news/articles/c7vgeredvlgo#0",
         "https://www.bbc.co.uk/news/articles/cn0nykz6lweo#1",
         "https://www.bbc.co.uk/news/articles/cgk4xrznxn5o#0",
@@ -199,9 +201,7 @@
         "https://www.bbc.co.uk/news/articles/cvgj2vdl8r2o#0",
         "https://www.bbc.co.uk/news/articles/clyl33q0yl0o#0",
         "https://www.bbc.co.uk/news/articles/clyv43x372wo#1",
-        "https://www.bbc.co.uk/news/articles/c62qw1qk95eo#0",
-        "https://www.bbc.co.uk/news/articles/c4g4lyze30vo#0",
-        "https://www.bbc.co.uk/news/articles/cy8mynlmn55o#1"
+        "https://www.bbc.co.uk/news/articles/c62qw1qk95eo#0"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/na-k10015184791000",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015182271000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2aabfce3-4dd3-4f96-967a-70206e14b37b/",
         "https://www.gizmodo.jp/article/smart-glasses-just-got-a-pro-cyclist-nixed-from-a-race/",
         "https://www.gizmodo.jp/article/galaxyunpacked-intelligent-eyewear/",
         "https://www.gizmodo.jp/article/solar_power_plant_desert/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/meta-is-toying-with-the-idea-of-smart-glasses-that-record-everything-all-the-time/",
         "https://www.gizmodo.jp/article/very-annoyed-seagulls-are-waging-war-on-nycs-beach-drones-1-txd/",
         "https://www.gizmodo.jp/article/google-pixel-11-pro-fold-fcc/",
-        "https://www.gizmodo.jp/article/daiso-cool-head-pcm-pad/",
-        "https://www.gizmodo.jp/article/google_hasnt_released_gemini_3_5_pro_yet/"
+        "https://www.gizmodo.jp/article/daiso-cool-head-pcm-pad/"
     ]
 }
