@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "CukMTXbth44",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "PycoAISwXvM",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cd9w2xnxe1qo#1",
         "https://www.bbc.co.uk/news/articles/cz97ngjpg3lo#0",
         "https://www.bbc.co.uk/news/articles/cd0xnge2zx7o#0",
         "https://www.bbc.co.uk/news/articles/cwymj9jmnm0o#0",
@@ -200,10 +201,10 @@
         "https://www.bbc.co.uk/news/articles/cm2glm5r185o#0",
         "https://www.bbc.co.uk/news/articles/cn0nxe1g3xxo#0",
         "https://www.bbc.co.uk/news/articles/c0ejwedl1gno#0",
-        "https://www.bbc.co.uk/news/articles/cp9ezldrkkgo#0",
-        "https://www.bbc.co.uk/news/articles/cy45p77l3zwo#1"
+        "https://www.bbc.co.uk/news/articles/cp9ezldrkkgo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015185351000",
         "https://news.web.nhk/newsweb/na/na-k10015185651000",
         "https://news.web.nhk/newsweb/na/na-k10015185641000",
         "https://news.web.nhk/newsweb/na/na-k10015185631000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015183181000",
         "https://news.web.nhk/newsweb/na/na-k10015183151000",
         "https://news.web.nhk/newsweb/na/na-k10015183171000",
-        "https://news.web.nhk/newsweb/na/na-k10015182761000",
-        "https://news.web.nhk/newsweb/na/na-k10015183001000"
+        "https://news.web.nhk/newsweb/na/na-k10015182761000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/nifbang_car-fan-review/",
