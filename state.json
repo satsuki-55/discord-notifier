@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c62qw1qk95eo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015184991000",
         "https://news.web.nhk/newsweb/na/na-k10015184951000",
         "https://news.web.nhk/newsweb/na/na-k10015184981000",
         "https://news.web.nhk/newsweb/na/na-k10015184941000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015182241000",
         "https://news.web.nhk/newsweb/na/na-k10015182291000",
         "https://news.web.nhk/newsweb/na/na-k10015182301000",
-        "https://news.web.nhk/newsweb/na/na-k10015181921000",
-        "https://news.web.nhk/newsweb/na/na-k10015182281000"
+        "https://news.web.nhk/newsweb/na/na-k10015181921000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/the-cheapest-way-to-cool-data-centers-wont-work-in-a-warmer-world/",
