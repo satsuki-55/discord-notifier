@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cx2rv14em3jo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015185381000",
         "https://news.web.nhk/newsweb/na/na-k10015185441000",
         "https://news.web.nhk/newsweb/na/na-k10015185391000",
         "https://news.web.nhk/newsweb/na/na-k10015185471000",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/na-k10015182851000",
         "https://news.web.nhk/newsweb/na/na-k10015182801000",
         "https://news.web.nhk/newsweb/na/na-k10015180291000",
-        "https://news.web.nhk/newsweb/na/na-k10015182831000",
-        "https://news.web.nhk/newsweb/na/na-k10015182841000"
+        "https://news.web.nhk/newsweb/na/na-k10015182831000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/sonnenglas_light-carafe/",
         "https://www.gizmodo.jp/article/the-light-flip-phone-aims-to-be-the-luddites-best-weapon-against-ai/",
         "https://www.gizmodo.jp/article/apple-watch-ankle-wpl/",
         "https://www.gizmodo.jp/article/nanosheet-all-in-one-rgb-photodetector/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/unba_un-hiker_shoes/",
         "https://www.gizmodo.jp/article/hoka_cliftonpro_review/",
         "https://www.gizmodo.jp/article/xiaomi-ultra-thin-battery/",
-        "https://www.gizmodo.jp/article/movie_kireppashino_ai_interview/",
-        "https://www.gizmodo.jp/article/bizrack-review-tvz/"
+        "https://www.gizmodo.jp/article/movie_kireppashino_ai_interview/"
     ]
 }
