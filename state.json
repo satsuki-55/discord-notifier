@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/ce34lxy2793o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015185641000",
         "https://news.web.nhk/newsweb/na/na-k10015185631000",
         "https://news.web.nhk/newsweb/na/na-k10015185581000",
         "https://news.web.nhk/newsweb/na/na-k10015182931000",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/na-k10015183171000",
         "https://news.web.nhk/newsweb/na/na-k10015182761000",
         "https://news.web.nhk/newsweb/na/na-k10015183001000",
-        "https://news.web.nhk/newsweb/na/na-k10015182981000",
-        "https://news.web.nhk/newsweb/na/na-k10015182991000"
+        "https://news.web.nhk/newsweb/na/na-k10015182981000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/mini_robot_in_mouth/",
         "https://www.gizmodo.jp/article/if-youre-getting-a-tattoo-pay-more-attention-to-the-ink-than-the-design/",
         "https://www.gizmodo.jp/article/garmins-new-screenless-wearable-could-be-a-serious-whoop-competitor/",
         "https://www.gizmodo.jp/article/2a1938d7-d3dc-479d-b8a2-7197e9d66cc6/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/screen-toys/",
         "https://www.gizmodo.jp/article/openai_codex_micro/",
         "https://www.gizmodo.jp/article/iris-ohyama-hugel-coolerbox-1-1-nkl/",
-        "https://www.gizmodo.jp/article/apple-chinese-memory-maker/",
-        "https://www.gizmodo.jp/article/remote-controlled-cyborg-cockroaches/"
+        "https://www.gizmodo.jp/article/apple-chinese-memory-maker/"
     ]
 }
