@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/cq56l9p4y93o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015185281000",
+        "https://news.web.nhk/newsweb/na/na-k10015185321000",
         "https://news.web.nhk/newsweb/na/na-k10015184911000",
         "https://news.web.nhk/newsweb/na/na-k10015185251000",
         "https://news.web.nhk/newsweb/na/na-k10015185181000",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015182641000",
         "https://news.web.nhk/newsweb/na/na-k10015182611000",
         "https://news.web.nhk/newsweb/na/na-k10015182541000",
-        "https://news.web.nhk/newsweb/na/na-k10015182601000",
-        "https://news.web.nhk/newsweb/na/na-k10015182351000",
-        "https://news.web.nhk/newsweb/na/na-k10015182371000"
+        "https://news.web.nhk/newsweb/na/na-k10015182601000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/nanosheet-all-in-one-rgb-photodetector/",
