@@ -2,6 +2,9 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "amMY_jc10fk",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "PycoAISwXvM",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cx2vqj2e9x8o#1",
+        "https://www.bbc.co.uk/news/articles/ckg68jky65eo#0",
+        "https://www.bbc.co.uk/news/articles/ce97nm53pgxo#1",
         "https://www.bbc.co.uk/news/articles/cx2dg54vprno#0",
         "https://www.bbc.co.uk/news/articles/cm2g3053ejko#0",
         "https://www.bbc.co.uk/news/articles/cdx82rl5g0do#0",
@@ -198,12 +201,10 @@
         "https://www.bbc.co.uk/news/articles/c4g4lyze30vo#1",
         "https://www.bbc.co.uk/news/articles/cqj1jdgpzjlo#0",
         "https://www.bbc.co.uk/news/articles/cx2rv14em3jo#0",
-        "https://www.bbc.co.uk/news/articles/cgk4x44mm50o#0",
-        "https://www.bbc.co.uk/news/articles/cvgl9vp4vqvo#0",
-        "https://www.bbc.co.uk/news/articles/cy9w4q8pgp0o#0",
-        "https://www.bbc.co.uk/news/articles/ckg4xj8j5vjo#0"
+        "https://www.bbc.co.uk/news/articles/cgk4x44mm50o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015185461000",
         "https://news.web.nhk/newsweb/na/na-k10015185431000",
         "https://news.web.nhk/newsweb/na/na-k10015185331000",
         "https://news.web.nhk/newsweb/na/na-k10015185341000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015182821000",
         "https://news.web.nhk/newsweb/na/na-k10015182791000",
         "https://news.web.nhk/newsweb/na/na-k10015182781000",
-        "https://news.web.nhk/newsweb/na/na-k10015182741000",
-        "https://news.web.nhk/newsweb/na/na-k10015182671000"
+        "https://news.web.nhk/newsweb/na/na-k10015182741000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/the-light-flip-phone-aims-to-be-the-luddites-best-weapon-against-ai/",
