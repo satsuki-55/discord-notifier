@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015183101000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/apple-packaging-lab-2026/",
         "https://www.gizmodo.jp/article/aimdesk-pro-7/",
         "https://www.gizmodo.jp/article/new_planet_three_million_years_old-igq/",
         "https://www.gizmodo.jp/article/ai_story_chatapp_delusion/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/9694e5cc-5e24-4a1d-8f9c-a3c503dfcad4/",
         "https://www.gizmodo.jp/article/huawei-pura-90s-pro/",
         "https://www.gizmodo.jp/article/samsung-smart-tag3-rumor/",
-        "https://www.gizmodo.jp/article/elecom_wireless-rechargeable_smart-tag_ios/",
-        "https://www.gizmodo.jp/article/pixel-11-series-color-variations-leaked/"
+        "https://www.gizmodo.jp/article/elecom_wireless-rechargeable_smart-tag_ios/"
     ]
 }
