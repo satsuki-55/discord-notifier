@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/videos/cr5965695nyo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015186311000",
         "https://news.web.nhk/newsweb/na/na-k10015186111000",
         "https://news.web.nhk/newsweb/na/na-k10015186081000",
         "https://news.web.nhk/newsweb/na/na-k10015186101000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015184101000",
         "https://news.web.nhk/newsweb/na/na-k10015184151000",
         "https://news.web.nhk/newsweb/na/na-k10015184121000",
-        "https://news.web.nhk/newsweb/na/na-k10015184161000",
-        "https://news.web.nhk/newsweb/na/na-k10015184091000"
+        "https://news.web.nhk/newsweb/na/na-k10015184161000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/how_to_write_claude_instruction/",
