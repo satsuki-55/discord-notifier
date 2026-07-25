@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cwyrj7ww1gko#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015186361000",
         "https://news.web.nhk/newsweb/na/na-k10015186381000",
         "https://news.web.nhk/newsweb/na/na-k10015184101000",
         "https://news.web.nhk/newsweb/na/na-k10015186371000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015184211000",
         "https://news.web.nhk/newsweb/na/na-k10015184201000",
         "https://news.web.nhk/newsweb/na/na-k10015184191000",
-        "https://news.web.nhk/newsweb/na/na-k10015184171000",
-        "https://news.web.nhk/newsweb/na/na-k10015184181000"
+        "https://news.web.nhk/newsweb/na/na-k10015184171000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/ikea-foersaesong/",
