@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/clyv4y3xdvgo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015186011000",
         "https://news.web.nhk/newsweb/na/na-k10015186051000",
         "https://news.web.nhk/newsweb/na/na-k10015186061000",
         "https://news.web.nhk/newsweb/na/na-k10015183351000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015183751000",
         "https://news.web.nhk/newsweb/na/na-k10015183831000",
         "https://news.web.nhk/newsweb/na/na-k10015183781000",
-        "https://news.web.nhk/newsweb/na/na-k10015183761000",
-        "https://news.web.nhk/newsweb/na/na-k10015183631000"
+        "https://news.web.nhk/newsweb/na/na-k10015183761000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/bellelife_icemaker_review/",
