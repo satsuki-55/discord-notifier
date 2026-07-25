@@ -1,5 +1,5 @@
 {
-    "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "CukMTXbth44",
+    "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "AzaaIy-nsZs",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "PycoAISwXvM",
     "rss:bbc": [
         "https://www.bbc.co.uk/news/articles/c1w10gwnj74o#1",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015183281000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/ancient-script-of-the-indus-civilization-kgw/",
         "https://www.gizmodo.jp/article/car-companies-finally-solved-cupholders-but-not-infotainment/",
         "https://www.gizmodo.jp/article/apple-packaging-lab-2026/",
         "https://www.gizmodo.jp/article/aimdesk-pro-7/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/photon-matrix-ebg/",
         "https://www.gizmodo.jp/article/unprecedented-european-heatwave-has-killed-more-than-20000-new-study-claims/",
         "https://www.gizmodo.jp/article/9694e5cc-5e24-4a1d-8f9c-a3c503dfcad4/",
-        "https://www.gizmodo.jp/article/huawei-pura-90s-pro/",
-        "https://www.gizmodo.jp/article/samsung-smart-tag3-rumor/"
+        "https://www.gizmodo.jp/article/huawei-pura-90s-pro/"
     ]
 }
