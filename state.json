@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/c80n5rvx917o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015183331000",
+        "https://news.web.nhk/newsweb/na/na-k10015186021000",
         "https://news.web.nhk/newsweb/na/na-k10015185971000",
         "https://news.web.nhk/newsweb/na/na-k10015185991000",
         "https://news.web.nhk/newsweb/na/na-k10015185941000",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015183321000",
         "https://news.web.nhk/newsweb/na/na-k10015183611000",
         "https://news.web.nhk/newsweb/na/na-k10015183471000",
-        "https://news.web.nhk/newsweb/na/na-k10015183351000",
-        "https://news.web.nhk/newsweb/na/na-k10015183481000",
-        "https://news.web.nhk/newsweb/na/na-k10015183331000"
+        "https://news.web.nhk/newsweb/na/na-k10015183351000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/3coins-salad-spinner-with-handle-review-uzm/",
