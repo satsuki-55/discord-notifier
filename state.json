@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/ce8kvm84lxmo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015185891000",
         "https://news.web.nhk/newsweb/na/na-k10015185881000",
         "https://news.web.nhk/newsweb/na/na-k10015185841000",
         "https://news.web.nhk/newsweb/na/na-k10015185871000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015141141000",
         "https://news.web.nhk/newsweb/na/na-k10015183281000",
         "https://news.web.nhk/newsweb/na/na-k10015183111000",
-        "https://news.web.nhk/newsweb/na/na-k10015182941000",
-        "https://news.web.nhk/newsweb/na/na-k10015183021000"
+        "https://news.web.nhk/newsweb/na/na-k10015182941000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/apple-packaging-lab-2026/",
