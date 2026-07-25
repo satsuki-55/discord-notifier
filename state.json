@@ -2,6 +2,13 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "AzaaIy-nsZs",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "PycoAISwXvM",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cvgxejg9evjo#1",
+        "https://www.bbc.co.uk/news/articles/c5yrjgj984qo#0",
+        "https://www.bbc.co.uk/news/articles/c4gkxppljpyo#0",
+        "https://www.bbc.co.uk/news/articles/c935q2k6pxqo#0",
+        "https://www.bbc.co.uk/sport/swimming/articles/cz053k47p0ko#0",
+        "https://www.bbc.co.uk/news/articles/c2dkx01n0y1o#1",
+        "https://www.bbc.co.uk/news/articles/c33y3151vydo#1",
         "https://www.bbc.co.uk/news/articles/cj637j9gkd9o#0",
         "https://www.bbc.co.uk/news/articles/clyqzylz3zno#0",
         "https://www.bbc.co.uk/news/articles/cwylnl17w09o#0",
@@ -194,16 +201,10 @@
         "https://www.bbc.co.uk/news/articles/cm2glm5r185o#1",
         "https://www.bbc.co.uk/sport/athletics/articles/crrv0nzq8wgo#0",
         "https://www.bbc.co.uk/news/articles/cwyrj7ww1gko#1",
-        "https://www.bbc.co.uk/news/articles/c4gkxppljpyo#1",
-        "https://www.bbc.co.uk/news/articles/cwym1pk22g1o#0",
-        "https://www.bbc.co.uk/news/articles/c6297nw20k0o#0",
-        "https://www.bbc.co.uk/news/articles/c3d3507ng37o#0",
-        "https://www.bbc.co.uk/news/articles/c4gkxppljpyo#0",
-        "https://www.bbc.co.uk/news/articles/cx2rkl1778zo#0",
-        "https://www.bbc.co.uk/news/articles/cz97x8k4zqzo#0",
-        "https://www.bbc.co.uk/news/articles/c5yrjgj984qo#0"
+        "https://www.bbc.co.uk/news/articles/c4gkxppljpyo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015186381000",
         "https://news.web.nhk/newsweb/na/na-k10015184101000",
         "https://news.web.nhk/newsweb/na/na-k10015186371000",
         "https://news.web.nhk/newsweb/na/na-k10015186321000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015184201000",
         "https://news.web.nhk/newsweb/na/na-k10015184191000",
         "https://news.web.nhk/newsweb/na/na-k10015184171000",
-        "https://news.web.nhk/newsweb/na/na-k10015184181000",
-        "https://news.web.nhk/newsweb/na/na-k10015180021000"
+        "https://news.web.nhk/newsweb/na/na-k10015184181000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/ikea-foersaesong/",
