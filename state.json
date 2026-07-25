@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015184101000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/ikea-foersaesong/",
         "https://www.gizmodo.jp/article/oneplus-demise/",
         "https://www.gizmodo.jp/article/how_to_write_claude_instruction/",
         "https://www.gizmodo.jp/article/bellelife_icemaker_review/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/lenovo-legion-pro-27ud-10-review-slim-pretty-and-just-a-little-boring/",
         "https://www.gizmodo.jp/article/sarahiya-shirts-bzo/",
         "https://www.gizmodo.jp/article/the-results-were-disastrous-after-a-professor-suspecting-ai-use-switched-to-in-person-final-exams/",
-        "https://www.gizmodo.jp/article/sabae-glass-cleaner-zzi/",
-        "https://www.gizmodo.jp/article/half-bike/"
+        "https://www.gizmodo.jp/article/sabae-glass-cleaner-zzi/"
     ]
 }
