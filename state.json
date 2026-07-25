@@ -2,6 +2,8 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "AzaaIy-nsZs",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "PycoAISwXvM",
     "rss:bbc": [
+        "https://www.bbc.co.uk/sport/swimming/articles/c4gw7pzg70yo#0",
+        "https://www.bbc.co.uk/news/articles/cd7ldjrl2reo#1",
         "https://www.bbc.co.uk/news/articles/c20jdy584pvo#0",
         "https://www.bbc.co.uk/news/articles/cm2g3053ejko#1",
         "https://www.bbc.co.uk/sport/athletics/articles/cewrk7ee4n1o#0",
@@ -199,11 +201,10 @@
         "https://www.bbc.co.uk/news/articles/ckg4xj8j5vjo#1",
         "https://www.bbc.co.uk/news/articles/c80nlz8j0rzo#1",
         "https://www.bbc.co.uk/news/articles/cm2g11ng7j2o#1",
-        "https://www.bbc.co.uk/news/articles/cy4kmr82n44o#0",
-        "https://www.bbc.co.uk/news/articles/cz64pn37138o#0",
-        "https://www.bbc.co.uk/news/articles/c5ye2gyz0x4o#1"
+        "https://www.bbc.co.uk/news/articles/cy4kmr82n44o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015186151000",
         "https://news.web.nhk/newsweb/na/na-k10015186191000",
         "https://news.web.nhk/newsweb/na/na-k10015186211000",
         "https://news.web.nhk/newsweb/na/na-k10015186161000",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/na-k10015183981000",
         "https://news.web.nhk/newsweb/na/na-k10015183961000",
         "https://news.web.nhk/newsweb/na/na-k10015183991000",
-        "https://news.web.nhk/newsweb/na/na-k10015184051000",
-        "https://news.web.nhk/newsweb/na/na-k10015183861000"
+        "https://news.web.nhk/newsweb/na/na-k10015184051000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/how_to_write_claude_instruction/",
         "https://www.gizmodo.jp/article/bellelife_icemaker_review/",
         "https://www.gizmodo.jp/article/items_on_your_desk/",
         "https://www.gizmodo.jp/article/captured-and-collared-the-heaviest-florida-panther-ever-recorded-aix/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/the-results-were-disastrous-after-a-professor-suspecting-ai-use-switched-to-in-person-final-exams/",
         "https://www.gizmodo.jp/article/sabae-glass-cleaner-zzi/",
         "https://www.gizmodo.jp/article/half-bike/",
-        "https://www.gizmodo.jp/article/trump-coin/",
-        "https://www.gizmodo.jp/article/deposit_interest_rate/"
+        "https://www.gizmodo.jp/article/trump-coin/"
     ]
 }
