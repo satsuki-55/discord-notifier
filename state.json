@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cz05rdn1n80o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015186811000",
         "https://news.web.nhk/newsweb/na/na-k10015186761000",
         "https://news.web.nhk/newsweb/na/na-k10015184361000",
         "https://news.web.nhk/newsweb/na/na-k10015186771000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015184111000",
         "https://news.web.nhk/newsweb/na/na-k10015184731000",
         "https://news.web.nhk/newsweb/na/na-k10015184721000",
-        "https://news.web.nhk/newsweb/na/na-k10015184711000",
-        "https://news.web.nhk/newsweb/na/na-k10015184421000"
+        "https://news.web.nhk/newsweb/na/na-k10015184711000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/sugar-mole-1/",
