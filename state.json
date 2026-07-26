@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/videos/cly893zrjgdo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015186471000",
         "https://news.web.nhk/newsweb/na/na-k10015186441000",
         "https://news.web.nhk/newsweb/na/na-k10015186431000",
         "https://news.web.nhk/newsweb/na/na-k10015186401000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015184251000",
         "https://news.web.nhk/newsweb/na/na-k10015184231000",
         "https://news.web.nhk/newsweb/na/na-k10015184221000",
-        "https://news.web.nhk/newsweb/na/na-k10015184261000",
-        "https://news.web.nhk/newsweb/na/na-k10015184211000"
+        "https://news.web.nhk/newsweb/na/na-k10015184261000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/cooking_somen-wfv/",
