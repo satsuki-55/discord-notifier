@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/cwyrj7ww1gko#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015186631000",
+        "https://news.web.nhk/newsweb/na/na-k10015186621000",
         "https://news.web.nhk/newsweb/na/na-k10015186611000",
         "https://news.web.nhk/newsweb/na/na-k10015186591000",
         "https://news.web.nhk/newsweb/na/na-k10015186571000",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015184381000",
         "https://news.web.nhk/newsweb/na/na-k10015184391000",
         "https://news.web.nhk/newsweb/na/na-k10015184401000",
-        "https://news.web.nhk/newsweb/na/na-k10015184351000",
-        "https://news.web.nhk/newsweb/na/na-k10015184341000",
-        "https://news.web.nhk/newsweb/na/na-k10015184301000"
+        "https://news.web.nhk/newsweb/na/na-k10015184351000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/marna-coffee-deodorizer-pot-review-2nr/",
