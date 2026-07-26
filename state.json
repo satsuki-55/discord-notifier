@@ -1,5 +1,5 @@
 {
-    "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "AzaaIy-nsZs",
+    "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "qPGLNkH7_do",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "PycoAISwXvM",
     "rss:bbc": [
         "https://www.bbc.co.uk/news/articles/c4g3x4j8pgro#0",
@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cqx7wd3x420o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015186591000",
         "https://news.web.nhk/newsweb/na/na-k10015186571000",
         "https://news.web.nhk/newsweb/na/na-k10015186551000",
         "https://news.web.nhk/newsweb/na/na-k10015186531000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015184351000",
         "https://news.web.nhk/newsweb/na/na-k10015184341000",
         "https://news.web.nhk/newsweb/na/na-k10015184301000",
-        "https://news.web.nhk/newsweb/na/na-k10015184321000",
-        "https://news.web.nhk/newsweb/na/na-k10015184371000"
+        "https://news.web.nhk/newsweb/na/na-k10015184321000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/razer_cinnamoroll_edition/",
