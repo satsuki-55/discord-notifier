@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cg74gvy8lgjo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015186531000",
         "https://news.web.nhk/newsweb/na/na-k10015186511000",
         "https://news.web.nhk/newsweb/na/na-k10015186351000",
         "https://news.web.nhk/newsweb/na/na-k10015186411000",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/na-k10015184321000",
         "https://news.web.nhk/newsweb/na/na-k10015184371000",
         "https://news.web.nhk/newsweb/na/na-k10015184331000",
-        "https://news.web.nhk/newsweb/na/na-k10015184271000",
-        "https://news.web.nhk/newsweb/na/na-k10015184291000"
+        "https://news.web.nhk/newsweb/na/na-k10015184271000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/7e6ff7ee-92a3-455c-9057-a8bb9a4586b7/",
         "https://www.gizmodo.jp/article/camp-snap-2-review/",
         "https://www.gizmodo.jp/article/cooking_somen-wfv/",
         "https://www.gizmodo.jp/article/samsung-galaxy-z-fold-8-hands-on-shorter-and-wider-is-superior/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/humanoid-robots-just-performed-surgery-using-standard-medical-tools/",
         "https://www.gizmodo.jp/article/i-cant-afford-this-t-rex-up-for-auction-at-sothebys-starting-bid-is-19-million/",
         "https://www.gizmodo.jp/article/cool_spacecool_cool/",
-        "https://www.gizmodo.jp/article/narwal-freo-z10-turbo-review-midrange-vacuum-high-end-performance/",
-        "https://www.gizmodo.jp/article/amazon-hiezou-kun/"
+        "https://www.gizmodo.jp/article/narwal-freo-z10-turbo-review-midrange-vacuum-high-end-performance/"
     ]
 }
