@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "qPGLNkH7_do",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "PycoAISwXvM",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c8en74yz5e7o#0",
         "https://www.bbc.co.uk/news/articles/c70gknr7z1eo#1",
         "https://www.bbc.co.uk/news/videos/c74gzknyyz2o#0",
         "https://www.bbc.co.uk/news/articles/c1d1gz3n99ro#1",
@@ -200,10 +201,11 @@
         "https://www.bbc.co.uk/news/articles/cevmenngkzpo#0",
         "https://www.bbc.co.uk/news/articles/cx27mg0erd3o#0",
         "https://www.bbc.co.uk/news/articles/cwyq3lnndvxo#0",
-        "https://www.bbc.co.uk/news/articles/cqlxvvw06pqo#0",
-        "https://www.bbc.co.uk/news/articles/cx2djnzrqk2o#0"
+        "https://www.bbc.co.uk/news/articles/cqlxvvw06pqo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015186751000",
+        "https://news.web.nhk/newsweb/na/na-k10015186741000",
         "https://news.web.nhk/newsweb/na/na-k10015186661000",
         "https://news.web.nhk/newsweb/na/na-k10015186731000",
         "https://news.web.nhk/newsweb/na/na-k10015186651000",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015184591000",
         "https://news.web.nhk/newsweb/na/na-k10015184541000",
         "https://news.web.nhk/newsweb/na/na-k10015184531000",
-        "https://news.web.nhk/newsweb/na/na-k10015184521000",
-        "https://news.web.nhk/newsweb/na/na-k10015184511000",
-        "https://news.web.nhk/newsweb/na/na-k10015184381000"
+        "https://news.web.nhk/newsweb/na/na-k10015184521000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/issue-with-magic-eraser-ugy/",
