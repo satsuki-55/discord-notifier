@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cqlxvvw06pqo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015186711000",
         "https://news.web.nhk/newsweb/na/na-k10015186751000",
         "https://news.web.nhk/newsweb/na/na-k10015186741000",
         "https://news.web.nhk/newsweb/na/na-k10015186661000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015184581000",
         "https://news.web.nhk/newsweb/na/na-k10015184591000",
         "https://news.web.nhk/newsweb/na/na-k10015184541000",
-        "https://news.web.nhk/newsweb/na/na-k10015184531000",
-        "https://news.web.nhk/newsweb/na/na-k10015184521000"
+        "https://news.web.nhk/newsweb/na/na-k10015184531000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/issue-with-magic-eraser-ugy/",
