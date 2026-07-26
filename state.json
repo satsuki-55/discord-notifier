@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "qPGLNkH7_do",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "PycoAISwXvM",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cevmdxz4872o#0",
         "https://www.bbc.co.uk/news/articles/c8en74yz5e7o#0",
         "https://www.bbc.co.uk/news/articles/c70gknr7z1eo#1",
         "https://www.bbc.co.uk/news/videos/c74gzknyyz2o#0",
@@ -200,8 +201,7 @@
         "https://www.bbc.co.uk/news/articles/cvg9n2y61w6o#1",
         "https://www.bbc.co.uk/news/articles/cevmenngkzpo#0",
         "https://www.bbc.co.uk/news/articles/cx27mg0erd3o#0",
-        "https://www.bbc.co.uk/news/articles/cwyq3lnndvxo#0",
-        "https://www.bbc.co.uk/news/articles/cqlxvvw06pqo#0"
+        "https://www.bbc.co.uk/news/articles/cwyq3lnndvxo#0"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/na-k10015186711000",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015184531000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/bicycle_high_tech_items/",
         "https://www.gizmodo.jp/article/issue-with-magic-eraser-ugy/",
         "https://www.gizmodo.jp/article/mont-bell-long-tail-trekking-umbrella/",
         "https://www.gizmodo.jp/article/marna-coffee-deodorizer-pot-review-2nr/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/thanko-handy-slicer/",
         "https://www.gizmodo.jp/article/dpvr-r1/",
         "https://www.gizmodo.jp/article/acers-first-new-phone-in-years-has-a-screen-on-the-back/",
-        "https://www.gizmodo.jp/article/2028-could-bring-the-most-mind-bendingly-expensive-apple-product-of-all-time/",
-        "https://www.gizmodo.jp/article/anessa-brush-on-powder/"
+        "https://www.gizmodo.jp/article/2028-could-bring-the-most-mind-bendingly-expensive-apple-product-of-all-time/"
     ]
 }
