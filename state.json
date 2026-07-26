@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/videos/cly893zrjgdo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015186431000",
         "https://news.web.nhk/newsweb/na/na-k10015186401000",
         "https://news.web.nhk/newsweb/na/na-k10015186361000",
         "https://news.web.nhk/newsweb/na/na-k10015186381000",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/na-k10015184221000",
         "https://news.web.nhk/newsweb/na/na-k10015184261000",
         "https://news.web.nhk/newsweb/na/na-k10015184211000",
-        "https://news.web.nhk/newsweb/na/na-k10015184201000",
-        "https://news.web.nhk/newsweb/na/na-k10015184191000"
+        "https://news.web.nhk/newsweb/na/na-k10015184201000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/samsung-galaxy-z-fold-8-hands-on-shorter-and-wider-is-superior/",
         "https://www.gizmodo.jp/article/why-are-these-whale-moms-floating-upside-down-scientists-finally-have-an-answer/",
         "https://www.gizmodo.jp/article/ikea-foersaesong/",
         "https://www.gizmodo.jp/article/oneplus-demise/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/narwal-freo-z10-turbo-review-midrange-vacuum-high-end-performance/",
         "https://www.gizmodo.jp/article/amazon-hiezou-kun/",
         "https://www.gizmodo.jp/article/lenovo-legion-pro-27ud-10-review-slim-pretty-and-just-a-little-boring/",
-        "https://www.gizmodo.jp/article/sarahiya-shirts-bzo/",
-        "https://www.gizmodo.jp/article/the-results-were-disastrous-after-a-professor-suspecting-ai-use-switched-to-in-person-final-exams/"
+        "https://www.gizmodo.jp/article/sarahiya-shirts-bzo/"
     ]
 }
