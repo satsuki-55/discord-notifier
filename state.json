@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015184891000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/analog-machine-works-tetra/",
         "https://www.gizmodo.jp/article/brushboarding/",
         "https://www.gizmodo.jp/article/mellotron-m4000d-micro/",
         "https://www.gizmodo.jp/article/samsungs-galaxy-z-fold-8-is-basically-a-free-ad-for-apples-foldable/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/daiso-air-tag-brg/",
         "https://www.gizmodo.jp/article/claude-and-chatgpt-are-getting-too-expensive-even-for-microsoft/",
         "https://www.gizmodo.jp/article/trustnic-car-fan-vvc/",
-        "https://www.gizmodo.jp/article/commercial-spaceflight-just-entered-the-nuclear-age/",
-        "https://www.gizmodo.jp/article/freshservicesports_newcollection/"
+        "https://www.gizmodo.jp/article/commercial-spaceflight-just-entered-the-nuclear-age/"
     ]
 }
