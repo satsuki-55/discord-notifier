@@ -2,6 +2,8 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "WOmYaggitAU",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "PycoAISwXvM",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cqjx4xxdrj2o#1",
+        "https://www.bbc.co.uk/news/articles/c2350xnl4j5o#0",
         "https://www.bbc.co.uk/news/articles/c2dkew9kjd5o#0",
         "https://www.bbc.co.uk/news/articles/cgq5v72jqglo#1",
         "https://www.bbc.co.uk/news/articles/cwyenzw2l4lo#0",
@@ -199,11 +201,10 @@
         "https://www.bbc.co.uk/news/articles/cd9w2xnxe1qo#1",
         "https://www.bbc.co.uk/news/articles/cz97ngjpg3lo#0",
         "https://www.bbc.co.uk/news/articles/cd0xnge2zx7o#0",
-        "https://www.bbc.co.uk/news/articles/cwymj9jmnm0o#0",
-        "https://www.bbc.co.uk/news/articles/c5ye2xlznv7o#1",
-        "https://www.bbc.co.uk/news/articles/cx2rxmye4k3o#0"
+        "https://www.bbc.co.uk/news/articles/cwymj9jmnm0o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015187391000",
         "https://news.web.nhk/newsweb/na/na-k10015187441000",
         "https://news.web.nhk/newsweb/na/na-k10015187351000",
         "https://news.web.nhk/newsweb/na/na-k10015187331000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015185071000",
         "https://news.web.nhk/newsweb/na/na-k10015185171000",
         "https://news.web.nhk/newsweb/na/na-k10015185121000",
-        "https://news.web.nhk/newsweb/na/na-k10015184881000",
-        "https://news.web.nhk/newsweb/na/na-k10015185111000"
+        "https://news.web.nhk/newsweb/na/na-k10015184881000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/china-just-dropped-another-bomb-on-americas-frontier-ai-companies/",
