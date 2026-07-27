@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015184971000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2607-fiat-ev-america-golf-cart-vqr/",
         "https://www.gizmodo.jp/article/analog-machine-works-tetra/",
         "https://www.gizmodo.jp/article/brushboarding/",
         "https://www.gizmodo.jp/article/mellotron-m4000d-micro/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/when-it-comes-to-energy-use-ai-agents-could-make-chatbots-look-like-pocket-calculators/",
         "https://www.gizmodo.jp/article/daiso-air-tag-brg/",
         "https://www.gizmodo.jp/article/claude-and-chatgpt-are-getting-too-expensive-even-for-microsoft/",
-        "https://www.gizmodo.jp/article/trustnic-car-fan-vvc/",
-        "https://www.gizmodo.jp/article/commercial-spaceflight-just-entered-the-nuclear-age/"
+        "https://www.gizmodo.jp/article/trustnic-car-fan-vvc/"
     ]
 }
