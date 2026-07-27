@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015187331000",
+        "https://news.web.nhk/newsweb/na/na-k10015187341000",
         "https://news.web.nhk/newsweb/na/na-k10015187311000",
         "https://news.web.nhk/newsweb/na/na-k10015187261000",
         "https://news.web.nhk/newsweb/na/na-k10015187301000",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015184881000",
         "https://news.web.nhk/newsweb/na/na-k10015185111000",
         "https://news.web.nhk/newsweb/na/na-k10015185041000",
-        "https://news.web.nhk/newsweb/na/na-k10015185021000",
-        "https://news.web.nhk/newsweb/na/na-k10015185051000",
-        "https://news.web.nhk/newsweb/na/na-k10015185081000"
+        "https://news.web.nhk/newsweb/na/na-k10015185021000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/galaxy-ring-sleep-apnea-syndrome/",
