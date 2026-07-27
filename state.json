@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c5y0m8lzq1qo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015187481000",
         "https://news.web.nhk/newsweb/na/na-k10015187491000",
         "https://news.web.nhk/newsweb/na/na-k10015185181000",
         "https://news.web.nhk/newsweb/na/na-k10015187591000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015185301000",
         "https://news.web.nhk/newsweb/na/na-k10015182351000",
         "https://news.web.nhk/newsweb/na/na-k10015185291000",
-        "https://news.web.nhk/newsweb/na/na-k10015185281000",
-        "https://news.web.nhk/newsweb/na/na-k10015185321000"
+        "https://news.web.nhk/newsweb/na/na-k10015185281000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/7in1-drinkholder_review/",
