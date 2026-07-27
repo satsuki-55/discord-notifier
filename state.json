@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "WOmYaggitAU",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "PycoAISwXvM",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c5y4w5nwk00o#0",
         "https://www.bbc.co.uk/news/articles/c4nnkylr0llo#0",
         "https://www.bbc.co.uk/sport/football/articles/cz0515973gpo#1",
         "https://www.bbc.co.uk/news/articles/c1m1ev5j3m2o#0",
@@ -200,8 +201,7 @@
         "https://www.bbc.co.uk/news/articles/cx2jnj3428lo#0",
         "https://www.bbc.co.uk/news/videos/c5yw2xgnv2jo#0",
         "https://www.bbc.co.uk/news/articles/c7vgz680977o#1",
-        "https://www.bbc.co.uk/news/articles/ckg68jky65eo#1",
-        "https://www.bbc.co.uk/news/articles/c8xn4p7xqy9o#0"
+        "https://www.bbc.co.uk/news/articles/ckg68jky65eo#1"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/na-k10015187351000",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015185041000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/china-just-dropped-another-bomb-on-americas-frontier-ai-companies/",
         "https://www.gizmodo.jp/article/galaxy-ring-sleep-apnea-syndrome/",
         "https://www.gizmodo.jp/article/lego-donkey-kong-arcade-game/",
         "https://www.gizmodo.jp/article/daiso-compression-bag-review-lbv/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/high_school_student_invented_filter/",
         "https://www.gizmodo.jp/article/just-16-of-americans-believe-ai-will-positively-impact-society-pew-poll-finds/",
         "https://www.gizmodo.jp/article/x-by-xreal-a01-review-ar-glasses-that-are-light-on-your-face-and-wallet/",
-        "https://www.gizmodo.jp/article/ewin-foldable-keyboard/",
-        "https://www.gizmodo.jp/article/google-pixel-11-release-day/"
+        "https://www.gizmodo.jp/article/ewin-foldable-keyboard/"
     ]
 }
