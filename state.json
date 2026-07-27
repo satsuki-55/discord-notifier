@@ -2,6 +2,8 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "qPGLNkH7_do",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "PycoAISwXvM",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c8dng1v72lno#0",
+        "https://www.bbc.co.uk/news/articles/cjrv77gl4deo#1",
         "https://www.bbc.co.uk/news/articles/cr59m5nmemno#0",
         "https://www.bbc.co.uk/news/articles/c9d8jgw769zo#1",
         "https://www.bbc.co.uk/news/articles/cm2g044ydl4o#0",
@@ -199,9 +201,7 @@
         "https://www.bbc.co.uk/news/articles/cwye71yq8wwo#1",
         "https://www.bbc.co.uk/news/articles/c1d1gkr695ro#0",
         "https://www.bbc.co.uk/news/articles/c0l5z9g35zpo#1",
-        "https://www.bbc.co.uk/news/articles/cvgl9vp4vqvo#0",
-        "https://www.bbc.co.uk/news/articles/cx2vqj2e9x8o#1",
-        "https://www.bbc.co.uk/news/articles/ckg68jky65eo#0"
+        "https://www.bbc.co.uk/news/articles/cvgl9vp4vqvo#0"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/na-k10015187271000",
@@ -406,6 +406,8 @@
         "https://news.web.nhk/newsweb/na/na-k10015185001000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/lego-donkey-kong-arcade-game/",
+        "https://www.gizmodo.jp/article/daiso-compression-bag-review-lbv/",
         "https://www.gizmodo.jp/article/nokia-300-power-bank/",
         "https://www.gizmodo.jp/article/movably-pro-202607/",
         "https://www.gizmodo.jp/article/2607-fiat-ev-america-golf-cart-vqr/",
@@ -603,8 +605,6 @@
         "https://www.gizmodo.jp/article/x-by-xreal-a01-review-ar-glasses-that-are-light-on-your-face-and-wallet/",
         "https://www.gizmodo.jp/article/ewin-foldable-keyboard/",
         "https://www.gizmodo.jp/article/google-pixel-11-release-day/",
-        "https://www.gizmodo.jp/article/marshall-milton-anc-youtube/",
-        "https://www.gizmodo.jp/article/when-it-comes-to-energy-use-ai-agents-could-make-chatbots-look-like-pocket-calculators/",
-        "https://www.gizmodo.jp/article/daiso-air-tag-brg/"
+        "https://www.gizmodo.jp/article/marshall-milton-anc-youtube/"
     ]
 }
