@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c62vqj7ged4o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015187241000",
         "https://news.web.nhk/newsweb/na/na-k10015187231000",
         "https://news.web.nhk/newsweb/na/na-k10015187201000",
         "https://news.web.nhk/newsweb/na/na-k10015187221000",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/na-k10015184951000",
         "https://news.web.nhk/newsweb/na/na-k10015184981000",
         "https://news.web.nhk/newsweb/na/na-k10015184941000",
-        "https://news.web.nhk/newsweb/na/na-k10015185011000",
-        "https://news.web.nhk/newsweb/na/na-k10015184971000"
+        "https://news.web.nhk/newsweb/na/na-k10015185011000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/movably-pro-202607/",
         "https://www.gizmodo.jp/article/2607-fiat-ev-america-golf-cart-vqr/",
         "https://www.gizmodo.jp/article/analog-machine-works-tetra/",
         "https://www.gizmodo.jp/article/brushboarding/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/marshall-milton-anc-youtube/",
         "https://www.gizmodo.jp/article/when-it-comes-to-energy-use-ai-agents-could-make-chatbots-look-like-pocket-calculators/",
         "https://www.gizmodo.jp/article/daiso-air-tag-brg/",
-        "https://www.gizmodo.jp/article/claude-and-chatgpt-are-getting-too-expensive-even-for-microsoft/",
-        "https://www.gizmodo.jp/article/trustnic-car-fan-vvc/"
+        "https://www.gizmodo.jp/article/claude-and-chatgpt-are-getting-too-expensive-even-for-microsoft/"
     ]
 }
