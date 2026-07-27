@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cvgl9vp4vqvo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015187301000",
         "https://news.web.nhk/newsweb/na/na-k10015187271000",
         "https://news.web.nhk/newsweb/na/na-k10015187281000",
         "https://news.web.nhk/newsweb/na/na-k10015184941000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015185051000",
         "https://news.web.nhk/newsweb/na/na-k10015185081000",
         "https://news.web.nhk/newsweb/na/na-k10015185091000",
-        "https://news.web.nhk/newsweb/na/na-k10015185031000",
-        "https://news.web.nhk/newsweb/na/na-k10015185001000"
+        "https://news.web.nhk/newsweb/na/na-k10015185031000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/lego-donkey-kong-arcade-game/",
