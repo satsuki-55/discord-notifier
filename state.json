@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "WOmYaggitAU",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "PycoAISwXvM",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cd9w22n9e4go#0",
         "https://www.bbc.co.uk/news/articles/cvg97dj5n16o#0",
         "https://www.bbc.co.uk/news/articles/c5y063yqlleo#0",
         "https://www.bbc.co.uk/news/articles/ckg34128nvpo#0",
@@ -200,10 +201,10 @@
         "https://www.bbc.co.uk/news/articles/c204le0nvn3o#1",
         "https://www.bbc.co.uk/news/articles/c70gq125xweo#0",
         "https://www.bbc.co.uk/news/articles/cz05rdn1n80o#1",
-        "https://www.bbc.co.uk/news/articles/cx2rxmye4k3o#1",
-        "https://www.bbc.co.uk/news/videos/cwyje55dw4xo#0"
+        "https://www.bbc.co.uk/news/articles/cx2rxmye4k3o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015187401000",
         "https://news.web.nhk/newsweb/na/na-k10015187581000",
         "https://news.web.nhk/newsweb/na/na-k10015187481000",
         "https://news.web.nhk/newsweb/na/na-k10015187491000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015185401000",
         "https://news.web.nhk/newsweb/na/na-k10015185271000",
         "https://news.web.nhk/newsweb/na/na-k10015185301000",
-        "https://news.web.nhk/newsweb/na/na-k10015182351000",
-        "https://news.web.nhk/newsweb/na/na-k10015185291000"
+        "https://news.web.nhk/newsweb/na/na-k10015182351000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/fossil-challenges-dinosaur-origin-theories-olu/",
