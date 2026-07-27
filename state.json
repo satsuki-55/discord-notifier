@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015185231000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/pixel11_price-increase_news/",
         "https://www.gizmodo.jp/article/a-study-tried-to-quantify-how-many-linkedin-posts-are-100-ai-its-a-lot/",
         "https://www.gizmodo.jp/article/slimpower-h1/",
         "https://www.gizmodo.jp/article/weimall_cool-seat_review/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/meta-thinks-it-can-convince-you-that-smart-glasses-need-facial-recognition/",
         "https://www.gizmodo.jp/article/ef498412-4fbc-4712-a35a-a2f168103412/",
         "https://www.gizmodo.jp/article/hiyashi-cupnoodle/",
-        "https://www.gizmodo.jp/article/nothing-smartphone/",
-        "https://www.gizmodo.jp/article/high_school_student_invented_filter/"
+        "https://www.gizmodo.jp/article/nothing-smartphone/"
     ]
 }
