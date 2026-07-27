@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015184841000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/mellotron-m4000d-micro/",
         "https://www.gizmodo.jp/article/samsungs-galaxy-z-fold-8-is-basically-a-free-ad-for-apples-foldable/",
         "https://www.gizmodo.jp/article/unplug-your-laptop-now-it-will-stay-plugged-in-forever-2/",
         "https://www.gizmodo.jp/article/this-startup-wants-to-buy-a-company-just-to-see-what-an-ai-ceo-does-with-it/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/trustnic-car-fan-vvc/",
         "https://www.gizmodo.jp/article/commercial-spaceflight-just-entered-the-nuclear-age/",
         "https://www.gizmodo.jp/article/freshservicesports_newcollection/",
-        "https://www.gizmodo.jp/article/data_center_fiber_optic_technician/",
-        "https://www.gizmodo.jp/article/hikoki_air_duster_review/"
+        "https://www.gizmodo.jp/article/data_center_fiber_optic_technician/"
     ]
 }
