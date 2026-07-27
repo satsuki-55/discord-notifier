@@ -2,6 +2,8 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "WOmYaggitAU",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "PycoAISwXvM",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/ce97nze240vo#0",
+        "https://www.bbc.co.uk/news/articles/cn0njd4e2evo#1",
         "https://www.bbc.co.uk/news/articles/cgmkygjk9g2o#0",
         "https://www.bbc.co.uk/news/articles/c872nj1n4xyo#0",
         "https://www.bbc.co.uk/news/articles/cjwxvw5ppw0o#0",
@@ -199,11 +201,10 @@
         "https://www.bbc.co.uk/news/articles/cd7le4ylev2o#0",
         "https://www.bbc.co.uk/news/articles/cj9d27v70j1o#0",
         "https://www.bbc.co.uk/news/articles/cqjxddx12qqo#1",
-        "https://www.bbc.co.uk/news/articles/cd7le4ylev2o#1",
-        "https://www.bbc.co.uk/news/articles/c1w10gwnj74o#1",
-        "https://www.bbc.co.uk/news/articles/c1w10gwnj74o#0"
+        "https://www.bbc.co.uk/news/articles/cd7le4ylev2o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015187681000",
         "https://news.web.nhk/newsweb/na/na-k10015185361000",
         "https://news.web.nhk/newsweb/na/na-k10015187571000",
         "https://news.web.nhk/newsweb/na/na-k10015185441000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015185481000",
         "https://news.web.nhk/newsweb/na/na-k10015185451000",
         "https://news.web.nhk/newsweb/na/na-k10015185421000",
-        "https://news.web.nhk/newsweb/na/na-k10015185531000",
-        "https://news.web.nhk/newsweb/na/na-k10015185521000"
+        "https://news.web.nhk/newsweb/na/na-k10015185531000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/mdr-cd900st-the-first-take-edition/",
