@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cly89wrmdxyo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015187171000",
         "https://news.web.nhk/newsweb/na/na-k10015187101000",
         "https://news.web.nhk/newsweb/na/na-k10015187131000",
         "https://news.web.nhk/newsweb/na/na-k10015187111000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015184921000",
         "https://news.web.nhk/newsweb/na/na-k10015184851000",
         "https://news.web.nhk/newsweb/na/na-k10015184841000",
-        "https://news.web.nhk/newsweb/na/na-k10015184831000",
-        "https://news.web.nhk/newsweb/na/na-k10015184791000"
+        "https://news.web.nhk/newsweb/na/na-k10015184831000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/unplug-your-laptop-now-it-will-stay-plugged-in-forever-2/",
