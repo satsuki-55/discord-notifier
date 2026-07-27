@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cly89wrmdxyo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015187141000",
         "https://news.web.nhk/newsweb/na/na-k10015187171000",
         "https://news.web.nhk/newsweb/na/na-k10015187101000",
         "https://news.web.nhk/newsweb/na/na-k10015187131000",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/na-k10015184891000",
         "https://news.web.nhk/newsweb/na/na-k10015184921000",
         "https://news.web.nhk/newsweb/na/na-k10015184851000",
-        "https://news.web.nhk/newsweb/na/na-k10015184841000",
-        "https://news.web.nhk/newsweb/na/na-k10015184831000"
+        "https://news.web.nhk/newsweb/na/na-k10015184841000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/samsungs-galaxy-z-fold-8-is-basically-a-free-ad-for-apples-foldable/",
         "https://www.gizmodo.jp/article/unplug-your-laptop-now-it-will-stay-plugged-in-forever-2/",
         "https://www.gizmodo.jp/article/this-startup-wants-to-buy-a-company-just-to-see-what-an-ai-ceo-does-with-it/",
         "https://www.gizmodo.jp/article/google_ai_water_withdrawal/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/commercial-spaceflight-just-entered-the-nuclear-age/",
         "https://www.gizmodo.jp/article/freshservicesports_newcollection/",
         "https://www.gizmodo.jp/article/data_center_fiber_optic_technician/",
-        "https://www.gizmodo.jp/article/hikoki_air_duster_review/",
-        "https://www.gizmodo.jp/article/ftnmotion-streetdog-xr/"
+        "https://www.gizmodo.jp/article/hikoki_air_duster_review/"
     ]
 }
