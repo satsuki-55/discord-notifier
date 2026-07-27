@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cd7le4ylev2o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015187511000",
         "https://news.web.nhk/newsweb/na/na-k10015187681000",
         "https://news.web.nhk/newsweb/na/na-k10015185361000",
         "https://news.web.nhk/newsweb/na/na-k10015187571000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015185491000",
         "https://news.web.nhk/newsweb/na/na-k10015185481000",
         "https://news.web.nhk/newsweb/na/na-k10015185451000",
-        "https://news.web.nhk/newsweb/na/na-k10015185421000",
-        "https://news.web.nhk/newsweb/na/na-k10015185531000"
+        "https://news.web.nhk/newsweb/na/na-k10015185421000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/leaping_out_of_the_water/",
