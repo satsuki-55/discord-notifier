@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c235n47g8g8o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015187571000",
         "https://news.web.nhk/newsweb/na/na-k10015185441000",
         "https://news.web.nhk/newsweb/na/na-k10015187661000",
         "https://news.web.nhk/newsweb/na/na-k10015187471000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015185421000",
         "https://news.web.nhk/newsweb/na/na-k10015185531000",
         "https://news.web.nhk/newsweb/na/na-k10015185521000",
-        "https://news.web.nhk/newsweb/na/na-k10015182831000",
-        "https://news.web.nhk/newsweb/na/na-k10015185361000"
+        "https://news.web.nhk/newsweb/na/na-k10015182831000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/mdr-cd900st-the-first-take-edition/",
