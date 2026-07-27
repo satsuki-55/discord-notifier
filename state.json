@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "WOmYaggitAU",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "PycoAISwXvM",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cy9wv74qje9o#0",
         "https://www.bbc.co.uk/news/articles/c8jn007gmpzo#0",
         "https://www.bbc.co.uk/news/articles/czjlnrn47lwo#1",
         "https://www.bbc.co.uk/news/articles/ce3qv0ggndno#0",
@@ -200,10 +201,10 @@
         "https://www.bbc.co.uk/news/articles/cj637zd1k1ko#0",
         "https://www.bbc.co.uk/news/articles/cwymjx3nrxvo#0",
         "https://www.bbc.co.uk/news/articles/cjwx4x04yqzo#1",
-        "https://www.bbc.co.uk/news/articles/c5y0m8lzq1qo#0",
-        "https://www.bbc.co.uk/news/articles/cg74gvy8lgjo#1"
+        "https://www.bbc.co.uk/news/articles/c5y0m8lzq1qo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015187491000",
         "https://news.web.nhk/newsweb/na/na-k10015185181000",
         "https://news.web.nhk/newsweb/na/na-k10015187591000",
         "https://news.web.nhk/newsweb/na/na-k10015187321000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015182351000",
         "https://news.web.nhk/newsweb/na/na-k10015185291000",
         "https://news.web.nhk/newsweb/na/na-k10015185281000",
-        "https://news.web.nhk/newsweb/na/na-k10015185321000",
-        "https://news.web.nhk/newsweb/na/na-k10015184911000"
+        "https://news.web.nhk/newsweb/na/na-k10015185321000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/what-is-the-smartest-way-to-power-the-ai-boom/",
