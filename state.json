@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/c9803j74091o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015188981000",
+        "https://news.web.nhk/newsweb/na/na-k10015189031000",
         "https://news.web.nhk/newsweb/na/na-k10015188881000",
         "https://news.web.nhk/newsweb/na/na-k10015188921000",
         "https://news.web.nhk/newsweb/na/na-k10015188771000",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015186641000",
         "https://news.web.nhk/newsweb/na/na-k10015141171000",
         "https://news.web.nhk/newsweb/na/na-k10015186711000",
-        "https://news.web.nhk/newsweb/na/na-k10015186751000",
-        "https://news.web.nhk/newsweb/na/na-k10015186741000",
-        "https://news.web.nhk/newsweb/na/na-k10015186661000"
+        "https://news.web.nhk/newsweb/na/na-k10015186751000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/shiromasa-elecom-the-mechanical-designers-accelerate-the-peripheral-products/",
