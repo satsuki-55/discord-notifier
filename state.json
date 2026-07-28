@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015185881000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/tombow_airpress_review/",
         "https://www.gizmodo.jp/article/cassette-tape-type-ii/",
         "https://www.gizmodo.jp/article/2607-warren-buffett-berkshire-hathaway-stock-philanthropy-foundations-death-gates-foundation-xkf/",
         "https://www.gizmodo.jp/article/3coins-smartphone-cooler/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/ai_burger_recipe/",
         "https://www.gizmodo.jp/article/anthropic_claude_new_movie/",
         "https://www.gizmodo.jp/article/oled-ipad-mini-may-launch-by-october/",
-        "https://www.gizmodo.jp/article/un-secretary-general-calls-for-global-ban-on-ai-killer-robots/",
-        "https://www.gizmodo.jp/article/meditation_hrv_research/"
+        "https://www.gizmodo.jp/article/un-secretary-general-calls-for-global-ban-on-ai-killer-robots/"
     ]
 }
