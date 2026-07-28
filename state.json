@@ -204,6 +204,9 @@
         "https://www.bbc.co.uk/news/articles/c20jdy584pvo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015188531000",
+        "https://news.web.nhk/newsweb/na/na-k10015188511000",
+        "https://news.web.nhk/newsweb/na/na-k10015188521000",
         "https://news.web.nhk/newsweb/na/na-k10015188491000",
         "https://news.web.nhk/newsweb/na/na-k10015186031000",
         "https://news.web.nhk/newsweb/na/na-k10015188471000",
@@ -400,10 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015186261000",
         "https://news.web.nhk/newsweb/na/na-k10015186271000",
         "https://news.web.nhk/newsweb/na/na-k10015186221000",
-        "https://news.web.nhk/newsweb/na/na-k10015186251000",
-        "https://news.web.nhk/newsweb/na/na-k10015186201000",
-        "https://news.web.nhk/newsweb/na/na-k10015186151000",
-        "https://news.web.nhk/newsweb/na/na-k10015186191000"
+        "https://news.web.nhk/newsweb/na/na-k10015186251000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/master-dynamic-me05-c7x/",
