@@ -2,6 +2,9 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "Nr4pruZIxbA",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "PycoAISwXvM",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cwylnl17w09o#0",
+        "https://www.bbc.co.uk/sport/football/articles/cpd741qn2y9o#0",
+        "https://www.bbc.co.uk/news/articles/clyqnz52rp6o#1",
         "https://www.bbc.co.uk/news/articles/cpd74e0yy12o#1",
         "https://www.bbc.co.uk/news/articles/c87nj3w9gxjo#0",
         "https://www.bbc.co.uk/news/articles/cx27mjvxgg1o#1",
@@ -198,12 +201,14 @@
         "https://www.bbc.co.uk/sport/swimming/articles/cz053k47p0ko#0",
         "https://www.bbc.co.uk/news/articles/c2dkx01n0y1o#1",
         "https://www.bbc.co.uk/news/articles/c33y3151vydo#1",
-        "https://www.bbc.co.uk/news/articles/cj637j9gkd9o#0",
-        "https://www.bbc.co.uk/news/articles/clyqzylz3zno#0",
-        "https://www.bbc.co.uk/news/articles/cwylnl17w09o#0",
-        "https://www.bbc.co.uk/news/articles/cdx828gj5xko#0"
+        "https://www.bbc.co.uk/news/articles/cj637j9gkd9o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015186101000",
+        "https://news.web.nhk/newsweb/na/na-k10015186081000",
+        "https://news.web.nhk/newsweb/na/na-k10015188671000",
+        "https://news.web.nhk/newsweb/na/na-k10015188621000",
+        "https://news.web.nhk/newsweb/na/na-k10015188631000",
         "https://news.web.nhk/newsweb/na/na-k10015188641000",
         "https://news.web.nhk/newsweb/na/na-k10015188661000",
         "https://news.web.nhk/newsweb/na/na-k10015188501000",
@@ -398,12 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015184101000",
         "https://news.web.nhk/newsweb/na/na-k10015186371000",
         "https://news.web.nhk/newsweb/na/na-k10015186321000",
-        "https://news.web.nhk/newsweb/na/na-k10015186341000",
-        "https://news.web.nhk/newsweb/na/na-k10015186121000",
-        "https://news.web.nhk/newsweb/na/na-k10015186311000",
-        "https://news.web.nhk/newsweb/na/na-k10015186111000",
-        "https://news.web.nhk/newsweb/na/na-k10015186081000",
-        "https://news.web.nhk/newsweb/na/na-k10015186101000"
+        "https://news.web.nhk/newsweb/na/na-k10015186341000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/amazon-thermos-cooler-box/",
