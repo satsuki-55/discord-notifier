@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/ce85j65r4l2o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015187791000",
         "https://news.web.nhk/newsweb/na/na-k10015187761000",
         "https://news.web.nhk/newsweb/na/na-k10015187771000",
         "https://news.web.nhk/newsweb/na/na-k10015185501000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015185641000",
         "https://news.web.nhk/newsweb/na/na-k10015185631000",
         "https://news.web.nhk/newsweb/na/na-k10015185581000",
-        "https://news.web.nhk/newsweb/na/na-k10015182931000",
-        "https://news.web.nhk/newsweb/na/na-k10015182891000"
+        "https://news.web.nhk/newsweb/na/na-k10015182931000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/google-selfie-video-sign-in/",
