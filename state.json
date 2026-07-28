@@ -2,6 +2,8 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "Nr4pruZIxbA",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "PycoAISwXvM",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cvgwnyq0edwo#0",
+        "https://www.bbc.co.uk/news/articles/c2dkew9kjd5o#1",
         "https://www.bbc.co.uk/news/articles/c80neg5rd81o#0",
         "https://www.bbc.co.uk/news/articles/c5y4grv7pp8o#0",
         "https://www.bbc.co.uk/news/articles/cwyrqvz0xwdo#1",
@@ -199,11 +201,10 @@
         "https://www.bbc.co.uk/sport/swimming/articles/c4gw7pzg70yo#0",
         "https://www.bbc.co.uk/news/articles/cd7ldjrl2reo#1",
         "https://www.bbc.co.uk/news/articles/c20jdy584pvo#0",
-        "https://www.bbc.co.uk/news/articles/cm2g3053ejko#1",
-        "https://www.bbc.co.uk/sport/athletics/articles/cewrk7ee4n1o#0",
-        "https://www.bbc.co.uk/news/videos/c0l51y7k0wwo#0"
+        "https://www.bbc.co.uk/news/articles/cm2g3053ejko#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015188191000",
         "https://news.web.nhk/newsweb/na/na-k10015188121000",
         "https://news.web.nhk/newsweb/na/na-k10015188141000",
         "https://news.web.nhk/newsweb/na/na-k10015187951000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015185901000",
         "https://news.web.nhk/newsweb/na/na-k10015185891000",
         "https://news.web.nhk/newsweb/na/na-k10015185881000",
-        "https://news.web.nhk/newsweb/na/na-k10015185841000",
-        "https://news.web.nhk/newsweb/na/na-k10015185871000"
+        "https://news.web.nhk/newsweb/na/na-k10015185841000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/cassette-tape-type-ii/",
