@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/cwylpw8rj79o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015188841000",
+        "https://news.web.nhk/newsweb/na/na-k10015188811000",
         "https://news.web.nhk/newsweb/na/na-k10015188831000",
         "https://news.web.nhk/newsweb/na/na-k10015188711000",
         "https://news.web.nhk/newsweb/na/na-k10015188801000",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015186571000",
         "https://news.web.nhk/newsweb/na/na-k10015186551000",
         "https://news.web.nhk/newsweb/na/na-k10015186531000",
-        "https://news.web.nhk/newsweb/na/na-k10015186511000",
-        "https://news.web.nhk/newsweb/na/na-k10015186351000",
-        "https://news.web.nhk/newsweb/na/na-k10015186411000"
+        "https://news.web.nhk/newsweb/na/na-k10015186511000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/keychron-g6he-ultralight-gizmart/",
