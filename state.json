@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "Nr4pruZIxbA",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "PycoAISwXvM",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c1l1de9gjj6o#1",
         "https://www.bbc.co.uk/news/articles/cd692n215ndo#0",
         "https://www.bbc.co.uk/news/articles/cjejw8pq5elo#1",
         "https://www.bbc.co.uk/news/articles/cwylnl17w09o#0",
@@ -200,10 +201,10 @@
         "https://www.bbc.co.uk/news/articles/c5yrjgj984qo#0",
         "https://www.bbc.co.uk/news/articles/c4gkxppljpyo#0",
         "https://www.bbc.co.uk/news/articles/c935q2k6pxqo#0",
-        "https://www.bbc.co.uk/sport/swimming/articles/cz053k47p0ko#0",
-        "https://www.bbc.co.uk/news/articles/c2dkx01n0y1o#1"
+        "https://www.bbc.co.uk/sport/swimming/articles/cz053k47p0ko#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015188781000",
         "https://news.web.nhk/newsweb/na/na-k10015188761000",
         "https://news.web.nhk/newsweb/na/na-k10015188751000",
         "https://news.web.nhk/newsweb/na/na-k10015188731000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015186461000",
         "https://news.web.nhk/newsweb/na/na-k10015186491000",
         "https://news.web.nhk/newsweb/na/na-k10015186451000",
-        "https://news.web.nhk/newsweb/na/na-k10015186471000",
-        "https://news.web.nhk/newsweb/na/na-k10015186441000"
+        "https://news.web.nhk/newsweb/na/na-k10015186471000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/amazon-thermos-cooler-box/",
