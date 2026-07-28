@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cj637j9gkd9o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015188651000",
         "https://news.web.nhk/newsweb/na/na-k10015186101000",
         "https://news.web.nhk/newsweb/na/na-k10015186081000",
         "https://news.web.nhk/newsweb/na/na-k10015188671000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015186381000",
         "https://news.web.nhk/newsweb/na/na-k10015184101000",
         "https://news.web.nhk/newsweb/na/na-k10015186371000",
-        "https://news.web.nhk/newsweb/na/na-k10015186321000",
-        "https://news.web.nhk/newsweb/na/na-k10015186341000"
+        "https://news.web.nhk/newsweb/na/na-k10015186321000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/amazon-thermos-cooler-box/",
