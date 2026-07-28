@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c935q2k6pxqo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015189141000",
         "https://news.web.nhk/newsweb/na/na-k10015189121000",
         "https://news.web.nhk/newsweb/na/na-k10015189091000",
         "https://news.web.nhk/newsweb/na/na-k10015186641000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015186941000",
         "https://news.web.nhk/newsweb/na/na-k10015184621000",
         "https://news.web.nhk/newsweb/na/na-k10015186831000",
-        "https://news.web.nhk/newsweb/na/na-k10015186901000",
-        "https://news.web.nhk/newsweb/na/na-k10015186891000"
+        "https://news.web.nhk/newsweb/na/na-k10015186901000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/stars-like-our-sun-explode-with-superflares-every-100-years-study-suggests-igc/",
