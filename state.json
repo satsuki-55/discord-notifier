@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/ce85j65r4l2o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015187781000",
+        "https://news.web.nhk/newsweb/na/na-k10015187851000",
         "https://news.web.nhk/newsweb/na/na-k10015187881000",
         "https://news.web.nhk/newsweb/na/na-k10015187861000",
         "https://news.web.nhk/newsweb/na/na-k10015187921000",
@@ -401,11 +403,10 @@
         "https://news.web.nhk/newsweb/na/na-k10015185801000",
         "https://news.web.nhk/newsweb/na/na-k10015185661000",
         "https://news.web.nhk/newsweb/na/na-k10015185791000",
-        "https://news.web.nhk/newsweb/na/na-k10015185781000",
-        "https://news.web.nhk/newsweb/na/na-k10015185771000",
-        "https://news.web.nhk/newsweb/na/na-k10015185761000"
+        "https://news.web.nhk/newsweb/na/na-k10015185781000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/galaxy-privacy-display-pip/",
         "https://www.gizmodo.jp/article/montbell-travel-umbrella-9y1/",
         "https://www.gizmodo.jp/article/google-selfie-video-sign-in/",
         "https://www.gizmodo.jp/article/this-hidden-pattern-in-the-sun-could-predict-solar-storms-years-in-advance/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/openai-just-launched-its-first-hardware-product-and-its-a-tiny-keyboard-for-bossing-around-ai-agents/",
         "https://www.gizmodo.jp/article/items_for_sleeping_in_a_car/",
         "https://www.gizmodo.jp/article/most-cats-sleep-on-their-left-side-and-scientists-think-they-know-why-muh-yri/",
-        "https://www.gizmodo.jp/article/plastic_bottles_new_life_batteries/",
-        "https://www.gizmodo.jp/article/gordon_miller_motors/"
+        "https://www.gizmodo.jp/article/plastic_bottles_new_life_batteries/"
     ]
 }
