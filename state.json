@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/cr490335z1eo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015187991000",
+        "https://news.web.nhk/newsweb/na/na-k10015188011000",
         "https://news.web.nhk/newsweb/na/na-k10015188031000",
         "https://news.web.nhk/newsweb/na/na-k10015185611000",
         "https://news.web.nhk/newsweb/na/na-k10015187971000",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015185821000",
         "https://news.web.nhk/newsweb/na/na-k10015185831000",
         "https://news.web.nhk/newsweb/na/na-k10015185511000",
-        "https://news.web.nhk/newsweb/na/na-k10015185701000",
-        "https://news.web.nhk/newsweb/na/na-k10015185711000",
-        "https://news.web.nhk/newsweb/na/na-k10015185751000"
+        "https://news.web.nhk/newsweb/na/na-k10015185701000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/cassette-tape-type-ii/",
