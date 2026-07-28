@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "WOmYaggitAU",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "PycoAISwXvM",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cdx7n1r54nno#0",
         "https://www.bbc.co.uk/news/articles/cr49znlz5ggo#0",
         "https://www.bbc.co.uk/news/articles/ce3qv0ggndno#1",
         "https://www.bbc.co.uk/news/articles/cly8zng43npo#0",
@@ -200,8 +201,7 @@
         "https://www.bbc.co.uk/news/articles/cr490335z1eo#1",
         "https://www.bbc.co.uk/news/articles/cr592qdj1ldo#1",
         "https://www.bbc.co.uk/news/articles/cvgjenp4680o#1",
-        "https://www.bbc.co.uk/news/articles/cd9w22n9e4go#1",
-        "https://www.bbc.co.uk/news/articles/cvg8wlwzjx9o#1"
+        "https://www.bbc.co.uk/news/articles/cd9w22n9e4go#1"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/na-k10015188041000",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015185671000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/3coins-smartphone-cooler/",
         "https://www.gizmodo.jp/article/you-might-want-to-temper-your-excitement-for-the-pixel-watch-5/",
         "https://www.gizmodo.jp/article/samsungs-new-foldables-have-better-batteries-that-are-also-worse/",
         "https://www.gizmodo.jp/article/galaxy-privacy-display-pip/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/un-secretary-general-calls-for-global-ban-on-ai-killer-robots/",
         "https://www.gizmodo.jp/article/meditation_hrv_research/",
         "https://www.gizmodo.jp/article/anaheim_laptop-sleeve-13inch/",
-        "https://www.gizmodo.jp/article/openai-just-launched-its-first-hardware-product-and-its-a-tiny-keyboard-for-bossing-around-ai-agents/",
-        "https://www.gizmodo.jp/article/items_for_sleeping_in_a_car/"
+        "https://www.gizmodo.jp/article/openai-just-launched-its-first-hardware-product-and-its-a-tiny-keyboard-for-bossing-around-ai-agents/"
     ]
 }
