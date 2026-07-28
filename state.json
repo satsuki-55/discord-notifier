@@ -204,6 +204,9 @@
         "https://www.bbc.co.uk/news/articles/c3w01e37v9vo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015189281000",
+        "https://news.web.nhk/newsweb/na/na-k10015189071000",
+        "https://news.web.nhk/newsweb/na/na-k10015189271000",
         "https://news.web.nhk/newsweb/na/na-k10015189331000",
         "https://news.web.nhk/newsweb/na/na-k10015189311000",
         "https://news.web.nhk/newsweb/na/na-k10015184721000",
@@ -400,12 +403,10 @@
         "https://news.web.nhk/newsweb/na/na-k10015187171000",
         "https://news.web.nhk/newsweb/na/na-k10015187101000",
         "https://news.web.nhk/newsweb/na/na-k10015187131000",
-        "https://news.web.nhk/newsweb/na/na-k10015187111000",
-        "https://news.web.nhk/newsweb/na/na-k10015187121000",
-        "https://news.web.nhk/newsweb/na/na-k10015187091000",
-        "https://news.web.nhk/newsweb/na/na-k10015187041000"
+        "https://news.web.nhk/newsweb/na/na-k10015187111000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/inmo_go3/",
         "https://www.gizmodo.jp/article/stars-like-our-sun-explode-with-superflares-every-100-years-study-suggests-igc/",
         "https://www.gizmodo.jp/article/scientists-created-a-wearable-you-can-paint-directly-onto-your-skin/",
         "https://www.gizmodo.jp/article/shiromasa-elecom-the-mechanical-designers-accelerate-the-peripheral-products/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/self_checkout_techs/",
         "https://www.gizmodo.jp/article/products_made_with_dyneema/",
         "https://www.gizmodo.jp/article/far-east-gadget-typesticks-review-1-zvz/",
-        "https://www.gizmodo.jp/article/the-most-expensive-dinosaur-fossil-in-history-is-now-a-t-rex-named-gus/",
-        "https://www.gizmodo.jp/article/3coins-sunshade-vzc/"
+        "https://www.gizmodo.jp/article/the-most-expensive-dinosaur-fossil-in-history-is-now-a-t-rex-named-gus/"
     ]
 }
