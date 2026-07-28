@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "WOmYaggitAU",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "PycoAISwXvM",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/clyqnz52rp6o#0",
         "https://www.bbc.co.uk/weather/articles/cg4d190z6xko#0",
         "https://www.bbc.co.uk/news/articles/cn9n1rg3n81o#0",
         "https://www.bbc.co.uk/news/articles/cx27mjvxgg1o#0",
@@ -200,10 +201,11 @@
         "https://www.bbc.co.uk/news/articles/c1m1rz7n0pzo#1",
         "https://www.bbc.co.uk/news/articles/c5y65z47xwzo#1",
         "https://www.bbc.co.uk/news/articles/ce85j65r4l2o#1",
-        "https://www.bbc.co.uk/news/articles/cd7ldjrl2reo#0",
-        "https://www.bbc.co.uk/news/articles/cd7le4ylev2o#0"
+        "https://www.bbc.co.uk/news/articles/cd7ldjrl2reo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015185501000",
+        "https://news.web.nhk/newsweb/na/na-k10015187751000",
         "https://news.web.nhk/newsweb/na/na-k10015187701000",
         "https://news.web.nhk/newsweb/na/na-k10015187721000",
         "https://news.web.nhk/newsweb/na/na-k10015186931000",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015182931000",
         "https://news.web.nhk/newsweb/na/na-k10015182891000",
         "https://news.web.nhk/newsweb/na/na-k10015185551000",
-        "https://news.web.nhk/newsweb/na/na-k10015185541000",
-        "https://news.web.nhk/newsweb/na/na-k10015185621000",
-        "https://news.web.nhk/newsweb/na/na-k10015185571000"
+        "https://news.web.nhk/newsweb/na/na-k10015185541000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/this-hidden-pattern-in-the-sun-could-predict-solar-storms-years-in-advance/",
