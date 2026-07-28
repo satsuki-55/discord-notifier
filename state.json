@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cwylpw8rj79o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015188891000",
         "https://news.web.nhk/newsweb/na/na-k10015188871000",
         "https://news.web.nhk/newsweb/na/na-k10015188851000",
         "https://news.web.nhk/newsweb/na/na-k10015188841000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015186621000",
         "https://news.web.nhk/newsweb/na/na-k10015186611000",
         "https://news.web.nhk/newsweb/na/na-k10015186591000",
-        "https://news.web.nhk/newsweb/na/na-k10015186571000",
-        "https://news.web.nhk/newsweb/na/na-k10015186551000"
+        "https://news.web.nhk/newsweb/na/na-k10015186571000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/on_cloudboom-strike2/",
