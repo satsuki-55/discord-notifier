@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/cdx828gj5xko#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015188641000",
+        "https://news.web.nhk/newsweb/na/na-k10015188661000",
         "https://news.web.nhk/newsweb/na/na-k10015188501000",
         "https://news.web.nhk/newsweb/na/na-k10015188371000",
         "https://news.web.nhk/newsweb/na/na-k10015188611000",
@@ -401,11 +403,10 @@
         "https://news.web.nhk/newsweb/na/na-k10015186311000",
         "https://news.web.nhk/newsweb/na/na-k10015186111000",
         "https://news.web.nhk/newsweb/na/na-k10015186081000",
-        "https://news.web.nhk/newsweb/na/na-k10015186101000",
-        "https://news.web.nhk/newsweb/na/na-k10015186301000",
-        "https://news.web.nhk/newsweb/na/na-k10015186331000"
+        "https://news.web.nhk/newsweb/na/na-k10015186101000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/amazon-thermos-cooler-box/",
         "https://www.gizmodo.jp/article/master-dynamic-me05-c7x/",
         "https://www.gizmodo.jp/article/tombow_airpress_review/",
         "https://www.gizmodo.jp/article/cassette-tape-type-ii/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/b0d4b520-3c52-49c4-bbf3-5fbc1bff663e/",
         "https://www.gizmodo.jp/article/next_to_my_car/",
         "https://www.gizmodo.jp/article/ai_burger_recipe/",
-        "https://www.gizmodo.jp/article/anthropic_claude_new_movie/",
-        "https://www.gizmodo.jp/article/oled-ipad-mini-may-launch-by-october/"
+        "https://www.gizmodo.jp/article/anthropic_claude_new_movie/"
     ]
 }
