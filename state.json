@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/c20jdy584pvo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015185901000",
+        "https://news.web.nhk/newsweb/na/na-k10015188251000",
         "https://news.web.nhk/newsweb/na/na-k10015188221000",
         "https://news.web.nhk/newsweb/na/na-k10015188241000",
         "https://news.web.nhk/newsweb/na/na-k10015188181000",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015185991000",
         "https://news.web.nhk/newsweb/na/na-k10015185941000",
         "https://news.web.nhk/newsweb/na/na-k10015185961000",
-        "https://news.web.nhk/newsweb/na/na-k10015185921000",
-        "https://news.web.nhk/newsweb/na/na-k10015185911000",
-        "https://news.web.nhk/newsweb/na/na-k10015185901000"
+        "https://news.web.nhk/newsweb/na/na-k10015185921000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/tombow_airpress_review/",
