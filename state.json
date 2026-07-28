@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cd7ldjrl2reo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015187771000",
         "https://news.web.nhk/newsweb/na/na-k10015185501000",
         "https://news.web.nhk/newsweb/na/na-k10015187751000",
         "https://news.web.nhk/newsweb/na/na-k10015187701000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015185581000",
         "https://news.web.nhk/newsweb/na/na-k10015182931000",
         "https://news.web.nhk/newsweb/na/na-k10015182891000",
-        "https://news.web.nhk/newsweb/na/na-k10015185551000",
-        "https://news.web.nhk/newsweb/na/na-k10015185541000"
+        "https://news.web.nhk/newsweb/na/na-k10015185551000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/this-hidden-pattern-in-the-sun-could-predict-solar-storms-years-in-advance/",
