@@ -2,6 +2,8 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "Nr4pruZIxbA",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "PycoAISwXvM",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c62v8exggjeo#1",
+        "https://www.bbc.co.uk/news/videos/cgr751pvnd2o#0",
         "https://www.bbc.co.uk/news/articles/c1d1e0gv1kro#0",
         "https://www.bbc.co.uk/news/articles/cvgv7n0k57eo#1",
         "https://www.bbc.co.uk/news/articles/czekl599087o#0",
@@ -199,9 +201,7 @@
         "https://www.bbc.co.uk/news/articles/c8en74yz5e7o#0",
         "https://www.bbc.co.uk/news/articles/c70gknr7z1eo#1",
         "https://www.bbc.co.uk/news/videos/c74gzknyyz2o#0",
-        "https://www.bbc.co.uk/news/articles/c1d1gz3n99ro#1",
-        "https://www.bbc.co.uk/news/articles/cx2dgl98lxko#1",
-        "https://www.bbc.co.uk/news/articles/clyj8k4nn5jo#0"
+        "https://www.bbc.co.uk/news/articles/c1d1gz3n99ro#1"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/na-k10015186641000",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015186801000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/stars-like-our-sun-explode-with-superflares-every-100-years-study-suggests-igc/",
         "https://www.gizmodo.jp/article/scientists-created-a-wearable-you-can-paint-directly-onto-your-skin/",
         "https://www.gizmodo.jp/article/shiromasa-elecom-the-mechanical-designers-accelerate-the-peripheral-products/",
         "https://www.gizmodo.jp/article/ripstop-backpack/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/products_made_with_dyneema/",
         "https://www.gizmodo.jp/article/far-east-gadget-typesticks-review-1-zvz/",
         "https://www.gizmodo.jp/article/the-most-expensive-dinosaur-fossil-in-history-is-now-a-t-rex-named-gus/",
-        "https://www.gizmodo.jp/article/3coins-sunshade-vzc/",
-        "https://www.gizmodo.jp/article/d62e5d9b-52c8-43bb-ab9d-ce3a7a23469a/"
+        "https://www.gizmodo.jp/article/3coins-sunshade-vzc/"
     ]
 }
