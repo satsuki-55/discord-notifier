@@ -2,6 +2,8 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "Nr4pruZIxbA",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "PycoAISwXvM",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/clyjgyd0225o#0",
+        "https://www.bbc.co.uk/news/articles/cn0ngrpp2p5o#1",
         "https://www.bbc.co.uk/news/articles/cg74gvy8lgjo#1",
         "https://www.bbc.co.uk/news/articles/clyxgn37lg5o#0",
         "https://www.bbc.co.uk/news/articles/cn8ngxw5195o#1",
@@ -199,11 +201,10 @@
         "https://www.bbc.co.uk/news/articles/cvgx91vdedno#1",
         "https://www.bbc.co.uk/news/articles/clyj8v0rek8o#1",
         "https://www.bbc.co.uk/news/articles/cy4k892z44jo#0",
-        "https://www.bbc.co.uk/sport/football/articles/cz0515973gpo#0",
-        "https://www.bbc.co.uk/news/articles/c9q9w3x9qn2o#1",
-        "https://www.bbc.co.uk/news/articles/cm2g044ydl4o#1"
+        "https://www.bbc.co.uk/sport/football/articles/cz0515973gpo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015189831000",
         "https://news.web.nhk/newsweb/na/na-k10015189791000",
         "https://news.web.nhk/newsweb/na/na-k10015189841000",
         "https://news.web.nhk/newsweb/na/na-k10015189861000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015185441000",
         "https://news.web.nhk/newsweb/na/na-k10015187661000",
         "https://news.web.nhk/newsweb/na/na-k10015187471000",
-        "https://news.web.nhk/newsweb/na/na-k10015187521000",
-        "https://news.web.nhk/newsweb/na/na-k10015187531000"
+        "https://news.web.nhk/newsweb/na/na-k10015187521000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/daiso_rollband_review-adl/",
