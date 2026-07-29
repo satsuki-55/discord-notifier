@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/sport/darts/articles/cwym032rlkvo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015189451000",
         "https://news.web.nhk/newsweb/na/na-k10015189431000",
         "https://news.web.nhk/newsweb/na/na-k10015189391000",
         "https://news.web.nhk/newsweb/na/na-k10015189421000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015187281000",
         "https://news.web.nhk/newsweb/na/na-k10015184941000",
         "https://news.web.nhk/newsweb/na/na-k10015187251000",
-        "https://news.web.nhk/newsweb/na/na-k10015187291000",
-        "https://news.web.nhk/newsweb/na/na-k10015187241000"
+        "https://news.web.nhk/newsweb/na/na-k10015187291000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/generated_ai_learning_oldbooks/",
