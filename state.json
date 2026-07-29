@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/cwy4eg5dpyzo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015187551000",
+        "https://news.web.nhk/newsweb/na/na-k10015189851000",
         "https://news.web.nhk/newsweb/na/na-k10015189531000",
         "https://news.web.nhk/newsweb/na/na-k10015189821000",
         "https://news.web.nhk/newsweb/na/na-k10015189801000",
@@ -401,11 +403,10 @@
         "https://news.web.nhk/newsweb/na/na-k10015187671000",
         "https://news.web.nhk/newsweb/na/na-k10015187611000",
         "https://news.web.nhk/newsweb/na/na-k10015187541000",
-        "https://news.web.nhk/newsweb/na/na-k10015187651000",
-        "https://news.web.nhk/newsweb/na/na-k10015187631000",
-        "https://news.web.nhk/newsweb/na/na-k10015187551000"
+        "https://news.web.nhk/newsweb/na/na-k10015187651000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/samsung-galaxy-fold8-shortage/",
         "https://www.gizmodo.jp/article/stock_market_crash_warning/",
         "https://www.gizmodo.jp/article/if-youre-reading-this-youre-probably-an-ai-bot/",
         "https://www.gizmodo.jp/article/ai-tends-to-develop-new-stereotypes-to-base-hiring-decisions-on-study-says/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/new_browsers-kcg/",
         "https://www.gizmodo.jp/article/the-ai-voice-assistant-arms-race-is-far-from-over/",
         "https://www.gizmodo.jp/article/xbox-might-have-way-to-win-over-playstation-fans-as-sony-ditches-discs/",
-        "https://www.gizmodo.jp/article/moonshot_ai_kimi_k3/",
-        "https://www.gizmodo.jp/article/siri-ai-prompts-breaks-when-you-talk-too-long/"
+        "https://www.gizmodo.jp/article/moonshot_ai_kimi_k3/"
     ]
 }
