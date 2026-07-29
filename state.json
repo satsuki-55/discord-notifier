@@ -2,6 +2,8 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "Nr4pruZIxbA",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "PycoAISwXvM",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cg74gvy8lgjo#1",
+        "https://www.bbc.co.uk/news/articles/clyxgn37lg5o#0",
         "https://www.bbc.co.uk/news/articles/cn8ngxw5195o#1",
         "https://www.bbc.co.uk/news/articles/cr59m5nmemno#0",
         "https://www.bbc.co.uk/news/articles/cj039p238r5o#1",
@@ -199,11 +201,10 @@
         "https://www.bbc.co.uk/news/articles/cy4k892z44jo#0",
         "https://www.bbc.co.uk/sport/football/articles/cz0515973gpo#0",
         "https://www.bbc.co.uk/news/articles/c9q9w3x9qn2o#1",
-        "https://www.bbc.co.uk/news/articles/cm2g044ydl4o#1",
-        "https://www.bbc.co.uk/news/articles/cdx82rl5g0do#0",
-        "https://www.bbc.co.uk/news/articles/cwy4eg5dpyzo#0"
+        "https://www.bbc.co.uk/news/articles/cm2g044ydl4o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015189721000",
         "https://news.web.nhk/newsweb/na/na-k10015189711000",
         "https://news.web.nhk/newsweb/na/na-k10015187551000",
         "https://news.web.nhk/newsweb/na/na-k10015189851000",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/na-k10015187531000",
         "https://news.web.nhk/newsweb/na/na-k10015187561000",
         "https://news.web.nhk/newsweb/na/na-k10015187671000",
-        "https://news.web.nhk/newsweb/na/na-k10015187611000",
-        "https://news.web.nhk/newsweb/na/na-k10015187541000"
+        "https://news.web.nhk/newsweb/na/na-k10015187611000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/daiso_rollband_review-adl/",
         "https://www.gizmodo.jp/article/samsung-galaxy-fold8-shortage/",
         "https://www.gizmodo.jp/article/stock_market_crash_warning/",
         "https://www.gizmodo.jp/article/if-youre-reading-this-youre-probably-an-ai-bot/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/makerz-hvac-wear/",
         "https://www.gizmodo.jp/article/new_browsers-kcg/",
         "https://www.gizmodo.jp/article/the-ai-voice-assistant-arms-race-is-far-from-over/",
-        "https://www.gizmodo.jp/article/xbox-might-have-way-to-win-over-playstation-fans-as-sony-ditches-discs/",
-        "https://www.gizmodo.jp/article/moonshot_ai_kimi_k3/"
+        "https://www.gizmodo.jp/article/xbox-might-have-way-to-win-over-playstation-fans-as-sony-ditches-discs/"
     ]
 }
