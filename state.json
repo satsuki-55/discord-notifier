@@ -406,6 +406,8 @@
         "https://news.web.nhk/newsweb/na/na-k10015187661000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/orcas-eats-rhincodon-typus-ltw/",
+        "https://www.gizmodo.jp/article/fuji-feather-review-rmg/",
         "https://www.gizmodo.jp/article/ligar-review/",
         "https://www.gizmodo.jp/article/daiso_rollband_review-adl/",
         "https://www.gizmodo.jp/article/samsung-galaxy-fold8-shortage/",
@@ -603,8 +605,6 @@
         "https://www.gizmodo.jp/article/er-gk83-bhg/",
         "https://www.gizmodo.jp/article/genesis_ai_eno/",
         "https://www.gizmodo.jp/article/t-professional_car-wacher_review/",
-        "https://www.gizmodo.jp/article/makerz-hvac-wear/",
-        "https://www.gizmodo.jp/article/new_browsers-kcg/",
-        "https://www.gizmodo.jp/article/the-ai-voice-assistant-arms-race-is-far-from-over/"
+        "https://www.gizmodo.jp/article/makerz-hvac-wear/"
     ]
 }
