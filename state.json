@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "V8i53vwNnGw",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "PycoAISwXvM",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c8rng7pm212o#1",
         "https://www.bbc.co.uk/news/articles/crmrkgr4z0jo#1",
         "https://www.bbc.co.uk/news/articles/c0rd1kl1825o#1",
         "https://www.bbc.co.uk/news/articles/cd0xnge2zx7o#0",
@@ -200,8 +201,7 @@
         "https://www.bbc.co.uk/news/articles/cy9wv74qje9o#0",
         "https://www.bbc.co.uk/news/articles/c8jn007gmpzo#0",
         "https://www.bbc.co.uk/news/articles/czjlnrn47lwo#1",
-        "https://www.bbc.co.uk/news/articles/ce3qv0ggndno#0",
-        "https://www.bbc.co.uk/news/articles/cvg7py6gv35o#0"
+        "https://www.bbc.co.uk/news/articles/ce3qv0ggndno#0"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/na-k10015187831000",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015187921000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/c09f5316-9fc5-47b4-8670-8fdd2c4d2dfa/",
         "https://www.gizmodo.jp/article/this-startup-wants-to-use-space-mirrors-to-light-up-earth-at-night-feds-said-go-ahead/",
         "https://www.gizmodo.jp/article/barefoo-ez2/",
         "https://www.gizmodo.jp/article/uchiko-hachisu/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/utamaro-2-awv/",
         "https://www.gizmodo.jp/article/aqara-camera-hub-g350-review-an-excellent-indoor-matter-camera/",
         "https://www.gizmodo.jp/article/new-study-says-parents-phone-use-might-be-giving-kids-attachment-issues-later-on/",
-        "https://www.gizmodo.jp/article/wd-1856-b/",
-        "https://www.gizmodo.jp/article/hmdr_imaging/"
+        "https://www.gizmodo.jp/article/wd-1856-b/"
     ]
 }
