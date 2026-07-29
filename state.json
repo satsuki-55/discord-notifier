@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/ce3qv0p9105o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015189881000",
+        "https://news.web.nhk/newsweb/na/na-k10015190081000",
         "https://news.web.nhk/newsweb/na/na-k10015189811000",
         "https://news.web.nhk/newsweb/na/na-k10015189901000",
         "https://news.web.nhk/newsweb/na/na-k10015189951000",
@@ -401,11 +403,10 @@
         "https://news.web.nhk/newsweb/na/na-k10015187831000",
         "https://news.web.nhk/newsweb/na/na-k10015187741000",
         "https://news.web.nhk/newsweb/na/na-k10015187811000",
-        "https://news.web.nhk/newsweb/na/na-k10015187791000",
-        "https://news.web.nhk/newsweb/na/na-k10015187761000",
-        "https://news.web.nhk/newsweb/na/na-k10015187771000"
+        "https://news.web.nhk/newsweb/na/na-k10015187791000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/4ca742a2-2b32-46e7-9d33-9a178081302e/",
         "https://www.gizmodo.jp/article/mart-glasses-are-the-one-privacy-nightmare-apple-cant-solve/",
         "https://www.gizmodo.jp/article/analog-watch-casio/",
         "https://www.gizmodo.jp/article/orcas-eats-rhincodon-typus-ltw/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/hmdr_imaging/",
         "https://www.gizmodo.jp/article/hornet-nest-discovered-at-former-nuclear-weapons-factory-bur/",
         "https://www.gizmodo.jp/article/library_robot_romi/",
-        "https://www.gizmodo.jp/article/er-gk83-bhg/",
-        "https://www.gizmodo.jp/article/genesis_ai_eno/"
+        "https://www.gizmodo.jp/article/er-gk83-bhg/"
     ]
 }
