@@ -2,6 +2,9 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "V8i53vwNnGw",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "PycoAISwXvM",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cly5qgjk5ywo#0",
+        "https://www.bbc.co.uk/news/articles/c86ng1g5wy4o#0",
+        "https://www.bbc.co.uk/news/articles/c3ekn9d37qvo#1",
         "https://www.bbc.co.uk/news/articles/cwylk005dg7o#0",
         "https://www.bbc.co.uk/news/articles/cx2r0nyx99yo#1",
         "https://www.bbc.co.uk/news/articles/c0jl8v23qwgo#0",
@@ -198,10 +201,7 @@
         "https://www.bbc.co.uk/news/articles/c872nj1n4xyo#0",
         "https://www.bbc.co.uk/news/articles/cjwxvw5ppw0o#0",
         "https://www.bbc.co.uk/news/articles/c235n47g8g8o#0",
-        "https://www.bbc.co.uk/news/articles/c36d79nd5w8o#0",
-        "https://www.bbc.co.uk/news/articles/ckgvnw44rz9o#1",
-        "https://www.bbc.co.uk/news/articles/cj4k2djd5qpo#0",
-        "https://www.bbc.co.uk/news/articles/c0rd5l4xlvro#0"
+        "https://www.bbc.co.uk/news/articles/c36d79nd5w8o#0"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/na-k10015190091000",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015188141000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/inevitably-ads-have-come-to-xbox-game-streaming/",
         "https://www.gizmodo.jp/article/tourists-watch-in-horror-as-60-orcas-rip-apart-endangered-blue-whale-sws/",
         "https://www.gizmodo.jp/article/nitori-kitchentowel/",
         "https://www.gizmodo.jp/article/c09f5316-9fc5-47b4-8670-8fdd2c4d2dfa/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/scientists-say-this-climate-hack-could-stop-el-nino-before-it-starts/",
         "https://www.gizmodo.jp/article/das_pod_cd_player/",
         "https://www.gizmodo.jp/article/skullcandys-new-wireless-headphones-have-so-much-bose-in-them/",
-        "https://www.gizmodo.jp/article/utamaro-2-awv/",
-        "https://www.gizmodo.jp/article/aqara-camera-hub-g350-review-an-excellent-indoor-matter-camera/"
+        "https://www.gizmodo.jp/article/utamaro-2-awv/"
     ]
 }
