@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015187521000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/ligar-review/",
         "https://www.gizmodo.jp/article/daiso_rollband_review-adl/",
         "https://www.gizmodo.jp/article/samsung-galaxy-fold8-shortage/",
         "https://www.gizmodo.jp/article/stock_market_crash_warning/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/t-professional_car-wacher_review/",
         "https://www.gizmodo.jp/article/makerz-hvac-wear/",
         "https://www.gizmodo.jp/article/new_browsers-kcg/",
-        "https://www.gizmodo.jp/article/the-ai-voice-assistant-arms-race-is-far-from-over/",
-        "https://www.gizmodo.jp/article/xbox-might-have-way-to-win-over-playstation-fans-as-sony-ditches-discs/"
+        "https://www.gizmodo.jp/article/the-ai-voice-assistant-arms-race-is-far-from-over/"
     ]
 }
