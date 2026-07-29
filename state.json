@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/sport/football/articles/cz0515973gpo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015189771000",
         "https://news.web.nhk/newsweb/na/na-k10015189831000",
         "https://news.web.nhk/newsweb/na/na-k10015189791000",
         "https://news.web.nhk/newsweb/na/na-k10015189841000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015187571000",
         "https://news.web.nhk/newsweb/na/na-k10015185441000",
         "https://news.web.nhk/newsweb/na/na-k10015187661000",
-        "https://news.web.nhk/newsweb/na/na-k10015187471000",
-        "https://news.web.nhk/newsweb/na/na-k10015187521000"
+        "https://news.web.nhk/newsweb/na/na-k10015187471000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/ligar-review/",
