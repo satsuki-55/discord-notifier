@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/cdx828gj5xko#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015189381000",
+        "https://news.web.nhk/newsweb/na/na-k10015189481000",
         "https://news.web.nhk/newsweb/na/na-k10015189491000",
         "https://news.web.nhk/newsweb/na/na-k10015187291000",
         "https://news.web.nhk/newsweb/na/na-k10015189401000",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015187331000",
         "https://news.web.nhk/newsweb/na/na-k10015187341000",
         "https://news.web.nhk/newsweb/na/na-k10015187311000",
-        "https://news.web.nhk/newsweb/na/na-k10015187261000",
-        "https://news.web.nhk/newsweb/na/na-k10015187301000",
-        "https://news.web.nhk/newsweb/na/na-k10015187271000"
+        "https://news.web.nhk/newsweb/na/na-k10015187261000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/generated_ai_learning_oldbooks/",
