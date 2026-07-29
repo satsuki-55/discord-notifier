@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/sport/football/articles/cz0515973gpo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015190051000",
         "https://news.web.nhk/newsweb/na/na-k10015187711000",
         "https://news.web.nhk/newsweb/na/na-k10015190011000",
         "https://news.web.nhk/newsweb/na/na-k10015187511000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015187771000",
         "https://news.web.nhk/newsweb/na/na-k10015185501000",
         "https://news.web.nhk/newsweb/na/na-k10015187751000",
-        "https://news.web.nhk/newsweb/na/na-k10015187701000",
-        "https://news.web.nhk/newsweb/na/na-k10015187721000"
+        "https://news.web.nhk/newsweb/na/na-k10015187701000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/mart-glasses-are-the-one-privacy-nightmare-apple-cant-solve/",
