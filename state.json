@@ -1,7 +1,9 @@
 {
-    "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "Nr4pruZIxbA",
+    "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "V8i53vwNnGw",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "PycoAISwXvM",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c0rd1kl1825o#0",
+        "https://www.bbc.co.uk/news/articles/cp9e2ex3ekyo#1",
         "https://www.bbc.co.uk/news/articles/cgmkgvy3lv4o#1",
         "https://www.bbc.co.uk/news/articles/clyjgyd0225o#0",
         "https://www.bbc.co.uk/news/articles/cn0ngrpp2p5o#1",
@@ -199,11 +201,10 @@
         "https://www.bbc.co.uk/news/articles/c1m1ev5j3m2o#0",
         "https://www.bbc.co.uk/news/articles/c0jl8jv22gjo#1",
         "https://www.bbc.co.uk/news/articles/cjejw8pq5elo#0",
-        "https://www.bbc.co.uk/news/articles/cvgx91vdedno#1",
-        "https://www.bbc.co.uk/news/articles/clyj8v0rek8o#1",
-        "https://www.bbc.co.uk/news/articles/cy4k892z44jo#0"
+        "https://www.bbc.co.uk/news/articles/cvgx91vdedno#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015189931000",
         "https://news.web.nhk/newsweb/na/na-k10015189921000",
         "https://news.web.nhk/newsweb/na/na-k10015189771000",
         "https://news.web.nhk/newsweb/na/na-k10015189831000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015187681000",
         "https://news.web.nhk/newsweb/na/na-k10015185361000",
         "https://news.web.nhk/newsweb/na/na-k10015187571000",
-        "https://news.web.nhk/newsweb/na/na-k10015185441000",
-        "https://news.web.nhk/newsweb/na/na-k10015187661000"
+        "https://news.web.nhk/newsweb/na/na-k10015185441000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/analog-watch-casio/",
