@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/ce3qv0p9105o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015189811000",
+        "https://news.web.nhk/newsweb/na/na-k10015189901000",
         "https://news.web.nhk/newsweb/na/na-k10015189951000",
         "https://news.web.nhk/newsweb/na/na-k10015190051000",
         "https://news.web.nhk/newsweb/na/na-k10015187711000",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015187811000",
         "https://news.web.nhk/newsweb/na/na-k10015187791000",
         "https://news.web.nhk/newsweb/na/na-k10015187761000",
-        "https://news.web.nhk/newsweb/na/na-k10015187771000",
-        "https://news.web.nhk/newsweb/na/na-k10015185501000",
-        "https://news.web.nhk/newsweb/na/na-k10015187751000"
+        "https://news.web.nhk/newsweb/na/na-k10015187771000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/mart-glasses-are-the-one-privacy-nightmare-apple-cant-solve/",
