@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cwyrqvz0xwdo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015190121000",
         "https://news.web.nhk/newsweb/na/na-k10015190111000",
         "https://news.web.nhk/newsweb/na/na-k10015190021000",
         "https://news.web.nhk/newsweb/na/na-k10015189881000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015187861000",
         "https://news.web.nhk/newsweb/na/na-k10015187921000",
         "https://news.web.nhk/newsweb/na/na-k10015185631000",
-        "https://news.web.nhk/newsweb/na/na-k10015187831000",
-        "https://news.web.nhk/newsweb/na/na-k10015187741000"
+        "https://news.web.nhk/newsweb/na/na-k10015187831000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/uchiko-hachisu/",
