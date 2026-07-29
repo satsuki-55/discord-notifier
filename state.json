@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cvg7py6gv35o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015187831000",
         "https://news.web.nhk/newsweb/na/na-k10015190101000",
         "https://news.web.nhk/newsweb/na/na-k10015190121000",
         "https://news.web.nhk/newsweb/na/na-k10015190111000",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/na-k10015187851000",
         "https://news.web.nhk/newsweb/na/na-k10015187881000",
         "https://news.web.nhk/newsweb/na/na-k10015187861000",
-        "https://news.web.nhk/newsweb/na/na-k10015187921000",
-        "https://news.web.nhk/newsweb/na/na-k10015185631000"
+        "https://news.web.nhk/newsweb/na/na-k10015187921000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/this-startup-wants-to-use-space-mirrors-to-light-up-earth-at-night-feds-said-go-ahead/",
         "https://www.gizmodo.jp/article/barefoo-ez2/",
         "https://www.gizmodo.jp/article/uchiko-hachisu/",
         "https://www.gizmodo.jp/article/4ca742a2-2b32-46e7-9d33-9a178081302e/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/aqara-camera-hub-g350-review-an-excellent-indoor-matter-camera/",
         "https://www.gizmodo.jp/article/new-study-says-parents-phone-use-might-be-giving-kids-attachment-issues-later-on/",
         "https://www.gizmodo.jp/article/wd-1856-b/",
-        "https://www.gizmodo.jp/article/hmdr_imaging/",
-        "https://www.gizmodo.jp/article/hornet-nest-discovered-at-former-nuclear-weapons-factory-bur/"
+        "https://www.gizmodo.jp/article/hmdr_imaging/"
     ]
 }
