@@ -2,6 +2,8 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "V8i53vwNnGw",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "PycoAISwXvM",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c3ekn9d37qvo#0",
+        "https://www.bbc.co.uk/news/articles/cgk43y21j0do#0",
         "https://www.bbc.co.uk/news/articles/ckgd32v2y2lo#0",
         "https://www.bbc.co.uk/news/articles/c2el319vzr3o#1",
         "https://www.bbc.co.uk/news/articles/cj4k54g0ldjo#0",
@@ -199,11 +201,10 @@
         "https://www.bbc.co.uk/news/articles/cqjx4xxdrj2o#1",
         "https://www.bbc.co.uk/news/articles/c2350xnl4j5o#0",
         "https://www.bbc.co.uk/news/articles/c2dkew9kjd5o#0",
-        "https://www.bbc.co.uk/news/articles/cgq5v72jqglo#1",
-        "https://www.bbc.co.uk/news/articles/cwyenzw2l4lo#0",
-        "https://www.bbc.co.uk/news/articles/ckg41vn8x7ko#1"
+        "https://www.bbc.co.uk/news/articles/cgq5v72jqglo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015190021000",
         "https://news.web.nhk/newsweb/na/na-k10015189881000",
         "https://news.web.nhk/newsweb/na/na-k10015190081000",
         "https://news.web.nhk/newsweb/na/na-k10015189811000",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/na-k10015185631000",
         "https://news.web.nhk/newsweb/na/na-k10015187831000",
         "https://news.web.nhk/newsweb/na/na-k10015187741000",
-        "https://news.web.nhk/newsweb/na/na-k10015187811000",
-        "https://news.web.nhk/newsweb/na/na-k10015187791000"
+        "https://news.web.nhk/newsweb/na/na-k10015187811000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/uchiko-hachisu/",
         "https://www.gizmodo.jp/article/4ca742a2-2b32-46e7-9d33-9a178081302e/",
         "https://www.gizmodo.jp/article/mart-glasses-are-the-one-privacy-nightmare-apple-cant-solve/",
         "https://www.gizmodo.jp/article/analog-watch-casio/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/wd-1856-b/",
         "https://www.gizmodo.jp/article/hmdr_imaging/",
         "https://www.gizmodo.jp/article/hornet-nest-discovered-at-former-nuclear-weapons-factory-bur/",
-        "https://www.gizmodo.jp/article/library_robot_romi/",
-        "https://www.gizmodo.jp/article/er-gk83-bhg/"
+        "https://www.gizmodo.jp/article/library_robot_romi/"
     ]
 }
