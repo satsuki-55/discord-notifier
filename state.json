@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c998pzd1e8xo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015190171000",
         "https://news.web.nhk/newsweb/na/na-k10015187831000",
         "https://news.web.nhk/newsweb/na/na-k10015190101000",
         "https://news.web.nhk/newsweb/na/na-k10015190121000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015187781000",
         "https://news.web.nhk/newsweb/na/na-k10015187851000",
         "https://news.web.nhk/newsweb/na/na-k10015187881000",
-        "https://news.web.nhk/newsweb/na/na-k10015187861000",
-        "https://news.web.nhk/newsweb/na/na-k10015187921000"
+        "https://news.web.nhk/newsweb/na/na-k10015187861000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/nitori-kitchentowel/",
