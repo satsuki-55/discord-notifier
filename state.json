@@ -2,6 +2,13 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "V8i53vwNnGw",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "PycoAISwXvM",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cgmkygjk9g2o#0",
+        "https://www.bbc.co.uk/news/articles/c872nj1n4xyo#0",
+        "https://www.bbc.co.uk/news/articles/cp8e6m4rndgo#0",
+        "https://www.bbc.co.uk/news/videos/ckg4jxwkn2lo#0",
+        "https://www.bbc.co.uk/news/articles/c8jngmk93p9o#0",
+        "https://www.bbc.co.uk/news/articles/cz7dlelz711o#1",
+        "https://www.bbc.co.uk/news/articles/cdx8ke9gpnko#1",
         "https://www.bbc.co.uk/news/articles/cly5qgjk5ywo#0",
         "https://www.bbc.co.uk/news/articles/c86ng1g5wy4o#0",
         "https://www.bbc.co.uk/news/articles/c3ekn9d37qvo#1",
@@ -194,16 +201,10 @@
         "https://www.bbc.co.uk/news/articles/clyqnz52rp6o#0",
         "https://www.bbc.co.uk/weather/articles/cg4d190z6xko#0",
         "https://www.bbc.co.uk/news/articles/cn9n1rg3n81o#0",
-        "https://www.bbc.co.uk/news/articles/cx27mjvxgg1o#0",
-        "https://www.bbc.co.uk/news/articles/ce97nze240vo#0",
-        "https://www.bbc.co.uk/news/articles/cn0njd4e2evo#1",
-        "https://www.bbc.co.uk/news/articles/cgmkygjk9g2o#0",
-        "https://www.bbc.co.uk/news/articles/c872nj1n4xyo#0",
-        "https://www.bbc.co.uk/news/articles/cjwxvw5ppw0o#0",
-        "https://www.bbc.co.uk/news/articles/c235n47g8g8o#0",
-        "https://www.bbc.co.uk/news/articles/c36d79nd5w8o#0"
+        "https://www.bbc.co.uk/news/articles/cx27mjvxgg1o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015190271000",
         "https://news.web.nhk/newsweb/na/na-k10015190381000",
         "https://news.web.nhk/newsweb/na/na-k10015190091000",
         "https://news.web.nhk/newsweb/na/na-k10015190281000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015188221000",
         "https://news.web.nhk/newsweb/na/na-k10015188241000",
         "https://news.web.nhk/newsweb/na/na-k10015188181000",
-        "https://news.web.nhk/newsweb/na/na-k10015188191000",
-        "https://news.web.nhk/newsweb/na/na-k10015188121000"
+        "https://news.web.nhk/newsweb/na/na-k10015188191000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/inevitably-ads-have-come-to-xbox-game-streaming/",
