@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cly5qwwdvr1o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015190281000",
         "https://news.web.nhk/newsweb/na/na-k10015190371000",
         "https://news.web.nhk/newsweb/na/na-k10015190231000",
         "https://news.web.nhk/newsweb/na/na-k10015190291000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015188191000",
         "https://news.web.nhk/newsweb/na/na-k10015188121000",
         "https://news.web.nhk/newsweb/na/na-k10015188141000",
-        "https://news.web.nhk/newsweb/na/na-k10015187951000",
-        "https://news.web.nhk/newsweb/na/na-k10015188071000"
+        "https://news.web.nhk/newsweb/na/na-k10015187951000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/tourists-watch-in-horror-as-60-orcas-rip-apart-endangered-blue-whale-sws/",
