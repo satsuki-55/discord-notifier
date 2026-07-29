@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c36d79nd5w8o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015190381000",
         "https://news.web.nhk/newsweb/na/na-k10015190091000",
         "https://news.web.nhk/newsweb/na/na-k10015190281000",
         "https://news.web.nhk/newsweb/na/na-k10015190371000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015188241000",
         "https://news.web.nhk/newsweb/na/na-k10015188181000",
         "https://news.web.nhk/newsweb/na/na-k10015188191000",
-        "https://news.web.nhk/newsweb/na/na-k10015188121000",
-        "https://news.web.nhk/newsweb/na/na-k10015188141000"
+        "https://news.web.nhk/newsweb/na/na-k10015188121000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/inevitably-ads-have-come-to-xbox-game-streaming/",
