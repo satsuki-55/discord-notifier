@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cgk4xrznxn5o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015189601000",
         "https://news.web.nhk/newsweb/na/na-k10015189551000",
         "https://news.web.nhk/newsweb/na/na-k10015189541000",
         "https://news.web.nhk/newsweb/na/na-k10015189591000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015187451000",
         "https://news.web.nhk/newsweb/na/na-k10015185121000",
         "https://news.web.nhk/newsweb/na/na-k10015187411000",
-        "https://news.web.nhk/newsweb/na/na-k10015187361000",
-        "https://news.web.nhk/newsweb/na/na-k10015187391000"
+        "https://news.web.nhk/newsweb/na/na-k10015187361000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/ai-tends-to-develop-new-stereotypes-to-base-hiring-decisions-on-study-says/",
