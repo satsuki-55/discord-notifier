@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cgk4xrznxn5o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015189571000",
         "https://news.web.nhk/newsweb/na/na-k10015189521000",
         "https://news.web.nhk/newsweb/na/na-k10015189511000",
         "https://news.web.nhk/newsweb/na/na-k10015189381000",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/na-k10015187391000",
         "https://news.web.nhk/newsweb/na/na-k10015187441000",
         "https://news.web.nhk/newsweb/na/na-k10015187351000",
-        "https://news.web.nhk/newsweb/na/na-k10015187331000",
-        "https://news.web.nhk/newsweb/na/na-k10015187341000"
+        "https://news.web.nhk/newsweb/na/na-k10015187331000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/cool-item-for-backpack-lyz/",
         "https://www.gizmodo.jp/article/genspark_second-brain-note/",
         "https://www.gizmodo.jp/article/iphone-air-sale/",
         "https://www.gizmodo.jp/article/brezi/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/siri-ai-prompts-breaks-when-you-talk-too-long/",
         "https://www.gizmodo.jp/article/iph0n3-usb-c-protection-case-von/",
         "https://www.gizmodo.jp/article/razer-soma-chroma-chair-review-an-awkward-beginning-to-immersive-furniture/",
-        "https://www.gizmodo.jp/article/schoolboys_ai_girlfriends/",
-        "https://www.gizmodo.jp/article/crime-prevention_tv_simulator_/"
+        "https://www.gizmodo.jp/article/schoolboys_ai_girlfriends/"
     ]
 }
