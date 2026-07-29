@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/c2350zlyy1yo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015189651000",
+        "https://news.web.nhk/newsweb/na/na-k10015189661000",
         "https://news.web.nhk/newsweb/na/na-k10015189611000",
         "https://news.web.nhk/newsweb/na/na-k10015187411000",
         "https://news.web.nhk/newsweb/na/na-k10015189681000",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015185181000",
         "https://news.web.nhk/newsweb/na/na-k10015187591000",
         "https://news.web.nhk/newsweb/na/na-k10015187321000",
-        "https://news.web.nhk/newsweb/na/na-k10015187461000",
-        "https://news.web.nhk/newsweb/na/na-k10015187431000",
-        "https://news.web.nhk/newsweb/na/na-k10015187371000"
+        "https://news.web.nhk/newsweb/na/na-k10015187461000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/if-youre-reading-this-youre-probably-an-ai-bot/",
