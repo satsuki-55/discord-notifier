@@ -2,6 +2,10 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "V8i53vwNnGw",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "PycoAISwXvM",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/ckg34128nvpo#0",
+        "https://www.bbc.co.uk/news/articles/cz7dlelz711o#0",
+        "https://www.bbc.co.uk/news/articles/c9q90q9qnn2o#1",
+        "https://www.bbc.co.uk/news/articles/cdx85vkk0gko#1",
         "https://www.bbc.co.uk/sport/football/articles/cp3rkwgy6y7o#0",
         "https://www.bbc.co.uk/news/articles/clyx83l8jv8o#0",
         "https://www.bbc.co.uk/news/articles/cwylrnxxl77o#0",
@@ -197,13 +201,10 @@
         "https://www.bbc.co.uk/news/articles/c62xn4vzmnpo#0",
         "https://www.bbc.co.uk/news/articles/c5y3gymn6p6o#1",
         "https://www.bbc.co.uk/news/articles/cd9w22n9e4go#0",
-        "https://www.bbc.co.uk/news/articles/cvg97dj5n16o#0",
-        "https://www.bbc.co.uk/news/articles/c5y063yqlleo#0",
-        "https://www.bbc.co.uk/news/articles/ckg34128nvpo#0",
-        "https://www.bbc.co.uk/news/articles/cr490335z1eo#0",
-        "https://www.bbc.co.uk/news/videos/c20e45g0ynqo#0"
+        "https://www.bbc.co.uk/news/articles/cvg97dj5n16o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015190341000",
         "https://news.web.nhk/newsweb/na/na-k10015190151000",
         "https://news.web.nhk/newsweb/na/na-k10015190241000",
         "https://news.web.nhk/newsweb/na/na-k10015190131000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015188041000",
         "https://news.web.nhk/newsweb/na/na-k10015187961000",
         "https://news.web.nhk/newsweb/na/na-k10015187891000",
-        "https://news.web.nhk/newsweb/na/na-k10015188051000",
-        "https://news.web.nhk/newsweb/na/na-k10015187981000"
+        "https://news.web.nhk/newsweb/na/na-k10015188051000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/tourists-watch-in-horror-as-60-orcas-rip-apart-endangered-blue-whale-sws/",
