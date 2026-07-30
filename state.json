@@ -2,6 +2,8 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "I8oI0wwnqOc",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "PycoAISwXvM",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/czjlk9rym18o#0",
+        "https://www.bbc.co.uk/news/articles/c9w01781981o#0",
         "https://www.bbc.co.uk/news/articles/cwymkgenv2ro#0",
         "https://www.bbc.co.uk/news/articles/c4g4dkr40deo#0",
         "https://www.bbc.co.uk/news/articles/crl70x0nxr9o#1",
@@ -199,11 +201,10 @@
         "https://www.bbc.co.uk/news/articles/c235m71mrreo#1",
         "https://www.bbc.co.uk/news/articles/cy4ker2y1mko#0",
         "https://www.bbc.co.uk/news/articles/c5yrjgj984qo#0",
-        "https://www.bbc.co.uk/news/articles/c9v4g7e047zo#0",
-        "https://www.bbc.co.uk/news/articles/cgewg24qgnjo#0",
-        "https://www.bbc.co.uk/news/articles/cj638jx0l53o#1"
+        "https://www.bbc.co.uk/news/articles/c9v4g7e047zo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015190961000",
         "https://news.web.nhk/newsweb/na/na-k10015191021000",
         "https://news.web.nhk/newsweb/na/na-k10015190911000",
         "https://news.web.nhk/newsweb/na/na-k10015190991000",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/na-k10015188821000",
         "https://news.web.nhk/newsweb/na/na-k10015188791000",
         "https://news.web.nhk/newsweb/na/na-k10015188781000",
-        "https://news.web.nhk/newsweb/na/na-k10015188761000",
-        "https://news.web.nhk/newsweb/na/na-k10015188751000"
+        "https://news.web.nhk/newsweb/na/na-k10015188761000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/smart-glasses-now-have-privacy-kits-to-protect-you-from-getting-punched-in-the-face/",
         "https://www.gizmodo.jp/article/306495-zcr/",
         "https://www.gizmodo.jp/article/mondo-robotics-beni-2607/",
         "https://www.gizmodo.jp/article/karrimor_all_weathe_umbrella-xhp-isv/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/s-meister-the-ghost-in-the-shell/",
         "https://www.gizmodo.jp/article/astronomers-detect-sugar-in-interstellar-space-for-the-first-time/",
         "https://www.gizmodo.jp/article/google-images-is-trying-to-be-pinterest/",
-        "https://www.gizmodo.jp/article/thank-god-macos-golden-gates-siri-is-a-terse-idiot/",
-        "https://www.gizmodo.jp/article/amazon-logos-ice-pack/"
+        "https://www.gizmodo.jp/article/thank-god-macos-golden-gates-siri-is-a-terse-idiot/"
     ]
 }
