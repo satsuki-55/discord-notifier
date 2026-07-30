@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "V8i53vwNnGw",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "PycoAISwXvM",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/ckgv63p3gnno#0",
         "https://www.bbc.co.uk/news/articles/c78gnj1qqyyo#0",
         "https://www.bbc.co.uk/news/articles/c20dppq3y90o#1",
         "https://www.bbc.co.uk/news/articles/cpvwjmme3p0o#0",
@@ -200,8 +201,7 @@
         "https://www.bbc.co.uk/news/articles/clyqnz52rp6o#1",
         "https://www.bbc.co.uk/news/articles/cpd74e0yy12o#1",
         "https://www.bbc.co.uk/news/articles/c87nj3w9gxjo#0",
-        "https://www.bbc.co.uk/news/articles/cx27mjvxgg1o#1",
-        "https://www.bbc.co.uk/news/articles/cn0ngrpp2p5o#0"
+        "https://www.bbc.co.uk/news/articles/cx27mjvxgg1o#1"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/na-k10015190761000",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015188611000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/6456bce6-8609-469e-98ca-d31e95a65337/",
         "https://www.gizmodo.jp/article/claude_prompt_reflection/",
         "https://www.gizmodo.jp/article/a-missing-black-hole-was-found-hiding-in-a-giant-star-cluster-astronomers-think-there-could-be-thousands-more/",
         "https://www.gizmodo.jp/article/stainless-steel-rack/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/an-unholy-union-of-smart-glasses-and-wireless-earbuds-is-upon-us/",
         "https://www.gizmodo.jp/article/an-ancient-structure-resembling-stonehenge-has-been-discovered-at-the-bottom-of-lake-michigan-qih-kgk/",
         "https://www.gizmodo.jp/article/tesla_fsd_facial-recognition-system/",
-        "https://www.gizmodo.jp/article/should-we-be-hyped-or-freaked-out-about-nuclear-microreactors-mnz/",
-        "https://www.gizmodo.jp/article/verily-life-sciences_debug/"
+        "https://www.gizmodo.jp/article/should-we-be-hyped-or-freaked-out-about-nuclear-microreactors-mnz/"
     ]
 }
