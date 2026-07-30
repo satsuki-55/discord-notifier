@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/sport/football/articles/c0ly412r412o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015191361000",
         "https://news.web.nhk/newsweb/na/na-k10015191391000",
         "https://news.web.nhk/newsweb/na/na-k10015191381000",
         "https://news.web.nhk/newsweb/na/na-k10015191321000",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/na-k10015189111000",
         "https://news.web.nhk/newsweb/na/na-k10015189191000",
         "https://news.web.nhk/newsweb/na/na-k10015189101000",
-        "https://news.web.nhk/newsweb/na/na-k10015189001000",
-        "https://news.web.nhk/newsweb/na/na-k10015189161000"
+        "https://news.web.nhk/newsweb/na/na-k10015189001000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/qrcord_2tb_repost/",
         "https://www.gizmodo.jp/article/generated_ai_jailbreak/",
         "https://www.gizmodo.jp/article/drair-aerojet-style/",
         "https://www.gizmodo.jp/article/chocolate_odor_enhances/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/a-gaming-tablet-with-liquid-cooling-actually-makes-sense/",
         "https://www.gizmodo.jp/article/why-this-part-of-antarctica-bleeds-blood-red-m4d-jok/",
         "https://www.gizmodo.jp/article/this-years-budget-pixel-might-be-less-of-a-cop-out/",
-        "https://www.gizmodo.jp/article/discs-arent-dead-quite-yet-apparently/",
-        "https://www.gizmodo.jp/article/someone-paid-almost-1-million-for-jensen-huangs-leather-jacket-and-should-be-executed-by-swirlie/"
+        "https://www.gizmodo.jp/article/discs-arent-dead-quite-yet-apparently/"
     ]
 }
