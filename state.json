@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cvg9lv27v69o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015191061000",
         "https://news.web.nhk/newsweb/na/na-k10015191041000",
         "https://news.web.nhk/newsweb/na/na-k10015191051000",
         "https://news.web.nhk/newsweb/na/na-k10015190981000",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/na-k10015188841000",
         "https://news.web.nhk/newsweb/na/na-k10015188811000",
         "https://news.web.nhk/newsweb/na/na-k10015188831000",
-        "https://news.web.nhk/newsweb/na/na-k10015188711000",
-        "https://news.web.nhk/newsweb/na/na-k10015188801000"
+        "https://news.web.nhk/newsweb/na/na-k10015188711000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/report-says-hundreds-of-users-asked-chatgpt-about-bioweapons-and-poisons-and-it-answered/",
         "https://www.gizmodo.jp/article/9d539b16-c2be-4fcf-8cf8-48c9bed2fbd8/",
         "https://www.gizmodo.jp/article/smart-glasses-now-have-privacy-kits-to-protect-you-from-getting-punched-in-the-face/",
         "https://www.gizmodo.jp/article/306495-zcr/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/digi-plus-18-5-inch-quad-display-system/",
         "https://www.gizmodo.jp/article/about-credit-card-gvn-ufe/",
         "https://www.gizmodo.jp/article/s-meister-the-ghost-in-the-shell/",
-        "https://www.gizmodo.jp/article/astronomers-detect-sugar-in-interstellar-space-for-the-first-time/",
-        "https://www.gizmodo.jp/article/google-images-is-trying-to-be-pinterest/"
+        "https://www.gizmodo.jp/article/astronomers-detect-sugar-in-interstellar-space-for-the-first-time/"
     ]
 }
