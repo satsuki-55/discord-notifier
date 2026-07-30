@@ -204,6 +204,9 @@
         "https://www.bbc.co.uk/news/articles/c1l1de9gjj6o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015190771000",
+        "https://news.web.nhk/newsweb/na/na-k10015190751000",
+        "https://news.web.nhk/newsweb/na/na-k10015190681000",
         "https://news.web.nhk/newsweb/na/na-k10015190701000",
         "https://news.web.nhk/newsweb/na/na-k10015190671000",
         "https://news.web.nhk/newsweb/na/na-k10015190711000",
@@ -400,10 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015188501000",
         "https://news.web.nhk/newsweb/na/na-k10015188371000",
         "https://news.web.nhk/newsweb/na/na-k10015188611000",
-        "https://news.web.nhk/newsweb/na/na-k10015188601000",
-        "https://news.web.nhk/newsweb/na/na-k10015188581000",
-        "https://news.web.nhk/newsweb/na/na-k10015188591000",
-        "https://news.web.nhk/newsweb/na/na-k10015188571000"
+        "https://news.web.nhk/newsweb/na/na-k10015188601000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/a-missing-black-hole-was-found-hiding-in-a-giant-star-cluster-astronomers-think-there-could-be-thousands-more/",
