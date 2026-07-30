@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015188421000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/balloon-dog-speaker-lamp/",
         "https://www.gizmodo.jp/article/aimdesk-pro-5-re-2/",
         "https://www.gizmodo.jp/article/search-engine-webxray-2-dhq/",
         "https://www.gizmodo.jp/article/bose_quietcomfort-ultra-headphones/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/verily-life-sciences_debug/",
         "https://www.gizmodo.jp/article/cargo-thieves-stole-million-of-data-center-supplies-sheriff-says/",
         "https://www.gizmodo.jp/article/insta360-luna-ultra-design-challenge/",
-        "https://www.gizmodo.jp/article/brita_cubecool_review/",
-        "https://www.gizmodo.jp/article/finally-a-robot-designed-to-make-chatting-with-mark-zuckerberg-feel-natural/"
+        "https://www.gizmodo.jp/article/brita_cubecool_review/"
     ]
 }
