@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c5y4grv7pp8o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015190551000",
         "https://news.web.nhk/newsweb/na/na-k10015190521000",
         "https://news.web.nhk/newsweb/na/na-k10015190471000",
         "https://news.web.nhk/newsweb/na/na-k10015190461000",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/na-k10015188381000",
         "https://news.web.nhk/newsweb/na/na-k10015188361000",
         "https://news.web.nhk/newsweb/na/na-k10015188351000",
-        "https://news.web.nhk/newsweb/na/na-k10015188331000",
-        "https://news.web.nhk/newsweb/na/na-k10015188321000"
+        "https://news.web.nhk/newsweb/na/na-k10015188331000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/bose_quietcomfort-ultra-headphones/",
         "https://www.gizmodo.jp/article/faq-for-splitkeyboards/",
         "https://www.gizmodo.jp/article/smart-glasses-are-landing-people-with-criminal-charges-now/",
         "https://www.gizmodo.jp/article/kimi_k3_local/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/brita_cubecool_review/",
         "https://www.gizmodo.jp/article/finally-a-robot-designed-to-make-chatting-with-mark-zuckerberg-feel-natural/",
         "https://www.gizmodo.jp/article/mamdanis-new-click-to-cancel-rule-makes-it-easier-for-new-yorkers-to-cancel-subscriptions/",
-        "https://www.gizmodo.jp/article/why-light-car-is-suitable-fo-me-pdv/",
-        "https://www.gizmodo.jp/article/motorola-edge-70-max/"
+        "https://www.gizmodo.jp/article/why-light-car-is-suitable-fo-me-pdv/"
     ]
 }
