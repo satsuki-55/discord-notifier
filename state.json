@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c2dkew9kjd5o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015190641000",
         "https://news.web.nhk/newsweb/na/na-k10015190651000",
         "https://news.web.nhk/newsweb/na/na-k10015190561000",
         "https://news.web.nhk/newsweb/na/na-k10015190661000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015188531000",
         "https://news.web.nhk/newsweb/na/na-k10015188511000",
         "https://news.web.nhk/newsweb/na/na-k10015188521000",
-        "https://news.web.nhk/newsweb/na/na-k10015188491000",
-        "https://news.web.nhk/newsweb/na/na-k10015186031000"
+        "https://news.web.nhk/newsweb/na/na-k10015188491000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/stainless-steel-rack/",
