@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c1d1e0gv1kro#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015191211000",
         "https://news.web.nhk/newsweb/na/na-k10015191191000",
         "https://news.web.nhk/newsweb/na/na-k10015191201000",
         "https://news.web.nhk/newsweb/na/na-k10015191031000",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/na-k10015188991000",
         "https://news.web.nhk/newsweb/na/na-k10015188951000",
         "https://news.web.nhk/newsweb/na/na-k10015188961000",
-        "https://news.web.nhk/newsweb/na/na-k10015189021000",
-        "https://news.web.nhk/newsweb/na/na-k10015188981000"
+        "https://news.web.nhk/newsweb/na/na-k10015189021000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/chocolate_odor_enhances/",
         "https://www.gizmodo.jp/article/odyssey-grok-elon-musk-mel-gibson-ai/",
         "https://www.gizmodo.jp/article/iflytek-dual-monitor-ai-translator/",
         "https://www.gizmodo.jp/article/report-says-hundreds-of-users-asked-chatgpt-about-bioweapons-and-poisons-and-it-answered/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/discs-arent-dead-quite-yet-apparently/",
         "https://www.gizmodo.jp/article/someone-paid-almost-1-million-for-jensen-huangs-leather-jacket-and-should-be-executed-by-swirlie/",
         "https://www.gizmodo.jp/article/aulgo/",
-        "https://www.gizmodo.jp/article/digi-plus-18-5-inch-quad-display-system/",
-        "https://www.gizmodo.jp/article/about-credit-card-gvn-ufe/"
+        "https://www.gizmodo.jp/article/digi-plus-18-5-inch-quad-display-system/"
     ]
 }
