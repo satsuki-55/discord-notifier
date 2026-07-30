@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015188241000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/rizermat/",
         "https://www.gizmodo.jp/article/apple-might-finally-actually-for-real-launch-a-smart-home-hub/",
         "https://www.gizmodo.jp/article/inevitably-ads-have-come-to-xbox-game-streaming/",
         "https://www.gizmodo.jp/article/tourists-watch-in-horror-as-60-orcas-rip-apart-endangered-blue-whale-sws/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/motorola-edge-70-max/",
         "https://www.gizmodo.jp/article/tesla-balance-bike-for-kids/",
         "https://www.gizmodo.jp/article/scientists-say-this-climate-hack-could-stop-el-nino-before-it-starts/",
-        "https://www.gizmodo.jp/article/das_pod_cd_player/",
-        "https://www.gizmodo.jp/article/skullcandys-new-wireless-headphones-have-so-much-bose-in-them/"
+        "https://www.gizmodo.jp/article/das_pod_cd_player/"
     ]
 }
