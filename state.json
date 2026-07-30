@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/czekl599087o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015191031000",
         "https://news.web.nhk/newsweb/na/na-k10015191151000",
         "https://news.web.nhk/newsweb/na/na-k10015191131000",
         "https://news.web.nhk/newsweb/na/na-k10015191121000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015189021000",
         "https://news.web.nhk/newsweb/na/na-k10015188981000",
         "https://news.web.nhk/newsweb/na/na-k10015189031000",
-        "https://news.web.nhk/newsweb/na/na-k10015188881000",
-        "https://news.web.nhk/newsweb/na/na-k10015188921000"
+        "https://news.web.nhk/newsweb/na/na-k10015188881000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/odyssey-grok-elon-musk-mel-gibson-ai/",
