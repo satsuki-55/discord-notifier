@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c2dkew9kjd5o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015190661000",
         "https://news.web.nhk/newsweb/na/na-k10015190511000",
         "https://news.web.nhk/newsweb/na/na-k10015190611000",
         "https://news.web.nhk/newsweb/na/na-k10015190541000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015188491000",
         "https://news.web.nhk/newsweb/na/na-k10015186031000",
         "https://news.web.nhk/newsweb/na/na-k10015188471000",
-        "https://news.web.nhk/newsweb/na/na-k10015188421000",
-        "https://news.web.nhk/newsweb/na/na-k10015188481000"
+        "https://news.web.nhk/newsweb/na/na-k10015188421000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/aimdesk-pro-5-re-2/",
