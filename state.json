@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cd692n215ndo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015190851000",
         "https://news.web.nhk/newsweb/na/na-k10015190901000",
         "https://news.web.nhk/newsweb/na/na-k10015190931000",
         "https://news.web.nhk/newsweb/na/na-k10015190891000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015188751000",
         "https://news.web.nhk/newsweb/na/na-k10015188731000",
         "https://news.web.nhk/newsweb/na/na-k10015188721000",
-        "https://news.web.nhk/newsweb/na/na-k10015188701000",
-        "https://news.web.nhk/newsweb/na/na-k10015188681000"
+        "https://news.web.nhk/newsweb/na/na-k10015188701000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/mondo-robotics-beni-2607/",
