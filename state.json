@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cr49znlz5ggo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015190421000",
         "https://news.web.nhk/newsweb/na/na-k10015190411000",
         "https://news.web.nhk/newsweb/na/na-k10015190391000",
         "https://news.web.nhk/newsweb/na/na-k10015190311000",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/na-k10015188261000",
         "https://news.web.nhk/newsweb/na/na-k10015188271000",
         "https://news.web.nhk/newsweb/na/na-k10015185901000",
-        "https://news.web.nhk/newsweb/na/na-k10015188251000",
-        "https://news.web.nhk/newsweb/na/na-k10015188221000"
+        "https://news.web.nhk/newsweb/na/na-k10015188251000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/kimi_k3_local/",
         "https://www.gizmodo.jp/article/rizermat/",
         "https://www.gizmodo.jp/article/apple-might-finally-actually-for-real-launch-a-smart-home-hub/",
         "https://www.gizmodo.jp/article/inevitably-ads-have-come-to-xbox-game-streaming/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/why-light-car-is-suitable-fo-me-pdv/",
         "https://www.gizmodo.jp/article/motorola-edge-70-max/",
         "https://www.gizmodo.jp/article/tesla-balance-bike-for-kids/",
-        "https://www.gizmodo.jp/article/scientists-say-this-climate-hack-could-stop-el-nino-before-it-starts/",
-        "https://www.gizmodo.jp/article/das_pod_cd_player/"
+        "https://www.gizmodo.jp/article/scientists-say-this-climate-hack-could-stop-el-nino-before-it-starts/"
     ]
 }
