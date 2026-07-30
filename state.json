@@ -2,6 +2,8 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "V8i53vwNnGw",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "PycoAISwXvM",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cpq8n45r5e8o#0",
+        "https://www.bbc.co.uk/news/articles/cy07wgqjv08o#1",
         "https://www.bbc.co.uk/sport/football/articles/cz64gdj9e25o#0",
         "https://www.bbc.co.uk/news/articles/c3307d54ep7o#0",
         "https://www.bbc.co.uk/news/articles/ckgv63p3gnno#0",
@@ -199,11 +201,10 @@
         "https://www.bbc.co.uk/news/articles/cd692n215ndo#0",
         "https://www.bbc.co.uk/news/articles/cjejw8pq5elo#1",
         "https://www.bbc.co.uk/news/articles/cwylnl17w09o#0",
-        "https://www.bbc.co.uk/sport/football/articles/cpd741qn2y9o#0",
-        "https://www.bbc.co.uk/news/articles/clyqnz52rp6o#1",
-        "https://www.bbc.co.uk/news/articles/cpd74e0yy12o#1"
+        "https://www.bbc.co.uk/sport/football/articles/cpd741qn2y9o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015190781000",
         "https://news.web.nhk/newsweb/na/na-k10015141221000",
         "https://news.web.nhk/newsweb/na/na-k10015190761000",
         "https://news.web.nhk/newsweb/na/na-k10015190771000",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/na-k10015188631000",
         "https://news.web.nhk/newsweb/na/na-k10015188641000",
         "https://news.web.nhk/newsweb/na/na-k10015188661000",
-        "https://news.web.nhk/newsweb/na/na-k10015188501000",
-        "https://news.web.nhk/newsweb/na/na-k10015188371000"
+        "https://news.web.nhk/newsweb/na/na-k10015188501000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/peek-a-book/",
         "https://www.gizmodo.jp/article/balmuda-clock-sleep/",
         "https://www.gizmodo.jp/article/6456bce6-8609-469e-98ca-d31e95a65337/",
         "https://www.gizmodo.jp/article/claude_prompt_reflection/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/amazon-logos-ice-pack/",
         "https://www.gizmodo.jp/article/sun-star-stationary_cassettetape-measure/",
         "https://www.gizmodo.jp/article/an-unholy-union-of-smart-glasses-and-wireless-earbuds-is-upon-us/",
-        "https://www.gizmodo.jp/article/an-ancient-structure-resembling-stonehenge-has-been-discovered-at-the-bottom-of-lake-michigan-qih-kgk/",
-        "https://www.gizmodo.jp/article/tesla_fsd_facial-recognition-system/"
+        "https://www.gizmodo.jp/article/an-ancient-structure-resembling-stonehenge-has-been-discovered-at-the-bottom-of-lake-michigan-qih-kgk/"
     ]
 }
