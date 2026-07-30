@@ -2,6 +2,8 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "I8oI0wwnqOc",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "PycoAISwXvM",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cj03m512r4go#0",
+        "https://www.bbc.co.uk/news/articles/cn0nqv05g0do#1",
         "https://www.bbc.co.uk/news/articles/c0jlzqe9z9vo#0",
         "https://www.bbc.co.uk/news/articles/c5yeg1wegpno#0",
         "https://www.bbc.co.uk/news/articles/c04kd3gl1gpo#0",
@@ -199,9 +201,7 @@
         "https://www.bbc.co.uk/news/articles/c4gd240eelmo#0",
         "https://www.bbc.co.uk/news/articles/c1k1vgx08gko#0",
         "https://www.bbc.co.uk/news/articles/cdewk5r308jo#0",
-        "https://www.bbc.co.uk/news/articles/cdx8vw5k2x8o#0",
-        "https://www.bbc.co.uk/news/articles/crmrnxp4nllo#0",
-        "https://www.bbc.co.uk/news/articles/c89np278qwvo#0"
+        "https://www.bbc.co.uk/news/articles/cdx8vw5k2x8o#0"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/na-k10015191581000",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015189351000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/gizmodo-20th/",
         "https://www.gizmodo.jp/article/qrcord_2tb_repost/",
         "https://www.gizmodo.jp/article/generated_ai_jailbreak/",
         "https://www.gizmodo.jp/article/drair-aerojet-style/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/kodaks-new-point-and-shoot-is-a-real-disposable-replacement/",
         "https://www.gizmodo.jp/article/a-gaming-tablet-with-liquid-cooling-actually-makes-sense/",
         "https://www.gizmodo.jp/article/why-this-part-of-antarctica-bleeds-blood-red-m4d-jok/",
-        "https://www.gizmodo.jp/article/this-years-budget-pixel-might-be-less-of-a-cop-out/",
-        "https://www.gizmodo.jp/article/discs-arent-dead-quite-yet-apparently/"
+        "https://www.gizmodo.jp/article/this-years-budget-pixel-might-be-less-of-a-cop-out/"
     ]
 }
