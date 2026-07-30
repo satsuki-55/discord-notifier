@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c2dkew9kjd5o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015190541000",
         "https://news.web.nhk/newsweb/na/na-k10015190581000",
         "https://news.web.nhk/newsweb/na/na-k10015190621000",
         "https://news.web.nhk/newsweb/na/na-k10015190631000",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/na-k10015188421000",
         "https://news.web.nhk/newsweb/na/na-k10015188481000",
         "https://news.web.nhk/newsweb/na/na-k10015188451000",
-        "https://news.web.nhk/newsweb/na/na-k10015188441000",
-        "https://news.web.nhk/newsweb/na/na-k10015188401000"
+        "https://news.web.nhk/newsweb/na/na-k10015188441000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/aimdesk-pro-5-re-2/",
         "https://www.gizmodo.jp/article/search-engine-webxray-2-dhq/",
         "https://www.gizmodo.jp/article/bose_quietcomfort-ultra-headphones/",
         "https://www.gizmodo.jp/article/faq-for-splitkeyboards/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/cargo-thieves-stole-million-of-data-center-supplies-sheriff-says/",
         "https://www.gizmodo.jp/article/insta360-luna-ultra-design-challenge/",
         "https://www.gizmodo.jp/article/brita_cubecool_review/",
-        "https://www.gizmodo.jp/article/finally-a-robot-designed-to-make-chatting-with-mark-zuckerberg-feel-natural/",
-        "https://www.gizmodo.jp/article/mamdanis-new-click-to-cancel-rule-makes-it-easier-for-new-yorkers-to-cancel-subscriptions/"
+        "https://www.gizmodo.jp/article/finally-a-robot-designed-to-make-chatting-with-mark-zuckerberg-feel-natural/"
     ]
 }
