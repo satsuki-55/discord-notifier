@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "I8oI0wwnqOc",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "PycoAISwXvM",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cp9e0v5xmdyo#0",
         "https://www.bbc.co.uk/news/articles/cg74gvy8lgjo#0",
         "https://www.bbc.co.uk/news/articles/cn9nyz12xe8o#0",
         "https://www.bbc.co.uk/weather/articles/cx2lvg855x8o#0",
@@ -200,10 +201,11 @@
         "https://www.bbc.co.uk/news/articles/cly5qgjk5ywo#1",
         "https://www.bbc.co.uk/news/articles/c5yd8gly1ydo#0",
         "https://www.bbc.co.uk/news/articles/c62v8exggjeo#1",
-        "https://www.bbc.co.uk/news/videos/cgr751pvnd2o#0",
-        "https://www.bbc.co.uk/news/articles/c1d1e0gv1kro#0"
+        "https://www.bbc.co.uk/news/videos/cgr751pvnd2o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015191171000",
+        "https://news.web.nhk/newsweb/na/na-k10015191161000",
         "https://news.web.nhk/newsweb/na/na-k10015191211000",
         "https://news.web.nhk/newsweb/na/na-k10015191191000",
         "https://news.web.nhk/newsweb/na/na-k10015191201000",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015189091000",
         "https://news.web.nhk/newsweb/na/na-k10015186641000",
         "https://news.web.nhk/newsweb/na/na-k10015188991000",
-        "https://news.web.nhk/newsweb/na/na-k10015188951000",
-        "https://news.web.nhk/newsweb/na/na-k10015188961000",
-        "https://news.web.nhk/newsweb/na/na-k10015189021000"
+        "https://news.web.nhk/newsweb/na/na-k10015188951000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/chocolate_odor_enhances/",
