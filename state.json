@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015188611000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/balmuda-clock-sleep/",
         "https://www.gizmodo.jp/article/6456bce6-8609-469e-98ca-d31e95a65337/",
         "https://www.gizmodo.jp/article/claude_prompt_reflection/",
         "https://www.gizmodo.jp/article/a-missing-black-hole-was-found-hiding-in-a-giant-star-cluster-astronomers-think-there-could-be-thousands-more/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/sun-star-stationary_cassettetape-measure/",
         "https://www.gizmodo.jp/article/an-unholy-union-of-smart-glasses-and-wireless-earbuds-is-upon-us/",
         "https://www.gizmodo.jp/article/an-ancient-structure-resembling-stonehenge-has-been-discovered-at-the-bottom-of-lake-michigan-qih-kgk/",
-        "https://www.gizmodo.jp/article/tesla_fsd_facial-recognition-system/",
-        "https://www.gizmodo.jp/article/should-we-be-hyped-or-freaked-out-about-nuclear-microreactors-mnz/"
+        "https://www.gizmodo.jp/article/tesla_fsd_facial-recognition-system/"
     ]
 }
