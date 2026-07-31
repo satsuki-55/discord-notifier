@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cd0xnge2zx7o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015192461000",
         "https://news.web.nhk/newsweb/na/na-k10015192541000",
         "https://news.web.nhk/newsweb/na/na-k10015192311000",
         "https://news.web.nhk/newsweb/na/na-k10015192771000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015190371000",
         "https://news.web.nhk/newsweb/na/na-k10015190231000",
         "https://news.web.nhk/newsweb/na/na-k10015190291000",
-        "https://news.web.nhk/newsweb/na/na-k10015190251000",
-        "https://news.web.nhk/newsweb/na/na-k10015188041000"
+        "https://news.web.nhk/newsweb/na/na-k10015190251000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/brita_larq_essentialbottle/",
