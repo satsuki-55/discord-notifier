@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cwylrnxxl77o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015192961000",
         "https://news.web.nhk/newsweb/na/na-k10015193161000",
         "https://news.web.nhk/newsweb/na/na-k10015192871000",
         "https://news.web.nhk/newsweb/na/na-k10015193071000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015190651000",
         "https://news.web.nhk/newsweb/na/na-k10015190561000",
         "https://news.web.nhk/newsweb/na/na-k10015190661000",
-        "https://news.web.nhk/newsweb/na/na-k10015190511000",
-        "https://news.web.nhk/newsweb/na/na-k10015190611000"
+        "https://news.web.nhk/newsweb/na/na-k10015190511000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/amazon-bruno-handy-fan/",
