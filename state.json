@@ -204,6 +204,9 @@
         "https://www.bbc.co.uk/news/articles/cd0xnge2zx7o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015192811000",
+        "https://news.web.nhk/newsweb/na/na-k10015192791000",
+        "https://news.web.nhk/newsweb/na/na-k10015192671000",
         "https://news.web.nhk/newsweb/na/na-k10015192461000",
         "https://news.web.nhk/newsweb/na/na-k10015192541000",
         "https://news.web.nhk/newsweb/na/na-k10015192311000",
@@ -400,12 +403,10 @@
         "https://news.web.nhk/newsweb/na/na-k10015190381000",
         "https://news.web.nhk/newsweb/na/na-k10015190091000",
         "https://news.web.nhk/newsweb/na/na-k10015190281000",
-        "https://news.web.nhk/newsweb/na/na-k10015190371000",
-        "https://news.web.nhk/newsweb/na/na-k10015190231000",
-        "https://news.web.nhk/newsweb/na/na-k10015190291000",
-        "https://news.web.nhk/newsweb/na/na-k10015190251000"
+        "https://news.web.nhk/newsweb/na/na-k10015190371000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/gpt_5_6_sol_arc_agi_3_score_tripled/",
         "https://www.gizmodo.jp/article/brita_larq_essentialbottle/",
         "https://www.gizmodo.jp/article/iphone-18-18pro-rumors-summary/",
         "https://www.gizmodo.jp/article/20-years-of-gizmodojp-chisatokuroda/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/galaxy-watch-ultra2/",
         "https://www.gizmodo.jp/article/galaxy-z-fold8-feature/",
         "https://www.gizmodo.jp/article/galaxy-z-flip8/",
-        "https://www.gizmodo.jp/article/galaxy-z-fold8-ultra/",
-        "https://www.gizmodo.jp/article/galaxy-z-fold8/"
+        "https://www.gizmodo.jp/article/galaxy-z-fold8-ultra/"
     ]
 }
