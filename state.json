@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "gVWtz3UehKo",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "PycoAISwXvM",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c0qykzqxw5qo#0",
         "https://www.bbc.co.uk/news/articles/cwyle421806o#0",
         "https://www.bbc.co.uk/news/articles/c86ng1g5wy4o#1",
         "https://www.bbc.co.uk/news/articles/ckgv657e1yko#1",
@@ -200,10 +201,10 @@
         "https://www.bbc.co.uk/news/articles/czekl599087o#1",
         "https://www.bbc.co.uk/news/articles/crk661074ejo#0",
         "https://www.bbc.co.uk/news/articles/c8jn007gmpzo#0",
-        "https://www.bbc.co.uk/news/articles/cddjz02d8jgo#0",
-        "https://www.bbc.co.uk/sport/football/articles/cvg7vglq9wpo#0"
+        "https://www.bbc.co.uk/news/articles/cddjz02d8jgo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015192941000",
         "https://news.web.nhk/newsweb/na/na-k10015192071000",
         "https://news.web.nhk/newsweb/na/na-k10015192821000",
         "https://news.web.nhk/newsweb/na/na-k10015192391000",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/na-k10015190411000",
         "https://news.web.nhk/newsweb/na/na-k10015190391000",
         "https://news.web.nhk/newsweb/na/na-k10015190311000",
-        "https://news.web.nhk/newsweb/na/na-k10015190271000",
-        "https://news.web.nhk/newsweb/na/na-k10015190381000"
+        "https://news.web.nhk/newsweb/na/na-k10015190271000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/scansnap-cloud-plus/",
         "https://www.gizmodo.jp/article/there-may-be-no-such-thing-as-cheap-vr-anymore/",
         "https://www.gizmodo.jp/article/gpt_5_6_sol_arc_agi_3_score_tripled/",
         "https://www.gizmodo.jp/article/brita_larq_essentialbottle/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/mother-3-g-shock-dw-5600mot26/",
         "https://www.gizmodo.jp/article/folding-umbrella-handle-for-airtag-fv5-ikm/",
         "https://www.gizmodo.jp/article/galaxy-watch-ultra2/",
-        "https://www.gizmodo.jp/article/galaxy-z-fold8-feature/",
-        "https://www.gizmodo.jp/article/galaxy-z-flip8/"
+        "https://www.gizmodo.jp/article/galaxy-z-fold8-feature/"
     ]
 }
