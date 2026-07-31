@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015190391000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/gizmodo-20th-naito/",
         "https://www.gizmodo.jp/article/scansnap-cloud-plus/",
         "https://www.gizmodo.jp/article/there-may-be-no-such-thing-as-cheap-vr-anymore/",
         "https://www.gizmodo.jp/article/gpt_5_6_sol_arc_agi_3_score_tripled/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/monocloth-for-apple-devices/",
         "https://www.gizmodo.jp/article/mother-3-g-shock-dw-5600mot26/",
         "https://www.gizmodo.jp/article/folding-umbrella-handle-for-airtag-fv5-ikm/",
-        "https://www.gizmodo.jp/article/galaxy-watch-ultra2/",
-        "https://www.gizmodo.jp/article/galaxy-z-fold8-feature/"
+        "https://www.gizmodo.jp/article/galaxy-watch-ultra2/"
     ]
 }
