@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cd0xnge2zx7o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015192391000",
         "https://news.web.nhk/newsweb/na/na-k10015192811000",
         "https://news.web.nhk/newsweb/na/na-k10015192791000",
         "https://news.web.nhk/newsweb/na/na-k10015192671000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015190271000",
         "https://news.web.nhk/newsweb/na/na-k10015190381000",
         "https://news.web.nhk/newsweb/na/na-k10015190091000",
-        "https://news.web.nhk/newsweb/na/na-k10015190281000",
-        "https://news.web.nhk/newsweb/na/na-k10015190371000"
+        "https://news.web.nhk/newsweb/na/na-k10015190281000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/gpt_5_6_sol_arc_agi_3_score_tripled/",
