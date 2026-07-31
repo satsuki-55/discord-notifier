@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015190411000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/honeycomb-wall-cooler-1/",
         "https://www.gizmodo.jp/article/gizmodo-20th-naito/",
         "https://www.gizmodo.jp/article/scansnap-cloud-plus/",
         "https://www.gizmodo.jp/article/there-may-be-no-such-thing-as-cheap-vr-anymore/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/iphone-price-hike-coming-again-in-fall/",
         "https://www.gizmodo.jp/article/monocloth-for-apple-devices/",
         "https://www.gizmodo.jp/article/mother-3-g-shock-dw-5600mot26/",
-        "https://www.gizmodo.jp/article/folding-umbrella-handle-for-airtag-fv5-ikm/",
-        "https://www.gizmodo.jp/article/galaxy-watch-ultra2/"
+        "https://www.gizmodo.jp/article/folding-umbrella-handle-for-airtag-fv5-ikm/"
     ]
 }
