@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cr59m5nmemno#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015191961000",
         "https://news.web.nhk/newsweb/na/na-k10015191861000",
         "https://news.web.nhk/newsweb/na/na-k10015192001000",
         "https://news.web.nhk/newsweb/na/na-k10015189731000",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/na-k10015189841000",
         "https://news.web.nhk/newsweb/na/na-k10015189861000",
         "https://news.web.nhk/newsweb/na/na-k10015189721000",
-        "https://news.web.nhk/newsweb/na/na-k10015189711000",
-        "https://news.web.nhk/newsweb/na/na-k10015187551000"
+        "https://news.web.nhk/newsweb/na/na-k10015189711000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/orca-echo-15off-1/",
         "https://www.gizmodo.jp/article/gizmodo-20-years-tech-science-first-mention-history/",
         "https://www.gizmodo.jp/article/survey-finds-americans-see-ai-as-comparable-to-humans-its-making-them-trust-it-less/",
         "https://www.gizmodo.jp/article/reverse-recruiter-startup-wants-you-to-pay-if-its-ai-agent-finds-you-a-job/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/kashimura_fan-with-fully-adjustable-angle/",
         "https://www.gizmodo.jp/article/hisenses-new-e-ink-phone-has-a-detachable-screen-that-actually-makes-sense/",
         "https://www.gizmodo.jp/article/ecowin_water-fgg/",
-        "https://www.gizmodo.jp/article/meta-is-slapping-subscriptions-on-its-smart-glasses/",
-        "https://www.gizmodo.jp/article/snow-peak-insect-shield-mesh-ls-t-shirt-ktj/"
+        "https://www.gizmodo.jp/article/meta-is-slapping-subscriptions-on-its-smart-glasses/"
     ]
 }
