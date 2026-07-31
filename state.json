@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "I8oI0wwnqOc",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "PycoAISwXvM",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/ce853y7yq7yo#0",
         "https://www.bbc.co.uk/news/articles/clyl1g0kknxo#1",
         "https://www.bbc.co.uk/news/articles/c4g3eyg60e0o#1",
         "https://www.bbc.co.uk/news/articles/cd69glgl2jzo#0",
@@ -200,10 +201,10 @@
         "https://www.bbc.co.uk/news/articles/cj4kexqkpzno#0",
         "https://www.bbc.co.uk/news/articles/c5yd8gly1ydo#1",
         "https://www.bbc.co.uk/news/articles/c9q90qvwe14o#1",
-        "https://www.bbc.co.uk/news/articles/c0rd1kl1825o#0",
-        "https://www.bbc.co.uk/news/articles/cp9e2ex3ekyo#1"
+        "https://www.bbc.co.uk/news/articles/c0rd1kl1825o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015192111000",
         "https://news.web.nhk/newsweb/na/na-k10015190261000",
         "https://news.web.nhk/newsweb/na/na-k10015192131000",
         "https://news.web.nhk/newsweb/na/na-k10015189831000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015187511000",
         "https://news.web.nhk/newsweb/na/na-k10015189941000",
         "https://news.web.nhk/newsweb/na/na-k10015189981000",
-        "https://news.web.nhk/newsweb/na/na-k10015189971000",
-        "https://news.web.nhk/newsweb/na/na-k10015189911000"
+        "https://news.web.nhk/newsweb/na/na-k10015189971000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/magsafe_lifehack_tool_mini_pc/",
