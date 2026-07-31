@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/c5yeg1wegpno#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015193061000",
+        "https://news.web.nhk/newsweb/na/na-k10015193091000",
         "https://news.web.nhk/newsweb/na/na-k10015193121000",
         "https://news.web.nhk/newsweb/na/na-k10015193201000",
         "https://news.web.nhk/newsweb/na/na-k10015193101000",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015190501000",
         "https://news.web.nhk/newsweb/na/na-k10015190601000",
         "https://news.web.nhk/newsweb/na/na-k10015190491000",
-        "https://news.web.nhk/newsweb/na/na-k10015190551000",
-        "https://news.web.nhk/newsweb/na/na-k10015190521000",
-        "https://news.web.nhk/newsweb/na/na-k10015190471000"
+        "https://news.web.nhk/newsweb/na/na-k10015190551000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/honeycomb-wall-cooler-1/",
