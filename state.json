@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/czxq028q99go#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015191451000",
         "https://news.web.nhk/newsweb/na/na-k10015191831000",
         "https://news.web.nhk/newsweb/na/na-k10015191781000",
         "https://news.web.nhk/newsweb/na/na-k10015191761000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015189691000",
         "https://news.web.nhk/newsweb/na/na-k10015189471000",
         "https://news.web.nhk/newsweb/na/na-k10015189651000",
-        "https://news.web.nhk/newsweb/na/na-k10015189661000",
-        "https://news.web.nhk/newsweb/na/na-k10015189611000"
+        "https://news.web.nhk/newsweb/na/na-k10015189661000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/survey-finds-americans-see-ai-as-comparable-to-humans-its-making-them-trust-it-less/",
