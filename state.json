@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "I8oI0wwnqOc",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "PycoAISwXvM",
     "rss:bbc": [
+        "https://www.bbc.co.uk/sport/football/articles/ckgvlz45l3eo#0",
         "https://www.bbc.co.uk/news/articles/cpw9yrl4p2qo#0",
         "https://www.bbc.co.uk/news/articles/c204nw64xwno#1",
         "https://www.bbc.co.uk/news/articles/ce853y7yq7yo#0",
@@ -200,10 +201,10 @@
         "https://www.bbc.co.uk/news/articles/cx2r0nyx99yo#0",
         "https://www.bbc.co.uk/news/articles/cg4dve90w90o#1",
         "https://www.bbc.co.uk/news/articles/c9q90q9qnn2o#0",
-        "https://www.bbc.co.uk/news/articles/cj4kexqkpzno#0",
-        "https://www.bbc.co.uk/news/articles/c5yd8gly1ydo#1"
+        "https://www.bbc.co.uk/news/articles/cj4kexqkpzno#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015141231000",
         "https://news.web.nhk/newsweb/na/na-k10015192091000",
         "https://news.web.nhk/newsweb/na/na-k10015192141000",
         "https://news.web.nhk/newsweb/na/na-k10015192121000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015189951000",
         "https://news.web.nhk/newsweb/na/na-k10015190051000",
         "https://news.web.nhk/newsweb/na/na-k10015187711000",
-        "https://news.web.nhk/newsweb/na/na-k10015190011000",
-        "https://news.web.nhk/newsweb/na/na-k10015187511000"
+        "https://news.web.nhk/newsweb/na/na-k10015190011000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/valves-steam-hardware-isnt-selling-too-hot-does-it-matter/",
