@@ -2,6 +2,10 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "I8oI0wwnqOc",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "PycoAISwXvM",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cd69glgl2jzo#0",
+        "https://www.bbc.co.uk/news/articles/c78gngjz3p8o#0",
+        "https://www.bbc.co.uk/news/articles/clyx8j33k7zo#1",
+        "https://www.bbc.co.uk/news/articles/c4gdzlzprv1o#0",
         "https://www.bbc.co.uk/news/articles/clyx8lreydno#1",
         "https://www.bbc.co.uk/news/articles/ckgv657e1yko#0",
         "https://www.bbc.co.uk/news/articles/c9d8gd87d83o#0",
@@ -197,13 +201,11 @@
         "https://www.bbc.co.uk/news/articles/c0rd1kl1825o#0",
         "https://www.bbc.co.uk/news/articles/cp9e2ex3ekyo#1",
         "https://www.bbc.co.uk/news/articles/cgmkgvy3lv4o#1",
-        "https://www.bbc.co.uk/news/articles/clyjgyd0225o#0",
-        "https://www.bbc.co.uk/news/articles/cn0ngrpp2p5o#1",
-        "https://www.bbc.co.uk/news/articles/cg74gvy8lgjo#1",
-        "https://www.bbc.co.uk/news/articles/clyxgn37lg5o#0",
-        "https://www.bbc.co.uk/news/articles/cn8ngxw5195o#1"
+        "https://www.bbc.co.uk/news/articles/clyjgyd0225o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015192041000",
+        "https://news.web.nhk/newsweb/na/na-k10015191991000",
         "https://news.web.nhk/newsweb/na/na-k10015191961000",
         "https://news.web.nhk/newsweb/na/na-k10015191861000",
         "https://news.web.nhk/newsweb/na/na-k10015192001000",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015189831000",
         "https://news.web.nhk/newsweb/na/na-k10015189791000",
         "https://news.web.nhk/newsweb/na/na-k10015189841000",
-        "https://news.web.nhk/newsweb/na/na-k10015189861000",
-        "https://news.web.nhk/newsweb/na/na-k10015189721000",
-        "https://news.web.nhk/newsweb/na/na-k10015189711000"
+        "https://news.web.nhk/newsweb/na/na-k10015189861000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/orca-echo-15off-1/",
