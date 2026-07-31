@@ -2,6 +2,8 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "gVWtz3UehKo",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "PycoAISwXvM",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cx2j9nj88rro#0",
+        "https://www.bbc.co.uk/news/articles/crrv7vk0knro#1",
         "https://www.bbc.co.uk/news/articles/cj4kvge1pyvo#1",
         "https://www.bbc.co.uk/news/articles/ckg3dr3lgjko#0",
         "https://www.bbc.co.uk/news/articles/cq563ly5v1xo#0",
@@ -199,9 +201,7 @@
         "https://www.bbc.co.uk/news/articles/c4gv0d125p5o#0",
         "https://www.bbc.co.uk/news/articles/cwyqggvyp1do#0",
         "https://www.bbc.co.uk/news/articles/cwyjgwg8jddo#0",
-        "https://www.bbc.co.uk/news/articles/c3w04p4373jo#0",
-        "https://www.bbc.co.uk/news/articles/ckg35n7yny3o#0",
-        "https://www.bbc.co.uk/news/articles/c36d56x3ln6o#0"
+        "https://www.bbc.co.uk/news/articles/c3w04p4373jo#0"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/na-k10015192371000",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015190151000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/20-years-of-gizmodojp-chisatokuroda/",
         "https://www.gizmodo.jp/article/ice-pack-stainless/",
         "https://www.gizmodo.jp/article/ligar-review-2/",
         "https://www.gizmodo.jp/article/the-ceos-are-no-longer-publicly-threatening-to-replace-humans-with-a-mhz/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/galaxy-z-fold8-ultra/",
         "https://www.gizmodo.jp/article/galaxy-z-fold8/",
         "https://www.gizmodo.jp/article/lenovo-ideapad-slim-5x-gen-11-review-solid-arm-at-a-budget-price/",
-        "https://www.gizmodo.jp/article/f27b324a-b2a3-47f1-8e18-630ad1feed0c/",
-        "https://www.gizmodo.jp/article/apple-plans-to-defeat-ram-prices-by-letting-you-lease-a-mac/"
+        "https://www.gizmodo.jp/article/f27b324a-b2a3-47f1-8e18-630ad1feed0c/"
     ]
 }
