@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/cp9e2ex3ekyo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015192061000",
+        "https://news.web.nhk/newsweb/na/na-k10015192031000",
         "https://news.web.nhk/newsweb/na/na-k10015192081000",
         "https://news.web.nhk/newsweb/na/na-k10015192051000",
         "https://news.web.nhk/newsweb/na/na-k10015192011000",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015189911000",
         "https://news.web.nhk/newsweb/na/na-k10015190001000",
         "https://news.web.nhk/newsweb/na/na-k10015189931000",
-        "https://news.web.nhk/newsweb/na/na-k10015189921000",
-        "https://news.web.nhk/newsweb/na/na-k10015189771000",
-        "https://news.web.nhk/newsweb/na/na-k10015189831000"
+        "https://news.web.nhk/newsweb/na/na-k10015189921000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/magsafe_lifehack_tool_mini_pc/",
