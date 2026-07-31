@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015189521000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/dji-osmo-pocket-4p/",
         "https://www.gizmodo.jp/article/release_paper_peeling_less/",
         "https://www.gizmodo.jp/article/20-years-of-gizmodojp-kanamoto/",
         "https://www.gizmodo.jp/article/new-data-shows-ev-batteries-are-lasting-longer-than-initially-expected/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/horological-machine-n12/",
         "https://www.gizmodo.jp/article/freedom-trax/",
         "https://www.gizmodo.jp/article/2508-gold-price-today-forecast-goldman-sachs-manhattan-real-estate-comparison-myx/",
-        "https://www.gizmodo.jp/article/air-y-air--y-pro/",
-        "https://www.gizmodo.jp/article/samusun-galaxy-unpacked-2026/"
+        "https://www.gizmodo.jp/article/air-y-air--y-pro/"
     ]
 }
