@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cddjz02d8jgo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015192901000",
         "https://news.web.nhk/newsweb/na/na-k10015192891000",
         "https://news.web.nhk/newsweb/na/na-k10015192941000",
         "https://news.web.nhk/newsweb/na/na-k10015192071000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015190441000",
         "https://news.web.nhk/newsweb/na/na-k10015190421000",
         "https://news.web.nhk/newsweb/na/na-k10015190411000",
-        "https://news.web.nhk/newsweb/na/na-k10015190391000",
-        "https://news.web.nhk/newsweb/na/na-k10015190311000"
+        "https://news.web.nhk/newsweb/na/na-k10015190391000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/scansnap-cloud-plus/",
