@@ -2,6 +2,9 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "I8oI0wwnqOc",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "PycoAISwXvM",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c9d8gd87d83o#0",
+        "https://www.bbc.co.uk/news/articles/c78gnyq3wvdo#1",
+        "https://www.bbc.co.uk/sport/football/articles/c5y67zrrdddo#1",
         "https://www.bbc.co.uk/news/articles/crrv7vk0knro#0",
         "https://www.bbc.co.uk/sport/football/articles/c79glnx1y55o#0",
         "https://www.bbc.co.uk/news/articles/cd69glgl2jzo#1",
@@ -198,12 +201,10 @@
         "https://www.bbc.co.uk/news/articles/clyxgn37lg5o#0",
         "https://www.bbc.co.uk/news/articles/cn8ngxw5195o#1",
         "https://www.bbc.co.uk/news/articles/cr59m5nmemno#0",
-        "https://www.bbc.co.uk/news/articles/cj039p238r5o#1",
-        "https://www.bbc.co.uk/news/articles/crk52jk0131o#1",
-        "https://www.bbc.co.uk/news/articles/cwy4v6e9d2go#1",
-        "https://www.bbc.co.uk/news/videos/c3r0pg0dgrgo#0"
+        "https://www.bbc.co.uk/news/articles/cj039p238r5o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015191971000",
         "https://news.web.nhk/newsweb/na/na-k10015191911000",
         "https://news.web.nhk/newsweb/na/na-k10015189631000",
         "https://news.web.nhk/newsweb/na/na-k10015191871000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015189821000",
         "https://news.web.nhk/newsweb/na/na-k10015189801000",
         "https://news.web.nhk/newsweb/na/na-k10015189731000",
-        "https://news.web.nhk/newsweb/na/na-k10015141211000",
-        "https://news.web.nhk/newsweb/na/na-k10015189761000"
+        "https://news.web.nhk/newsweb/na/na-k10015141211000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/gizmodo-20-years-tech-science-first-mention-history/",
