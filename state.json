@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015190381000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/there-may-be-no-such-thing-as-cheap-vr-anymore/",
         "https://www.gizmodo.jp/article/gpt_5_6_sol_arc_agi_3_score_tripled/",
         "https://www.gizmodo.jp/article/brita_larq_essentialbottle/",
         "https://www.gizmodo.jp/article/iphone-18-18pro-rumors-summary/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/folding-umbrella-handle-for-airtag-fv5-ikm/",
         "https://www.gizmodo.jp/article/galaxy-watch-ultra2/",
         "https://www.gizmodo.jp/article/galaxy-z-fold8-feature/",
-        "https://www.gizmodo.jp/article/galaxy-z-flip8/",
-        "https://www.gizmodo.jp/article/galaxy-z-fold8-ultra/"
+        "https://www.gizmodo.jp/article/galaxy-z-flip8/"
     ]
 }
