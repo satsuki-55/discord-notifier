@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "gVWtz3UehKo",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "aA7BrpUUZJA",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c77g6dm5pr8o#0",
         "https://www.bbc.co.uk/news/articles/cd9wjj4qleeo#0",
         "https://www.bbc.co.uk/news/articles/c62q7w003lro#1",
         "https://www.bbc.co.uk/news/articles/cq6d8m1y3y9o#0",
@@ -200,10 +201,10 @@
         "https://www.bbc.co.uk/sport/football/articles/cp3rkwgy6y7o#0",
         "https://www.bbc.co.uk/news/articles/clyx83l8jv8o#0",
         "https://www.bbc.co.uk/news/articles/cwylrnxxl77o#0",
-        "https://www.bbc.co.uk/news/articles/cy07wgqjv08o#0",
-        "https://www.bbc.co.uk/news/articles/c5yeg1wegpno#1"
+        "https://www.bbc.co.uk/news/articles/cy07wgqjv08o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015192871000",
         "https://news.web.nhk/newsweb/na/na-k10015193071000",
         "https://news.web.nhk/newsweb/na/na-k10015193081000",
         "https://news.web.nhk/newsweb/na/na-k10015193171000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015190661000",
         "https://news.web.nhk/newsweb/na/na-k10015190511000",
         "https://news.web.nhk/newsweb/na/na-k10015190611000",
-        "https://news.web.nhk/newsweb/na/na-k10015190541000",
-        "https://news.web.nhk/newsweb/na/na-k10015190581000"
+        "https://news.web.nhk/newsweb/na/na-k10015190541000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/honeycomb-wall-cooler-1/",
