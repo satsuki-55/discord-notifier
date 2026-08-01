@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c4g4dkr40deo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015194001000",
         "https://news.web.nhk/newsweb/na/na-k10015193991000",
         "https://news.web.nhk/newsweb/na/na-k10015193751000",
         "https://news.web.nhk/newsweb/na/na-k10015193981000",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/na-k10015191521000",
         "https://news.web.nhk/newsweb/na/na-k10015191291000",
         "https://news.web.nhk/newsweb/na/na-k10015191411000",
-        "https://news.web.nhk/newsweb/na/na-k10015191461000",
-        "https://news.web.nhk/newsweb/na/na-k10015191311000"
+        "https://news.web.nhk/newsweb/na/na-k10015191461000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/nagatanien-magcup-cake/",
         "https://www.gizmodo.jp/article/arata_au08_parasol-zyn/",
         "https://www.gizmodo.jp/article/feinmann-f01-noctua-edition/",
         "https://www.gizmodo.jp/article/gelato-pique-recovery-wear/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/mont-bell-umbrella-case/",
         "https://www.gizmodo.jp/article/amazon-phomemo-d30/",
         "https://www.gizmodo.jp/article/social-media-ban-for-kids-approved-in-france-in-first-for-an-eu-country/",
-        "https://www.gizmodo.jp/article/cayl_fanny-pack-grid/",
-        "https://www.gizmodo.jp/article/supernova_images-c5i/"
+        "https://www.gizmodo.jp/article/cayl_fanny-pack-grid/"
     ]
 }
