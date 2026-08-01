@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cgmkygjk9g2o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015193721000",
         "https://news.web.nhk/newsweb/na/na-k10015193731000",
         "https://news.web.nhk/newsweb/na/na-k10015193671000",
         "https://news.web.nhk/newsweb/na/na-k10015193651000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015191161000",
         "https://news.web.nhk/newsweb/na/na-k10015191211000",
         "https://news.web.nhk/newsweb/na/na-k10015191191000",
-        "https://news.web.nhk/newsweb/na/na-k10015191201000",
-        "https://news.web.nhk/newsweb/na/na-k10015191031000"
+        "https://news.web.nhk/newsweb/na/na-k10015191201000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/disaster_prevention_items_summary/",
