@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/clyx85z1ld5o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015193321000",
         "https://news.web.nhk/newsweb/na/na-k10015193421000",
         "https://news.web.nhk/newsweb/na/na-k10015193391000",
         "https://news.web.nhk/newsweb/na/na-k10015193351000",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/na-k10015190991000",
         "https://news.web.nhk/newsweb/na/na-k10015190851000",
         "https://news.web.nhk/newsweb/na/na-k10015190901000",
-        "https://news.web.nhk/newsweb/na/na-k10015190931000",
-        "https://news.web.nhk/newsweb/na/na-k10015190891000"
+        "https://news.web.nhk/newsweb/na/na-k10015190931000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/gizmodo-japan-20th-tamaki/",
         "https://www.gizmodo.jp/article/da22-ultron/",
         "https://www.gizmodo.jp/article/shiftall_chillerx-guq-aeh/",
         "https://www.gizmodo.jp/article/mont-bell-titan-alpine-thermo-bottle/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/dohiemon_box/",
         "https://www.gizmodo.jp/article/maestro-500-wireless/",
         "https://www.gizmodo.jp/article/developers-are-claiming-openais-new-ai-model-is-going-rogue-and-deleting-files/",
-        "https://www.gizmodo.jp/article/weleda-scalp-cleansing-yaf/",
-        "https://www.gizmodo.jp/article/rumors-of-iphone-with-multiple-batteries/"
+        "https://www.gizmodo.jp/article/weleda-scalp-cleansing-yaf/"
     ]
 }
