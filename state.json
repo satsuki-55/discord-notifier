@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cdx85vkk0gko#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015192861000",
         "https://news.web.nhk/newsweb/na/na-k10015190561000",
         "https://news.web.nhk/newsweb/na/na-k10015192931000",
         "https://news.web.nhk/newsweb/na/na-k10015192881000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015190671000",
         "https://news.web.nhk/newsweb/na/na-k10015190711000",
         "https://news.web.nhk/newsweb/na/na-k10015190481000",
-        "https://news.web.nhk/newsweb/na/na-k10015190691000",
-        "https://news.web.nhk/newsweb/na/na-k10015190721000"
+        "https://news.web.nhk/newsweb/na/na-k10015190691000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/20-years-of-gizmodojp-kyle/",
