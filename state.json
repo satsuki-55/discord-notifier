@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015191361000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/feinmann-f01-noctua-edition/",
         "https://www.gizmodo.jp/article/gelato-pique-recovery-wear/",
         "https://www.gizmodo.jp/article/lenovo-ideapad-slim-3i-vs-macbook-neo-intel-wild-cat-chip-not-looking-good/",
         "https://www.gizmodo.jp/article/disaster_prevention_items_summary/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/social-media-ban-for-kids-approved-in-france-in-first-for-an-eu-country/",
         "https://www.gizmodo.jp/article/cayl_fanny-pack-grid/",
         "https://www.gizmodo.jp/article/supernova_images-c5i/",
-        "https://www.gizmodo.jp/article/us_keyboard-sam/",
-        "https://www.gizmodo.jp/article/deadmanswire_interview_bill-skarsgard/"
+        "https://www.gizmodo.jp/article/us_keyboard-sam/"
     ]
 }
