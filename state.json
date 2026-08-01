@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/clyx85z1ld5o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015193361000",
         "https://news.web.nhk/newsweb/na/na-k10015193341000",
         "https://news.web.nhk/newsweb/na/na-k10015193331000",
         "https://news.web.nhk/newsweb/na/na-k10015193291000",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/na-k10015190951000",
         "https://news.web.nhk/newsweb/na/na-k10015190881000",
         "https://news.web.nhk/newsweb/na/na-k10015190921000",
-        "https://news.web.nhk/newsweb/na/na-k10015190791000",
-        "https://news.web.nhk/newsweb/na/na-k10015190741000"
+        "https://news.web.nhk/newsweb/na/na-k10015190791000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/shiftall_chillerx-guq-aeh/",
         "https://www.gizmodo.jp/article/mont-bell-titan-alpine-thermo-bottle/",
         "https://www.gizmodo.jp/article/20-years-of-gizmodojp-kyle/",
         "https://www.gizmodo.jp/article/amazon-bruno-handy-fan/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/developers-are-claiming-openais-new-ai-model-is-going-rogue-and-deleting-files/",
         "https://www.gizmodo.jp/article/weleda-scalp-cleansing-yaf/",
         "https://www.gizmodo.jp/article/rumors-of-iphone-with-multiple-batteries/",
-        "https://www.gizmodo.jp/article/fredolsen1848_brizo/",
-        "https://www.gizmodo.jp/article/iphone-price-hike-coming-again-in-fall/"
+        "https://www.gizmodo.jp/article/fredolsen1848_brizo/"
     ]
 }
