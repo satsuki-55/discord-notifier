@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/clyx85z1ld5o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015193391000",
         "https://news.web.nhk/newsweb/na/na-k10015193351000",
         "https://news.web.nhk/newsweb/na/na-k10015193371000",
         "https://news.web.nhk/newsweb/na/na-k10015193381000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015190901000",
         "https://news.web.nhk/newsweb/na/na-k10015190931000",
         "https://news.web.nhk/newsweb/na/na-k10015190891000",
-        "https://news.web.nhk/newsweb/na/na-k10015190861000",
-        "https://news.web.nhk/newsweb/na/na-k10015190951000"
+        "https://news.web.nhk/newsweb/na/na-k10015190861000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/shiftall_chillerx-guq-aeh/",
