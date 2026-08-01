@@ -2,6 +2,11 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "gVWtz3UehKo",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "aA7BrpUUZJA",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cp8ezz1mgvjo#1",
+        "https://www.bbc.co.uk/news/articles/cqx7g9z1gnwo#1",
+        "https://www.bbc.co.uk/news/articles/c4gd82vvvdno#1",
+        "https://www.bbc.co.uk/news/articles/c9w0ygrwrn5o#1",
+        "https://www.bbc.co.uk/sport/football/articles/c998m4ve0rpo#1",
         "https://www.bbc.co.uk/news/articles/c8rnpxyj762o#0",
         "https://www.bbc.co.uk/news/articles/ckgd31l5yrdo#0",
         "https://www.bbc.co.uk/news/articles/cddjz1r01l8o#1",
@@ -196,14 +201,10 @@
         "https://www.bbc.co.uk/news/articles/c872nj1n4xyo#0",
         "https://www.bbc.co.uk/news/articles/cp8e6m4rndgo#0",
         "https://www.bbc.co.uk/news/videos/ckg4jxwkn2lo#0",
-        "https://www.bbc.co.uk/news/articles/c8jngmk93p9o#0",
-        "https://www.bbc.co.uk/news/articles/cz7dlelz711o#1",
-        "https://www.bbc.co.uk/news/articles/cdx8ke9gpnko#1",
-        "https://www.bbc.co.uk/news/articles/cly5qgjk5ywo#0",
-        "https://www.bbc.co.uk/news/articles/c86ng1g5wy4o#0",
-        "https://www.bbc.co.uk/news/articles/c3ekn9d37qvo#1"
+        "https://www.bbc.co.uk/news/articles/c8jngmk93p9o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015193281000",
         "https://news.web.nhk/newsweb/na/na-k10015193251000",
         "https://news.web.nhk/newsweb/na/na-k10015192831000",
         "https://news.web.nhk/newsweb/na/na-k10015193521000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015191101000",
         "https://news.web.nhk/newsweb/na/na-k10015191061000",
         "https://news.web.nhk/newsweb/na/na-k10015191041000",
-        "https://news.web.nhk/newsweb/na/na-k10015191051000",
-        "https://news.web.nhk/newsweb/na/na-k10015190981000"
+        "https://news.web.nhk/newsweb/na/na-k10015191051000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/0e491f41-7464-4112-8119-8e11c60ee5e4/",
