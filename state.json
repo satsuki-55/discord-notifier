@@ -2,6 +2,9 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "4T4tzOdSaNA",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "QJiCGJuF6Xo",
     "rss:bbc": [
+        "https://www.bbc.co.uk/sport/football/articles/c8rny2p6144o#1",
+        "https://www.bbc.co.uk/news/articles/clyvd8363wlo#1",
+        "https://www.bbc.co.uk/news/articles/c4gd82vvvdno#2",
         "https://www.bbc.co.uk/news/videos/c20e942zpd0o#0",
         "https://www.bbc.co.uk/news/articles/c20dppq3y90o#0",
         "https://www.bbc.co.uk/news/articles/clyvd8363wlo#0",
@@ -198,12 +201,10 @@
         "https://www.bbc.co.uk/news/articles/cy8mk59l5jzo#0",
         "https://www.bbc.co.uk/news/articles/crrvqjw8epko#1",
         "https://www.bbc.co.uk/news/articles/crmrv4pnexmo#1",
-        "https://www.bbc.co.uk/news/articles/ckgd31l5yrdo#1",
-        "https://www.bbc.co.uk/news/articles/c0ejq9g2pz4o#1",
-        "https://www.bbc.co.uk/news/articles/c3r0w3pq24yo#0",
-        "https://www.bbc.co.uk/weather/articles/c1k183p9ddpo#0"
+        "https://www.bbc.co.uk/news/articles/ckgd31l5yrdo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015193811000",
         "https://news.web.nhk/newsweb/na/na-k10015193821000",
         "https://news.web.nhk/newsweb/na/na-k10015193851000",
         "https://news.web.nhk/newsweb/na/na-k10015193791000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015191431000",
         "https://news.web.nhk/newsweb/na/na-k10015191341000",
         "https://news.web.nhk/newsweb/na/na-k10015191361000",
-        "https://news.web.nhk/newsweb/na/na-k10015191391000",
-        "https://news.web.nhk/newsweb/na/na-k10015191381000"
+        "https://news.web.nhk/newsweb/na/na-k10015191391000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/gelato-pique-recovery-wear/",
