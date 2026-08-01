@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/clyx85z1ld5o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015193411000",
         "https://news.web.nhk/newsweb/na/na-k10015193441000",
         "https://news.web.nhk/newsweb/na/na-k10015193321000",
         "https://news.web.nhk/newsweb/na/na-k10015193421000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015191021000",
         "https://news.web.nhk/newsweb/na/na-k10015190911000",
         "https://news.web.nhk/newsweb/na/na-k10015190991000",
-        "https://news.web.nhk/newsweb/na/na-k10015190851000",
-        "https://news.web.nhk/newsweb/na/na-k10015190901000"
+        "https://news.web.nhk/newsweb/na/na-k10015190851000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/gizmodo-japan-20th-tamaki/",
