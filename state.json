@@ -2,6 +2,8 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "4T4tzOdSaNA",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "QJiCGJuF6Xo",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cz7d17r455go#0",
+        "https://www.bbc.co.uk/news/articles/c86n4ljxp63o#0",
         "https://www.bbc.co.uk/news/articles/c70g132erlko#0",
         "https://www.bbc.co.uk/news/articles/ce973yvk7pko#1",
         "https://www.bbc.co.uk/news/articles/c78gmp7zylvo#0",
@@ -199,11 +201,10 @@
         "https://www.bbc.co.uk/weather/articles/c9v4rpjld89o#0",
         "https://www.bbc.co.uk/news/articles/c0m78xl1k2po#0",
         "https://www.bbc.co.uk/news/articles/cpq8n45r5e8o#0",
-        "https://www.bbc.co.uk/news/articles/cy07wgqjv08o#1",
-        "https://www.bbc.co.uk/sport/football/articles/cz64gdj9e25o#0",
-        "https://www.bbc.co.uk/news/articles/c3307d54ep7o#0"
+        "https://www.bbc.co.uk/news/articles/cy07wgqjv08o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015193871000",
         "https://news.web.nhk/newsweb/na/na-k10015193971000",
         "https://news.web.nhk/newsweb/na/na-k10015193831000",
         "https://news.web.nhk/newsweb/na/na-k10015193881000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015191311000",
         "https://news.web.nhk/newsweb/na/na-k10015191441000",
         "https://news.web.nhk/newsweb/na/na-k10015191371000",
-        "https://news.web.nhk/newsweb/na/na-k10015191221000",
-        "https://news.web.nhk/newsweb/na/na-k10015191271000"
+        "https://news.web.nhk/newsweb/na/na-k10015191221000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/arata_au08_parasol-zyn/",
