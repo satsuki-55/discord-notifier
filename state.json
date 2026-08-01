@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "4T4tzOdSaNA",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "aA7BrpUUZJA",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/clyljq79kdko#0",
         "https://www.bbc.co.uk/news/articles/cn9n1rg3n81o#0",
         "https://www.bbc.co.uk/news/articles/cly5nvj2d2jo#1",
         "https://www.bbc.co.uk/news/articles/cx2v91xn1z9o#0",
@@ -200,8 +201,7 @@
         "https://www.bbc.co.uk/news/articles/c74gwdzywmeo#0",
         "https://www.bbc.co.uk/news/articles/crl70x0nxr9o#0",
         "https://www.bbc.co.uk/news/articles/cevm09wkgz0o#1",
-        "https://www.bbc.co.uk/news/articles/c20dppq3y90o#0",
-        "https://www.bbc.co.uk/news/articles/cd7lg2nz2x2o#1"
+        "https://www.bbc.co.uk/news/articles/c20dppq3y90o#0"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/na-k10015193791000",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015191331000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/gelato-pique-recovery-wear/",
         "https://www.gizmodo.jp/article/lenovo-ideapad-slim-3i-vs-macbook-neo-intel-wild-cat-chip-not-looking-good/",
         "https://www.gizmodo.jp/article/disaster_prevention_items_summary/",
         "https://www.gizmodo.jp/article/scientists-used-wood-to-generate-solar-power-after-dark-jpn-qjd-cix/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/cayl_fanny-pack-grid/",
         "https://www.gizmodo.jp/article/supernova_images-c5i/",
         "https://www.gizmodo.jp/article/us_keyboard-sam/",
-        "https://www.gizmodo.jp/article/deadmanswire_interview_bill-skarsgard/",
-        "https://www.gizmodo.jp/article/quadruped-wheelchair/"
+        "https://www.gizmodo.jp/article/deadmanswire_interview_bill-skarsgard/"
     ]
 }
