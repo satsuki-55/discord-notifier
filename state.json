@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c872nj1n4xyo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015193641000",
         "https://news.web.nhk/newsweb/na/na-k10015193631000",
         "https://news.web.nhk/newsweb/na/na-k10015193621000",
         "https://news.web.nhk/newsweb/na/na-k10015193611000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015191131000",
         "https://news.web.nhk/newsweb/na/na-k10015191121000",
         "https://news.web.nhk/newsweb/na/na-k10015191001000",
-        "https://news.web.nhk/newsweb/na/na-k10015191081000",
-        "https://news.web.nhk/newsweb/na/na-k10015191011000"
+        "https://news.web.nhk/newsweb/na/na-k10015191081000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/scientists-used-wood-to-generate-solar-power-after-dark-jpn-qjd-cix/",
