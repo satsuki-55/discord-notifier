@@ -2,6 +2,8 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "4T4tzOdSaNA",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "QJiCGJuF6Xo",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cm2gz0epljgo#0",
+        "https://www.bbc.co.uk/news/articles/cy07qe0knvzo#1",
         "https://www.bbc.co.uk/news/articles/cwylnl17w09o#0",
         "https://www.bbc.co.uk/sport/football/articles/c9w0djx2g92o#0",
         "https://www.bbc.co.uk/sport/football/articles/c04kr2nv3v3o#1",
@@ -199,11 +201,10 @@
         "https://www.bbc.co.uk/news/articles/cq6dmlr1gzeo#0",
         "https://www.bbc.co.uk/news/articles/c8jngmk93p9o#1",
         "https://www.bbc.co.uk/news/articles/czjlk9rym18o#0",
-        "https://www.bbc.co.uk/news/articles/c9w01781981o#0",
-        "https://www.bbc.co.uk/news/articles/cwymkgenv2ro#0",
-        "https://www.bbc.co.uk/news/articles/c4g4dkr40deo#0"
+        "https://www.bbc.co.uk/news/articles/c9w01781981o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015194021000",
         "https://news.web.nhk/newsweb/na/na-k10015193451000",
         "https://news.web.nhk/newsweb/na/na-k10015193941000",
         "https://news.web.nhk/newsweb/na/na-k10015194001000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015191551000",
         "https://news.web.nhk/newsweb/na/na-k10015191531000",
         "https://news.web.nhk/newsweb/na/na-k10015191241000",
-        "https://news.web.nhk/newsweb/na/na-k10015191521000",
-        "https://news.web.nhk/newsweb/na/na-k10015191291000"
+        "https://news.web.nhk/newsweb/na/na-k10015191521000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/nagatanien-magcup-cake/",
