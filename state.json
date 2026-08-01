@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/c20dppq3y90o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015193831000",
+        "https://news.web.nhk/newsweb/na/na-k10015193881000",
         "https://news.web.nhk/newsweb/na/na-k10015193951000",
         "https://news.web.nhk/newsweb/na/na-k10015193901000",
         "https://news.web.nhk/newsweb/na/na-k10015192971000",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015191371000",
         "https://news.web.nhk/newsweb/na/na-k10015191221000",
         "https://news.web.nhk/newsweb/na/na-k10015191271000",
-        "https://news.web.nhk/newsweb/na/na-k10015191421000",
-        "https://news.web.nhk/newsweb/na/na-k10015191261000",
-        "https://news.web.nhk/newsweb/na/na-k10015191301000"
+        "https://news.web.nhk/newsweb/na/na-k10015191421000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/arata_au08_parasol-zyn/",
