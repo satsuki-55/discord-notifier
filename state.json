@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cn9n1rg3n81o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015193771000",
         "https://news.web.nhk/newsweb/na/na-k10015193691000",
         "https://news.web.nhk/newsweb/na/na-k10015193701000",
         "https://news.web.nhk/newsweb/na/na-k10015193721000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015190821000",
         "https://news.web.nhk/newsweb/na/na-k10015191251000",
         "https://news.web.nhk/newsweb/na/na-k10015191171000",
-        "https://news.web.nhk/newsweb/na/na-k10015191161000",
-        "https://news.web.nhk/newsweb/na/na-k10015191211000"
+        "https://news.web.nhk/newsweb/na/na-k10015191161000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/lenovo-ideapad-slim-3i-vs-macbook-neo-intel-wild-cat-chip-not-looking-good/",
