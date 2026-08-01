@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c872nj1n4xyo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015193621000",
         "https://news.web.nhk/newsweb/na/na-k10015193611000",
         "https://news.web.nhk/newsweb/na/na-k10015193571000",
         "https://news.web.nhk/newsweb/na/na-k10015191101000",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/na-k10015191001000",
         "https://news.web.nhk/newsweb/na/na-k10015191081000",
         "https://news.web.nhk/newsweb/na/na-k10015191011000",
-        "https://news.web.nhk/newsweb/na/na-k10015191071000",
-        "https://news.web.nhk/newsweb/na/na-k10015188841000"
+        "https://news.web.nhk/newsweb/na/na-k10015191071000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/scientists-used-wood-to-generate-solar-power-after-dark-jpn-qjd-cix/",
         "https://www.gizmodo.jp/article/headrest_stick_fan_seikosangyo-vow/",
         "https://www.gizmodo.jp/article/0e491f41-7464-4112-8119-8e11c60ee5e4/",
         "https://www.gizmodo.jp/article/orca-echo-15off-2/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/deadmanswire_interview_bill-skarsgard/",
         "https://www.gizmodo.jp/article/quadruped-wheelchair/",
         "https://www.gizmodo.jp/article/4aa4140b-aeb4-47f0-87fb-91cfa6ceb69c/",
-        "https://www.gizmodo.jp/article/ap30-music-boy/",
-        "https://www.gizmodo.jp/article/dohiemon_box/"
+        "https://www.gizmodo.jp/article/ap30-music-boy/"
     ]
 }
