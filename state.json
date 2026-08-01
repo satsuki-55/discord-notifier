@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/clyx85z1ld5o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015193331000",
         "https://news.web.nhk/newsweb/na/na-k10015193291000",
         "https://news.web.nhk/newsweb/na/na-k10015193271000",
         "https://news.web.nhk/newsweb/na/na-k10015193301000",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/na-k10015190921000",
         "https://news.web.nhk/newsweb/na/na-k10015190791000",
         "https://news.web.nhk/newsweb/na/na-k10015190741000",
-        "https://news.web.nhk/newsweb/na/na-k10015190731000",
-        "https://news.web.nhk/newsweb/na/na-k10015190781000"
+        "https://news.web.nhk/newsweb/na/na-k10015190731000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/mont-bell-titan-alpine-thermo-bottle/",
         "https://www.gizmodo.jp/article/20-years-of-gizmodojp-kyle/",
         "https://www.gizmodo.jp/article/amazon-bruno-handy-fan/",
         "https://www.gizmodo.jp/article/honeycomb-wall-cooler-1/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/weleda-scalp-cleansing-yaf/",
         "https://www.gizmodo.jp/article/rumors-of-iphone-with-multiple-batteries/",
         "https://www.gizmodo.jp/article/fredolsen1848_brizo/",
-        "https://www.gizmodo.jp/article/iphone-price-hike-coming-again-in-fall/",
-        "https://www.gizmodo.jp/article/monocloth-for-apple-devices/"
+        "https://www.gizmodo.jp/article/iphone-price-hike-coming-again-in-fall/"
     ]
 }
