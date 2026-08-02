@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cy07w28jn5lo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015194251000",
         "https://news.web.nhk/newsweb/na/na-k10015194311000",
         "https://news.web.nhk/newsweb/na/na-k10015194201000",
         "https://news.web.nhk/newsweb/na/na-k10015194231000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015191681000",
         "https://news.web.nhk/newsweb/na/na-k10015191701000",
         "https://news.web.nhk/newsweb/na/na-k10015191571000",
-        "https://news.web.nhk/newsweb/na/na-k10015191691000",
-        "https://news.web.nhk/newsweb/na/na-k10015191671000"
+        "https://news.web.nhk/newsweb/na/na-k10015191691000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/handy_fan_summary_/",
