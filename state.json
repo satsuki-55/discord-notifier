@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c70gr75xzg5o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015194571000",
         "https://news.web.nhk/newsweb/na/na-k10015194621000",
         "https://news.web.nhk/newsweb/na/na-k10015194371000",
         "https://news.web.nhk/newsweb/na/na-k10015194581000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015192131000",
         "https://news.web.nhk/newsweb/na/na-k10015189831000",
         "https://news.web.nhk/newsweb/na/na-k10015192061000",
-        "https://news.web.nhk/newsweb/na/na-k10015192031000",
-        "https://news.web.nhk/newsweb/na/na-k10015192081000"
+        "https://news.web.nhk/newsweb/na/na-k10015192031000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/samsung-let-me-touch-its-warby-parker-x-gentle-monster-smart-glasses-but-not-wear-them/",
