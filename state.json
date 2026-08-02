@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cy07w28jn5lo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015194131000",
         "https://news.web.nhk/newsweb/na/na-k10015194121000",
         "https://news.web.nhk/newsweb/na/na-k10015194081000",
         "https://news.web.nhk/newsweb/na/na-k10015194091000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015191591000",
         "https://news.web.nhk/newsweb/na/na-k10015191651000",
         "https://news.web.nhk/newsweb/na/na-k10015191621000",
-        "https://news.web.nhk/newsweb/na/na-k10015191631000",
-        "https://news.web.nhk/newsweb/na/na-k10015191601000"
+        "https://news.web.nhk/newsweb/na/na-k10015191631000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/orca-echo-15off-3/",
