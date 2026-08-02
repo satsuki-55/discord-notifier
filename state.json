@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "UNTdKLS2vEU",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "QJiCGJuF6Xo",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c5y32zmv6kjo#1",
         "https://www.bbc.co.uk/news/articles/cn0nqv05g0do#0",
         "https://www.bbc.co.uk/news/articles/cr59qe86yj4o#0",
         "https://www.bbc.co.uk/sport/cycling/articles/cy8mrkpd27lo#0",
@@ -200,10 +201,10 @@
         "https://www.bbc.co.uk/news/articles/cpq8n45r5e8o#1",
         "https://www.bbc.co.uk/news/articles/c8x274xxxpwo#0",
         "https://www.bbc.co.uk/news/articles/c4g4dkr40deo#1",
-        "https://www.bbc.co.uk/news/articles/c4g3eyg60e0o#0",
-        "https://www.bbc.co.uk/news/articles/cp9e0v5xmdyo#1"
+        "https://www.bbc.co.uk/news/articles/c4g3eyg60e0o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015194601000",
         "https://news.web.nhk/newsweb/na/na-k10015189731000",
         "https://news.web.nhk/newsweb/na/na-k10015194541000",
         "https://news.web.nhk/newsweb/na/na-k10015194531000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015192011000",
         "https://news.web.nhk/newsweb/na/na-k10015192041000",
         "https://news.web.nhk/newsweb/na/na-k10015191991000",
-        "https://news.web.nhk/newsweb/na/na-k10015191961000",
-        "https://news.web.nhk/newsweb/na/na-k10015191861000"
+        "https://news.web.nhk/newsweb/na/na-k10015191961000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/alienware-aw3426dw-review-gaming-monitors-get-thrown-a-curveball/",
