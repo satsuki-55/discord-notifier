@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cy07w28jn5lo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015194081000",
         "https://news.web.nhk/newsweb/na/na-k10015194091000",
         "https://news.web.nhk/newsweb/na/na-k10015194141000",
         "https://news.web.nhk/newsweb/na/na-k10015194111000",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/na-k10015191621000",
         "https://news.web.nhk/newsweb/na/na-k10015191631000",
         "https://news.web.nhk/newsweb/na/na-k10015191601000",
-        "https://news.web.nhk/newsweb/na/na-k10015191611000",
-        "https://news.web.nhk/newsweb/na/na-k10015191541000"
+        "https://news.web.nhk/newsweb/na/na-k10015191611000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/the-results-were-disastrous-after-a-professor-suspecting-ai-use-switched-to-in-person-final-exams-jii/",
         "https://www.gizmodo.jp/article/razer-blade-16-2026-review-a-gaming-laptop-you-can-actually-call-portable/",
         "https://www.gizmodo.jp/article/konkr-pocket-advance/",
         "https://www.gizmodo.jp/article/galaxy-z-fold-8-ultra-messi-model/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/bastetodon-pbf/",
         "https://www.gizmodo.jp/article/behold-the-first-medical-x-rays-ever-taken-in-space/",
         "https://www.gizmodo.jp/article/erdos-unit-distance-conjecture-has-been-refuted-by-ai/",
-        "https://www.gizmodo.jp/article/cohn-racers-muscle-mini-1/",
-        "https://www.gizmodo.jp/article/mont-bell-umbrella-case/"
+        "https://www.gizmodo.jp/article/cohn-racers-muscle-mini-1/"
     ]
 }
