@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015191531000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/konkr-pocket-advance/",
         "https://www.gizmodo.jp/article/galaxy-z-fold-8-ultra-messi-model/",
         "https://www.gizmodo.jp/article/nagatanien-magcup-cake/",
         "https://www.gizmodo.jp/article/arata_au08_parasol-zyn/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/erdos-unit-distance-conjecture-has-been-refuted-by-ai/",
         "https://www.gizmodo.jp/article/cohn-racers-muscle-mini-1/",
         "https://www.gizmodo.jp/article/mont-bell-umbrella-case/",
-        "https://www.gizmodo.jp/article/amazon-phomemo-d30/",
-        "https://www.gizmodo.jp/article/social-media-ban-for-kids-approved-in-france-in-first-for-an-eu-country/"
+        "https://www.gizmodo.jp/article/amazon-phomemo-d30/"
     ]
 }
