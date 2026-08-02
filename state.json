@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cddjz1r01l8o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015194581000",
         "https://news.web.nhk/newsweb/na/na-k10015194351000",
         "https://news.web.nhk/newsweb/na/na-k10015194591000",
         "https://news.web.nhk/newsweb/na/na-k10015194601000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015192031000",
         "https://news.web.nhk/newsweb/na/na-k10015192081000",
         "https://news.web.nhk/newsweb/na/na-k10015192051000",
-        "https://news.web.nhk/newsweb/na/na-k10015192011000",
-        "https://news.web.nhk/newsweb/na/na-k10015192041000"
+        "https://news.web.nhk/newsweb/na/na-k10015192011000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/alienware-aw3426dw-review-gaming-monitors-get-thrown-a-curveball/",
