@@ -204,6 +204,11 @@
         "https://www.bbc.co.uk/news/articles/cp9e0v5xmdyo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015194491000",
+        "https://news.web.nhk/newsweb/na/na-k10015194501000",
+        "https://news.web.nhk/newsweb/na/na-k10015189631000",
+        "https://news.web.nhk/newsweb/na/na-k10015194511000",
+        "https://news.web.nhk/newsweb/na/na-k10015194551000",
         "https://news.web.nhk/newsweb/na/na-k10015194561000",
         "https://news.web.nhk/newsweb/na/na-k10015194461000",
         "https://news.web.nhk/newsweb/na/na-k10015194451000",
@@ -398,12 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015192001000",
         "https://news.web.nhk/newsweb/na/na-k10015189731000",
         "https://news.web.nhk/newsweb/na/na-k10015191951000",
-        "https://news.web.nhk/newsweb/na/na-k10015191921000",
-        "https://news.web.nhk/newsweb/na/na-k10015191881000",
-        "https://news.web.nhk/newsweb/na/na-k10015191971000",
-        "https://news.web.nhk/newsweb/na/na-k10015191911000",
-        "https://news.web.nhk/newsweb/na/na-k10015189631000",
-        "https://news.web.nhk/newsweb/na/na-k10015191871000"
+        "https://news.web.nhk/newsweb/na/na-k10015191921000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/alienware-aw3426dw-review-gaming-monitors-get-thrown-a-curveball/",
