@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/cq6dmjv1jpdo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015194291000",
+        "https://news.web.nhk/newsweb/na/na-k10015194321000",
         "https://news.web.nhk/newsweb/na/na-k10015194331000",
         "https://news.web.nhk/newsweb/na/na-k10015194341000",
         "https://news.web.nhk/newsweb/na/na-k10015194281000",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015191781000",
         "https://news.web.nhk/newsweb/na/na-k10015191761000",
         "https://news.web.nhk/newsweb/na/na-k10015191841000",
-        "https://news.web.nhk/newsweb/na/na-k10015191811000",
-        "https://news.web.nhk/newsweb/na/na-k10015191851000",
-        "https://news.web.nhk/newsweb/na/na-k10015191741000"
+        "https://news.web.nhk/newsweb/na/na-k10015191811000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/volkswagen-thinks-your-e-bike-needs-a-pair-of-smart-glasses/",
