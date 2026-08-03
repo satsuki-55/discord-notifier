@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015193221000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/684fd302-a627-44c7-97a6-4e19c3a572e7/",
         "https://www.gizmodo.jp/article/qwen3_8_max_release/",
         "https://www.gizmodo.jp/article/provisional-name-conditioning-chair-nous-are/",
         "https://www.gizmodo.jp/article/daiso-type-c_rechargeable-battery_review-hru/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/how_to_write_claude_instruction/",
         "https://www.gizmodo.jp/article/bellelife_icemaker_review/",
         "https://www.gizmodo.jp/article/items_on_your_desk/",
-        "https://www.gizmodo.jp/article/captured-and-collared-the-heaviest-florida-panther-ever-recorded-aix/",
-        "https://www.gizmodo.jp/article/amazon-yamazen-usb-c-fan/"
+        "https://www.gizmodo.jp/article/captured-and-collared-the-heaviest-florida-panther-ever-recorded-aix/"
     ]
 }
