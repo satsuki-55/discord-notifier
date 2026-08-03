@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "sCRTn386eyE",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "QJiCGJuF6Xo",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/ceqe24qjgzdo#0",
         "https://www.bbc.co.uk/news/articles/c24mr09r99eo#0",
         "https://www.bbc.co.uk/news/articles/c1417713ve6o#1",
         "https://www.bbc.co.uk/news/articles/cd69glgl2jzo#0",
@@ -200,8 +201,7 @@
         "https://www.bbc.co.uk/news/articles/cz7dl7w8y7po#1",
         "https://www.bbc.co.uk/weather/articles/cn5nk90ndl0o#0",
         "https://www.bbc.co.uk/sport/football/articles/ckgvlz45l3eo#0",
-        "https://www.bbc.co.uk/news/articles/cpw9yrl4p2qo#0",
-        "https://www.bbc.co.uk/news/articles/c204nw64xwno#1"
+        "https://www.bbc.co.uk/news/articles/cpw9yrl4p2qo#0"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/na-k10015195161000",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015192671000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/not-pixel-glow/",
         "https://www.gizmodo.jp/article/geekom-a9-max-2026-review-not-much-max-about-it/",
         "https://www.gizmodo.jp/article/hoverair-versa/",
         "https://www.gizmodo.jp/article/deepseek_v4_flash_0731/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/ancient-script-of-the-indus-civilization-kgw/",
         "https://www.gizmodo.jp/article/car-companies-finally-solved-cupholders-but-not-infotainment/",
         "https://www.gizmodo.jp/article/apple-packaging-lab-2026/",
-        "https://www.gizmodo.jp/article/aimdesk-pro-7/",
-        "https://www.gizmodo.jp/article/new_planet_three_million_years_old-igq/"
+        "https://www.gizmodo.jp/article/aimdesk-pro-7/"
     ]
 }
