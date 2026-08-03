@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "sCRTn386eyE",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "QJiCGJuF6Xo",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c9q90q9qnn2o#0",
         "https://www.bbc.co.uk/news/articles/czjlvrd9e43o#0",
         "https://www.bbc.co.uk/news/articles/ce85097leydo#1",
         "https://www.bbc.co.uk/weather/articles/cn5nk90ndl0o#0",
@@ -200,8 +201,7 @@
         "https://www.bbc.co.uk/sport/football/articles/ce345l6kg6ro#0",
         "https://www.bbc.co.uk/news/articles/cj9dvgmjvp0o#1",
         "https://www.bbc.co.uk/news/articles/cg4drwzkrkxo#1",
-        "https://www.bbc.co.uk/news/articles/cx2kp639yx4o#0",
-        "https://www.bbc.co.uk/news/articles/c9d8gd87d83o#1"
+        "https://www.bbc.co.uk/news/articles/cx2kp639yx4o#0"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/na-k10015195211000",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015192821000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/new-galaxy-buds-coming-this-autumn/",
         "https://www.gizmodo.jp/article/not-pixel-glow/",
         "https://www.gizmodo.jp/article/geekom-a9-max-2026-review-not-much-max-about-it/",
         "https://www.gizmodo.jp/article/hoverair-versa/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/sonicglass-a1-lyric-speaker/",
         "https://www.gizmodo.jp/article/ancient-script-of-the-indus-civilization-kgw/",
         "https://www.gizmodo.jp/article/car-companies-finally-solved-cupholders-but-not-infotainment/",
-        "https://www.gizmodo.jp/article/apple-packaging-lab-2026/",
-        "https://www.gizmodo.jp/article/aimdesk-pro-7/"
+        "https://www.gizmodo.jp/article/apple-packaging-lab-2026/"
     ]
 }
