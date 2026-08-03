@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "UNTdKLS2vEU",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "QJiCGJuF6Xo",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c151k0k4eqgo#0",
         "https://www.bbc.co.uk/news/articles/cy0jk6wjkn0o#0",
         "https://www.bbc.co.uk/news/articles/c23579jzv08o#0",
         "https://www.bbc.co.uk/news/articles/c2el319vzr3o#0",
@@ -200,8 +201,7 @@
         "https://www.bbc.co.uk/news/articles/c0jlzqe9z9vo#0",
         "https://www.bbc.co.uk/news/articles/c5yeg1wegpno#0",
         "https://www.bbc.co.uk/news/articles/c04kd3gl1gpo#0",
-        "https://www.bbc.co.uk/news/articles/cj4kvge1pyvo#0",
-        "https://www.bbc.co.uk/news/articles/c204nw64xwno#0"
+        "https://www.bbc.co.uk/news/articles/cj4kvge1pyvo#0"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/na-k10015194631000",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015192111000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/muji-3waybag/",
         "https://www.gizmodo.jp/article/gizmodo-20th-yoshioka/",
         "https://www.gizmodo.jp/article/samsung-let-me-touch-its-warby-parker-x-gentle-monster-smart-glasses-but-not-wear-them/",
         "https://www.gizmodo.jp/article/nothing-denies-market-exit-confirms-layoffs/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/sonnenglas_light-carafe/",
         "https://www.gizmodo.jp/article/the-light-flip-phone-aims-to-be-the-luddites-best-weapon-against-ai/",
         "https://www.gizmodo.jp/article/apple-watch-ankle-wpl/",
-        "https://www.gizmodo.jp/article/nanosheet-all-in-one-rgb-photodetector/",
-        "https://www.gizmodo.jp/article/azak_reinventing_the_wheel/"
+        "https://www.gizmodo.jp/article/nanosheet-all-in-one-rgb-photodetector/"
     ]
 }
