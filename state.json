@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cd69glgl2jzo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015195071000",
         "https://news.web.nhk/newsweb/na/na-k10015195041000",
         "https://news.web.nhk/newsweb/na/na-k10015195051000",
         "https://news.web.nhk/newsweb/na/na-k10015194931000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015192021000",
         "https://news.web.nhk/newsweb/na/na-k10015192371000",
         "https://news.web.nhk/newsweb/na/na-k10015192381000",
-        "https://news.web.nhk/newsweb/na/na-k10015192431000",
-        "https://news.web.nhk/newsweb/na/na-k10015192301000"
+        "https://news.web.nhk/newsweb/na/na-k10015192431000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/hoverair-versa/",
