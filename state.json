@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "sCRTn386eyE",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "QJiCGJuF6Xo",
     "rss:bbc": [
+        "https://www.bbc.co.uk/sport/football/articles/cp30vg829nxo#0",
         "https://www.bbc.co.uk/news/articles/c1e1d5j6660o#0",
         "https://www.bbc.co.uk/sport/football/articles/ckg9z094v8go#0",
         "https://www.bbc.co.uk/news/articles/cgk4rjz8dxlo#0",
@@ -200,10 +201,10 @@
         "https://www.bbc.co.uk/news/articles/clyx8j33k7zo#1",
         "https://www.bbc.co.uk/news/articles/c4gdzlzprv1o#0",
         "https://www.bbc.co.uk/news/articles/clyx8lreydno#1",
-        "https://www.bbc.co.uk/news/articles/ckgv657e1yko#0",
-        "https://www.bbc.co.uk/news/articles/c9d8gd87d83o#0"
+        "https://www.bbc.co.uk/news/articles/ckgv657e1yko#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015194821000",
         "https://news.web.nhk/newsweb/na/na-k10015194981000",
         "https://news.web.nhk/newsweb/na/na-k10015194991000",
         "https://news.web.nhk/newsweb/na/na-k10015194951000",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/na-k10015192301000",
         "https://news.web.nhk/newsweb/na/na-k10015192351000",
         "https://news.web.nhk/newsweb/na/na-k10015192161000",
-        "https://news.web.nhk/newsweb/na/na-k10015192331000",
-        "https://news.web.nhk/newsweb/na/na-k10015192321000"
+        "https://news.web.nhk/newsweb/na/na-k10015192331000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/hoverair-versa/",
         "https://www.gizmodo.jp/article/deepseek_v4_flash_0731/",
         "https://www.gizmodo.jp/article/google-gemini-4/",
         "https://www.gizmodo.jp/article/giz_timemachine_mobile_batterys/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/apple-packaging-lab-2026/",
         "https://www.gizmodo.jp/article/aimdesk-pro-7/",
         "https://www.gizmodo.jp/article/new_planet_three_million_years_old-igq/",
-        "https://www.gizmodo.jp/article/ai_story_chatapp_delusion/",
-        "https://www.gizmodo.jp/article/nifbang_car-fan-review/"
+        "https://www.gizmodo.jp/article/ai_story_chatapp_delusion/"
     ]
 }
