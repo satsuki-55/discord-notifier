@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cdewk5r308jo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015194791000",
         "https://news.web.nhk/newsweb/na/na-k10015194801000",
         "https://news.web.nhk/newsweb/na/na-k10015194781000",
         "https://news.web.nhk/newsweb/na/na-k10015194741000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015192101000",
         "https://news.web.nhk/newsweb/na/na-k10015192241000",
         "https://news.web.nhk/newsweb/na/na-k10015192201000",
-        "https://news.web.nhk/newsweb/na/na-k10015192251000",
-        "https://news.web.nhk/newsweb/na/na-k10015192191000"
+        "https://news.web.nhk/newsweb/na/na-k10015192251000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/samsungs-trifold-phone-might-not-be-dead-after-all/",
