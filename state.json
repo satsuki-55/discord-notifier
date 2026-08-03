@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/sport/football/articles/c79glnx1y55o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015192911000",
         "https://news.web.nhk/newsweb/na/na-k10015194891000",
         "https://news.web.nhk/newsweb/na/na-k10015194851000",
         "https://news.web.nhk/newsweb/na/na-k10015194751000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015192151000",
         "https://news.web.nhk/newsweb/na/na-k10015192261000",
         "https://news.web.nhk/newsweb/na/na-k10015192231000",
-        "https://news.web.nhk/newsweb/na/na-k10015192171000",
-        "https://news.web.nhk/newsweb/na/na-k10015192101000"
+        "https://news.web.nhk/newsweb/na/na-k10015192171000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/pixel-11-pro-fold-pixel-glow/",
