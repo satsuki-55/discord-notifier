@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c78gnyq3wvdo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015194991000",
         "https://news.web.nhk/newsweb/na/na-k10015194951000",
         "https://news.web.nhk/newsweb/na/na-k10015194861000",
         "https://news.web.nhk/newsweb/na/na-k10015194911000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015192161000",
         "https://news.web.nhk/newsweb/na/na-k10015192331000",
         "https://news.web.nhk/newsweb/na/na-k10015192321000",
-        "https://news.web.nhk/newsweb/na/na-k10015192291000",
-        "https://news.web.nhk/newsweb/na/na-k10015192271000"
+        "https://news.web.nhk/newsweb/na/na-k10015192291000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/giz_timemachine_mobile_batterys/",
