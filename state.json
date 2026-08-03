@@ -2,6 +2,8 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "sCRTn386eyE",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "QJiCGJuF6Xo",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c75gq56qrwno#0",
+        "https://www.bbc.co.uk/news/articles/cly8r2p27lzo#1",
         "https://www.bbc.co.uk/news/articles/ceqe24qjgzdo#0",
         "https://www.bbc.co.uk/news/articles/c24mr09r99eo#0",
         "https://www.bbc.co.uk/news/articles/c1417713ve6o#1",
@@ -199,11 +201,10 @@
         "https://www.bbc.co.uk/news/articles/c9q90q9qnn2o#0",
         "https://www.bbc.co.uk/news/articles/c62q7w003lro#0",
         "https://www.bbc.co.uk/news/articles/cz7dl7w8y7po#1",
-        "https://www.bbc.co.uk/weather/articles/cn5nk90ndl0o#0",
-        "https://www.bbc.co.uk/sport/football/articles/ckgvlz45l3eo#0",
-        "https://www.bbc.co.uk/news/articles/cpw9yrl4p2qo#0"
+        "https://www.bbc.co.uk/weather/articles/cn5nk90ndl0o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015195201000",
         "https://news.web.nhk/newsweb/na/na-k10015195171000",
         "https://news.web.nhk/newsweb/na/na-k10015195151000",
         "https://news.web.nhk/newsweb/na/na-k10015195161000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015192941000",
         "https://news.web.nhk/newsweb/na/na-k10015192071000",
         "https://news.web.nhk/newsweb/na/na-k10015192821000",
-        "https://news.web.nhk/newsweb/na/na-k10015192391000",
-        "https://news.web.nhk/newsweb/na/na-k10015192811000"
+        "https://news.web.nhk/newsweb/na/na-k10015192391000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/not-pixel-glow/",
