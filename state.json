@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "UNTdKLS2vEU",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "QJiCGJuF6Xo",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cn9n2v3lwr0o#1",
         "https://www.bbc.co.uk/news/articles/c3w052le2elo#0",
         "https://www.bbc.co.uk/news/articles/cr7k49xjzzeo#1",
         "https://www.bbc.co.uk/news/articles/cgewq549988o#0",
@@ -200,10 +201,10 @@
         "https://www.bbc.co.uk/news/articles/cy8mk59l5jzo#1",
         "https://www.bbc.co.uk/news/articles/cgk4xrznxn5o#0",
         "https://www.bbc.co.uk/news/articles/cn0nqpy1rk4o#0",
-        "https://www.bbc.co.uk/news/articles/cdewk5r308jo#0",
-        "https://www.bbc.co.uk/news/articles/cn8n1knkkz9o#1"
+        "https://www.bbc.co.uk/news/articles/cdewk5r308jo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015194781000",
         "https://news.web.nhk/newsweb/na/na-k10015194741000",
         "https://news.web.nhk/newsweb/na/na-k10015194721000",
         "https://news.web.nhk/newsweb/na/na-k10015194701000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015192201000",
         "https://news.web.nhk/newsweb/na/na-k10015192251000",
         "https://news.web.nhk/newsweb/na/na-k10015192191000",
-        "https://news.web.nhk/newsweb/na/na-k10015141231000",
-        "https://news.web.nhk/newsweb/na/na-k10015192091000"
+        "https://news.web.nhk/newsweb/na/na-k10015141231000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/google-introduces-gemini-3-6-to-remind-you-it-has-an-ai-model-too/",
