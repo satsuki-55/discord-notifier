@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/sport/football/articles/c5y67zrrdddo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015194951000",
+        "https://news.web.nhk/newsweb/na/na-k10015194861000",
         "https://news.web.nhk/newsweb/na/na-k10015194911000",
         "https://news.web.nhk/newsweb/na/na-k10015194921000",
         "https://news.web.nhk/newsweb/na/na-k10015192911000",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015192331000",
         "https://news.web.nhk/newsweb/na/na-k10015192321000",
         "https://news.web.nhk/newsweb/na/na-k10015192291000",
-        "https://news.web.nhk/newsweb/na/na-k10015192271000",
-        "https://news.web.nhk/newsweb/na/na-k10015192151000",
-        "https://news.web.nhk/newsweb/na/na-k10015192261000"
+        "https://news.web.nhk/newsweb/na/na-k10015192271000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/giz_timemachine_mobile_batterys/",
