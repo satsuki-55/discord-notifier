@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/cg74gvy8lgjo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015195131000",
+        "https://news.web.nhk/newsweb/na/na-k10015195341000",
         "https://news.web.nhk/newsweb/na/na-k10015195361000",
         "https://news.web.nhk/newsweb/na/na-k10015195491000",
         "https://news.web.nhk/newsweb/na/na-k10015195371000",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015193221000",
         "https://news.web.nhk/newsweb/na/na-k10015193241000",
         "https://news.web.nhk/newsweb/na/na-k10015192961000",
-        "https://news.web.nhk/newsweb/na/na-k10015193161000",
-        "https://news.web.nhk/newsweb/na/na-k10015192871000",
-        "https://news.web.nhk/newsweb/na/na-k10015193071000"
+        "https://news.web.nhk/newsweb/na/na-k10015193161000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/daiso-type-c_rechargeable-battery_review-hru/",
