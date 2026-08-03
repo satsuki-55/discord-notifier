@@ -2,6 +2,8 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "sCRTn386eyE",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "QJiCGJuF6Xo",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c3r0vg88zr2o#0",
+        "https://www.bbc.co.uk/news/articles/cglj1pr0wjwo#1",
         "https://www.bbc.co.uk/news/articles/c4g6pvv2zgjo#0",
         "https://www.bbc.co.uk/news/articles/c9q90q9qnn2o#0",
         "https://www.bbc.co.uk/news/articles/czjlvrd9e43o#0",
@@ -199,11 +201,10 @@
         "https://www.bbc.co.uk/news/articles/ckg3dr3lgjko#0",
         "https://www.bbc.co.uk/news/articles/cq563ly5v1xo#0",
         "https://www.bbc.co.uk/news/articles/c78gngjz3p8o#1",
-        "https://www.bbc.co.uk/sport/football/articles/ce345l6kg6ro#0",
-        "https://www.bbc.co.uk/news/articles/cj9dvgmjvp0o#1",
-        "https://www.bbc.co.uk/news/articles/cg4drwzkrkxo#1"
+        "https://www.bbc.co.uk/sport/football/articles/ce345l6kg6ro#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015195291000",
         "https://news.web.nhk/newsweb/na/na-k10015195271000",
         "https://news.web.nhk/newsweb/na/na-k10015195061000",
         "https://news.web.nhk/newsweb/na/na-k10015195241000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015193131000",
         "https://news.web.nhk/newsweb/na/na-k10015192851000",
         "https://news.web.nhk/newsweb/na/na-k10015192951000",
-        "https://news.web.nhk/newsweb/na/na-k10015193011000",
-        "https://news.web.nhk/newsweb/na/na-k10015192901000"
+        "https://news.web.nhk/newsweb/na/na-k10015193011000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/the-harmful-effects-of-wildfire-smoke-on-the-human-body/",
