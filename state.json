@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/ckg3dr3lgjko#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015195391000",
         "https://news.web.nhk/newsweb/na/na-k10015195301000",
         "https://news.web.nhk/newsweb/na/na-k10015195411000",
         "https://news.web.nhk/newsweb/na/na-k10015195311000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015193091000",
         "https://news.web.nhk/newsweb/na/na-k10015193121000",
         "https://news.web.nhk/newsweb/na/na-k10015193201000",
-        "https://news.web.nhk/newsweb/na/na-k10015193101000",
-        "https://news.web.nhk/newsweb/na/na-k10015192991000"
+        "https://news.web.nhk/newsweb/na/na-k10015193101000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/nanoleafs-new-monitor-stand-lets-your-display-fart-out-rainbows/",
