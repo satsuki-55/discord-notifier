@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cp87m46g392o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015194851000",
         "https://news.web.nhk/newsweb/na/na-k10015194751000",
         "https://news.web.nhk/newsweb/na/na-k10015194791000",
         "https://news.web.nhk/newsweb/na/na-k10015194801000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015192231000",
         "https://news.web.nhk/newsweb/na/na-k10015192171000",
         "https://news.web.nhk/newsweb/na/na-k10015192101000",
-        "https://news.web.nhk/newsweb/na/na-k10015192241000",
-        "https://news.web.nhk/newsweb/na/na-k10015192201000"
+        "https://news.web.nhk/newsweb/na/na-k10015192241000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/iiyama-prolite-xb2797qsn-b1j/",
