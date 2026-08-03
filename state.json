@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "UNTdKLS2vEU",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "QJiCGJuF6Xo",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cy0jk6wjkn0o#0",
         "https://www.bbc.co.uk/news/articles/c23579jzv08o#0",
         "https://www.bbc.co.uk/news/articles/c2el319vzr3o#0",
         "https://www.bbc.co.uk/news/articles/cp3rkzpl7ngo#0",
@@ -200,10 +201,10 @@
         "https://www.bbc.co.uk/news/articles/c5yeg1wegpno#0",
         "https://www.bbc.co.uk/news/articles/c04kd3gl1gpo#0",
         "https://www.bbc.co.uk/news/articles/cj4kvge1pyvo#0",
-        "https://www.bbc.co.uk/news/articles/c204nw64xwno#0",
-        "https://www.bbc.co.uk/news/articles/cq6dmjv1jpdo#1"
+        "https://www.bbc.co.uk/news/articles/c204nw64xwno#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015194631000",
         "https://news.web.nhk/newsweb/na/na-k10015189831000",
         "https://news.web.nhk/newsweb/na/na-k10015194441000",
         "https://news.web.nhk/newsweb/na/na-k10015194681000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015192091000",
         "https://news.web.nhk/newsweb/na/na-k10015192141000",
         "https://news.web.nhk/newsweb/na/na-k10015192121000",
-        "https://news.web.nhk/newsweb/na/na-k10015192111000",
-        "https://news.web.nhk/newsweb/na/na-k10015190261000"
+        "https://news.web.nhk/newsweb/na/na-k10015192111000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/gizmodo-20th-yoshioka/",
