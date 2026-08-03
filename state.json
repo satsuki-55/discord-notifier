@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c04kd3gl1gpo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015194701000",
         "https://news.web.nhk/newsweb/na/na-k10015194631000",
         "https://news.web.nhk/newsweb/na/na-k10015189831000",
         "https://news.web.nhk/newsweb/na/na-k10015194441000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015141231000",
         "https://news.web.nhk/newsweb/na/na-k10015192091000",
         "https://news.web.nhk/newsweb/na/na-k10015192141000",
-        "https://news.web.nhk/newsweb/na/na-k10015192121000",
-        "https://news.web.nhk/newsweb/na/na-k10015192111000"
+        "https://news.web.nhk/newsweb/na/na-k10015192121000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/muji-3waybag/",
