@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c204nw64xwno#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015195161000",
         "https://news.web.nhk/newsweb/na/na-k10015195181000",
         "https://news.web.nhk/newsweb/na/na-k10015195121000",
         "https://news.web.nhk/newsweb/na/na-k10015195031000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015192391000",
         "https://news.web.nhk/newsweb/na/na-k10015192811000",
         "https://news.web.nhk/newsweb/na/na-k10015192791000",
-        "https://news.web.nhk/newsweb/na/na-k10015192671000",
-        "https://news.web.nhk/newsweb/na/na-k10015192461000"
+        "https://news.web.nhk/newsweb/na/na-k10015192671000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/geekom-a9-max-2026-review-not-much-max-about-it/",
