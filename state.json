@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cpw9yrl4p2qo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015195171000",
         "https://news.web.nhk/newsweb/na/na-k10015195151000",
         "https://news.web.nhk/newsweb/na/na-k10015195161000",
         "https://news.web.nhk/newsweb/na/na-k10015195181000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015192071000",
         "https://news.web.nhk/newsweb/na/na-k10015192821000",
         "https://news.web.nhk/newsweb/na/na-k10015192391000",
-        "https://news.web.nhk/newsweb/na/na-k10015192811000",
-        "https://news.web.nhk/newsweb/na/na-k10015192791000"
+        "https://news.web.nhk/newsweb/na/na-k10015192811000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/not-pixel-glow/",
