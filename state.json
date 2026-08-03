@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015192291000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/google-gemini-4/",
         "https://www.gizmodo.jp/article/giz_timemachine_mobile_batterys/",
         "https://www.gizmodo.jp/article/pixel-11-pro-fold-pixel-glow/",
         "https://www.gizmodo.jp/article/iiyama-prolite-xb2797qsn-b1j/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/new_planet_three_million_years_old-igq/",
         "https://www.gizmodo.jp/article/ai_story_chatapp_delusion/",
         "https://www.gizmodo.jp/article/nifbang_car-fan-review/",
-        "https://www.gizmodo.jp/article/mini_robot_in_mouth/",
-        "https://www.gizmodo.jp/article/if-youre-getting-a-tattoo-pay-more-attention-to-the-ink-than-the-design/"
+        "https://www.gizmodo.jp/article/mini_robot_in_mouth/"
     ]
 }
