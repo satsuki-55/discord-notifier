@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "UNTdKLS2vEU",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "QJiCGJuF6Xo",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cgewq549988o#1",
         "https://www.bbc.co.uk/news/articles/cgk4xrznxn5o#0",
         "https://www.bbc.co.uk/news/articles/cn0nqpy1rk4o#0",
         "https://www.bbc.co.uk/news/articles/cdewk5r308jo#0",
@@ -200,8 +201,7 @@
         "https://www.bbc.co.uk/news/articles/cd69glgl2jzo#1",
         "https://www.bbc.co.uk/news/articles/c7vgd11d60do#0",
         "https://www.bbc.co.uk/sport/football/articles/c9984d9x1eyo#0",
-        "https://www.bbc.co.uk/news/articles/cp87m46g392o#0",
-        "https://www.bbc.co.uk/news/videos/cd0xvkr8y17o#0"
+        "https://www.bbc.co.uk/news/articles/cp87m46g392o#0"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/na-k10015194751000",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015192201000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/iiyama-prolite-xb2797qsn-b1j/",
         "https://www.gizmodo.jp/article/smart-glasses-are-a-hit-even-as-privacy-concerns-pile-up/",
         "https://www.gizmodo.jp/article/samsungs-trifold-phone-might-not-be-dead-after-all/",
         "https://www.gizmodo.jp/article/thanko-triple-fan-tmj/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/mini_robot_in_mouth/",
         "https://www.gizmodo.jp/article/if-youre-getting-a-tattoo-pay-more-attention-to-the-ink-than-the-design/",
         "https://www.gizmodo.jp/article/garmins-new-screenless-wearable-could-be-a-serious-whoop-competitor/",
-        "https://www.gizmodo.jp/article/2a1938d7-d3dc-479d-b8a2-7197e9d66cc6/",
-        "https://www.gizmodo.jp/article/keychron-g6-he-ultralight-release/"
+        "https://www.gizmodo.jp/article/2a1938d7-d3dc-479d-b8a2-7197e9d66cc6/"
     ]
 }
