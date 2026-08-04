@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/clyvd8363wlo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015196241000",
+        "https://news.web.nhk/newsweb/na/na-k10015196261000",
         "https://news.web.nhk/newsweb/na/na-k10015195631000",
         "https://news.web.nhk/newsweb/na/na-k10015196031000",
         "https://news.web.nhk/newsweb/na/na-k10015195931000",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015193921000",
         "https://news.web.nhk/newsweb/na/na-k10015193911000",
         "https://news.web.nhk/newsweb/na/na-k10015193841000",
-        "https://news.web.nhk/newsweb/na/na-k10015193891000",
-        "https://news.web.nhk/newsweb/na/na-k10015193861000",
-        "https://news.web.nhk/newsweb/na/na-k10015193811000"
+        "https://news.web.nhk/newsweb/na/na-k10015193891000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/mag_dry-battery_checker_review/",
