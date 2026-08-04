@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015192881000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/vital-signals-new-ring-brings-blood-pressure-monitoring-to-your-finger/",
         "https://www.gizmodo.jp/article/scientists-are-worried-about-plant-extinction/",
         "https://www.gizmodo.jp/article/684fd302-a627-44c7-97a6-4e19c3a572e7/",
         "https://www.gizmodo.jp/article/qwen3_8_max_release/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/ikea-foersaesong/",
         "https://www.gizmodo.jp/article/oneplus-demise/",
         "https://www.gizmodo.jp/article/how_to_write_claude_instruction/",
-        "https://www.gizmodo.jp/article/bellelife_icemaker_review/",
-        "https://www.gizmodo.jp/article/items_on_your_desk/"
+        "https://www.gizmodo.jp/article/bellelife_icemaker_review/"
     ]
 }
