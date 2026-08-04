@@ -204,6 +204,9 @@
         "https://www.bbc.co.uk/news/articles/cddjz1r01l8o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015195911000",
+        "https://news.web.nhk/newsweb/na/na-k10015195881000",
+        "https://news.web.nhk/newsweb/na/na-k10015195971000",
         "https://news.web.nhk/newsweb/na/na-k10015191101000",
         "https://news.web.nhk/newsweb/na/na-k10015191061000",
         "https://news.web.nhk/newsweb/na/na-k10015195991000",
@@ -400,10 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015193731000",
         "https://news.web.nhk/newsweb/na/na-k10015193671000",
         "https://news.web.nhk/newsweb/na/na-k10015193651000",
-        "https://news.web.nhk/newsweb/na/na-k10015192401000",
-        "https://news.web.nhk/newsweb/na/na-k10015193661000",
-        "https://news.web.nhk/newsweb/na/na-k10015193641000",
-        "https://news.web.nhk/newsweb/na/na-k10015193631000"
+        "https://news.web.nhk/newsweb/na/na-k10015192401000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/altra_torin-9_review/",
