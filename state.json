@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "glfnUNPeCiU",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "QJiCGJuF6Xo",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cq56001ywnyo#0",
         "https://www.bbc.co.uk/news/articles/c0m7xpr8zvvo#0",
         "https://www.bbc.co.uk/news/articles/cn9n1rg3n81o#0",
         "https://www.bbc.co.uk/news/articles/cvg0kk3ek2vo#0",
@@ -200,10 +201,10 @@
         "https://www.bbc.co.uk/news/articles/clyvd8363wlo#1",
         "https://www.bbc.co.uk/news/articles/c4gd82vvvdno#2",
         "https://www.bbc.co.uk/news/videos/c20e942zpd0o#0",
-        "https://www.bbc.co.uk/news/articles/c20dppq3y90o#0",
-        "https://www.bbc.co.uk/news/articles/clyvd8363wlo#0"
+        "https://www.bbc.co.uk/news/articles/c20dppq3y90o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015196151000",
         "https://news.web.nhk/newsweb/na/na-k10015196181000",
         "https://news.web.nhk/newsweb/na/na-k10015196241000",
         "https://news.web.nhk/newsweb/na/na-k10015196261000",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/na-k10015192971000",
         "https://news.web.nhk/newsweb/na/na-k10015193931000",
         "https://news.web.nhk/newsweb/na/na-k10015193921000",
-        "https://news.web.nhk/newsweb/na/na-k10015193911000",
-        "https://news.web.nhk/newsweb/na/na-k10015193841000"
+        "https://news.web.nhk/newsweb/na/na-k10015193911000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/20-years-of-gizmodojp-amito/",
         "https://www.gizmodo.jp/article/mag_dry-battery_checker_review/",
         "https://www.gizmodo.jp/article/amazon-audio-technica-wired-earphone/",
         "https://www.gizmodo.jp/article/restroom-smartphone-10min-b90/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/samsung-galaxy-z-flip-8-hands-on-one-of-the-mildest-phone-upgrades-ever/",
         "https://www.gizmodo.jp/article/scientists-say-we-should-nuke-dangerous-asteroids-just-not-the-way-you-think/",
         "https://www.gizmodo.jp/article/iris_sidetable_bookshelf_review/",
-        "https://www.gizmodo.jp/article/bicycle_high_tech_items/",
-        "https://www.gizmodo.jp/article/issue-with-magic-eraser-ugy/"
+        "https://www.gizmodo.jp/article/bicycle_high_tech_items/"
     ]
 }
