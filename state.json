@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cgmkygjk9g2o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015195931000",
         "https://news.web.nhk/newsweb/na/na-k10015195781000",
         "https://news.web.nhk/newsweb/na/na-k10015196161000",
         "https://news.web.nhk/newsweb/na/na-k10015196111000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015193861000",
         "https://news.web.nhk/newsweb/na/na-k10015193811000",
         "https://news.web.nhk/newsweb/na/na-k10015193821000",
-        "https://news.web.nhk/newsweb/na/na-k10015193851000",
-        "https://news.web.nhk/newsweb/na/na-k10015193791000"
+        "https://news.web.nhk/newsweb/na/na-k10015193851000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/amazon-audio-technica-wired-earphone/",
