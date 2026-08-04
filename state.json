@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cz7d1xpn5e8o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015196341000",
         "https://news.web.nhk/newsweb/na/na-k10015196331000",
         "https://news.web.nhk/newsweb/na/na-k10015196291000",
         "https://news.web.nhk/newsweb/na/na-k10015196251000",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/na-k10015193751000",
         "https://news.web.nhk/newsweb/na/na-k10015193981000",
         "https://news.web.nhk/newsweb/na/na-k10015193871000",
-        "https://news.web.nhk/newsweb/na/na-k10015193971000",
-        "https://news.web.nhk/newsweb/na/na-k10015193831000"
+        "https://news.web.nhk/newsweb/na/na-k10015193971000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/this-new-process-turns-plastic-trash-into-clean-fuel-instead-of-pollution/",
         "https://www.gizmodo.jp/article/can-microsoft-really-make-windows-11-suck-less-on-weak-pcs/",
         "https://www.gizmodo.jp/article/20-years-of-gizmodojp-amito/",
         "https://www.gizmodo.jp/article/mag_dry-battery_checker_review/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/discovery_qd-led/",
         "https://www.gizmodo.jp/article/sugar-mole-1/",
         "https://www.gizmodo.jp/article/samsung-galaxy-z-flip-8-hands-on-one-of-the-mildest-phone-upgrades-ever/",
-        "https://www.gizmodo.jp/article/scientists-say-we-should-nuke-dangerous-asteroids-just-not-the-way-you-think/",
-        "https://www.gizmodo.jp/article/iris_sidetable_bookshelf_review/"
+        "https://www.gizmodo.jp/article/scientists-say-we-should-nuke-dangerous-asteroids-just-not-the-way-you-think/"
     ]
 }
