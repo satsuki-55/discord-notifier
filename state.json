@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/ce973yvk7pko#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015196001000",
         "https://news.web.nhk/newsweb/na/na-k10015195871000",
         "https://news.web.nhk/newsweb/na/na-k10015195981000",
         "https://news.web.nhk/newsweb/na/na-k10015192441000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015193611000",
         "https://news.web.nhk/newsweb/na/na-k10015193571000",
         "https://news.web.nhk/newsweb/na/na-k10015191101000",
-        "https://news.web.nhk/newsweb/na/na-k10015191061000",
-        "https://news.web.nhk/newsweb/na/na-k10015193581000"
+        "https://news.web.nhk/newsweb/na/na-k10015191061000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/altra_torin-9_review/",
