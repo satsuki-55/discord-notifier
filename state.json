@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c62vl925dqdo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015196441000",
         "https://news.web.nhk/newsweb/na/na-k10015196101000",
         "https://news.web.nhk/newsweb/na/na-k10015196631000",
         "https://news.web.nhk/newsweb/na/na-k10015196481000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015194241000",
         "https://news.web.nhk/newsweb/na/na-k10015194261000",
         "https://news.web.nhk/newsweb/na/na-k10015194211000",
-        "https://news.web.nhk/newsweb/na/na-k10015193961000",
-        "https://news.web.nhk/newsweb/na/na-k10015194251000"
+        "https://news.web.nhk/newsweb/na/na-k10015193961000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/building_the_front_end/",
