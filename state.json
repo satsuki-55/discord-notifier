@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "glfnUNPeCiU",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "QJiCGJuF6Xo",
     "rss:bbc": [
+        "https://www.bbc.co.uk/sport/football/articles/c2k7p4nxdy4o#0",
         "https://www.bbc.co.uk/news/videos/c20e942zpd0o#0",
         "https://www.bbc.co.uk/news/articles/c20dppq3y90o#0",
         "https://www.bbc.co.uk/news/articles/c2lqpvv1wlxo#0",
@@ -200,8 +201,7 @@
         "https://www.bbc.co.uk/news/articles/cr7k4gdrgljo#0",
         "https://www.bbc.co.uk/news/articles/cy07qe0knvzo#0",
         "https://www.bbc.co.uk/news/articles/c4gd82vvvdno#0",
-        "https://www.bbc.co.uk/news/articles/cz7d1xpn5e8o#0",
-        "https://www.bbc.co.uk/sport/football/articles/c8rny2p6144o#1"
+        "https://www.bbc.co.uk/news/articles/cz7d1xpn5e8o#0"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/na-k10015196291000",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015193881000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/can-microsoft-really-make-windows-11-suck-less-on-weak-pcs/",
         "https://www.gizmodo.jp/article/20-years-of-gizmodojp-amito/",
         "https://www.gizmodo.jp/article/mag_dry-battery_checker_review/",
         "https://www.gizmodo.jp/article/amazon-audio-technica-wired-earphone/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/sugar-mole-1/",
         "https://www.gizmodo.jp/article/samsung-galaxy-z-flip-8-hands-on-one-of-the-mildest-phone-upgrades-ever/",
         "https://www.gizmodo.jp/article/scientists-say-we-should-nuke-dangerous-asteroids-just-not-the-way-you-think/",
-        "https://www.gizmodo.jp/article/iris_sidetable_bookshelf_review/",
-        "https://www.gizmodo.jp/article/bicycle_high_tech_items/"
+        "https://www.gizmodo.jp/article/iris_sidetable_bookshelf_review/"
     ]
 }
