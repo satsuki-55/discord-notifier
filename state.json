@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c3w04602jyzo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015195541000",
         "https://news.web.nhk/newsweb/na/na-k10015195521000",
         "https://news.web.nhk/newsweb/na/na-k10015195461000",
         "https://news.web.nhk/newsweb/na/na-k10015195401000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015193051000",
         "https://news.web.nhk/newsweb/na/na-k10015193041000",
         "https://news.web.nhk/newsweb/na/na-k10015192861000",
-        "https://news.web.nhk/newsweb/na/na-k10015190561000",
-        "https://news.web.nhk/newsweb/na/na-k10015192931000"
+        "https://news.web.nhk/newsweb/na/na-k10015190561000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/vital-signals-new-ring-brings-blood-pressure-monitoring-to-your-finger/",
