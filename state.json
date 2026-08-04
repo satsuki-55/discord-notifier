@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cr7k49xjzzeo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015195551000",
         "https://news.web.nhk/newsweb/na/na-k10015195591000",
         "https://news.web.nhk/newsweb/na/na-k10015190561000",
         "https://news.web.nhk/newsweb/na/na-k10015195531000",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/na-k10015193151000",
         "https://news.web.nhk/newsweb/na/na-k10015193031000",
         "https://news.web.nhk/newsweb/na/na-k10015192921000",
-        "https://news.web.nhk/newsweb/na/na-k10015193211000",
-        "https://news.web.nhk/newsweb/na/na-k10015193051000"
+        "https://news.web.nhk/newsweb/na/na-k10015193211000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/gpu_more_expensive_2608/",
         "https://www.gizmodo.jp/article/vital-signals-new-ring-brings-blood-pressure-monitoring-to-your-finger/",
         "https://www.gizmodo.jp/article/scientists-are-worried-about-plant-extinction/",
         "https://www.gizmodo.jp/article/684fd302-a627-44c7-97a6-4e19c3a572e7/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/why-are-these-whale-moms-floating-upside-down-scientists-finally-have-an-answer/",
         "https://www.gizmodo.jp/article/ikea-foersaesong/",
         "https://www.gizmodo.jp/article/oneplus-demise/",
-        "https://www.gizmodo.jp/article/how_to_write_claude_instruction/",
-        "https://www.gizmodo.jp/article/bellelife_icemaker_review/"
+        "https://www.gizmodo.jp/article/how_to_write_claude_instruction/"
     ]
 }
