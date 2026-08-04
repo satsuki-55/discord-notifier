@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cr49w13w9d0o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015195811000",
         "https://news.web.nhk/newsweb/na/na-k10015195741000",
         "https://news.web.nhk/newsweb/na/na-k10015195771000",
         "https://news.web.nhk/newsweb/na/na-k10015195611000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015193411000",
         "https://news.web.nhk/newsweb/na/na-k10015193441000",
         "https://news.web.nhk/newsweb/na/na-k10015193321000",
-        "https://news.web.nhk/newsweb/na/na-k10015193421000",
-        "https://news.web.nhk/newsweb/na/na-k10015193391000"
+        "https://news.web.nhk/newsweb/na/na-k10015193421000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/lexar-playx/",
