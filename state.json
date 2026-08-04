@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "glfnUNPeCiU",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "QJiCGJuF6Xo",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/ckg9kd27lkpo#1",
         "https://www.bbc.co.uk/news/articles/c75gq56qrwno#1",
         "https://www.bbc.co.uk/sport/football/articles/c2k7p4nxdy4o#0",
         "https://www.bbc.co.uk/news/videos/c20e942zpd0o#0",
@@ -200,10 +201,10 @@
         "https://www.bbc.co.uk/news/articles/c86n4ljxp63o#1",
         "https://www.bbc.co.uk/news/articles/cx2j9nj88rro#1",
         "https://www.bbc.co.uk/news/articles/cr7k4gdrgljo#0",
-        "https://www.bbc.co.uk/news/articles/cy07qe0knvzo#0",
-        "https://www.bbc.co.uk/news/articles/c4gd82vvvdno#0"
+        "https://www.bbc.co.uk/news/articles/cy07qe0knvzo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015196211000",
         "https://news.web.nhk/newsweb/na/na-k10015196381000",
         "https://news.web.nhk/newsweb/na/na-k10015196401000",
         "https://news.web.nhk/newsweb/na/na-k10015196301000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015194011000",
         "https://news.web.nhk/newsweb/na/na-k10015192411000",
         "https://news.web.nhk/newsweb/na/na-k10015194021000",
-        "https://news.web.nhk/newsweb/na/na-k10015193451000",
-        "https://news.web.nhk/newsweb/na/na-k10015193941000"
+        "https://news.web.nhk/newsweb/na/na-k10015193451000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/this-new-process-turns-plastic-trash-into-clean-fuel-instead-of-pollution/",
