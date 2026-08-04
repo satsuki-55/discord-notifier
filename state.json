@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "SU42DYcJnAo",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "QJiCGJuF6Xo",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cx25yn22l97o#0",
         "https://www.bbc.co.uk/news/articles/cg5l11m02j3o#0",
         "https://www.bbc.co.uk/news/articles/c872r52x7jgo#1",
         "https://www.bbc.co.uk/news/articles/ckgd31l5yrdo#0",
@@ -200,8 +201,7 @@
         "https://www.bbc.co.uk/news/articles/czrxepy3vn3o#1",
         "https://www.bbc.co.uk/news/articles/cx2rv3899g8o#1",
         "https://www.bbc.co.uk/news/articles/cp8ezz1mgvjo#1",
-        "https://www.bbc.co.uk/news/articles/cqx7g9z1gnwo#1",
-        "https://www.bbc.co.uk/news/articles/c4gd82vvvdno#1"
+        "https://www.bbc.co.uk/news/articles/cqx7g9z1gnwo#1"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/na-k10015196131000",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015193771000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/amazon-audio-technica-wired-earphone/",
         "https://www.gizmodo.jp/article/restroom-smartphone-10min-b90/",
         "https://www.gizmodo.jp/article/motorola-razr-fold-hands-on/",
         "https://www.gizmodo.jp/article/jaw-dropping-image-captures-black-hole-jet-smashing-into-mystery-object-ffm/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/iris_sidetable_bookshelf_review/",
         "https://www.gizmodo.jp/article/bicycle_high_tech_items/",
         "https://www.gizmodo.jp/article/issue-with-magic-eraser-ugy/",
-        "https://www.gizmodo.jp/article/mont-bell-long-tail-trekking-umbrella/",
-        "https://www.gizmodo.jp/article/marna-coffee-deodorizer-pot-review-2nr/"
+        "https://www.gizmodo.jp/article/mont-bell-long-tail-trekking-umbrella/"
     ]
 }
