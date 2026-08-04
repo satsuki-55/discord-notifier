@@ -2,6 +2,10 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "glfnUNPeCiU",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "QJiCGJuF6Xo",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/videos/c20e942zpd0o#0",
+        "https://www.bbc.co.uk/news/articles/c20dppq3y90o#0",
+        "https://www.bbc.co.uk/news/articles/c2lqpvv1wlxo#0",
+        "https://www.bbc.co.uk/news/articles/c5y3ppmmev1o#1",
         "https://www.bbc.co.uk/news/articles/cq56001ywnyo#0",
         "https://www.bbc.co.uk/news/articles/c0m7xpr8zvvo#0",
         "https://www.bbc.co.uk/news/articles/cn9n1rg3n81o#0",
@@ -197,13 +201,10 @@
         "https://www.bbc.co.uk/news/articles/cy07qe0knvzo#0",
         "https://www.bbc.co.uk/news/articles/c4gd82vvvdno#0",
         "https://www.bbc.co.uk/news/articles/cz7d1xpn5e8o#0",
-        "https://www.bbc.co.uk/sport/football/articles/c8rny2p6144o#1",
-        "https://www.bbc.co.uk/news/articles/clyvd8363wlo#1",
-        "https://www.bbc.co.uk/news/articles/c4gd82vvvdno#2",
-        "https://www.bbc.co.uk/news/videos/c20e942zpd0o#0",
-        "https://www.bbc.co.uk/news/articles/c20dppq3y90o#0"
+        "https://www.bbc.co.uk/sport/football/articles/c8rny2p6144o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015196291000",
         "https://news.web.nhk/newsweb/na/na-k10015196251000",
         "https://news.web.nhk/newsweb/na/na-k10015195921000",
         "https://news.web.nhk/newsweb/na/na-k10015196191000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015193871000",
         "https://news.web.nhk/newsweb/na/na-k10015193971000",
         "https://news.web.nhk/newsweb/na/na-k10015193831000",
-        "https://news.web.nhk/newsweb/na/na-k10015193881000",
-        "https://news.web.nhk/newsweb/na/na-k10015193951000"
+        "https://news.web.nhk/newsweb/na/na-k10015193881000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/20-years-of-gizmodojp-amito/",
