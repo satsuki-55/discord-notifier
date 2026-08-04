@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/cz7d1xpn5e8o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015195961000",
+        "https://news.web.nhk/newsweb/na/na-k10015196321000",
         "https://news.web.nhk/newsweb/na/na-k10015196311000",
         "https://news.web.nhk/newsweb/na/na-k10015196341000",
         "https://news.web.nhk/newsweb/na/na-k10015196331000",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015193941000",
         "https://news.web.nhk/newsweb/na/na-k10015194001000",
         "https://news.web.nhk/newsweb/na/na-k10015193991000",
-        "https://news.web.nhk/newsweb/na/na-k10015193751000",
-        "https://news.web.nhk/newsweb/na/na-k10015193981000",
-        "https://news.web.nhk/newsweb/na/na-k10015193871000"
+        "https://news.web.nhk/newsweb/na/na-k10015193751000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/this-new-process-turns-plastic-trash-into-clean-fuel-instead-of-pollution/",
