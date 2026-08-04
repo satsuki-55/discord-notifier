@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/sport/athletics/articles/ckge35ywjvyo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015196421000",
         "https://news.web.nhk/newsweb/na/na-k10015196761000",
         "https://news.web.nhk/newsweb/na/na-k10015196511000",
         "https://news.web.nhk/newsweb/na/na-k10015196741000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015194121000",
         "https://news.web.nhk/newsweb/na/na-k10015194081000",
         "https://news.web.nhk/newsweb/na/na-k10015194091000",
-        "https://news.web.nhk/newsweb/na/na-k10015194141000",
-        "https://news.web.nhk/newsweb/na/na-k10015194111000"
+        "https://news.web.nhk/newsweb/na/na-k10015194141000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/building_the_front_end/",
