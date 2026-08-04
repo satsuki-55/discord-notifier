@@ -2,6 +2,8 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "SU42DYcJnAo",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "QJiCGJuF6Xo",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/videos/c9d8662gyx5o#0",
+        "https://www.bbc.co.uk/news/articles/c3ek7g857q4o#1",
         "https://www.bbc.co.uk/news/articles/cx25yn22l97o#0",
         "https://www.bbc.co.uk/news/articles/cg5l11m02j3o#0",
         "https://www.bbc.co.uk/news/articles/c872r52x7jgo#1",
@@ -199,11 +201,10 @@
         "https://www.bbc.co.uk/news/articles/c4g4djygr73o#0",
         "https://www.bbc.co.uk/news/articles/c8rnpxyj762o#1",
         "https://www.bbc.co.uk/news/articles/czrxepy3vn3o#1",
-        "https://www.bbc.co.uk/news/articles/cx2rv3899g8o#1",
-        "https://www.bbc.co.uk/news/articles/cp8ezz1mgvjo#1",
-        "https://www.bbc.co.uk/news/articles/cqx7g9z1gnwo#1"
+        "https://www.bbc.co.uk/news/articles/cx2rv3899g8o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015196171000",
         "https://news.web.nhk/newsweb/na/na-k10015196131000",
         "https://news.web.nhk/newsweb/na/na-k10015196091000",
         "https://news.web.nhk/newsweb/na/na-k10015195941000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015193311000",
         "https://news.web.nhk/newsweb/na/na-k10015193711000",
         "https://news.web.nhk/newsweb/na/na-k10015193681000",
-        "https://news.web.nhk/newsweb/na/na-k10015193741000",
-        "https://news.web.nhk/newsweb/na/na-k10015193771000"
+        "https://news.web.nhk/newsweb/na/na-k10015193741000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/amazon-audio-technica-wired-earphone/",
