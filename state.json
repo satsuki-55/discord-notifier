@@ -204,6 +204,9 @@
         "https://www.bbc.co.uk/news/articles/cr7k49xjzzeo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015195601000",
+        "https://news.web.nhk/newsweb/na/na-k10015195671000",
+        "https://news.web.nhk/newsweb/na/na-k10015195661000",
         "https://news.web.nhk/newsweb/na/na-k10015195621000",
         "https://news.web.nhk/newsweb/na/na-k10015195581000",
         "https://news.web.nhk/newsweb/na/na-k10015195561000",
@@ -400,10 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015193341000",
         "https://news.web.nhk/newsweb/na/na-k10015193331000",
         "https://news.web.nhk/newsweb/na/na-k10015193291000",
-        "https://news.web.nhk/newsweb/na/na-k10015193271000",
-        "https://news.web.nhk/newsweb/na/na-k10015193301000",
-        "https://news.web.nhk/newsweb/na/na-k10015193181000",
-        "https://news.web.nhk/newsweb/na/na-k10015193151000"
+        "https://news.web.nhk/newsweb/na/na-k10015193271000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/aidaptiv-station/",
