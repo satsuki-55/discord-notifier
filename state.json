@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/sport/football/articles/c998m4ve0rpo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015196131000",
+        "https://news.web.nhk/newsweb/na/na-k10015196091000",
         "https://news.web.nhk/newsweb/na/na-k10015195941000",
         "https://news.web.nhk/newsweb/na/na-k10015196051000",
         "https://news.web.nhk/newsweb/na/na-k10015196071000",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015193711000",
         "https://news.web.nhk/newsweb/na/na-k10015193681000",
         "https://news.web.nhk/newsweb/na/na-k10015193741000",
-        "https://news.web.nhk/newsweb/na/na-k10015193771000",
-        "https://news.web.nhk/newsweb/na/na-k10015193691000",
-        "https://news.web.nhk/newsweb/na/na-k10015193701000"
+        "https://news.web.nhk/newsweb/na/na-k10015193771000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/restroom-smartphone-10min-b90/",
