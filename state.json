@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "glfnUNPeCiU",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "QJiCGJuF6Xo",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c4gkpeppjyqo#0",
         "https://www.bbc.co.uk/news/articles/c2lqpx1qd8lo#1",
         "https://www.bbc.co.uk/news/articles/cgmkxjrrwdvo#1",
         "https://www.bbc.co.uk/news/articles/c4gdkl9zn8wo#0",
@@ -200,8 +201,7 @@
         "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o#1",
         "https://www.bbc.co.uk/news/articles/clyljq79kdko#0",
         "https://www.bbc.co.uk/news/articles/cn9n1rg3n81o#0",
-        "https://www.bbc.co.uk/news/articles/cly5nvj2d2jo#1",
-        "https://www.bbc.co.uk/news/articles/cx2v91xn1z9o#0"
+        "https://www.bbc.co.uk/news/articles/cly5nvj2d2jo#1"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/na-k10015195631000",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015193811000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/mag_dry-battery_checker_review/",
         "https://www.gizmodo.jp/article/amazon-audio-technica-wired-earphone/",
         "https://www.gizmodo.jp/article/restroom-smartphone-10min-b90/",
         "https://www.gizmodo.jp/article/motorola-razr-fold-hands-on/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/scientists-say-we-should-nuke-dangerous-asteroids-just-not-the-way-you-think/",
         "https://www.gizmodo.jp/article/iris_sidetable_bookshelf_review/",
         "https://www.gizmodo.jp/article/bicycle_high_tech_items/",
-        "https://www.gizmodo.jp/article/issue-with-magic-eraser-ugy/",
-        "https://www.gizmodo.jp/article/mont-bell-long-tail-trekking-umbrella/"
+        "https://www.gizmodo.jp/article/issue-with-magic-eraser-ugy/"
     ]
 }
