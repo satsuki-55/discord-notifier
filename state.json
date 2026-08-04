@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/cr7k49xjzzeo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015195691000",
+        "https://news.web.nhk/newsweb/na/na-k10015195681000",
         "https://news.web.nhk/newsweb/na/na-k10015194361000",
         "https://news.web.nhk/newsweb/na/na-k10015195601000",
         "https://news.web.nhk/newsweb/na/na-k10015195671000",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015193371000",
         "https://news.web.nhk/newsweb/na/na-k10015193381000",
         "https://news.web.nhk/newsweb/na/na-k10015193361000",
-        "https://news.web.nhk/newsweb/na/na-k10015193341000",
-        "https://news.web.nhk/newsweb/na/na-k10015193331000",
-        "https://news.web.nhk/newsweb/na/na-k10015193291000"
+        "https://news.web.nhk/newsweb/na/na-k10015193341000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/oura-ring-5-review-the-best-smart-ring-right-now-and-its-not-close/",
