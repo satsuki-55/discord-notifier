@@ -2,6 +2,9 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "glfnUNPeCiU",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "QJiCGJuF6Xo",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cr7k4gdrgljo#0",
+        "https://www.bbc.co.uk/news/articles/cjwx9y7dd27o#0",
+        "https://www.bbc.co.uk/news/articles/cp879d2n3yno#1",
         "https://www.bbc.co.uk/news/articles/ckg9kd27lkpo#1",
         "https://www.bbc.co.uk/news/articles/c75gq56qrwno#1",
         "https://www.bbc.co.uk/sport/football/articles/c2k7p4nxdy4o#0",
@@ -198,10 +201,7 @@
         "https://www.bbc.co.uk/news/articles/c70g132erlko#0",
         "https://www.bbc.co.uk/news/articles/ce973yvk7pko#1",
         "https://www.bbc.co.uk/news/articles/c78gmp7zylvo#0",
-        "https://www.bbc.co.uk/news/articles/c86n4ljxp63o#1",
-        "https://www.bbc.co.uk/news/articles/cx2j9nj88rro#1",
-        "https://www.bbc.co.uk/news/articles/cr7k4gdrgljo#0",
-        "https://www.bbc.co.uk/news/articles/cy07qe0knvzo#0"
+        "https://www.bbc.co.uk/news/articles/c86n4ljxp63o#1"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/na-k10015196211000",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015193451000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/galaxy-s27-series-may-feature-silicon-carbon-battery/",
         "https://www.gizmodo.jp/article/this-new-process-turns-plastic-trash-into-clean-fuel-instead-of-pollution/",
         "https://www.gizmodo.jp/article/can-microsoft-really-make-windows-11-suck-less-on-weak-pcs/",
         "https://www.gizmodo.jp/article/20-years-of-gizmodojp-amito/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/samsungs-galaxy-watch-ultra-2-and-watch-9-prioritize-big-batteries/",
         "https://www.gizmodo.jp/article/discovery_qd-led/",
         "https://www.gizmodo.jp/article/sugar-mole-1/",
-        "https://www.gizmodo.jp/article/samsung-galaxy-z-flip-8-hands-on-one-of-the-mildest-phone-upgrades-ever/",
-        "https://www.gizmodo.jp/article/scientists-say-we-should-nuke-dangerous-asteroids-just-not-the-way-you-think/"
+        "https://www.gizmodo.jp/article/samsung-galaxy-z-flip-8-hands-on-one-of-the-mildest-phone-upgrades-ever/"
     ]
 }
