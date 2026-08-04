@@ -2,6 +2,8 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "SU42DYcJnAo",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "QJiCGJuF6Xo",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c151pkww79zo#0",
+        "https://www.bbc.co.uk/news/articles/c4gkpwj2je9o#1",
         "https://www.bbc.co.uk/news/articles/cd9wk27y05zo#0",
         "https://www.bbc.co.uk/news/articles/c6295z6jkw6o#0",
         "https://www.bbc.co.uk/news/articles/c80ngjjvevyo#1",
@@ -199,11 +201,10 @@
         "https://www.bbc.co.uk/news/articles/c74gwvygkjdo#1",
         "https://www.bbc.co.uk/news/articles/cz05yx5dd7yo#1",
         "https://www.bbc.co.uk/news/articles/cz05yx5dd7yo#0",
-        "https://www.bbc.co.uk/news/articles/ce973yvk7pko#0",
-        "https://www.bbc.co.uk/news/articles/c0kmzx8vpv4o#1",
-        "https://www.bbc.co.uk/news/articles/c4g4djgdyk2o#0"
+        "https://www.bbc.co.uk/news/articles/ce973yvk7pko#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015195981000",
         "https://news.web.nhk/newsweb/na/na-k10015192441000",
         "https://news.web.nhk/newsweb/na/na-k10015192831000",
         "https://news.web.nhk/newsweb/na/na-k10015190991000",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/na-k10015191101000",
         "https://news.web.nhk/newsweb/na/na-k10015191061000",
         "https://news.web.nhk/newsweb/na/na-k10015193581000",
-        "https://news.web.nhk/newsweb/na/na-k10015192981000",
-        "https://news.web.nhk/newsweb/na/na-k10015193551000"
+        "https://news.web.nhk/newsweb/na/na-k10015192981000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/altra_torin-9_review/",
         "https://www.gizmodo.jp/article/dcd97912-6dc5-4f42-bed7-8f86247684ef/",
         "https://www.gizmodo.jp/article/lexar-playx/",
         "https://www.gizmodo.jp/article/342ac73e-3526-4d75-a3dc-f3804245fc29/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/marna-coffee-deodorizer-pot-review-2nr/",
         "https://www.gizmodo.jp/article/razer_cinnamoroll_edition/",
         "https://www.gizmodo.jp/article/buffalo-announces-price-hike-202608/",
-        "https://www.gizmodo.jp/article/7e6ff7ee-92a3-455c-9057-a8bb9a4586b7/",
-        "https://www.gizmodo.jp/article/camp-snap-2-review/"
+        "https://www.gizmodo.jp/article/7e6ff7ee-92a3-455c-9057-a8bb9a4586b7/"
     ]
 }
