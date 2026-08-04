@@ -2,6 +2,10 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "SU42DYcJnAo",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "QJiCGJuF6Xo",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/crk5lmglkdno#0",
+        "https://www.bbc.co.uk/news/articles/cm2ge428md0o#1",
+        "https://www.bbc.co.uk/news/articles/cp879d2n3yno#0",
+        "https://www.bbc.co.uk/news/articles/cy8mrrlkjppo#1",
         "https://www.bbc.co.uk/news/articles/c151pkww79zo#0",
         "https://www.bbc.co.uk/news/articles/c4gkpwj2je9o#1",
         "https://www.bbc.co.uk/news/articles/cd9wk27y05zo#0",
@@ -197,13 +201,14 @@
         "https://www.bbc.co.uk/sport/football/articles/c998m4ve0rpo#1",
         "https://www.bbc.co.uk/news/articles/c8rnpxyj762o#0",
         "https://www.bbc.co.uk/news/articles/ckgd31l5yrdo#0",
-        "https://www.bbc.co.uk/news/articles/cddjz1r01l8o#1",
-        "https://www.bbc.co.uk/news/articles/c74gwvygkjdo#1",
-        "https://www.bbc.co.uk/news/articles/cz05yx5dd7yo#1",
-        "https://www.bbc.co.uk/news/articles/cz05yx5dd7yo#0",
-        "https://www.bbc.co.uk/news/articles/ce973yvk7pko#0"
+        "https://www.bbc.co.uk/news/articles/cddjz1r01l8o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015191101000",
+        "https://news.web.nhk/newsweb/na/na-k10015191061000",
+        "https://news.web.nhk/newsweb/na/na-k10015195991000",
+        "https://news.web.nhk/newsweb/na/na-k10015195951000",
+        "https://news.web.nhk/newsweb/na/na-k10015195851000",
         "https://news.web.nhk/newsweb/na/na-k10015196001000",
         "https://news.web.nhk/newsweb/na/na-k10015195871000",
         "https://news.web.nhk/newsweb/na/na-k10015195981000",
@@ -398,12 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015192401000",
         "https://news.web.nhk/newsweb/na/na-k10015193661000",
         "https://news.web.nhk/newsweb/na/na-k10015193641000",
-        "https://news.web.nhk/newsweb/na/na-k10015193631000",
-        "https://news.web.nhk/newsweb/na/na-k10015193621000",
-        "https://news.web.nhk/newsweb/na/na-k10015193611000",
-        "https://news.web.nhk/newsweb/na/na-k10015193571000",
-        "https://news.web.nhk/newsweb/na/na-k10015191101000",
-        "https://news.web.nhk/newsweb/na/na-k10015191061000"
+        "https://news.web.nhk/newsweb/na/na-k10015193631000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/altra_torin-9_review/",
