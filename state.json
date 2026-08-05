@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/c23579jzv08o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015197321000",
+        "https://news.web.nhk/newsweb/na/na-k10015197291000",
         "https://news.web.nhk/newsweb/na/na-k10015197021000",
         "https://news.web.nhk/newsweb/na/na-k10015197171000",
         "https://news.web.nhk/newsweb/na/na-k10015197191000",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015194851000",
         "https://news.web.nhk/newsweb/na/na-k10015194751000",
         "https://news.web.nhk/newsweb/na/na-k10015194791000",
-        "https://news.web.nhk/newsweb/na/na-k10015194801000",
-        "https://news.web.nhk/newsweb/na/na-k10015194781000",
-        "https://news.web.nhk/newsweb/na/na-k10015194741000"
+        "https://news.web.nhk/newsweb/na/na-k10015194801000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/20th-anniversary-iphone-features-6-4-inch-and-7-inch-displays/",
