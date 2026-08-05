@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c2k7px317eeo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015195441000",
         "https://news.web.nhk/newsweb/na/na-k10015197631000",
         "https://news.web.nhk/newsweb/na/na-k10015197601000",
         "https://news.web.nhk/newsweb/na/na-k10015197711000",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/na-k10015195321000",
         "https://news.web.nhk/newsweb/na/na-k10015195351000",
         "https://news.web.nhk/newsweb/na/na-k10015195471000",
-        "https://news.web.nhk/newsweb/na/na-k10015194611000",
-        "https://news.web.nhk/newsweb/na/na-k10015192421000"
+        "https://news.web.nhk/newsweb/na/na-k10015194611000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/apple-event-2026-rumors/",
         "https://www.gizmodo.jp/article/this-may-be-the-worlds-first-quantum-battery-wyr-brc/",
         "https://www.gizmodo.jp/article/20yrs-of-gizmodo-japan/",
         "https://www.gizmodo.jp/article/roughgrid-lynx/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/montbell-travel-umbrella-9y1/",
         "https://www.gizmodo.jp/article/google-selfie-video-sign-in/",
         "https://www.gizmodo.jp/article/this-hidden-pattern-in-the-sun-could-predict-solar-storms-years-in-advance/",
-        "https://www.gizmodo.jp/article/mondo-robotics-beni/",
-        "https://www.gizmodo.jp/article/leaping_out_of_the_water/"
+        "https://www.gizmodo.jp/article/mondo-robotics-beni/"
     ]
 }
