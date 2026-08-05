@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c235gykvjkjo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015197041000",
         "https://news.web.nhk/newsweb/na/na-k10015196961000",
         "https://news.web.nhk/newsweb/na/na-k10015197031000",
         "https://news.web.nhk/newsweb/na/na-k10015196991000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015194491000",
         "https://news.web.nhk/newsweb/na/na-k10015194501000",
         "https://news.web.nhk/newsweb/na/na-k10015189631000",
-        "https://news.web.nhk/newsweb/na/na-k10015194511000",
-        "https://news.web.nhk/newsweb/na/na-k10015194551000"
+        "https://news.web.nhk/newsweb/na/na-k10015194511000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/eu-ai-act/",
