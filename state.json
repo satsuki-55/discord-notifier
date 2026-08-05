@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cglj1pr0wjwo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015197351000",
         "https://news.web.nhk/newsweb/na/na-k10015196971000",
         "https://news.web.nhk/newsweb/na/na-k10015197391000",
         "https://news.web.nhk/newsweb/na/na-k10015197341000",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/na-k10015195051000",
         "https://news.web.nhk/newsweb/na/na-k10015194931000",
         "https://news.web.nhk/newsweb/na/na-k10015194821000",
-        "https://news.web.nhk/newsweb/na/na-k10015194981000",
-        "https://news.web.nhk/newsweb/na/na-k10015194991000"
+        "https://news.web.nhk/newsweb/na/na-k10015194981000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/ios27-movie-subtitle/",
         "https://www.gizmodo.jp/article/iwatani-compactburner/",
         "https://www.gizmodo.jp/article/massive-extinct-whale-heaviest-animal-ever-0y2/",
         "https://www.gizmodo.jp/article/20th-anniversary-iphone-features-6-4-inch-and-7-inch-displays/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/7in1-drinkholder_review/",
         "https://www.gizmodo.jp/article/what-is-the-smartest-way-to-power-the-ai-boom/",
         "https://www.gizmodo.jp/article/pixel11_price-increase_news/",
-        "https://www.gizmodo.jp/article/a-study-tried-to-quantify-how-many-linkedin-posts-are-100-ai-its-a-lot/",
-        "https://www.gizmodo.jp/article/slimpower-h1/"
+        "https://www.gizmodo.jp/article/a-study-tried-to-quantify-how-many-linkedin-posts-are-100-ai-its-a-lot/"
     ]
 }
