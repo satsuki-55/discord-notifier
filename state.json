@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "glfnUNPeCiU",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "QJiCGJuF6Xo",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c151pkww79zo#1",
         "https://www.bbc.co.uk/news/articles/cjejyl34345o#1",
         "https://www.bbc.co.uk/news/articles/c1l1q6167d3o#0",
         "https://www.bbc.co.uk/news/articles/czdm0l8l1pmo#0",
@@ -200,8 +201,7 @@
         "https://www.bbc.co.uk/news/articles/c5y32zmv6kjo#1",
         "https://www.bbc.co.uk/news/articles/cn0nqv05g0do#0",
         "https://www.bbc.co.uk/news/articles/cr59qe86yj4o#0",
-        "https://www.bbc.co.uk/sport/cycling/articles/cy8mrkpd27lo#0",
-        "https://www.bbc.co.uk/news/articles/c9v471x89m3o#0"
+        "https://www.bbc.co.uk/sport/cycling/articles/cy8mrkpd27lo#0"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/na-k10015197261000",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015194631000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/galaxy-z-fold8-already-in-short-supply/",
         "https://www.gizmodo.jp/article/spyrafour_watergun/",
         "https://www.gizmodo.jp/article/2605-how-copilot-new-microsoft-tools-work-yqz/",
         "https://www.gizmodo.jp/article/2607-world-most-expensive-cities-everday-items-rent-food-iphone-switzerland-cga/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/slimpower-h1/",
         "https://www.gizmodo.jp/article/weimall_cool-seat_review/",
         "https://www.gizmodo.jp/article/china-just-dropped-another-bomb-on-americas-frontier-ai-companies/",
-        "https://www.gizmodo.jp/article/galaxy-ring-sleep-apnea-syndrome/",
-        "https://www.gizmodo.jp/article/lego-donkey-kong-arcade-game/"
+        "https://www.gizmodo.jp/article/galaxy-ring-sleep-apnea-syndrome/"
     ]
 }
