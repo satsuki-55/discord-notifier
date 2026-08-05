@@ -204,6 +204,9 @@
         "https://www.bbc.co.uk/news/articles/c9v471x89m3o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015194641000",
+        "https://news.web.nhk/newsweb/na/na-k10015197241000",
+        "https://news.web.nhk/newsweb/na/na-k10015196851000",
         "https://news.web.nhk/newsweb/na/na-k10015196921000",
         "https://news.web.nhk/newsweb/na/na-k10015197251000",
         "https://news.web.nhk/newsweb/na/na-k10015197131000",
@@ -400,10 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015194701000",
         "https://news.web.nhk/newsweb/na/na-k10015194631000",
         "https://news.web.nhk/newsweb/na/na-k10015189831000",
-        "https://news.web.nhk/newsweb/na/na-k10015194441000",
-        "https://news.web.nhk/newsweb/na/na-k10015194681000",
-        "https://news.web.nhk/newsweb/na/na-k10015194641000",
-        "https://news.web.nhk/newsweb/na/na-k10015194571000"
+        "https://news.web.nhk/newsweb/na/na-k10015194441000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/spyrafour_watergun/",
