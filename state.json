@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c998gg5pe09o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015196711000",
         "https://news.web.nhk/newsweb/na/na-k10015196831000",
         "https://news.web.nhk/newsweb/na/na-k10015196811000",
         "https://news.web.nhk/newsweb/na/na-k10015196801000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015194291000",
         "https://news.web.nhk/newsweb/na/na-k10015194321000",
         "https://news.web.nhk/newsweb/na/na-k10015194331000",
-        "https://news.web.nhk/newsweb/na/na-k10015194341000",
-        "https://news.web.nhk/newsweb/na/na-k10015194281000"
+        "https://news.web.nhk/newsweb/na/na-k10015194341000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/plasmacluster-handy-fan-pj-hs01-b/",
