@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "glfnUNPeCiU",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "QJiCGJuF6Xo",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cx2v5kj9zzko#0",
         "https://www.bbc.co.uk/news/articles/c4gwv9590xeo#0",
         "https://www.bbc.co.uk/news/articles/c1w1lvn7d9go#1",
         "https://www.bbc.co.uk/news/articles/cn0n9wpvlwpo#1",
@@ -200,10 +201,10 @@
         "https://www.bbc.co.uk/news/articles/cgewq549988o#0",
         "https://www.bbc.co.uk/news/articles/c0jlzqe9z9vo#0",
         "https://www.bbc.co.uk/news/articles/cglj1pr0wjwo#0",
-        "https://www.bbc.co.uk/news/articles/cpw9yrl4p2qo#1",
-        "https://www.bbc.co.uk/weather/articles/c17199dy4yxo#0"
+        "https://www.bbc.co.uk/news/articles/cpw9yrl4p2qo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015197331000",
         "https://news.web.nhk/newsweb/na/na-k10015197311000",
         "https://news.web.nhk/newsweb/na/na-k10015197301000",
         "https://news.web.nhk/newsweb/na/na-k10015197181000",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/na-k10015194861000",
         "https://news.web.nhk/newsweb/na/na-k10015194911000",
         "https://news.web.nhk/newsweb/na/na-k10015194921000",
-        "https://news.web.nhk/newsweb/na/na-k10015192911000",
-        "https://news.web.nhk/newsweb/na/na-k10015194891000"
+        "https://news.web.nhk/newsweb/na/na-k10015192911000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/iwatani-compactburner/",
         "https://www.gizmodo.jp/article/massive-extinct-whale-heaviest-animal-ever-0y2/",
         "https://www.gizmodo.jp/article/20th-anniversary-iphone-features-6-4-inch-and-7-inch-displays/",
         "https://www.gizmodo.jp/article/galaxy-z-fold8-already-in-short-supply/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/what-is-the-smartest-way-to-power-the-ai-boom/",
         "https://www.gizmodo.jp/article/pixel11_price-increase_news/",
         "https://www.gizmodo.jp/article/a-study-tried-to-quantify-how-many-linkedin-posts-are-100-ai-its-a-lot/",
-        "https://www.gizmodo.jp/article/slimpower-h1/",
-        "https://www.gizmodo.jp/article/weimall_cool-seat_review/"
+        "https://www.gizmodo.jp/article/slimpower-h1/"
     ]
 }
