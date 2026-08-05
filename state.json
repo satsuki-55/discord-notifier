@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cly8r2p27lzo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015197651000",
         "https://news.web.nhk/newsweb/na/na-k10015197511000",
         "https://news.web.nhk/newsweb/na/na-k10015195091000",
         "https://news.web.nhk/newsweb/na/na-k10015197501000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015195181000",
         "https://news.web.nhk/newsweb/na/na-k10015195121000",
         "https://news.web.nhk/newsweb/na/na-k10015195031000",
-        "https://news.web.nhk/newsweb/na/na-k10015195081000",
-        "https://news.web.nhk/newsweb/na/na-k10015194841000"
+        "https://news.web.nhk/newsweb/na/na-k10015195081000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/this-may-be-the-worlds-first-quantum-battery-wyr-brc/",
