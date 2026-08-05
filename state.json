@@ -2,6 +2,8 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "glfnUNPeCiU",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "n7tAE_FNFfE",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cvg8dlykejlo#0",
+        "https://www.bbc.co.uk/news/articles/c1e13vv4gvqo#1",
         "https://www.bbc.co.uk/news/articles/cd69glgl2jzo#0",
         "https://www.bbc.co.uk/news/articles/ckgdkpz07kvo#0",
         "https://www.bbc.co.uk/news/articles/c75gvzxrz49o#0",
@@ -199,9 +201,7 @@
         "https://www.bbc.co.uk/weather/articles/cn5nk90ndl0o#0",
         "https://www.bbc.co.uk/news/articles/c3w05gx32d4o#1",
         "https://www.bbc.co.uk/news/articles/c75gq56qrwno#0",
-        "https://www.bbc.co.uk/news/articles/cly8r2p27lzo#1",
-        "https://www.bbc.co.uk/news/articles/ceqe24qjgzdo#0",
-        "https://www.bbc.co.uk/news/articles/c24mr09r99eo#0"
+        "https://www.bbc.co.uk/news/articles/cly8r2p27lzo#1"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/na-k10015197511000",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015194841000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/this-may-be-the-worlds-first-quantum-battery-wyr-brc/",
         "https://www.gizmodo.jp/article/20yrs-of-gizmodo-japan/",
         "https://www.gizmodo.jp/article/roughgrid-lynx/",
         "https://www.gizmodo.jp/article/muji-nameraka/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/google-selfie-video-sign-in/",
         "https://www.gizmodo.jp/article/this-hidden-pattern-in-the-sun-could-predict-solar-storms-years-in-advance/",
         "https://www.gizmodo.jp/article/mondo-robotics-beni/",
-        "https://www.gizmodo.jp/article/leaping_out_of_the_water/",
-        "https://www.gizmodo.jp/article/mdr-cd900st-the-first-take-edition/"
+        "https://www.gizmodo.jp/article/leaping_out_of_the_water/"
     ]
 }
