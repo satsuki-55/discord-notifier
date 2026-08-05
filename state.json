@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cglj1pr0wjwo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015197391000",
         "https://news.web.nhk/newsweb/na/na-k10015197341000",
         "https://news.web.nhk/newsweb/na/na-k10015197381000",
         "https://news.web.nhk/newsweb/na/na-k10015197361000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015194821000",
         "https://news.web.nhk/newsweb/na/na-k10015194981000",
         "https://news.web.nhk/newsweb/na/na-k10015194991000",
-        "https://news.web.nhk/newsweb/na/na-k10015194951000",
-        "https://news.web.nhk/newsweb/na/na-k10015194861000"
+        "https://news.web.nhk/newsweb/na/na-k10015194951000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/iwatani-compactburner/",
