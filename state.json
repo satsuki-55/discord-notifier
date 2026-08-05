@@ -2,6 +2,9 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "glfnUNPeCiU",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "QJiCGJuF6Xo",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cdewg45w5kno#0",
+        "https://www.bbc.co.uk/news/articles/crl72p33018o#1",
+        "https://www.bbc.co.uk/news/articles/c0kmd4xpr46o#1",
         "https://www.bbc.co.uk/news/articles/c5y0e4dx8w9o#0",
         "https://www.bbc.co.uk/news/articles/cly544d149xo#1",
         "https://www.bbc.co.uk/news/articles/cr7km34z112o#1",
@@ -198,12 +201,10 @@
         "https://www.bbc.co.uk/news/articles/c2el319vzr3o#0",
         "https://www.bbc.co.uk/news/articles/cp3rkzpl7ngo#0",
         "https://www.bbc.co.uk/news/articles/cjd4yz35x8go#1",
-        "https://www.bbc.co.uk/news/articles/c8x274xxxpwo#0",
-        "https://www.bbc.co.uk/sport/articles/c2k7nn9z0e7o#0",
-        "https://www.bbc.co.uk/news/articles/c77g67l0zl4o#1",
-        "https://www.bbc.co.uk/news/articles/c80ngjjvevyo#0"
+        "https://www.bbc.co.uk/news/articles/c8x274xxxpwo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015197171000",
         "https://news.web.nhk/newsweb/na/na-k10015197191000",
         "https://news.web.nhk/newsweb/na/na-k10015197261000",
         "https://news.web.nhk/newsweb/na/na-k10015197231000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015194801000",
         "https://news.web.nhk/newsweb/na/na-k10015194781000",
         "https://news.web.nhk/newsweb/na/na-k10015194741000",
-        "https://news.web.nhk/newsweb/na/na-k10015194721000",
-        "https://news.web.nhk/newsweb/na/na-k10015194701000"
+        "https://news.web.nhk/newsweb/na/na-k10015194721000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/galaxy-z-fold8-already-in-short-supply/",
