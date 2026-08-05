@@ -2,6 +2,9 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "glfnUNPeCiU",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "QJiCGJuF6Xo",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c0jlzqe9z9vo#0",
+        "https://www.bbc.co.uk/news/articles/ckgdmv7elg8o#0",
+        "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo#1",
         "https://www.bbc.co.uk/news/articles/cj4kqvdggg5o#1",
         "https://www.bbc.co.uk/news/articles/cx2v5kj9zzko#0",
         "https://www.bbc.co.uk/news/articles/c4gwv9590xeo#0",
@@ -198,12 +201,13 @@
         "https://www.bbc.co.uk/news/articles/c5yvqk69enko#0",
         "https://www.bbc.co.uk/news/articles/cn9n2v3lwr0o#1",
         "https://www.bbc.co.uk/news/articles/c3w052le2elo#0",
-        "https://www.bbc.co.uk/news/articles/cr7k49xjzzeo#1",
-        "https://www.bbc.co.uk/news/articles/cgewq549988o#0",
-        "https://www.bbc.co.uk/news/articles/c0jlzqe9z9vo#0",
-        "https://www.bbc.co.uk/news/articles/cglj1pr0wjwo#0"
+        "https://www.bbc.co.uk/news/articles/cr7k49xjzzeo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015197411000",
+        "https://news.web.nhk/newsweb/na/na-k10015197421000",
+        "https://news.web.nhk/newsweb/na/na-k10015197401000",
+        "https://news.web.nhk/newsweb/na/na-k10015196911000",
         "https://news.web.nhk/newsweb/na/na-k10015192451000",
         "https://news.web.nhk/newsweb/na/na-k10015197371000",
         "https://news.web.nhk/newsweb/na/na-k10015197351000",
@@ -399,11 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015195091000",
         "https://news.web.nhk/newsweb/na/na-k10015195011000",
         "https://news.web.nhk/newsweb/na/na-k10015195101000",
-        "https://news.web.nhk/newsweb/na/na-k10015195021000",
-        "https://news.web.nhk/newsweb/na/na-k10015195071000",
-        "https://news.web.nhk/newsweb/na/na-k10015195041000",
-        "https://news.web.nhk/newsweb/na/na-k10015195051000",
-        "https://news.web.nhk/newsweb/na/na-k10015194931000"
+        "https://news.web.nhk/newsweb/na/na-k10015195021000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/ios27-movie-subtitle/",
