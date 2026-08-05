@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c998gg5pe09o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015196281000",
         "https://news.web.nhk/newsweb/na/na-k10015196781000",
         "https://news.web.nhk/newsweb/na/na-k10015196711000",
         "https://news.web.nhk/newsweb/na/na-k10015196831000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015194391000",
         "https://news.web.nhk/newsweb/na/na-k10015194411000",
         "https://news.web.nhk/newsweb/na/na-k10015194291000",
-        "https://news.web.nhk/newsweb/na/na-k10015194321000",
-        "https://news.web.nhk/newsweb/na/na-k10015194331000"
+        "https://news.web.nhk/newsweb/na/na-k10015194321000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/noctua-feinmann-f01-gaming-mouse/",
