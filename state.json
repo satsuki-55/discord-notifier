@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c1e1d5j6660o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015197501000",
         "https://news.web.nhk/newsweb/na/na-k10015197271000",
         "https://news.web.nhk/newsweb/na/na-k10015197461000",
         "https://news.web.nhk/newsweb/na/na-k10015197431000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015195081000",
         "https://news.web.nhk/newsweb/na/na-k10015194841000",
         "https://news.web.nhk/newsweb/na/na-k10015195001000",
-        "https://news.web.nhk/newsweb/na/na-k10015195111000",
-        "https://news.web.nhk/newsweb/na/na-k10015195091000"
+        "https://news.web.nhk/newsweb/na/na-k10015195111000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/roughgrid-lynx/",
