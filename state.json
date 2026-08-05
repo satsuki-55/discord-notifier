@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c9v471x89m3o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015197131000",
         "https://news.web.nhk/newsweb/na/na-k10015197141000",
         "https://news.web.nhk/newsweb/na/na-k10015196941000",
         "https://news.web.nhk/newsweb/na/na-k10015197151000",
@@ -402,10 +403,11 @@
         "https://news.web.nhk/newsweb/na/na-k10015194641000",
         "https://news.web.nhk/newsweb/na/na-k10015194571000",
         "https://news.web.nhk/newsweb/na/na-k10015194621000",
-        "https://news.web.nhk/newsweb/na/na-k10015194371000",
-        "https://news.web.nhk/newsweb/na/na-k10015194581000"
+        "https://news.web.nhk/newsweb/na/na-k10015194371000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2605-how-copilot-new-microsoft-tools-work-yqz/",
+        "https://www.gizmodo.jp/article/2607-world-most-expensive-cities-everday-items-rent-food-iphone-switzerland-cga/",
         "https://www.gizmodo.jp/article/if-youre-struggling-to-find-a-macbook-air-right-now-this-is-probably-why/",
         "https://www.gizmodo.jp/article/lamdash-pro-6/",
         "https://www.gizmodo.jp/article/heres-our-first-look-at-googles-airtag-competitor/",
@@ -603,8 +605,6 @@
         "https://www.gizmodo.jp/article/china-just-dropped-another-bomb-on-americas-frontier-ai-companies/",
         "https://www.gizmodo.jp/article/galaxy-ring-sleep-apnea-syndrome/",
         "https://www.gizmodo.jp/article/lego-donkey-kong-arcade-game/",
-        "https://www.gizmodo.jp/article/daiso-compression-bag-review-lbv/",
-        "https://www.gizmodo.jp/article/nokia-300-power-bank/",
-        "https://www.gizmodo.jp/article/movably-pro-202607/"
+        "https://www.gizmodo.jp/article/daiso-compression-bag-review-lbv/"
     ]
 }
