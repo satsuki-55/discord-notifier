@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c235gykvjkjo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015196931000",
         "https://news.web.nhk/newsweb/na/na-k10015197061000",
         "https://news.web.nhk/newsweb/na/na-k10015197041000",
         "https://news.web.nhk/newsweb/na/na-k10015196961000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015194531000",
         "https://news.web.nhk/newsweb/na/na-k10015191911000",
         "https://news.web.nhk/newsweb/na/na-k10015194491000",
-        "https://news.web.nhk/newsweb/na/na-k10015194501000",
-        "https://news.web.nhk/newsweb/na/na-k10015189631000"
+        "https://news.web.nhk/newsweb/na/na-k10015194501000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/heres-our-first-look-at-googles-airtag-competitor/",
