@@ -2,6 +2,9 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "glfnUNPeCiU",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "n7tAE_FNFfE",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cvgj846q2veo#0",
+        "https://www.bbc.co.uk/news/articles/c3d3nlmeee0o#0",
+        "https://www.bbc.co.uk/news/articles/c8dnrpmgv4yo#0",
         "https://www.bbc.co.uk/news/articles/cwyewn5wexvo#1",
         "https://www.bbc.co.uk/news/articles/cre49389g1qo#0",
         "https://www.bbc.co.uk/news/articles/cdrv0k0j662o#0",
@@ -198,12 +201,10 @@
         "https://www.bbc.co.uk/news/articles/c3w052le2elo#1",
         "https://www.bbc.co.uk/news/articles/cy0jyln07r7o#0",
         "https://www.bbc.co.uk/weather/articles/c62q036nqxyo#0",
-        "https://www.bbc.co.uk/news/articles/cgr7qrdx4qwo#0",
-        "https://www.bbc.co.uk/news/articles/c872r52x7jgo#0",
-        "https://www.bbc.co.uk/news/articles/c0qvlw2dd0no#0",
-        "https://www.bbc.co.uk/news/articles/cyvl84zmgyro#0"
+        "https://www.bbc.co.uk/news/articles/cgr7qrdx4qwo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015197721000",
         "https://news.web.nhk/newsweb/na/na-k10015195511000",
         "https://news.web.nhk/newsweb/na/na-k10015197611000",
         "https://news.web.nhk/newsweb/na/na-k10015197591000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015195361000",
         "https://news.web.nhk/newsweb/na/na-k10015195491000",
         "https://news.web.nhk/newsweb/na/na-k10015195371000",
-        "https://news.web.nhk/newsweb/na/na-k10015195331000",
-        "https://news.web.nhk/newsweb/na/na-k10015195321000"
+        "https://news.web.nhk/newsweb/na/na-k10015195331000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/cmf-clip-pro-wireless-earbuds-kind-of-look-like-a-vape-for-some-reason/",
