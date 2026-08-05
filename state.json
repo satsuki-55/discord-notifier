@@ -2,6 +2,8 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "glfnUNPeCiU",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "QJiCGJuF6Xo",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cg74gvy8lgjo#0",
+        "https://www.bbc.co.uk/news/articles/cpw9v0rlj5go#1",
         "https://www.bbc.co.uk/news/articles/cx2kg709qd9o#0",
         "https://www.bbc.co.uk/news/articles/c20jp3mp7lyo#1",
         "https://www.bbc.co.uk/sport/football/articles/c62vd95ljp0o#0",
@@ -199,9 +201,7 @@
         "https://www.bbc.co.uk/news/articles/c86ngegz9qno#0",
         "https://www.bbc.co.uk/news/articles/cgewq549988o#1",
         "https://www.bbc.co.uk/news/articles/cgk4xrznxn5o#0",
-        "https://www.bbc.co.uk/news/articles/cn0nqpy1rk4o#0",
-        "https://www.bbc.co.uk/news/articles/cdewk5r308jo#0",
-        "https://www.bbc.co.uk/news/articles/c5yvqk69enko#0"
+        "https://www.bbc.co.uk/news/articles/cn0nqpy1rk4o#0"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/na-k10015197461000",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015195011000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/matte-black-pixel-11-pro-leaked/",
         "https://www.gizmodo.jp/article/ios27-movie-subtitle/",
         "https://www.gizmodo.jp/article/iwatani-compactburner/",
         "https://www.gizmodo.jp/article/massive-extinct-whale-heaviest-animal-ever-0y2/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/fossil-challenges-dinosaur-origin-theories-olu/",
         "https://www.gizmodo.jp/article/7in1-drinkholder_review/",
         "https://www.gizmodo.jp/article/what-is-the-smartest-way-to-power-the-ai-boom/",
-        "https://www.gizmodo.jp/article/pixel11_price-increase_news/",
-        "https://www.gizmodo.jp/article/a-study-tried-to-quantify-how-many-linkedin-posts-are-100-ai-its-a-lot/"
+        "https://www.gizmodo.jp/article/pixel11_price-increase_news/"
     ]
 }
