@@ -2,6 +2,8 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "glfnUNPeCiU",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "QJiCGJuF6Xo",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c982m8p74lvo#0",
+        "https://www.bbc.co.uk/news/articles/c235evj1r04o#0",
         "https://www.bbc.co.uk/news/articles/cp87m46g392o#0",
         "https://www.bbc.co.uk/news/articles/c62qvll0z94o#0",
         "https://www.bbc.co.uk/news/articles/c86ngegz9qno#0",
@@ -199,11 +201,10 @@
         "https://www.bbc.co.uk/news/articles/c998gg5pe09o#1",
         "https://www.bbc.co.uk/sport/football/articles/cp30vg829nxo#0",
         "https://www.bbc.co.uk/news/articles/c1e1d5j6660o#0",
-        "https://www.bbc.co.uk/sport/football/articles/ckg9z094v8go#0",
-        "https://www.bbc.co.uk/news/articles/cgk4rjz8dxlo#0",
-        "https://www.bbc.co.uk/news/articles/c982m8p74lvo#0"
+        "https://www.bbc.co.uk/sport/football/articles/ckg9z094v8go#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015197271000",
         "https://news.web.nhk/newsweb/na/na-k10015197461000",
         "https://news.web.nhk/newsweb/na/na-k10015197431000",
         "https://news.web.nhk/newsweb/na/na-k10015197411000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015194841000",
         "https://news.web.nhk/newsweb/na/na-k10015195001000",
         "https://news.web.nhk/newsweb/na/na-k10015195111000",
-        "https://news.web.nhk/newsweb/na/na-k10015195091000",
-        "https://news.web.nhk/newsweb/na/na-k10015195011000"
+        "https://news.web.nhk/newsweb/na/na-k10015195091000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/muji-nameraka/",
