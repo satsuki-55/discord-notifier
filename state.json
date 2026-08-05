@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/c235gykvjkjo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015196961000",
+        "https://news.web.nhk/newsweb/na/na-k10015197031000",
         "https://news.web.nhk/newsweb/na/na-k10015196991000",
         "https://news.web.nhk/newsweb/na/na-k10015197001000",
         "https://news.web.nhk/newsweb/na/na-k10015191781000",
@@ -401,11 +403,10 @@
         "https://news.web.nhk/newsweb/na/na-k10015194501000",
         "https://news.web.nhk/newsweb/na/na-k10015189631000",
         "https://news.web.nhk/newsweb/na/na-k10015194511000",
-        "https://news.web.nhk/newsweb/na/na-k10015194551000",
-        "https://news.web.nhk/newsweb/na/na-k10015194561000",
-        "https://news.web.nhk/newsweb/na/na-k10015194461000"
+        "https://news.web.nhk/newsweb/na/na-k10015194551000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/eu-ai-act/",
         "https://www.gizmodo.jp/article/marna-coffee-deodorizer-pot-review-2/",
         "https://www.gizmodo.jp/article/ios27-liquidglass/",
         "https://www.gizmodo.jp/article/noctua-feinmann-f01-gaming-mouse/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/movably-pro-202607/",
         "https://www.gizmodo.jp/article/2607-fiat-ev-america-golf-cart-vqr/",
         "https://www.gizmodo.jp/article/analog-machine-works-tetra/",
-        "https://www.gizmodo.jp/article/brushboarding/",
-        "https://www.gizmodo.jp/article/mellotron-m4000d-micro/"
+        "https://www.gizmodo.jp/article/brushboarding/"
     ]
 }
