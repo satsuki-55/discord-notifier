@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c235gykvjkjo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015196891000",
         "https://news.web.nhk/newsweb/na/na-k10015196681000",
         "https://news.web.nhk/newsweb/na/na-k10015196701000",
         "https://news.web.nhk/newsweb/na/na-k10015196821000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015194421000",
         "https://news.web.nhk/newsweb/na/na-k10015194401000",
         "https://news.web.nhk/newsweb/na/na-k10015191781000",
-        "https://news.web.nhk/newsweb/na/na-k10015194471000",
-        "https://news.web.nhk/newsweb/na/na-k10015194521000"
+        "https://news.web.nhk/newsweb/na/na-k10015194471000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/ios27-liquidglass/",
