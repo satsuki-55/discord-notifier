@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015195001000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/20yrs-of-gizmodo-japan/",
         "https://www.gizmodo.jp/article/roughgrid-lynx/",
         "https://www.gizmodo.jp/article/muji-nameraka/",
         "https://www.gizmodo.jp/article/yamaguchimeguru_exhibition_vortex/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/this-hidden-pattern-in-the-sun-could-predict-solar-storms-years-in-advance/",
         "https://www.gizmodo.jp/article/mondo-robotics-beni/",
         "https://www.gizmodo.jp/article/leaping_out_of_the_water/",
-        "https://www.gizmodo.jp/article/mdr-cd900st-the-first-take-edition/",
-        "https://www.gizmodo.jp/article/fossil-challenges-dinosaur-origin-theories-olu/"
+        "https://www.gizmodo.jp/article/mdr-cd900st-the-first-take-edition/"
     ]
 }
