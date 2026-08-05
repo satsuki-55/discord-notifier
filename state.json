@@ -2,6 +2,8 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "glfnUNPeCiU",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "QJiCGJuF6Xo",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/videos/c935ng9n2klo#0",
+        "https://www.bbc.co.uk/news/articles/cq56qejll6vo#1",
         "https://www.bbc.co.uk/news/articles/c62q0xerzrno#0",
         "https://www.bbc.co.uk/news/articles/cg74gvy8lgjo#0",
         "https://www.bbc.co.uk/news/articles/cpw9v0rlj5go#1",
@@ -199,9 +201,7 @@
         "https://www.bbc.co.uk/news/articles/c7vgd11d60do#0",
         "https://www.bbc.co.uk/news/articles/cp87m46g392o#0",
         "https://www.bbc.co.uk/news/articles/cgje8d1p419o#0",
-        "https://www.bbc.co.uk/news/articles/c86ngegz9qno#0",
-        "https://www.bbc.co.uk/news/articles/cgewq549988o#1",
-        "https://www.bbc.co.uk/news/articles/cgk4xrznxn5o#0"
+        "https://www.bbc.co.uk/news/articles/c86ngegz9qno#0"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/na-k10015197461000",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015195011000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/yamaguchimeguru_exhibition_vortex/",
         "https://www.gizmodo.jp/article/matte-black-pixel-11-pro-leaked/",
         "https://www.gizmodo.jp/article/ios27-movie-subtitle/",
         "https://www.gizmodo.jp/article/iwatani-compactburner/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/mdr-cd900st-the-first-take-edition/",
         "https://www.gizmodo.jp/article/fossil-challenges-dinosaur-origin-theories-olu/",
         "https://www.gizmodo.jp/article/7in1-drinkholder_review/",
-        "https://www.gizmodo.jp/article/what-is-the-smartest-way-to-power-the-ai-boom/",
-        "https://www.gizmodo.jp/article/pixel11_price-increase_news/"
+        "https://www.gizmodo.jp/article/what-is-the-smartest-way-to-power-the-ai-boom/"
     ]
 }
