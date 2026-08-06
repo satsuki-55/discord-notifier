@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "glfnUNPeCiU",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "z-htocsMQKQ",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cvgv864z0rvo#0",
         "https://www.bbc.co.uk/news/articles/c4gv45w4j8eo#0",
         "https://www.bbc.co.uk/news/articles/cyvl8y141e4o#1",
         "https://www.bbc.co.uk/news/articles/c4gv45w4j8eo#1",
@@ -200,8 +201,7 @@
         "https://www.bbc.co.uk/news/articles/cg5l11m02j3o#0",
         "https://www.bbc.co.uk/news/articles/c872r52x7jgo#1",
         "https://www.bbc.co.uk/news/articles/ckgd31l5yrdo#0",
-        "https://www.bbc.co.uk/news/articles/c4gx2y454w5o#1",
-        "https://www.bbc.co.uk/news/articles/c4g6pvv2zgjo#1"
+        "https://www.bbc.co.uk/news/articles/c4gx2y454w5o#1"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/na-k10015198231000",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015195861000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/air-conditioner-daikin-tips-jqt/",
         "https://www.gizmodo.jp/article/google-photo-redact-option/",
         "https://www.gizmodo.jp/article/nature-remo-update/",
         "https://www.gizmodo.jp/article/2607-stock-market-outlook-sp500-mag-7-lost-decade-bill-smead-ixd/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/shiromasa-elecom-the-mechanical-designers-accelerate-the-peripheral-products/",
         "https://www.gizmodo.jp/article/ripstop-backpack/",
         "https://www.gizmodo.jp/article/rinjin_movie_interview/",
-        "https://www.gizmodo.jp/article/on_cloudboom-strike2/",
-        "https://www.gizmodo.jp/article/keychron-g6he-ultralight-gizmart/"
+        "https://www.gizmodo.jp/article/on_cloudboom-strike2/"
     ]
 }
