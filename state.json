@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "glfnUNPeCiU",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "n7tAE_FNFfE",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cx2v551w9v8o#0",
         "https://www.bbc.co.uk/news/articles/cm2g0038yr8o#0",
         "https://www.bbc.co.uk/news/articles/cyvlgq2gp2eo#1",
         "https://www.bbc.co.uk/news/articles/cyvlg4q48l3o#1",
@@ -200,8 +201,7 @@
         "https://www.bbc.co.uk/news/articles/c151pkww79zo#0",
         "https://www.bbc.co.uk/news/articles/c4gkpwj2je9o#1",
         "https://www.bbc.co.uk/news/articles/cd9wk27y05zo#0",
-        "https://www.bbc.co.uk/news/articles/c6295z6jkw6o#0",
-        "https://www.bbc.co.uk/news/articles/c80ngjjvevyo#1"
+        "https://www.bbc.co.uk/news/articles/c6295z6jkw6o#0"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/na-k10015198171000",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015195741000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/nature-remo-update/",
         "https://www.gizmodo.jp/article/2607-stock-market-outlook-sp500-mag-7-lost-decade-bill-smead-ixd/",
         "https://www.gizmodo.jp/article/nakabayashi_ucp-ca001/",
         "https://www.gizmodo.jp/article/sony-may-acquire-tamron/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/rinjin_movie_interview/",
         "https://www.gizmodo.jp/article/on_cloudboom-strike2/",
         "https://www.gizmodo.jp/article/keychron-g6he-ultralight-gizmart/",
-        "https://www.gizmodo.jp/article/amazon-thermos-cooler-box/",
-        "https://www.gizmodo.jp/article/master-dynamic-me05-c7x/"
+        "https://www.gizmodo.jp/article/amazon-thermos-cooler-box/"
     ]
 }
