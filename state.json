@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/weather/articles/c62q036nqxyo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015197811000",
         "https://news.web.nhk/newsweb/na/na-k10015197741000",
         "https://news.web.nhk/newsweb/na/na-k10015197721000",
         "https://news.web.nhk/newsweb/na/na-k10015195511000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015195131000",
         "https://news.web.nhk/newsweb/na/na-k10015195341000",
         "https://news.web.nhk/newsweb/na/na-k10015195361000",
-        "https://news.web.nhk/newsweb/na/na-k10015195491000",
-        "https://news.web.nhk/newsweb/na/na-k10015195371000"
+        "https://news.web.nhk/newsweb/na/na-k10015195491000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/wikiflix/",
