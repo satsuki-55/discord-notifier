@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cy4kp8jd0ppo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015192471000",
         "https://news.web.nhk/newsweb/na/na-k10015198131000",
         "https://news.web.nhk/newsweb/na/na-k10015198121000",
         "https://news.web.nhk/newsweb/na/na-k10015198101000",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/na-k10015195811000",
         "https://news.web.nhk/newsweb/na/na-k10015195741000",
         "https://news.web.nhk/newsweb/na/na-k10015195771000",
-        "https://news.web.nhk/newsweb/na/na-k10015195611000",
-        "https://news.web.nhk/newsweb/na/na-k10015195701000"
+        "https://news.web.nhk/newsweb/na/na-k10015195611000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2607-stock-market-outlook-sp500-mag-7-lost-decade-bill-smead-ixd/",
         "https://www.gizmodo.jp/article/nakabayashi_ucp-ca001/",
         "https://www.gizmodo.jp/article/sony-may-acquire-tamron/",
         "https://www.gizmodo.jp/article/amazon-airpods-pro-3/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/on_cloudboom-strike2/",
         "https://www.gizmodo.jp/article/keychron-g6he-ultralight-gizmart/",
         "https://www.gizmodo.jp/article/amazon-thermos-cooler-box/",
-        "https://www.gizmodo.jp/article/master-dynamic-me05-c7x/",
-        "https://www.gizmodo.jp/article/tombow_airpress_review/"
+        "https://www.gizmodo.jp/article/master-dynamic-me05-c7x/"
     ]
 }
