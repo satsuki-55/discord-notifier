@@ -2,6 +2,8 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "glfnUNPeCiU",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "z-htocsMQKQ",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cn5nlgxv6vdo#0",
+        "https://www.bbc.co.uk/news/articles/cm2g0038yr8o#1",
         "https://www.bbc.co.uk/news/articles/c9987kkrnl5o#1",
         "https://www.bbc.co.uk/news/articles/cj6390k0e26o#1",
         "https://www.bbc.co.uk/news/articles/cvgv864z0rvo#0",
@@ -199,11 +201,11 @@
         "https://www.bbc.co.uk/news/articles/c80n33lrnm5o#0",
         "https://www.bbc.co.uk/news/videos/c9d8662gyx5o#0",
         "https://www.bbc.co.uk/news/articles/c3ek7g857q4o#1",
-        "https://www.bbc.co.uk/news/articles/cx25yn22l97o#0",
-        "https://www.bbc.co.uk/news/articles/cg5l11m02j3o#0",
-        "https://www.bbc.co.uk/news/articles/c872r52x7jgo#1"
+        "https://www.bbc.co.uk/news/articles/cx25yn22l97o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015195981000",
+        "https://news.web.nhk/newsweb/na/na-k10015198291000",
         "https://news.web.nhk/newsweb/na/na-k10015198301000",
         "https://news.web.nhk/newsweb/na/na-k10015198321000",
         "https://news.web.nhk/newsweb/na/na-k10015198241000",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015195991000",
         "https://news.web.nhk/newsweb/na/na-k10015195951000",
         "https://news.web.nhk/newsweb/na/na-k10015195851000",
-        "https://news.web.nhk/newsweb/na/na-k10015196001000",
-        "https://news.web.nhk/newsweb/na/na-k10015195871000",
-        "https://news.web.nhk/newsweb/na/na-k10015195981000"
+        "https://news.web.nhk/newsweb/na/na-k10015196001000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/cooler_in_car-vww/",
