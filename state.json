@@ -2,6 +2,15 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "glfnUNPeCiU",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "n7tAE_FNFfE",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/ckgv652r625o#0",
+        "https://www.bbc.co.uk/news/articles/cm2g0j3y339o#0",
+        "https://www.bbc.co.uk/news/articles/ckgdmv7elg8o#1",
+        "https://www.bbc.co.uk/news/articles/c4gwvvw9k1xo#0",
+        "https://www.bbc.co.uk/news/articles/cn4ndd8nr8lo#0",
+        "https://www.bbc.co.uk/news/articles/cx2kgdnyk2po#1",
+        "https://www.bbc.co.uk/news/articles/c998711dyjvo#1",
+        "https://www.bbc.co.uk/news/articles/c3w07p7wqv1o#0",
+        "https://www.bbc.co.uk/news/articles/cj639rx147eo#0",
         "https://www.bbc.co.uk/news/articles/cx2kgdnyk2po#0",
         "https://www.bbc.co.uk/news/articles/c872r52x7jgo#0",
         "https://www.bbc.co.uk/news/articles/cvgj846q2veo#0",
@@ -192,16 +201,7 @@
         "https://www.bbc.co.uk/news/articles/c3ek7g857q4o#0",
         "https://www.bbc.co.uk/news/articles/c4gx2y454w5o#0",
         "https://www.bbc.co.uk/news/videos/c5y0d96qgg3o#0",
-        "https://www.bbc.co.uk/news/articles/c78gn8zvrx4o#1",
-        "https://www.bbc.co.uk/news/articles/cjrv0dy2e90o#1",
-        "https://www.bbc.co.uk/news/articles/cp3rkzpl7ngo#1",
-        "https://www.bbc.co.uk/news/articles/cy4kp8jd0ppo#0",
-        "https://www.bbc.co.uk/news/articles/ckgv652r625o#0",
-        "https://www.bbc.co.uk/news/articles/czjlvrd9e43o#1",
-        "https://www.bbc.co.uk/news/videos/c74g0q8eey9o#0",
-        "https://www.bbc.co.uk/news/articles/cgjed2q2l0xo#0",
-        "https://www.bbc.co.uk/news/articles/c3w052le2elo#1",
-        "https://www.bbc.co.uk/news/articles/cy0jyln07r7o#0"
+        "https://www.bbc.co.uk/news/articles/c78gn8zvrx4o#1"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/na-k10015198071000",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015195671000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/nakabayashi_ucp-ca001/",
         "https://www.gizmodo.jp/article/sony-may-acquire-tamron/",
         "https://www.gizmodo.jp/article/amazon-airpods-pro-3/",
         "https://www.gizmodo.jp/article/5-features-you-should-update-ios27/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/keychron-g6he-ultralight-gizmart/",
         "https://www.gizmodo.jp/article/amazon-thermos-cooler-box/",
         "https://www.gizmodo.jp/article/master-dynamic-me05-c7x/",
-        "https://www.gizmodo.jp/article/tombow_airpress_review/",
-        "https://www.gizmodo.jp/article/cassette-tape-type-ii/"
+        "https://www.gizmodo.jp/article/tombow_airpress_review/"
     ]
 }
