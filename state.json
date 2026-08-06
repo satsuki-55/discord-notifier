@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/cy0jyln07r7o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015198001000",
+        "https://news.web.nhk/newsweb/na/na-k10015197981000",
         "https://news.web.nhk/newsweb/na/na-k10015197971000",
         "https://news.web.nhk/newsweb/na/na-k10015197881000",
         "https://news.web.nhk/newsweb/na/na-k10015197901000",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015195531000",
         "https://news.web.nhk/newsweb/na/na-k10015195541000",
         "https://news.web.nhk/newsweb/na/na-k10015195521000",
-        "https://news.web.nhk/newsweb/na/na-k10015195461000",
-        "https://news.web.nhk/newsweb/na/na-k10015195401000",
-        "https://news.web.nhk/newsweb/na/na-k10015195501000"
+        "https://news.web.nhk/newsweb/na/na-k10015195461000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/5-features-you-should-update-ios27/",
