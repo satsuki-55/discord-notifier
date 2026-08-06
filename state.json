@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cgmkxjrrwdvo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015198481000",
         "https://news.web.nhk/newsweb/na/na-k10015198401000",
         "https://news.web.nhk/newsweb/na/na-k10015198461000",
         "https://news.web.nhk/newsweb/na/na-k10015198371000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015196091000",
         "https://news.web.nhk/newsweb/na/na-k10015195941000",
         "https://news.web.nhk/newsweb/na/na-k10015196051000",
-        "https://news.web.nhk/newsweb/na/na-k10015196071000",
-        "https://news.web.nhk/newsweb/na/na-k10015196021000"
+        "https://news.web.nhk/newsweb/na/na-k10015196071000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/muji-silicone-scalp-care-brush/",
