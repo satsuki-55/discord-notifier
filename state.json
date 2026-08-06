@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c4gkpeppjyqo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015198441000",
         "https://news.web.nhk/newsweb/na/na-k10015198431000",
         "https://news.web.nhk/newsweb/na/na-k10015198421000",
         "https://news.web.nhk/newsweb/na/na-k10015198481000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015196141000",
         "https://news.web.nhk/newsweb/na/na-k10015196171000",
         "https://news.web.nhk/newsweb/na/na-k10015196131000",
-        "https://news.web.nhk/newsweb/na/na-k10015196091000",
-        "https://news.web.nhk/newsweb/na/na-k10015195941000"
+        "https://news.web.nhk/newsweb/na/na-k10015196091000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/segmented-sleep/",
