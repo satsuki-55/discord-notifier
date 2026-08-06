@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "glfnUNPeCiU",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "z-htocsMQKQ",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c9987kkrnl5o#1",
         "https://www.bbc.co.uk/news/articles/cj6390k0e26o#1",
         "https://www.bbc.co.uk/news/articles/cvgv864z0rvo#0",
         "https://www.bbc.co.uk/news/articles/c4gv45w4j8eo#0",
@@ -200,8 +201,7 @@
         "https://www.bbc.co.uk/news/articles/c3ek7g857q4o#1",
         "https://www.bbc.co.uk/news/articles/cx25yn22l97o#0",
         "https://www.bbc.co.uk/news/articles/cg5l11m02j3o#0",
-        "https://www.bbc.co.uk/news/articles/c872r52x7jgo#1",
-        "https://www.bbc.co.uk/news/articles/ckgd31l5yrdo#0"
+        "https://www.bbc.co.uk/news/articles/c872r52x7jgo#1"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/na-k10015198241000",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015192831000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/cooler_in_car-vww/",
         "https://www.gizmodo.jp/article/atlantic-lost-city-hydrothermal-vent-mystery/",
         "https://www.gizmodo.jp/article/air-conditioner-daikin-tips-jqt/",
         "https://www.gizmodo.jp/article/google-photo-redact-option/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/stars-like-our-sun-explode-with-superflares-every-100-years-study-suggests-igc/",
         "https://www.gizmodo.jp/article/scientists-created-a-wearable-you-can-paint-directly-onto-your-skin/",
         "https://www.gizmodo.jp/article/shiromasa-elecom-the-mechanical-designers-accelerate-the-peripheral-products/",
-        "https://www.gizmodo.jp/article/ripstop-backpack/",
-        "https://www.gizmodo.jp/article/rinjin_movie_interview/"
+        "https://www.gizmodo.jp/article/ripstop-backpack/"
     ]
 }
