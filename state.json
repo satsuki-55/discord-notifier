@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/cy0jyln07r7o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015197971000",
+        "https://news.web.nhk/newsweb/na/na-k10015197881000",
         "https://news.web.nhk/newsweb/na/na-k10015197901000",
         "https://news.web.nhk/newsweb/na/na-k10015197891000",
         "https://news.web.nhk/newsweb/na/na-k10015197781000",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015195521000",
         "https://news.web.nhk/newsweb/na/na-k10015195461000",
         "https://news.web.nhk/newsweb/na/na-k10015195401000",
-        "https://news.web.nhk/newsweb/na/na-k10015195501000",
-        "https://news.web.nhk/newsweb/na/na-k10015195481000",
-        "https://news.web.nhk/newsweb/na/na-k10015195131000"
+        "https://news.web.nhk/newsweb/na/na-k10015195501000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/smart_rings-lnr/",
