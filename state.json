@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cy0jyln07r7o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015197821000",
         "https://news.web.nhk/newsweb/na/na-k10015197871000",
         "https://news.web.nhk/newsweb/na/na-k10015198011000",
         "https://news.web.nhk/newsweb/na/na-k10015198051000",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/na-k10015195671000",
         "https://news.web.nhk/newsweb/na/na-k10015195661000",
         "https://news.web.nhk/newsweb/na/na-k10015195621000",
-        "https://news.web.nhk/newsweb/na/na-k10015195581000",
-        "https://news.web.nhk/newsweb/na/na-k10015195561000"
+        "https://news.web.nhk/newsweb/na/na-k10015195581000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/sony-may-acquire-tamron/",
         "https://www.gizmodo.jp/article/amazon-airpods-pro-3/",
         "https://www.gizmodo.jp/article/5-features-you-should-update-ios27/",
         "https://www.gizmodo.jp/article/smart_rings-lnr/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/amazon-thermos-cooler-box/",
         "https://www.gizmodo.jp/article/master-dynamic-me05-c7x/",
         "https://www.gizmodo.jp/article/tombow_airpress_review/",
-        "https://www.gizmodo.jp/article/cassette-tape-type-ii/",
-        "https://www.gizmodo.jp/article/2607-warren-buffett-berkshire-hathaway-stock-philanthropy-foundations-death-gates-foundation-xkf/"
+        "https://www.gizmodo.jp/article/cassette-tape-type-ii/"
     ]
 }
