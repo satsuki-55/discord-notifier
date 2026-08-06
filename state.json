@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cy0jyln07r7o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015198041000",
         "https://news.web.nhk/newsweb/na/na-k10015197821000",
         "https://news.web.nhk/newsweb/na/na-k10015197871000",
         "https://news.web.nhk/newsweb/na/na-k10015198011000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015195601000",
         "https://news.web.nhk/newsweb/na/na-k10015195671000",
         "https://news.web.nhk/newsweb/na/na-k10015195661000",
-        "https://news.web.nhk/newsweb/na/na-k10015195621000",
-        "https://news.web.nhk/newsweb/na/na-k10015195581000"
+        "https://news.web.nhk/newsweb/na/na-k10015195621000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/sony-may-acquire-tamron/",
