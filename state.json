@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "iV9O7untaUE",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "z-htocsMQKQ",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cwyl6yz719jo#0",
         "https://www.bbc.co.uk/news/videos/c2el1dz7ge9o#0",
         "https://www.bbc.co.uk/news/articles/c62enveg1dpo#0",
         "https://www.bbc.co.uk/news/articles/cn4n1eyze05o#0",
@@ -200,10 +201,10 @@
         "https://www.bbc.co.uk/news/articles/c20jp3mp7lyo#0",
         "https://www.bbc.co.uk/news/articles/cn0n99npjejo#1",
         "https://www.bbc.co.uk/news/articles/cm2ge4dnj80o#0",
-        "https://www.bbc.co.uk/news/articles/c0m7wvpwjzeo#0",
-        "https://www.bbc.co.uk/news/articles/cly843vd3jmo#0"
+        "https://www.bbc.co.uk/news/articles/c0m7wvpwjzeo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015198581000",
         "https://news.web.nhk/newsweb/na/na-k10015196271000",
         "https://news.web.nhk/newsweb/na/na-k10015198761000",
         "https://news.web.nhk/newsweb/na/na-k10015198751000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015196341000",
         "https://news.web.nhk/newsweb/na/na-k10015196331000",
         "https://news.web.nhk/newsweb/na/na-k10015196291000",
-        "https://news.web.nhk/newsweb/na/na-k10015196251000",
-        "https://news.web.nhk/newsweb/na/na-k10015195921000"
+        "https://news.web.nhk/newsweb/na/na-k10015196251000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/chiikawa-iface-tempered-glass-camera-lens-protector/",
