@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/cd9wk27y05zo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015198181000",
+        "https://news.web.nhk/newsweb/na/na-k10015198161000",
         "https://news.web.nhk/newsweb/na/na-k10015198191000",
         "https://news.web.nhk/newsweb/na/na-k10015198151000",
         "https://news.web.nhk/newsweb/na/na-k10015198111000",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015195821000",
         "https://news.web.nhk/newsweb/na/na-k10015195731000",
         "https://news.web.nhk/newsweb/na/na-k10015195791000",
-        "https://news.web.nhk/newsweb/na/na-k10015195831000",
-        "https://news.web.nhk/newsweb/na/na-k10015195761000",
-        "https://news.web.nhk/newsweb/na/na-k10015195751000"
+        "https://news.web.nhk/newsweb/na/na-k10015195831000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/nature-remo-update/",
