@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cx25yn22l97o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015195871000",
         "https://news.web.nhk/newsweb/na/na-k10015195981000",
         "https://news.web.nhk/newsweb/na/na-k10015198291000",
         "https://news.web.nhk/newsweb/na/na-k10015198301000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015191061000",
         "https://news.web.nhk/newsweb/na/na-k10015195991000",
         "https://news.web.nhk/newsweb/na/na-k10015195951000",
-        "https://news.web.nhk/newsweb/na/na-k10015195851000",
-        "https://news.web.nhk/newsweb/na/na-k10015196001000"
+        "https://news.web.nhk/newsweb/na/na-k10015195851000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/cooler_in_car-vww/",
