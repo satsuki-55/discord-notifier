@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c4gdkl9zn8wo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015198371000",
         "https://news.web.nhk/newsweb/na/na-k10015197841000",
         "https://news.web.nhk/newsweb/na/na-k10015198351000",
         "https://news.web.nhk/newsweb/na/na-k10015198251000",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/na-k10015196071000",
         "https://news.web.nhk/newsweb/na/na-k10015196021000",
         "https://news.web.nhk/newsweb/na/na-k10015196011000",
-        "https://news.web.nhk/newsweb/na/na-k10015195911000",
-        "https://news.web.nhk/newsweb/na/na-k10015195881000"
+        "https://news.web.nhk/newsweb/na/na-k10015195911000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/muji-silicone-scalp-care-brush/",
         "https://www.gizmodo.jp/article/cooler_in_car-vww/",
         "https://www.gizmodo.jp/article/atlantic-lost-city-hydrothermal-vent-mystery/",
         "https://www.gizmodo.jp/article/air-conditioner-daikin-tips-jqt/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/inmo_go3/",
         "https://www.gizmodo.jp/article/stars-like-our-sun-explode-with-superflares-every-100-years-study-suggests-igc/",
         "https://www.gizmodo.jp/article/scientists-created-a-wearable-you-can-paint-directly-onto-your-skin/",
-        "https://www.gizmodo.jp/article/shiromasa-elecom-the-mechanical-designers-accelerate-the-peripheral-products/",
-        "https://www.gizmodo.jp/article/ripstop-backpack/"
+        "https://www.gizmodo.jp/article/shiromasa-elecom-the-mechanical-designers-accelerate-the-peripheral-products/"
     ]
 }
