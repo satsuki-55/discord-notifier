@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/cly5kvdkyjro#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015199701000",
+        "https://news.web.nhk/newsweb/na/na-k10015199621000",
         "https://news.web.nhk/newsweb/na/na-k10015199481000",
         "https://news.web.nhk/newsweb/na/na-k10015199651000",
         "https://news.web.nhk/newsweb/na/na-k10015199381000",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015197181000",
         "https://news.web.nhk/newsweb/na/na-k10015194961000",
         "https://news.web.nhk/newsweb/na/na-k10015197321000",
-        "https://news.web.nhk/newsweb/na/na-k10015197291000",
-        "https://news.web.nhk/newsweb/na/na-k10015197021000",
-        "https://news.web.nhk/newsweb/na/na-k10015197171000"
+        "https://news.web.nhk/newsweb/na/na-k10015197291000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/meta-redesigns-the-data-storage/",
