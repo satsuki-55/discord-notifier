@@ -2,6 +2,8 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "iV9O7untaUE",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "4LwDPTuh7Fc",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c39ep3p0ld1o#0",
+        "https://www.bbc.co.uk/news/videos/c1j1eg31y6no#0",
         "https://www.bbc.co.uk/news/articles/c9q9erpz953o#0",
         "https://www.bbc.co.uk/news/articles/c2lqvwewgp2o#1",
         "https://www.bbc.co.uk/news/articles/c0ejdj22zq9o#1",
@@ -199,11 +201,10 @@
         "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo#1",
         "https://www.bbc.co.uk/news/articles/cj4kqvdggg5o#1",
         "https://www.bbc.co.uk/news/articles/cx2v5kj9zzko#0",
-        "https://www.bbc.co.uk/news/articles/c4gwv9590xeo#0",
-        "https://www.bbc.co.uk/news/articles/c1w1lvn7d9go#1",
-        "https://www.bbc.co.uk/news/articles/cn0n9wpvlwpo#1"
+        "https://www.bbc.co.uk/news/articles/c4gwv9590xeo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015199191000",
         "https://news.web.nhk/newsweb/na/na-k10015192481000",
         "https://news.web.nhk/newsweb/na/na-k10015199111000",
         "https://news.web.nhk/newsweb/na/na-k10015198671000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015196681000",
         "https://news.web.nhk/newsweb/na/na-k10015196701000",
         "https://news.web.nhk/newsweb/na/na-k10015196821000",
-        "https://news.web.nhk/newsweb/na/na-k10015196841000",
-        "https://news.web.nhk/newsweb/na/na-k10015196281000"
+        "https://news.web.nhk/newsweb/na/na-k10015196841000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/kioxia-xl1/",
