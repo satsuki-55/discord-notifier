@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/crl72p33018o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015198941000",
         "https://news.web.nhk/newsweb/na/na-k10015198901000",
         "https://news.web.nhk/newsweb/na/na-k10015198921000",
         "https://news.web.nhk/newsweb/na/na-k10015198881000",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/na-k10015196511000",
         "https://news.web.nhk/newsweb/na/na-k10015196741000",
         "https://news.web.nhk/newsweb/na/na-k10015196471000",
-        "https://news.web.nhk/newsweb/na/na-k10015196451000",
-        "https://news.web.nhk/newsweb/na/na-k10015196461000"
+        "https://news.web.nhk/newsweb/na/na-k10015196451000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/proteca_360g4_suitcase-lec/",
         "https://www.gizmodo.jp/article/nape-pro-preorder-start/",
         "https://www.gizmodo.jp/article/wearable_on_skin_electronics/",
         "https://www.gizmodo.jp/article/hs_straight-to-samsung/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/daiso_rollband_review-adl/",
         "https://www.gizmodo.jp/article/samsung-galaxy-fold8-shortage/",
         "https://www.gizmodo.jp/article/stock_market_crash_warning/",
-        "https://www.gizmodo.jp/article/if-youre-reading-this-youre-probably-an-ai-bot/",
-        "https://www.gizmodo.jp/article/ai-tends-to-develop-new-stereotypes-to-base-hiring-decisions-on-study-says/"
+        "https://www.gizmodo.jp/article/if-youre-reading-this-youre-probably-an-ai-bot/"
     ]
 }
