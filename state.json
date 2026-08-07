@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015196311000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/wearable_on_skin_electronics/",
         "https://www.gizmodo.jp/article/hs_straight-to-samsung/",
         "https://www.gizmodo.jp/article/resume_hacks_targeting_ai/",
         "https://www.gizmodo.jp/article/chiikawa-iface-tempered-glass-camera-lens-protector/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/stock_market_crash_warning/",
         "https://www.gizmodo.jp/article/if-youre-reading-this-youre-probably-an-ai-bot/",
         "https://www.gizmodo.jp/article/ai-tends-to-develop-new-stereotypes-to-base-hiring-decisions-on-study-says/",
-        "https://www.gizmodo.jp/article/cool-item-for-backpack-lyz/",
-        "https://www.gizmodo.jp/article/genspark_second-brain-note/"
+        "https://www.gizmodo.jp/article/cool-item-for-backpack-lyz/"
     ]
 }
