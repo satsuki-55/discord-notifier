@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cn0n9w95n70o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015199471000",
         "https://news.web.nhk/newsweb/na/na-k10015199501000",
         "https://news.web.nhk/newsweb/na/na-k10015199411000",
         "https://news.web.nhk/newsweb/na/na-k10015199421000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015197141000",
         "https://news.web.nhk/newsweb/na/na-k10015196941000",
         "https://news.web.nhk/newsweb/na/na-k10015197151000",
-        "https://news.web.nhk/newsweb/na/na-k10015196861000",
-        "https://news.web.nhk/newsweb/na/na-k10015197111000"
+        "https://news.web.nhk/newsweb/na/na-k10015196861000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/alebana_handle-table_car_review/",
