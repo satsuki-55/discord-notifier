@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cpw9v0rlj5go#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015199421000",
         "https://news.web.nhk/newsweb/na/na-k10015199351000",
         "https://news.web.nhk/newsweb/na/na-k10015199511000",
         "https://news.web.nhk/newsweb/na/na-k10015199001000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015196861000",
         "https://news.web.nhk/newsweb/na/na-k10015197111000",
         "https://news.web.nhk/newsweb/na/na-k10015191911000",
-        "https://news.web.nhk/newsweb/na/na-k10015197011000",
-        "https://news.web.nhk/newsweb/na/na-k10015196871000"
+        "https://news.web.nhk/newsweb/na/na-k10015197011000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/amazon-kindle-15off/",
