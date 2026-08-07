@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cn0n9w95n70o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015199491000",
         "https://news.web.nhk/newsweb/na/na-k10015196941000",
         "https://news.web.nhk/newsweb/na/na-k10015199061000",
         "https://news.web.nhk/newsweb/na/na-k10015199461000",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/na-k10015197231000",
         "https://news.web.nhk/newsweb/na/na-k10015194641000",
         "https://news.web.nhk/newsweb/na/na-k10015197241000",
-        "https://news.web.nhk/newsweb/na/na-k10015196851000",
-        "https://news.web.nhk/newsweb/na/na-k10015196921000"
+        "https://news.web.nhk/newsweb/na/na-k10015196851000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/apple-daisy-recycle-iphone/",
         "https://www.gizmodo.jp/article/5b5d1bfd-50c4-459e-bfef-3039fb2c8915/",
         "https://www.gizmodo.jp/article/how-arm-works-with-orca-echo/",
         "https://www.gizmodo.jp/article/alebana_handle-table_car_review/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/rizermat/",
         "https://www.gizmodo.jp/article/apple-might-finally-actually-for-real-launch-a-smart-home-hub/",
         "https://www.gizmodo.jp/article/inevitably-ads-have-come-to-xbox-game-streaming/",
-        "https://www.gizmodo.jp/article/tourists-watch-in-horror-as-60-orcas-rip-apart-endangered-blue-whale-sws/",
-        "https://www.gizmodo.jp/article/nitori-kitchentowel/"
+        "https://www.gizmodo.jp/article/tourists-watch-in-horror-as-60-orcas-rip-apart-endangered-blue-whale-sws/"
     ]
 }
