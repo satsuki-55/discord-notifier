@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cn0n9w95n70o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015199181000",
         "https://news.web.nhk/newsweb/na/na-k10015199491000",
         "https://news.web.nhk/newsweb/na/na-k10015196941000",
         "https://news.web.nhk/newsweb/na/na-k10015199061000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015197261000",
         "https://news.web.nhk/newsweb/na/na-k10015197231000",
         "https://news.web.nhk/newsweb/na/na-k10015194641000",
-        "https://news.web.nhk/newsweb/na/na-k10015197241000",
-        "https://news.web.nhk/newsweb/na/na-k10015196851000"
+        "https://news.web.nhk/newsweb/na/na-k10015197241000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/apple-daisy-recycle-iphone/",
