@@ -1,6 +1,6 @@
 {
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "hVNib1j7uYM",
-    "youtube:UCjJmYy279ehSYSwR1A3fXtA": "KUGUObOIKdQ",
+    "youtube:UCjJmYy279ehSYSwR1A3fXtA": "c76uWXbg5Ag",
     "rss:bbc": [
         "https://www.bbc.co.uk/news/articles/cy4kx9zkd90o#0",
         "https://www.bbc.co.uk/news/articles/ckgdmrxxkdxo#1",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015197011000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/alebana_handle-table_car_review/",
         "https://www.gizmodo.jp/article/amazon-kindle-15off/",
         "https://www.gizmodo.jp/article/switch-2-key-card-rwl/",
         "https://www.gizmodo.jp/article/orca-echo-g6-he-ultralight-event-1/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/tourists-watch-in-horror-as-60-orcas-rip-apart-endangered-blue-whale-sws/",
         "https://www.gizmodo.jp/article/nitori-kitchentowel/",
         "https://www.gizmodo.jp/article/c09f5316-9fc5-47b4-8670-8fdd2c4d2dfa/",
-        "https://www.gizmodo.jp/article/this-startup-wants-to-use-space-mirrors-to-light-up-earth-at-night-feds-said-go-ahead/",
-        "https://www.gizmodo.jp/article/barefoo-ez2/"
+        "https://www.gizmodo.jp/article/this-startup-wants-to-use-space-mirrors-to-light-up-earth-at-night-feds-said-go-ahead/"
     ]
 }
