@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c0qvp2nkxd9o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015199071000",
         "https://news.web.nhk/newsweb/na/na-k10015199051000",
         "https://news.web.nhk/newsweb/na/na-k10015196601000",
         "https://news.web.nhk/newsweb/na/na-k10015196431000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015196101000",
         "https://news.web.nhk/newsweb/na/na-k10015196631000",
         "https://news.web.nhk/newsweb/na/na-k10015196481000",
-        "https://news.web.nhk/newsweb/na/na-k10015196611000",
-        "https://news.web.nhk/newsweb/na/na-k10015196651000"
+        "https://news.web.nhk/newsweb/na/na-k10015196611000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/google-deepmind-boss-demis-hassabis-steps-down-from-ceo-role/",
