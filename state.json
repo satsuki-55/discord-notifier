@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "iV9O7untaUE",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "KUGUObOIKdQ",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/videos/cvg01dy7yn9o#0",
         "https://www.bbc.co.uk/news/articles/c39ep3p0ld1o#0",
         "https://www.bbc.co.uk/news/videos/c1j1eg31y6no#0",
         "https://www.bbc.co.uk/news/articles/c9q9erpz953o#0",
@@ -200,8 +201,7 @@
         "https://www.bbc.co.uk/news/articles/ckgdmv7elg8o#0",
         "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo#1",
         "https://www.bbc.co.uk/news/articles/cj4kqvdggg5o#1",
-        "https://www.bbc.co.uk/news/articles/cx2v5kj9zzko#0",
-        "https://www.bbc.co.uk/news/articles/c4gwv9590xeo#0"
+        "https://www.bbc.co.uk/news/articles/cx2v5kj9zzko#0"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/na-k10015199221000",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015196821000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/the-next-xbox-could-be-every-xbox-ever-rolled-into-one/",
         "https://www.gizmodo.jp/article/kioxia-xl1/",
         "https://www.gizmodo.jp/article/2605-how-copilot-new-microsoft-tools-work-tgs/",
         "https://www.gizmodo.jp/article/razr-2026-swarovski-edition/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/uchiko-hachisu/",
         "https://www.gizmodo.jp/article/4ca742a2-2b32-46e7-9d33-9a178081302e/",
         "https://www.gizmodo.jp/article/mart-glasses-are-the-one-privacy-nightmare-apple-cant-solve/",
-        "https://www.gizmodo.jp/article/analog-watch-casio/",
-        "https://www.gizmodo.jp/article/orcas-eats-rhincodon-typus-ltw/"
+        "https://www.gizmodo.jp/article/analog-watch-casio/"
     ]
 }
