@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c4gwv9590xeo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015199221000",
         "https://news.web.nhk/newsweb/na/na-k10015199191000",
         "https://news.web.nhk/newsweb/na/na-k10015192481000",
         "https://news.web.nhk/newsweb/na/na-k10015199111000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015196891000",
         "https://news.web.nhk/newsweb/na/na-k10015196681000",
         "https://news.web.nhk/newsweb/na/na-k10015196701000",
-        "https://news.web.nhk/newsweb/na/na-k10015196821000",
-        "https://news.web.nhk/newsweb/na/na-k10015196841000"
+        "https://news.web.nhk/newsweb/na/na-k10015196821000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/kioxia-xl1/",
