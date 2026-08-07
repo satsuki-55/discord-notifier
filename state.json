@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015197291000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/60542bb0-a26c-4791-8176-0dc62ece8996/",
         "https://www.gizmodo.jp/article/meta-redesigns-the-data-storage/",
         "https://www.gizmodo.jp/article/wasabi_tooth_regeneration/",
         "https://www.gizmodo.jp/article/americans-just-crossed-a-tipping-point-on-school-cellphone-bans/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/bose_quietcomfort-ultra-headphones/",
         "https://www.gizmodo.jp/article/faq-for-splitkeyboards/",
         "https://www.gizmodo.jp/article/smart-glasses-are-landing-people-with-criminal-charges-now/",
-        "https://www.gizmodo.jp/article/kimi_k3_local/",
-        "https://www.gizmodo.jp/article/rizermat/"
+        "https://www.gizmodo.jp/article/kimi_k3_local/"
     ]
 }
