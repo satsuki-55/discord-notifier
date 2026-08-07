@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "iV9O7untaUE",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "z-htocsMQKQ",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cvg0rg9wmvlo#1",
         "https://www.bbc.co.uk/news/articles/cwymv212xrxo#1",
         "https://www.bbc.co.uk/news/articles/cnvney840l9o#0",
         "https://www.bbc.co.uk/news/articles/c1w1lvn7d9go#0",
@@ -200,10 +201,10 @@
         "https://www.bbc.co.uk/news/articles/cr7km34z112o#1",
         "https://www.bbc.co.uk/news/articles/c0kmd4xpr46o#0",
         "https://www.bbc.co.uk/news/articles/c151pkww79zo#1",
-        "https://www.bbc.co.uk/news/articles/cjejyl34345o#1",
-        "https://www.bbc.co.uk/news/articles/c1l1q6167d3o#0"
+        "https://www.bbc.co.uk/news/articles/cjejyl34345o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015198801000",
         "https://news.web.nhk/newsweb/na/na-k10015198781000",
         "https://news.web.nhk/newsweb/na/na-k10015198791000",
         "https://news.web.nhk/newsweb/na/na-k10015198771000",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/na-k10015196301000",
         "https://news.web.nhk/newsweb/na/na-k10015195961000",
         "https://news.web.nhk/newsweb/na/na-k10015196321000",
-        "https://news.web.nhk/newsweb/na/na-k10015196311000",
-        "https://news.web.nhk/newsweb/na/na-k10015196341000"
+        "https://news.web.nhk/newsweb/na/na-k10015196311000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/hs_straight-to-samsung/",
         "https://www.gizmodo.jp/article/resume_hacks_targeting_ai/",
         "https://www.gizmodo.jp/article/chiikawa-iface-tempered-glass-camera-lens-protector/",
         "https://www.gizmodo.jp/article/307005-mfd/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/if-youre-reading-this-youre-probably-an-ai-bot/",
         "https://www.gizmodo.jp/article/ai-tends-to-develop-new-stereotypes-to-base-hiring-decisions-on-study-says/",
         "https://www.gizmodo.jp/article/cool-item-for-backpack-lyz/",
-        "https://www.gizmodo.jp/article/genspark_second-brain-note/",
-        "https://www.gizmodo.jp/article/iphone-air-sale/"
+        "https://www.gizmodo.jp/article/genspark_second-brain-note/"
     ]
 }
