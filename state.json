@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015196601000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/iphone-keyboard-alphabet-numbers/",
         "https://www.gizmodo.jp/article/proteca_360g4_suitcase-lec/",
         "https://www.gizmodo.jp/article/nape-pro-preorder-start/",
         "https://www.gizmodo.jp/article/wearable_on_skin_electronics/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/ligar-review/",
         "https://www.gizmodo.jp/article/daiso_rollband_review-adl/",
         "https://www.gizmodo.jp/article/samsung-galaxy-fold8-shortage/",
-        "https://www.gizmodo.jp/article/stock_market_crash_warning/",
-        "https://www.gizmodo.jp/article/if-youre-reading-this-youre-probably-an-ai-bot/"
+        "https://www.gizmodo.jp/article/stock_market_crash_warning/"
     ]
 }
