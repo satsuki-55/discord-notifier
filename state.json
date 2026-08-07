@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/sport/football/articles/clyq3el5gkqo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015199821000",
+        "https://news.web.nhk/newsweb/na/na-k10015199731000",
         "https://news.web.nhk/newsweb/na/na-k10015199851000",
         "https://news.web.nhk/newsweb/na/na-k10015199761000",
         "https://news.web.nhk/newsweb/na/na-k10015199901000",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015197681000",
         "https://news.web.nhk/newsweb/na/na-k10015197541000",
         "https://news.web.nhk/newsweb/na/na-k10015196501000",
-        "https://news.web.nhk/newsweb/na/na-k10015197471000",
-        "https://news.web.nhk/newsweb/na/na-k10015197671000",
-        "https://news.web.nhk/newsweb/na/na-k10015197661000"
+        "https://news.web.nhk/newsweb/na/na-k10015197471000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/tiny-reel-eii/",
