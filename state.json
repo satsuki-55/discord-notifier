@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/ckgdmv7elg8o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015199251000",
         "https://news.web.nhk/newsweb/na/na-k10015199291000",
         "https://news.web.nhk/newsweb/na/na-k10015199231000",
         "https://news.web.nhk/newsweb/na/na-k10015199271000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015196991000",
         "https://news.web.nhk/newsweb/na/na-k10015197001000",
         "https://news.web.nhk/newsweb/na/na-k10015191781000",
-        "https://news.web.nhk/newsweb/na/na-k10015196901000",
-        "https://news.web.nhk/newsweb/na/na-k10015196881000"
+        "https://news.web.nhk/newsweb/na/na-k10015196901000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/orca-echo-g6-he-ultralight-event-1/",
