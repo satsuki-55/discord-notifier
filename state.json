@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "iV9O7untaUE",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "KUGUObOIKdQ",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cp30989ee1wo#1",
         "https://www.bbc.co.uk/news/articles/cr7kldz4djno#1",
         "https://www.bbc.co.uk/news/articles/cdew6jxjw3do#1",
         "https://www.bbc.co.uk/news/articles/c62vzv2xyq9o#0",
@@ -200,8 +201,7 @@
         "https://www.bbc.co.uk/news/articles/cx2kg709qd9o#0",
         "https://www.bbc.co.uk/news/articles/c20jp3mp7lyo#1",
         "https://www.bbc.co.uk/sport/football/articles/c62vd95ljp0o#0",
-        "https://www.bbc.co.uk/news/articles/c0jlzqe9z9vo#0",
-        "https://www.bbc.co.uk/news/articles/ckgdmv7elg8o#0"
+        "https://www.bbc.co.uk/news/articles/c0jlzqe9z9vo#0"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/na-k10015199281000",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015197031000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/switch-2-key-card-rwl/",
         "https://www.gizmodo.jp/article/orca-echo-g6-he-ultralight-event-1/",
         "https://www.gizmodo.jp/article/king-of-ink-land-king-body-art-the-extreme-ink-ite-jbv/",
         "https://www.gizmodo.jp/article/the-next-xbox-could-be-every-xbox-ever-rolled-into-one/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/c09f5316-9fc5-47b4-8670-8fdd2c4d2dfa/",
         "https://www.gizmodo.jp/article/this-startup-wants-to-use-space-mirrors-to-light-up-earth-at-night-feds-said-go-ahead/",
         "https://www.gizmodo.jp/article/barefoo-ez2/",
-        "https://www.gizmodo.jp/article/uchiko-hachisu/",
-        "https://www.gizmodo.jp/article/4ca742a2-2b32-46e7-9d33-9a178081302e/"
+        "https://www.gizmodo.jp/article/uchiko-hachisu/"
     ]
 }
