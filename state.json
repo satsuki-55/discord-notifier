@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/cn0n9wpvlwpo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015199151000",
+        "https://news.web.nhk/newsweb/na/na-k10015199081000",
         "https://news.web.nhk/newsweb/na/na-k10015199091000",
         "https://news.web.nhk/newsweb/na/na-k10015199131000",
         "https://news.web.nhk/newsweb/na/na-k10015198931000",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015196831000",
         "https://news.web.nhk/newsweb/na/na-k10015196811000",
         "https://news.web.nhk/newsweb/na/na-k10015196801000",
-        "https://news.web.nhk/newsweb/na/na-k10015196791000",
-        "https://news.web.nhk/newsweb/na/na-k10015196351000",
-        "https://news.web.nhk/newsweb/na/na-k10015196441000"
+        "https://news.web.nhk/newsweb/na/na-k10015196791000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/razr-2026-swarovski-edition/",
