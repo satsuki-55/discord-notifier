@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c0jlzqe9z9vo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015199331000",
         "https://news.web.nhk/newsweb/na/na-k10015199281000",
         "https://news.web.nhk/newsweb/na/na-k10015199401000",
         "https://news.web.nhk/newsweb/na/na-k10015199241000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015196931000",
         "https://news.web.nhk/newsweb/na/na-k10015197061000",
         "https://news.web.nhk/newsweb/na/na-k10015197041000",
-        "https://news.web.nhk/newsweb/na/na-k10015196961000",
-        "https://news.web.nhk/newsweb/na/na-k10015197031000"
+        "https://news.web.nhk/newsweb/na/na-k10015196961000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/switch-2-key-card-rwl/",
