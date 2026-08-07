@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/crl72p33018o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015198901000",
+        "https://news.web.nhk/newsweb/na/na-k10015198921000",
         "https://news.web.nhk/newsweb/na/na-k10015198881000",
         "https://news.web.nhk/newsweb/na/na-k10015198841000",
         "https://news.web.nhk/newsweb/na/na-k10015198871000",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015196741000",
         "https://news.web.nhk/newsweb/na/na-k10015196471000",
         "https://news.web.nhk/newsweb/na/na-k10015196451000",
-        "https://news.web.nhk/newsweb/na/na-k10015196461000",
-        "https://news.web.nhk/newsweb/na/na-k10015196211000",
-        "https://news.web.nhk/newsweb/na/na-k10015196381000"
+        "https://news.web.nhk/newsweb/na/na-k10015196461000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/nape-pro-preorder-start/",
