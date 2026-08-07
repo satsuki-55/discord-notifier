@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/crl72p33018o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015199011000",
+        "https://news.web.nhk/newsweb/na/na-k10015198971000",
         "https://news.web.nhk/newsweb/na/na-k10015196451000",
         "https://news.web.nhk/newsweb/na/na-k10015198861000",
         "https://news.web.nhk/newsweb/na/na-k10015198951000",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015196771000",
         "https://news.web.nhk/newsweb/na/na-k10015196431000",
         "https://news.web.nhk/newsweb/na/na-k10015196601000",
-        "https://news.web.nhk/newsweb/na/na-k10015196421000",
-        "https://news.web.nhk/newsweb/na/na-k10015196761000",
-        "https://news.web.nhk/newsweb/na/na-k10015196511000"
+        "https://news.web.nhk/newsweb/na/na-k10015196421000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/proteca_360g4_suitcase-lec/",
