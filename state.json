@@ -2,6 +2,8 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "hVNib1j7uYM",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "c76uWXbg5Ag",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cx2dj82v1rko#0",
+        "https://www.bbc.co.uk/news/articles/cz05xn35xj7o#1",
         "https://www.bbc.co.uk/news/articles/cvgj846q2veo#0",
         "https://www.bbc.co.uk/news/articles/cx2dj82v1rko#1",
         "https://www.bbc.co.uk/news/articles/c89n8j5e32do#1",
@@ -199,11 +201,10 @@
         "https://www.bbc.co.uk/news/articles/cn4ndd8nr8lo#0",
         "https://www.bbc.co.uk/news/articles/cx2kgdnyk2po#1",
         "https://www.bbc.co.uk/news/articles/c998711dyjvo#1",
-        "https://www.bbc.co.uk/news/articles/c3w07p7wqv1o#0",
-        "https://www.bbc.co.uk/news/articles/cj639rx147eo#0",
-        "https://www.bbc.co.uk/news/articles/cx2kgdnyk2po#0"
+        "https://www.bbc.co.uk/news/articles/c3w07p7wqv1o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015192491000",
         "https://news.web.nhk/newsweb/na/na-k10015200231000",
         "https://news.web.nhk/newsweb/na/na-k10015200221000",
         "https://news.web.nhk/newsweb/na/na-k10015200211000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015197971000",
         "https://news.web.nhk/newsweb/na/na-k10015197881000",
         "https://news.web.nhk/newsweb/na/na-k10015197901000",
-        "https://news.web.nhk/newsweb/na/na-k10015197891000",
-        "https://news.web.nhk/newsweb/na/na-k10015197781000"
+        "https://news.web.nhk/newsweb/na/na-k10015197891000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/drive-faster-than-the-speed-limit-youll-want-to-read-this/",
