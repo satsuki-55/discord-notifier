@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c3w07p7wqv1o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015200241000",
         "https://news.web.nhk/newsweb/na/na-k10015192491000",
         "https://news.web.nhk/newsweb/na/na-k10015200231000",
         "https://news.web.nhk/newsweb/na/na-k10015200221000",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/na-k10015197981000",
         "https://news.web.nhk/newsweb/na/na-k10015197971000",
         "https://news.web.nhk/newsweb/na/na-k10015197881000",
-        "https://news.web.nhk/newsweb/na/na-k10015197901000",
-        "https://news.web.nhk/newsweb/na/na-k10015197891000"
+        "https://news.web.nhk/newsweb/na/na-k10015197901000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/switchbot-automatic-air-conditioning-1/",
         "https://www.gizmodo.jp/article/drive-faster-than-the-speed-limit-youll-want-to-read-this/",
         "https://www.gizmodo.jp/article/f02fe1f1-7fc8-4b98-86e3-2ef2dab817be/",
         "https://www.gizmodo.jp/article/teenage-engineering-sale/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/karrimor_all_weathe_umbrella-xhp-isv/",
         "https://www.gizmodo.jp/article/peek-a-book/",
         "https://www.gizmodo.jp/article/balmuda-clock-sleep/",
-        "https://www.gizmodo.jp/article/6456bce6-8609-469e-98ca-d31e95a65337/",
-        "https://www.gizmodo.jp/article/claude_prompt_reflection/"
+        "https://www.gizmodo.jp/article/6456bce6-8609-469e-98ca-d31e95a65337/"
     ]
 }
