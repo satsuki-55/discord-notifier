@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/c4gwv9590xeo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015195291000",
+        "https://news.web.nhk/newsweb/na/na-k10015199991000",
         "https://news.web.nhk/newsweb/na/na-k10015200011000",
         "https://news.web.nhk/newsweb/na/na-k10015199941000",
         "https://news.web.nhk/newsweb/na/na-k10015199951000",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015197631000",
         "https://news.web.nhk/newsweb/na/na-k10015197601000",
         "https://news.web.nhk/newsweb/na/na-k10015197711000",
-        "https://news.web.nhk/newsweb/na/na-k10015197521000",
-        "https://news.web.nhk/newsweb/na/na-k10015197441000",
-        "https://news.web.nhk/newsweb/na/na-k10015195291000"
+        "https://news.web.nhk/newsweb/na/na-k10015197521000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/aqua_storm_smg_water_blaster/",
