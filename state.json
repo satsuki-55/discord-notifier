@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015197711000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/orca-echo-technical-terms/",
         "https://www.gizmodo.jp/article/aqua_storm_smg_water_blaster/",
         "https://www.gizmodo.jp/article/mont-bell-stuff-bag-2o4/",
         "https://www.gizmodo.jp/article/amazon-sanwa-supply-power-strip/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/claude_prompt_reflection/",
         "https://www.gizmodo.jp/article/a-missing-black-hole-was-found-hiding-in-a-giant-star-cluster-astronomers-think-there-could-be-thousands-more/",
         "https://www.gizmodo.jp/article/stainless-steel-rack/",
-        "https://www.gizmodo.jp/article/balloon-dog-speaker-lamp/",
-        "https://www.gizmodo.jp/article/aimdesk-pro-5-re-2/"
+        "https://www.gizmodo.jp/article/balloon-dog-speaker-lamp/"
     ]
 }
