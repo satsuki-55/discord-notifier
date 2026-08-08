@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015197981000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/packing_suitcase_matome/",
         "https://www.gizmodo.jp/article/thermos-jpb-series-l4j/",
         "https://www.gizmodo.jp/article/samsung-new-watch/",
         "https://www.gizmodo.jp/article/switchbot-automatic-air-conditioning-1/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/smart-glasses-now-have-privacy-kits-to-protect-you-from-getting-punched-in-the-face/",
         "https://www.gizmodo.jp/article/306495-zcr/",
         "https://www.gizmodo.jp/article/mondo-robotics-beni-2607/",
-        "https://www.gizmodo.jp/article/karrimor_all_weathe_umbrella-xhp-isv/",
-        "https://www.gizmodo.jp/article/peek-a-book/"
+        "https://www.gizmodo.jp/article/karrimor_all_weathe_umbrella-xhp-isv/"
     ]
 }
