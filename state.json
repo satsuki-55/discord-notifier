@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "4pIFwczPfuw",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "c76uWXbg5Ag",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o#1",
         "https://www.bbc.co.uk/news/articles/cvglp2zlvrlo#1",
         "https://www.bbc.co.uk/news/articles/cdx8jxqxyw0o#0",
         "https://www.bbc.co.uk/news/articles/cewr8wel4z8o#0",
@@ -200,10 +201,15 @@
         "https://www.bbc.co.uk/news/articles/cn4ndd8nr8lo#1",
         "https://www.bbc.co.uk/news/articles/cd9wk27y05zo#0",
         "https://www.bbc.co.uk/sport/football/articles/clyq3el5gkqo#1",
-        "https://www.bbc.co.uk/news/articles/cy8ev4y172yo#0",
-        "https://www.bbc.co.uk/news/articles/cx2v551w9v8o#0"
+        "https://www.bbc.co.uk/news/articles/cy8ev4y172yo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015198081000",
+        "https://news.web.nhk/newsweb/na/nd-20260808de42871",
+        "https://news.web.nhk/newsweb/na/nd-20260808de42872",
+        "https://news.web.nhk/newsweb/na/nd-20260808de42867",
+        "https://news.web.nhk/newsweb/na/nd-20260808de42866",
+        "https://news.web.nhk/newsweb/na/nd-20260808de42862",
         "https://news.web.nhk/newsweb/na/nd-20260809de42879",
         "https://news.web.nhk/newsweb/na/nd-20260808de42863",
         "https://news.web.nhk/newsweb/na/nd-20260808de42868",
@@ -397,13 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015198191000",
         "https://news.web.nhk/newsweb/na/na-k10015198151000",
         "https://news.web.nhk/newsweb/na/na-k10015198111000",
-        "https://news.web.nhk/newsweb/na/na-k10015198171000",
-        "https://news.web.nhk/newsweb/na/na-k10015195701000",
-        "https://news.web.nhk/newsweb/na/na-k10015192471000",
-        "https://news.web.nhk/newsweb/na/na-k10015198131000",
-        "https://news.web.nhk/newsweb/na/na-k10015198121000",
-        "https://news.web.nhk/newsweb/na/na-k10015198101000",
-        "https://news.web.nhk/newsweb/na/na-k10015198081000"
+        "https://news.web.nhk/newsweb/na/na-k10015198171000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/shein_ad_ai_image/",
