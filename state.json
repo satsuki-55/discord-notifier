@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cwyewn5wexvo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015175391000",
         "https://news.web.nhk/newsweb/na/na-k10015200101000",
         "https://news.web.nhk/newsweb/na/na-k10015200091000",
         "https://news.web.nhk/newsweb/na/na-k10015200031000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015195511000",
         "https://news.web.nhk/newsweb/na/na-k10015197611000",
         "https://news.web.nhk/newsweb/na/na-k10015197591000",
-        "https://news.web.nhk/newsweb/na/na-k10015195441000",
-        "https://news.web.nhk/newsweb/na/na-k10015197631000"
+        "https://news.web.nhk/newsweb/na/na-k10015195441000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/teenage-engineering-sale/",
