@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/cvgj92gvmd0o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015200361000",
+        "https://news.web.nhk/newsweb/na/na-k10015200281000",
         "https://news.web.nhk/newsweb/na/na-k10015200311000",
         "https://news.web.nhk/newsweb/na/na-k10015200331000",
         "https://news.web.nhk/newsweb/na/na-k10015200121000",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015198081000",
         "https://news.web.nhk/newsweb/na/na-k10015198031000",
         "https://news.web.nhk/newsweb/na/na-k10015197951000",
-        "https://news.web.nhk/newsweb/na/na-k10015198071000",
-        "https://news.web.nhk/newsweb/na/na-k10015198091000",
-        "https://news.web.nhk/newsweb/na/na-k10015198041000"
+        "https://news.web.nhk/newsweb/na/na-k10015198071000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/insta360-luna-ultra-review-this-is-the-only-gimbal-camera-you-need/",
