@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c998711dyjvo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015200061000",
         "https://news.web.nhk/newsweb/na/na-k10015200251000",
         "https://news.web.nhk/newsweb/na/na-k10015200241000",
         "https://news.web.nhk/newsweb/na/na-k10015192491000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015197961000",
         "https://news.web.nhk/newsweb/na/na-k10015198001000",
         "https://news.web.nhk/newsweb/na/na-k10015197981000",
-        "https://news.web.nhk/newsweb/na/na-k10015197971000",
-        "https://news.web.nhk/newsweb/na/na-k10015197881000"
+        "https://news.web.nhk/newsweb/na/na-k10015197971000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/thermos-jpb-series-l4j/",
