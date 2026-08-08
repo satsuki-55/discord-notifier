@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c8dnrpmgv4yo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015200201000",
         "https://news.web.nhk/newsweb/na/na-k10015200151000",
         "https://news.web.nhk/newsweb/na/na-k10015200171000",
         "https://news.web.nhk/newsweb/na/na-k10015200141000",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/na-k10015197781000",
         "https://news.web.nhk/newsweb/na/na-k10015197811000",
         "https://news.web.nhk/newsweb/na/na-k10015197741000",
-        "https://news.web.nhk/newsweb/na/na-k10015197721000",
-        "https://news.web.nhk/newsweb/na/na-k10015195511000"
+        "https://news.web.nhk/newsweb/na/na-k10015197721000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/drive-faster-than-the-speed-limit-youll-want-to-read-this/",
         "https://www.gizmodo.jp/article/f02fe1f1-7fc8-4b98-86e3-2ef2dab817be/",
         "https://www.gizmodo.jp/article/teenage-engineering-sale/",
         "https://www.gizmodo.jp/article/orca-echo-technical-terms/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/peek-a-book/",
         "https://www.gizmodo.jp/article/balmuda-clock-sleep/",
         "https://www.gizmodo.jp/article/6456bce6-8609-469e-98ca-d31e95a65337/",
-        "https://www.gizmodo.jp/article/claude_prompt_reflection/",
-        "https://www.gizmodo.jp/article/a-missing-black-hole-was-found-hiding-in-a-giant-star-cluster-astronomers-think-there-could-be-thousands-more/"
+        "https://www.gizmodo.jp/article/claude_prompt_reflection/"
     ]
 }
