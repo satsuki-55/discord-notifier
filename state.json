@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "hVNib1j7uYM",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "c76uWXbg5Ag",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/clylejzkkx4o#1",
         "https://www.bbc.co.uk/news/articles/cx2dj82v1rko#0",
         "https://www.bbc.co.uk/news/articles/cz05xn35xj7o#1",
         "https://www.bbc.co.uk/news/articles/cvgj846q2veo#0",
@@ -200,8 +201,7 @@
         "https://www.bbc.co.uk/news/articles/c4gwvvw9k1xo#0",
         "https://www.bbc.co.uk/news/articles/cn4ndd8nr8lo#0",
         "https://www.bbc.co.uk/news/articles/cx2kgdnyk2po#1",
-        "https://www.bbc.co.uk/news/articles/c998711dyjvo#1",
-        "https://www.bbc.co.uk/news/articles/c3w07p7wqv1o#0"
+        "https://www.bbc.co.uk/news/articles/c998711dyjvo#1"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/na-k10015200241000",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015197901000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/samsung-new-watch/",
         "https://www.gizmodo.jp/article/switchbot-automatic-air-conditioning-1/",
         "https://www.gizmodo.jp/article/drive-faster-than-the-speed-limit-youll-want-to-read-this/",
         "https://www.gizmodo.jp/article/f02fe1f1-7fc8-4b98-86e3-2ef2dab817be/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/mondo-robotics-beni-2607/",
         "https://www.gizmodo.jp/article/karrimor_all_weathe_umbrella-xhp-isv/",
         "https://www.gizmodo.jp/article/peek-a-book/",
-        "https://www.gizmodo.jp/article/balmuda-clock-sleep/",
-        "https://www.gizmodo.jp/article/6456bce6-8609-469e-98ca-d31e95a65337/"
+        "https://www.gizmodo.jp/article/balmuda-clock-sleep/"
     ]
 }
