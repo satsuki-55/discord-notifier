@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/cn4ndd8nr8lo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015199681000",
+        "https://news.web.nhk/newsweb/na/na-k10015200321000",
         "https://news.web.nhk/newsweb/na/na-k10015197961000",
         "https://news.web.nhk/newsweb/na/na-k10015200271000",
         "https://news.web.nhk/newsweb/na/na-k10015197981000",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015197821000",
         "https://news.web.nhk/newsweb/na/na-k10015197871000",
         "https://news.web.nhk/newsweb/na/na-k10015198011000",
-        "https://news.web.nhk/newsweb/na/na-k10015198051000",
-        "https://news.web.nhk/newsweb/na/na-k10015197831000",
-        "https://news.web.nhk/newsweb/na/na-k10015197861000"
+        "https://news.web.nhk/newsweb/na/na-k10015198051000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/mujirushiryouhin_baginbag_drivers_license_holder/",
