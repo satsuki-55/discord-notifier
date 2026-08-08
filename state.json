@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c4gwv9590xeo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/na-k10015199981000",
         "https://news.web.nhk/newsweb/na/na-k10015195201000",
         "https://news.web.nhk/newsweb/na/na-k10015199861000",
         "https://news.web.nhk/newsweb/na/na-k10015197641000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015195291000",
         "https://news.web.nhk/newsweb/na/na-k10015197701000",
         "https://news.web.nhk/newsweb/na/na-k10015197691000",
-        "https://news.web.nhk/newsweb/na/na-k10015197581000",
-        "https://news.web.nhk/newsweb/na/na-k10015197561000"
+        "https://news.web.nhk/newsweb/na/na-k10015197581000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/einou_energy_solar/",
