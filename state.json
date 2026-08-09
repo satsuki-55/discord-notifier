@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "TkAnMtwGkfc",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "INsLkQ_hw08",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c20d89jxpqno#0",
         "https://www.bbc.co.uk/news/articles/czrjkm68xlno#0",
         "https://www.bbc.co.uk/news/videos/cly5zpx0ypdo#0",
         "https://www.bbc.co.uk/news/articles/cy8mgpl27dpo#0",
@@ -200,8 +201,7 @@
         "https://www.bbc.co.uk/news/articles/c0rd9y99grzo#0",
         "https://www.bbc.co.uk/news/articles/c74g1gxvwlvo#0",
         "https://www.bbc.co.uk/news/videos/cn4ndp12epro#0",
-        "https://www.bbc.co.uk/news/articles/ckgdmdr0lmgo#1",
-        "https://www.bbc.co.uk/news/videos/c1e145p5xw5o#0"
+        "https://www.bbc.co.uk/news/articles/ckgdmdr0lmgo#1"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20260809de43010",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015198811000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/87e8a034-ca41-4b91-b41e-a0e1c01b6f3e/",
         "https://www.gizmodo.jp/article/nothingphone/",
         "https://www.gizmodo.jp/article/knirps_t220rs_uv_umbrella/",
         "https://www.gizmodo.jp/article/mujirushiryouhin_wireless-mobile-speaker/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/the-ceos-are-no-longer-publicly-threatening-to-replace-humans-with-a-mhz/",
         "https://www.gizmodo.jp/article/valves-steam-hardware-isnt-selling-too-hot-does-it-matter/",
         "https://www.gizmodo.jp/article/magsafe_lifehack_tool_mini_pc/",
-        "https://www.gizmodo.jp/article/orca-echo-15off-1/",
-        "https://www.gizmodo.jp/article/gizmodo-20-years-tech-science-first-mention-history/"
+        "https://www.gizmodo.jp/article/orca-echo-15off-1/"
     ]
 }
