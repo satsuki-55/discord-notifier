@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/ckg9dwz8p30o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260809de42954",
         "https://news.web.nhk/newsweb/na/nd-20260809de42980",
         "https://news.web.nhk/newsweb/na/nd-20260809de43001",
         "https://news.web.nhk/newsweb/na/nd-20260809de43002",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015198621000",
         "https://news.web.nhk/newsweb/na/na-k10015198611000",
         "https://news.web.nhk/newsweb/na/na-k10015198631000",
-        "https://news.web.nhk/newsweb/na/na-k10015198471000",
-        "https://news.web.nhk/newsweb/na/na-k10015198451000"
+        "https://news.web.nhk/newsweb/na/na-k10015198471000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/mujirushiryouhin_wireless-mobile-speaker/",
