@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015198351000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/mont-bell_round-trekking-bell-silencer/",
         "https://www.gizmodo.jp/article/a7ce2728-1a9d-46c9-bcc6-02d6f9d60680/",
         "https://www.gizmodo.jp/article/windows-11-fix/",
         "https://www.gizmodo.jp/article/montbell-cool-arm-covers-bih/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/release_paper_peeling_less/",
         "https://www.gizmodo.jp/article/20-years-of-gizmodojp-kanamoto/",
         "https://www.gizmodo.jp/article/new-data-shows-ev-batteries-are-lasting-longer-than-initially-expected/",
-        "https://www.gizmodo.jp/article/this-is-how-gizmodo-started/",
-        "https://www.gizmodo.jp/article/gizmodo-20th/"
+        "https://www.gizmodo.jp/article/this-is-how-gizmodo-started/"
     ]
 }
