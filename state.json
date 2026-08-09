@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c8jnwennnkdo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260809de42950",
         "https://news.web.nhk/newsweb/na/nd-20260809de42962",
         "https://news.web.nhk/newsweb/na/nd-20260809de42956",
         "https://news.web.nhk/newsweb/na/nd-20260809de42964",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/na-k10015198371000",
         "https://news.web.nhk/newsweb/na/na-k10015197841000",
         "https://news.web.nhk/newsweb/na/na-k10015198351000",
-        "https://news.web.nhk/newsweb/na/na-k10015198251000",
-        "https://news.web.nhk/newsweb/na/na-k10015198341000"
+        "https://news.web.nhk/newsweb/na/na-k10015198251000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/a7ce2728-1a9d-46c9-bcc6-02d6f9d60680/",
         "https://www.gizmodo.jp/article/windows-11-fix/",
         "https://www.gizmodo.jp/article/montbell-cool-arm-covers-bih/",
         "https://www.gizmodo.jp/article/viture_pro-2/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/20-years-of-gizmodojp-kanamoto/",
         "https://www.gizmodo.jp/article/new-data-shows-ev-batteries-are-lasting-longer-than-initially-expected/",
         "https://www.gizmodo.jp/article/this-is-how-gizmodo-started/",
-        "https://www.gizmodo.jp/article/gizmodo-20th/",
-        "https://www.gizmodo.jp/article/qrcord_2tb_repost/"
+        "https://www.gizmodo.jp/article/gizmodo-20th/"
     ]
 }
