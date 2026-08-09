@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/ckg9dwz8p30o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260809de43024",
         "https://news.web.nhk/newsweb/na/nd-20260810de43038",
         "https://news.web.nhk/newsweb/na/nd-20260810de43045",
         "https://news.web.nhk/newsweb/na/nd-20260810de43042",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015198791000",
         "https://news.web.nhk/newsweb/na/na-k10015198771000",
         "https://news.web.nhk/newsweb/na/na-k10015198581000",
-        "https://news.web.nhk/newsweb/na/na-k10015196271000",
-        "https://news.web.nhk/newsweb/na/na-k10015198761000"
+        "https://news.web.nhk/newsweb/na/na-k10015196271000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/knirps_t220rs_uv_umbrella/",
