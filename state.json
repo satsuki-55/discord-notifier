@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c39ep0eyk21o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260809de42968",
         "https://news.web.nhk/newsweb/na/nd-20260809de42906",
         "https://news.web.nhk/newsweb/na/nd-20260809de42951",
         "https://news.web.nhk/newsweb/na/nd-20260809de42945",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015198341000",
         "https://news.web.nhk/newsweb/na/na-k10015195851000",
         "https://news.web.nhk/newsweb/na/na-k10015198331000",
-        "https://news.web.nhk/newsweb/na/na-k10015195871000",
-        "https://news.web.nhk/newsweb/na/na-k10015195981000"
+        "https://news.web.nhk/newsweb/na/na-k10015195871000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/windows-11-fix/",
