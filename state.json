@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015198301000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/montbell-cool-arm-covers-bih/",
         "https://www.gizmodo.jp/article/viture_pro-2/",
         "https://www.gizmodo.jp/article/hhkb_sale_flexible-work-set/",
         "https://www.gizmodo.jp/article/extreme-heat-affects-the-body/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/this-is-how-gizmodo-started/",
         "https://www.gizmodo.jp/article/gizmodo-20th/",
         "https://www.gizmodo.jp/article/qrcord_2tb_repost/",
-        "https://www.gizmodo.jp/article/generated_ai_jailbreak/",
-        "https://www.gizmodo.jp/article/drair-aerojet-style/"
+        "https://www.gizmodo.jp/article/generated_ai_jailbreak/"
     ]
 }
