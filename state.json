@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/videos/c1e145p5xw5o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260810de43037",
         "https://news.web.nhk/newsweb/na/nd-20260809de43011",
         "https://news.web.nhk/newsweb/na/nd-20260809de43013",
         "https://news.web.nhk/newsweb/na/nd-20260810de43032",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015198841000",
         "https://news.web.nhk/newsweb/na/na-k10015198871000",
         "https://news.web.nhk/newsweb/na/na-k10015198811000",
-        "https://news.web.nhk/newsweb/na/na-k10015198711000",
-        "https://news.web.nhk/newsweb/na/na-k10015198801000"
+        "https://news.web.nhk/newsweb/na/na-k10015198711000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/nothingphone/",
