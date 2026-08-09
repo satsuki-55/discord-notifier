@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "TkAnMtwGkfc",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "c76uWXbg5Ag",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c62qd5plzp6o#0",
         "https://www.bbc.co.uk/news/articles/c4gke0dvgvvo#0",
         "https://www.bbc.co.uk/news/articles/cx2vnny7j5zo#0",
         "https://www.bbc.co.uk/news/articles/cy9wyzrn57wo#0",
@@ -200,8 +201,7 @@
         "https://www.bbc.co.uk/news/articles/c1m18158my9o#0",
         "https://www.bbc.co.uk/news/articles/cx2jdvr7dzlo#0",
         "https://www.bbc.co.uk/news/articles/cvglw3943zeo#1",
-        "https://www.bbc.co.uk/news/articles/cm2g8pe13x5o#0",
-        "https://www.bbc.co.uk/news/articles/cwymv212xrxo#0"
+        "https://www.bbc.co.uk/news/articles/cm2g8pe13x5o#0"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20260809de42994",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015198421000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/25b960b2-16b0-47aa-98db-de49d5794eef/",
         "https://www.gizmodo.jp/article/toyo-arumi-anti-dust-filter-ylh/",
         "https://www.gizmodo.jp/article/giz-20th_yatagai/",
         "https://www.gizmodo.jp/article/sun-umbrella-matome-yhf/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/survey-finds-americans-see-ai-as-comparable-to-humans-its-making-them-trust-it-less/",
         "https://www.gizmodo.jp/article/reverse-recruiter-startup-wants-you-to-pay-if-its-ai-agent-finds-you-a-job/",
         "https://www.gizmodo.jp/article/dazzling-carvings-of-egyptian-pharaohs-found-in-the-river-nile-xb4/",
-        "https://www.gizmodo.jp/article/dji-osmo-pocket-4p/",
-        "https://www.gizmodo.jp/article/release_paper_peeling_less/"
+        "https://www.gizmodo.jp/article/dji-osmo-pocket-4p/"
     ]
 }
