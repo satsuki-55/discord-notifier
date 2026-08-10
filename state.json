@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "TkAnMtwGkfc",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "27krZdNCvxU",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/ce3q5vl581wo#0",
         "https://www.bbc.co.uk/news/articles/ce3q5vl581wo#1",
         "https://www.bbc.co.uk/news/articles/cy9w1l5jr7lo#1",
         "https://www.bbc.co.uk/news/articles/cgje066zd63o#0",
@@ -200,10 +201,10 @@
         "https://www.bbc.co.uk/news/articles/cqx7ql4xqg3o#1",
         "https://www.bbc.co.uk/news/articles/clylejzkkx4o#0",
         "https://www.bbc.co.uk/news/articles/cj63966j95yo#1",
-        "https://www.bbc.co.uk/news/articles/cwyq80jqqleo#0",
-        "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko#0"
+        "https://www.bbc.co.uk/news/articles/cwyq80jqqleo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260810de43187",
         "https://news.web.nhk/newsweb/na/nd-20260811de43215",
         "https://news.web.nhk/newsweb/na/nd-20260811de43214",
         "https://news.web.nhk/newsweb/na/nd-20260810de43202",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015199411000",
         "https://news.web.nhk/newsweb/na/na-k10015199421000",
         "https://news.web.nhk/newsweb/na/na-k10015199351000",
-        "https://news.web.nhk/newsweb/na/na-k10015199511000",
-        "https://news.web.nhk/newsweb/na/na-k10015199001000"
+        "https://news.web.nhk/newsweb/na/na-k10015199511000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/panasonic-bq-cc87l-nlg/",
