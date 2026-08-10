@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cjejzjpy98wo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260810de43083",
         "https://news.web.nhk/newsweb/na/nd-20260810de43076",
         "https://news.web.nhk/newsweb/na/nd-20260810de43068",
         "https://news.web.nhk/newsweb/na/nd-20260810de43048",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/na-k10015196451000",
         "https://news.web.nhk/newsweb/na/na-k10015198861000",
         "https://news.web.nhk/newsweb/na/na-k10015198951000",
-        "https://news.web.nhk/newsweb/na/na-k10015198941000",
-        "https://news.web.nhk/newsweb/na/na-k10015198901000"
+        "https://news.web.nhk/newsweb/na/na-k10015198941000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/1acf89c3-cab9-4f57-9936-8835f78246e4/",
         "https://www.gizmodo.jp/article/au-second-number/",
         "https://www.gizmodo.jp/article/bmw-is-playing-a-spider-man-ad-on-its-dashboard-displays-and-people-are-pissed/",
         "https://www.gizmodo.jp/article/wacom_tablet-lls/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/there-may-be-no-such-thing-as-cheap-vr-anymore/",
         "https://www.gizmodo.jp/article/gpt_5_6_sol_arc_agi_3_score_tripled/",
         "https://www.gizmodo.jp/article/brita_larq_essentialbottle/",
-        "https://www.gizmodo.jp/article/iphone-18-18pro-rumors-summary/",
-        "https://www.gizmodo.jp/article/20-years-of-gizmodojp-chisatokuroda/"
+        "https://www.gizmodo.jp/article/iphone-18-18pro-rumors-summary/"
     ]
 }
