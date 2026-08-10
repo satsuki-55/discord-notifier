@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cdewxgw69exo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260811de43235",
         "https://news.web.nhk/newsweb/na/nd-20260811de43216",
         "https://news.web.nhk/newsweb/na/nd-20260811de43222",
         "https://news.web.nhk/newsweb/na/nd-20260811de43211",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015199481000",
         "https://news.web.nhk/newsweb/na/na-k10015199651000",
         "https://news.web.nhk/newsweb/na/na-k10015199381000",
-        "https://news.web.nhk/newsweb/na/na-k10015199601000",
-        "https://news.web.nhk/newsweb/na/na-k10015199561000"
+        "https://news.web.nhk/newsweb/na/na-k10015199601000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/fiio-snowsky-echo-nano/",
