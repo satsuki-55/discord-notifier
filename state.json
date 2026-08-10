@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "TkAnMtwGkfc",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "27krZdNCvxU",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c629g2w56rpo#0",
         "https://www.bbc.co.uk/news/articles/cg74gvy8lgjo#0",
         "https://www.bbc.co.uk/news/articles/cre40875r9vo#1",
         "https://www.bbc.co.uk/news/articles/cx2kgwrv6gvo#0",
@@ -200,8 +201,7 @@
         "https://www.bbc.co.uk/news/articles/cqjxgx5y51lo#1",
         "https://www.bbc.co.uk/news/articles/c89nqlz5p4qo#0",
         "https://www.bbc.co.uk/news/articles/cn4n1e8159yo#1",
-        "https://www.bbc.co.uk/news/articles/c8rnmdy4enpo#1",
-        "https://www.bbc.co.uk/news/articles/cdrvn686dljo#0"
+        "https://www.bbc.co.uk/news/articles/c8rnmdy4enpo#1"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20260810de43153",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015199041000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/phone-recovery-pouch/",
         "https://www.gizmodo.jp/article/fold-iphone-rumor-two-of-the-colors/",
         "https://www.gizmodo.jp/article/ai-prompt-create-war/",
         "https://www.gizmodo.jp/article/qualcomm-improves-the-fuel-efficiency-of-ai-data-centers/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/0e491f41-7464-4112-8119-8e11c60ee5e4/",
         "https://www.gizmodo.jp/article/orca-echo-15off-2/",
         "https://www.gizmodo.jp/article/gizmodo-japan-20th-tamaki/",
-        "https://www.gizmodo.jp/article/da22-ultron/",
-        "https://www.gizmodo.jp/article/shiftall_chillerx-guq-aeh/"
+        "https://www.gizmodo.jp/article/da22-ultron/"
     ]
 }
