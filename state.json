@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cn4n1e8159yo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260810de43067",
         "https://news.web.nhk/newsweb/na/nd-20260810de43095",
         "https://news.web.nhk/newsweb/na/nd-20260810de43094",
         "https://news.web.nhk/newsweb/na/nd-20260810de43083",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015198271000",
         "https://news.web.nhk/newsweb/na/na-k10015199011000",
         "https://news.web.nhk/newsweb/na/na-k10015198971000",
-        "https://news.web.nhk/newsweb/na/na-k10015196451000",
-        "https://news.web.nhk/newsweb/na/na-k10015198861000"
+        "https://news.web.nhk/newsweb/na/na-k10015196451000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2607-chatgpt-new-improved-voice-mode-iar/",
