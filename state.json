@@ -2,6 +2,8 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "TkAnMtwGkfc",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "27krZdNCvxU",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/clyqg4w3gz9o#1",
+        "https://www.bbc.co.uk/news/articles/cly8j7ygwvlo#1",
         "https://www.bbc.co.uk/news/videos/c1j1eg31y6no#0",
         "https://www.bbc.co.uk/news/articles/c5yrljp9x9eo#0",
         "https://www.bbc.co.uk/news/articles/c89nkz4vjyxo#0",
@@ -199,9 +201,7 @@
         "https://www.bbc.co.uk/sport/football/articles/c4g6l3gnv0go#0",
         "https://www.bbc.co.uk/news/articles/cpw9nz7qwyqo#0",
         "https://www.bbc.co.uk/news/articles/c5ywv6egvx8o#1",
-        "https://www.bbc.co.uk/news/articles/ckgdmrxxkdxo#0",
-        "https://www.bbc.co.uk/news/articles/cp30989ee1wo#1",
-        "https://www.bbc.co.uk/news/articles/cr7kldz4djno#1"
+        "https://www.bbc.co.uk/news/articles/ckgdmrxxkdxo#0"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20260810de43177",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015199211000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/dnsys-z1-deathstranding2/",
         "https://www.gizmodo.jp/article/lightfoot-evbike/",
         "https://www.gizmodo.jp/article/moquren_launch/",
         "https://www.gizmodo.jp/article/phone-recovery-pouch/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/disaster_prevention_items_summary/",
         "https://www.gizmodo.jp/article/scientists-used-wood-to-generate-solar-power-after-dark-jpn-qjd-cix/",
         "https://www.gizmodo.jp/article/headrest_stick_fan_seikosangyo-vow/",
-        "https://www.gizmodo.jp/article/0e491f41-7464-4112-8119-8e11c60ee5e4/",
-        "https://www.gizmodo.jp/article/orca-echo-15off-2/"
+        "https://www.gizmodo.jp/article/0e491f41-7464-4112-8119-8e11c60ee5e4/"
     ]
 }
