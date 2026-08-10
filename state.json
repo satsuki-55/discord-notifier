@@ -2,6 +2,10 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "TkAnMtwGkfc",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "27krZdNCvxU",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cnvney840l9o#0",
+        "https://www.bbc.co.uk/news/articles/cpvw8vmmgrwo#0",
+        "https://www.bbc.co.uk/news/articles/c1w1lvn7d9go#0",
+        "https://www.bbc.co.uk/news/articles/c7vgq5mgz2mo#0",
         "https://www.bbc.co.uk/news/videos/cgmklm40k9go#0",
         "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo#0",
         "https://www.bbc.co.uk/news/articles/cqx7lje8l79o#0",
@@ -197,13 +201,10 @@
         "https://www.bbc.co.uk/news/articles/cdrvn686dljo#0",
         "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo#1",
         "https://www.bbc.co.uk/news/articles/cdrvn686dljo#1",
-        "https://www.bbc.co.uk/news/articles/cj63966j95yo#0",
-        "https://www.bbc.co.uk/news/articles/cvg0rg9wmvlo#1",
-        "https://www.bbc.co.uk/news/articles/cwymv212xrxo#1",
-        "https://www.bbc.co.uk/news/articles/cnvney840l9o#0",
-        "https://www.bbc.co.uk/news/articles/c1w1lvn7d9go#0"
+        "https://www.bbc.co.uk/news/articles/cj63966j95yo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260810de43141",
         "https://news.web.nhk/newsweb/na/nd-20260810de43152",
         "https://news.web.nhk/newsweb/na/nd-20260810de43054",
         "https://news.web.nhk/newsweb/na/nd-20260810de43053",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015199121000",
         "https://news.web.nhk/newsweb/na/na-k10015199041000",
         "https://news.web.nhk/newsweb/na/na-k10015199151000",
-        "https://news.web.nhk/newsweb/na/na-k10015199081000",
-        "https://news.web.nhk/newsweb/na/na-k10015199091000"
+        "https://news.web.nhk/newsweb/na/na-k10015199081000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/ai-prompt-create-war/",
