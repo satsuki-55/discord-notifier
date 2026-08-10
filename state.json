@@ -1,6 +1,6 @@
 {
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "TkAnMtwGkfc",
-    "youtube:UCjJmYy279ehSYSwR1A3fXtA": "qRcgTAahPMA",
+    "youtube:UCjJmYy279ehSYSwR1A3fXtA": "27krZdNCvxU",
     "rss:bbc": [
         "https://www.bbc.co.uk/news/articles/cgjeznj6979o#1",
         "https://www.bbc.co.uk/news/articles/cjejyl34345o#0",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015199051000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/gameball-vhx/",
         "https://www.gizmodo.jp/article/lofree-flow-2-for-mac/",
         "https://www.gizmodo.jp/article/mont-bell-stainless-mesh-cap-shade-fgw/",
         "https://www.gizmodo.jp/article/oh-great-ai-slop-is-coming-for-vinyl/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/shiftall_chillerx-guq-aeh/",
         "https://www.gizmodo.jp/article/mont-bell-titan-alpine-thermo-bottle/",
         "https://www.gizmodo.jp/article/20-years-of-gizmodojp-kyle/",
-        "https://www.gizmodo.jp/article/amazon-bruno-handy-fan/",
-        "https://www.gizmodo.jp/article/honeycomb-wall-cooler-1/"
+        "https://www.gizmodo.jp/article/amazon-bruno-handy-fan/"
     ]
 }
