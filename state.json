@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/ckgdmrxxkdxo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260810de43188",
         "https://news.web.nhk/newsweb/na/nd-20260810de43185",
         "https://news.web.nhk/newsweb/na/nd-20260810de43177",
         "https://news.web.nhk/newsweb/na/nd-20260810de43176",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015199321000",
         "https://news.web.nhk/newsweb/na/na-k10015199251000",
         "https://news.web.nhk/newsweb/na/na-k10015199291000",
-        "https://news.web.nhk/newsweb/na/na-k10015199231000",
-        "https://news.web.nhk/newsweb/na/na-k10015199271000"
+        "https://news.web.nhk/newsweb/na/na-k10015199231000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/dnsys-z1-deathstranding2/",
