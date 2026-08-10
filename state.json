@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "TkAnMtwGkfc",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "INsLkQ_hw08",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cewrzrekwv5o#0",
         "https://www.bbc.co.uk/news/articles/cx2rgzyplg2o#0",
         "https://www.bbc.co.uk/weather/articles/cvgx1k415v2o#0",
         "https://www.bbc.co.uk/news/articles/cp30989ee1wo#0",
@@ -200,8 +201,7 @@
         "https://www.bbc.co.uk/news/articles/cx2md67y3nlo#0",
         "https://www.bbc.co.uk/news/articles/cn4n1eyze05o#1",
         "https://www.bbc.co.uk/news/articles/c1m18158my9o#1",
-        "https://www.bbc.co.uk/news/articles/cjejzjpy98wo#1",
-        "https://www.bbc.co.uk/news/articles/c0ejdj22zq9o#0"
+        "https://www.bbc.co.uk/news/articles/cjejzjpy98wo#1"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20260810de43057",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015198871000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/what-is-congresss-favorite-ai-tool/",
         "https://www.gizmodo.jp/article/dominopizza-keychron/",
         "https://www.gizmodo.jp/article/google-book/",
         "https://www.gizmodo.jp/article/87e8a034-ca41-4b91-b41e-a0e1c01b6f3e/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/20-years-of-gizmodojp-chisatokuroda/",
         "https://www.gizmodo.jp/article/ice-pack-stainless/",
         "https://www.gizmodo.jp/article/ligar-review-2/",
-        "https://www.gizmodo.jp/article/the-ceos-are-no-longer-publicly-threatening-to-replace-humans-with-a-mhz/",
-        "https://www.gizmodo.jp/article/valves-steam-hardware-isnt-selling-too-hot-does-it-matter/"
+        "https://www.gizmodo.jp/article/the-ceos-are-no-longer-publicly-threatening-to-replace-humans-with-a-mhz/"
     ]
 }
