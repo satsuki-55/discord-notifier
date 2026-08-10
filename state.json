@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "TkAnMtwGkfc",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "27krZdNCvxU",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cqjx8rj9l1no#0",
         "https://www.bbc.co.uk/news/articles/c3v06k2qk1qo#0",
         "https://www.bbc.co.uk/news/articles/clyqg4w3gz9o#1",
         "https://www.bbc.co.uk/news/articles/cly8j7ygwvlo#1",
@@ -200,10 +201,10 @@
         "https://www.bbc.co.uk/news/articles/c1e1vg0gjl5o#0",
         "https://www.bbc.co.uk/news/articles/c07rxz03034o#0",
         "https://www.bbc.co.uk/sport/football/articles/c4g6l3gnv0go#0",
-        "https://www.bbc.co.uk/news/articles/cpw9nz7qwyqo#0",
-        "https://www.bbc.co.uk/news/articles/c5ywv6egvx8o#1"
+        "https://www.bbc.co.uk/news/articles/cpw9nz7qwyqo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260810de43201",
         "https://news.web.nhk/newsweb/na/nd-20260810de43196",
         "https://news.web.nhk/newsweb/na/nd-20260810de43198",
         "https://news.web.nhk/newsweb/na/nd-20260810de43167",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015199331000",
         "https://news.web.nhk/newsweb/na/na-k10015199281000",
         "https://news.web.nhk/newsweb/na/na-k10015199401000",
-        "https://news.web.nhk/newsweb/na/na-k10015199241000",
-        "https://news.web.nhk/newsweb/na/na-k10015199321000"
+        "https://news.web.nhk/newsweb/na/na-k10015199241000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/how-a-single-typo-in-a-username-cost-an-innocent-man-18-months-of-his-life-jpn/",
