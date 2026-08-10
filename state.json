@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c0qvp00x707o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260810de43132",
         "https://news.web.nhk/newsweb/na/nd-20260810de43127",
         "https://news.web.nhk/newsweb/na/nd-20260810de43122",
         "https://news.web.nhk/newsweb/na/nd-20260810de43106",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015199051000",
         "https://news.web.nhk/newsweb/na/na-k10015196601000",
         "https://news.web.nhk/newsweb/na/na-k10015196431000",
-        "https://news.web.nhk/newsweb/na/na-k10015199021000",
-        "https://news.web.nhk/newsweb/na/na-k10015198891000"
+        "https://news.web.nhk/newsweb/na/na-k10015199021000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/mont-bell-stainless-mesh-cap-shade-fgw/",
