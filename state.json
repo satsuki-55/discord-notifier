@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c20j5rle717o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260810de43202",
         "https://news.web.nhk/newsweb/na/nd-20260810de43199",
         "https://news.web.nhk/newsweb/na/nd-20260810de43195",
         "https://news.web.nhk/newsweb/na/nd-20260810de43197",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015199511000",
         "https://news.web.nhk/newsweb/na/na-k10015199001000",
         "https://news.web.nhk/newsweb/na/na-k10015196961000",
-        "https://news.web.nhk/newsweb/na/na-k10015199341000",
-        "https://news.web.nhk/newsweb/na/na-k10015199331000"
+        "https://news.web.nhk/newsweb/na/na-k10015199341000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/panasonic-bq-cc87l-nlg/",
