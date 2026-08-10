@@ -2,6 +2,8 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "TkAnMtwGkfc",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "27krZdNCvxU",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cd7lj3703epo#0",
+        "https://www.bbc.co.uk/news/articles/cx2vnny7j5zo#1",
         "https://www.bbc.co.uk/news/articles/c629g2w56rpo#0",
         "https://www.bbc.co.uk/news/articles/cg74gvy8lgjo#0",
         "https://www.bbc.co.uk/news/articles/cre40875r9vo#1",
@@ -199,11 +201,11 @@
         "https://www.bbc.co.uk/news/articles/cd69x9j46xjo#0",
         "https://www.bbc.co.uk/news/articles/cpvwd30we17o#0",
         "https://www.bbc.co.uk/news/articles/cqjxgx5y51lo#1",
-        "https://www.bbc.co.uk/news/articles/c89nqlz5p4qo#0",
-        "https://www.bbc.co.uk/news/articles/cn4n1e8159yo#1",
-        "https://www.bbc.co.uk/news/articles/c8rnmdy4enpo#1"
+        "https://www.bbc.co.uk/news/articles/c89nqlz5p4qo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260810de43160",
+        "https://news.web.nhk/newsweb/na/nd-20260810de43146",
         "https://news.web.nhk/newsweb/na/nd-20260810de43153",
         "https://news.web.nhk/newsweb/na/nd-20260810de43158",
         "https://news.web.nhk/newsweb/na/nd-20260810de43141",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015192481000",
         "https://news.web.nhk/newsweb/na/na-k10015199111000",
         "https://news.web.nhk/newsweb/na/na-k10015198671000",
-        "https://news.web.nhk/newsweb/na/na-k10015199141000",
-        "https://news.web.nhk/newsweb/na/na-k10015199121000",
-        "https://news.web.nhk/newsweb/na/na-k10015199041000"
+        "https://news.web.nhk/newsweb/na/na-k10015199141000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/phone-recovery-pouch/",
