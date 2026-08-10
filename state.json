@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cre49389g1qo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260810de43054",
         "https://news.web.nhk/newsweb/na/nd-20260810de43053",
         "https://news.web.nhk/newsweb/na/nd-20260810de43148",
         "https://news.web.nhk/newsweb/na/nd-20260810de43124",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/na-k10015199151000",
         "https://news.web.nhk/newsweb/na/na-k10015199081000",
         "https://news.web.nhk/newsweb/na/na-k10015199091000",
-        "https://news.web.nhk/newsweb/na/na-k10015199131000",
-        "https://news.web.nhk/newsweb/na/na-k10015198931000"
+        "https://news.web.nhk/newsweb/na/na-k10015199131000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/ai-prompt-create-war/",
         "https://www.gizmodo.jp/article/qualcomm-improves-the-fuel-efficiency-of-ai-data-centers/",
         "https://www.gizmodo.jp/article/gameball-vhx/",
         "https://www.gizmodo.jp/article/lofree-flow-2-for-mac/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/gizmodo-japan-20th-tamaki/",
         "https://www.gizmodo.jp/article/da22-ultron/",
         "https://www.gizmodo.jp/article/shiftall_chillerx-guq-aeh/",
-        "https://www.gizmodo.jp/article/mont-bell-titan-alpine-thermo-bottle/",
-        "https://www.gizmodo.jp/article/20-years-of-gizmodojp-kyle/"
+        "https://www.gizmodo.jp/article/mont-bell-titan-alpine-thermo-bottle/"
     ]
 }
