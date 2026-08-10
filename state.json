@@ -204,6 +204,9 @@
         "https://www.bbc.co.uk/news/articles/c5ywv6egvx8o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260810de43196",
+        "https://news.web.nhk/newsweb/na/nd-20260810de43198",
+        "https://news.web.nhk/newsweb/na/nd-20260810de43167",
         "https://news.web.nhk/newsweb/na/nd-20260810de43188",
         "https://news.web.nhk/newsweb/na/nd-20260810de43185",
         "https://news.web.nhk/newsweb/na/nd-20260810de43177",
@@ -400,10 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015199281000",
         "https://news.web.nhk/newsweb/na/na-k10015199401000",
         "https://news.web.nhk/newsweb/na/na-k10015199241000",
-        "https://news.web.nhk/newsweb/na/na-k10015199321000",
-        "https://news.web.nhk/newsweb/na/na-k10015199251000",
-        "https://news.web.nhk/newsweb/na/na-k10015199291000",
-        "https://news.web.nhk/newsweb/na/na-k10015199231000"
+        "https://news.web.nhk/newsweb/na/na-k10015199321000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/how-a-single-typo-in-a-username-cost-an-innocent-man-18-months-of-his-life-jpn/",
