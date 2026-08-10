@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cqjxgx5y51lo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260810de43179",
         "https://news.web.nhk/newsweb/na/nd-20260810de43160",
         "https://news.web.nhk/newsweb/na/nd-20260810de43146",
         "https://news.web.nhk/newsweb/na/nd-20260810de43153",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/na-k10015199191000",
         "https://news.web.nhk/newsweb/na/na-k10015192481000",
         "https://news.web.nhk/newsweb/na/na-k10015199111000",
-        "https://news.web.nhk/newsweb/na/na-k10015198671000",
-        "https://news.web.nhk/newsweb/na/na-k10015199141000"
+        "https://news.web.nhk/newsweb/na/na-k10015198671000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/moquren_launch/",
         "https://www.gizmodo.jp/article/phone-recovery-pouch/",
         "https://www.gizmodo.jp/article/fold-iphone-rumor-two-of-the-colors/",
         "https://www.gizmodo.jp/article/ai-prompt-create-war/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/headrest_stick_fan_seikosangyo-vow/",
         "https://www.gizmodo.jp/article/0e491f41-7464-4112-8119-8e11c60ee5e4/",
         "https://www.gizmodo.jp/article/orca-echo-15off-2/",
-        "https://www.gizmodo.jp/article/gizmodo-japan-20th-tamaki/",
-        "https://www.gizmodo.jp/article/da22-ultron/"
+        "https://www.gizmodo.jp/article/gizmodo-japan-20th-tamaki/"
     ]
 }
