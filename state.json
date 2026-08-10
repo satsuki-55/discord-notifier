@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "TkAnMtwGkfc",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "qRcgTAahPMA",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c70gk2dl5jyo#0",
         "https://www.bbc.co.uk/news/articles/c0qvpveg20vo#0",
         "https://www.bbc.co.uk/news/articles/cpq81y7x1yeo#0",
         "https://www.bbc.co.uk/news/articles/c20j5rle717o#1",
@@ -200,10 +201,10 @@
         "https://www.bbc.co.uk/news/videos/c89n8940vq8o#0",
         "https://www.bbc.co.uk/news/articles/cx27p32jzj2o#0",
         "https://www.bbc.co.uk/news/articles/cjejyl34345o#0",
-        "https://www.bbc.co.uk/news/articles/c0qvp00x707o#0",
-        "https://www.bbc.co.uk/news/articles/cn5nlvdxpwpo#0"
+        "https://www.bbc.co.uk/news/articles/c0qvp00x707o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260810de43127",
         "https://news.web.nhk/newsweb/na/nd-20260810de43122",
         "https://news.web.nhk/newsweb/na/nd-20260810de43106",
         "https://news.web.nhk/newsweb/na/nd-20260810de43103",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015196601000",
         "https://news.web.nhk/newsweb/na/na-k10015196431000",
         "https://news.web.nhk/newsweb/na/na-k10015199021000",
-        "https://news.web.nhk/newsweb/na/na-k10015198891000",
-        "https://news.web.nhk/newsweb/na/na-k10015198271000"
+        "https://news.web.nhk/newsweb/na/na-k10015198891000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/oh-great-ai-slop-is-coming-for-vinyl/",
