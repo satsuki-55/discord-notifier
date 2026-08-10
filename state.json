@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015198871000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/dominopizza-keychron/",
         "https://www.gizmodo.jp/article/google-book/",
         "https://www.gizmodo.jp/article/87e8a034-ca41-4b91-b41e-a0e1c01b6f3e/",
         "https://www.gizmodo.jp/article/nothingphone/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/ice-pack-stainless/",
         "https://www.gizmodo.jp/article/ligar-review-2/",
         "https://www.gizmodo.jp/article/the-ceos-are-no-longer-publicly-threatening-to-replace-humans-with-a-mhz/",
-        "https://www.gizmodo.jp/article/valves-steam-hardware-isnt-selling-too-hot-does-it-matter/",
-        "https://www.gizmodo.jp/article/magsafe_lifehack_tool_mini_pc/"
+        "https://www.gizmodo.jp/article/valves-steam-hardware-isnt-selling-too-hot-does-it-matter/"
     ]
 }
