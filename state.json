@@ -2,6 +2,8 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "TkAnMtwGkfc",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "INsLkQ_hw08",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c5y3j3ngevmo#0",
+        "https://www.bbc.co.uk/news/articles/cy07dern0n0o#0",
         "https://www.bbc.co.uk/news/articles/cy9wyzrn57wo#1",
         "https://www.bbc.co.uk/news/articles/cvgx4yd1gl2o#0",
         "https://www.bbc.co.uk/news/articles/cvgx1v922p5o#0",
@@ -199,11 +201,10 @@
         "https://www.bbc.co.uk/news/articles/cn5nlvdxpwpo#0",
         "https://www.bbc.co.uk/news/articles/c0m7pyv3y7no#0",
         "https://www.bbc.co.uk/news/articles/c0qvpveg20vo#0",
-        "https://www.bbc.co.uk/news/articles/cn4n1e8159yo#0",
-        "https://www.bbc.co.uk/news/articles/c5y3j3ngevmo#1",
-        "https://www.bbc.co.uk/news/articles/cy457z28d19o#0"
+        "https://www.bbc.co.uk/news/articles/cn4n1e8159yo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260810de43095",
         "https://news.web.nhk/newsweb/na/nd-20260810de43094",
         "https://news.web.nhk/newsweb/na/nd-20260810de43083",
         "https://news.web.nhk/newsweb/na/nd-20260810de43076",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015199011000",
         "https://news.web.nhk/newsweb/na/na-k10015198971000",
         "https://news.web.nhk/newsweb/na/na-k10015196451000",
-        "https://news.web.nhk/newsweb/na/na-k10015198861000",
-        "https://news.web.nhk/newsweb/na/na-k10015198951000"
+        "https://news.web.nhk/newsweb/na/na-k10015198861000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/sega-watch/",
