@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cjejzjpy98wo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260810de43048",
         "https://news.web.nhk/newsweb/na/nd-20260810de43056",
         "https://news.web.nhk/newsweb/na/nd-20260810de43057",
         "https://news.web.nhk/newsweb/na/nd-20260809de43010",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/na-k10015198941000",
         "https://news.web.nhk/newsweb/na/na-k10015198901000",
         "https://news.web.nhk/newsweb/na/na-k10015198921000",
-        "https://news.web.nhk/newsweb/na/na-k10015198881000",
-        "https://news.web.nhk/newsweb/na/na-k10015198841000"
+        "https://news.web.nhk/newsweb/na/na-k10015198881000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/wacom_tablet-lls/",
         "https://www.gizmodo.jp/article/what-is-congresss-favorite-ai-tool/",
         "https://www.gizmodo.jp/article/dominopizza-keychron/",
         "https://www.gizmodo.jp/article/google-book/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/iphone-18-18pro-rumors-summary/",
         "https://www.gizmodo.jp/article/20-years-of-gizmodojp-chisatokuroda/",
         "https://www.gizmodo.jp/article/ice-pack-stainless/",
-        "https://www.gizmodo.jp/article/ligar-review-2/",
-        "https://www.gizmodo.jp/article/the-ceos-are-no-longer-publicly-threatening-to-replace-humans-with-a-mhz/"
+        "https://www.gizmodo.jp/article/ligar-review-2/"
     ]
 }
