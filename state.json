@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "TkAnMtwGkfc",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "27krZdNCvxU",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cn9n8pqglg4o#0",
         "https://www.bbc.co.uk/news/articles/cd6923j2wnpo#0",
         "https://www.bbc.co.uk/news/articles/c75gk620r22o#0",
         "https://www.bbc.co.uk/news/articles/czdmgmzll1ro#0",
@@ -200,8 +201,7 @@
         "https://www.bbc.co.uk/news/articles/c70g18vpwxvo#0",
         "https://www.bbc.co.uk/sport/football/articles/cx2vw5z0q7no#0",
         "https://www.bbc.co.uk/news/articles/cpd76e737ljo#0",
-        "https://www.bbc.co.uk/news/articles/c4g305dz0y9o#1",
-        "https://www.bbc.co.uk/news/articles/cy8ey458pv5o#0"
+        "https://www.bbc.co.uk/news/articles/c4g305dz0y9o#1"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20260810de43140",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015199381000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/ios-27-beta-photo-ai-edit/",
         "https://www.gizmodo.jp/article/finger-sweat-could-be-the-huge-health-upgrade-smart-rings-need-/",
         "https://www.gizmodo.jp/article/fiio-snowsky-echo-nano/",
         "https://www.gizmodo.jp/article/every-laptop-should-steal-this-privacy-display-jpn/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/galaxy-z-fold-8-ultra-messi-model/",
         "https://www.gizmodo.jp/article/nagatanien-magcup-cake/",
         "https://www.gizmodo.jp/article/arata_au08_parasol-zyn/",
-        "https://www.gizmodo.jp/article/feinmann-f01-noctua-edition/",
-        "https://www.gizmodo.jp/article/gelato-pique-recovery-wear/"
+        "https://www.gizmodo.jp/article/feinmann-f01-noctua-edition/"
     ]
 }
