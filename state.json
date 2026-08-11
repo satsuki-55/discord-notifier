@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "TkAnMtwGkfc",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "27krZdNCvxU",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cx2jr1ew2v1o#0",
         "https://www.bbc.co.uk/news/articles/c8rn42jp7d6o#0",
         "https://www.bbc.co.uk/news/articles/ce3q5nxpgk1o#1",
         "https://www.bbc.co.uk/news/articles/c872r52x7jgo#0",
@@ -200,8 +201,7 @@
         "https://www.bbc.co.uk/news/articles/c89nkkvx2veo#0",
         "https://www.bbc.co.uk/news/articles/cqlxgk7r2vwo#1",
         "https://www.bbc.co.uk/news/articles/cwyeg1ljp2eo#0",
-        "https://www.bbc.co.uk/news/articles/c20d8qre98do#1",
-        "https://www.bbc.co.uk/news/articles/cgjeznj6979o#0"
+        "https://www.bbc.co.uk/news/articles/c20d8qre98do#1"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20260811de43322",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015199551000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/koizumi-iron/",
         "https://www.gizmodo.jp/article/metas-smart-glasses-are-still-creepy-despite-anti-creep-update/",
         "https://www.gizmodo.jp/article/tinytv-2-with-tiny-remote-abt/",
         "https://www.gizmodo.jp/article/iron_using_green_hydrogen/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/samsung-let-me-touch-its-warby-parker-x-gentle-monster-smart-glasses-but-not-wear-them/",
         "https://www.gizmodo.jp/article/nothing-denies-market-exit-confirms-layoffs/",
         "https://www.gizmodo.jp/article/alienware-aw3426dw-review-gaming-monitors-get-thrown-a-curveball/",
-        "https://www.gizmodo.jp/article/lunar-rock/",
-        "https://www.gizmodo.jp/article/volkswagen-thinks-your-e-bike-needs-a-pair-of-smart-glasses/"
+        "https://www.gizmodo.jp/article/lunar-rock/"
     ]
 }
