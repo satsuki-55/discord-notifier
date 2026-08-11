@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/videos/ckg9d2egn11o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260810de43204",
         "https://news.web.nhk/newsweb/na/nd-20260810de43140",
         "https://news.web.nhk/newsweb/na/nd-20260811de43235",
         "https://news.web.nhk/newsweb/na/nd-20260811de43216",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015199701000",
         "https://news.web.nhk/newsweb/na/na-k10015199621000",
         "https://news.web.nhk/newsweb/na/na-k10015199481000",
-        "https://news.web.nhk/newsweb/na/na-k10015199651000",
-        "https://news.web.nhk/newsweb/na/na-k10015199381000"
+        "https://news.web.nhk/newsweb/na/na-k10015199651000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/ios-27-beta-siri-ai-first-impression/",
