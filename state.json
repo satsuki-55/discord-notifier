@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cg5lgm07l35o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260811de43276",
         "https://news.web.nhk/newsweb/na/nd-20260811de43234",
         "https://news.web.nhk/newsweb/na/nd-20260811de43243",
         "https://news.web.nhk/newsweb/na/nd-20260811de43265",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015199661000",
         "https://news.web.nhk/newsweb/na/na-k10015197181000",
         "https://news.web.nhk/newsweb/na/na-k10015199631000",
-        "https://news.web.nhk/newsweb/na/na-k10015199591000",
-        "https://news.web.nhk/newsweb/na/na-k10015199581000"
+        "https://news.web.nhk/newsweb/na/na-k10015199591000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/esi_xsynth-gup/",
