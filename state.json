@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "TkAnMtwGkfc",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "27krZdNCvxU",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cwyrkz9ryr5o#0",
         "https://www.bbc.co.uk/news/articles/czjlwlkw1m4o#0",
         "https://www.bbc.co.uk/news/videos/cy451xqkdz5o#0",
         "https://www.bbc.co.uk/news/articles/c9d84874dzjo#0",
@@ -200,10 +201,11 @@
         "https://www.bbc.co.uk/news/articles/c4g64152v71o#0",
         "https://www.bbc.co.uk/news/articles/cvgx1kpz17go#0",
         "https://www.bbc.co.uk/news/articles/cg5lnqjz497o#1",
-        "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo#0",
-        "https://www.bbc.co.uk/news/articles/c9q94lxqrzzo#1"
+        "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260812de43333",
+        "https://news.web.nhk/newsweb/na/nd-20260811de43321",
         "https://news.web.nhk/newsweb/na/nd-20260812de43345",
         "https://news.web.nhk/newsweb/na/nd-20260811de43301",
         "https://news.web.nhk/newsweb/na/nd-20260811de43298",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015199261000",
         "https://news.web.nhk/newsweb/na/na-k10015199751000",
         "https://news.web.nhk/newsweb/na/na-k10015198851000",
-        "https://news.web.nhk/newsweb/na/na-k10015199831000",
-        "https://news.web.nhk/newsweb/na/na-k10015199841000",
-        "https://news.web.nhk/newsweb/na/na-k10015199791000"
+        "https://news.web.nhk/newsweb/na/na-k10015199831000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/tinytv-2-with-tiny-remote-abt/",
