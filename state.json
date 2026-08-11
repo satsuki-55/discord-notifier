@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "TkAnMtwGkfc",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "27krZdNCvxU",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cx2rdggr304o#0",
         "https://www.bbc.co.uk/news/articles/cx2jr1ew2v1o#0",
         "https://www.bbc.co.uk/news/articles/c8rn42jp7d6o#0",
         "https://www.bbc.co.uk/news/articles/ce3q5nxpgk1o#1",
@@ -200,10 +201,10 @@
         "https://www.bbc.co.uk/news/articles/cy8mgpl27dpo#0",
         "https://www.bbc.co.uk/news/articles/c89nkkvx2veo#0",
         "https://www.bbc.co.uk/news/articles/cqlxgk7r2vwo#1",
-        "https://www.bbc.co.uk/news/articles/cwyeg1ljp2eo#0",
-        "https://www.bbc.co.uk/news/articles/c20d8qre98do#1"
+        "https://www.bbc.co.uk/news/articles/cwyeg1ljp2eo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260811de43323",
         "https://news.web.nhk/newsweb/na/nd-20260811de43322",
         "https://news.web.nhk/newsweb/na/nd-20260811de43325",
         "https://news.web.nhk/newsweb/na/nd-20260811de43316",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015199851000",
         "https://news.web.nhk/newsweb/na/na-k10015199761000",
         "https://news.web.nhk/newsweb/na/na-k10015199901000",
-        "https://news.web.nhk/newsweb/na/na-k10015199891000",
-        "https://news.web.nhk/newsweb/na/na-k10015199551000"
+        "https://news.web.nhk/newsweb/na/na-k10015199891000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/koizumi-iron/",
