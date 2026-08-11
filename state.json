@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "TkAnMtwGkfc",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "27krZdNCvxU",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/clyqxx27620o#0",
         "https://www.bbc.co.uk/news/videos/cwyl3w1e6zxo#0",
         "https://www.bbc.co.uk/news/articles/cm2g0j3y339o#0",
         "https://www.bbc.co.uk/news/articles/ce8ljew9rnjo#0",
@@ -200,10 +201,10 @@
         "https://www.bbc.co.uk/news/articles/cdx8jxqxyw0o#0",
         "https://www.bbc.co.uk/news/articles/cewr8wel4z8o#0",
         "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo#1",
-        "https://www.bbc.co.uk/news/videos/cvg8je12xxeo#0",
-        "https://www.bbc.co.uk/sport/football/articles/c70gn3w5ek5o#0"
+        "https://www.bbc.co.uk/news/videos/cvg8je12xxeo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260811de43291",
         "https://news.web.nhk/newsweb/na/nd-20260811de43263",
         "https://news.web.nhk/newsweb/na/nd-20260811de43268",
         "https://news.web.nhk/newsweb/na/nd-20260811de43276",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015199571000",
         "https://news.web.nhk/newsweb/na/na-k10015199691000",
         "https://news.web.nhk/newsweb/na/na-k10015199711000",
-        "https://news.web.nhk/newsweb/na/na-k10015199661000",
-        "https://news.web.nhk/newsweb/na/na-k10015197181000"
+        "https://news.web.nhk/newsweb/na/na-k10015199661000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/caviar-meta-rayban/",
