@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cy8mgpl27dpo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260812de43351",
         "https://news.web.nhk/newsweb/na/nd-20260811de43323",
         "https://news.web.nhk/newsweb/na/nd-20260811de43322",
         "https://news.web.nhk/newsweb/na/nd-20260811de43325",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015199731000",
         "https://news.web.nhk/newsweb/na/na-k10015199851000",
         "https://news.web.nhk/newsweb/na/na-k10015199761000",
-        "https://news.web.nhk/newsweb/na/na-k10015199901000",
-        "https://news.web.nhk/newsweb/na/na-k10015199891000"
+        "https://news.web.nhk/newsweb/na/na-k10015199901000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/koizumi-iron/",
