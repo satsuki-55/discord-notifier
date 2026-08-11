@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/cewr8egkelwo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260811de43263",
+        "https://news.web.nhk/newsweb/na/nd-20260811de43268",
         "https://news.web.nhk/newsweb/na/nd-20260811de43276",
         "https://news.web.nhk/newsweb/na/nd-20260811de43234",
         "https://news.web.nhk/newsweb/na/nd-20260811de43243",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015199691000",
         "https://news.web.nhk/newsweb/na/na-k10015199711000",
         "https://news.web.nhk/newsweb/na/na-k10015199661000",
-        "https://news.web.nhk/newsweb/na/na-k10015197181000",
-        "https://news.web.nhk/newsweb/na/na-k10015199631000",
-        "https://news.web.nhk/newsweb/na/na-k10015199591000"
+        "https://news.web.nhk/newsweb/na/na-k10015197181000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/a-feature-that-makes-your-phone-data-self-destruct-in-authorities-hands/",
