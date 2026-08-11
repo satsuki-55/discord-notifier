@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015197181000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/rice_water_repellent/",
         "https://www.gizmodo.jp/article/a-feature-that-makes-your-phone-data-self-destruct-in-authorities-hands/",
         "https://www.gizmodo.jp/article/esi_xsynth-gup/",
         "https://www.gizmodo.jp/article/g6-he-ultralight-3days-left/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/handy_fan_summary_/",
         "https://www.gizmodo.jp/article/varusan_insectcap-sgr/",
         "https://www.gizmodo.jp/article/automated-tomica-parking-with-showroom/",
-        "https://www.gizmodo.jp/article/20-years-of-gizmodojp-mogi/",
-        "https://www.gizmodo.jp/article/nicky-davis-pay-phone-chargers/"
+        "https://www.gizmodo.jp/article/20-years-of-gizmodojp-mogi/"
     ]
 }
