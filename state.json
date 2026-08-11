@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "TkAnMtwGkfc",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "27krZdNCvxU",
     "rss:bbc": [
+        "https://www.bbc.co.uk/weather/articles/cn8n9pg54m1o#0",
         "https://www.bbc.co.uk/news/articles/cn0nwz5v1lzo#0",
         "https://www.bbc.co.uk/news/articles/cd7lj3703epo#1",
         "https://www.bbc.co.uk/news/articles/c9d841yexe0o#1",
@@ -200,8 +201,7 @@
         "https://www.bbc.co.uk/news/articles/cd9wk27y05zo#0",
         "https://www.bbc.co.uk/news/articles/c89nkln7w7ko#0",
         "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko#1",
-        "https://www.bbc.co.uk/news/articles/c934j5y2lq9o#0",
-        "https://www.bbc.co.uk/news/articles/c9q94lxqrzzo#0"
+        "https://www.bbc.co.uk/news/articles/c934j5y2lq9o#0"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20260811de43300",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015199711000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/tinytv-2-with-tiny-remote-abt/",
         "https://www.gizmodo.jp/article/iron_using_green_hydrogen/",
         "https://www.gizmodo.jp/article/the-sun-looks-so-hot-right-now/",
         "https://www.gizmodo.jp/article/caviar-meta-rayban/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/alienware-aw3426dw-review-gaming-monitors-get-thrown-a-curveball/",
         "https://www.gizmodo.jp/article/lunar-rock/",
         "https://www.gizmodo.jp/article/volkswagen-thinks-your-e-bike-needs-a-pair-of-smart-glasses/",
-        "https://www.gizmodo.jp/article/jumping-jacks-gadget-69/",
-        "https://www.gizmodo.jp/article/handy_fan_summary_/"
+        "https://www.gizmodo.jp/article/jumping-jacks-gadget-69/"
     ]
 }
