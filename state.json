@@ -1,7 +1,8 @@
 {
-    "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "R8uavZb3aOk",
+    "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "TkAnMtwGkfc",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "ytgooNo0HpQ",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c1512909pgpo#0",
         "https://www.bbc.co.uk/news/articles/c1512909pgpo#1",
         "https://www.bbc.co.uk/news/articles/c8rn4n8v6k7o#1",
         "https://www.bbc.co.uk/news/articles/cdewpklnzwxo#0",
@@ -200,8 +201,7 @@
         "https://www.bbc.co.uk/news/articles/clyqg4w3gz9o#0",
         "https://www.bbc.co.uk/news/articles/cwyeg1ljp2eo#1",
         "https://www.bbc.co.uk/news/articles/cvgx1kpz17go#1",
-        "https://www.bbc.co.uk/news/articles/c4g4vxjg2yno#0",
-        "https://www.bbc.co.uk/news/articles/cwyl6yz719jo#0"
+        "https://www.bbc.co.uk/news/articles/c4g4vxjg2yno#0"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20260812de43465",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015200151000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/3rd-generation-foldable-iphone-display/",
         "https://www.gizmodo.jp/article/vaccination-complete-with-dental-floss-atg/",
         "https://www.gizmodo.jp/article/bose-quiet-comfort-anc/",
         "https://www.gizmodo.jp/article/tcls-new-phone-is-what-you-want-if-you-stare-too-long-at-screens-bey/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/hoverair-versa/",
         "https://www.gizmodo.jp/article/deepseek_v4_flash_0731/",
         "https://www.gizmodo.jp/article/google-gemini-4/",
-        "https://www.gizmodo.jp/article/giz_timemachine_mobile_batterys/",
-        "https://www.gizmodo.jp/article/pixel-11-pro-fold-pixel-glow/"
+        "https://www.gizmodo.jp/article/giz_timemachine_mobile_batterys/"
     ]
 }
