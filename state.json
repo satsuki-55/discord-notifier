@@ -2,6 +2,9 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "Pr905wWb1mg",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "ytgooNo0HpQ",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c78gr0jv0mdo#0",
+        "https://www.bbc.co.uk/news/videos/cwym2w32rn0o#0",
+        "https://www.bbc.co.uk/news/articles/c8dn8q3r8mzo#0",
         "https://www.bbc.co.uk/news/videos/cwym2w32rn0o#1",
         "https://www.bbc.co.uk/news/articles/cvglzrvyrz3o#0",
         "https://www.bbc.co.uk/news/articles/cvglzrvyrz3o#1",
@@ -198,12 +201,10 @@
         "https://www.bbc.co.uk/news/articles/cd6923j2wnpo#0",
         "https://www.bbc.co.uk/news/articles/c75gk620r22o#0",
         "https://www.bbc.co.uk/news/articles/czdmgmzll1ro#0",
-        "https://www.bbc.co.uk/news/articles/czekx5g39elo#0",
-        "https://www.bbc.co.uk/news/articles/c62vj8eywdlo#0",
-        "https://www.bbc.co.uk/news/articles/cvgx4yd1gl2o#1",
-        "https://www.bbc.co.uk/news/articles/c78gr0jv0mdo#0"
+        "https://www.bbc.co.uk/news/articles/czekx5g39elo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260813de43548",
         "https://news.web.nhk/newsweb/na/nd-20260812de43525",
         "https://news.web.nhk/newsweb/na/nd-20260812de43521",
         "https://news.web.nhk/newsweb/na/nd-20260812de43524",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015198081000",
         "https://news.web.nhk/newsweb/na/nd-20260808de42871",
         "https://news.web.nhk/newsweb/na/nd-20260808de42872",
-        "https://news.web.nhk/newsweb/na/nd-20260808de42867",
-        "https://news.web.nhk/newsweb/na/nd-20260808de42866"
+        "https://news.web.nhk/newsweb/na/nd-20260808de42867"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/mont-bell-water-filter-53d/",
