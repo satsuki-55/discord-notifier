@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cpq81y7x1yeo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260812de43328",
         "https://news.web.nhk/newsweb/na/nd-20260812de43439",
         "https://news.web.nhk/newsweb/na/nd-20260812de43430",
         "https://news.web.nhk/newsweb/na/nd-20260812de43418",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015200101000",
         "https://news.web.nhk/newsweb/na/na-k10015200091000",
         "https://news.web.nhk/newsweb/na/na-k10015200031000",
-        "https://news.web.nhk/newsweb/na/na-k10015195291000",
-        "https://news.web.nhk/newsweb/na/na-k10015199991000"
+        "https://news.web.nhk/newsweb/na/na-k10015195291000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/kokuyo-sticky-note/",
