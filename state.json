@@ -2,6 +2,9 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "Pr905wWb1mg",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "ytgooNo0HpQ",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cn0npjkqrleo#0",
+        "https://www.bbc.co.uk/news/articles/cdewpklnzwxo#1",
+        "https://www.bbc.co.uk/news/articles/clyj0325z3ko#1",
         "https://www.bbc.co.uk/news/articles/cg74gvy8lgjo#0",
         "https://www.bbc.co.uk/news/articles/cm2gp3zmkpmo#0",
         "https://www.bbc.co.uk/news/articles/c75g9777wwxo#0",
@@ -198,12 +201,10 @@
         "https://www.bbc.co.uk/news/articles/ckge094k2k1o#0",
         "https://www.bbc.co.uk/news/articles/cewr8wel4z8o#1",
         "https://www.bbc.co.uk/news/articles/c3ekx90jww9o#0",
-        "https://www.bbc.co.uk/news/articles/c3ekd5784k5o#1",
-        "https://www.bbc.co.uk/news/articles/cp8x4n9gd3ko#0",
-        "https://www.bbc.co.uk/news/videos/c07r0njvpm1o#0",
-        "https://www.bbc.co.uk/news/articles/cd7lj3703epo#0"
+        "https://www.bbc.co.uk/news/articles/c3ekd5784k5o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260812de43513",
         "https://news.web.nhk/newsweb/na/nd-20260812de43486",
         "https://news.web.nhk/newsweb/na/nd-20260812de43491",
         "https://news.web.nhk/newsweb/na/nd-20260812de43496",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015200121000",
         "https://news.web.nhk/newsweb/na/na-k10015200291000",
         "https://news.web.nhk/newsweb/na/na-k10015199681000",
-        "https://news.web.nhk/newsweb/na/na-k10015200321000",
-        "https://news.web.nhk/newsweb/na/na-k10015197961000"
+        "https://news.web.nhk/newsweb/na/na-k10015200321000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/dji-mic-mini-2-s/",
