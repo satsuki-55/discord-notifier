@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015199981000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/g6-he-ultralight-2days-left/",
         "https://www.gizmodo.jp/article/ghs-wireless-infiniteplay/",
         "https://www.gizmodo.jp/article/motorola-moto-pad-70-groove/",
         "https://www.gizmodo.jp/article/openais-rumored-smart-speaker-sounds-more-like-a-squirming-ai-robot/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/thanko-triple-fan-tmj/",
         "https://www.gizmodo.jp/article/google-introduces-gemini-3-6-to-remind-you-it-has-an-ai-model-too/",
         "https://www.gizmodo.jp/article/using-screens-child/",
-        "https://www.gizmodo.jp/article/muji-3waybag/",
-        "https://www.gizmodo.jp/article/gizmodo-20th-yoshioka/"
+        "https://www.gizmodo.jp/article/muji-3waybag/"
     ]
 }
