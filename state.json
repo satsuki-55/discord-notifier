@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "Pr905wWb1mg",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "ytgooNo0HpQ",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c9347ezzwljo#0",
         "https://www.bbc.co.uk/news/articles/ce8ljew9rnjo#1",
         "https://www.bbc.co.uk/weather/articles/c23592z7gppo#1",
         "https://www.bbc.co.uk/news/articles/c1512909pgpo#0",
@@ -200,10 +201,11 @@
         "https://www.bbc.co.uk/news/videos/cgmklm40k9go#0",
         "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo#0",
         "https://www.bbc.co.uk/news/articles/cqx7lje8l79o#0",
-        "https://www.bbc.co.uk/news/articles/clyqg4w3gz9o#0",
-        "https://www.bbc.co.uk/news/articles/cwyeg1ljp2eo#1"
+        "https://www.bbc.co.uk/news/articles/clyqg4w3gz9o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260812de43473",
+        "https://news.web.nhk/newsweb/na/nd-20260812de43466",
         "https://news.web.nhk/newsweb/na/nd-20260812de43444",
         "https://news.web.nhk/newsweb/na/nd-20260812de43472",
         "https://news.web.nhk/newsweb/na/nd-20260812de43457",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015200261000",
         "https://news.web.nhk/newsweb/na/na-k10015200061000",
         "https://news.web.nhk/newsweb/na/na-k10015200251000",
-        "https://news.web.nhk/newsweb/na/na-k10015200241000",
-        "https://news.web.nhk/newsweb/na/na-k10015192491000",
-        "https://news.web.nhk/newsweb/na/na-k10015200231000"
+        "https://news.web.nhk/newsweb/na/na-k10015200241000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/3rd-generation-foldable-iphone-display/",
