@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c89nkkvx2veo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260812de43385",
         "https://news.web.nhk/newsweb/na/nd-20260812de43344",
         "https://news.web.nhk/newsweb/na/nd-20260812de43373",
         "https://news.web.nhk/newsweb/na/nd-20260812de43375",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015199981000",
         "https://news.web.nhk/newsweb/na/na-k10015195201000",
         "https://news.web.nhk/newsweb/na/na-k10015199861000",
-        "https://news.web.nhk/newsweb/na/na-k10015197641000",
-        "https://news.web.nhk/newsweb/na/na-k10015199871000"
+        "https://news.web.nhk/newsweb/na/na-k10015197641000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/motorola-moto-pad-70-groove/",
