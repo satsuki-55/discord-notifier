@@ -2,6 +2,8 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "TkAnMtwGkfc",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "d-3ma4d9B2M",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c5y3j3ngevmo#0",
+        "https://www.bbc.co.uk/news/articles/cvgx4yd1gl2o#0",
         "https://www.bbc.co.uk/news/articles/czjl39rk93jo#0",
         "https://www.bbc.co.uk/news/articles/cdrvme6g7n2o#0",
         "https://www.bbc.co.uk/news/articles/ceqewnx5v45o#1",
@@ -199,9 +201,7 @@
         "https://www.bbc.co.uk/news/videos/c78gx85e05go#0",
         "https://www.bbc.co.uk/news/articles/c70gk2dl5jyo#0",
         "https://www.bbc.co.uk/news/articles/c0qvpveg20vo#0",
-        "https://www.bbc.co.uk/news/articles/cpq81y7x1yeo#0",
-        "https://www.bbc.co.uk/news/articles/c20j5rle717o#1",
-        "https://www.bbc.co.uk/news/articles/c5y3j3ngevmo#0"
+        "https://www.bbc.co.uk/news/articles/cpq81y7x1yeo#0"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20260812de43418",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015199941000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2707-honda-message-prologue-ev-owner-hybrid-xnt/",
         "https://www.gizmodo.jp/article/syitren-audio-rm1/",
         "https://www.gizmodo.jp/article/g6-he-ultralight-2days-left/",
         "https://www.gizmodo.jp/article/ghs-wireless-infiniteplay/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/smart-glasses-are-a-hit-even-as-privacy-concerns-pile-up/",
         "https://www.gizmodo.jp/article/samsungs-trifold-phone-might-not-be-dead-after-all/",
         "https://www.gizmodo.jp/article/thanko-triple-fan-tmj/",
-        "https://www.gizmodo.jp/article/google-introduces-gemini-3-6-to-remind-you-it-has-an-ai-model-too/",
-        "https://www.gizmodo.jp/article/using-screens-child/"
+        "https://www.gizmodo.jp/article/google-introduces-gemini-3-6-to-remind-you-it-has-an-ai-model-too/"
     ]
 }
