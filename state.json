@@ -2,6 +2,8 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "Pr905wWb1mg",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "ytgooNo0HpQ",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c0qv2nn1gpeo#0",
+        "https://www.bbc.co.uk/news/articles/cvgxzmgejd5o#1",
         "https://www.bbc.co.uk/news/articles/cjrvn0wez48o#0",
         "https://www.bbc.co.uk/news/articles/cy9w2d2ry0wo#0",
         "https://www.bbc.co.uk/news/articles/cn4npy3w1p2o#0",
@@ -199,11 +201,10 @@
         "https://www.bbc.co.uk/news/articles/c89nkz4vjyxo#0",
         "https://www.bbc.co.uk/news/articles/cly8djwgem0o#1",
         "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo#1",
-        "https://www.bbc.co.uk/news/articles/c62qd5plzp6o#1",
-        "https://www.bbc.co.uk/news/articles/cm2g97nv36go#0",
-        "https://www.bbc.co.uk/news/articles/ckge094k2k1o#0"
+        "https://www.bbc.co.uk/news/articles/c62qd5plzp6o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260812de43514",
         "https://news.web.nhk/newsweb/na/nd-20260812de43517",
         "https://news.web.nhk/newsweb/na/nd-20260812de43508",
         "https://news.web.nhk/newsweb/na/nd-20260812de43513",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015200281000",
         "https://news.web.nhk/newsweb/na/na-k10015200311000",
         "https://news.web.nhk/newsweb/na/na-k10015200331000",
-        "https://news.web.nhk/newsweb/na/na-k10015200121000",
-        "https://news.web.nhk/newsweb/na/na-k10015200291000"
+        "https://news.web.nhk/newsweb/na/na-k10015200121000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/eso-study-finds-that-no-more-than-100000-satellites-should-orbit-earth/",
