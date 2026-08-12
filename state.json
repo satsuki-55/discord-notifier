@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/videos/ckg9d2egn11o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260813de43551",
         "https://news.web.nhk/newsweb/na/nd-20260813de43549",
         "https://news.web.nhk/newsweb/na/nd-20260813de43546",
         "https://news.web.nhk/newsweb/na/nd-20260812de43527",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260808de42858",
         "https://news.web.nhk/newsweb/na/nd-20260809de42920",
         "https://news.web.nhk/newsweb/na/nd-20260809de42888",
-        "https://news.web.nhk/newsweb/na/nd-20260809de42887",
-        "https://news.web.nhk/newsweb/na/nd-20260809de42912"
+        "https://news.web.nhk/newsweb/na/nd-20260809de42887"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/evangelion-osechi/",
