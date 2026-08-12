@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "Pr905wWb1mg",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "ytgooNo0HpQ",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cj03p2jpdd4o#0",
         "https://www.bbc.co.uk/news/articles/cy742kl562ko#0",
         "https://www.bbc.co.uk/news/articles/c9347ezzwljo#0",
         "https://www.bbc.co.uk/news/articles/ce8ljew9rnjo#1",
@@ -200,8 +201,7 @@
         "https://www.bbc.co.uk/news/articles/c1w1lvn7d9go#0",
         "https://www.bbc.co.uk/news/articles/c7vgq5mgz2mo#0",
         "https://www.bbc.co.uk/news/videos/cgmklm40k9go#0",
-        "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo#0",
-        "https://www.bbc.co.uk/news/articles/cqx7lje8l79o#0"
+        "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo#0"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20260812de43478",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/na-k10015200251000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/cmf-clip-pro-review-an-affordable-challenger-in-the-clip-style-earbuds-craze/",
         "https://www.gizmodo.jp/article/3rd-generation-foldable-iphone-display/",
         "https://www.gizmodo.jp/article/vaccination-complete-with-dental-floss-atg/",
         "https://www.gizmodo.jp/article/bose-quiet-comfort-anc/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/geekom-a9-max-2026-review-not-much-max-about-it/",
         "https://www.gizmodo.jp/article/hoverair-versa/",
         "https://www.gizmodo.jp/article/deepseek_v4_flash_0731/",
-        "https://www.gizmodo.jp/article/google-gemini-4/",
-        "https://www.gizmodo.jp/article/giz_timemachine_mobile_batterys/"
+        "https://www.gizmodo.jp/article/google-gemini-4/"
     ]
 }
