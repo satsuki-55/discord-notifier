@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/czjlk8wx771o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260812de43521",
         "https://news.web.nhk/newsweb/na/nd-20260812de43524",
         "https://news.web.nhk/newsweb/na/nd-20260812de43532",
         "https://news.web.nhk/newsweb/na/nd-20260812de43520",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260808de42872",
         "https://news.web.nhk/newsweb/na/nd-20260808de42867",
         "https://news.web.nhk/newsweb/na/nd-20260808de42866",
-        "https://news.web.nhk/newsweb/na/nd-20260808de42862",
-        "https://news.web.nhk/newsweb/na/nd-20260809de42879"
+        "https://news.web.nhk/newsweb/na/nd-20260808de42862"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/mont-bell-water-filter-53d/",
