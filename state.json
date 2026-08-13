@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/c39e3y1y2zjo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260814de43968",
+        "https://news.web.nhk/newsweb/na/nd-20260814de43978",
         "https://news.web.nhk/newsweb/na/nd-20260814de43955",
         "https://news.web.nhk/newsweb/na/nd-20260814de43975",
         "https://news.web.nhk/newsweb/na/nd-20260814de43980",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260811de43234",
         "https://news.web.nhk/newsweb/na/nd-20260811de43243",
         "https://news.web.nhk/newsweb/na/nd-20260811de43265",
-        "https://news.web.nhk/newsweb/na/nd-20260811de43262",
-        "https://news.web.nhk/newsweb/na/nd-20260811de43254",
-        "https://news.web.nhk/newsweb/na/nd-20260811de43246"
+        "https://news.web.nhk/newsweb/na/nd-20260811de43262"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/meta-is-rethinking-subscriptions-on-its-smart-glasses/",
