@@ -1,5 +1,5 @@
 {
-    "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "Pr905wWb1mg",
+    "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "QZDawkC41n8",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "ytgooNo0HpQ",
     "rss:bbc": [
         "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo#0",
@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cvg90el9236o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260813de43641",
         "https://news.web.nhk/newsweb/na/nd-20260813de43689",
         "https://news.web.nhk/newsweb/na/nd-20260813de43692",
         "https://news.web.nhk/newsweb/na/nd-20260813de43678",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260809de42991",
         "https://news.web.nhk/newsweb/na/nd-20260809de42954",
         "https://news.web.nhk/newsweb/na/nd-20260809de42980",
-        "https://news.web.nhk/newsweb/na/nd-20260809de43001",
-        "https://news.web.nhk/newsweb/na/nd-20260809de43002"
+        "https://news.web.nhk/newsweb/na/nd-20260809de43001"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/gunze-nerut/",
         "https://www.gizmodo.jp/article/the-five-biggest-myths-about-saving-energy-in-the-summer/",
         "https://www.gizmodo.jp/article/amazon-ugreen-car-charger/",
         "https://www.gizmodo.jp/article/bear-with-plastic-lid-on-for-2years-p0e/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/20-years-of-gizmodojp-amito/",
         "https://www.gizmodo.jp/article/mag_dry-battery_checker_review/",
         "https://www.gizmodo.jp/article/amazon-audio-technica-wired-earphone/",
-        "https://www.gizmodo.jp/article/restroom-smartphone-10min-b90/",
-        "https://www.gizmodo.jp/article/motorola-razr-fold-hands-on/"
+        "https://www.gizmodo.jp/article/restroom-smartphone-10min-b90/"
     ]
 }
