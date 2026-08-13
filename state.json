@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/cvg90el9236o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260813de43725",
+        "https://news.web.nhk/newsweb/na/nd-20260813de43722",
         "https://news.web.nhk/newsweb/na/nd-20260813de43719",
         "https://news.web.nhk/newsweb/na/nd-20260813de43708",
         "https://news.web.nhk/newsweb/na/nd-20260813de43635",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260810de43027",
         "https://news.web.nhk/newsweb/na/nd-20260809de42999",
         "https://news.web.nhk/newsweb/na/nd-20260809de43021",
-        "https://news.web.nhk/newsweb/na/nd-20260809de43006",
-        "https://news.web.nhk/newsweb/na/nd-20260809de42978",
-        "https://news.web.nhk/newsweb/na/nd-20260809de43012"
+        "https://news.web.nhk/newsweb/na/nd-20260809de43006"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/gunze-nerut/",
