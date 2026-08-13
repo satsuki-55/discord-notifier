@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "QZDawkC41n8",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "hdBGyxx6LAY",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/clyqpqxv04go#1",
         "https://www.bbc.co.uk/news/articles/cx2k1r97vx7o#0",
         "https://www.bbc.co.uk/news/articles/cqx7pp3yd25o#1",
         "https://www.bbc.co.uk/news/articles/cp8xpg1380xo#0",
@@ -200,10 +201,10 @@
         "https://www.bbc.co.uk/news/articles/c8rn4n8v6k7o#0",
         "https://www.bbc.co.uk/news/articles/cwyrkz9ryr5o#0",
         "https://www.bbc.co.uk/news/articles/czjlwlkw1m4o#0",
-        "https://www.bbc.co.uk/news/videos/cy451xqkdz5o#0",
-        "https://www.bbc.co.uk/news/articles/c9d84874dzjo#0"
+        "https://www.bbc.co.uk/news/videos/cy451xqkdz5o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260810de43167",
         "https://news.web.nhk/newsweb/na/nd-20260814de43916",
         "https://news.web.nhk/newsweb/na/nd-20260814de43912",
         "https://news.web.nhk/newsweb/na/nd-20260814de43908",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260810de43195",
         "https://news.web.nhk/newsweb/na/nd-20260810de43197",
         "https://news.web.nhk/newsweb/na/nd-20260810de43201",
-        "https://news.web.nhk/newsweb/na/nd-20260810de43196",
-        "https://news.web.nhk/newsweb/na/nd-20260810de43198"
+        "https://news.web.nhk/newsweb/na/nd-20260810de43196"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/memory-transplant-ukm/",
