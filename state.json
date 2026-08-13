@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cvg90el9236o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260813de43624",
         "https://news.web.nhk/newsweb/na/nd-20260813de43639",
         "https://news.web.nhk/newsweb/na/nd-20260813de43653",
         "https://news.web.nhk/newsweb/na/nd-20260813de43663",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260809de42975",
         "https://news.web.nhk/newsweb/na/nd-20260809de42995",
         "https://news.web.nhk/newsweb/na/nd-20260809de42973",
-        "https://news.web.nhk/newsweb/na/nd-20260809de42994",
-        "https://news.web.nhk/newsweb/na/nd-20260809de42979"
+        "https://news.web.nhk/newsweb/na/nd-20260809de42994"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/bear-with-plastic-lid-on-for-2years-p0e/",
