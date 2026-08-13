@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/weather/articles/cn8n9pg54m1o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260813de43650",
         "https://news.web.nhk/newsweb/na/nd-20260813de43656",
         "https://news.web.nhk/newsweb/na/nd-20260813de43586",
         "https://news.web.nhk/newsweb/na/nd-20260813de43615",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260809de42979",
         "https://news.web.nhk/newsweb/na/nd-20260809de42988",
         "https://news.web.nhk/newsweb/na/nd-20260809de42997",
-        "https://news.web.nhk/newsweb/na/nd-20260809de42989",
-        "https://news.web.nhk/newsweb/na/nd-20260809de42974"
+        "https://news.web.nhk/newsweb/na/nd-20260809de42989"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/bear-with-plastic-lid-on-for-2years-p0e/",
