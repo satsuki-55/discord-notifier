@@ -2,6 +2,8 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "QZDawkC41n8",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "ytgooNo0HpQ",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c0l525k76d0o#0",
+        "https://www.bbc.co.uk/news/articles/c78gqw3w6v5o#0",
         "https://www.bbc.co.uk/news/articles/cp30pppgxyeo#0",
         "https://www.bbc.co.uk/news/articles/cn0npn249qvo#0",
         "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo#0",
@@ -199,11 +201,11 @@
         "https://www.bbc.co.uk/news/articles/ckg9wpmzmlno#1",
         "https://www.bbc.co.uk/weather/articles/c23592z7gppo#0",
         "https://www.bbc.co.uk/news/articles/cgje05wd1v4o#0",
-        "https://www.bbc.co.uk/news/videos/c80nm9melpmo#1",
-        "https://www.bbc.co.uk/news/articles/cm2g550v0pvo#1",
-        "https://www.bbc.co.uk/news/articles/cp308z9pl30o#1"
+        "https://www.bbc.co.uk/news/videos/c80nm9melpmo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260813de43749",
+        "https://news.web.nhk/newsweb/na/nd-20260813de43760",
         "https://news.web.nhk/newsweb/na/nd-20260813de43748",
         "https://news.web.nhk/newsweb/na/nd-20260813de43761",
         "https://news.web.nhk/newsweb/na/nd-20260813de43754",
@@ -401,11 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260810de43057",
         "https://news.web.nhk/newsweb/na/nd-20260809de43010",
         "https://news.web.nhk/newsweb/na/nd-20260810de43037",
-        "https://news.web.nhk/newsweb/na/nd-20260809de43011",
-        "https://news.web.nhk/newsweb/na/nd-20260809de43013",
-        "https://news.web.nhk/newsweb/na/nd-20260810de43032"
+        "https://news.web.nhk/newsweb/na/nd-20260809de43011"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/future-apple-watches-might-ditch-the-screen/",
         "https://www.gizmodo.jp/article/casios-tiny-ring-watch-is-now-a-full-blown-oura-alternative/",
         "https://www.gizmodo.jp/article/gunze-nerut/",
         "https://www.gizmodo.jp/article/the-five-biggest-myths-about-saving-energy-in-the-summer/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/this-new-process-turns-plastic-trash-into-clean-fuel-instead-of-pollution/",
         "https://www.gizmodo.jp/article/can-microsoft-really-make-windows-11-suck-less-on-weak-pcs/",
         "https://www.gizmodo.jp/article/20-years-of-gizmodojp-amito/",
-        "https://www.gizmodo.jp/article/mag_dry-battery_checker_review/",
-        "https://www.gizmodo.jp/article/amazon-audio-technica-wired-earphone/"
+        "https://www.gizmodo.jp/article/mag_dry-battery_checker_review/"
     ]
 }
