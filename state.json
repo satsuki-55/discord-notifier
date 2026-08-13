@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "Pr905wWb1mg",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "ytgooNo0HpQ",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cx2v1893n3eo#0",
         "https://www.bbc.co.uk/news/articles/cx2l13p6g3vo#0",
         "https://www.bbc.co.uk/news/articles/c5yw7vdwjxyo#1",
         "https://www.bbc.co.uk/news/articles/cp30pz8d09jo#0",
@@ -200,8 +201,7 @@
         "https://www.bbc.co.uk/news/articles/cy8m1pjg4k3o#0",
         "https://www.bbc.co.uk/news/articles/cm2g90vvy62o#0",
         "https://www.bbc.co.uk/news/articles/c1j1kjy7gewo#0",
-        "https://www.bbc.co.uk/sport/football/articles/cgljd4kny9eo#1",
-        "https://www.bbc.co.uk/news/articles/cvgj846q2veo#0"
+        "https://www.bbc.co.uk/sport/football/articles/cgljd4kny9eo#1"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20260813de43579",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260809de42906"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/g6-he-ultralight-tyohayawari-ends-tomorrow/",
         "https://www.gizmodo.jp/article/rumored-never-to-be-released-apple-feature-may-have-been-too-much-truth-for-most-consumers/",
         "https://www.gizmodo.jp/article/hand-made-orca-echo/",
         "https://www.gizmodo.jp/article/google_pixeltag_release/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/342ac73e-3526-4d75-a3dc-f3804245fc29/",
         "https://www.gizmodo.jp/article/oura-ring-5-review-the-best-smart-ring-right-now-and-its-not-close/",
         "https://www.gizmodo.jp/article/aidaptiv-station/",
-        "https://www.gizmodo.jp/article/newbalance_higt-grade-rebounting-insole-dfe-rqg/",
-        "https://www.gizmodo.jp/article/gpu_more_expensive_2608/"
+        "https://www.gizmodo.jp/article/newbalance_higt-grade-rebounting-insole-dfe-rqg/"
     ]
 }
