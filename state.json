@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c0jl66j9yjpo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260813de43846",
         "https://news.web.nhk/newsweb/na/nd-20260813de43843",
         "https://news.web.nhk/newsweb/na/nd-20260813de43836",
         "https://news.web.nhk/newsweb/na/nd-20260813de43837",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260810de43054",
         "https://news.web.nhk/newsweb/na/nd-20260810de43053",
         "https://news.web.nhk/newsweb/na/nd-20260810de43148",
-        "https://news.web.nhk/newsweb/na/nd-20260810de43124",
-        "https://news.web.nhk/newsweb/na/nd-20260810de43138"
+        "https://news.web.nhk/newsweb/na/nd-20260810de43124"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/et-coldbrewpro/",
