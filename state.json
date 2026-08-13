@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "QZDawkC41n8",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "AM7o9CLpqbE",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cwyl2zwp158o#0",
         "https://www.bbc.co.uk/news/articles/crrvp45gxzpo#0",
         "https://www.bbc.co.uk/news/articles/c4gk0dq81j2o#0",
         "https://www.bbc.co.uk/news/articles/cx2j1j5ypjdo#0",
@@ -200,8 +201,7 @@
         "https://www.bbc.co.uk/news/articles/c0jl66j9yjpo#0",
         "https://www.bbc.co.uk/news/articles/c2lqwyxj024o#0",
         "https://www.bbc.co.uk/news/articles/cvgl0dd53xro#0",
-        "https://www.bbc.co.uk/news/articles/czrjkm68xlno#1",
-        "https://www.bbc.co.uk/news/articles/cevmkkg791yo#0"
+        "https://www.bbc.co.uk/news/articles/czrjkm68xlno#1"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20260813de43826",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260810de43122"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/nike_zegama-hike/",
         "https://www.gizmodo.jp/article/bezelless-iphone-development-or-not/",
         "https://www.gizmodo.jp/article/framework-laptop-13-pro-review-the-best-modular-laptop-ever-made/",
         "https://www.gizmodo.jp/article/future-apple-watches-might-ditch-the-screen/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/building_the_front_end/",
         "https://www.gizmodo.jp/article/cognitive-surrender-is-a-new-and-useful-term-for-how-ai-melts-brains-pkz-zgv/",
         "https://www.gizmodo.jp/article/galaxy-s27-series-may-feature-silicon-carbon-battery/",
-        "https://www.gizmodo.jp/article/this-new-process-turns-plastic-trash-into-clean-fuel-instead-of-pollution/",
-        "https://www.gizmodo.jp/article/can-microsoft-really-make-windows-11-suck-less-on-weak-pcs/"
+        "https://www.gizmodo.jp/article/this-new-process-turns-plastic-trash-into-clean-fuel-instead-of-pollution/"
     ]
 }
