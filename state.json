@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "QZDawkC41n8",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "hdBGyxx6LAY",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c1m12vny944o#0",
         "https://www.bbc.co.uk/news/videos/cz7d50q40v3o#0",
         "https://www.bbc.co.uk/sport/football/articles/crl7wdkxdd7o#0",
         "https://www.bbc.co.uk/news/articles/c1m12vny944o#1",
@@ -200,8 +201,7 @@
         "https://www.bbc.co.uk/news/articles/cj03p2jpdd4o#0",
         "https://www.bbc.co.uk/news/articles/cy742kl562ko#0",
         "https://www.bbc.co.uk/news/articles/c9347ezzwljo#0",
-        "https://www.bbc.co.uk/news/articles/ce8ljew9rnjo#1",
-        "https://www.bbc.co.uk/weather/articles/c23592z7gppo#1"
+        "https://www.bbc.co.uk/news/articles/ce8ljew9rnjo#1"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20260814de44092",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260811de43322"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/pgytech_camera_wrist_strap_air-eii/",
         "https://www.gizmodo.jp/article/pixel11-nfc/",
         "https://www.gizmodo.jp/article/pixel11-charging/",
         "https://www.gizmodo.jp/article/2608-elon-musk-spacex-earnings-call-ai-data-centers-starlink-revenue-fbo/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/ios27-movie-subtitle/",
         "https://www.gizmodo.jp/article/iwatani-compactburner/",
         "https://www.gizmodo.jp/article/massive-extinct-whale-heaviest-animal-ever-0y2/",
-        "https://www.gizmodo.jp/article/20th-anniversary-iphone-features-6-4-inch-and-7-inch-displays/",
-        "https://www.gizmodo.jp/article/galaxy-z-fold8-already-in-short-supply/"
+        "https://www.gizmodo.jp/article/20th-anniversary-iphone-features-6-4-inch-and-7-inch-displays/"
     ]
 }
