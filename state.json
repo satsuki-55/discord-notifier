@@ -1,6 +1,6 @@
 {
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "OFFanuYVLSs",
-    "youtube:UCjJmYy279ehSYSwR1A3fXtA": "hdBGyxx6LAY",
+    "youtube:UCjJmYy279ehSYSwR1A3fXtA": "4TUYNCPps90",
     "rss:bbc": [
         "https://www.bbc.co.uk/news/videos/c1j1eg31y6no#0",
         "https://www.bbc.co.uk/news/articles/c1l1yj0zd9no#0",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260812de43457"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/relay-2-1/",
         "https://www.gizmodo.jp/article/ligar-review-2/",
         "https://www.gizmodo.jp/article/pixel11-magic-capture/",
         "https://www.gizmodo.jp/article/pixel11-pro-videotools/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/ligar-3d-print/",
         "https://www.gizmodo.jp/article/iphone-air-sale-0806/",
         "https://www.gizmodo.jp/article/wikiflix/",
-        "https://www.gizmodo.jp/article/cortisol-monitor-trend/",
-        "https://www.gizmodo.jp/article/cmf-clip-pro-wireless-earbuds-kind-of-look-like-a-vape-for-some-reason/"
+        "https://www.gizmodo.jp/article/cortisol-monitor-trend/"
     ]
 }
