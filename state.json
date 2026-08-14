@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/c5y3egv4m4mo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260814de44176",
+        "https://news.web.nhk/newsweb/na/nd-20260814de44163",
         "https://news.web.nhk/newsweb/na/nd-20260814de44170",
         "https://news.web.nhk/newsweb/na/nd-20260814de44162",
         "https://news.web.nhk/newsweb/na/nd-20260814de44178",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260812de43472",
         "https://news.web.nhk/newsweb/na/nd-20260812de43457",
         "https://news.web.nhk/newsweb/na/nd-20260812de43477",
-        "https://news.web.nhk/newsweb/na/nd-20260812de43465",
-        "https://news.web.nhk/newsweb/na/nd-20260812de43467",
-        "https://news.web.nhk/newsweb/na/nd-20260812de43383"
+        "https://news.web.nhk/newsweb/na/nd-20260812de43465"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/ligar-review-2/",
