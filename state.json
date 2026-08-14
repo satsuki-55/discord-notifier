@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/c5y49xp2wrno#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260815de44213",
+        "https://news.web.nhk/newsweb/na/nd-20260815de44211",
         "https://news.web.nhk/newsweb/na/nd-20260814de44174",
         "https://news.web.nhk/newsweb/na/nd-20260815de44210",
         "https://news.web.nhk/newsweb/na/nd-20260815de44203",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260812de43525",
         "https://news.web.nhk/newsweb/na/nd-20260812de43521",
         "https://news.web.nhk/newsweb/na/nd-20260812de43524",
-        "https://news.web.nhk/newsweb/na/nd-20260812de43532",
-        "https://news.web.nhk/newsweb/na/nd-20260812de43520",
-        "https://news.web.nhk/newsweb/na/nd-20260812de43523"
+        "https://news.web.nhk/newsweb/na/nd-20260812de43532"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/relay-2-1/",
