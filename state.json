@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cy742kl562ko#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260814de44101",
         "https://news.web.nhk/newsweb/na/nd-20260814de44061",
         "https://news.web.nhk/newsweb/na/nd-20260814de44093",
         "https://news.web.nhk/newsweb/na/nd-20260814de44092",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260812de43342",
         "https://news.web.nhk/newsweb/na/nd-20260812de43353",
         "https://news.web.nhk/newsweb/na/nd-20260812de43363",
-        "https://news.web.nhk/newsweb/na/nd-20260812de43362",
-        "https://news.web.nhk/newsweb/na/nd-20260812de43351"
+        "https://news.web.nhk/newsweb/na/nd-20260812de43362"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/oxtak-money-penny-record/",
         "https://www.gizmodo.jp/article/pgytech_camera_wrist_strap_air-eii/",
         "https://www.gizmodo.jp/article/pixel11-nfc/",
         "https://www.gizmodo.jp/article/pixel11-charging/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/matte-black-pixel-11-pro-leaked/",
         "https://www.gizmodo.jp/article/ios27-movie-subtitle/",
         "https://www.gizmodo.jp/article/iwatani-compactburner/",
-        "https://www.gizmodo.jp/article/massive-extinct-whale-heaviest-animal-ever-0y2/",
-        "https://www.gizmodo.jp/article/20th-anniversary-iphone-features-6-4-inch-and-7-inch-displays/"
+        "https://www.gizmodo.jp/article/massive-extinct-whale-heaviest-animal-ever-0y2/"
     ]
 }
