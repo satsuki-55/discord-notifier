@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "QZDawkC41n8",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "hdBGyxx6LAY",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cly8p8lpyvmo#1",
         "https://www.bbc.co.uk/news/articles/c934wqpd74xo#0",
         "https://www.bbc.co.uk/news/articles/c5yw71q9y00o#1",
         "https://www.bbc.co.uk/weather/articles/cgjepxqn0lvo#0",
@@ -200,10 +201,11 @@
         "https://www.bbc.co.uk/news/articles/czdmn1re7zgo#0",
         "https://www.bbc.co.uk/news/articles/cn0nww2qlp7o#1",
         "https://www.bbc.co.uk/news/articles/c5y3j3ngevmo#0",
-        "https://www.bbc.co.uk/news/articles/cvgx4yd1gl2o#0",
-        "https://www.bbc.co.uk/news/articles/czjl39rk93jo#0"
+        "https://www.bbc.co.uk/news/articles/cvgx4yd1gl2o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260814de44032",
+        "https://news.web.nhk/newsweb/na/nd-20260814de44028",
         "https://news.web.nhk/newsweb/na/nd-20260814de44024",
         "https://news.web.nhk/newsweb/na/nd-20260814de44017",
         "https://news.web.nhk/newsweb/na/nd-20260814de44019",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260812de43331",
         "https://news.web.nhk/newsweb/na/nd-20260812de43333",
         "https://news.web.nhk/newsweb/na/nd-20260811de43321",
-        "https://news.web.nhk/newsweb/na/nd-20260812de43345",
-        "https://news.web.nhk/newsweb/na/nd-20260811de43301",
-        "https://news.web.nhk/newsweb/na/nd-20260811de43298"
+        "https://news.web.nhk/newsweb/na/nd-20260812de43345"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/folding-umbrella-zzd/",
