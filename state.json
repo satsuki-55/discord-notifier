@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c8xn7k2ldzxo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260814de44118",
         "https://news.web.nhk/newsweb/na/nd-20260814de44086",
         "https://news.web.nhk/newsweb/na/nd-20260814de44100",
         "https://news.web.nhk/newsweb/na/nd-20260814de44101",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260812de43375",
         "https://news.web.nhk/newsweb/na/nd-20260812de43387",
         "https://news.web.nhk/newsweb/na/nd-20260812de43369",
-        "https://news.web.nhk/newsweb/na/nd-20260812de43342",
-        "https://news.web.nhk/newsweb/na/nd-20260812de43353"
+        "https://news.web.nhk/newsweb/na/nd-20260812de43342"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/3coins-wrist-rest-mouse-cushion-review-rth/",
