@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/videos/cvg7zrxknvno#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260814de44115",
         "https://news.web.nhk/newsweb/na/nd-20260814de44111",
         "https://news.web.nhk/newsweb/na/nd-20260814de44125",
         "https://news.web.nhk/newsweb/na/nd-20260814de44120",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260812de43392",
         "https://news.web.nhk/newsweb/na/nd-20260812de43385",
         "https://news.web.nhk/newsweb/na/nd-20260812de43344",
-        "https://news.web.nhk/newsweb/na/nd-20260812de43373",
-        "https://news.web.nhk/newsweb/na/nd-20260812de43375"
+        "https://news.web.nhk/newsweb/na/nd-20260812de43373"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/windows-license-fee-up/",
