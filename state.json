@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "OFFanuYVLSs",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "hdBGyxx6LAY",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c0jlyqdj6geo#0",
         "https://www.bbc.co.uk/news/articles/c3v0yz9k250o#0",
         "https://www.bbc.co.uk/news/videos/cj03gyzg2l7o#0",
         "https://www.bbc.co.uk/news/articles/cd9wp32dgxxo#0",
@@ -200,8 +201,7 @@
         "https://www.bbc.co.uk/news/videos/czxq245k1neo#0",
         "https://www.bbc.co.uk/news/articles/c5y3egv4m4mo#0",
         "https://www.bbc.co.uk/news/articles/cr491p70dv5o#0",
-        "https://www.bbc.co.uk/news/articles/cp308wy8zk9o#1",
-        "https://www.bbc.co.uk/news/articles/c9347ezzwljo#1"
+        "https://www.bbc.co.uk/news/articles/cp308wy8zk9o#1"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20260814de44169",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260812de43432"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/pixel11-magic-capture/",
         "https://www.gizmodo.jp/article/pixel11-pro-videotools/",
         "https://www.gizmodo.jp/article/pixel11-checkpoints/",
         "https://www.gizmodo.jp/article/outdoorunitcover/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/wikiflix/",
         "https://www.gizmodo.jp/article/cortisol-monitor-trend/",
         "https://www.gizmodo.jp/article/cmf-clip-pro-wireless-earbuds-kind-of-look-like-a-vape-for-some-reason/",
-        "https://www.gizmodo.jp/article/apple-event-2026-rumors/",
-        "https://www.gizmodo.jp/article/this-may-be-the-worlds-first-quantum-battery-wyr-brc/"
+        "https://www.gizmodo.jp/article/apple-event-2026-rumors/"
     ]
 }
