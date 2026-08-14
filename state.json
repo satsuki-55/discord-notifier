@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c0qvpveg20vo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260814de43999",
         "https://news.web.nhk/newsweb/na/nd-20260814de44033",
         "https://news.web.nhk/newsweb/na/nd-20260814de44032",
         "https://news.web.nhk/newsweb/na/nd-20260814de44028",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260811de43281",
         "https://news.web.nhk/newsweb/na/nd-20260812de43334",
         "https://news.web.nhk/newsweb/na/nd-20260812de43331",
-        "https://news.web.nhk/newsweb/na/nd-20260812de43333",
-        "https://news.web.nhk/newsweb/na/nd-20260811de43321"
+        "https://news.web.nhk/newsweb/na/nd-20260812de43333"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/apple-is-reportedly-worried-about-its-non-creepy-reputation-as-it-prepares-to-enter-a-creepy-product-category/",
