@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "QZDawkC41n8",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "hdBGyxx6LAY",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c1l1ym96ydvo#0",
         "https://www.bbc.co.uk/news/articles/cj03p2jpdd4o#0",
         "https://www.bbc.co.uk/news/videos/c36dyep3k1ko#0",
         "https://www.bbc.co.uk/news/articles/ckgdprd3mv9o#1",
@@ -200,10 +201,10 @@
         "https://www.bbc.co.uk/news/articles/cqlxp5lp9ndo#0",
         "https://www.bbc.co.uk/news/videos/cvg7zrxknvno#1",
         "https://www.bbc.co.uk/news/articles/cvgxzmgejd5o#0",
-        "https://www.bbc.co.uk/news/articles/c8xn7k2ldzxo#1",
-        "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo#0"
+        "https://www.bbc.co.uk/news/articles/c8xn7k2ldzxo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260814de44086",
         "https://news.web.nhk/newsweb/na/nd-20260814de44100",
         "https://news.web.nhk/newsweb/na/nd-20260814de44101",
         "https://news.web.nhk/newsweb/na/nd-20260814de44061",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260812de43387",
         "https://news.web.nhk/newsweb/na/nd-20260812de43369",
         "https://news.web.nhk/newsweb/na/nd-20260812de43342",
-        "https://news.web.nhk/newsweb/na/nd-20260812de43353",
-        "https://news.web.nhk/newsweb/na/nd-20260812de43363"
+        "https://news.web.nhk/newsweb/na/nd-20260812de43353"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/3coins-wrist-rest-mouse-cushion-review-rth/",
         "https://www.gizmodo.jp/article/oxtak-money-penny-record/",
         "https://www.gizmodo.jp/article/pgytech_camera_wrist_strap_air-eii/",
         "https://www.gizmodo.jp/article/pixel11-nfc/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/yamaguchimeguru_exhibition_vortex/",
         "https://www.gizmodo.jp/article/matte-black-pixel-11-pro-leaked/",
         "https://www.gizmodo.jp/article/ios27-movie-subtitle/",
-        "https://www.gizmodo.jp/article/iwatani-compactburner/",
-        "https://www.gizmodo.jp/article/massive-extinct-whale-heaviest-animal-ever-0y2/"
+        "https://www.gizmodo.jp/article/iwatani-compactburner/"
     ]
 }
