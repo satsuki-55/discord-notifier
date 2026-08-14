@@ -2,6 +2,8 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "QZDawkC41n8",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "hdBGyxx6LAY",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/clyj92j210do#0",
+        "https://www.bbc.co.uk/news/articles/c4gyp1knzzxo#1",
         "https://www.bbc.co.uk/news/articles/cr7kpdkg13zo#0",
         "https://www.bbc.co.uk/news/articles/c0l525k76d0o#1",
         "https://www.bbc.co.uk/news/articles/c5y3j3ngevmo#0",
@@ -199,9 +201,7 @@
         "https://www.bbc.co.uk/news/articles/cn0nwz5v1lzo#1",
         "https://www.bbc.co.uk/news/articles/cg74gvy8lgjo#1",
         "https://www.bbc.co.uk/news/articles/c39epmz7ex4o#0",
-        "https://www.bbc.co.uk/news/articles/czxe2vyxd7do#1",
-        "https://www.bbc.co.uk/news/articles/cp308wy8zk9o#0",
-        "https://www.bbc.co.uk/news/articles/czdmn1re7zgo#1"
+        "https://www.bbc.co.uk/news/articles/czxe2vyxd7do#1"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20260814de44018",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260812de43331"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/iphone-ultra-front-camera-upper-right/",
         "https://www.gizmodo.jp/article/chrome_password_gemini_change/",
         "https://www.gizmodo.jp/article/apple-is-reportedly-worried-about-its-non-creepy-reputation-as-it-prepares-to-enter-a-creepy-product-category/",
         "https://www.gizmodo.jp/article/6-unreleased-codenames/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/galaxy-z-fold8-already-in-short-supply/",
         "https://www.gizmodo.jp/article/spyrafour_watergun/",
         "https://www.gizmodo.jp/article/2605-how-copilot-new-microsoft-tools-work-yqz/",
-        "https://www.gizmodo.jp/article/2607-world-most-expensive-cities-everday-items-rent-food-iphone-switzerland-cga/",
-        "https://www.gizmodo.jp/article/if-youre-struggling-to-find-a-macbook-air-right-now-this-is-probably-why/"
+        "https://www.gizmodo.jp/article/2607-world-most-expensive-cities-everday-items-rent-food-iphone-switzerland-cga/"
     ]
 }
