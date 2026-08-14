@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "QZDawkC41n8",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "hdBGyxx6LAY",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cdj0pv2m812o#0",
         "https://www.bbc.co.uk/news/articles/cy8ewdwldxdo#0",
         "https://www.bbc.co.uk/news/articles/c62918ddg3lo#0",
         "https://www.bbc.co.uk/news/articles/c1l1ym96ydvo#0",
@@ -200,10 +201,10 @@
         "https://www.bbc.co.uk/news/articles/c75g9777wwxo#0",
         "https://www.bbc.co.uk/news/articles/cvg8lyyyjedo#1",
         "https://www.bbc.co.uk/news/articles/cz7d2e5wlgno#0",
-        "https://www.bbc.co.uk/news/articles/cqlxp5lp9ndo#0",
-        "https://www.bbc.co.uk/news/videos/cvg7zrxknvno#1"
+        "https://www.bbc.co.uk/news/articles/cqlxp5lp9ndo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260814de44134",
         "https://news.web.nhk/newsweb/na/nd-20260814de44139",
         "https://news.web.nhk/newsweb/na/nd-20260814de44115",
         "https://news.web.nhk/newsweb/na/nd-20260814de44111",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260812de43409",
         "https://news.web.nhk/newsweb/na/nd-20260812de43371",
         "https://news.web.nhk/newsweb/na/nd-20260812de43392",
-        "https://news.web.nhk/newsweb/na/nd-20260812de43385",
-        "https://news.web.nhk/newsweb/na/nd-20260812de43344"
+        "https://news.web.nhk/newsweb/na/nd-20260812de43385"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/windows-license-fee-up/",
