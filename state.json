@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/czjl39rk93jo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260814de44016",
         "https://news.web.nhk/newsweb/na/nd-20260814de44013",
         "https://news.web.nhk/newsweb/na/nd-20260814de44006",
         "https://news.web.nhk/newsweb/na/nd-20260814de43984",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260812de43330",
         "https://news.web.nhk/newsweb/na/nd-20260811de43319",
         "https://news.web.nhk/newsweb/na/nd-20260811de43300",
-        "https://news.web.nhk/newsweb/na/nd-20260811de43291",
-        "https://news.web.nhk/newsweb/na/nd-20260811de43263"
+        "https://news.web.nhk/newsweb/na/nd-20260811de43291"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/zipstring-arcana_gizmart/",
