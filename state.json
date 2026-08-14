@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c1512909pgpo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260811de43324",
         "https://news.web.nhk/newsweb/na/nd-20260814de44090",
         "https://news.web.nhk/newsweb/na/nd-20260814de44066",
         "https://news.web.nhk/newsweb/na/nd-20260814de44074",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260812de43351",
         "https://news.web.nhk/newsweb/na/nd-20260811de43323",
         "https://news.web.nhk/newsweb/na/nd-20260811de43322",
-        "https://news.web.nhk/newsweb/na/nd-20260811de43325",
-        "https://news.web.nhk/newsweb/na/nd-20260811de43316"
+        "https://news.web.nhk/newsweb/na/nd-20260811de43325"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/pixel11-nfc/",
