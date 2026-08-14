@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/czxe2vyxd7do#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260814de44072",
         "https://news.web.nhk/newsweb/na/nd-20260814de44018",
         "https://news.web.nhk/newsweb/na/nd-20260814de43999",
         "https://news.web.nhk/newsweb/na/nd-20260814de44033",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260811de43316",
         "https://news.web.nhk/newsweb/na/nd-20260811de43324",
         "https://news.web.nhk/newsweb/na/nd-20260811de43281",
-        "https://news.web.nhk/newsweb/na/nd-20260812de43334",
-        "https://news.web.nhk/newsweb/na/nd-20260812de43331"
+        "https://news.web.nhk/newsweb/na/nd-20260812de43334"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/iphone-ultra-front-camera-upper-right/",
