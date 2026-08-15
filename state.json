@@ -2,6 +2,9 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "OFFanuYVLSs",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "4TUYNCPps90",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c4gkyez7195o#0",
+        "https://www.bbc.co.uk/news/articles/cx2vj433xqlo#0",
+        "https://www.bbc.co.uk/news/articles/clyje43dz4eo#1",
         "https://www.bbc.co.uk/news/articles/c8jnwnw22ngo#1",
         "https://www.bbc.co.uk/news/articles/c75gk620r22o#0",
         "https://www.bbc.co.uk/news/articles/c5y49e2z8yno#0",
@@ -198,10 +201,7 @@
         "https://www.bbc.co.uk/news/videos/ckg9d2egn11o#0",
         "https://www.bbc.co.uk/news/articles/cx256pp33l3o#0",
         "https://www.bbc.co.uk/news/articles/cwymw4434v7o#0",
-        "https://www.bbc.co.uk/news/videos/c5yr891pp5eo#0",
-        "https://www.bbc.co.uk/news/articles/cpd76e737ljo#0",
-        "https://www.bbc.co.uk/news/articles/cx2r179e232o#0",
-        "https://www.bbc.co.uk/news/articles/c9d83j4ql2xo#1"
+        "https://www.bbc.co.uk/news/videos/c5yr891pp5eo#0"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20260815de44268",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260813de43577"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/pope-leo-signed-popplio-card-pokemon-8vo/",
         "https://www.gizmodo.jp/article/a-fighter-jet-that-takes-off-without-a-runway-is-one-step-closer-to-vertical-takeoff/",
         "https://www.gizmodo.jp/article/b23691c5-24e1-4eeb-aa69-c105615c5b84/",
         "https://www.gizmodo.jp/article/kaitanics-honda-super-cub-110/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/nature-remo-update/",
         "https://www.gizmodo.jp/article/2607-stock-market-outlook-sp500-mag-7-lost-decade-bill-smead-ixd/",
         "https://www.gizmodo.jp/article/nakabayashi_ucp-ca001/",
-        "https://www.gizmodo.jp/article/sony-may-acquire-tamron/",
-        "https://www.gizmodo.jp/article/amazon-airpods-pro-3/"
+        "https://www.gizmodo.jp/article/sony-may-acquire-tamron/"
     ]
 }
