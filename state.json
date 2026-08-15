@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/c0qv2nn1gpeo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260815de44230",
+        "https://news.web.nhk/newsweb/na/nd-20260815de44232",
         "https://news.web.nhk/newsweb/na/nd-20260812de43487",
         "https://news.web.nhk/newsweb/na/nd-20260815de44226",
         "https://news.web.nhk/newsweb/na/nd-20260815de44218",
@@ -401,11 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260813de43551",
         "https://news.web.nhk/newsweb/na/nd-20260813de43549",
         "https://news.web.nhk/newsweb/na/nd-20260813de43546",
-        "https://news.web.nhk/newsweb/na/nd-20260812de43527",
-        "https://news.web.nhk/newsweb/na/nd-20260812de43502",
-        "https://news.web.nhk/newsweb/na/nd-20260813de43547"
+        "https://news.web.nhk/newsweb/na/nd-20260812de43527"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/a-hybrid-motion-sensor-light-and-flash-light/",
         "https://www.gizmodo.jp/article/nothing-smartwatch/",
         "https://www.gizmodo.jp/article/relay-2-1/",
         "https://www.gizmodo.jp/article/ligar-review-2/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/5-features-you-should-update-ios27/",
         "https://www.gizmodo.jp/article/smart_rings-lnr/",
         "https://www.gizmodo.jp/article/ligar-3d-print/",
-        "https://www.gizmodo.jp/article/iphone-air-sale-0806/",
-        "https://www.gizmodo.jp/article/wikiflix/"
+        "https://www.gizmodo.jp/article/iphone-air-sale-0806/"
     ]
 }
