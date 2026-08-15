@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "OFFanuYVLSs",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "4TUYNCPps90",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cr59jg1ypd3o#0",
         "https://www.bbc.co.uk/news/articles/cx256pp33l3o#0",
         "https://www.bbc.co.uk/news/articles/cwymw4434v7o#0",
         "https://www.bbc.co.uk/news/articles/c8en2z9jp2xo#0",
@@ -200,10 +201,11 @@
         "https://www.bbc.co.uk/weather/articles/ce85pj0e20po#0",
         "https://www.bbc.co.uk/news/articles/cgk4pex4mn8o#0",
         "https://www.bbc.co.uk/news/articles/c89n8j5e32do#0",
-        "https://www.bbc.co.uk/news/articles/crl711557e6o#0",
-        "https://www.bbc.co.uk/news/articles/czxe2kw31wpo#0"
+        "https://www.bbc.co.uk/news/articles/crl711557e6o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260815de44289",
+        "https://news.web.nhk/newsweb/na/nd-20260815de44282",
         "https://news.web.nhk/newsweb/na/nd-20260815de44293",
         "https://news.web.nhk/newsweb/na/nd-20260815de44290",
         "https://news.web.nhk/newsweb/na/nd-20260815de44255",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260813de43656",
         "https://news.web.nhk/newsweb/na/nd-20260813de43586",
         "https://news.web.nhk/newsweb/na/nd-20260813de43615",
-        "https://news.web.nhk/newsweb/na/nd-20260813de43592",
-        "https://news.web.nhk/newsweb/na/nd-20260813de43590",
-        "https://news.web.nhk/newsweb/na/nd-20260813de43575"
+        "https://news.web.nhk/newsweb/na/nd-20260813de43592"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/augmental-mouthpad-keyboard-mouse/",
