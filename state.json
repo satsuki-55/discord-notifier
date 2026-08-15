@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "OFFanuYVLSs",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "4TUYNCPps90",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o#0",
         "https://www.bbc.co.uk/news/articles/cgjee21eenvo#1",
         "https://www.bbc.co.uk/news/articles/cz977nxww1jo#0",
         "https://www.bbc.co.uk/news/articles/cr59jg1ypd3o#1",
@@ -200,10 +201,10 @@
         "https://www.bbc.co.uk/news/articles/cqx7pp3yd25o#0",
         "https://www.bbc.co.uk/news/articles/cx2v1893n3eo#1",
         "https://www.bbc.co.uk/news/articles/c5yr8r04edvo#1",
-        "https://www.bbc.co.uk/news/articles/c0l525k76d0o#0",
-        "https://www.bbc.co.uk/news/articles/c78gqw3w6v5o#0"
+        "https://www.bbc.co.uk/news/articles/c0l525k76d0o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260816de44348",
         "https://news.web.nhk/newsweb/na/nd-20260816de44346",
         "https://news.web.nhk/newsweb/na/nd-20260816de44344",
         "https://news.web.nhk/newsweb/na/nd-20260816de44332",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260813de43708",
         "https://news.web.nhk/newsweb/na/nd-20260813de43635",
         "https://news.web.nhk/newsweb/na/nd-20260813de43703",
-        "https://news.web.nhk/newsweb/na/nd-20260813de43666",
-        "https://news.web.nhk/newsweb/na/nd-20260813de43641"
+        "https://news.web.nhk/newsweb/na/nd-20260813de43666"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/random-number-quantum-entanglement-cwk/",
