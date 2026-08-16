@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cvglzlj81x2o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260816de44391",
         "https://news.web.nhk/newsweb/na/nd-20260816de44405",
         "https://news.web.nhk/newsweb/na/nd-20260816de44406",
         "https://news.web.nhk/newsweb/na/nd-20260816de44401",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260813de43810",
         "https://news.web.nhk/newsweb/na/nd-20260813de43791",
         "https://news.web.nhk/newsweb/na/nd-20260813de43697",
-        "https://news.web.nhk/newsweb/na/nd-20260813de43676",
-        "https://news.web.nhk/newsweb/na/nd-20260813de43803"
+        "https://news.web.nhk/newsweb/na/nd-20260813de43676"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/flies_are_the_key_to_the_murder_case/",
