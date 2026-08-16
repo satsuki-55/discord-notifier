@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/videos/c86nd59z7vqo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260816de44371",
         "https://news.web.nhk/newsweb/na/nd-20260816de44380",
         "https://news.web.nhk/newsweb/na/nd-20260816de44374",
         "https://news.web.nhk/newsweb/na/nd-20260816de44365",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260813de43775",
         "https://news.web.nhk/newsweb/na/nd-20260813de43769",
         "https://news.web.nhk/newsweb/na/nd-20260813de43749",
-        "https://news.web.nhk/newsweb/na/nd-20260813de43760",
-        "https://news.web.nhk/newsweb/na/nd-20260813de43748"
+        "https://news.web.nhk/newsweb/na/nd-20260813de43760"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/signals_from_aliens_might_be_in_the_old_telescope_data/",
