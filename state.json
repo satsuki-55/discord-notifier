@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/videos/c86nd59z7vqo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260816de44363",
         "https://news.web.nhk/newsweb/na/nd-20260815de44216",
         "https://news.web.nhk/newsweb/na/nd-20260816de44364",
         "https://news.web.nhk/newsweb/na/nd-20260816de44367",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260813de43754",
         "https://news.web.nhk/newsweb/na/nd-20260813de43758",
         "https://news.web.nhk/newsweb/na/nd-20260813de43744",
-        "https://news.web.nhk/newsweb/na/nd-20260813de43751",
-        "https://news.web.nhk/newsweb/na/nd-20260813de43745"
+        "https://news.web.nhk/newsweb/na/nd-20260813de43751"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/skullcandy-crusher-1080-anc-review-a-huge-boost-from-bose/",
