@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/videos/cn5np5x00edo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260816de44432",
         "https://news.web.nhk/newsweb/na/nd-20260817de44445",
         "https://news.web.nhk/newsweb/na/nd-20260816de44403",
         "https://news.web.nhk/newsweb/na/nd-20260816de44410",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260813de43851",
         "https://news.web.nhk/newsweb/na/nd-20260813de43859",
         "https://news.web.nhk/newsweb/na/nd-20260810de43124",
-        "https://news.web.nhk/newsweb/na/nd-20260813de43857",
-        "https://news.web.nhk/newsweb/na/nd-20260813de43764"
+        "https://news.web.nhk/newsweb/na/nd-20260813de43857"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/earths-core-is-leaking-gold-into-volcanoes-scientists-say-o4h/",
