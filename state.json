@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c9q9351yp1xo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260816de44353",
         "https://news.web.nhk/newsweb/na/nd-20260815de44257",
         "https://news.web.nhk/newsweb/na/nd-20260816de44348",
         "https://news.web.nhk/newsweb/na/nd-20260816de44346",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260813de43722",
         "https://news.web.nhk/newsweb/na/nd-20260813de43719",
         "https://news.web.nhk/newsweb/na/nd-20260813de43708",
-        "https://news.web.nhk/newsweb/na/nd-20260813de43635",
-        "https://news.web.nhk/newsweb/na/nd-20260813de43703"
+        "https://news.web.nhk/newsweb/na/nd-20260813de43635"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/gadjet-pouch-with-orca-echo/",
