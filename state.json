@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/videos/cddjlrzd26eo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260817de44664",
         "https://news.web.nhk/newsweb/na/nd-20260818de44675",
         "https://news.web.nhk/newsweb/na/nd-20260817de44650",
         "https://news.web.nhk/newsweb/na/nd-20260817de44652",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260814de44015",
         "https://news.web.nhk/newsweb/na/nd-20260814de44016",
         "https://news.web.nhk/newsweb/na/nd-20260814de44013",
-        "https://news.web.nhk/newsweb/na/nd-20260814de44006",
-        "https://news.web.nhk/newsweb/na/nd-20260814de43984"
+        "https://news.web.nhk/newsweb/na/nd-20260814de44006"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/scientists-found-literal-ink-from-ballpoint-pens-in-martian-meteorites-wed/",
