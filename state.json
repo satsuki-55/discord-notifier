@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c9v42m3430vo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260817de44642",
         "https://news.web.nhk/newsweb/na/nd-20260817de44640",
         "https://news.web.nhk/newsweb/na/nd-20260817de44637",
         "https://news.web.nhk/newsweb/na/nd-20260817de44632",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260814de43980",
         "https://news.web.nhk/newsweb/na/nd-20260814de43957",
         "https://news.web.nhk/newsweb/na/nd-20260814de43958",
-        "https://news.web.nhk/newsweb/na/nd-20260814de43919",
-        "https://news.web.nhk/newsweb/na/nd-20260814de43973"
+        "https://news.web.nhk/newsweb/na/nd-20260814de43919"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/ai-scientists/",
