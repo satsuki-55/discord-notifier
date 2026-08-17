@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cjejp7d4wp9o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260817de44656",
         "https://news.web.nhk/newsweb/na/nd-20260817de44648",
         "https://news.web.nhk/newsweb/na/nd-20260817de44646",
         "https://news.web.nhk/newsweb/na/nd-20260817de44647",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260814de43959",
         "https://news.web.nhk/newsweb/na/nd-20260814de43968",
         "https://news.web.nhk/newsweb/na/nd-20260814de43978",
-        "https://news.web.nhk/newsweb/na/nd-20260814de43955",
-        "https://news.web.nhk/newsweb/na/nd-20260814de43975"
+        "https://news.web.nhk/newsweb/na/nd-20260814de43955"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/galaxy-z-fold8-sizefit/",
