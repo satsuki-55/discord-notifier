@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cqjx1wdkn81o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260817de44641",
         "https://news.web.nhk/newsweb/na/nd-20260817de44666",
         "https://news.web.nhk/newsweb/na/nd-20260817de44669",
         "https://news.web.nhk/newsweb/na/nd-20260817de44667",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260814de44033",
         "https://news.web.nhk/newsweb/na/nd-20260814de44032",
         "https://news.web.nhk/newsweb/na/nd-20260814de44028",
-        "https://news.web.nhk/newsweb/na/nd-20260814de44024",
-        "https://news.web.nhk/newsweb/na/nd-20260814de44017"
+        "https://news.web.nhk/newsweb/na/nd-20260814de44024"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/trumps-robot-vacuum-ban/",
         "https://www.gizmodo.jp/article/scientists-found-literal-ink-from-ballpoint-pens-in-martian-meteorites-wed/",
         "https://www.gizmodo.jp/article/ai-wild-monkeys/",
         "https://www.gizmodo.jp/article/galaxy-z-fold8-sizefit/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/under-dog-gear_dcf-pocketable-eco-bag/",
         "https://www.gizmodo.jp/article/insta360-luna-ultra-review-this-is-the-only-gimbal-camera-you-need/",
         "https://www.gizmodo.jp/article/mujirushiryouhin_baginbag_drivers_license_holder/",
-        "https://www.gizmodo.jp/article/packing_suitcase_matome/",
-        "https://www.gizmodo.jp/article/thermos-jpb-series-l4j/"
+        "https://www.gizmodo.jp/article/packing_suitcase_matome/"
     ]
 }
