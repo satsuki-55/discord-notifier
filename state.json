@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cz972d30l30o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260817de44489",
         "https://news.web.nhk/newsweb/na/nd-20260817de44493",
         "https://news.web.nhk/newsweb/na/nd-20260817de44520",
         "https://news.web.nhk/newsweb/na/nd-20260817de44497",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260813de43848",
         "https://news.web.nhk/newsweb/na/nd-20260810de43195",
         "https://news.web.nhk/newsweb/na/nd-20260813de43766",
-        "https://news.web.nhk/newsweb/na/nd-20260814de43925",
-        "https://news.web.nhk/newsweb/na/nd-20260814de43923"
+        "https://news.web.nhk/newsweb/na/nd-20260814de43925"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/seiko-motocompo-watch/",
