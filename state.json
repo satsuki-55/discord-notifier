@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260810de43167"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/seiko-motocompo-watch/",
         "https://www.gizmodo.jp/article/iphone-ultra-rumor/",
         "https://www.gizmodo.jp/article/euv_levolution-ryx/",
         "https://www.gizmodo.jp/article/anthropics-claude-will-start-adding-invisible-watermarks-to-ai-generated-text/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/meta-redesigns-the-data-storage/",
         "https://www.gizmodo.jp/article/wasabi_tooth_regeneration/",
         "https://www.gizmodo.jp/article/americans-just-crossed-a-tipping-point-on-school-cellphone-bans/",
-        "https://www.gizmodo.jp/article/apple-daisy-recycle-iphone/",
-        "https://www.gizmodo.jp/article/5b5d1bfd-50c4-459e-bfef-3039fb2c8915/"
+        "https://www.gizmodo.jp/article/apple-daisy-recycle-iphone/"
     ]
 }
