@@ -2,6 +2,8 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "xyrEAJlO74s",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "H9grNc5ZOf4",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c934xy32919o#0",
+        "https://www.bbc.co.uk/news/articles/clyllg1v0kdo#1",
         "https://www.bbc.co.uk/news/articles/cddjlmeqjgyo#1",
         "https://www.bbc.co.uk/news/articles/cj9dxe2kejeo#1",
         "https://www.bbc.co.uk/news/articles/c4g4r0mrmlpo#0",
@@ -199,9 +201,7 @@
         "https://www.bbc.co.uk/news/videos/cvgjz88zpr1o#0",
         "https://www.bbc.co.uk/sport/football/articles/cx2vj4l9wxyo#0",
         "https://www.bbc.co.uk/news/articles/cjrvglv5352o#0",
-        "https://www.bbc.co.uk/news/articles/cly58r1ndn3o#1",
-        "https://www.bbc.co.uk/news/articles/cp8xpg1380xo#1",
-        "https://www.bbc.co.uk/news/articles/c78gy6ep3n5o#1"
+        "https://www.bbc.co.uk/news/articles/cly58r1ndn3o#1"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20260814de44028",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260814de44033"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/adget_can-badge-mag/",
         "https://www.gizmodo.jp/article/trumps-robot-vacuum-ban/",
         "https://www.gizmodo.jp/article/scientists-found-literal-ink-from-ballpoint-pens-in-martian-meteorites-wed/",
         "https://www.gizmodo.jp/article/ai-wild-monkeys/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/shein_ad_ai_image/",
         "https://www.gizmodo.jp/article/under-dog-gear_dcf-pocketable-eco-bag/",
         "https://www.gizmodo.jp/article/insta360-luna-ultra-review-this-is-the-only-gimbal-camera-you-need/",
-        "https://www.gizmodo.jp/article/mujirushiryouhin_baginbag_drivers_license_holder/",
-        "https://www.gizmodo.jp/article/packing_suitcase_matome/"
+        "https://www.gizmodo.jp/article/mujirushiryouhin_baginbag_drivers_license_holder/"
     ]
 }
