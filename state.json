@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260813de43822"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/anthropics-claude-will-start-adding-invisible-watermarks-to-ai-generated-text/",
         "https://www.gizmodo.jp/article/apple-has-reportedly-started-recording-and-ai-summarizing-conversations-at-the-genius-bar/",
         "https://www.gizmodo.jp/article/hibrake-dual2/",
         "https://www.gizmodo.jp/article/rumor-that-iphone-18-will-gain-pro-level-specs/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/apple-daisy-recycle-iphone/",
         "https://www.gizmodo.jp/article/5b5d1bfd-50c4-459e-bfef-3039fb2c8915/",
         "https://www.gizmodo.jp/article/how-arm-works-with-orca-echo/",
-        "https://www.gizmodo.jp/article/alebana_handle-table_car_review/",
-        "https://www.gizmodo.jp/article/amazon-kindle-15off/"
+        "https://www.gizmodo.jp/article/alebana_handle-table_car_review/"
     ]
 }
