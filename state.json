@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/ce97mm3vvemo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260817de44614",
         "https://news.web.nhk/newsweb/na/nd-20260813de43862",
         "https://news.web.nhk/newsweb/na/nd-20260817de44547",
         "https://news.web.nhk/newsweb/na/nd-20260817de44556",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260814de43945",
         "https://news.web.nhk/newsweb/na/nd-20260814de43935",
         "https://news.web.nhk/newsweb/na/nd-20260813de43880",
-        "https://news.web.nhk/newsweb/na/nd-20260813de43831",
-        "https://news.web.nhk/newsweb/na/nd-20260813de43868"
+        "https://news.web.nhk/newsweb/na/nd-20260813de43831"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/interview-with-ibm-researchers-on-quantum-computing-qh2/",
