@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260814de43958"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/ikea-kompishang/",
         "https://www.gizmodo.jp/article/ai-scientists/",
         "https://www.gizmodo.jp/article/movilink_car-navigation_review/",
         "https://www.gizmodo.jp/article/interview-with-ibm-researchers-on-quantum-computing-qh2/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/drive-faster-than-the-speed-limit-youll-want-to-read-this/",
         "https://www.gizmodo.jp/article/f02fe1f1-7fc8-4b98-86e3-2ef2dab817be/",
         "https://www.gizmodo.jp/article/teenage-engineering-sale/",
-        "https://www.gizmodo.jp/article/orca-echo-technical-terms/",
-        "https://www.gizmodo.jp/article/aqua_storm_smg_water_blaster/"
+        "https://www.gizmodo.jp/article/orca-echo-technical-terms/"
     ]
 }
