@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "xyrEAJlO74s",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "H9grNc5ZOf4",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cdj0pv2m812o#0",
         "https://www.bbc.co.uk/news/articles/cpvwen0we3yo#0",
         "https://www.bbc.co.uk/news/articles/cedjpvep6j3o#0",
         "https://www.bbc.co.uk/news/articles/cn0n7rln2rno#1",
@@ -200,8 +201,7 @@
         "https://www.bbc.co.uk/news/articles/czrjxyg8mzmo#0",
         "https://www.bbc.co.uk/news/articles/cjejp7d4wp9o#1",
         "https://www.bbc.co.uk/news/articles/cqlxp5lp9ndo#0",
-        "https://www.bbc.co.uk/news/articles/ckg40jvvkp7o#0",
-        "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo#1"
+        "https://www.bbc.co.uk/news/articles/ckg40jvvkp7o#0"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20260817de44648",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260814de43975"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/gemini-update/",
         "https://www.gizmodo.jp/article/elekit-so-sho/",
         "https://www.gizmodo.jp/article/ikea-kompishang/",
         "https://www.gizmodo.jp/article/ai-scientists/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/samsung-new-watch/",
         "https://www.gizmodo.jp/article/switchbot-automatic-air-conditioning-1/",
         "https://www.gizmodo.jp/article/drive-faster-than-the-speed-limit-youll-want-to-read-this/",
-        "https://www.gizmodo.jp/article/f02fe1f1-7fc8-4b98-86e3-2ef2dab817be/",
-        "https://www.gizmodo.jp/article/teenage-engineering-sale/"
+        "https://www.gizmodo.jp/article/f02fe1f1-7fc8-4b98-86e3-2ef2dab817be/"
     ]
 }
