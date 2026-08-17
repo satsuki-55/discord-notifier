@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/c934wqpd74xo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260810de43195",
+        "https://news.web.nhk/newsweb/na/nd-20260817de44508",
         "https://news.web.nhk/newsweb/na/nd-20260817de44528",
         "https://news.web.nhk/newsweb/na/nd-20260812de43490",
         "https://news.web.nhk/newsweb/na/nd-20260817de44489",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260813de43675",
         "https://news.web.nhk/newsweb/na/nd-20260813de43862",
         "https://news.web.nhk/newsweb/na/nd-20260813de43698",
-        "https://news.web.nhk/newsweb/na/nd-20260814de43930",
-        "https://news.web.nhk/newsweb/na/nd-20260813de43848",
-        "https://news.web.nhk/newsweb/na/nd-20260810de43195"
+        "https://news.web.nhk/newsweb/na/nd-20260814de43930"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/microsoft-edge-test-apple-id-sign-in/",
