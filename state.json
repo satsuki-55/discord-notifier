@@ -1,5 +1,5 @@
 {
-    "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "OFFanuYVLSs",
+    "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "xyrEAJlO74s",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "H9grNc5ZOf4",
     "rss:bbc": [
         "https://www.bbc.co.uk/news/articles/cjrvx4yye81o#0",
@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/cx2l13p6g3vo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260817de44637",
+        "https://news.web.nhk/newsweb/na/nd-20260817de44632",
         "https://news.web.nhk/newsweb/na/nd-20260817de44617",
         "https://news.web.nhk/newsweb/na/nd-20260817de44576",
         "https://news.web.nhk/newsweb/na/nd-20260817de44609",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260814de43958",
         "https://news.web.nhk/newsweb/na/nd-20260814de43919",
         "https://news.web.nhk/newsweb/na/nd-20260814de43973",
-        "https://news.web.nhk/newsweb/na/nd-20260814de43970",
-        "https://news.web.nhk/newsweb/na/nd-20260814de43937",
-        "https://news.web.nhk/newsweb/na/nd-20260813de43860"
+        "https://news.web.nhk/newsweb/na/nd-20260814de43970"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/ai-scientists/",
