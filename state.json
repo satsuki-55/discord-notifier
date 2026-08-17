@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c78gy6ep3n5o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260814de44024",
         "https://news.web.nhk/newsweb/na/nd-20260818de44677",
         "https://news.web.nhk/newsweb/na/nd-20260817de44641",
         "https://news.web.nhk/newsweb/na/nd-20260817de44666",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260814de44018",
         "https://news.web.nhk/newsweb/na/nd-20260814de43999",
         "https://news.web.nhk/newsweb/na/nd-20260814de44033",
-        "https://news.web.nhk/newsweb/na/nd-20260814de44032",
-        "https://news.web.nhk/newsweb/na/nd-20260814de44028"
+        "https://news.web.nhk/newsweb/na/nd-20260814de44032"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/trumps-robot-vacuum-ban/",
