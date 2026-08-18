@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c5y0zz63gero#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260818de44794",
         "https://news.web.nhk/newsweb/na/nd-20260818de44767",
         "https://news.web.nhk/newsweb/na/nd-20260818de44770",
         "https://news.web.nhk/newsweb/na/nd-20260817de44564",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260814de44161",
         "https://news.web.nhk/newsweb/na/nd-20260814de44158",
         "https://news.web.nhk/newsweb/na/nd-20260814de44134",
-        "https://news.web.nhk/newsweb/na/nd-20260814de44139",
-        "https://news.web.nhk/newsweb/na/nd-20260814de44115"
+        "https://news.web.nhk/newsweb/na/nd-20260814de44139"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/samsung-galaxy-s27-variable-aperture/",
