@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/weather/articles/ce85pj0e20po#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260812de43496",
+        "https://news.web.nhk/newsweb/na/nd-20260818de44899",
         "https://news.web.nhk/newsweb/na/nd-20260818de44879",
         "https://news.web.nhk/newsweb/na/nd-20260818de44878",
         "https://news.web.nhk/newsweb/na/nd-20260818de44872",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260814de44189",
         "https://news.web.nhk/newsweb/na/nd-20260815de44198",
         "https://news.web.nhk/newsweb/na/nd-20260815de44208",
-        "https://news.web.nhk/newsweb/na/nd-20260815de44201",
-        "https://news.web.nhk/newsweb/na/nd-20260814de44190",
-        "https://news.web.nhk/newsweb/na/nd-20260812de43496"
+        "https://news.web.nhk/newsweb/na/nd-20260815de44201"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/uniqlo_dryex-crewneck-tshirt/",
