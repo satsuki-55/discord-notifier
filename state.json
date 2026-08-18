@@ -1,5 +1,5 @@
 {
-    "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "xyrEAJlO74s",
+    "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "qy50efNSY84",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "H9grNc5ZOf4",
     "rss:bbc": [
         "https://www.bbc.co.uk/news/articles/cp3r0kz775ko#0",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260814de44090"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/watch_suunto-core-2/",
         "https://www.gizmodo.jp/article/soundcore-liberty5-sale/",
         "https://www.gizmodo.jp/article/first-production-ferrari-luce-goes-for-40-million/",
         "https://www.gizmodo.jp/article/gemma_translator_offline_diy_translation/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/hhkb_sale_flexible-work-set/",
         "https://www.gizmodo.jp/article/extreme-heat-affects-the-body/",
         "https://www.gizmodo.jp/article/amazon-hiezou-kun-re/",
-        "https://www.gizmodo.jp/article/cleaned_scallop_shells/",
-        "https://www.gizmodo.jp/article/shein_ad_ai_image/"
+        "https://www.gizmodo.jp/article/cleaned_scallop_shells/"
     ]
 }
