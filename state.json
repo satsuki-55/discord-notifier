@@ -2,6 +2,9 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "Zww1wSltRaU",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "MFYE9Yo3448",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c86nxj1djgjo#1",
+        "https://www.bbc.co.uk/news/articles/c4gd7xd8e8lo#0",
+        "https://www.bbc.co.uk/news/articles/cp3r0kz775ko#1",
         "https://www.bbc.co.uk/news/articles/c1e154qjw96o#1",
         "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o#0",
         "https://www.bbc.co.uk/news/articles/cp30pz8d09jo#0",
@@ -198,10 +201,7 @@
         "https://www.bbc.co.uk/news/articles/cd69ely319eo#1",
         "https://www.bbc.co.uk/news/articles/cp8eex1nmpvo#1",
         "https://www.bbc.co.uk/news/articles/cp8eex1nmpvo#0",
-        "https://www.bbc.co.uk/news/articles/cwyjjvd4g0qo#0",
-        "https://www.bbc.co.uk/news/articles/c0l5583903yo#0",
-        "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o#1",
-        "https://www.bbc.co.uk/news/articles/c9v43zry802o#0"
+        "https://www.bbc.co.uk/news/articles/cwyjjvd4g0qo#0"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20260818de44905",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260815de44210"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/very-important-study-calculates-your-chance-of-being-killed-by-an-asteroid-vs-several-other-scary-things-hac/",
         "https://www.gizmodo.jp/article/particle_collision_in_a_black_hole-lhj/",
         "https://www.gizmodo.jp/article/the-first-details-on-garmins-fenix-9-smartwatch-have-leaked-jpn/",
         "https://www.gizmodo.jp/article/uniqlo_dryex-crewneck-tshirt/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/what-is-congresss-favorite-ai-tool/",
         "https://www.gizmodo.jp/article/dominopizza-keychron/",
         "https://www.gizmodo.jp/article/google-book/",
-        "https://www.gizmodo.jp/article/87e8a034-ca41-4b91-b41e-a0e1c01b6f3e/",
-        "https://www.gizmodo.jp/article/nothingphone/"
+        "https://www.gizmodo.jp/article/87e8a034-ca41-4b91-b41e-a0e1c01b6f3e/"
     ]
 }
