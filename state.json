@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cq561qvg7qgo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260818de44680",
         "https://news.web.nhk/newsweb/na/nd-20260818de44679",
         "https://news.web.nhk/newsweb/na/nd-20260814de44028",
         "https://news.web.nhk/newsweb/na/nd-20260814de44024",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260814de44066",
         "https://news.web.nhk/newsweb/na/nd-20260814de44074",
         "https://news.web.nhk/newsweb/na/nd-20260814de44072",
-        "https://news.web.nhk/newsweb/na/nd-20260814de44018",
-        "https://news.web.nhk/newsweb/na/nd-20260814de43999"
+        "https://news.web.nhk/newsweb/na/nd-20260814de44018"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/first-production-ferrari-luce-goes-for-40-million/",
