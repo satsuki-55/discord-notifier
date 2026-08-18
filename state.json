@@ -2,6 +2,9 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "Zww1wSltRaU",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "MFYE9Yo3448",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cvglzlj81x2o#0",
+        "https://www.bbc.co.uk/news/articles/cd7l9en2qrjo#0",
+        "https://www.bbc.co.uk/news/articles/crl7600rpnko#1",
         "https://www.bbc.co.uk/news/articles/cly5r7vr7q1o#0",
         "https://www.bbc.co.uk/news/videos/cy452z5j1x1o#0",
         "https://www.bbc.co.uk/news/articles/crrv1rjwgl9o#0",
@@ -198,10 +201,7 @@
         "https://www.bbc.co.uk/news/articles/clyllg1v0kdo#0",
         "https://www.bbc.co.uk/news/articles/cwymmp30711o#0",
         "https://www.bbc.co.uk/news/articles/cqjxx2gzd9qo#0",
-        "https://www.bbc.co.uk/news/articles/ckg44x2ey1ro#1",
-        "https://www.bbc.co.uk/news/videos/c8dnn05e90lo#0",
-        "https://www.bbc.co.uk/news/articles/cx2dd0gd4z2o#0",
-        "https://www.bbc.co.uk/news/articles/cvglzlj81x2o#0"
+        "https://www.bbc.co.uk/news/articles/ckg44x2ey1ro#1"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20260819de44922",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260815de44232"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/ligar-matome/",
         "https://www.gizmodo.jp/article/honor-robot-phone-release/",
         "https://www.gizmodo.jp/article/very-important-study-calculates-your-chance-of-being-killed-by-an-asteroid-vs-several-other-scary-things-hac/",
         "https://www.gizmodo.jp/article/particle_collision_in_a_black_hole-lhj/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/bmw-is-playing-a-spider-man-ad-on-its-dashboard-displays-and-people-are-pissed/",
         "https://www.gizmodo.jp/article/wacom_tablet-lls/",
         "https://www.gizmodo.jp/article/what-is-congresss-favorite-ai-tool/",
-        "https://www.gizmodo.jp/article/dominopizza-keychron/",
-        "https://www.gizmodo.jp/article/google-book/"
+        "https://www.gizmodo.jp/article/dominopizza-keychron/"
     ]
 }
