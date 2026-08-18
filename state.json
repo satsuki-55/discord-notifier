@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cq561gpen8lo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260818de44723",
         "https://news.web.nhk/newsweb/na/nd-20260818de44779",
         "https://news.web.nhk/newsweb/na/nd-20260818de44794",
         "https://news.web.nhk/newsweb/na/nd-20260818de44767",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260814de44099",
         "https://news.web.nhk/newsweb/na/nd-20260814de44156",
         "https://news.web.nhk/newsweb/na/nd-20260814de44161",
-        "https://news.web.nhk/newsweb/na/nd-20260814de44158",
-        "https://news.web.nhk/newsweb/na/nd-20260814de44134"
+        "https://news.web.nhk/newsweb/na/nd-20260814de44158"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/amazon-jackery-portable-battery-1000/",
         "https://www.gizmodo.jp/article/alpaka-hub-keychain-review-aiu/",
         "https://www.gizmodo.jp/article/samsung-galaxy-s27-variable-aperture/",
         "https://www.gizmodo.jp/article/its-official-no-man-can-outrun-our-robot-overlords-jpn/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/giz-20th_yatagai/",
         "https://www.gizmodo.jp/article/sun-umbrella-matome-yhf/",
         "https://www.gizmodo.jp/article/mont-bell_round-trekking-bell-silencer/",
-        "https://www.gizmodo.jp/article/a7ce2728-1a9d-46c9-bcc6-02d6f9d60680/",
-        "https://www.gizmodo.jp/article/windows-11-fix/"
+        "https://www.gizmodo.jp/article/a7ce2728-1a9d-46c9-bcc6-02d6f9d60680/"
     ]
 }
