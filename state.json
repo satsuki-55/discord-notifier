@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/ckg4424zd7go#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260818de44908",
         "https://news.web.nhk/newsweb/na/nd-20260818de44911",
         "https://news.web.nhk/newsweb/na/nd-20260819de44920",
         "https://news.web.nhk/newsweb/na/nd-20260818de44905",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260815de44218",
         "https://news.web.nhk/newsweb/na/nd-20260815de44212",
         "https://news.web.nhk/newsweb/na/nd-20260815de44197",
-        "https://news.web.nhk/newsweb/na/nd-20260815de44213",
-        "https://news.web.nhk/newsweb/na/nd-20260815de44211"
+        "https://news.web.nhk/newsweb/na/nd-20260815de44213"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/very-important-study-calculates-your-chance-of-being-killed-by-an-asteroid-vs-several-other-scary-things-hac/",
