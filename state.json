@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "qy50efNSY84",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "MFYE9Yo3448",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cx2lzj91d84o#0",
         "https://www.bbc.co.uk/news/articles/cj036d6vj09o#0",
         "https://www.bbc.co.uk/news/articles/c5ywe951z80o#0",
         "https://www.bbc.co.uk/news/articles/cly8m31nvmgo#1",
@@ -200,8 +201,7 @@
         "https://www.bbc.co.uk/news/articles/c8jnwnw22ngo#1",
         "https://www.bbc.co.uk/news/articles/c75gk620r22o#0",
         "https://www.bbc.co.uk/news/articles/c5y49e2z8yno#0",
-        "https://www.bbc.co.uk/news/articles/ckgdp4923rdo#0",
-        "https://www.bbc.co.uk/news/articles/c4gxy0wqqd9o#1"
+        "https://www.bbc.co.uk/news/articles/ckgdp4923rdo#0"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20260818de44828",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260814de44169"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/25151810-8f7d-4ff4-8842-76e2fec14ca6/",
         "https://www.gizmodo.jp/article/307151-xck/",
         "https://www.gizmodo.jp/article/amazon-jackery-portable-battery-1000/",
         "https://www.gizmodo.jp/article/alpaka-hub-keychain-review-aiu/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/25b960b2-16b0-47aa-98db-de49d5794eef/",
         "https://www.gizmodo.jp/article/toyo-arumi-anti-dust-filter-ylh/",
         "https://www.gizmodo.jp/article/giz-20th_yatagai/",
-        "https://www.gizmodo.jp/article/sun-umbrella-matome-yhf/",
-        "https://www.gizmodo.jp/article/mont-bell_round-trekking-bell-silencer/"
+        "https://www.gizmodo.jp/article/sun-umbrella-matome-yhf/"
     ]
 }
