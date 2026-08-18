@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c9982znvyk4o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260818de44872",
         "https://news.web.nhk/newsweb/na/nd-20260818de44873",
         "https://news.web.nhk/newsweb/na/nd-20260818de44857",
         "https://news.web.nhk/newsweb/na/nd-20260812de43444",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260814de44190",
         "https://news.web.nhk/newsweb/na/nd-20260812de43496",
         "https://news.web.nhk/newsweb/na/nd-20260814de44181",
-        "https://news.web.nhk/newsweb/na/nd-20260814de44171",
-        "https://news.web.nhk/newsweb/na/nd-20260815de44194"
+        "https://news.web.nhk/newsweb/na/nd-20260814de44171"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/airpods-camera/",
