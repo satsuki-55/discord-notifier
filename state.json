@@ -204,6 +204,9 @@
         "https://www.bbc.co.uk/news/articles/c4gx8ljyn0po#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260818de44773",
+        "https://news.web.nhk/newsweb/na/nd-20260814de44099",
+        "https://news.web.nhk/newsweb/na/nd-20260818de44818",
         "https://news.web.nhk/newsweb/na/nd-20260814de44161",
         "https://news.web.nhk/newsweb/na/nd-20260818de44751",
         "https://news.web.nhk/newsweb/na/nd-20260818de44678",
@@ -400,12 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260814de44182",
         "https://news.web.nhk/newsweb/na/nd-20260814de44169",
         "https://news.web.nhk/newsweb/na/nd-20260814de44155",
-        "https://news.web.nhk/newsweb/na/nd-20260814de44103",
-        "https://news.web.nhk/newsweb/na/nd-20260814de44035",
-        "https://news.web.nhk/newsweb/na/nd-20260814de44138",
-        "https://news.web.nhk/newsweb/na/nd-20260814de44099"
+        "https://news.web.nhk/newsweb/na/nd-20260814de44103"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/307151-xck/",
         "https://www.gizmodo.jp/article/amazon-jackery-portable-battery-1000/",
         "https://www.gizmodo.jp/article/alpaka-hub-keychain-review-aiu/",
         "https://www.gizmodo.jp/article/samsung-galaxy-s27-variable-aperture/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/toyo-arumi-anti-dust-filter-ylh/",
         "https://www.gizmodo.jp/article/giz-20th_yatagai/",
         "https://www.gizmodo.jp/article/sun-umbrella-matome-yhf/",
-        "https://www.gizmodo.jp/article/mont-bell_round-trekking-bell-silencer/",
-        "https://www.gizmodo.jp/article/a7ce2728-1a9d-46c9-bcc6-02d6f9d60680/"
+        "https://www.gizmodo.jp/article/mont-bell_round-trekking-bell-silencer/"
     ]
 }
