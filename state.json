@@ -2,6 +2,8 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "Zww1wSltRaU",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "MFYE9Yo3448",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/videos/cwyq22g0ylxo#0",
+        "https://www.bbc.co.uk/news/articles/cnvnl0elz47o#1",
         "https://www.bbc.co.uk/news/articles/cedj7456envo#1",
         "https://www.bbc.co.uk/news/articles/c4gkd08dp7po#0",
         "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo#0",
@@ -199,11 +201,10 @@
         "https://www.bbc.co.uk/sport/athletics/articles/cqjxxd0j844o#0",
         "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o#0",
         "https://www.bbc.co.uk/news/articles/cgjee21eenvo#1",
-        "https://www.bbc.co.uk/news/articles/cz977nxww1jo#0",
-        "https://www.bbc.co.uk/news/articles/cr59jg1ypd3o#1",
-        "https://www.bbc.co.uk/news/videos/cwyq22g0ylxo#0"
+        "https://www.bbc.co.uk/news/articles/cz977nxww1jo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260819de44920",
         "https://news.web.nhk/newsweb/na/nd-20260818de44905",
         "https://news.web.nhk/newsweb/na/nd-20260818de44893",
         "https://news.web.nhk/newsweb/na/nd-20260818de44900",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260815de44197",
         "https://news.web.nhk/newsweb/na/nd-20260815de44213",
         "https://news.web.nhk/newsweb/na/nd-20260815de44211",
-        "https://news.web.nhk/newsweb/na/nd-20260814de44174",
-        "https://news.web.nhk/newsweb/na/nd-20260815de44210"
+        "https://news.web.nhk/newsweb/na/nd-20260814de44174"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/very-important-study-calculates-your-chance-of-being-killed-by-an-asteroid-vs-several-other-scary-things-hac/",
