@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/cwy0nlq1l2wo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260818de44682",
+        "https://news.web.nhk/newsweb/na/nd-20260818de44728",
         "https://news.web.nhk/newsweb/na/nd-20260818de44690",
         "https://news.web.nhk/newsweb/na/nd-20260818de44683",
         "https://news.web.nhk/newsweb/na/nd-20260818de44689",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260814de44100",
         "https://news.web.nhk/newsweb/na/nd-20260814de44101",
         "https://news.web.nhk/newsweb/na/nd-20260814de44061",
-        "https://news.web.nhk/newsweb/na/nd-20260814de44093",
-        "https://news.web.nhk/newsweb/na/nd-20260814de44092",
-        "https://news.web.nhk/newsweb/na/nd-20260811de43324"
+        "https://news.web.nhk/newsweb/na/nd-20260814de44093"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/instagram_logo_renewal/",
