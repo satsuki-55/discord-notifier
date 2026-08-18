@@ -2,6 +2,8 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "qy50efNSY84",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "MFYE9Yo3448",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c5ywe951z80o#0",
+        "https://www.bbc.co.uk/news/articles/cly8m31nvmgo#1",
         "https://www.bbc.co.uk/news/articles/c20e2qe1lqpo#0",
         "https://www.bbc.co.uk/news/articles/crl76jkxel3o#1",
         "https://www.bbc.co.uk/news/articles/c5y6j4jl03xo#1",
@@ -199,11 +201,10 @@
         "https://www.bbc.co.uk/news/articles/c5y49e2z8yno#0",
         "https://www.bbc.co.uk/news/articles/ckgdp4923rdo#0",
         "https://www.bbc.co.uk/news/articles/c4gxy0wqqd9o#1",
-        "https://www.bbc.co.uk/news/articles/c4gx8ljyn0po#1",
-        "https://www.bbc.co.uk/news/articles/c87nwq9qe24o#1",
-        "https://www.bbc.co.uk/news/articles/cgmkdr3gy07o#0"
+        "https://www.bbc.co.uk/news/articles/c4gx8ljyn0po#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260818de44678",
         "https://news.web.nhk/newsweb/na/nd-20260818de44723",
         "https://news.web.nhk/newsweb/na/nd-20260818de44779",
         "https://news.web.nhk/newsweb/na/nd-20260818de44794",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260814de44138",
         "https://news.web.nhk/newsweb/na/nd-20260814de44099",
         "https://news.web.nhk/newsweb/na/nd-20260814de44156",
-        "https://news.web.nhk/newsweb/na/nd-20260814de44161",
-        "https://news.web.nhk/newsweb/na/nd-20260814de44158"
+        "https://news.web.nhk/newsweb/na/nd-20260814de44161"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/amazon-jackery-portable-battery-1000/",
