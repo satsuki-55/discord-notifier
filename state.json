@@ -2,6 +2,8 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "qy50efNSY84",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "H9grNc5ZOf4",
     "rss:bbc": [
+        "https://www.bbc.co.uk/sport/football/articles/cn7n4d6vy03o#1",
+        "https://www.bbc.co.uk/news/articles/cn9nwx090v9o#0",
         "https://www.bbc.co.uk/news/articles/cz97ljy91zxo#0",
         "https://www.bbc.co.uk/news/articles/cgewpqxyrddo#0",
         "https://www.bbc.co.uk/news/articles/cjrvx4yye81o#1",
@@ -199,11 +201,10 @@
         "https://www.bbc.co.uk/news/articles/c1w1ylw0p3no#1",
         "https://www.bbc.co.uk/news/articles/c87nwq9qe24o#0",
         "https://www.bbc.co.uk/news/articles/cjrvglv5352o#1",
-        "https://www.bbc.co.uk/news/articles/c5y0zz63gero#0",
-        "https://www.bbc.co.uk/news/articles/cd69ely319eo#0",
-        "https://www.bbc.co.uk/news/articles/cm2gp5g0xngo#0"
+        "https://www.bbc.co.uk/news/articles/c5y0zz63gero#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260818de44770",
         "https://news.web.nhk/newsweb/na/nd-20260817de44564",
         "https://news.web.nhk/newsweb/na/nd-20260818de44707",
         "https://news.web.nhk/newsweb/na/nd-20260818de44710",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260814de44134",
         "https://news.web.nhk/newsweb/na/nd-20260814de44139",
         "https://news.web.nhk/newsweb/na/nd-20260814de44115",
-        "https://news.web.nhk/newsweb/na/nd-20260814de44111",
-        "https://news.web.nhk/newsweb/na/nd-20260814de44125"
+        "https://news.web.nhk/newsweb/na/nd-20260814de44111"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/its-official-no-man-can-outrun-our-robot-overlords-jpn/",
