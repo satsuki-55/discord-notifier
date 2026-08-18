@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "Zww1wSltRaU",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "MFYE9Yo3448",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cqx7vp77g0jo#0",
         "https://www.bbc.co.uk/news/articles/czxqz91n5n8o#0",
         "https://www.bbc.co.uk/news/articles/cly8mpp9r8no#0",
         "https://www.bbc.co.uk/news/articles/cd9w4v1nx93o#0",
@@ -200,8 +201,7 @@
         "https://www.bbc.co.uk/news/articles/cy0j60p0d29o#0",
         "https://www.bbc.co.uk/news/articles/cr59jg1ypd3o#0",
         "https://www.bbc.co.uk/news/articles/cx256pp33l3o#0",
-        "https://www.bbc.co.uk/news/articles/cwymw4434v7o#0",
-        "https://www.bbc.co.uk/news/articles/c8en2z9jp2xo#0"
+        "https://www.bbc.co.uk/news/articles/cwymw4434v7o#0"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20260818de44878",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260814de44181"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/insta360-x6-review-the-king-of-360-cameras-reclaims-its-crown/",
         "https://www.gizmodo.jp/article/anthropic-investors-thinks-its-worth-2-trillion/",
         "https://www.gizmodo.jp/article/airpods-camera/",
         "https://www.gizmodo.jp/article/25151810-8f7d-4ff4-8842-76e2fec14ca6/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/knirps_t220rs_uv_umbrella/",
         "https://www.gizmodo.jp/article/mujirushiryouhin_wireless-mobile-speaker/",
         "https://www.gizmodo.jp/article/dwarf-mini/",
-        "https://www.gizmodo.jp/article/25b960b2-16b0-47aa-98db-de49d5794eef/",
-        "https://www.gizmodo.jp/article/toyo-arumi-anti-dust-filter-ylh/"
+        "https://www.gizmodo.jp/article/25b960b2-16b0-47aa-98db-de49d5794eef/"
     ]
 }
