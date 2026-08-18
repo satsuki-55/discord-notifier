@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260815de44203"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/particle_collision_in_a_black_hole-lhj/",
         "https://www.gizmodo.jp/article/the-first-details-on-garmins-fenix-9-smartwatch-have-leaked-jpn/",
         "https://www.gizmodo.jp/article/uniqlo_dryex-crewneck-tshirt/",
         "https://www.gizmodo.jp/article/samsung-headphone/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/dominopizza-keychron/",
         "https://www.gizmodo.jp/article/google-book/",
         "https://www.gizmodo.jp/article/87e8a034-ca41-4b91-b41e-a0e1c01b6f3e/",
-        "https://www.gizmodo.jp/article/nothingphone/",
-        "https://www.gizmodo.jp/article/knirps_t220rs_uv_umbrella/"
+        "https://www.gizmodo.jp/article/nothingphone/"
     ]
 }
