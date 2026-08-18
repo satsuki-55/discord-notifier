@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c2k7zj4knwlo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260818de44710",
         "https://news.web.nhk/newsweb/na/nd-20260818de44703",
         "https://news.web.nhk/newsweb/na/nd-20260818de44716",
         "https://news.web.nhk/newsweb/na/nd-20260818de44681",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260814de44111",
         "https://news.web.nhk/newsweb/na/nd-20260814de44125",
         "https://news.web.nhk/newsweb/na/nd-20260814de44120",
-        "https://news.web.nhk/newsweb/na/nd-20260814de44118",
-        "https://news.web.nhk/newsweb/na/nd-20260814de44086"
+        "https://news.web.nhk/newsweb/na/nd-20260814de44118"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/used_books_are_selling_like_hotcakes/",
