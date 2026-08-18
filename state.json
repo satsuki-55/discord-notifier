@@ -2,6 +2,8 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "Zww1wSltRaU",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "MFYE9Yo3448",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/crl711557e6o#0",
+        "https://www.bbc.co.uk/news/articles/c5y34zrg668o#0",
         "https://www.bbc.co.uk/news/articles/c0kmlrkypjpo#0",
         "https://www.bbc.co.uk/news/articles/cjwx58n1153o#1",
         "https://www.bbc.co.uk/news/articles/crk53pr44kjo#0",
@@ -199,9 +201,7 @@
         "https://www.bbc.co.uk/news/articles/cp30pz8d09jo#0",
         "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o#0",
         "https://www.bbc.co.uk/weather/articles/ce85pj0e20po#0",
-        "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo#0",
-        "https://www.bbc.co.uk/news/articles/c89n8j5e32do#0",
-        "https://www.bbc.co.uk/news/articles/crl711557e6o#0"
+        "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo#0"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20260818de44879",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260812de43496"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/uniqlo_dryex-crewneck-tshirt/",
         "https://www.gizmodo.jp/article/samsung-headphone/",
         "https://www.gizmodo.jp/article/insta360-x6-review-the-king-of-360-cameras-reclaims-its-crown/",
         "https://www.gizmodo.jp/article/anthropic-investors-thinks-its-worth-2-trillion/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/87e8a034-ca41-4b91-b41e-a0e1c01b6f3e/",
         "https://www.gizmodo.jp/article/nothingphone/",
         "https://www.gizmodo.jp/article/knirps_t220rs_uv_umbrella/",
-        "https://www.gizmodo.jp/article/mujirushiryouhin_wireless-mobile-speaker/",
-        "https://www.gizmodo.jp/article/dwarf-mini/"
+        "https://www.gizmodo.jp/article/mujirushiryouhin_wireless-mobile-speaker/"
     ]
 }
