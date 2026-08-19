@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/cwy4zepzp7eo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260819de45130",
+        "https://news.web.nhk/newsweb/na/nd-20260819de45145",
         "https://news.web.nhk/newsweb/na/nd-20260819de45160",
         "https://news.web.nhk/newsweb/na/nd-20260819de45142",
         "https://news.web.nhk/newsweb/na/nd-20260819de45140",
@@ -401,11 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260816de44391",
         "https://news.web.nhk/newsweb/na/nd-20260816de44405",
         "https://news.web.nhk/newsweb/na/nd-20260816de44406",
-        "https://news.web.nhk/newsweb/na/nd-20260816de44401",
-        "https://news.web.nhk/newsweb/na/nd-20260816de44395",
-        "https://news.web.nhk/newsweb/na/nd-20260816de44389"
+        "https://news.web.nhk/newsweb/na/nd-20260816de44401"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/iphone-18-pro-camera-upgrade-only-max/",
         "https://www.gizmodo.jp/article/airpods-camera-hair-detected/",
         "https://www.gizmodo.jp/article/researchers-built-a-coin-sized-device-that-can-hack-a-boeing-737s-electronics/",
         "https://www.gizmodo.jp/article/this-drone-becomes-almost-invisible-by-spinning-extremely-fast-while-emitting-an-unholy-whine/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/finger-sweat-could-be-the-huge-health-upgrade-smart-rings-need-/",
         "https://www.gizmodo.jp/article/fiio-snowsky-echo-nano/",
         "https://www.gizmodo.jp/article/every-laptop-should-steal-this-privacy-display-jpn/",
-        "https://www.gizmodo.jp/article/panasonic-bq-cc87l-nlg/",
-        "https://www.gizmodo.jp/article/how-a-single-typo-in-a-username-cost-an-innocent-man-18-months-of-his-life-jpn/"
+        "https://www.gizmodo.jp/article/panasonic-bq-cc87l-nlg/"
     ]
 }
