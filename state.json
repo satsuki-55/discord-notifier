@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c5y34gm7rp0o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260819de45164",
         "https://news.web.nhk/newsweb/na/nd-20260819de45165",
         "https://news.web.nhk/newsweb/na/nd-20260819de45135",
         "https://news.web.nhk/newsweb/na/nd-20260819de45143",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260816de44411",
         "https://news.web.nhk/newsweb/na/nd-20260812de43489",
         "https://news.web.nhk/newsweb/na/nd-20260816de44402",
-        "https://news.web.nhk/newsweb/na/nd-20260813de43676",
-        "https://news.web.nhk/newsweb/na/nd-20260816de44393"
+        "https://news.web.nhk/newsweb/na/nd-20260813de43676"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/iphone-18-pro-camera-upgrade-only-max/",
