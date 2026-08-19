@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/sport/athletics/articles/clyqqxgrdqqo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260819de45104",
         "https://news.web.nhk/newsweb/na/nd-20260819de44981",
         "https://news.web.nhk/newsweb/na/nd-20260819de45067",
         "https://news.web.nhk/newsweb/na/nd-20260819de45066",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260816de44352",
         "https://news.web.nhk/newsweb/na/nd-20260816de44351",
         "https://news.web.nhk/newsweb/na/nd-20260816de44353",
-        "https://news.web.nhk/newsweb/na/nd-20260815de44257",
-        "https://news.web.nhk/newsweb/na/nd-20260816de44348"
+        "https://news.web.nhk/newsweb/na/nd-20260815de44257"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/gizmodo-japan-20th-yamadau/",
         "https://www.gizmodo.jp/article/karimmor_fast-dry_tshirt/",
         "https://www.gizmodo.jp/article/seattle-ultrasonics-c200-kitchen-knife-94t/",
         "https://www.gizmodo.jp/article/elecom-usb-c-charger/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/dnsys-z1-deathstranding2/",
         "https://www.gizmodo.jp/article/lightfoot-evbike/",
         "https://www.gizmodo.jp/article/moquren_launch/",
-        "https://www.gizmodo.jp/article/phone-recovery-pouch/",
-        "https://www.gizmodo.jp/article/fold-iphone-rumor-two-of-the-colors/"
+        "https://www.gizmodo.jp/article/phone-recovery-pouch/"
     ]
 }
