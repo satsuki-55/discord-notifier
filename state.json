@@ -1,5 +1,5 @@
 {
-    "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "Zww1wSltRaU",
+    "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "ltk-Hhyydgw",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "MXJMWKwn8rQ",
     "rss:bbc": [
         "https://www.bbc.co.uk/news/articles/czjlxenlgkko#0",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260815de44323"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/seattle-ultrasonics-c200-kitchen-knife-94t/",
         "https://www.gizmodo.jp/article/elecom-usb-c-charger/",
         "https://www.gizmodo.jp/article/lakole_insulated_cooler_bag_with_built-in_gel_ice_pack-sgs/",
         "https://www.gizmodo.jp/article/cmf-buds-neo/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/moquren_launch/",
         "https://www.gizmodo.jp/article/phone-recovery-pouch/",
         "https://www.gizmodo.jp/article/fold-iphone-rumor-two-of-the-colors/",
-        "https://www.gizmodo.jp/article/ai-prompt-create-war/",
-        "https://www.gizmodo.jp/article/qualcomm-improves-the-fuel-efficiency-of-ai-data-centers/"
+        "https://www.gizmodo.jp/article/ai-prompt-create-war/"
     ]
 }
