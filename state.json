@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260820de45188",
         "https://news.web.nhk/newsweb/na/nd-20260820de45192",
         "https://news.web.nhk/newsweb/na/nd-20260819de45170",
         "https://news.web.nhk/newsweb/na/nd-20260820de45186",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260817de44439",
         "https://news.web.nhk/newsweb/na/nd-20260816de44412",
         "https://news.web.nhk/newsweb/na/nd-20260816de44413",
-        "https://news.web.nhk/newsweb/na/nd-20260816de44414",
-        "https://news.web.nhk/newsweb/na/nd-20260816de44432"
+        "https://news.web.nhk/newsweb/na/nd-20260816de44414"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/promachocrinus-wbh/",
