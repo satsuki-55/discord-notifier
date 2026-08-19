@@ -2,6 +2,9 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "ltk-Hhyydgw",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "MXJMWKwn8rQ",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cj03p2jpdd4o#0",
+        "https://www.bbc.co.uk/news/articles/cj63jr5r09zo#0",
+        "https://www.bbc.co.uk/news/articles/c98vr7ql2vdo#0",
         "https://www.bbc.co.uk/news/articles/c2dk64d10rko#0",
         "https://www.bbc.co.uk/news/articles/cm2gm8je1kgo#0",
         "https://www.bbc.co.uk/news/articles/c5yvdglz962o#0",
@@ -198,10 +201,7 @@
         "https://www.bbc.co.uk/news/articles/cp8e0nny6zzo#0",
         "https://www.bbc.co.uk/news/articles/cedjpvep6j3o#1",
         "https://www.bbc.co.uk/news/articles/cdj0pv2m812o#0",
-        "https://www.bbc.co.uk/news/articles/cpvwen0we3yo#0",
-        "https://www.bbc.co.uk/news/articles/cedjpvep6j3o#0",
-        "https://www.bbc.co.uk/news/articles/cn0n7rln2rno#1",
-        "https://www.bbc.co.uk/news/articles/cj03p2jpdd4o#0"
+        "https://www.bbc.co.uk/news/articles/cpvwen0we3yo#0"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20260819de45124",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260816de44371"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/researchers-built-a-coin-sized-device-that-can-hack-a-boeing-737s-electronics/",
         "https://www.gizmodo.jp/article/this-drone-becomes-almost-invisible-by-spinning-extremely-fast-while-emitting-an-unholy-whine/",
         "https://www.gizmodo.jp/article/cio-handy-fan-review/",
         "https://www.gizmodo.jp/article/gizmodo-japan-20th-yamadau/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/every-laptop-should-steal-this-privacy-display-jpn/",
         "https://www.gizmodo.jp/article/panasonic-bq-cc87l-nlg/",
         "https://www.gizmodo.jp/article/how-a-single-typo-in-a-username-cost-an-innocent-man-18-months-of-his-life-jpn/",
-        "https://www.gizmodo.jp/article/dnsys-z1-deathstranding2/",
-        "https://www.gizmodo.jp/article/lightfoot-evbike/"
+        "https://www.gizmodo.jp/article/dnsys-z1-deathstranding2/"
     ]
 }
