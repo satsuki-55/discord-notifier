@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cn7n4lm11vro#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260820de45196",
         "https://news.web.nhk/newsweb/na/nd-20260820de45198",
         "https://news.web.nhk/newsweb/na/nd-20260819de45141",
         "https://news.web.nhk/newsweb/na/nd-20260820de45199",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260817de44500",
         "https://news.web.nhk/newsweb/na/nd-20260817de44485",
         "https://news.web.nhk/newsweb/na/nd-20260817de44492",
-        "https://news.web.nhk/newsweb/na/nd-20260817de44479",
-        "https://news.web.nhk/newsweb/na/nd-20260817de44451"
+        "https://news.web.nhk/newsweb/na/nd-20260817de44479"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/pixel11-ai-function/",
