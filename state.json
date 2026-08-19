@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "Zww1wSltRaU",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "MFYE9Yo3448",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c62vy3wl31lo#0",
         "https://www.bbc.co.uk/news/articles/cn8nmm51l49o#0",
         "https://www.bbc.co.uk/news/articles/c5y0lyde9rvo#0",
         "https://www.bbc.co.uk/weather/articles/c79g04899wno#0",
@@ -200,8 +201,7 @@
         "https://www.bbc.co.uk/news/articles/ceqeeendz42o#0",
         "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo#1",
         "https://www.bbc.co.uk/news/articles/cly555430nno#0",
-        "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o#0",
-        "https://www.bbc.co.uk/news/articles/cn5nnlq2pwpo#1"
+        "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o#0"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20260819de44933",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260815de44248"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/dragon-quest-jinsei-game/",
         "https://www.gizmodo.jp/article/tau-robotics/",
         "https://www.gizmodo.jp/article/gizmodo-japan-20th-kogure/",
         "https://www.gizmodo.jp/article/ligar-matome/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/sega-watch/",
         "https://www.gizmodo.jp/article/1acf89c3-cab9-4f57-9936-8835f78246e4/",
         "https://www.gizmodo.jp/article/au-second-number/",
-        "https://www.gizmodo.jp/article/bmw-is-playing-a-spider-man-ad-on-its-dashboard-displays-and-people-are-pissed/",
-        "https://www.gizmodo.jp/article/wacom_tablet-lls/"
+        "https://www.gizmodo.jp/article/bmw-is-playing-a-spider-man-ad-on-its-dashboard-displays-and-people-are-pissed/"
     ]
 }
