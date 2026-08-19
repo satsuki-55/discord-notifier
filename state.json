@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cvgww971nn2o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260819de45101",
         "https://news.web.nhk/newsweb/na/nd-20260819de45125",
         "https://news.web.nhk/newsweb/na/nd-20260819de45108",
         "https://news.web.nhk/newsweb/na/nd-20260819de45073",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260816de44364",
         "https://news.web.nhk/newsweb/na/nd-20260816de44367",
         "https://news.web.nhk/newsweb/na/nd-20260816de44361",
-        "https://news.web.nhk/newsweb/na/nd-20260816de44336",
-        "https://news.web.nhk/newsweb/na/nd-20260816de44355"
+        "https://news.web.nhk/newsweb/na/nd-20260816de44336"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/cio-handy-fan-review/",
