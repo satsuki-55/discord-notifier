@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c1l1yj0zd9no#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260819de44953",
         "https://news.web.nhk/newsweb/na/nd-20260819de44958",
         "https://news.web.nhk/newsweb/na/nd-20260819de44941",
         "https://news.web.nhk/newsweb/na/nd-20260819de44934",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260815de44268",
         "https://news.web.nhk/newsweb/na/nd-20260815de44227",
         "https://news.web.nhk/newsweb/na/nd-20260815de44250",
-        "https://news.web.nhk/newsweb/na/nd-20260815de44254",
-        "https://news.web.nhk/newsweb/na/nd-20260815de44260"
+        "https://news.web.nhk/newsweb/na/nd-20260815de44254"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/razer-huntsman-v3-he-magnetic-8khz/",
