@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "ltk-Hhyydgw",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "MXJMWKwn8rQ",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cd7l9en2qrjo#1",
         "https://www.bbc.co.uk/news/videos/c2el0wd0w3go#0",
         "https://www.bbc.co.uk/news/articles/crk661074ejo#0",
         "https://www.bbc.co.uk/news/articles/c2dk657dky1o#0",
@@ -200,8 +201,7 @@
         "https://www.bbc.co.uk/news/articles/crl76jkxel3o#0",
         "https://www.bbc.co.uk/news/articles/c77gg5vn44yo#1",
         "https://www.bbc.co.uk/news/articles/cj4kjnle2neo#0",
-        "https://www.bbc.co.uk/news/articles/cn4nkww841xo#0",
-        "https://www.bbc.co.uk/news/articles/c5y34gm7rp0o#0"
+        "https://www.bbc.co.uk/news/articles/cn4nkww841xo#0"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20260819de45168",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260816de44411"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/promachocrinus-wbh/",
         "https://www.gizmodo.jp/article/microdot-technology-tatoo/",
         "https://www.gizmodo.jp/article/iphone-18-pro-camera-upgrade-only-max/",
         "https://www.gizmodo.jp/article/airpods-camera-hair-detected/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/ios-27-beta-siri-ai-first-impression/",
         "https://www.gizmodo.jp/article/ios-27-beta-photo-ai-edit/",
         "https://www.gizmodo.jp/article/finger-sweat-could-be-the-huge-health-upgrade-smart-rings-need-/",
-        "https://www.gizmodo.jp/article/fiio-snowsky-echo-nano/",
-        "https://www.gizmodo.jp/article/every-laptop-should-steal-this-privacy-display-jpn/"
+        "https://www.gizmodo.jp/article/fiio-snowsky-echo-nano/"
     ]
 }
