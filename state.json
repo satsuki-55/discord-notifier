@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cvgll74vvydo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260819de44966",
         "https://news.web.nhk/newsweb/na/nd-20260819de44965",
         "https://news.web.nhk/newsweb/na/nd-20260819de44968",
         "https://news.web.nhk/newsweb/na/nd-20260819de44973",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260815de44296",
         "https://news.web.nhk/newsweb/na/nd-20260815de44289",
         "https://news.web.nhk/newsweb/na/nd-20260815de44282",
-        "https://news.web.nhk/newsweb/na/nd-20260815de44293",
-        "https://news.web.nhk/newsweb/na/nd-20260815de44290"
+        "https://news.web.nhk/newsweb/na/nd-20260815de44293"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/switch-2-microsd-express-price-up/",
