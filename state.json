@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cpvwen0we3yo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260819de45142",
         "https://news.web.nhk/newsweb/na/nd-20260819de45140",
         "https://news.web.nhk/newsweb/na/nd-20260819de45152",
         "https://news.web.nhk/newsweb/na/nd-20260819de45124",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260816de44401",
         "https://news.web.nhk/newsweb/na/nd-20260816de44395",
         "https://news.web.nhk/newsweb/na/nd-20260816de44389",
-        "https://news.web.nhk/newsweb/na/nd-20260816de44386",
-        "https://news.web.nhk/newsweb/na/nd-20260816de44383"
+        "https://news.web.nhk/newsweb/na/nd-20260816de44386"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/researchers-built-a-coin-sized-device-that-can-hack-a-boeing-737s-electronics/",
