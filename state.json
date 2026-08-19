@@ -2,6 +2,8 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "Zww1wSltRaU",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "MFYE9Yo3448",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cnvn0j31qj8o#0",
+        "https://www.bbc.co.uk/news/articles/ckg3j15v2npo#1",
         "https://www.bbc.co.uk/news/articles/cg4d7q2ne7go#1",
         "https://www.bbc.co.uk/news/articles/cjej8nze1wko#0",
         "https://www.bbc.co.uk/news/articles/cgjeped6ewxo#1",
@@ -199,9 +201,7 @@
         "https://www.bbc.co.uk/news/articles/c4g3re5ew8do#0",
         "https://www.bbc.co.uk/news/articles/cvgll74vvydo#0",
         "https://www.bbc.co.uk/news/articles/cvgww971nn2o#0",
-        "https://www.bbc.co.uk/news/articles/c87nnwlpe5no#1",
-        "https://www.bbc.co.uk/news/articles/c77ggpgrp2do#1",
-        "https://www.bbc.co.uk/news/articles/cg4dd420ezlo#1"
+        "https://www.bbc.co.uk/news/articles/c87nnwlpe5no#1"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20260819de44980",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260815de44227"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/google-may-have-leaked-its-next-fitbit-or-let-ai-hallucinate-it/",
         "https://www.gizmodo.jp/article/digital-camera-price-up/",
         "https://www.gizmodo.jp/article/rumor-that-galaxy-z-fold9-lineup-will-expand/",
         "https://www.gizmodo.jp/article/razer-huntsman-v3-he-magnetic-8khz/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/mont-bell-stainless-mesh-cap-shade-fgw/",
         "https://www.gizmodo.jp/article/oh-great-ai-slop-is-coming-for-vinyl/",
         "https://www.gizmodo.jp/article/google-earth-ai-image-generation/",
-        "https://www.gizmodo.jp/article/2607-chatgpt-new-improved-voice-mode-iar/",
-        "https://www.gizmodo.jp/article/sega-watch/"
+        "https://www.gizmodo.jp/article/2607-chatgpt-new-improved-voice-mode-iar/"
     ]
 }
