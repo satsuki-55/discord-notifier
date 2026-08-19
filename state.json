@@ -2,6 +2,8 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "Zww1wSltRaU",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "MXJMWKwn8rQ",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c141605846jo#0",
+        "https://www.bbc.co.uk/news/articles/cjej8nze1wko#1",
         "https://www.bbc.co.uk/news/articles/c934wqpd74xo#0",
         "https://www.bbc.co.uk/news/articles/c62vy3wl31lo#1",
         "https://www.bbc.co.uk/news/articles/c4gd7xd8e8lo#1",
@@ -199,9 +201,7 @@
         "https://www.bbc.co.uk/news/articles/c8xnwqe00v1o#0",
         "https://www.bbc.co.uk/news/articles/c0jlyqdj6geo#1",
         "https://www.bbc.co.uk/news/articles/clyxklg3xypo#0",
-        "https://www.bbc.co.uk/news/articles/c5y3j3ngevmo#0",
-        "https://www.bbc.co.uk/news/articles/clyvj5zdjj2o#0",
-        "https://www.bbc.co.uk/news/articles/cn0nj3ln8r5o#0"
+        "https://www.bbc.co.uk/news/articles/c5y3j3ngevmo#0"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20260819de44948",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260815de44322"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/cmf-buds-neo/",
         "https://www.gizmodo.jp/article/meta-ray-ban-display-muse-spark/",
         "https://www.gizmodo.jp/article/2603-matome-android-iphone-xnd/",
         "https://www.gizmodo.jp/article/switch-2-microsd-express-price-up/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/ai-prompt-create-war/",
         "https://www.gizmodo.jp/article/qualcomm-improves-the-fuel-efficiency-of-ai-data-centers/",
         "https://www.gizmodo.jp/article/gameball-vhx/",
-        "https://www.gizmodo.jp/article/lofree-flow-2-for-mac/",
-        "https://www.gizmodo.jp/article/mont-bell-stainless-mesh-cap-shade-fgw/"
+        "https://www.gizmodo.jp/article/lofree-flow-2-for-mac/"
     ]
 }
