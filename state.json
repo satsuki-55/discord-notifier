@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "ltk-Hhyydgw",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "MXJMWKwn8rQ",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cp87g29r718o#0",
         "https://www.bbc.co.uk/news/articles/c62ey03z9d1o#0",
         "https://www.bbc.co.uk/news/articles/cx2ldeg93njo#0",
         "https://www.bbc.co.uk/news/articles/c1w1v9elzvdo#0",
@@ -200,8 +201,7 @@
         "https://www.bbc.co.uk/news/videos/cevmw1pl9kvo#0",
         "https://www.bbc.co.uk/news/articles/cp3r0kz775ko#0",
         "https://www.bbc.co.uk/news/articles/cx2rzx5g5yro#1",
-        "https://www.bbc.co.uk/news/articles/cn7n4lm11vro#1",
-        "https://www.bbc.co.uk/news/videos/cy45zjw424xo#0"
+        "https://www.bbc.co.uk/news/articles/cn7n4lm11vro#1"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20260819de45141",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260817de44472"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/pixel11-ai-function/",
         "https://www.gizmodo.jp/article/promachocrinus-wbh/",
         "https://www.gizmodo.jp/article/microdot-technology-tatoo/",
         "https://www.gizmodo.jp/article/iphone-18-pro-camera-upgrade-only-max/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/kashimura_tire-pressure-monitoring-system-j1z/",
         "https://www.gizmodo.jp/article/ios-27-beta-siri-ai-first-impression/",
         "https://www.gizmodo.jp/article/ios-27-beta-photo-ai-edit/",
-        "https://www.gizmodo.jp/article/finger-sweat-could-be-the-huge-health-upgrade-smart-rings-need-/",
-        "https://www.gizmodo.jp/article/fiio-snowsky-echo-nano/"
+        "https://www.gizmodo.jp/article/finger-sweat-could-be-the-huge-health-upgrade-smart-rings-need-/"
     ]
 }
