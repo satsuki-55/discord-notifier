@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c5y3j3ngevmo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260819de45056",
         "https://news.web.nhk/newsweb/na/nd-20260819de44948",
         "https://news.web.nhk/newsweb/na/nd-20260819de45027",
         "https://news.web.nhk/newsweb/na/nd-20260819de45028",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260816de44332",
         "https://news.web.nhk/newsweb/na/nd-20260816de44335",
         "https://news.web.nhk/newsweb/na/nd-20260815de44323",
-        "https://news.web.nhk/newsweb/na/nd-20260815de44228",
-        "https://news.web.nhk/newsweb/na/nd-20260815de44322"
+        "https://news.web.nhk/newsweb/na/nd-20260815de44228"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/cmf-buds-neo/",
