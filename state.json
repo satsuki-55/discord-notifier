@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c5y34gm7rp0o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260819de45168",
         "https://news.web.nhk/newsweb/na/nd-20260813de43676",
         "https://news.web.nhk/newsweb/na/nd-20260819de45162",
         "https://news.web.nhk/newsweb/na/nd-20260819de45164",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260816de44425",
         "https://news.web.nhk/newsweb/na/nd-20260816de44428",
         "https://news.web.nhk/newsweb/na/nd-20260816de44416",
-        "https://news.web.nhk/newsweb/na/nd-20260816de44411",
-        "https://news.web.nhk/newsweb/na/nd-20260812de43489"
+        "https://news.web.nhk/newsweb/na/nd-20260816de44411"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/microdot-technology-tatoo/",
