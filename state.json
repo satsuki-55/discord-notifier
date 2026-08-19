@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "Zww1wSltRaU",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "MFYE9Yo3448",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c5y0lyde9rvo#0",
         "https://www.bbc.co.uk/weather/articles/c79g04899wno#0",
         "https://www.bbc.co.uk/news/articles/c5y0lyde9rvo#1",
         "https://www.bbc.co.uk/news/articles/c1l1r1zne1ro#0",
@@ -200,10 +201,10 @@
         "https://www.bbc.co.uk/news/articles/cly555430nno#0",
         "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o#0",
         "https://www.bbc.co.uk/news/articles/cn5nnlq2pwpo#1",
-        "https://www.bbc.co.uk/news/articles/cwyqq52xkypo#0",
-        "https://www.bbc.co.uk/news/articles/c77gg5vn44yo#0"
+        "https://www.bbc.co.uk/news/articles/cwyqq52xkypo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260819de44933",
         "https://news.web.nhk/newsweb/na/nd-20260819de44930",
         "https://news.web.nhk/newsweb/na/nd-20260819de44931",
         "https://news.web.nhk/newsweb/na/nd-20260819de44919",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260815de44260",
         "https://news.web.nhk/newsweb/na/nd-20260815de44247",
         "https://news.web.nhk/newsweb/na/nd-20260809de42912",
-        "https://news.web.nhk/newsweb/na/nd-20260815de44248",
-        "https://news.web.nhk/newsweb/na/nd-20260815de44241"
+        "https://news.web.nhk/newsweb/na/nd-20260815de44248"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/tau-robotics/",
