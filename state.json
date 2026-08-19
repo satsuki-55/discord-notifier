@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260815de44323"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/elecom-usb-c-charger/",
         "https://www.gizmodo.jp/article/lakole_insulated_cooler_bag_with_built-in_gel_ice_pack-sgs/",
         "https://www.gizmodo.jp/article/cmf-buds-neo/",
         "https://www.gizmodo.jp/article/meta-ray-ban-display-muse-spark/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/phone-recovery-pouch/",
         "https://www.gizmodo.jp/article/fold-iphone-rumor-two-of-the-colors/",
         "https://www.gizmodo.jp/article/ai-prompt-create-war/",
-        "https://www.gizmodo.jp/article/qualcomm-improves-the-fuel-efficiency-of-ai-data-centers/",
-        "https://www.gizmodo.jp/article/gameball-vhx/"
+        "https://www.gizmodo.jp/article/qualcomm-improves-the-fuel-efficiency-of-ai-data-centers/"
     ]
 }
