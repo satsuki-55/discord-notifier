@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "Zww1wSltRaU",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "MFYE9Yo3448",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c1k1x1zdywdo#1",
         "https://www.bbc.co.uk/news/articles/crrv48lenwgo#0",
         "https://www.bbc.co.uk/news/articles/ckg374p4e24o#0",
         "https://www.bbc.co.uk/news/articles/cnvn0j31qj8o#0",
@@ -200,10 +201,11 @@
         "https://www.bbc.co.uk/news/articles/cn8nn2nlg1lo#0",
         "https://www.bbc.co.uk/news/articles/c5y3ex8ry82o#0",
         "https://www.bbc.co.uk/news/articles/cn7n4lm11vro#0",
-        "https://www.bbc.co.uk/news/articles/c4g3re5ew8do#0",
-        "https://www.bbc.co.uk/news/articles/cvgll74vvydo#0"
+        "https://www.bbc.co.uk/news/articles/c4g3re5ew8do#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260815de44293",
+        "https://news.web.nhk/newsweb/na/nd-20260819de44943",
         "https://news.web.nhk/newsweb/na/nd-20260819de44976",
         "https://news.web.nhk/newsweb/na/nd-20260819de44966",
         "https://news.web.nhk/newsweb/na/nd-20260819de44965",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260815de44297",
         "https://news.web.nhk/newsweb/na/nd-20260815de44311",
         "https://news.web.nhk/newsweb/na/nd-20260815de44253",
-        "https://news.web.nhk/newsweb/na/nd-20260815de44296",
-        "https://news.web.nhk/newsweb/na/nd-20260815de44289",
-        "https://news.web.nhk/newsweb/na/nd-20260815de44282"
+        "https://news.web.nhk/newsweb/na/nd-20260815de44296"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2603-matome-android-iphone-xnd/",
