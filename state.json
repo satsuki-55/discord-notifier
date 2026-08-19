@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c87nnwlpe5no#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260819de44970",
         "https://news.web.nhk/newsweb/na/nd-20260819de44961",
         "https://news.web.nhk/newsweb/na/nd-20260819de44980",
         "https://news.web.nhk/newsweb/na/nd-20260819de44964",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260815de44290",
         "https://news.web.nhk/newsweb/na/nd-20260815de44255",
         "https://news.web.nhk/newsweb/na/nd-20260815de44275",
-        "https://news.web.nhk/newsweb/na/nd-20260815de44237",
-        "https://news.web.nhk/newsweb/na/nd-20260815de44268"
+        "https://news.web.nhk/newsweb/na/nd-20260815de44237"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/google-may-have-leaked-its-next-fitbit-or-let-ai-hallucinate-it/",
