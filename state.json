@@ -2,6 +2,8 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "ltk-Hhyydgw",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "MXJMWKwn8rQ",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cedj7je0zlzo#1",
+        "https://www.bbc.co.uk/news/articles/cy9wz79ze29o#1",
         "https://www.bbc.co.uk/news/articles/c0qv4w9492zo#1",
         "https://www.bbc.co.uk/news/articles/cp87gvmedlmo#0",
         "https://www.bbc.co.uk/news/articles/c141605846jo#1",
@@ -199,11 +201,10 @@
         "https://www.bbc.co.uk/news/articles/c629krywgw2o#0",
         "https://www.bbc.co.uk/news/articles/cm2gm8je1kgo#0",
         "https://www.bbc.co.uk/news/articles/c5yvdglz962o#0",
-        "https://www.bbc.co.uk/sport/athletics/videos/cdj00030me7o#0",
-        "https://www.bbc.co.uk/news/articles/cjrvx4yye81o#0",
-        "https://www.bbc.co.uk/news/articles/c8xnwqe00v1o#1"
+        "https://www.bbc.co.uk/sport/athletics/videos/cdj00030me7o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260819de45123",
         "https://news.web.nhk/newsweb/na/nd-20260819de45120",
         "https://news.web.nhk/newsweb/na/nd-20260819de45101",
         "https://news.web.nhk/newsweb/na/nd-20260819de45125",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260816de44363",
         "https://news.web.nhk/newsweb/na/nd-20260815de44216",
         "https://news.web.nhk/newsweb/na/nd-20260816de44364",
-        "https://news.web.nhk/newsweb/na/nd-20260816de44367",
-        "https://news.web.nhk/newsweb/na/nd-20260816de44361"
+        "https://news.web.nhk/newsweb/na/nd-20260816de44367"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/cio-handy-fan-review/",
