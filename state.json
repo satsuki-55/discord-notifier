@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c5y3ex8ry82o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260819de45003",
         "https://news.web.nhk/newsweb/na/nd-20260819de45008",
         "https://news.web.nhk/newsweb/na/nd-20260815de44293",
         "https://news.web.nhk/newsweb/na/nd-20260819de44943",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260815de44299",
         "https://news.web.nhk/newsweb/na/nd-20260815de44315",
         "https://news.web.nhk/newsweb/na/nd-20260815de44297",
-        "https://news.web.nhk/newsweb/na/nd-20260815de44311",
-        "https://news.web.nhk/newsweb/na/nd-20260815de44253"
+        "https://news.web.nhk/newsweb/na/nd-20260815de44311"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/meta-ray-ban-display-muse-spark/",
