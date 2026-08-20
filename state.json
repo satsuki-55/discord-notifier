@@ -2,6 +2,9 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "v17iMlEnyyE",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "MXJMWKwn8rQ",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cqx7vp77g0jo#0",
+        "https://www.bbc.co.uk/news/articles/czxqz91n5n8o#0",
+        "https://www.bbc.co.uk/news/articles/cg5ljlzedd5o#1",
         "https://www.bbc.co.uk/news/articles/cx2m8x44gdpo#0",
         "https://www.bbc.co.uk/news/articles/cr7kddmn97do#1",
         "https://www.bbc.co.uk/news/articles/clyq011414eo#0",
@@ -198,10 +201,7 @@
         "https://www.bbc.co.uk/news/articles/c5y34zrg668o#0",
         "https://www.bbc.co.uk/news/articles/c0kmlrkypjpo#0",
         "https://www.bbc.co.uk/news/articles/cjwx58n1153o#1",
-        "https://www.bbc.co.uk/news/articles/crk53pr44kjo#0",
-        "https://www.bbc.co.uk/news/articles/cpvwen0we3yo#1",
-        "https://www.bbc.co.uk/news/articles/cqx7vp77g0jo#0",
-        "https://www.bbc.co.uk/news/articles/czxqz91n5n8o#0"
+        "https://www.bbc.co.uk/news/articles/crk53pr44kjo#0"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20260820de45362",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260817de44652"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/sennheiser-momentum-true-wireless-5/",
         "https://www.gizmodo.jp/article/google-pixel-11-pro-fold-case/",
         "https://www.gizmodo.jp/article/google-pixel-11-and-case/",
         "https://www.gizmodo.jp/article/heres-a-leaked-glimpse-of-sonos-next-wireless-headphones/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/kokuyo-sticky-note/",
         "https://www.gizmodo.jp/article/2707-honda-message-prologue-ev-owner-hybrid-xnt/",
         "https://www.gizmodo.jp/article/syitren-audio-rm1/",
-        "https://www.gizmodo.jp/article/g6-he-ultralight-2days-left/",
-        "https://www.gizmodo.jp/article/ghs-wireless-infiniteplay/"
+        "https://www.gizmodo.jp/article/g6-he-ultralight-2days-left/"
     ]
 }
