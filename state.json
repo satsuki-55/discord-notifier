@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cp8eex1nmpvo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260820de45421",
         "https://news.web.nhk/newsweb/na/nd-20260820de45423",
         "https://news.web.nhk/newsweb/na/nd-20260820de45419",
         "https://news.web.nhk/newsweb/na/nd-20260820de45408",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260818de44794",
         "https://news.web.nhk/newsweb/na/nd-20260818de44767",
         "https://news.web.nhk/newsweb/na/nd-20260818de44770",
-        "https://news.web.nhk/newsweb/na/nd-20260817de44564",
-        "https://news.web.nhk/newsweb/na/nd-20260818de44707"
+        "https://news.web.nhk/newsweb/na/nd-20260817de44564"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/spacecool_radiational_cooling/",
