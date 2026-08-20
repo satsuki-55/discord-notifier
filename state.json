@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cnvnl8gy22lo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260820de45306",
         "https://news.web.nhk/newsweb/na/nd-20260820de45276",
         "https://news.web.nhk/newsweb/na/nd-20260820de45302",
         "https://news.web.nhk/newsweb/na/nd-20260820de45300",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260817de44640",
         "https://news.web.nhk/newsweb/na/nd-20260817de44637",
         "https://news.web.nhk/newsweb/na/nd-20260817de44632",
-        "https://news.web.nhk/newsweb/na/nd-20260817de44617",
-        "https://news.web.nhk/newsweb/na/nd-20260817de44576"
+        "https://news.web.nhk/newsweb/na/nd-20260817de44617"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/the_best_way_to_detect_ai_images/",
         "https://www.gizmodo.jp/article/galaxy-z-fold8-transfer-demand/",
         "https://www.gizmodo.jp/article/redmi-note-17-pro-max-5g/",
         "https://www.gizmodo.jp/article/2708-do-nothing-productivity-yqr/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/openais-rumored-smart-speaker-sounds-more-like-a-squirming-ai-robot/",
         "https://www.gizmodo.jp/article/c4c6d84c-f410-4e41-a3bc-24c6187966be/",
         "https://www.gizmodo.jp/article/koizumi-iron/",
-        "https://www.gizmodo.jp/article/metas-smart-glasses-are-still-creepy-despite-anti-creep-update/",
-        "https://www.gizmodo.jp/article/tinytv-2-with-tiny-remote-abt/"
+        "https://www.gizmodo.jp/article/metas-smart-glasses-are-still-creepy-despite-anti-creep-update/"
     ]
 }
