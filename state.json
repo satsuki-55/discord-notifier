@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "ltk-Hhyydgw",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "MXJMWKwn8rQ",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/crl7yjlpx2po#1",
         "https://www.bbc.co.uk/news/articles/cd0x9mjjmgjo#0",
         "https://www.bbc.co.uk/news/articles/cj63jr5r09zo#1",
         "https://www.bbc.co.uk/news/articles/cwyjqe62574o#1",
@@ -200,8 +201,7 @@
         "https://www.bbc.co.uk/news/articles/cly8m31nvmgo#1",
         "https://www.bbc.co.uk/news/articles/c20e2qe1lqpo#0",
         "https://www.bbc.co.uk/news/articles/crl76jkxel3o#1",
-        "https://www.bbc.co.uk/news/articles/c5y6j4jl03xo#1",
-        "https://www.bbc.co.uk/news/articles/cg5l9n7d803o#1"
+        "https://www.bbc.co.uk/news/articles/c5y6j4jl03xo#1"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20260820de45205",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260817de44556"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/pokemon-polaroid-collaboration/",
         "https://www.gizmodo.jp/article/iphone-18-18pro-rumors-summary/",
         "https://www.gizmodo.jp/article/galaxy-z-fold8-keyboardapp/",
         "https://www.gizmodo.jp/article/the-viral-smart-glasses-sniffing-app-is-informative-but-anticlimactic/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/iron_using_green_hydrogen/",
         "https://www.gizmodo.jp/article/the-sun-looks-so-hot-right-now/",
         "https://www.gizmodo.jp/article/caviar-meta-rayban/",
-        "https://www.gizmodo.jp/article/rice_water_repellent/",
-        "https://www.gizmodo.jp/article/a-feature-that-makes-your-phone-data-self-destruct-in-authorities-hands/"
+        "https://www.gizmodo.jp/article/rice_water_repellent/"
     ]
 }
