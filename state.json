@@ -2,6 +2,9 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "v17iMlEnyyE",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "MXJMWKwn8rQ",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c0kmlrkypjpo#0",
+        "https://www.bbc.co.uk/news/articles/cr59yg34r4mo#0",
+        "https://www.bbc.co.uk/news/articles/c79gpp4dvwxo#0",
         "https://www.bbc.co.uk/news/articles/c4g616gvxr0o#0",
         "https://www.bbc.co.uk/news/articles/c0l5ddjyl5xo#0",
         "https://www.bbc.co.uk/news/articles/cqx7vp77g0jo#0",
@@ -198,12 +201,13 @@
         "https://www.bbc.co.uk/news/articles/c8xnkjwdn5wo#0",
         "https://www.bbc.co.uk/news/articles/c20e2qe1lqpo#1",
         "https://www.bbc.co.uk/news/articles/cx25z3rkrrgo#0",
-        "https://www.bbc.co.uk/news/articles/c89n8j5e32do#0",
-        "https://www.bbc.co.uk/news/articles/crl711557e6o#0",
-        "https://www.bbc.co.uk/news/articles/c5y34zrg668o#0",
-        "https://www.bbc.co.uk/news/articles/c0kmlrkypjpo#0"
+        "https://www.bbc.co.uk/news/articles/c89n8j5e32do#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260820de45383",
+        "https://news.web.nhk/newsweb/na/nd-20260820de45359",
+        "https://news.web.nhk/newsweb/na/nd-20260820de45372",
+        "https://news.web.nhk/newsweb/na/nd-20260820de45321",
         "https://news.web.nhk/newsweb/na/nd-20260820de45364",
         "https://news.web.nhk/newsweb/na/nd-20260820de45341",
         "https://news.web.nhk/newsweb/na/nd-20260820de45212",
@@ -399,13 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260818de44698",
         "https://news.web.nhk/newsweb/na/nd-20260818de44680",
         "https://news.web.nhk/newsweb/na/nd-20260818de44679",
-        "https://news.web.nhk/newsweb/na/nd-20260814de44028",
-        "https://news.web.nhk/newsweb/na/nd-20260814de44024",
-        "https://news.web.nhk/newsweb/na/nd-20260818de44677",
-        "https://news.web.nhk/newsweb/na/nd-20260817de44641",
-        "https://news.web.nhk/newsweb/na/nd-20260817de44666"
+        "https://news.web.nhk/newsweb/na/nd-20260814de44028"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/gizmodo-japan-20th-ryotamusha/",
         "https://www.gizmodo.jp/article/nasas-curiosity-rover-finds-a-vast-sea-of-strange-honeycomb-patterns-on-mars/",
         "https://www.gizmodo.jp/article/tritium_nuclear_battery/",
         "https://www.gizmodo.jp/article/sennheiser-momentum-true-wireless-5/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/bose-quiet-comfort-anc/",
         "https://www.gizmodo.jp/article/tcls-new-phone-is-what-you-want-if-you-stare-too-long-at-screens-bey/",
         "https://www.gizmodo.jp/article/phyllotis-vaccarum/",
-        "https://www.gizmodo.jp/article/kokuyo-sticky-note/",
-        "https://www.gizmodo.jp/article/2707-honda-message-prologue-ev-owner-hybrid-xnt/"
+        "https://www.gizmodo.jp/article/kokuyo-sticky-note/"
     ]
 }
