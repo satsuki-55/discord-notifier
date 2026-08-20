@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/cnvnl8gy22lo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260820de45313",
+        "https://news.web.nhk/newsweb/na/nd-20260820de45309",
         "https://news.web.nhk/newsweb/na/nd-20260820de45306",
         "https://news.web.nhk/newsweb/na/nd-20260820de45276",
         "https://news.web.nhk/newsweb/na/nd-20260820de45302",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260817de44611",
         "https://news.web.nhk/newsweb/na/nd-20260817de44642",
         "https://news.web.nhk/newsweb/na/nd-20260817de44640",
-        "https://news.web.nhk/newsweb/na/nd-20260817de44637",
-        "https://news.web.nhk/newsweb/na/nd-20260817de44632",
-        "https://news.web.nhk/newsweb/na/nd-20260817de44617"
+        "https://news.web.nhk/newsweb/na/nd-20260817de44637"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/the_best_way_to_detect_ai_images/",
