@@ -2,6 +2,8 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "WmU0TAvOzbo",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "MXJMWKwn8rQ",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cy07exrz5lpo#0",
+        "https://www.bbc.co.uk/news/articles/c86nz8n960go#1",
         "https://www.bbc.co.uk/news/articles/c1d1v333ewxo#0",
         "https://www.bbc.co.uk/news/articles/c5ywe951z80o#1",
         "https://www.bbc.co.uk/news/articles/cewr9evwdwko#0",
@@ -199,9 +201,7 @@
         "https://www.bbc.co.uk/news/articles/cx25z3rkrrgo#1",
         "https://www.bbc.co.uk/news/articles/c70glp55y95o#1",
         "https://www.bbc.co.uk/news/articles/czdmzdnp3z0o#0",
-        "https://www.bbc.co.uk/news/articles/c04k6x4nywlo#1",
-        "https://www.bbc.co.uk/news/articles/cx2rzr49vr2o#0",
-        "https://www.bbc.co.uk/news/articles/cvgvyz8e27zo#1"
+        "https://www.bbc.co.uk/news/articles/c04k6x4nywlo#1"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20260821de45439",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260818de44825"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/iphone_applecare_need_notneed/",
         "https://www.gizmodo.jp/article/2df05f30-c414-480b-89f5-6a6b98d62fe4/",
         "https://www.gizmodo.jp/article/spacecool_radiational_cooling/",
         "https://www.gizmodo.jp/article/masturbation-consultants-gave-an-ai-startup/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/nintendo-switch-2-belkin-armor/",
         "https://www.gizmodo.jp/article/volcur-mobile-tap/",
         "https://www.gizmodo.jp/article/cmf-clip-pro-review-an-affordable-challenger-in-the-clip-style-earbuds-craze/",
-        "https://www.gizmodo.jp/article/3rd-generation-foldable-iphone-display/",
-        "https://www.gizmodo.jp/article/vaccination-complete-with-dental-floss-atg/"
+        "https://www.gizmodo.jp/article/3rd-generation-foldable-iphone-display/"
     ]
 }
