@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c4g3qdj1z77o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260820de45217",
         "https://news.web.nhk/newsweb/na/nd-20260820de45215",
         "https://news.web.nhk/newsweb/na/nd-20260820de45235",
         "https://news.web.nhk/newsweb/na/nd-20260820de45242",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260817de44556",
         "https://news.web.nhk/newsweb/na/nd-20260817de44540",
         "https://news.web.nhk/newsweb/na/nd-20260810de43195",
-        "https://news.web.nhk/newsweb/na/nd-20260817de44508",
-        "https://news.web.nhk/newsweb/na/nd-20260817de44528"
+        "https://news.web.nhk/newsweb/na/nd-20260817de44508"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/apples-glasses-are-reportedly-being-developed-as-fitness-devices-like-the-apple-watch/",
         "https://www.gizmodo.jp/article/uniqlo_widepants_review/",
         "https://www.gizmodo.jp/article/benq-creative-pro-pd2732u/",
         "https://www.gizmodo.jp/article/oxtak-money-penny-bi/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/a-feature-that-makes-your-phone-data-self-destruct-in-authorities-hands/",
         "https://www.gizmodo.jp/article/esi_xsynth-gup/",
         "https://www.gizmodo.jp/article/g6-he-ultralight-3days-left/",
-        "https://www.gizmodo.jp/article/amazon-sale-anker-solix-ps30-portable-solar-panel-1-ptx/",
-        "https://www.gizmodo.jp/article/toei-historical-goods-collection/"
+        "https://www.gizmodo.jp/article/amazon-sale-anker-solix-ps30-portable-solar-panel-1-ptx/"
     ]
 }
