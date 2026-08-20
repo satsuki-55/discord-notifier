@@ -204,6 +204,12 @@
         "https://www.bbc.co.uk/news/articles/c89n8j5e32do#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260820de45379",
+        "https://news.web.nhk/newsweb/na/nd-20260820de45373",
+        "https://news.web.nhk/newsweb/na/nd-20260820de45374",
+        "https://news.web.nhk/newsweb/na/nd-20260820de45381",
+        "https://news.web.nhk/newsweb/na/nd-20260820de45389",
+        "https://news.web.nhk/newsweb/na/nd-20260814de44024",
         "https://news.web.nhk/newsweb/na/nd-20260820de45383",
         "https://news.web.nhk/newsweb/na/nd-20260820de45359",
         "https://news.web.nhk/newsweb/na/nd-20260820de45372",
@@ -397,13 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260818de44682",
         "https://news.web.nhk/newsweb/na/nd-20260818de44728",
         "https://news.web.nhk/newsweb/na/nd-20260818de44690",
-        "https://news.web.nhk/newsweb/na/nd-20260818de44683",
-        "https://news.web.nhk/newsweb/na/nd-20260818de44689",
-        "https://news.web.nhk/newsweb/na/nd-20260818de44696",
-        "https://news.web.nhk/newsweb/na/nd-20260818de44698",
-        "https://news.web.nhk/newsweb/na/nd-20260818de44680",
-        "https://news.web.nhk/newsweb/na/nd-20260818de44679",
-        "https://news.web.nhk/newsweb/na/nd-20260814de44028"
+        "https://news.web.nhk/newsweb/na/nd-20260818de44683"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/gizmodo-japan-20th-ryotamusha/",
