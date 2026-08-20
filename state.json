@@ -1,5 +1,5 @@
 {
-    "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "v17iMlEnyyE",
+    "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "WmU0TAvOzbo",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "MXJMWKwn8rQ",
     "rss:bbc": [
         "https://www.bbc.co.uk/news/articles/crl7y671w8go#0",
@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c20e2qe1lqpo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260820de45375",
         "https://news.web.nhk/newsweb/na/nd-20260820de45377",
         "https://news.web.nhk/newsweb/na/nd-20260820de45371",
         "https://news.web.nhk/newsweb/na/nd-20260814de44028",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260818de44703",
         "https://news.web.nhk/newsweb/na/nd-20260818de44716",
         "https://news.web.nhk/newsweb/na/nd-20260818de44681",
-        "https://news.web.nhk/newsweb/na/nd-20260818de44743",
-        "https://news.web.nhk/newsweb/na/nd-20260818de44682"
+        "https://news.web.nhk/newsweb/na/nd-20260818de44743"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/viture-pro-2-review-a-dark-horse-in-the-entry-level-ar-glasses-race/",
         "https://www.gizmodo.jp/article/gizmodo-japan-20th-ryotamusha/",
         "https://www.gizmodo.jp/article/nasas-curiosity-rover-finds-a-vast-sea-of-strange-honeycomb-patterns-on-mars/",
         "https://www.gizmodo.jp/article/tritium_nuclear_battery/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/vaccination-complete-with-dental-floss-atg/",
         "https://www.gizmodo.jp/article/bose-quiet-comfort-anc/",
         "https://www.gizmodo.jp/article/tcls-new-phone-is-what-you-want-if-you-stare-too-long-at-screens-bey/",
-        "https://www.gizmodo.jp/article/phyllotis-vaccarum/",
-        "https://www.gizmodo.jp/article/kokuyo-sticky-note/"
+        "https://www.gizmodo.jp/article/phyllotis-vaccarum/"
     ]
 }
