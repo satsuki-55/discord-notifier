@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/crk53pr44kjo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260820de45341",
         "https://news.web.nhk/newsweb/na/nd-20260820de45212",
         "https://news.web.nhk/newsweb/na/nd-20260820de45344",
         "https://news.web.nhk/newsweb/na/nd-20260820de45369",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260818de44677",
         "https://news.web.nhk/newsweb/na/nd-20260817de44641",
         "https://news.web.nhk/newsweb/na/nd-20260817de44666",
-        "https://news.web.nhk/newsweb/na/nd-20260817de44669",
-        "https://news.web.nhk/newsweb/na/nd-20260817de44667"
+        "https://news.web.nhk/newsweb/na/nd-20260817de44669"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/sennheiser-momentum-true-wireless-5/",
