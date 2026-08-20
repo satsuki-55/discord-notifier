@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260817de44547"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/fold-iphone-rumor/",
         "https://www.gizmodo.jp/article/pokemon-polaroid-collaboration/",
         "https://www.gizmodo.jp/article/iphone-18-18pro-rumors-summary/",
         "https://www.gizmodo.jp/article/galaxy-z-fold8-keyboardapp/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/tinytv-2-with-tiny-remote-abt/",
         "https://www.gizmodo.jp/article/iron_using_green_hydrogen/",
         "https://www.gizmodo.jp/article/the-sun-looks-so-hot-right-now/",
-        "https://www.gizmodo.jp/article/caviar-meta-rayban/",
-        "https://www.gizmodo.jp/article/rice_water_repellent/"
+        "https://www.gizmodo.jp/article/caviar-meta-rayban/"
     ]
 }
