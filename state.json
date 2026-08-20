@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c4gk0dq81j2o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260818de44847",
         "https://news.web.nhk/newsweb/na/nd-20260821de45445",
         "https://news.web.nhk/newsweb/na/nd-20260821de45441",
         "https://news.web.nhk/newsweb/na/nd-20260821de45439",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260818de44842",
         "https://news.web.nhk/newsweb/na/nd-20260818de44835",
         "https://news.web.nhk/newsweb/na/nd-20260818de44844",
-        "https://news.web.nhk/newsweb/na/nd-20260818de44804",
-        "https://news.web.nhk/newsweb/na/nd-20260817de44529"
+        "https://news.web.nhk/newsweb/na/nd-20260818de44804"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/giz-20th_kenthasegawa/",
