@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cp30pz8d09jo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260820de45387",
         "https://news.web.nhk/newsweb/na/nd-20260820de45375",
         "https://news.web.nhk/newsweb/na/nd-20260820de45377",
         "https://news.web.nhk/newsweb/na/nd-20260820de45371",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260818de44710",
         "https://news.web.nhk/newsweb/na/nd-20260818de44703",
         "https://news.web.nhk/newsweb/na/nd-20260818de44716",
-        "https://news.web.nhk/newsweb/na/nd-20260818de44681",
-        "https://news.web.nhk/newsweb/na/nd-20260818de44743"
+        "https://news.web.nhk/newsweb/na/nd-20260818de44681"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/viture-pro-2-review-a-dark-horse-in-the-entry-level-ar-glasses-race/",
