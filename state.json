@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/crl76jkxel3o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260813de43862",
+        "https://news.web.nhk/newsweb/na/nd-20260820de45290",
         "https://news.web.nhk/newsweb/na/nd-20260819de44929",
         "https://news.web.nhk/newsweb/na/nd-20260820de45277",
         "https://news.web.nhk/newsweb/na/nd-20260820de45205",
@@ -401,11 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260817de44576",
         "https://news.web.nhk/newsweb/na/nd-20260817de44609",
         "https://news.web.nhk/newsweb/na/nd-20260817de44594",
-        "https://news.web.nhk/newsweb/na/nd-20260817de44622",
-        "https://news.web.nhk/newsweb/na/nd-20260817de44614",
-        "https://news.web.nhk/newsweb/na/nd-20260813de43862"
+        "https://news.web.nhk/newsweb/na/nd-20260817de44622"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/redmi-note-17-pro-max-5g/",
         "https://www.gizmodo.jp/article/2708-do-nothing-productivity-yqr/",
         "https://www.gizmodo.jp/article/fold-iphone-rumor/",
         "https://www.gizmodo.jp/article/pokemon-polaroid-collaboration/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/koizumi-iron/",
         "https://www.gizmodo.jp/article/metas-smart-glasses-are-still-creepy-despite-anti-creep-update/",
         "https://www.gizmodo.jp/article/tinytv-2-with-tiny-remote-abt/",
-        "https://www.gizmodo.jp/article/iron_using_green_hydrogen/",
-        "https://www.gizmodo.jp/article/the-sun-looks-so-hot-right-now/"
+        "https://www.gizmodo.jp/article/iron_using_green_hydrogen/"
     ]
 }
