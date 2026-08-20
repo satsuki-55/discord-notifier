@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c4g3qdj1z77o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260820de45233",
         "https://news.web.nhk/newsweb/na/nd-20260820de45217",
         "https://news.web.nhk/newsweb/na/nd-20260820de45215",
         "https://news.web.nhk/newsweb/na/nd-20260820de45235",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260817de44547",
         "https://news.web.nhk/newsweb/na/nd-20260817de44556",
         "https://news.web.nhk/newsweb/na/nd-20260817de44540",
-        "https://news.web.nhk/newsweb/na/nd-20260810de43195",
-        "https://news.web.nhk/newsweb/na/nd-20260817de44508"
+        "https://news.web.nhk/newsweb/na/nd-20260810de43195"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/apples-glasses-are-reportedly-being-developed-as-fitness-devices-like-the-apple-watch/",
