@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/ckg3j15v2npo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260821de45532",
         "https://news.web.nhk/newsweb/na/nd-20260821de45505",
         "https://news.web.nhk/newsweb/na/nd-20260821de45448",
         "https://news.web.nhk/newsweb/na/nd-20260821de45520",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260819de44927",
         "https://news.web.nhk/newsweb/na/nd-20260819de44922",
         "https://news.web.nhk/newsweb/na/nd-20260818de44913",
-        "https://news.web.nhk/newsweb/na/nd-20260818de44881",
-        "https://news.web.nhk/newsweb/na/nd-20260819de44918"
+        "https://news.web.nhk/newsweb/na/nd-20260818de44881"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/claude-googledrive/",
