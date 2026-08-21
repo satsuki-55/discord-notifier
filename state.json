@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260818de44913"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/arata_au_08_sun_umbrella/",
         "https://www.gizmodo.jp/article/comu-action-pro-video/",
         "https://www.gizmodo.jp/article/cd_rom_player_01_das_pod/",
         "https://www.gizmodo.jp/article/claude-googledrive/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/g6-he-ultralight-tyohayawari-ends-tomorrow/",
         "https://www.gizmodo.jp/article/rumored-never-to-be-released-apple-feature-may-have-been-too-much-truth-for-most-consumers/",
         "https://www.gizmodo.jp/article/hand-made-orca-echo/",
-        "https://www.gizmodo.jp/article/google_pixeltag_release/",
-        "https://www.gizmodo.jp/article/mini-freezer-review-c03/"
+        "https://www.gizmodo.jp/article/google_pixeltag_release/"
     ]
 }
