@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "6mIDI_G11Y0",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "MXJMWKwn8rQ",
     "rss:bbc": [
+        "https://www.bbc.co.uk/weather/articles/cd0x17r4j0yo#0",
         "https://www.bbc.co.uk/news/articles/cx2krdggx6xo#0",
         "https://www.bbc.co.uk/news/articles/cp8x6yl4j99o#0",
         "https://www.bbc.co.uk/news/articles/c80n8d4xz1eo#0",
@@ -200,8 +201,7 @@
         "https://www.bbc.co.uk/news/articles/cm2gm8je1kgo#0",
         "https://www.bbc.co.uk/news/articles/c5yvdglz962o#0",
         "https://www.bbc.co.uk/news/articles/c235dmndylzo#0",
-        "https://www.bbc.co.uk/news/articles/cpq8g22715vo#0",
-        "https://www.bbc.co.uk/news/articles/cedj7je0zlzo#1"
+        "https://www.bbc.co.uk/news/articles/cpq8g22715vo#0"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20260821de45590",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260819de45028"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/samsung-odyssey-g80hs-monitor-review-6k-isnt-the-future-of-gaming/",
         "https://www.gizmodo.jp/article/google-pixel-11_11pro_first-impression/",
         "https://www.gizmodo.jp/article/keyboard-survey-orca-echo/",
         "https://www.gizmodo.jp/article/pixel-11-pro-fold_first-impression/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/the-five-biggest-myths-about-saving-energy-in-the-summer/",
         "https://www.gizmodo.jp/article/amazon-ugreen-car-charger/",
         "https://www.gizmodo.jp/article/bear-with-plastic-lid-on-for-2years-p0e/",
-        "https://www.gizmodo.jp/article/the-iphone-18-pro-may-see-a-price-increase-while-storage-capacity-remains-the-same/",
-        "https://www.gizmodo.jp/article/asuya_asw-900_blast/"
+        "https://www.gizmodo.jp/article/the-iphone-18-pro-may-see-a-price-increase-while-storage-capacity-remains-the-same/"
     ]
 }
