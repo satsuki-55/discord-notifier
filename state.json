@@ -204,6 +204,9 @@
         "https://www.bbc.co.uk/news/articles/cedj7je0zlzo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260821de45591",
+        "https://news.web.nhk/newsweb/na/nd-20260815de44293",
+        "https://news.web.nhk/newsweb/na/nd-20260821de45566",
         "https://news.web.nhk/newsweb/na/nd-20260821de45578",
         "https://news.web.nhk/newsweb/na/nd-20260821de45553",
         "https://news.web.nhk/newsweb/na/nd-20260821de45592",
@@ -400,10 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260819de45027",
         "https://news.web.nhk/newsweb/na/nd-20260819de45028",
         "https://news.web.nhk/newsweb/na/nd-20260819de44935",
-        "https://news.web.nhk/newsweb/na/nd-20260819de45032",
-        "https://news.web.nhk/newsweb/na/nd-20260819de45003",
-        "https://news.web.nhk/newsweb/na/nd-20260819de45008",
-        "https://news.web.nhk/newsweb/na/nd-20260815de44293"
+        "https://news.web.nhk/newsweb/na/nd-20260819de45032"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/keyboard-survey-orca-echo/",
