@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260818de44906"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/claude-googledrive/",
         "https://www.gizmodo.jp/article/airpods-pro-3-sale-amazon/",
         "https://www.gizmodo.jp/article/2510-lht-nfc-tag-vdd/",
         "https://www.gizmodo.jp/article/keychron-g6-he-for-work/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/google_pixeltag_release/",
         "https://www.gizmodo.jp/article/mini-freezer-review-c03/",
         "https://www.gizmodo.jp/article/an-oled-screen-could-make-the-imac-relevant-again/",
-        "https://www.gizmodo.jp/article/panasonic-ds-fb500/",
-        "https://www.gizmodo.jp/article/samsung-new-dhisplay-tech-ctg/"
+        "https://www.gizmodo.jp/article/panasonic-ds-fb500/"
     ]
 }
