@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/crrv1rjwgl9o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260821de45440",
         "https://news.web.nhk/newsweb/na/nd-20260818de44847",
         "https://news.web.nhk/newsweb/na/nd-20260821de45445",
         "https://news.web.nhk/newsweb/na/nd-20260821de45441",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260818de44700",
         "https://news.web.nhk/newsweb/na/nd-20260818de44842",
         "https://news.web.nhk/newsweb/na/nd-20260818de44835",
-        "https://news.web.nhk/newsweb/na/nd-20260818de44844",
-        "https://news.web.nhk/newsweb/na/nd-20260818de44804"
+        "https://news.web.nhk/newsweb/na/nd-20260818de44844"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/openai-launches-chatgpt-for-teens-to-prevent-kids-from-emotionally-bonding-with-bots/",
         "https://www.gizmodo.jp/article/giz-20th_kenthasegawa/",
         "https://www.gizmodo.jp/article/iphone_applecare_need_notneed/",
         "https://www.gizmodo.jp/article/2df05f30-c414-480b-89f5-6a6b98d62fe4/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/dji-mic-mini-2-s/",
         "https://www.gizmodo.jp/article/samsung-galaxy-z-fold-8-review-the-most-fun-phone-in-ages/",
         "https://www.gizmodo.jp/article/nintendo-switch-2-belkin-armor/",
-        "https://www.gizmodo.jp/article/volcur-mobile-tap/",
-        "https://www.gizmodo.jp/article/cmf-clip-pro-review-an-affordable-challenger-in-the-clip-style-earbuds-craze/"
+        "https://www.gizmodo.jp/article/volcur-mobile-tap/"
     ]
 }
