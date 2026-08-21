@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "6mIDI_G11Y0",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "52lTbfINXC0",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c78g2vq6nx6o#0",
         "https://www.bbc.co.uk/news/articles/ce8k52186mmo#0",
         "https://www.bbc.co.uk/news/articles/c0ej09nywdno#0",
         "https://www.bbc.co.uk/news/articles/ce8l7w0n0jeo#0",
@@ -200,10 +201,12 @@
         "https://www.bbc.co.uk/news/articles/c70gp8252ejo#0",
         "https://www.bbc.co.uk/news/articles/c0ej09nywdno#1",
         "https://www.bbc.co.uk/news/articles/c3ekl74jnk5o#1",
-        "https://www.bbc.co.uk/news/articles/cq89n5j9npdo#1",
-        "https://www.bbc.co.uk/news/articles/cwyrvxvl1eeo#1"
+        "https://www.bbc.co.uk/news/articles/cq89n5j9npdo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260819de45037",
+        "https://news.web.nhk/newsweb/na/nd-20260822de45618",
+        "https://news.web.nhk/newsweb/na/nd-20260821de45601",
         "https://news.web.nhk/newsweb/na/nd-20260821de45609",
         "https://news.web.nhk/newsweb/na/nd-20260821de45512",
         "https://news.web.nhk/newsweb/na/nd-20260821de45594",
@@ -400,10 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260819de45075",
         "https://news.web.nhk/newsweb/na/nd-20260819de45104",
         "https://news.web.nhk/newsweb/na/nd-20260819de44981",
-        "https://news.web.nhk/newsweb/na/nd-20260819de45067",
-        "https://news.web.nhk/newsweb/na/nd-20260819de45066",
-        "https://news.web.nhk/newsweb/na/nd-20260819de45037",
-        "https://news.web.nhk/newsweb/na/nd-20260819de45070"
+        "https://news.web.nhk/newsweb/na/nd-20260819de45067"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/solar_panels_in_fukushima/",
