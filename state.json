@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "6mIDI_G11Y0",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "MXJMWKwn8rQ",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cqx75zllqlzo#0",
         "https://www.bbc.co.uk/news/articles/cy5dxpgp1ego#0",
         "https://www.bbc.co.uk/news/articles/cj63jyg6zg9o#1",
         "https://www.bbc.co.uk/news/articles/cd9w1jwdkkjo#1",
@@ -200,10 +201,10 @@
         "https://www.bbc.co.uk/news/articles/c1m14n4llvvo#1",
         "https://www.bbc.co.uk/news/articles/c0m7e9ym747o#0",
         "https://www.bbc.co.uk/sport/tennis/articles/c4g612r12yno#0",
-        "https://www.bbc.co.uk/news/articles/cdrv7jr8n74o#0",
-        "https://www.bbc.co.uk/news/articles/cwyjqe62574o#0"
+        "https://www.bbc.co.uk/news/articles/cdrv7jr8n74o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260821de45542",
         "https://news.web.nhk/newsweb/na/nd-20260821de45527",
         "https://news.web.nhk/newsweb/na/nd-20260821de45562",
         "https://news.web.nhk/newsweb/na/nd-20260821de45556",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260819de44980",
         "https://news.web.nhk/newsweb/na/nd-20260819de44964",
         "https://news.web.nhk/newsweb/na/nd-20260819de44953",
-        "https://news.web.nhk/newsweb/na/nd-20260819de44958",
-        "https://news.web.nhk/newsweb/na/nd-20260819de44941"
+        "https://news.web.nhk/newsweb/na/nd-20260819de44958"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/zipstring-aracna_project-start/",
