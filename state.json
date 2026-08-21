@@ -2,6 +2,9 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "6mIDI_G11Y0",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "MXJMWKwn8rQ",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/videos/cn4nk1915vxo#0",
+        "https://www.bbc.co.uk/news/articles/c05q39mjr62o#1",
+        "https://www.bbc.co.uk/news/articles/c235dmndylzo#0",
         "https://www.bbc.co.uk/news/articles/c05q39mjr62o#0",
         "https://www.bbc.co.uk/news/articles/cjd47klln75o#1",
         "https://www.bbc.co.uk/news/articles/c04kwr9r1zlo#0",
@@ -198,10 +201,7 @@
         "https://www.bbc.co.uk/news/articles/crl7yjlpx2po#0",
         "https://www.bbc.co.uk/news/articles/cz645358021o#0",
         "https://www.bbc.co.uk/news/articles/cj03p2jpdd4o#0",
-        "https://www.bbc.co.uk/news/articles/cj63jr5r09zo#0",
-        "https://www.bbc.co.uk/news/articles/c98vr7ql2vdo#0",
-        "https://www.bbc.co.uk/news/articles/c2dk64d10rko#0",
-        "https://www.bbc.co.uk/news/articles/cm2gm8je1kgo#0"
+        "https://www.bbc.co.uk/news/articles/cj63jr5r09zo#0"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20260821de45594",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260819de45056"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/solar_panels_in_fukushima/",
         "https://www.gizmodo.jp/article/samsung-odyssey-g80hs-monitor-review-6k-isnt-the-future-of-gaming/",
         "https://www.gizmodo.jp/article/google-pixel-11_11pro_first-impression/",
         "https://www.gizmodo.jp/article/keyboard-survey-orca-echo/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/gunze-nerut/",
         "https://www.gizmodo.jp/article/the-five-biggest-myths-about-saving-energy-in-the-summer/",
         "https://www.gizmodo.jp/article/amazon-ugreen-car-charger/",
-        "https://www.gizmodo.jp/article/bear-with-plastic-lid-on-for-2years-p0e/",
-        "https://www.gizmodo.jp/article/the-iphone-18-pro-may-see-a-price-increase-while-storage-capacity-remains-the-same/"
+        "https://www.gizmodo.jp/article/bear-with-plastic-lid-on-for-2years-p0e/"
     ]
 }
