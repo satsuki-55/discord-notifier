@@ -2,6 +2,10 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "WmU0TAvOzbo",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "MXJMWKwn8rQ",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/ckg3j15v2npo#0",
+        "https://www.bbc.co.uk/news/articles/cn8n077vxd7o#1",
+        "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo#0",
+        "https://www.bbc.co.uk/news/articles/ckgdpdk84d0o#0",
         "https://www.bbc.co.uk/news/articles/cd7l1g8922jo#0",
         "https://www.bbc.co.uk/news/articles/clyx410xxyko#0",
         "https://www.bbc.co.uk/news/articles/cly8k232mn7o#1",
@@ -197,11 +201,7 @@
         "https://www.bbc.co.uk/news/articles/czdmzdnp3z0o#1",
         "https://www.bbc.co.uk/news/articles/cdx755dyy1yo#1",
         "https://www.bbc.co.uk/news/articles/cx2rdggr304o#0",
-        "https://www.bbc.co.uk/news/articles/clyqpx6xk69o#0",
-        "https://www.bbc.co.uk/news/articles/cy9wz79ze29o#0",
-        "https://www.bbc.co.uk/news/articles/cnvnl8gy22lo#1",
-        "https://www.bbc.co.uk/news/articles/ckg3j15v2npo#0",
-        "https://www.bbc.co.uk/news/articles/c4gd1mez8zvo#0"
+        "https://www.bbc.co.uk/news/articles/clyqpx6xk69o#0"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20260821de45484",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260812de43496"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/keychron-g6-he-for-work/",
         "https://www.gizmodo.jp/article/googlebook-laptop-pc/",
         "https://www.gizmodo.jp/article/soxai-ring-x/",
         "https://www.gizmodo.jp/article/apple_visionpro_yet/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/panasonic-ds-fb500/",
         "https://www.gizmodo.jp/article/samsung-new-dhisplay-tech-ctg/",
         "https://www.gizmodo.jp/article/evangelion-osechi/",
-        "https://www.gizmodo.jp/article/e-scooter-riders-face-higher-brain-injury-risk-than-motorcyclists-lawmakers-want-a-fix/",
-        "https://www.gizmodo.jp/article/mont-bell-water-filter-53d/"
+        "https://www.gizmodo.jp/article/e-scooter-riders-face-higher-brain-injury-risk-than-motorcyclists-lawmakers-want-a-fix/"
     ]
 }
