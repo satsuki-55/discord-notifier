@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cvglzlj81x2o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260821de45451",
         "https://news.web.nhk/newsweb/na/nd-20260820de45422",
         "https://news.web.nhk/newsweb/na/nd-20260821de45440",
         "https://news.web.nhk/newsweb/na/nd-20260818de44847",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260818de44857",
         "https://news.web.nhk/newsweb/na/nd-20260812de43444",
         "https://news.web.nhk/newsweb/na/nd-20260818de44700",
-        "https://news.web.nhk/newsweb/na/nd-20260818de44842",
-        "https://news.web.nhk/newsweb/na/nd-20260818de44835"
+        "https://news.web.nhk/newsweb/na/nd-20260818de44842"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/zebra-elecom-stylus-2way/",
         "https://www.gizmodo.jp/article/openai-launches-chatgpt-for-teens-to-prevent-kids-from-emotionally-bonding-with-bots/",
         "https://www.gizmodo.jp/article/giz-20th_kenthasegawa/",
         "https://www.gizmodo.jp/article/iphone_applecare_need_notneed/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/eso-study-finds-that-no-more-than-100000-satellites-should-orbit-earth/",
         "https://www.gizmodo.jp/article/dji-mic-mini-2-s/",
         "https://www.gizmodo.jp/article/samsung-galaxy-z-fold-8-review-the-most-fun-phone-in-ages/",
-        "https://www.gizmodo.jp/article/nintendo-switch-2-belkin-armor/",
-        "https://www.gizmodo.jp/article/volcur-mobile-tap/"
+        "https://www.gizmodo.jp/article/nintendo-switch-2-belkin-armor/"
     ]
 }
