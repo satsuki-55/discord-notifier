@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/c4gd1mez8zvo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260821de45470",
+        "https://news.web.nhk/newsweb/na/nd-20260821de45468",
         "https://news.web.nhk/newsweb/na/nd-20260821de45473",
         "https://news.web.nhk/newsweb/na/nd-20260821de45465",
         "https://news.web.nhk/newsweb/na/nd-20260821de45466",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260818de44895",
         "https://news.web.nhk/newsweb/na/nd-20260818de44903",
         "https://news.web.nhk/newsweb/na/nd-20260812de43496",
-        "https://news.web.nhk/newsweb/na/nd-20260818de44899",
-        "https://news.web.nhk/newsweb/na/nd-20260818de44879",
-        "https://news.web.nhk/newsweb/na/nd-20260818de44878"
+        "https://news.web.nhk/newsweb/na/nd-20260818de44899"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/googlebook-laptop-pc/",
