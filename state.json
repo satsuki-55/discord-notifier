@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/clyqpx6xk69o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260821de45496",
         "https://news.web.nhk/newsweb/na/nd-20260821de45501",
         "https://news.web.nhk/newsweb/na/nd-20260821de45495",
         "https://news.web.nhk/newsweb/na/nd-20260821de45494",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260818de44911",
         "https://news.web.nhk/newsweb/na/nd-20260819de44920",
         "https://news.web.nhk/newsweb/na/nd-20260818de44905",
-        "https://news.web.nhk/newsweb/na/nd-20260818de44893",
-        "https://news.web.nhk/newsweb/na/nd-20260818de44900"
+        "https://news.web.nhk/newsweb/na/nd-20260818de44893"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/keychron-g6-he-for-work/",
