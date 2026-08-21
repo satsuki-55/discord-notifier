@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cp87gvmedlmo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260821de45583",
         "https://news.web.nhk/newsweb/na/nd-20260821de45530",
         "https://news.web.nhk/newsweb/na/nd-20260821de45549",
         "https://news.web.nhk/newsweb/na/nd-20260821de45580",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260819de44966",
         "https://news.web.nhk/newsweb/na/nd-20260819de44965",
         "https://news.web.nhk/newsweb/na/nd-20260819de44968",
-        "https://news.web.nhk/newsweb/na/nd-20260819de44973",
-        "https://news.web.nhk/newsweb/na/nd-20260819de44970"
+        "https://news.web.nhk/newsweb/na/nd-20260819de44973"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/95bb17e9-cd91-4b97-9fb1-32c342eb3181/",
         "https://www.gizmodo.jp/article/pixelwatch-support/",
         "https://www.gizmodo.jp/article/zipstring-aracna_project-start/",
         "https://www.gizmodo.jp/article/peak-design-bagpack/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/asuya_asw-900_blast/",
         "https://www.gizmodo.jp/article/wowow-vinicius/",
         "https://www.gizmodo.jp/article/2607-lht-logos-mobile-mosquito-holder-srp/",
-        "https://www.gizmodo.jp/article/ccc27787-f766-4dc6-b5c7-e6a8f597138c/",
-        "https://www.gizmodo.jp/article/g6-he-ultralight-tyohayawari-ends-tomorrow/"
+        "https://www.gizmodo.jp/article/ccc27787-f766-4dc6-b5c7-e6a8f597138c/"
     ]
 }
