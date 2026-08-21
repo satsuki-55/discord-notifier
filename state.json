@@ -2,6 +2,11 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "6mIDI_G11Y0",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "MXJMWKwn8rQ",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c3r0g7gj2n3o#0",
+        "https://www.bbc.co.uk/news/articles/czxe9n0vxzdo#0",
+        "https://www.bbc.co.uk/news/articles/c0km6n3ng7ko#0",
+        "https://www.bbc.co.uk/news/articles/c80n8d4xz1eo#1",
+        "https://www.bbc.co.uk/news/articles/c0rd1pkdky8o#1",
         "https://www.bbc.co.uk/sport/football/articles/c98v7p1pr3eo#0",
         "https://www.bbc.co.uk/news/videos/cy07x9ne871o#0",
         "https://www.bbc.co.uk/sport/tennis/articles/cvgw2qg3e70o#0",
@@ -196,14 +201,10 @@
         "https://www.bbc.co.uk/news/articles/cp87gvmedlmo#1",
         "https://www.bbc.co.uk/news/articles/cpvwgk1n2k8o#1",
         "https://www.bbc.co.uk/news/articles/ce346v4l17yo#0",
-        "https://www.bbc.co.uk/news/articles/c78gp7l5348o#0",
-        "https://www.bbc.co.uk/news/articles/cpvwgk1n2k8o#0",
-        "https://www.bbc.co.uk/news/articles/clylkv4z59vo#1",
-        "https://www.bbc.co.uk/news/articles/cpq8g22715vo#1",
-        "https://www.bbc.co.uk/news/articles/cdj0pv2m812o#0",
-        "https://www.bbc.co.uk/news/articles/crl7yjlpx2po#0"
+        "https://www.bbc.co.uk/news/articles/c78gp7l5348o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260821de45512",
         "https://news.web.nhk/newsweb/na/nd-20260821de45594",
         "https://news.web.nhk/newsweb/na/nd-20260821de45596",
         "https://news.web.nhk/newsweb/na/nd-20260821de45579",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260819de45066",
         "https://news.web.nhk/newsweb/na/nd-20260819de45037",
         "https://news.web.nhk/newsweb/na/nd-20260819de45070",
-        "https://news.web.nhk/newsweb/na/nd-20260817de44539",
-        "https://news.web.nhk/newsweb/na/nd-20260819de45056"
+        "https://news.web.nhk/newsweb/na/nd-20260817de44539"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/solar_panels_in_fukushima/",
