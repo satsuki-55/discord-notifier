@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "WmU0TAvOzbo",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "MXJMWKwn8rQ",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cdew81wd2y8o#0",
         "https://www.bbc.co.uk/news/articles/ckg3j15v2npo#0",
         "https://www.bbc.co.uk/news/articles/cn8n077vxd7o#1",
         "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo#0",
@@ -200,10 +201,11 @@
         "https://www.bbc.co.uk/news/articles/cgjeped6ewxo#1",
         "https://www.bbc.co.uk/news/articles/czdmzdnp3z0o#1",
         "https://www.bbc.co.uk/news/articles/cdx755dyy1yo#1",
-        "https://www.bbc.co.uk/news/articles/cx2rdggr304o#0",
-        "https://www.bbc.co.uk/news/articles/clyqpx6xk69o#0"
+        "https://www.bbc.co.uk/news/articles/cx2rdggr304o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260821de45517",
+        "https://news.web.nhk/newsweb/na/nd-20260821de45513",
         "https://news.web.nhk/newsweb/na/nd-20260821de45510",
         "https://news.web.nhk/newsweb/na/nd-20260817de44546",
         "https://news.web.nhk/newsweb/na/nd-20260821de45496",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260819de44918",
         "https://news.web.nhk/newsweb/na/nd-20260818de44906",
         "https://news.web.nhk/newsweb/na/nd-20260818de44909",
-        "https://news.web.nhk/newsweb/na/nd-20260818de44908",
-        "https://news.web.nhk/newsweb/na/nd-20260818de44911",
-        "https://news.web.nhk/newsweb/na/nd-20260819de44920"
+        "https://news.web.nhk/newsweb/na/nd-20260818de44908"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/airpods-pro-3-sale-amazon/",
