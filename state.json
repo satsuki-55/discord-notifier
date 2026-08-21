@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cqlxpq5q799o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260821de45462",
         "https://news.web.nhk/newsweb/na/nd-20260821de45459",
         "https://news.web.nhk/newsweb/na/nd-20260821de45437",
         "https://news.web.nhk/newsweb/na/nd-20260821de45451",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260818de44878",
         "https://news.web.nhk/newsweb/na/nd-20260818de44872",
         "https://news.web.nhk/newsweb/na/nd-20260818de44873",
-        "https://news.web.nhk/newsweb/na/nd-20260818de44857",
-        "https://news.web.nhk/newsweb/na/nd-20260812de43444"
+        "https://news.web.nhk/newsweb/na/nd-20260818de44857"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/the_north_face_re_activ_sneaker/",
