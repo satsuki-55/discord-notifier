@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/c235dmndylzo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260821de45594",
+        "https://news.web.nhk/newsweb/na/nd-20260821de45596",
         "https://news.web.nhk/newsweb/na/nd-20260821de45579",
         "https://news.web.nhk/newsweb/na/nd-20260821de45590",
         "https://news.web.nhk/newsweb/na/nd-20260821de45593",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260819de45037",
         "https://news.web.nhk/newsweb/na/nd-20260819de45070",
         "https://news.web.nhk/newsweb/na/nd-20260817de44539",
-        "https://news.web.nhk/newsweb/na/nd-20260819de45056",
-        "https://news.web.nhk/newsweb/na/nd-20260819de44948",
-        "https://news.web.nhk/newsweb/na/nd-20260819de45027"
+        "https://news.web.nhk/newsweb/na/nd-20260819de45056"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/samsung-odyssey-g80hs-monitor-review-6k-isnt-the-future-of-gaming/",
