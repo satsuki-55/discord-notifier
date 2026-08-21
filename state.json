@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/crrv1rjwgl9o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260820de45422",
         "https://news.web.nhk/newsweb/na/nd-20260821de45440",
         "https://news.web.nhk/newsweb/na/nd-20260818de44847",
         "https://news.web.nhk/newsweb/na/nd-20260821de45445",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260812de43444",
         "https://news.web.nhk/newsweb/na/nd-20260818de44700",
         "https://news.web.nhk/newsweb/na/nd-20260818de44842",
-        "https://news.web.nhk/newsweb/na/nd-20260818de44835",
-        "https://news.web.nhk/newsweb/na/nd-20260818de44844"
+        "https://news.web.nhk/newsweb/na/nd-20260818de44835"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/openai-launches-chatgpt-for-teens-to-prevent-kids-from-emotionally-bonding-with-bots/",
