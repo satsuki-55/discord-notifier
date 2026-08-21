@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c934wqpd74xo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260821de45571",
         "https://news.web.nhk/newsweb/na/nd-20260821de45564",
         "https://news.web.nhk/newsweb/na/nd-20260821de45534",
         "https://news.web.nhk/newsweb/na/nd-20260821de45521",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260819de44933",
         "https://news.web.nhk/newsweb/na/nd-20260819de44930",
         "https://news.web.nhk/newsweb/na/nd-20260819de44931",
-        "https://news.web.nhk/newsweb/na/nd-20260819de44919",
-        "https://news.web.nhk/newsweb/na/nd-20260818de44907"
+        "https://news.web.nhk/newsweb/na/nd-20260819de44919"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/peak-design-bagpack/",
