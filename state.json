@@ -2,6 +2,8 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "pcBIT6O9phQ",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "HHwW0KqxWNg",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/clyq011414eo#0",
+        "https://www.bbc.co.uk/news/videos/c4gxgpqzdz6o#0",
         "https://www.bbc.co.uk/news/articles/cm2g23ng8p4o#0",
         "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo#1",
         "https://www.bbc.co.uk/news/articles/cx272np7vgyo#0",
@@ -199,11 +201,10 @@
         "https://www.bbc.co.uk/news/articles/cqx7vp77g0jo#0",
         "https://www.bbc.co.uk/news/articles/czxqz91n5n8o#0",
         "https://www.bbc.co.uk/news/articles/cg5ljlzedd5o#1",
-        "https://www.bbc.co.uk/news/articles/cx2m8x44gdpo#0",
-        "https://www.bbc.co.uk/news/articles/cr7kddmn97do#1",
-        "https://www.bbc.co.uk/news/articles/clyq011414eo#0"
+        "https://www.bbc.co.uk/news/articles/cx2m8x44gdpo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260823de45744",
         "https://news.web.nhk/newsweb/na/nd-20260823de45745",
         "https://news.web.nhk/newsweb/na/nd-20260823de45743",
         "https://news.web.nhk/newsweb/na/nd-20260823de45741",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260813de43862",
         "https://news.web.nhk/newsweb/na/nd-20260820de45290",
         "https://news.web.nhk/newsweb/na/nd-20260819de44929",
-        "https://news.web.nhk/newsweb/na/nd-20260820de45277",
-        "https://news.web.nhk/newsweb/na/nd-20260820de45205"
+        "https://news.web.nhk/newsweb/na/nd-20260820de45277"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/stream_mini_handy_fan/",
