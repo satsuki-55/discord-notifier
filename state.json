@@ -2,6 +2,9 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "pcBIT6O9phQ",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "HHwW0KqxWNg",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cp872m0grgyo#0",
+        "https://www.bbc.co.uk/news/articles/c9w09dj7qk5o#1",
+        "https://www.bbc.co.uk/news/articles/cp872m0grgyo#1",
         "https://www.bbc.co.uk/news/articles/cm2g5x7l4mko#0",
         "https://www.bbc.co.uk/news/articles/cd9w9l9v8w8o#0",
         "https://www.bbc.co.uk/news/articles/cqx7vp77g0jo#0",
@@ -198,12 +201,11 @@
         "https://www.bbc.co.uk/news/articles/c3r055g23qdo#1",
         "https://www.bbc.co.uk/news/articles/ceqe385qen2o#0",
         "https://www.bbc.co.uk/news/articles/cvgjdy8q766o#1",
-        "https://www.bbc.co.uk/news/articles/cp9eggpjl3lo#0",
-        "https://www.bbc.co.uk/news/articles/crl7y671w8go#0",
-        "https://www.bbc.co.uk/news/articles/cgr71kv9k95o#1",
-        "https://www.bbc.co.uk/news/articles/c0kmlrkypjpo#0"
+        "https://www.bbc.co.uk/news/articles/cp9eggpjl3lo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260823de45804",
+        "https://news.web.nhk/newsweb/na/nd-20260823de45735",
         "https://news.web.nhk/newsweb/na/nd-20260823de45815",
         "https://news.web.nhk/newsweb/na/nd-20260823de45806",
         "https://news.web.nhk/newsweb/na/nd-20260822de45711",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260820de45374",
         "https://news.web.nhk/newsweb/na/nd-20260820de45381",
         "https://news.web.nhk/newsweb/na/nd-20260820de45389",
-        "https://news.web.nhk/newsweb/na/nd-20260814de44024",
-        "https://news.web.nhk/newsweb/na/nd-20260820de45383",
-        "https://news.web.nhk/newsweb/na/nd-20260820de45359"
+        "https://news.web.nhk/newsweb/na/nd-20260814de44024"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/oh-cool-ai-is-inventing-new-biological-viruses-now/",
