@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cp87g29r718o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260822de45661",
         "https://news.web.nhk/newsweb/na/nd-20260822de45652",
         "https://news.web.nhk/newsweb/na/nd-20260822de45650",
         "https://news.web.nhk/newsweb/na/nd-20260822de45647",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260820de45184",
         "https://news.web.nhk/newsweb/na/nd-20260820de45176",
         "https://news.web.nhk/newsweb/na/nd-20260820de45177",
-        "https://news.web.nhk/newsweb/na/nd-20260819de45129",
-        "https://news.web.nhk/newsweb/na/nd-20260819de45168"
+        "https://news.web.nhk/newsweb/na/nd-20260819de45129"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/the-weirdest-theory-yet-for-why-life-on-earth-suddenly-exploded/",
