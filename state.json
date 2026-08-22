@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cj63jyg6zg9o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260822de45639",
         "https://news.web.nhk/newsweb/na/nd-20260822de45640",
         "https://news.web.nhk/newsweb/na/nd-20260821de45605",
         "https://news.web.nhk/newsweb/na/nd-20260822de45638",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260819de45164",
         "https://news.web.nhk/newsweb/na/nd-20260819de45165",
         "https://news.web.nhk/newsweb/na/nd-20260819de45135",
-        "https://news.web.nhk/newsweb/na/nd-20260819de45143",
-        "https://news.web.nhk/newsweb/na/nd-20260819de45159"
+        "https://news.web.nhk/newsweb/na/nd-20260819de45143"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/apple-might-finally-let-you-copy-and-paste-from-iphone-to-windows/",
