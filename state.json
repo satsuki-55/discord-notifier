@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/clyq011414eo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260823de45743",
+        "https://news.web.nhk/newsweb/na/nd-20260823de45741",
         "https://news.web.nhk/newsweb/na/nd-20260823de45742",
         "https://news.web.nhk/newsweb/na/nd-20260823de45740",
         "https://news.web.nhk/newsweb/na/nd-20260823de45739",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260819de44929",
         "https://news.web.nhk/newsweb/na/nd-20260820de45277",
         "https://news.web.nhk/newsweb/na/nd-20260820de45205",
-        "https://news.web.nhk/newsweb/na/nd-20260820de45252",
-        "https://news.web.nhk/newsweb/na/nd-20260820de45233",
-        "https://news.web.nhk/newsweb/na/nd-20260820de45217"
+        "https://news.web.nhk/newsweb/na/nd-20260820de45252"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/stream_mini_handy_fan/",
