@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c75gv9xnr3po#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260822de45669",
         "https://news.web.nhk/newsweb/na/nd-20260822de45660",
         "https://news.web.nhk/newsweb/na/nd-20260822de45661",
         "https://news.web.nhk/newsweb/na/nd-20260822de45652",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260819de45161",
         "https://news.web.nhk/newsweb/na/nd-20260819de45169",
         "https://news.web.nhk/newsweb/na/nd-20260820de45184",
-        "https://news.web.nhk/newsweb/na/nd-20260820de45176",
-        "https://news.web.nhk/newsweb/na/nd-20260820de45177"
+        "https://news.web.nhk/newsweb/na/nd-20260820de45176"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/nanga_compact_umbrella_review/",
