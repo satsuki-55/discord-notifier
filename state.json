@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "pcBIT6O9phQ",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "HHwW0KqxWNg",
     "rss:bbc": [
+        "https://www.bbc.co.uk/sport/boxing/articles/c98v78n72v5o#2",
         "https://www.bbc.co.uk/news/articles/ce979zpjj85o#2",
         "https://www.bbc.co.uk/news/videos/cy4k4d3lj21o#0",
         "https://www.bbc.co.uk/news/articles/cp9e9rg255vo#0",
@@ -200,10 +201,10 @@
         "https://www.bbc.co.uk/news/articles/c2k7e7zwxvyo#0",
         "https://www.bbc.co.uk/news/articles/cn5nvkdwy74o#0",
         "https://www.bbc.co.uk/news/articles/c78gp4y8d3eo#0",
-        "https://www.bbc.co.uk/news/articles/crl7yjlpx2po#1",
-        "https://www.bbc.co.uk/news/articles/cd0x9mjjmgjo#0"
+        "https://www.bbc.co.uk/news/articles/crl7yjlpx2po#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260822de45716",
         "https://news.web.nhk/newsweb/na/nd-20260822de45713",
         "https://news.web.nhk/newsweb/na/nd-20260822de45705",
         "https://news.web.nhk/newsweb/na/nd-20260822de45709",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260820de45236",
         "https://news.web.nhk/newsweb/na/nd-20260820de45221",
         "https://news.web.nhk/newsweb/na/nd-20260820de45224",
-        "https://news.web.nhk/newsweb/na/nd-20260819de45039",
-        "https://news.web.nhk/newsweb/na/nd-20260820de45202"
+        "https://news.web.nhk/newsweb/na/nd-20260819de45039"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/yona-yona-wobblybeerglass/",
