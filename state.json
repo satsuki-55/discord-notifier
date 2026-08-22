@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260820de45196"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/keychron_orca-echo_put-in-between/",
         "https://www.gizmodo.jp/article/deep_robotics_dr02/",
         "https://www.gizmodo.jp/article/galaxy_z_fold8_passport_size_foldable_smartphone/",
         "https://www.gizmodo.jp/article/prj-b001ex-1jr/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/area_camera-buster/",
         "https://www.gizmodo.jp/article/capo-x/",
         "https://www.gizmodo.jp/article/meta-is-rethinking-subscriptions-on-its-smart-glasses/",
-        "https://www.gizmodo.jp/article/memory-transplant-ukm/",
-        "https://www.gizmodo.jp/article/et-coldbrewpro/"
+        "https://www.gizmodo.jp/article/memory-transplant-ukm/"
     ]
 }
