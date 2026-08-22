@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "pcBIT6O9phQ",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "HHwW0KqxWNg",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cm2g5x7l4mko#0",
         "https://www.bbc.co.uk/news/articles/cd9w9l9v8w8o#0",
         "https://www.bbc.co.uk/news/articles/cqx7vp77g0jo#0",
         "https://www.bbc.co.uk/news/articles/cq56x3910jwo#0",
@@ -200,10 +201,10 @@
         "https://www.bbc.co.uk/news/articles/cp9eggpjl3lo#0",
         "https://www.bbc.co.uk/news/articles/crl7y671w8go#0",
         "https://www.bbc.co.uk/news/articles/cgr71kv9k95o#1",
-        "https://www.bbc.co.uk/news/articles/c0kmlrkypjpo#0",
-        "https://www.bbc.co.uk/news/articles/cr59yg34r4mo#0"
+        "https://www.bbc.co.uk/news/articles/c0kmlrkypjpo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260823de45815",
         "https://news.web.nhk/newsweb/na/nd-20260823de45806",
         "https://news.web.nhk/newsweb/na/nd-20260822de45711",
         "https://news.web.nhk/newsweb/na/nd-20260820de45212",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260820de45389",
         "https://news.web.nhk/newsweb/na/nd-20260814de44024",
         "https://news.web.nhk/newsweb/na/nd-20260820de45383",
-        "https://news.web.nhk/newsweb/na/nd-20260820de45359",
-        "https://news.web.nhk/newsweb/na/nd-20260820de45372"
+        "https://news.web.nhk/newsweb/na/nd-20260820de45359"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/oh-cool-ai-is-inventing-new-biological-viruses-now/",
         "https://www.gizmodo.jp/article/xboxs-leaked-elite-3-controller-straddles-the-brands-warring-identities/",
         "https://www.gizmodo.jp/article/stream_mini_handy_fan/",
         "https://www.gizmodo.jp/article/pixel-11_magic-capture/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/6-unreleased-codenames/",
         "https://www.gizmodo.jp/article/pixel-11-camera/",
         "https://www.gizmodo.jp/article/folding-umbrella-zzd/",
-        "https://www.gizmodo.jp/article/zipstring-arcana_gizmart/",
-        "https://www.gizmodo.jp/article/tech-titans-prepare-bunkers-for-the-apocalypse/"
+        "https://www.gizmodo.jp/article/zipstring-arcana_gizmart/"
     ]
 }
