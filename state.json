@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cr59yg34r4mo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260823de45806",
         "https://news.web.nhk/newsweb/na/nd-20260822de45711",
         "https://news.web.nhk/newsweb/na/nd-20260820de45212",
         "https://news.web.nhk/newsweb/na/nd-20260821de45598",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260814de44024",
         "https://news.web.nhk/newsweb/na/nd-20260820de45383",
         "https://news.web.nhk/newsweb/na/nd-20260820de45359",
-        "https://news.web.nhk/newsweb/na/nd-20260820de45372",
-        "https://news.web.nhk/newsweb/na/nd-20260820de45321"
+        "https://news.web.nhk/newsweb/na/nd-20260820de45372"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/xboxs-leaked-elite-3-controller-straddles-the-brands-warring-identities/",
