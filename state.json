@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/crl7yjlpx2po#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260822de45718",
         "https://news.web.nhk/newsweb/na/nd-20260822de45716",
         "https://news.web.nhk/newsweb/na/nd-20260822de45713",
         "https://news.web.nhk/newsweb/na/nd-20260822de45705",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260820de45242",
         "https://news.web.nhk/newsweb/na/nd-20260820de45236",
         "https://news.web.nhk/newsweb/na/nd-20260820de45221",
-        "https://news.web.nhk/newsweb/na/nd-20260820de45224",
-        "https://news.web.nhk/newsweb/na/nd-20260819de45039"
+        "https://news.web.nhk/newsweb/na/nd-20260820de45224"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/yona-yona-wobblybeerglass/",
