@@ -1,5 +1,5 @@
 {
-    "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "1kfkLfTrJ8w",
+    "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "pcBIT6O9phQ",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "52lTbfINXC0",
     "rss:bbc": [
         "https://www.bbc.co.uk/news/articles/c4g355k8lg4o#0",
@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cqjxn9j410vo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260822de45694",
         "https://news.web.nhk/newsweb/na/nd-20260822de45681",
         "https://news.web.nhk/newsweb/na/nd-20260822de45682",
         "https://news.web.nhk/newsweb/na/nd-20260822de45690",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260819de45038",
         "https://news.web.nhk/newsweb/na/nd-20260819de45080",
         "https://news.web.nhk/newsweb/na/nd-20260820de45187",
-        "https://news.web.nhk/newsweb/na/nd-20260820de45193",
-        "https://news.web.nhk/newsweb/na/nd-20260816de44432"
+        "https://news.web.nhk/newsweb/na/nd-20260820de45193"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/deep_robotics_dr02/",
         "https://www.gizmodo.jp/article/galaxy_z_fold8_passport_size_foldable_smartphone/",
         "https://www.gizmodo.jp/article/prj-b001ex-1jr/",
         "https://www.gizmodo.jp/article/nanga_compact_umbrella_review/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/capo-x/",
         "https://www.gizmodo.jp/article/meta-is-rethinking-subscriptions-on-its-smart-glasses/",
         "https://www.gizmodo.jp/article/memory-transplant-ukm/",
-        "https://www.gizmodo.jp/article/et-coldbrewpro/",
-        "https://www.gizmodo.jp/article/ekal-trousers/"
+        "https://www.gizmodo.jp/article/et-coldbrewpro/"
     ]
 }
