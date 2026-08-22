@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/cvgvr336z2po#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260819de45099",
+        "https://news.web.nhk/newsweb/na/nd-20260820de45392",
         "https://news.web.nhk/newsweb/na/nd-20260816de44364",
         "https://news.web.nhk/newsweb/na/nd-20260822de45628",
         "https://news.web.nhk/newsweb/na/nd-20260817de44549",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260819de45152",
         "https://news.web.nhk/newsweb/na/nd-20260819de45124",
         "https://news.web.nhk/newsweb/na/nd-20260816de44365",
-        "https://news.web.nhk/newsweb/na/nd-20260816de44362",
-        "https://news.web.nhk/newsweb/na/nd-20260819de45042",
-        "https://news.web.nhk/newsweb/na/nd-20260819de45099"
+        "https://news.web.nhk/newsweb/na/nd-20260816de44362"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/razer-is-back-with-another-insufferably-cute-gaming-headset/",
