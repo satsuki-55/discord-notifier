@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cwyjqe62574o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260822de45713",
         "https://news.web.nhk/newsweb/na/nd-20260822de45705",
         "https://news.web.nhk/newsweb/na/nd-20260822de45709",
         "https://news.web.nhk/newsweb/na/nd-20260822de45677",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260820de45221",
         "https://news.web.nhk/newsweb/na/nd-20260820de45224",
         "https://news.web.nhk/newsweb/na/nd-20260819de45039",
-        "https://news.web.nhk/newsweb/na/nd-20260820de45202",
-        "https://news.web.nhk/newsweb/na/nd-20260820de45200"
+        "https://news.web.nhk/newsweb/na/nd-20260820de45202"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/yona-yona-wobblybeerglass/",
         "https://www.gizmodo.jp/article/keychron_orca-echo_put-in-between/",
         "https://www.gizmodo.jp/article/deep_robotics_dr02/",
         "https://www.gizmodo.jp/article/galaxy_z_fold8_passport_size_foldable_smartphone/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/tech-titans-prepare-bunkers-for-the-apocalypse/",
         "https://www.gizmodo.jp/article/area_camera-buster/",
         "https://www.gizmodo.jp/article/capo-x/",
-        "https://www.gizmodo.jp/article/meta-is-rethinking-subscriptions-on-its-smart-glasses/",
-        "https://www.gizmodo.jp/article/memory-transplant-ukm/"
+        "https://www.gizmodo.jp/article/meta-is-rethinking-subscriptions-on-its-smart-glasses/"
     ]
 }
