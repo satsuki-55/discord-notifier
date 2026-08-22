@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/cj63jyg6zg9o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260822de45638",
+        "https://news.web.nhk/newsweb/na/nd-20260822de45641",
         "https://news.web.nhk/newsweb/na/nd-20260822de45629",
         "https://news.web.nhk/newsweb/na/nd-20260822de45635",
         "https://news.web.nhk/newsweb/na/nd-20260816de44365",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260819de45143",
         "https://news.web.nhk/newsweb/na/nd-20260819de45159",
         "https://news.web.nhk/newsweb/na/nd-20260819de45130",
-        "https://news.web.nhk/newsweb/na/nd-20260819de45145",
-        "https://news.web.nhk/newsweb/na/nd-20260819de45160",
-        "https://news.web.nhk/newsweb/na/nd-20260819de45142"
+        "https://news.web.nhk/newsweb/na/nd-20260819de45145"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/the_movie_her_ai_chatbot/",
