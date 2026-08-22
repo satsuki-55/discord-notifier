@@ -204,6 +204,9 @@
         "https://www.bbc.co.uk/news/articles/cly50gn1e54o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260819de45080",
+        "https://news.web.nhk/newsweb/na/nd-20260822de45693",
+        "https://news.web.nhk/newsweb/na/nd-20260822de45675",
         "https://news.web.nhk/newsweb/na/nd-20260822de45670",
         "https://news.web.nhk/newsweb/na/nd-20260816de44432",
         "https://news.web.nhk/newsweb/na/nd-20260822de45694",
@@ -400,10 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260819de45141",
         "https://news.web.nhk/newsweb/na/nd-20260820de45199",
         "https://news.web.nhk/newsweb/na/nd-20260820de45195",
-        "https://news.web.nhk/newsweb/na/nd-20260820de45183",
-        "https://news.web.nhk/newsweb/na/nd-20260820de45189",
-        "https://news.web.nhk/newsweb/na/nd-20260819de45038",
-        "https://news.web.nhk/newsweb/na/nd-20260819de45080"
+        "https://news.web.nhk/newsweb/na/nd-20260820de45183"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/deep_robotics_dr02/",
