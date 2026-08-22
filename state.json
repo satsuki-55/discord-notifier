@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/c79gpv7v190o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260822de45629",
+        "https://news.web.nhk/newsweb/na/nd-20260822de45635",
         "https://news.web.nhk/newsweb/na/nd-20260816de44365",
         "https://news.web.nhk/newsweb/na/nd-20260816de44362",
         "https://news.web.nhk/newsweb/na/nd-20260822de45634",
@@ -401,11 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260819de45130",
         "https://news.web.nhk/newsweb/na/nd-20260819de45145",
         "https://news.web.nhk/newsweb/na/nd-20260819de45160",
-        "https://news.web.nhk/newsweb/na/nd-20260819de45142",
-        "https://news.web.nhk/newsweb/na/nd-20260819de45140",
-        "https://news.web.nhk/newsweb/na/nd-20260819de45152"
+        "https://news.web.nhk/newsweb/na/nd-20260819de45142"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/amazon-basic-wireless-charger/",
         "https://www.gizmodo.jp/article/razer-is-back-with-another-insufferably-cute-gaming-headset/",
         "https://www.gizmodo.jp/article/solar_panels_in_fukushima/",
         "https://www.gizmodo.jp/article/samsung-odyssey-g80hs-monitor-review-6k-isnt-the-future-of-gaming/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/future-apple-watches-might-ditch-the-screen/",
         "https://www.gizmodo.jp/article/casios-tiny-ring-watch-is-now-a-full-blown-oura-alternative/",
         "https://www.gizmodo.jp/article/gunze-nerut/",
-        "https://www.gizmodo.jp/article/the-five-biggest-myths-about-saving-energy-in-the-summer/",
-        "https://www.gizmodo.jp/article/amazon-ugreen-car-charger/"
+        "https://www.gizmodo.jp/article/the-five-biggest-myths-about-saving-energy-in-the-summer/"
     ]
 }
