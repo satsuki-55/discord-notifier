@@ -2,6 +2,8 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "1kfkLfTrJ8w",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "52lTbfINXC0",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c75gv9xnr3po#0",
+        "https://www.bbc.co.uk/news/articles/cx272ly3g00o#0",
         "https://www.bbc.co.uk/news/articles/c07r3183gn3o#1",
         "https://www.bbc.co.uk/weather/articles/cevm32j9pp3o#0",
         "https://www.bbc.co.uk/news/articles/cg5l3z7p922o#1",
@@ -199,9 +201,7 @@
         "https://www.bbc.co.uk/news/articles/c98vzmden5yo#0",
         "https://www.bbc.co.uk/news/articles/c4g355k8lg4o#0",
         "https://www.bbc.co.uk/news/articles/cn8nd1n54zxo#0",
-        "https://www.bbc.co.uk/news/articles/c78gp7l5348o#1",
-        "https://www.bbc.co.uk/news/articles/c0rdl0y8d4wo#0",
-        "https://www.bbc.co.uk/news/articles/c75gv9xnr3po#0"
+        "https://www.bbc.co.uk/news/articles/c78gp7l5348o#1"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20260822de45669",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260820de45176"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/prj-b001ex-1jr/",
         "https://www.gizmodo.jp/article/nanga_compact_umbrella_review/",
         "https://www.gizmodo.jp/article/the-weirdest-theory-yet-for-why-life-on-earth-suddenly-exploded/",
         "https://www.gizmodo.jp/article/21972617-704b-4ee4-a665-9e737a98d888/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/memory-transplant-ukm/",
         "https://www.gizmodo.jp/article/et-coldbrewpro/",
         "https://www.gizmodo.jp/article/ekal-trousers/",
-        "https://www.gizmodo.jp/article/nike_zegama-hike/",
-        "https://www.gizmodo.jp/article/bezelless-iphone-development-or-not/"
+        "https://www.gizmodo.jp/article/nike_zegama-hike/"
     ]
 }
