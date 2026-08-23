@@ -2,6 +2,8 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "6nvKjjdxQck",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "HHwW0KqxWNg",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c1l1r1zne1ro#0",
+        "https://www.bbc.co.uk/news/articles/clyqypkrzq5o#0",
         "https://www.bbc.co.uk/news/articles/cvgjgyg1rngo#0",
         "https://www.bbc.co.uk/news/articles/c4gvgy3de37o#0",
         "https://www.bbc.co.uk/news/articles/cp8x8xglp27o#0",
@@ -199,9 +201,7 @@
         "https://www.bbc.co.uk/news/articles/cd7l1g8922jo#0",
         "https://www.bbc.co.uk/news/articles/clyx410xxyko#0",
         "https://www.bbc.co.uk/news/articles/cly8k232mn7o#1",
-        "https://www.bbc.co.uk/news/articles/c79g28zxwzdo#0",
-        "https://www.bbc.co.uk/news/articles/c935rk91vg5o#0",
-        "https://www.bbc.co.uk/news/articles/c1l1r1zne1ro#0"
+        "https://www.bbc.co.uk/news/articles/c79g28zxwzdo#0"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20260821de45440",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260821de45451"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/iphone12-6years-review/",
         "https://www.gizmodo.jp/article/you-cant-get-food-out-of-a-data-center-family-rejects-26-million-offer-to-sell-their-farm-to-a-data-center/",
         "https://www.gizmodo.jp/article/photochromic_lenses_sunglasses/",
         "https://www.gizmodo.jp/article/i-love-this-red-analogue-pocket-but-hate-the-supreme-logo/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/pixel11-pro-videotools/",
         "https://www.gizmodo.jp/article/pixel11-checkpoints/",
         "https://www.gizmodo.jp/article/outdoorunitcover/",
-        "https://www.gizmodo.jp/article/google-pixel-11-pro-display-glass-upgrades/",
-        "https://www.gizmodo.jp/article/ugreen-finetrack-mini-duo2/"
+        "https://www.gizmodo.jp/article/google-pixel-11-pro-display-glass-upgrades/"
     ]
 }
