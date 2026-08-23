@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/c4gj1vje8dxo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260823de45896",
+        "https://news.web.nhk/newsweb/na/nd-20260823de45906",
         "https://news.web.nhk/newsweb/na/nd-20260823de45895",
         "https://news.web.nhk/newsweb/na/nd-20260824de45925",
         "https://news.web.nhk/newsweb/na/nd-20260823de45915",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260821de45426",
         "https://news.web.nhk/newsweb/na/nd-20260821de45425",
         "https://news.web.nhk/newsweb/na/nd-20260820de45417",
-        "https://news.web.nhk/newsweb/na/nd-20260821de45435",
-        "https://news.web.nhk/newsweb/na/nd-20260821de45430",
-        "https://news.web.nhk/newsweb/na/nd-20260821de45432"
+        "https://news.web.nhk/newsweb/na/nd-20260821de45435"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/photochromic_lenses_sunglasses/",
