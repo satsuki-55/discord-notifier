@@ -2,6 +2,11 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "6nvKjjdxQck",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "HHwW0KqxWNg",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c8xnxy89gv7o#0",
+        "https://www.bbc.co.uk/news/articles/c05q318501yo#0",
+        "https://www.bbc.co.uk/news/articles/cy8m0gxexl4o#1",
+        "https://www.bbc.co.uk/news/articles/cpq3w3v19veo#1",
+        "https://www.bbc.co.uk/news/articles/cwyjqg578e1o#1",
         "https://www.bbc.co.uk/news/articles/cz647wlvg1do#0",
         "https://www.bbc.co.uk/news/articles/c9v4w77d9m8o#0",
         "https://www.bbc.co.uk/news/articles/c1l1r1zne1ro#0",
@@ -196,14 +201,11 @@
         "https://www.bbc.co.uk/news/articles/cpq8rjy7vxlo#1",
         "https://www.bbc.co.uk/news/articles/cwyl0jkxxryo#1",
         "https://www.bbc.co.uk/news/articles/cdew81wd2y8o#0",
-        "https://www.bbc.co.uk/news/articles/ckg3j15v2npo#0",
-        "https://www.bbc.co.uk/news/articles/cn8n077vxd7o#1",
-        "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo#0",
-        "https://www.bbc.co.uk/news/articles/ckgdpdk84d0o#0",
-        "https://www.bbc.co.uk/news/articles/cd7l1g8922jo#0",
-        "https://www.bbc.co.uk/news/articles/clyx410xxyko#0"
+        "https://www.bbc.co.uk/news/articles/ckg3j15v2npo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260823de45904",
+        "https://news.web.nhk/newsweb/na/nd-20260824de45932",
         "https://news.web.nhk/newsweb/na/nd-20260821de45440",
         "https://news.web.nhk/newsweb/na/nd-20260824de45931",
         "https://news.web.nhk/newsweb/na/nd-20260824de45929",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260821de45465",
         "https://news.web.nhk/newsweb/na/nd-20260821de45466",
         "https://news.web.nhk/newsweb/na/nd-20260821de45462",
-        "https://news.web.nhk/newsweb/na/nd-20260821de45459",
-        "https://news.web.nhk/newsweb/na/nd-20260821de45437",
-        "https://news.web.nhk/newsweb/na/nd-20260821de45451"
+        "https://news.web.nhk/newsweb/na/nd-20260821de45459"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/iphone12-6years-review/",
