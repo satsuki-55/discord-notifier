@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cn8n077vxd7o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260823de45847",
         "https://news.web.nhk/newsweb/na/nd-20260823de45733",
         "https://news.web.nhk/newsweb/na/nd-20260823de45833",
         "https://news.web.nhk/newsweb/na/nd-20260823de45821",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260820de45419",
         "https://news.web.nhk/newsweb/na/nd-20260820de45408",
         "https://news.web.nhk/newsweb/na/nd-20260820de45409",
-        "https://news.web.nhk/newsweb/na/nd-20260820de45387",
-        "https://news.web.nhk/newsweb/na/nd-20260820de45375"
+        "https://news.web.nhk/newsweb/na/nd-20260820de45387"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/the-governments-earthquake-warning-system-has-a-30-accuracy-rate-scientists-found-something-better/",
