@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cjd47klln75o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260823de45833",
         "https://news.web.nhk/newsweb/na/nd-20260823de45821",
         "https://news.web.nhk/newsweb/na/nd-20260823de45819",
         "https://news.web.nhk/newsweb/na/nd-20260823de45734",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260820de45409",
         "https://news.web.nhk/newsweb/na/nd-20260820de45387",
         "https://news.web.nhk/newsweb/na/nd-20260820de45375",
-        "https://news.web.nhk/newsweb/na/nd-20260820de45377",
-        "https://news.web.nhk/newsweb/na/nd-20260820de45371"
+        "https://news.web.nhk/newsweb/na/nd-20260820de45377"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/apple-is-sending-out-a-huge-wave-of-spyware-warnings/",
