@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c80n8d4xz1eo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260824de46042",
         "https://news.web.nhk/newsweb/na/nd-20260824de46056",
         "https://news.web.nhk/newsweb/na/nd-20260824de46069",
         "https://news.web.nhk/newsweb/na/nd-20260824de46060",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260821de45512",
         "https://news.web.nhk/newsweb/na/nd-20260821de45594",
         "https://news.web.nhk/newsweb/na/nd-20260821de45596",
-        "https://news.web.nhk/newsweb/na/nd-20260821de45579",
-        "https://news.web.nhk/newsweb/na/nd-20260821de45590"
+        "https://news.web.nhk/newsweb/na/nd-20260821de45579"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/popular-bars-and-restaurants-are-banning-smart-glasses/",
         "https://www.gizmodo.jp/article/amazon-hiezou-kun-re2/",
         "https://www.gizmodo.jp/article/steve-jobs-8th-grade-science-fair-project-jpn/",
         "https://www.gizmodo.jp/article/huawei_pura_x_view_1st/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/random-number-quantum-entanglement-cwk/",
         "https://www.gizmodo.jp/article/ai_resolved_gadget_trouble_quickly/",
         "https://www.gizmodo.jp/article/xgimi_memomind-one_translation_review/",
-        "https://www.gizmodo.jp/article/augmental-mouthpad-keyboard-mouse/",
-        "https://www.gizmodo.jp/article/skeleton_attractive_gadgets/"
+        "https://www.gizmodo.jp/article/augmental-mouthpad-keyboard-mouse/"
     ]
 }
