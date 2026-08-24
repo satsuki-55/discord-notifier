@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/czdm6m939edo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260824de45942",
         "https://news.web.nhk/newsweb/na/nd-20260824de45957",
         "https://news.web.nhk/newsweb/na/nd-20260824de45950",
         "https://news.web.nhk/newsweb/na/nd-20260824de45968",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260821de45513",
         "https://news.web.nhk/newsweb/na/nd-20260821de45510",
         "https://news.web.nhk/newsweb/na/nd-20260817de44546",
-        "https://news.web.nhk/newsweb/na/nd-20260821de45496",
-        "https://news.web.nhk/newsweb/na/nd-20260821de45501"
+        "https://news.web.nhk/newsweb/na/nd-20260821de45496"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/apple-reportedly-testing-controversial-chinese-chips-as-memory-supply-crunch-intensifies/",
