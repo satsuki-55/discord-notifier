@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260821de45594"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/asus-oxiis-e250g1/",
         "https://www.gizmodo.jp/article/popular-bars-and-restaurants-are-banning-smart-glasses/",
         "https://www.gizmodo.jp/article/amazon-hiezou-kun-re2/",
         "https://www.gizmodo.jp/article/steve-jobs-8th-grade-science-fair-project-jpn/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/ukulele-guitar-transform/",
         "https://www.gizmodo.jp/article/random-number-quantum-entanglement-cwk/",
         "https://www.gizmodo.jp/article/ai_resolved_gadget_trouble_quickly/",
-        "https://www.gizmodo.jp/article/xgimi_memomind-one_translation_review/",
-        "https://www.gizmodo.jp/article/augmental-mouthpad-keyboard-mouse/"
+        "https://www.gizmodo.jp/article/xgimi_memomind-one_translation_review/"
     ]
 }
