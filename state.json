@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "6nvKjjdxQck",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "HHwW0KqxWNg",
     "rss:bbc": [
+        "https://www.bbc.co.uk/sport/football/articles/cqxvj8j7gy8o#0",
         "https://www.bbc.co.uk/news/articles/cn7n0yvpm7vo#0",
         "https://www.bbc.co.uk/sport/football/articles/cqxvj8j7gy8o#1",
         "https://www.bbc.co.uk/news/articles/cy9ze48l2yeo#0",
@@ -200,8 +201,7 @@
         "https://www.bbc.co.uk/news/articles/cj9dmw8183wo#0",
         "https://www.bbc.co.uk/news/articles/c4gdn2vmgvwo#0",
         "https://www.bbc.co.uk/news/articles/cy8e6g13497o#1",
-        "https://www.bbc.co.uk/news/articles/cx2m8x44gdpo#1",
-        "https://www.bbc.co.uk/news/articles/cx2r9gxp3xgo#0"
+        "https://www.bbc.co.uk/news/articles/cx2m8x44gdpo#1"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20260821de45564",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260821de45576"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/ruka-td-1/",
         "https://www.gizmodo.jp/article/handfan/",
         "https://www.gizmodo.jp/article/nvidia_ai_trade/",
         "https://www.gizmodo.jp/article/pico-space-pro/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/dubai_raining_street/",
         "https://www.gizmodo.jp/article/pope-leo-signed-popplio-card-pokemon-8vo/",
         "https://www.gizmodo.jp/article/a-fighter-jet-that-takes-off-without-a-runway-is-one-step-closer-to-vertical-takeoff/",
-        "https://www.gizmodo.jp/article/b23691c5-24e1-4eeb-aa69-c105615c5b84/",
-        "https://www.gizmodo.jp/article/kaitanics-honda-super-cub-110/"
+        "https://www.gizmodo.jp/article/b23691c5-24e1-4eeb-aa69-c105615c5b84/"
     ]
 }
