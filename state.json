@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c629y0kx8gyo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260825de46098",
         "https://news.web.nhk/newsweb/na/nd-20260825de46093",
         "https://news.web.nhk/newsweb/na/nd-20260821de45512",
         "https://news.web.nhk/newsweb/na/nd-20260824de46085",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260821de45608",
         "https://news.web.nhk/newsweb/na/nd-20260822de45613",
         "https://news.web.nhk/newsweb/na/nd-20260821de45600",
-        "https://news.web.nhk/newsweb/na/nd-20260819de45037",
-        "https://news.web.nhk/newsweb/na/nd-20260822de45618"
+        "https://news.web.nhk/newsweb/na/nd-20260819de45037"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/crime-prevention_tv_simulator_-atj/",
