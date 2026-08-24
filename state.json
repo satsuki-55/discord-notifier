@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "6nvKjjdxQck",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "HHwW0KqxWNg",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cwyz37zzp22o#1",
         "https://www.bbc.co.uk/news/articles/cew9lxpjjq2o#1",
         "https://www.bbc.co.uk/news/articles/c783lnz12vlo#0",
         "https://www.bbc.co.uk/news/articles/cnvly73jrrdo#0",
@@ -200,8 +201,7 @@
         "https://www.bbc.co.uk/news/articles/cvg92y1wzn8o#0",
         "https://www.bbc.co.uk/news/articles/c0rdl0y8d4wo#0",
         "https://www.bbc.co.uk/news/articles/c75gv9xnr3po#0",
-        "https://www.bbc.co.uk/news/articles/cx272ly3g00o#0",
-        "https://www.bbc.co.uk/news/articles/c07r3183gn3o#1"
+        "https://www.bbc.co.uk/news/articles/cx272ly3g00o#0"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20260825de46103",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260822de45623"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/magnet-releaser-carabiner/",
         "https://www.gizmodo.jp/article/crime-prevention_tv_simulator_-atj/",
         "https://www.gizmodo.jp/article/oura-lawsuit-highlights-wearables-health-jpn/",
         "https://www.gizmodo.jp/article/asus-oxiis-e250g1/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/999999_land_cruiser/",
         "https://www.gizmodo.jp/article/environmental-orgs-say-space-based-data-centers-could-violate-federal-law/",
         "https://www.gizmodo.jp/article/gadjet-pouch-with-orca-echo/",
-        "https://www.gizmodo.jp/article/ukulele-guitar-transform/",
-        "https://www.gizmodo.jp/article/random-number-quantum-entanglement-cwk/"
+        "https://www.gizmodo.jp/article/ukulele-guitar-transform/"
     ]
 }
