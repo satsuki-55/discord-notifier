@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/czdm6m939edo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260824de45962",
         "https://news.web.nhk/newsweb/na/nd-20260824de45942",
         "https://news.web.nhk/newsweb/na/nd-20260824de45957",
         "https://news.web.nhk/newsweb/na/nd-20260824de45950",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260821de45517",
         "https://news.web.nhk/newsweb/na/nd-20260821de45513",
         "https://news.web.nhk/newsweb/na/nd-20260821de45510",
-        "https://news.web.nhk/newsweb/na/nd-20260817de44546",
-        "https://news.web.nhk/newsweb/na/nd-20260821de45496"
+        "https://news.web.nhk/newsweb/na/nd-20260817de44546"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/cases-for-the-iphone-18-pro-might-be-compatible-with-the-iphone-17-pro/",
         "https://www.gizmodo.jp/article/apple-reportedly-testing-controversial-chinese-chips-as-memory-supply-crunch-intensifies/",
         "https://www.gizmodo.jp/article/fred_olsen_1848_brizo_floating_solar_tech/",
         "https://www.gizmodo.jp/article/sennheisers-new-wireless-earbuds-actually-have-replaceable-batteries/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/watergun-2025-summer-sqz/",
         "https://www.gizmodo.jp/article/a-hybrid-motion-sensor-light-and-flash-light/",
         "https://www.gizmodo.jp/article/nothing-smartwatch/",
-        "https://www.gizmodo.jp/article/relay-2-1/",
-        "https://www.gizmodo.jp/article/ligar-review-2/"
+        "https://www.gizmodo.jp/article/relay-2-1/"
     ]
 }
