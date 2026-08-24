@@ -2,6 +2,8 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "6nvKjjdxQck",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "HHwW0KqxWNg",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c8r6xy3ryndo#0",
+        "https://www.bbc.co.uk/news/articles/cd9w9l9v8w8o#1",
         "https://www.bbc.co.uk/news/articles/cwyr0l45xjro#0",
         "https://www.bbc.co.uk/news/articles/c6243glyqv7o#0",
         "https://www.bbc.co.uk/news/articles/cz6zx0njdywo#0",
@@ -199,11 +201,10 @@
         "https://www.bbc.co.uk/news/articles/ce8l7w0n0jeo#1",
         "https://www.bbc.co.uk/news/articles/cvgvyy4x2mvo#0",
         "https://www.bbc.co.uk/news/articles/c79gpv7v190o#0",
-        "https://www.bbc.co.uk/news/articles/cwym4m4j848o#0",
-        "https://www.bbc.co.uk/news/articles/c07r3183gn3o#0",
-        "https://www.bbc.co.uk/news/articles/cg5l3z7p922o#0"
+        "https://www.bbc.co.uk/news/articles/cwym4m4j848o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260824de46083",
         "https://news.web.nhk/newsweb/na/nd-20260825de46098",
         "https://news.web.nhk/newsweb/na/nd-20260825de46093",
         "https://news.web.nhk/newsweb/na/nd-20260821de45512",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260821de45606",
         "https://news.web.nhk/newsweb/na/nd-20260821de45608",
         "https://news.web.nhk/newsweb/na/nd-20260822de45613",
-        "https://news.web.nhk/newsweb/na/nd-20260821de45600",
-        "https://news.web.nhk/newsweb/na/nd-20260819de45037"
+        "https://news.web.nhk/newsweb/na/nd-20260821de45600"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/crime-prevention_tv_simulator_-atj/",
