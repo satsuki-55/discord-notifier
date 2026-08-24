@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260821de45512"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/crime-prevention_tv_simulator_-atj/",
         "https://www.gizmodo.jp/article/oura-lawsuit-highlights-wearables-health-jpn/",
         "https://www.gizmodo.jp/article/asus-oxiis-e250g1/",
         "https://www.gizmodo.jp/article/popular-bars-and-restaurants-are-banning-smart-glasses/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/environmental-orgs-say-space-based-data-centers-could-violate-federal-law/",
         "https://www.gizmodo.jp/article/gadjet-pouch-with-orca-echo/",
         "https://www.gizmodo.jp/article/ukulele-guitar-transform/",
-        "https://www.gizmodo.jp/article/random-number-quantum-entanglement-cwk/",
-        "https://www.gizmodo.jp/article/ai_resolved_gadget_trouble_quickly/"
+        "https://www.gizmodo.jp/article/random-number-quantum-entanglement-cwk/"
     ]
 }
