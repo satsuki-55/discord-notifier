@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/cpq8rjy7vxlo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260824de45945",
+        "https://news.web.nhk/newsweb/na/nd-20260824de45946",
         "https://news.web.nhk/newsweb/na/nd-20260824de45934",
         "https://news.web.nhk/newsweb/na/nd-20260823de45904",
         "https://news.web.nhk/newsweb/na/nd-20260824de45932",
@@ -401,11 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260821de45470",
         "https://news.web.nhk/newsweb/na/nd-20260821de45468",
         "https://news.web.nhk/newsweb/na/nd-20260821de45473",
-        "https://news.web.nhk/newsweb/na/nd-20260821de45465",
-        "https://news.web.nhk/newsweb/na/nd-20260821de45466",
-        "https://news.web.nhk/newsweb/na/nd-20260821de45462"
+        "https://news.web.nhk/newsweb/na/nd-20260821de45465"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/sennheisers-new-wireless-earbuds-actually-have-replaceable-batteries/",
         "https://www.gizmodo.jp/article/gaming-consoles-are-getting-wrecked-by-high-prices/",
         "https://www.gizmodo.jp/article/these-70-smart-glasses-win-the-gold-medal-for-most-dubious-battery-life-claim/",
         "https://www.gizmodo.jp/article/iphone12-6years-review/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/relay-2-1/",
         "https://www.gizmodo.jp/article/ligar-review-2/",
         "https://www.gizmodo.jp/article/pixel11-magic-capture/",
-        "https://www.gizmodo.jp/article/pixel11-pro-videotools/",
-        "https://www.gizmodo.jp/article/pixel11-checkpoints/"
+        "https://www.gizmodo.jp/article/pixel11-pro-videotools/"
     ]
 }
