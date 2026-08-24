@@ -2,6 +2,10 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "6nvKjjdxQck",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "HHwW0KqxWNg",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c36lnekj659o#0",
+        "https://www.bbc.co.uk/news/articles/cy9ze48l2yeo#1",
+        "https://www.bbc.co.uk/news/articles/c4g3g36z7p6o#1",
+        "https://www.bbc.co.uk/news/articles/cdeweewjdxno#1",
         "https://www.bbc.co.uk/news/articles/c7vgvvyr78eo#0",
         "https://www.bbc.co.uk/news/articles/c1714xg2vr9o#0",
         "https://www.bbc.co.uk/sport/football/articles/cqxvj8j7gy8o#0",
@@ -197,13 +201,10 @@
         "https://www.bbc.co.uk/news/articles/c2lq5pd0vy4o#0",
         "https://www.bbc.co.uk/news/articles/cd9w1jwdkkjo#0",
         "https://www.bbc.co.uk/news/articles/cqx75zllqlzo#0",
-        "https://www.bbc.co.uk/news/articles/cy5dxpgp1ego#0",
-        "https://www.bbc.co.uk/news/articles/cj63jyg6zg9o#1",
-        "https://www.bbc.co.uk/news/articles/cd9w1jwdkkjo#1",
-        "https://www.bbc.co.uk/news/articles/cj9dmw8183wo#0",
-        "https://www.bbc.co.uk/news/articles/c4gdn2vmgvwo#0"
+        "https://www.bbc.co.uk/news/articles/cy5dxpgp1ego#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260824de45947",
         "https://news.web.nhk/newsweb/na/nd-20260824de46012",
         "https://news.web.nhk/newsweb/na/nd-20260824de46006",
         "https://news.web.nhk/newsweb/na/nd-20260824de46000",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260821de45559",
         "https://news.web.nhk/newsweb/na/nd-20260821de45568",
         "https://news.web.nhk/newsweb/na/nd-20260821de45542",
-        "https://news.web.nhk/newsweb/na/nd-20260821de45527",
-        "https://news.web.nhk/newsweb/na/nd-20260821de45562"
+        "https://news.web.nhk/newsweb/na/nd-20260821de45527"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/ecowin_water_eco_factory/",
