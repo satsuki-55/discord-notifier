@@ -2,6 +2,11 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "6nvKjjdxQck",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "HHwW0KqxWNg",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c0rdl0y8d4wo#0",
+        "https://www.bbc.co.uk/news/articles/c75gv9xnr3po#0",
+        "https://www.bbc.co.uk/news/articles/cn74lxrv110o#0",
+        "https://www.bbc.co.uk/news/articles/c4g36yze692o#0",
+        "https://www.bbc.co.uk/news/articles/c8r6xy3ryndo#1",
         "https://www.bbc.co.uk/news/articles/cq63rmj1zl1o#0",
         "https://www.bbc.co.uk/news/articles/cwyz37zzp22o#1",
         "https://www.bbc.co.uk/news/articles/cew9lxpjjq2o#1",
@@ -196,14 +201,10 @@
         "https://www.bbc.co.uk/news/articles/c70gy180e8lo#1",
         "https://www.bbc.co.uk/news/articles/c93403wg288o#0",
         "https://www.bbc.co.uk/news/articles/cvgl2pe09eno#1",
-        "https://www.bbc.co.uk/news/articles/cvg92y1wzn8o#1",
-        "https://www.bbc.co.uk/news/articles/c4g355k8lg4o#0",
-        "https://www.bbc.co.uk/news/articles/cn8nd1n54zxo#0",
-        "https://www.bbc.co.uk/news/articles/cvg92y1wzn8o#0",
-        "https://www.bbc.co.uk/news/articles/c0rdl0y8d4wo#0",
-        "https://www.bbc.co.uk/news/articles/c75gv9xnr3po#0"
+        "https://www.bbc.co.uk/news/articles/cvg92y1wzn8o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260825de46105",
         "https://news.web.nhk/newsweb/na/nd-20260824de46071",
         "https://news.web.nhk/newsweb/na/nd-20260824de46081",
         "https://news.web.nhk/newsweb/na/nd-20260825de46102",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260816de44362",
         "https://news.web.nhk/newsweb/na/nd-20260822de45634",
         "https://news.web.nhk/newsweb/na/nd-20260819de45099",
-        "https://news.web.nhk/newsweb/na/nd-20260820de45392",
-        "https://news.web.nhk/newsweb/na/nd-20260816de44364"
+        "https://news.web.nhk/newsweb/na/nd-20260820de45392"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/3coins-suitcase-iphone/",
