@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "6nvKjjdxQck",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "HHwW0KqxWNg",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cq63rmj1zl1o#0",
         "https://www.bbc.co.uk/news/articles/cwyz37zzp22o#1",
         "https://www.bbc.co.uk/news/articles/cew9lxpjjq2o#1",
         "https://www.bbc.co.uk/news/articles/c783lnz12vlo#0",
@@ -200,10 +201,10 @@
         "https://www.bbc.co.uk/news/articles/cn8nd1n54zxo#0",
         "https://www.bbc.co.uk/news/articles/cvg92y1wzn8o#0",
         "https://www.bbc.co.uk/news/articles/c0rdl0y8d4wo#0",
-        "https://www.bbc.co.uk/news/articles/c75gv9xnr3po#0",
-        "https://www.bbc.co.uk/news/articles/cx272ly3g00o#0"
+        "https://www.bbc.co.uk/news/articles/c75gv9xnr3po#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260825de46102",
         "https://news.web.nhk/newsweb/na/nd-20260825de46103",
         "https://news.web.nhk/newsweb/na/nd-20260825de46100",
         "https://news.web.nhk/newsweb/na/nd-20260824de46074",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260820de45392",
         "https://news.web.nhk/newsweb/na/nd-20260816de44364",
         "https://news.web.nhk/newsweb/na/nd-20260822de45628",
-        "https://news.web.nhk/newsweb/na/nd-20260817de44549",
-        "https://news.web.nhk/newsweb/na/nd-20260822de45623"
+        "https://news.web.nhk/newsweb/na/nd-20260817de44549"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/magnet-releaser-carabiner/",
