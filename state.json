@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/czdm6m939edo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260824de45948",
         "https://news.web.nhk/newsweb/na/nd-20260824de45962",
         "https://news.web.nhk/newsweb/na/nd-20260824de45942",
         "https://news.web.nhk/newsweb/na/nd-20260824de45957",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260821de45520",
         "https://news.web.nhk/newsweb/na/nd-20260821de45517",
         "https://news.web.nhk/newsweb/na/nd-20260821de45513",
-        "https://news.web.nhk/newsweb/na/nd-20260821de45510",
-        "https://news.web.nhk/newsweb/na/nd-20260817de44546"
+        "https://news.web.nhk/newsweb/na/nd-20260821de45510"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/cases-for-the-iphone-18-pro-might-be-compatible-with-the-iphone-17-pro/",
