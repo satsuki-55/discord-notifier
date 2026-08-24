@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "6nvKjjdxQck",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "HHwW0KqxWNg",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c235dmndylzo#0",
         "https://www.bbc.co.uk/news/articles/c1kx3m2z332o#0",
         "https://www.bbc.co.uk/weather/articles/cd0x17r4j0yo#0",
         "https://www.bbc.co.uk/news/articles/cy0j0zz8l83o#0",
@@ -200,10 +201,10 @@
         "https://www.bbc.co.uk/news/articles/c0rd1pkdky8o#1",
         "https://www.bbc.co.uk/sport/football/articles/c98v7p1pr3eo#0",
         "https://www.bbc.co.uk/news/videos/cy07x9ne871o#0",
-        "https://www.bbc.co.uk/sport/tennis/articles/cvgw2qg3e70o#0",
-        "https://www.bbc.co.uk/news/videos/cn4nk1915vxo#0"
+        "https://www.bbc.co.uk/sport/tennis/articles/cvgw2qg3e70o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260824de46043",
         "https://news.web.nhk/newsweb/na/nd-20260824de46051",
         "https://news.web.nhk/newsweb/na/nd-20260824de46046",
         "https://news.web.nhk/newsweb/na/nd-20260824de46068",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260821de45593",
         "https://news.web.nhk/newsweb/na/nd-20260821de45591",
         "https://news.web.nhk/newsweb/na/nd-20260815de44293",
-        "https://news.web.nhk/newsweb/na/nd-20260821de45566",
-        "https://news.web.nhk/newsweb/na/nd-20260821de45578"
+        "https://news.web.nhk/newsweb/na/nd-20260821de45566"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/huawei_pura_x_view_1st/",
