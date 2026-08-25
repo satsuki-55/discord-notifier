@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/cn4n4737n32o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260825de46138",
+        "https://news.web.nhk/newsweb/na/nd-20260825de46204",
         "https://news.web.nhk/newsweb/na/nd-20260825de46212",
         "https://news.web.nhk/newsweb/na/nd-20260825de46215",
         "https://news.web.nhk/newsweb/na/nd-20260825de46194",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260816de44432",
         "https://news.web.nhk/newsweb/na/nd-20260822de45694",
         "https://news.web.nhk/newsweb/na/nd-20260822de45681",
-        "https://news.web.nhk/newsweb/na/nd-20260822de45682",
-        "https://news.web.nhk/newsweb/na/nd-20260822de45690",
-        "https://news.web.nhk/newsweb/na/nd-20260822de45684"
+        "https://news.web.nhk/newsweb/na/nd-20260822de45682"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/pvc_pipe_recycle/",
