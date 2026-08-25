@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cp872m0grgyo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260825de46290",
         "https://news.web.nhk/newsweb/na/nd-20260825de46288",
         "https://news.web.nhk/newsweb/na/nd-20260825de46285",
         "https://news.web.nhk/newsweb/na/nd-20260825de46183",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260823de45745",
         "https://news.web.nhk/newsweb/na/nd-20260823de45743",
         "https://news.web.nhk/newsweb/na/nd-20260823de45741",
-        "https://news.web.nhk/newsweb/na/nd-20260823de45742",
-        "https://news.web.nhk/newsweb/na/nd-20260823de45740"
+        "https://news.web.nhk/newsweb/na/nd-20260823de45742"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/macmini_early_release/",
