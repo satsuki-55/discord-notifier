@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260823de45769"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/just-how-bad-are-ai-data-centers-for-your-local-water/",
         "https://www.gizmodo.jp/article/world-humanoid-robot-games-beijing/",
         "https://www.gizmodo.jp/article/augment_360_100km/",
         "https://www.gizmodo.jp/article/mac-studio-m5-max-ultra/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/ikea-kompishang/",
         "https://www.gizmodo.jp/article/ai-scientists/",
         "https://www.gizmodo.jp/article/movilink_car-navigation_review/",
-        "https://www.gizmodo.jp/article/interview-with-ibm-researchers-on-quantum-computing-qh2/",
-        "https://www.gizmodo.jp/article/anthropic-says-the-house-is-on-fire-china-says-ai-will-set-you-free/"
+        "https://www.gizmodo.jp/article/interview-with-ibm-researchers-on-quantum-computing-qh2/"
     ]
 }
