@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/videos/c7vgvj6e1emo#2"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260826de46328",
         "https://news.web.nhk/newsweb/na/nd-20260825de46322",
         "https://news.web.nhk/newsweb/na/nd-20260825de46320",
         "https://news.web.nhk/newsweb/na/nd-20260826de46329",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260823de45764",
         "https://news.web.nhk/newsweb/na/nd-20260823de45765",
         "https://news.web.nhk/newsweb/na/nd-20260823de45758",
-        "https://news.web.nhk/newsweb/na/nd-20260823de45760",
-        "https://news.web.nhk/newsweb/na/nd-20260823de45762"
+        "https://news.web.nhk/newsweb/na/nd-20260823de45760"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/mac-studio-m5-max-ultra/",
