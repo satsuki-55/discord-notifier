@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/ce9793g34yvo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260825de46314",
         "https://news.web.nhk/newsweb/na/nd-20260825de46289",
         "https://news.web.nhk/newsweb/na/nd-20260825de46292",
         "https://news.web.nhk/newsweb/na/nd-20260825de46290",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260823de45746",
         "https://news.web.nhk/newsweb/na/nd-20260823de45747",
         "https://news.web.nhk/newsweb/na/nd-20260823de45744",
-        "https://news.web.nhk/newsweb/na/nd-20260823de45745",
-        "https://news.web.nhk/newsweb/na/nd-20260823de45743"
+        "https://news.web.nhk/newsweb/na/nd-20260823de45745"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/eyewear_molmena/",
         "https://www.gizmodo.jp/article/amazon-drone-delivery-miss/",
         "https://www.gizmodo.jp/article/topping-dx-1-ii/",
         "https://www.gizmodo.jp/article/macmini_early_release/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/coleman_snap_n_go_cooler/",
         "https://www.gizmodo.jp/article/modification-rtx-4080/",
         "https://www.gizmodo.jp/article/seiko-motocompo-watch/",
-        "https://www.gizmodo.jp/article/iphone-ultra-rumor/",
-        "https://www.gizmodo.jp/article/euv_levolution-ryx/"
+        "https://www.gizmodo.jp/article/iphone-ultra-rumor/"
     ]
 }
