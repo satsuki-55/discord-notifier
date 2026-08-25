@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/cqlxlp4lx9yo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260826de46332",
+        "https://news.web.nhk/newsweb/na/nd-20260825de46261",
         "https://news.web.nhk/newsweb/na/nd-20260826de46330",
         "https://news.web.nhk/newsweb/na/nd-20260826de46337",
         "https://news.web.nhk/newsweb/na/nd-20260826de46328",
@@ -401,11 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260823de45772",
         "https://news.web.nhk/newsweb/na/nd-20260823de45766",
         "https://news.web.nhk/newsweb/na/nd-20260823de45769",
-        "https://news.web.nhk/newsweb/na/nd-20260823de45767",
-        "https://news.web.nhk/newsweb/na/nd-20260823de45764",
-        "https://news.web.nhk/newsweb/na/nd-20260823de45765"
+        "https://news.web.nhk/newsweb/na/nd-20260823de45767"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/world-humanoid-robot-games-beijing/",
         "https://www.gizmodo.jp/article/augment_360_100km/",
         "https://www.gizmodo.jp/article/mac-studio-m5-max-ultra/",
         "https://www.gizmodo.jp/article/mac-mini-m6/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/ai-scientists/",
         "https://www.gizmodo.jp/article/movilink_car-navigation_review/",
         "https://www.gizmodo.jp/article/interview-with-ibm-researchers-on-quantum-computing-qh2/",
-        "https://www.gizmodo.jp/article/anthropic-says-the-house-is-on-fire-china-says-ai-will-set-you-free/",
-        "https://www.gizmodo.jp/article/we-asked-chatgpt-to-be-mean-mqp/"
+        "https://www.gizmodo.jp/article/anthropic-says-the-house-is-on-fire-china-says-ai-will-set-you-free/"
     ]
 }
