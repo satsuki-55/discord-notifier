@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "4nwwaxJgqTM",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "HHwW0KqxWNg",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cevwjww8p08o#0",
         "https://www.bbc.co.uk/news/articles/cpq0j81pv08o#0",
         "https://www.bbc.co.uk/news/articles/c1mv0e9nm3mo#1",
         "https://www.bbc.co.uk/news/articles/cx2zn4p9019o#0",
@@ -200,8 +201,7 @@
         "https://www.bbc.co.uk/news/articles/c8jnjp0lwlwo#0",
         "https://www.bbc.co.uk/news/articles/cwyr0l45xjro#1",
         "https://www.bbc.co.uk/news/articles/cqlxlvz01z1o#1",
-        "https://www.bbc.co.uk/news/articles/cy8m0gxexl4o#0",
-        "https://www.bbc.co.uk/news/articles/ce9793g34yvo#0"
+        "https://www.bbc.co.uk/news/articles/cy8m0gxexl4o#0"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20260825de46317",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260823de45744"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/5050workshop-magbiner/",
         "https://www.gizmodo.jp/article/eyewear_molmena/",
         "https://www.gizmodo.jp/article/amazon-drone-delivery-miss/",
         "https://www.gizmodo.jp/article/topping-dx-1-ii/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/microsoft-edge-test-apple-id-sign-in/",
         "https://www.gizmodo.jp/article/coleman_snap_n_go_cooler/",
         "https://www.gizmodo.jp/article/modification-rtx-4080/",
-        "https://www.gizmodo.jp/article/seiko-motocompo-watch/",
-        "https://www.gizmodo.jp/article/iphone-ultra-rumor/"
+        "https://www.gizmodo.jp/article/seiko-motocompo-watch/"
     ]
 }
