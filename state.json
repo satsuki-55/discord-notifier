@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/cn4n4737n32o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260825de46206",
+        "https://news.web.nhk/newsweb/na/nd-20260825de46217",
         "https://news.web.nhk/newsweb/na/nd-20260817de44565",
         "https://news.web.nhk/newsweb/na/nd-20260825de46198",
         "https://news.web.nhk/newsweb/na/nd-20260825de46138",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260819de45080",
         "https://news.web.nhk/newsweb/na/nd-20260822de45693",
         "https://news.web.nhk/newsweb/na/nd-20260822de45675",
-        "https://news.web.nhk/newsweb/na/nd-20260822de45670",
-        "https://news.web.nhk/newsweb/na/nd-20260816de44432",
-        "https://news.web.nhk/newsweb/na/nd-20260822de45694"
+        "https://news.web.nhk/newsweb/na/nd-20260822de45670"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/ugreen-45w-gan-iqi/",
