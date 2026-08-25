@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cr59grpzqgeo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260825de46272",
         "https://news.web.nhk/newsweb/na/nd-20260825de46248",
         "https://news.web.nhk/newsweb/na/nd-20260825de46226",
         "https://news.web.nhk/newsweb/na/nd-20260825de46243",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260822de45709",
         "https://news.web.nhk/newsweb/na/nd-20260822de45677",
         "https://news.web.nhk/newsweb/na/nd-20260822de45666",
-        "https://news.web.nhk/newsweb/na/nd-20260822de45700",
-        "https://news.web.nhk/newsweb/na/nd-20260822de45665"
+        "https://news.web.nhk/newsweb/na/nd-20260822de45700"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/rare_earths_off_minamitorishima/",
         "https://www.gizmodo.jp/article/sanwasupply_w-monitor_review/",
         "https://www.gizmodo.jp/article/high_school_student_invented_filter-biw/",
         "https://www.gizmodo.jp/article/ai_volume_of_the_worlds_glaciers/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/anthropics-claude-will-start-adding-invisible-watermarks-to-ai-generated-text/",
         "https://www.gizmodo.jp/article/apple-has-reportedly-started-recording-and-ai-summarizing-conversations-at-the-genius-bar/",
         "https://www.gizmodo.jp/article/hibrake-dual2/",
-        "https://www.gizmodo.jp/article/rumor-that-iphone-18-will-gain-pro-level-specs/",
-        "https://www.gizmodo.jp/article/jbl-pulse-6/"
+        "https://www.gizmodo.jp/article/rumor-that-iphone-18-will-gain-pro-level-specs/"
     ]
 }
