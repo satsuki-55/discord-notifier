@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "tD2EMLmctvM",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "HHwW0KqxWNg",
     "rss:bbc": [
+        "https://www.bbc.co.uk/weather/articles/c770lyg4318o#0",
         "https://www.bbc.co.uk/news/articles/c4gmvyzj5dgo#0",
         "https://www.bbc.co.uk/weather/articles/c5y4n7y89w7o#0",
         "https://www.bbc.co.uk/news/articles/clyq011414eo#0",
@@ -200,8 +201,7 @@
         "https://www.bbc.co.uk/news/articles/cm2g5x7l4mko#0",
         "https://www.bbc.co.uk/news/articles/cd9w9l9v8w8o#0",
         "https://www.bbc.co.uk/news/articles/cqx7vp77g0jo#0",
-        "https://www.bbc.co.uk/news/articles/cq56x3910jwo#0",
-        "https://www.bbc.co.uk/news/articles/cr59grpzqgeo#0"
+        "https://www.bbc.co.uk/news/articles/cq56x3910jwo#0"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20260825de46129",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260823de45732"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/google-opens-the-gates-of-ai-slop-hell/",
         "https://www.gizmodo.jp/article/rare_earths_off_minamitorishima/",
         "https://www.gizmodo.jp/article/sanwasupply_w-monitor_review/",
         "https://www.gizmodo.jp/article/high_school_student_invented_filter-biw/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/euv_levolution-ryx/",
         "https://www.gizmodo.jp/article/anthropics-claude-will-start-adding-invisible-watermarks-to-ai-generated-text/",
         "https://www.gizmodo.jp/article/apple-has-reportedly-started-recording-and-ai-summarizing-conversations-at-the-genius-bar/",
-        "https://www.gizmodo.jp/article/hibrake-dual2/",
-        "https://www.gizmodo.jp/article/rumor-that-iphone-18-will-gain-pro-level-specs/"
+        "https://www.gizmodo.jp/article/hibrake-dual2/"
     ]
 }
