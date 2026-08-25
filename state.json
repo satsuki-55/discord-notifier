@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260823de45738"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/macmini_early_release/",
         "https://www.gizmodo.jp/article/google-opens-the-gates-of-ai-slop-hell/",
         "https://www.gizmodo.jp/article/rare_earths_off_minamitorishima/",
         "https://www.gizmodo.jp/article/sanwasupply_w-monitor_review/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/iphone-ultra-rumor/",
         "https://www.gizmodo.jp/article/euv_levolution-ryx/",
         "https://www.gizmodo.jp/article/anthropics-claude-will-start-adding-invisible-watermarks-to-ai-generated-text/",
-        "https://www.gizmodo.jp/article/apple-has-reportedly-started-recording-and-ai-summarizing-conversations-at-the-genius-bar/",
-        "https://www.gizmodo.jp/article/hibrake-dual2/"
+        "https://www.gizmodo.jp/article/apple-has-reportedly-started-recording-and-ai-summarizing-conversations-at-the-genius-bar/"
     ]
 }
