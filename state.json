@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "6nvKjjdxQck",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "HHwW0KqxWNg",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/clyl81jlzr2o#0",
         "https://www.bbc.co.uk/news/articles/cj06818jgzlo#0",
         "https://www.bbc.co.uk/news/articles/crerd8l3pw5o#1",
         "https://www.bbc.co.uk/news/articles/c0m3npvpgdno#0",
@@ -200,8 +201,7 @@
         "https://www.bbc.co.uk/news/articles/cm2g23ng8p4o#0",
         "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo#1",
         "https://www.bbc.co.uk/news/articles/cx272np7vgyo#0",
-        "https://www.bbc.co.uk/news/articles/c3040pn8lmmo#1",
-        "https://www.bbc.co.uk/news/articles/cqlxlvz01z1o#2"
+        "https://www.bbc.co.uk/news/articles/c3040pn8lmmo#1"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20260825de46113",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260816de44362"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/the-token-belt-tightening-is-coming-for-pdfs-xfm/",
         "https://www.gizmodo.jp/article/that-weird-other-section-in-apple-stores-is-reportedly-being-revamped-for-a-new-line-of-home-products/",
         "https://www.gizmodo.jp/article/new-nasa-study-warns-its-easier-than-expected-for-astronauts-to-contaminate-the-moon/",
         "https://www.gizmodo.jp/article/youtube-premium-price-increase/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/your-nature-photos-are-doing-more-science-than-you-think-icx/",
         "https://www.gizmodo.jp/article/signals_from_aliens_might_be_in_the_old_telescope_data/",
         "https://www.gizmodo.jp/article/9bca6662-1923-403a-9b9c-90a3b95bb2dd/",
-        "https://www.gizmodo.jp/article/skullcandy-crusher-1080-anc-review-a-huge-boost-from-bose/",
-        "https://www.gizmodo.jp/article/thanko-can-cooler-bke/"
+        "https://www.gizmodo.jp/article/skullcandy-crusher-1080-anc-review-a-huge-boost-from-bose/"
     ]
 }
