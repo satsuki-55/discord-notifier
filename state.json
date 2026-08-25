@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "6nvKjjdxQck",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "HHwW0KqxWNg",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cg598m3meeyo#0",
         "https://www.bbc.co.uk/news/articles/clyl81jlzr2o#0",
         "https://www.bbc.co.uk/news/articles/cj06818jgzlo#0",
         "https://www.bbc.co.uk/news/articles/crerd8l3pw5o#1",
@@ -200,10 +201,11 @@
         "https://www.bbc.co.uk/news/videos/c4gxgpqzdz6o#0",
         "https://www.bbc.co.uk/news/articles/cm2g23ng8p4o#0",
         "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo#1",
-        "https://www.bbc.co.uk/news/articles/cx272np7vgyo#0",
-        "https://www.bbc.co.uk/news/articles/c3040pn8lmmo#1"
+        "https://www.bbc.co.uk/news/articles/cx272np7vgyo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260825de46150",
+        "https://news.web.nhk/newsweb/na/nd-20260825de46168",
         "https://news.web.nhk/newsweb/na/nd-20260825de46144",
         "https://news.web.nhk/newsweb/na/nd-20260825de46127",
         "https://news.web.nhk/newsweb/na/nd-20260825de46148",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260822de45643",
         "https://news.web.nhk/newsweb/na/nd-20260822de45639",
         "https://news.web.nhk/newsweb/na/nd-20260822de45640",
-        "https://news.web.nhk/newsweb/na/nd-20260821de45605",
-        "https://news.web.nhk/newsweb/na/nd-20260822de45638",
-        "https://news.web.nhk/newsweb/na/nd-20260822de45641"
+        "https://news.web.nhk/newsweb/na/nd-20260821de45605"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/sony_xperia-10-eight/",
