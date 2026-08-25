@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cx272np7vgyo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260825de46118",
         "https://news.web.nhk/newsweb/na/nd-20260825de46150",
         "https://news.web.nhk/newsweb/na/nd-20260825de46168",
         "https://news.web.nhk/newsweb/na/nd-20260825de46144",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260822de45656",
         "https://news.web.nhk/newsweb/na/nd-20260822de45643",
         "https://news.web.nhk/newsweb/na/nd-20260822de45639",
-        "https://news.web.nhk/newsweb/na/nd-20260822de45640",
-        "https://news.web.nhk/newsweb/na/nd-20260821de45605"
+        "https://news.web.nhk/newsweb/na/nd-20260822de45640"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/nape-pro-how-to/",
