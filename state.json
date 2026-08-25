@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/ce9793g34yvo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260825de46317",
         "https://news.web.nhk/newsweb/na/nd-20260825de46314",
         "https://news.web.nhk/newsweb/na/nd-20260825de46289",
         "https://news.web.nhk/newsweb/na/nd-20260825de46292",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260823de45748",
         "https://news.web.nhk/newsweb/na/nd-20260823de45746",
         "https://news.web.nhk/newsweb/na/nd-20260823de45747",
-        "https://news.web.nhk/newsweb/na/nd-20260823de45744",
-        "https://news.web.nhk/newsweb/na/nd-20260823de45745"
+        "https://news.web.nhk/newsweb/na/nd-20260823de45744"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/eyewear_molmena/",
