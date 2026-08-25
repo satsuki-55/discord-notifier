@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cn4n4737n32o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260825de46226",
         "https://news.web.nhk/newsweb/na/nd-20260825de46243",
         "https://news.web.nhk/newsweb/na/nd-20260825de46223",
         "https://news.web.nhk/newsweb/na/nd-20260825de46237",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260822de45666",
         "https://news.web.nhk/newsweb/na/nd-20260822de45700",
         "https://news.web.nhk/newsweb/na/nd-20260822de45665",
-        "https://news.web.nhk/newsweb/na/nd-20260822de45697",
-        "https://news.web.nhk/newsweb/na/nd-20260819de45080"
+        "https://news.web.nhk/newsweb/na/nd-20260822de45697"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/high_school_student_invented_filter-biw/",
