@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/cwyr0l45xjro#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260825de46311",
+        "https://news.web.nhk/newsweb/na/nd-20260825de46316",
         "https://news.web.nhk/newsweb/na/nd-20260825de46317",
         "https://news.web.nhk/newsweb/na/nd-20260825de46314",
         "https://news.web.nhk/newsweb/na/nd-20260825de46289",
@@ -401,11 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260823de45750",
         "https://news.web.nhk/newsweb/na/nd-20260823de45754",
         "https://news.web.nhk/newsweb/na/nd-20260823de45748",
-        "https://news.web.nhk/newsweb/na/nd-20260823de45746",
-        "https://news.web.nhk/newsweb/na/nd-20260823de45747",
-        "https://news.web.nhk/newsweb/na/nd-20260823de45744"
+        "https://news.web.nhk/newsweb/na/nd-20260823de45746"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/adresso_shizen-flow-light-alarm-clock/",
         "https://www.gizmodo.jp/article/5050workshop-magbiner/",
         "https://www.gizmodo.jp/article/eyewear_molmena/",
         "https://www.gizmodo.jp/article/amazon-drone-delivery-miss/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/an-ai-powered-news-site-scooped-human-journalists-now-what/",
         "https://www.gizmodo.jp/article/microsoft-edge-test-apple-id-sign-in/",
         "https://www.gizmodo.jp/article/coleman_snap_n_go_cooler/",
-        "https://www.gizmodo.jp/article/modification-rtx-4080/",
-        "https://www.gizmodo.jp/article/seiko-motocompo-watch/"
+        "https://www.gizmodo.jp/article/modification-rtx-4080/"
     ]
 }
