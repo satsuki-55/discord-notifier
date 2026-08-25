@@ -1,5 +1,5 @@
 {
-    "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "6nvKjjdxQck",
+    "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "tD2EMLmctvM",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "HHwW0KqxWNg",
     "rss:bbc": [
         "https://www.bbc.co.uk/news/articles/c4gmvyzj5dgo#0",
@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cr59grpzqgeo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260825de46260",
         "https://news.web.nhk/newsweb/na/nd-20260825de46252",
         "https://news.web.nhk/newsweb/na/nd-20260825de46272",
         "https://news.web.nhk/newsweb/na/nd-20260825de46248",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260822de45713",
         "https://news.web.nhk/newsweb/na/nd-20260822de45705",
         "https://news.web.nhk/newsweb/na/nd-20260822de45709",
-        "https://news.web.nhk/newsweb/na/nd-20260822de45677",
-        "https://news.web.nhk/newsweb/na/nd-20260822de45666"
+        "https://news.web.nhk/newsweb/na/nd-20260822de45677"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/rare_earths_off_minamitorishima/",
