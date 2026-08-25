@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260823de45750"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/mac-mini-m6/",
         "https://www.gizmodo.jp/article/stan_product_zip-purse_dcf-amh/",
         "https://www.gizmodo.jp/article/adresso_shizen-flow-light-alarm-clock/",
         "https://www.gizmodo.jp/article/5050workshop-magbiner/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/anthropic-says-the-house-is-on-fire-china-says-ai-will-set-you-free/",
         "https://www.gizmodo.jp/article/we-asked-chatgpt-to-be-mean-mqp/",
         "https://www.gizmodo.jp/article/an-ai-powered-news-site-scooped-human-journalists-now-what/",
-        "https://www.gizmodo.jp/article/microsoft-edge-test-apple-id-sign-in/",
-        "https://www.gizmodo.jp/article/coleman_snap_n_go_cooler/"
+        "https://www.gizmodo.jp/article/microsoft-edge-test-apple-id-sign-in/"
     ]
 }
