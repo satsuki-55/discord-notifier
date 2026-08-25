@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260822de45652"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/d1fa2715-ed58-4449-8c93-92f6fb140dd4/",
         "https://www.gizmodo.jp/article/2608-sharkchillpill-ejk/",
         "https://www.gizmodo.jp/article/amazon-iphone-air/",
         "https://www.gizmodo.jp/article/nape-pro-how-to/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/three_local_llm_apps_with_web_search/",
         "https://www.gizmodo.jp/article/the-robot-revolution-gets-its-own-juicero/",
         "https://www.gizmodo.jp/article/flies_are_the_key_to_the_murder_case/",
-        "https://www.gizmodo.jp/article/cooking_items_summary/",
-        "https://www.gizmodo.jp/article/alien-visitation-is-impossible-yzz/"
+        "https://www.gizmodo.jp/article/cooking_items_summary/"
     ]
 }
