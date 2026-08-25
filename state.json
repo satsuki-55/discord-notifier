@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cdj0j8enpzyo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260825de46327",
         "https://news.web.nhk/newsweb/na/nd-20260825de46321",
         "https://news.web.nhk/newsweb/na/nd-20260825de46315",
         "https://news.web.nhk/newsweb/na/nd-20260825de46311",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260823de45756",
         "https://news.web.nhk/newsweb/na/nd-20260823de45759",
         "https://news.web.nhk/newsweb/na/nd-20260823de45752",
-        "https://news.web.nhk/newsweb/na/nd-20260823de45750",
-        "https://news.web.nhk/newsweb/na/nd-20260823de45754"
+        "https://news.web.nhk/newsweb/na/nd-20260823de45750"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/stan_product_zip-purse_dcf-amh/",
