@@ -1,5 +1,5 @@
 {
-    "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "tD2EMLmctvM",
+    "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "4nwwaxJgqTM",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "HHwW0KqxWNg",
     "rss:bbc": [
         "https://www.bbc.co.uk/news/articles/cqx7vp77g0jo#0",
@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/cm2g5x7l4mko#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260825de46288",
+        "https://news.web.nhk/newsweb/na/nd-20260825de46285",
         "https://news.web.nhk/newsweb/na/nd-20260825de46183",
         "https://news.web.nhk/newsweb/na/nd-20260825de46283",
         "https://news.web.nhk/newsweb/na/nd-20260825de46129",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260823de45743",
         "https://news.web.nhk/newsweb/na/nd-20260823de45741",
         "https://news.web.nhk/newsweb/na/nd-20260823de45742",
-        "https://news.web.nhk/newsweb/na/nd-20260823de45740",
-        "https://news.web.nhk/newsweb/na/nd-20260823de45739",
-        "https://news.web.nhk/newsweb/na/nd-20260823de45738"
+        "https://news.web.nhk/newsweb/na/nd-20260823de45740"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/macmini_early_release/",
