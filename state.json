@@ -2,6 +2,8 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "4nwwaxJgqTM",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "HHwW0KqxWNg",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c1e5p51n2p2o#0",
+        "https://www.bbc.co.uk/news/articles/cg7m5e3mylpo#0",
         "https://www.bbc.co.uk/weather/articles/c62krylw57xo#0",
         "https://www.bbc.co.uk/news/articles/c07ler8x9kpo#0",
         "https://www.bbc.co.uk/news/articles/cn74lxrv110o#1",
@@ -199,9 +201,7 @@
         "https://www.bbc.co.uk/news/articles/cwyqy29jn74o#0",
         "https://www.bbc.co.uk/news/articles/c04kwr9r1zlo#1",
         "https://www.bbc.co.uk/news/articles/c4g3g36z7p6o#0",
-        "https://www.bbc.co.uk/news/articles/clyly8vdpdwo#1",
-        "https://www.bbc.co.uk/news/articles/cqlxlxy6z2no#0",
-        "https://www.bbc.co.uk/sport/football/articles/ckgdgplejxzo#0"
+        "https://www.bbc.co.uk/news/articles/clyly8vdpdwo#1"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20260826de46334",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260823de45769"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2026-apple-watch/",
         "https://www.gizmodo.jp/article/2026-ipad-mini/",
         "https://www.gizmodo.jp/article/just-how-bad-are-ai-data-centers-for-your-local-water/",
         "https://www.gizmodo.jp/article/world-humanoid-robot-games-beijing/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/gemini-update/",
         "https://www.gizmodo.jp/article/elekit-so-sho/",
         "https://www.gizmodo.jp/article/ikea-kompishang/",
-        "https://www.gizmodo.jp/article/ai-scientists/",
-        "https://www.gizmodo.jp/article/movilink_car-navigation_review/"
+        "https://www.gizmodo.jp/article/ai-scientists/"
     ]
 }
