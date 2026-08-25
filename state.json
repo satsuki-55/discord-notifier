@@ -204,6 +204,9 @@
         "https://www.bbc.co.uk/news/articles/c3040pn8lmmo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260825de46127",
+        "https://news.web.nhk/newsweb/na/nd-20260825de46148",
+        "https://news.web.nhk/newsweb/na/nd-20260825de46140",
         "https://news.web.nhk/newsweb/na/nd-20260825de46113",
         "https://news.web.nhk/newsweb/na/nd-20260825de46110",
         "https://news.web.nhk/newsweb/na/nd-20260824de46077",
@@ -400,10 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260821de45605",
         "https://news.web.nhk/newsweb/na/nd-20260822de45638",
         "https://news.web.nhk/newsweb/na/nd-20260822de45641",
-        "https://news.web.nhk/newsweb/na/nd-20260822de45629",
-        "https://news.web.nhk/newsweb/na/nd-20260822de45635",
-        "https://news.web.nhk/newsweb/na/nd-20260816de44365",
-        "https://news.web.nhk/newsweb/na/nd-20260816de44362"
+        "https://news.web.nhk/newsweb/na/nd-20260822de45629"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/iphone-18-pro-pro-max-rumors-summary/",
