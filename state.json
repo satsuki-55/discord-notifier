@@ -2,6 +2,8 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "6nvKjjdxQck",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "HHwW0KqxWNg",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/clyq011414eo#0",
+        "https://www.bbc.co.uk/news/articles/c93vpd60654o#1",
         "https://www.bbc.co.uk/news/articles/c20vl4vm2pno#1",
         "https://www.bbc.co.uk/news/articles/c20vl4vm2pno#0",
         "https://www.bbc.co.uk/news/articles/c3d79z4z953o#0",
@@ -199,11 +201,10 @@
         "https://www.bbc.co.uk/news/articles/cq56x3910jwo#0",
         "https://www.bbc.co.uk/news/articles/cr59grpzqgeo#0",
         "https://www.bbc.co.uk/news/articles/cn4n4737n32o#0",
-        "https://www.bbc.co.uk/news/articles/c4g6g3547zlo#0",
-        "https://www.bbc.co.uk/news/articles/cy5dxpgp1ego#1",
-        "https://www.bbc.co.uk/news/articles/clyq011414eo#0"
+        "https://www.bbc.co.uk/news/articles/c4g6g3547zlo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260825de46160",
         "https://news.web.nhk/newsweb/na/nd-20260825de46159",
         "https://news.web.nhk/newsweb/na/nd-20260825de46146",
         "https://news.web.nhk/newsweb/na/nd-20260825de46187",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260822de45669",
         "https://news.web.nhk/newsweb/na/nd-20260822de45660",
         "https://news.web.nhk/newsweb/na/nd-20260822de45661",
-        "https://news.web.nhk/newsweb/na/nd-20260822de45652",
-        "https://news.web.nhk/newsweb/na/nd-20260822de45650"
+        "https://news.web.nhk/newsweb/na/nd-20260822de45652"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2608-sharkchillpill-ejk/",
