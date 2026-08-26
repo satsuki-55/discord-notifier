@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c20ydrndr0wo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260826de46385",
         "https://news.web.nhk/newsweb/na/nd-20260826de46381",
         "https://news.web.nhk/newsweb/na/nd-20260826de46380",
         "https://news.web.nhk/newsweb/na/nd-20260826de46362",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260822de45711",
         "https://news.web.nhk/newsweb/na/nd-20260820de45212",
         "https://news.web.nhk/newsweb/na/nd-20260821de45598",
-        "https://news.web.nhk/newsweb/na/nd-20260823de45805",
-        "https://news.web.nhk/newsweb/na/nd-20260823de45798"
+        "https://news.web.nhk/newsweb/na/nd-20260823de45805"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/weimall_cool-seat_review-uaq/",
