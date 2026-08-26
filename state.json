@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260823de45776"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/74e84bda-0433-42b1-8b76-2b58373b59a0/",
         "https://www.gizmodo.jp/article/amazons-kindle-price-hikes-are-the-most-obscene-casualty-of-the-ram-crisis/",
         "https://www.gizmodo.jp/article/apples-new-beats-wireless-headphones-could-take-a-big-anc-leap/",
         "https://www.gizmodo.jp/article/insurance-companies-cautious-about-space-data-centers/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/scientists-found-literal-ink-from-ballpoint-pens-in-martian-meteorites-wed/",
         "https://www.gizmodo.jp/article/ai-wild-monkeys/",
         "https://www.gizmodo.jp/article/galaxy-z-fold8-sizefit/",
-        "https://www.gizmodo.jp/article/satyress_threehalves_robot/",
-        "https://www.gizmodo.jp/article/gemini-update/"
+        "https://www.gizmodo.jp/article/satyress_threehalves_robot/"
     ]
 }
