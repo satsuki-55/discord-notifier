@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/cj068q7qj19o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260826de46558",
+        "https://news.web.nhk/newsweb/na/nd-20260826de46544",
         "https://news.web.nhk/newsweb/na/nd-20260826de46516",
         "https://news.web.nhk/newsweb/na/nd-20260826de46550",
         "https://news.web.nhk/newsweb/na/nd-20260826de46485",
@@ -401,11 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260824de45933",
         "https://news.web.nhk/newsweb/na/nd-20260824de45943",
         "https://news.web.nhk/newsweb/na/nd-20260824de45952",
-        "https://news.web.nhk/newsweb/na/nd-20260824de45945",
-        "https://news.web.nhk/newsweb/na/nd-20260824de45946",
-        "https://news.web.nhk/newsweb/na/nd-20260824de45934"
+        "https://news.web.nhk/newsweb/na/nd-20260824de45945"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/the-results-were-disastrous-after-a-professor-suspecting-ai-use-switched-to-in-person-final-exams-xvx/",
         "https://www.gizmodo.jp/article/data-centers-will-eat-12-of-us-electricity-by-2030-this-platinum-fuel-cell-fix-may-help/",
         "https://www.gizmodo.jp/article/new-mac-mini-cm/",
         "https://www.gizmodo.jp/article/yonex_carbon-cruise-aerus-gt/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/uniqlo_dryex-crewneck-tshirt/",
         "https://www.gizmodo.jp/article/samsung-headphone/",
         "https://www.gizmodo.jp/article/insta360-x6-review-the-king-of-360-cameras-reclaims-its-crown/",
-        "https://www.gizmodo.jp/article/anthropic-investors-thinks-its-worth-2-trillion/",
-        "https://www.gizmodo.jp/article/airpods-camera/"
+        "https://www.gizmodo.jp/article/anthropic-investors-thinks-its-worth-2-trillion/"
     ]
 }
