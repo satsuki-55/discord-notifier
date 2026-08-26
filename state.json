@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/clyqypkrzq5o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260823de45735",
         "https://news.web.nhk/newsweb/na/nd-20260826de46398",
         "https://news.web.nhk/newsweb/na/nd-20260826de46406",
         "https://news.web.nhk/newsweb/na/nd-20260826de46409",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260823de45829",
         "https://news.web.nhk/newsweb/na/nd-20260820de45389",
         "https://news.web.nhk/newsweb/na/nd-20260822de45659",
-        "https://news.web.nhk/newsweb/na/nd-20260823de45737",
-        "https://news.web.nhk/newsweb/na/nd-20260823de45804"
+        "https://news.web.nhk/newsweb/na/nd-20260823de45737"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/hyperx-cloud-alpha-air/",
