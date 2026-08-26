@@ -204,6 +204,9 @@
         "https://www.bbc.co.uk/news/articles/cg7k9rp10l0o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260827de46602",
+        "https://news.web.nhk/newsweb/na/nd-20260827de46601",
+        "https://news.web.nhk/newsweb/na/nd-20260827de46599",
         "https://news.web.nhk/newsweb/na/nd-20260827de46600",
         "https://news.web.nhk/newsweb/na/nd-20260824de46018",
         "https://news.web.nhk/newsweb/na/nd-20260827de46598",
@@ -400,10 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260824de46046",
         "https://news.web.nhk/newsweb/na/nd-20260824de46068",
         "https://news.web.nhk/newsweb/na/nd-20260824de46001",
-        "https://news.web.nhk/newsweb/na/nd-20260824de46045",
-        "https://news.web.nhk/newsweb/na/nd-20260824de46033",
-        "https://news.web.nhk/newsweb/na/nd-20260824de46036",
-        "https://news.web.nhk/newsweb/na/nd-20260821de45580"
+        "https://news.web.nhk/newsweb/na/nd-20260824de46045"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/galaxy-tab-s12/",
