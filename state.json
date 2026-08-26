@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/videos/clyqd9x07q0o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260826de46562",
+        "https://news.web.nhk/newsweb/na/nd-20260826de46564",
         "https://news.web.nhk/newsweb/na/nd-20260826de46565",
         "https://news.web.nhk/newsweb/na/nd-20260826de46566",
         "https://news.web.nhk/newsweb/na/nd-20260826de46561",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260824de45942",
         "https://news.web.nhk/newsweb/na/nd-20260824de45957",
         "https://news.web.nhk/newsweb/na/nd-20260824de45950",
-        "https://news.web.nhk/newsweb/na/nd-20260824de45968",
-        "https://news.web.nhk/newsweb/na/nd-20260824de45937",
-        "https://news.web.nhk/newsweb/na/nd-20260824de45933"
+        "https://news.web.nhk/newsweb/na/nd-20260824de45968"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/the-results-were-disastrous-after-a-professor-suspecting-ai-use-switched-to-in-person-final-exams-xvx/",
