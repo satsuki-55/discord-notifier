@@ -2,6 +2,11 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "myGpwvuVMkI",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "ApfAF7vfpD8",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c3v4knr4xn0o#0",
+        "https://www.bbc.co.uk/news/articles/cyvzynlv442o#1",
+        "https://www.bbc.co.uk/news/articles/c62eg71e1z2o#1",
+        "https://www.bbc.co.uk/news/articles/c17jlngexy9o#0",
+        "https://www.bbc.co.uk/news/articles/c20vmp1v3rdo#0",
         "https://www.bbc.co.uk/news/videos/cwyzl5x4vv8o#0",
         "https://www.bbc.co.uk/news/videos/cy7z8pz25k8o#0",
         "https://www.bbc.co.uk/news/articles/c70ljqk5kjqo#0",
@@ -196,14 +201,10 @@
         "https://www.bbc.co.uk/news/articles/cwyrvxvl1eeo#0",
         "https://www.bbc.co.uk/news/articles/cp8012ejyr6o#0",
         "https://www.bbc.co.uk/news/articles/cew9lxpjjq2o#0",
-        "https://www.bbc.co.uk/news/articles/cj36kv62g7yo#1",
-        "https://www.bbc.co.uk/news/articles/ckgvk9p2n7ko#1",
-        "https://www.bbc.co.uk/news/articles/c750n3nx76ko#0",
-        "https://www.bbc.co.uk/news/articles/c62m4gpnp78o#0",
-        "https://www.bbc.co.uk/news/articles/cp8012ejyr6o#1",
-        "https://www.bbc.co.uk/news/articles/c5y58g2dp3xo#0"
+        "https://www.bbc.co.uk/news/articles/cj36kv62g7yo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260826de46537",
         "https://news.web.nhk/newsweb/na/nd-20260826de46562",
         "https://news.web.nhk/newsweb/na/nd-20260826de46564",
         "https://news.web.nhk/newsweb/na/nd-20260826de46565",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260824de45962",
         "https://news.web.nhk/newsweb/na/nd-20260824de45942",
         "https://news.web.nhk/newsweb/na/nd-20260824de45957",
-        "https://news.web.nhk/newsweb/na/nd-20260824de45950",
-        "https://news.web.nhk/newsweb/na/nd-20260824de45968"
+        "https://news.web.nhk/newsweb/na/nd-20260824de45950"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/the-results-were-disastrous-after-a-professor-suspecting-ai-use-switched-to-in-person-final-exams-xvx/",
