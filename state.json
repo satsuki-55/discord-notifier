@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "4nwwaxJgqTM",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "HHwW0KqxWNg",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cj06818jgzlo#1",
         "https://www.bbc.co.uk/news/articles/cq5xel4v642o#0",
         "https://www.bbc.co.uk/news/articles/c5y6x777gk4o#0",
         "https://www.bbc.co.uk/news/articles/cj63jyl09jxo#0",
@@ -200,10 +201,10 @@
         "https://www.bbc.co.uk/news/articles/cvgjgyg1rngo#0",
         "https://www.bbc.co.uk/news/articles/c4gvgy3de37o#0",
         "https://www.bbc.co.uk/news/articles/cp8x8xglp27o#0",
-        "https://www.bbc.co.uk/news/articles/c20ydrndr0wo#0",
-        "https://www.bbc.co.uk/news/articles/cwyqy29jn74o#0"
+        "https://www.bbc.co.uk/news/articles/c20ydrndr0wo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260826de46353",
         "https://news.web.nhk/newsweb/na/nd-20260826de46355",
         "https://news.web.nhk/newsweb/na/nd-20260826de46354",
         "https://news.web.nhk/newsweb/na/nd-20260826de46334",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260823de45731",
         "https://news.web.nhk/newsweb/na/nd-20260823de45791",
         "https://news.web.nhk/newsweb/na/nd-20260823de45775",
-        "https://news.web.nhk/newsweb/na/nd-20260823de45776",
-        "https://news.web.nhk/newsweb/na/nd-20260823de45772"
+        "https://news.web.nhk/newsweb/na/nd-20260823de45776"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/amazons-kindle-price-hikes-are-the-most-obscene-casualty-of-the-ram-crisis/",
         "https://www.gizmodo.jp/article/apples-new-beats-wireless-headphones-could-take-a-big-anc-leap/",
         "https://www.gizmodo.jp/article/insurance-companies-cautious-about-space-data-centers/",
         "https://www.gizmodo.jp/article/2026-apple-watch/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/ai-wild-monkeys/",
         "https://www.gizmodo.jp/article/galaxy-z-fold8-sizefit/",
         "https://www.gizmodo.jp/article/satyress_threehalves_robot/",
-        "https://www.gizmodo.jp/article/gemini-update/",
-        "https://www.gizmodo.jp/article/elekit-so-sho/"
+        "https://www.gizmodo.jp/article/gemini-update/"
     ]
 }
