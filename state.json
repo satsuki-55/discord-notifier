@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/ce9793g34yvo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260826de46459",
+        "https://news.web.nhk/newsweb/na/nd-20260826de46467",
         "https://news.web.nhk/newsweb/na/nd-20260826de46472",
         "https://news.web.nhk/newsweb/na/nd-20260826de46466",
         "https://news.web.nhk/newsweb/na/nd-20260826de46360",
@@ -401,11 +403,11 @@
         "https://news.web.nhk/newsweb/na/nd-20260823de45877",
         "https://news.web.nhk/newsweb/na/nd-20260820de45408",
         "https://news.web.nhk/newsweb/na/nd-20260823de45875",
-        "https://news.web.nhk/newsweb/na/nd-20260823de45876",
-        "https://news.web.nhk/newsweb/na/nd-20260823de45871",
-        "https://news.web.nhk/newsweb/na/nd-20260823de45847"
+        "https://news.web.nhk/newsweb/na/nd-20260823de45876"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/trustnic-car-fan-vvc-lri/",
+        "https://www.gizmodo.jp/article/sam-altman-admits-its-going-to-take-a-long-time-before-ai-goes-mainstream/",
         "https://www.gizmodo.jp/article/knirps_t220rs_uv_umbrella-inq/",
         "https://www.gizmodo.jp/article/wowow-judebellingham/",
         "https://www.gizmodo.jp/article/anker-nano-powerstrip/",
@@ -603,8 +605,6 @@
         "https://www.gizmodo.jp/article/amazon-jackery-portable-battery-1000/",
         "https://www.gizmodo.jp/article/alpaka-hub-keychain-review-aiu/",
         "https://www.gizmodo.jp/article/samsung-galaxy-s27-variable-aperture/",
-        "https://www.gizmodo.jp/article/its-official-no-man-can-outrun-our-robot-overlords-jpn/",
-        "https://www.gizmodo.jp/article/chat_gpt_consultation/",
-        "https://www.gizmodo.jp/article/used_books_are_selling_like_hotcakes/"
+        "https://www.gizmodo.jp/article/its-official-no-man-can-outrun-our-robot-overlords-jpn/"
     ]
 }
