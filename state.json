@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "4nwwaxJgqTM",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "HHwW0KqxWNg",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c0kl40d3011o#0",
         "https://www.bbc.co.uk/news/articles/cpqpjv0j0eeo#0",
         "https://www.bbc.co.uk/news/articles/c9w4jx2rvgro#0",
         "https://www.bbc.co.uk/news/articles/cqxvj1zd4qjo#1",
@@ -200,10 +201,12 @@
         "https://www.bbc.co.uk/news/articles/cz647wlvg1do#0",
         "https://www.bbc.co.uk/news/articles/c9v4w77d9m8o#0",
         "https://www.bbc.co.uk/news/articles/c1l1r1zne1ro#0",
-        "https://www.bbc.co.uk/news/articles/clyqypkrzq5o#0",
-        "https://www.bbc.co.uk/news/articles/cvgjgyg1rngo#0"
+        "https://www.bbc.co.uk/news/articles/clyqypkrzq5o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260826de46398",
+        "https://news.web.nhk/newsweb/na/nd-20260826de46406",
+        "https://news.web.nhk/newsweb/na/nd-20260826de46409",
         "https://news.web.nhk/newsweb/na/nd-20260826de46402",
         "https://news.web.nhk/newsweb/na/nd-20260826de46383",
         "https://news.web.nhk/newsweb/na/nd-20260826de46378",
@@ -400,10 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260820de45389",
         "https://news.web.nhk/newsweb/na/nd-20260822de45659",
         "https://news.web.nhk/newsweb/na/nd-20260823de45737",
-        "https://news.web.nhk/newsweb/na/nd-20260823de45804",
-        "https://news.web.nhk/newsweb/na/nd-20260823de45735",
-        "https://news.web.nhk/newsweb/na/nd-20260823de45815",
-        "https://news.web.nhk/newsweb/na/nd-20260823de45806"
+        "https://news.web.nhk/newsweb/na/nd-20260823de45804"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/hyperx-cloud-alpha-air/",
