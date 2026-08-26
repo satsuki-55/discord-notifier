@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cy8m0gxexl4o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260826de46401",
         "https://news.web.nhk/newsweb/na/nd-20260826de46460",
         "https://news.web.nhk/newsweb/na/nd-20260826de46453",
         "https://news.web.nhk/newsweb/na/nd-20260826de46419",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260823de45733",
         "https://news.web.nhk/newsweb/na/nd-20260823de45833",
         "https://news.web.nhk/newsweb/na/nd-20260823de45821",
-        "https://news.web.nhk/newsweb/na/nd-20260823de45819",
-        "https://news.web.nhk/newsweb/na/nd-20260823de45734"
+        "https://news.web.nhk/newsweb/na/nd-20260823de45819"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/wowow-judebellingham/",
         "https://www.gizmodo.jp/article/anker-nano-powerstrip/",
         "https://www.gizmodo.jp/article/new-plain-old-airpods-5-without-cameras-could-arrive-next-month-jpn/",
         "https://www.gizmodo.jp/article/nokias-new-dumbphone-can-recharge-your-smartphone-jpn/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/its-official-no-man-can-outrun-our-robot-overlords-jpn/",
         "https://www.gizmodo.jp/article/chat_gpt_consultation/",
         "https://www.gizmodo.jp/article/used_books_are_selling_like_hotcakes/",
-        "https://www.gizmodo.jp/article/instagram_logo_renewal/",
-        "https://www.gizmodo.jp/article/watch_suunto-core-2/"
+        "https://www.gizmodo.jp/article/instagram_logo_renewal/"
     ]
 }
