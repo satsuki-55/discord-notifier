@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c36lnekj659o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260826de46523",
         "https://news.web.nhk/newsweb/na/nd-20260817de44567",
         "https://news.web.nhk/newsweb/na/nd-20260826de46499",
         "https://news.web.nhk/newsweb/na/nd-20260826de46496",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260823de45900",
         "https://news.web.nhk/newsweb/na/nd-20260823de45896",
         "https://news.web.nhk/newsweb/na/nd-20260823de45906",
-        "https://news.web.nhk/newsweb/na/nd-20260823de45895",
-        "https://news.web.nhk/newsweb/na/nd-20260824de45925"
+        "https://news.web.nhk/newsweb/na/nd-20260823de45895"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/comma-ai-chestnut/",
