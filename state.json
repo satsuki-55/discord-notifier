@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "4nwwaxJgqTM",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "HHwW0KqxWNg",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c9v4w77d9m8o#0",
         "https://www.bbc.co.uk/news/articles/c1l1r1zne1ro#0",
         "https://www.bbc.co.uk/news/articles/crl6r66yjklo#0",
         "https://www.bbc.co.uk/news/articles/c0rewr790jyo#0",
@@ -200,8 +201,7 @@
         "https://www.bbc.co.uk/news/articles/c05q318501yo#0",
         "https://www.bbc.co.uk/news/articles/cy8m0gxexl4o#1",
         "https://www.bbc.co.uk/news/articles/cpq3w3v19veo#1",
-        "https://www.bbc.co.uk/news/articles/cwyjqg578e1o#1",
-        "https://www.bbc.co.uk/news/articles/cz647wlvg1do#0"
+        "https://www.bbc.co.uk/news/articles/cwyjqg578e1o#1"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20260826de46419",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260820de45389"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2608-spacex-shares-crazy-overvalued-scott-galloway-elon-musk-kdi/",
         "https://www.gizmodo.jp/article/todays-ligar/",
         "https://www.gizmodo.jp/article/hyperx-cloud-alpha-air/",
         "https://www.gizmodo.jp/article/uber-eats-drone/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/watch_suunto-core-2/",
         "https://www.gizmodo.jp/article/soundcore-liberty5-sale/",
         "https://www.gizmodo.jp/article/first-production-ferrari-luce-goes-for-40-million/",
-        "https://www.gizmodo.jp/article/gemma_translator_offline_diy_translation/",
-        "https://www.gizmodo.jp/article/adget_can-badge-mag/"
+        "https://www.gizmodo.jp/article/gemma_translator_offline_diy_translation/"
     ]
 }
