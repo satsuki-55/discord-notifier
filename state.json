@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "myGpwvuVMkI",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "HHwW0KqxWNg",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c62eg71e1z2o#0",
         "https://www.bbc.co.uk/news/articles/c3rel9rgnx5o#1",
         "https://www.bbc.co.uk/news/articles/c24j39jqy2go#0",
         "https://www.bbc.co.uk/news/articles/cz9xdl4g25zo#1",
@@ -200,10 +201,10 @@
         "https://www.bbc.co.uk/news/articles/cj068q7qj19o#1",
         "https://www.bbc.co.uk/news/articles/cy0j0zz8l83o#1",
         "https://www.bbc.co.uk/news/articles/c790w8wxv0do#1",
-        "https://www.bbc.co.uk/news/videos/cy07x9ne871o#0",
-        "https://www.bbc.co.uk/news/articles/cgrvjn88rxqo#1"
+        "https://www.bbc.co.uk/news/videos/cy07x9ne871o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260826de46485",
         "https://news.web.nhk/newsweb/na/nd-20260826de46502",
         "https://news.web.nhk/newsweb/na/nd-20260826de46531",
         "https://news.web.nhk/newsweb/na/nd-20260826de46526",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260824de45946",
         "https://news.web.nhk/newsweb/na/nd-20260824de45934",
         "https://news.web.nhk/newsweb/na/nd-20260823de45904",
-        "https://news.web.nhk/newsweb/na/nd-20260824de45932",
-        "https://news.web.nhk/newsweb/na/nd-20260821de45440"
+        "https://news.web.nhk/newsweb/na/nd-20260824de45932"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/yonex_carbon-cruise-aerus-gt/",
