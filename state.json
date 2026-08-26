@@ -2,6 +2,14 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "4nwwaxJgqTM",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "HHwW0KqxWNg",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cx2zyerv2lmo#0",
+        "https://www.bbc.co.uk/news/articles/c0lrw8325pzo#0",
+        "https://www.bbc.co.uk/news/articles/cy9z4dwx172o#0",
+        "https://www.bbc.co.uk/news/articles/c87vg9x5d7do#1",
+        "https://www.bbc.co.uk/news/articles/clyl8965j5go#1",
+        "https://www.bbc.co.uk/news/articles/cq5xdnxppl4o#1",
+        "https://www.bbc.co.uk/sport/american-football/articles/cew9l95kyp0o#1",
+        "https://www.bbc.co.uk/news/articles/c0m3npvpgdno#1",
         "https://www.bbc.co.uk/news/articles/c046peqrg9xo#0",
         "https://www.bbc.co.uk/news/articles/c07ler8x9kpo#1",
         "https://www.bbc.co.uk/news/articles/cz7z34vvxvlo#1",
@@ -193,17 +201,10 @@
         "https://www.bbc.co.uk/news/articles/c1714xg2vr9o#0",
         "https://www.bbc.co.uk/sport/football/articles/cqxvj8j7gy8o#0",
         "https://www.bbc.co.uk/news/articles/cn7n0yvpm7vo#0",
-        "https://www.bbc.co.uk/sport/football/articles/cqxvj8j7gy8o#1",
-        "https://www.bbc.co.uk/news/articles/cy9ze48l2yeo#0",
-        "https://www.bbc.co.uk/news/articles/c4g6ggdg030o#1",
-        "https://www.bbc.co.uk/news/articles/cwym4m4j848o#1",
-        "https://www.bbc.co.uk/news/articles/cx272np7vgyo#1",
-        "https://www.bbc.co.uk/news/articles/c87n792dnlno#1",
-        "https://www.bbc.co.uk/news/articles/ckgvk9p2n7ko#0",
-        "https://www.bbc.co.uk/news/articles/cqlxlp4lx9yo#1",
-        "https://www.bbc.co.uk/news/articles/cx2z889l0dxo#0"
+        "https://www.bbc.co.uk/sport/football/articles/cqxvj8j7gy8o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260826de46505",
         "https://news.web.nhk/newsweb/na/nd-20260823de45846",
         "https://news.web.nhk/newsweb/na/nd-20260826de46396",
         "https://news.web.nhk/newsweb/na/nd-20260826de46487",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260824de45925",
         "https://news.web.nhk/newsweb/na/nd-20260823de45915",
         "https://news.web.nhk/newsweb/na/nd-20260823de45914",
-        "https://news.web.nhk/newsweb/na/nd-20260823de45881",
-        "https://news.web.nhk/newsweb/na/nd-20260823de45892"
+        "https://news.web.nhk/newsweb/na/nd-20260823de45881"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/comma-ai-chestnut/",
