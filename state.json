@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "4nwwaxJgqTM",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "HHwW0KqxWNg",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c74k8zwvez0o#1",
         "https://www.bbc.co.uk/news/articles/c74k8zwvez0o#0",
         "https://www.bbc.co.uk/news/articles/c07lng44ng5o#1",
         "https://www.bbc.co.uk/news/articles/ce308l1w5q5o#0",
@@ -200,10 +201,10 @@
         "https://www.bbc.co.uk/news/articles/crerd8l3pw5o#0",
         "https://www.bbc.co.uk/news/articles/cr59grpzqgeo#1",
         "https://www.bbc.co.uk/news/articles/cg598yvrzpro#0",
-        "https://www.bbc.co.uk/news/articles/c0qxew81y83o#0",
-        "https://www.bbc.co.uk/news/articles/cm2g5x7l4mko#1"
+        "https://www.bbc.co.uk/news/articles/c0qxew81y83o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260826de46414",
         "https://news.web.nhk/newsweb/na/nd-20260826de46477",
         "https://news.web.nhk/newsweb/na/nd-20260826de46469",
         "https://news.web.nhk/newsweb/na/nd-20260826de46479",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260823de45899",
         "https://news.web.nhk/newsweb/na/nd-20260823de45901",
         "https://news.web.nhk/newsweb/na/nd-20260818de44836",
-        "https://news.web.nhk/newsweb/na/nd-20260823de45916",
-        "https://news.web.nhk/newsweb/na/nd-20260823de45902"
+        "https://news.web.nhk/newsweb/na/nd-20260823de45916"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/asimov-1/",
         "https://www.gizmodo.jp/article/comma-ai-chestnut/",
         "https://www.gizmodo.jp/article/apple-pricedown/",
         "https://www.gizmodo.jp/article/trustnic-car-fan-vvc-lri/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/airpods-camera/",
         "https://www.gizmodo.jp/article/25151810-8f7d-4ff4-8842-76e2fec14ca6/",
         "https://www.gizmodo.jp/article/307151-xck/",
-        "https://www.gizmodo.jp/article/amazon-jackery-portable-battery-1000/",
-        "https://www.gizmodo.jp/article/alpaka-hub-keychain-review-aiu/"
+        "https://www.gizmodo.jp/article/amazon-jackery-portable-battery-1000/"
     ]
 }
