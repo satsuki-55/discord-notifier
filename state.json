@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cg7m5e3mylpo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260828de46846",
         "https://news.web.nhk/newsweb/na/nd-20260828de46844",
         "https://news.web.nhk/newsweb/na/nd-20260828de46843",
         "https://news.web.nhk/newsweb/na/nd-20260828de46842",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260826de46337",
         "https://news.web.nhk/newsweb/na/nd-20260826de46328",
         "https://news.web.nhk/newsweb/na/nd-20260825de46322",
-        "https://news.web.nhk/newsweb/na/nd-20260825de46320",
-        "https://news.web.nhk/newsweb/na/nd-20260826de46329"
+        "https://news.web.nhk/newsweb/na/nd-20260825de46320"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/sony_cybershot_dsc-w270_reviw-lkw/",
