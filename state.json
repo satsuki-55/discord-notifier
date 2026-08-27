@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/ce3r1nwrxpwo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260827de46670",
         "https://news.web.nhk/newsweb/na/nd-20260825de46292",
         "https://news.web.nhk/newsweb/na/nd-20260827de46821",
         "https://news.web.nhk/newsweb/na/nd-20260827de46827",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260825de46321",
         "https://news.web.nhk/newsweb/na/nd-20260825de46315",
         "https://news.web.nhk/newsweb/na/nd-20260825de46311",
-        "https://news.web.nhk/newsweb/na/nd-20260825de46316",
-        "https://news.web.nhk/newsweb/na/nd-20260825de46317"
+        "https://news.web.nhk/newsweb/na/nd-20260825de46316"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/iphone-fold-makes-me-want-to-drink/",
