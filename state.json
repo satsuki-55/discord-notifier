@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/videos/ckg8wkd0j7do#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260827de46571",
         "https://news.web.nhk/newsweb/na/nd-20260827de46587",
         "https://news.web.nhk/newsweb/na/nd-20260827de46582",
         "https://news.web.nhk/newsweb/na/nd-20260826de46449",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260825de46113",
         "https://news.web.nhk/newsweb/na/nd-20260825de46110",
         "https://news.web.nhk/newsweb/na/nd-20260824de46077",
-        "https://news.web.nhk/newsweb/na/nd-20260825de46105",
-        "https://news.web.nhk/newsweb/na/nd-20260824de46071"
+        "https://news.web.nhk/newsweb/na/nd-20260825de46105"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/tcl-k1-smart-lock-rxz/",
