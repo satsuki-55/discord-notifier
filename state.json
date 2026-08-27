@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/c0rdl0y8d4wo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260827de46646",
+        "https://news.web.nhk/newsweb/na/nd-20260827de46638",
         "https://news.web.nhk/newsweb/na/nd-20260827de46626",
         "https://news.web.nhk/newsweb/na/nd-20260827de46625",
         "https://news.web.nhk/newsweb/na/nd-20260827de46613",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260824de46070",
         "https://news.web.nhk/newsweb/na/nd-20260824de46075",
         "https://news.web.nhk/newsweb/na/nd-20260824de46073",
-        "https://news.web.nhk/newsweb/na/nd-20260825de46092",
-        "https://news.web.nhk/newsweb/na/nd-20260825de46101",
-        "https://news.web.nhk/newsweb/na/nd-20260824de46083"
+        "https://news.web.nhk/newsweb/na/nd-20260825de46092"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/shokz-put-its-new-open-wireless-earbuds-on-a-diet/",
