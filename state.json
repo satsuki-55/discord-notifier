@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/videos/ckg8wkd0j7do#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260827de46587",
+        "https://news.web.nhk/newsweb/na/nd-20260827de46582",
         "https://news.web.nhk/newsweb/na/nd-20260826de46449",
         "https://news.web.nhk/newsweb/na/nd-20260827de46652",
         "https://news.web.nhk/newsweb/na/nd-20260827de46624",
@@ -401,11 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260825de46110",
         "https://news.web.nhk/newsweb/na/nd-20260824de46077",
         "https://news.web.nhk/newsweb/na/nd-20260825de46105",
-        "https://news.web.nhk/newsweb/na/nd-20260824de46071",
-        "https://news.web.nhk/newsweb/na/nd-20260824de46081",
-        "https://news.web.nhk/newsweb/na/nd-20260825de46102"
+        "https://news.web.nhk/newsweb/na/nd-20260824de46071"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/tcl-k1-smart-lock-rxz/",
         "https://www.gizmodo.jp/article/switchbot-aimindclip/",
         "https://www.gizmodo.jp/article/shokz-put-its-new-open-wireless-earbuds-on-a-diet/",
         "https://www.gizmodo.jp/article/amazon-macbook-air-m5/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/razer-huntsman-v3-he-magnetic-8khz/",
         "https://www.gizmodo.jp/article/dragon-quest-jinsei-game/",
         "https://www.gizmodo.jp/article/tau-robotics/",
-        "https://www.gizmodo.jp/article/gizmodo-japan-20th-kogure/",
-        "https://www.gizmodo.jp/article/ligar-matome/"
+        "https://www.gizmodo.jp/article/gizmodo-japan-20th-kogure/"
     ]
 }
