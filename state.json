@@ -204,6 +204,9 @@
         "https://www.bbc.co.uk/news/articles/c93vpd60654o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260827de46769",
+        "https://news.web.nhk/newsweb/na/nd-20260825de46130",
+        "https://news.web.nhk/newsweb/na/nd-20260827de46761",
         "https://news.web.nhk/newsweb/na/nd-20260827de46747",
         "https://news.web.nhk/newsweb/na/nd-20260827de46734",
         "https://news.web.nhk/newsweb/na/nd-20260827de46745",
@@ -400,12 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260825de46138",
         "https://news.web.nhk/newsweb/na/nd-20260825de46204",
         "https://news.web.nhk/newsweb/na/nd-20260825de46212",
-        "https://news.web.nhk/newsweb/na/nd-20260825de46215",
-        "https://news.web.nhk/newsweb/na/nd-20260825de46194",
-        "https://news.web.nhk/newsweb/na/nd-20260825de46162",
-        "https://news.web.nhk/newsweb/na/nd-20260825de46130"
+        "https://news.web.nhk/newsweb/na/nd-20260825de46215"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/olight_oclipultra-lyf/",
         "https://www.gizmodo.jp/article/ugreen-nexode-20000-10000-202608/",
         "https://www.gizmodo.jp/article/electric-water-gun-enw/",
         "https://www.gizmodo.jp/article/nanodrift-ae86-mini-drift-rc/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/iphone-18-pro-camera-upgrade-only-max/",
         "https://www.gizmodo.jp/article/airpods-camera-hair-detected/",
         "https://www.gizmodo.jp/article/researchers-built-a-coin-sized-device-that-can-hack-a-boeing-737s-electronics/",
-        "https://www.gizmodo.jp/article/this-drone-becomes-almost-invisible-by-spinning-extremely-fast-while-emitting-an-unholy-whine/",
-        "https://www.gizmodo.jp/article/cio-handy-fan-review/"
+        "https://www.gizmodo.jp/article/this-drone-becomes-almost-invisible-by-spinning-extremely-fast-while-emitting-an-unholy-whine/"
     ]
 }
