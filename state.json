@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c0rdl0y8d4wo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260827de46613",
         "https://news.web.nhk/newsweb/na/nd-20260827de46619",
         "https://news.web.nhk/newsweb/na/nd-20260827de46621",
         "https://news.web.nhk/newsweb/na/nd-20260827de46616",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260825de46101",
         "https://news.web.nhk/newsweb/na/nd-20260824de46083",
         "https://news.web.nhk/newsweb/na/nd-20260825de46098",
-        "https://news.web.nhk/newsweb/na/nd-20260825de46093",
-        "https://news.web.nhk/newsweb/na/nd-20260821de45512"
+        "https://news.web.nhk/newsweb/na/nd-20260825de46093"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/tesla-finally-sets-a-launch-date-for-the-cybercab/",
         "https://www.gizmodo.jp/article/surprise-and-shine-apple/",
         "https://www.gizmodo.jp/article/elecom-zebra-stylus-2way/",
         "https://www.gizmodo.jp/article/arrows-alpha2/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/ligar-matome/",
         "https://www.gizmodo.jp/article/honor-robot-phone-release/",
         "https://www.gizmodo.jp/article/very-important-study-calculates-your-chance-of-being-killed-by-an-asteroid-vs-several-other-scary-things-hac/",
-        "https://www.gizmodo.jp/article/particle_collision_in_a_black_hole-lhj/",
-        "https://www.gizmodo.jp/article/the-first-details-on-garmins-fenix-9-smartwatch-have-leaked-jpn/"
+        "https://www.gizmodo.jp/article/particle_collision_in_a_black_hole-lhj/"
     ]
 }
