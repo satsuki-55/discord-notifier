@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260824de46075"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/switchbot-aimindclip/",
         "https://www.gizmodo.jp/article/shokz-put-its-new-open-wireless-earbuds-on-a-diet/",
         "https://www.gizmodo.jp/article/amazon-macbook-air-m5/",
         "https://www.gizmodo.jp/article/tesla-finally-sets-a-launch-date-for-the-cybercab/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/dragon-quest-jinsei-game/",
         "https://www.gizmodo.jp/article/tau-robotics/",
         "https://www.gizmodo.jp/article/gizmodo-japan-20th-kogure/",
-        "https://www.gizmodo.jp/article/ligar-matome/",
-        "https://www.gizmodo.jp/article/honor-robot-phone-release/"
+        "https://www.gizmodo.jp/article/ligar-matome/"
     ]
 }
