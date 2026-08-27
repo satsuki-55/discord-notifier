@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c1mv0e9nm3mo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260817de44568",
         "https://news.web.nhk/newsweb/na/nd-20260827de46790",
         "https://news.web.nhk/newsweb/na/nd-20260827de46755",
         "https://news.web.nhk/newsweb/na/nd-20260827de46783",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260825de46277",
         "https://news.web.nhk/newsweb/na/nd-20260825de46280",
         "https://news.web.nhk/newsweb/na/nd-20260825de46263",
-        "https://news.web.nhk/newsweb/na/nd-20260825de46241",
-        "https://news.web.nhk/newsweb/na/nd-20260825de46260"
+        "https://news.web.nhk/newsweb/na/nd-20260825de46241"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/maxevis-ai-go-board-game/",
         "https://www.gizmodo.jp/article/gravitrax-marble-run-toyshow2026/",
         "https://www.gizmodo.jp/article/microsoft-ups-investment-in-polluting-ai-but-cuts-down-carbon-removal-by-80/",
         "https://www.gizmodo.jp/article/toshibanduke/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/benq-creative-pro-pd2732u/",
         "https://www.gizmodo.jp/article/oxtak-money-penny-bi/",
         "https://www.gizmodo.jp/article/hoverair-versa-pre-sale-start/",
-        "https://www.gizmodo.jp/article/rumor-about-apple-a20-pro-chip-performance/",
-        "https://www.gizmodo.jp/article/gizmodo-japan-20th-genokamoto/"
+        "https://www.gizmodo.jp/article/rumor-about-apple-a20-pro-chip-performance/"
     ]
 }
