@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "myGpwvuVMkI",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "ApfAF7vfpD8",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/videos/c1e58wlzxnqo#0",
         "https://www.bbc.co.uk/news/articles/ckgvnjpv1l0o#0",
         "https://www.bbc.co.uk/news/articles/c20vl4vm2pno#0",
         "https://www.bbc.co.uk/news/articles/cnvlde5075no#0",
@@ -200,8 +201,7 @@
         "https://www.bbc.co.uk/news/articles/c8d3p2g2p05o#0",
         "https://www.bbc.co.uk/weather/articles/c770lyg4318o#0",
         "https://www.bbc.co.uk/news/articles/c4gmvyzj5dgo#0",
-        "https://www.bbc.co.uk/weather/articles/c5y4n7y89w7o#0",
-        "https://www.bbc.co.uk/news/articles/clyq011414eo#0"
+        "https://www.bbc.co.uk/weather/articles/c5y4n7y89w7o#0"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20260827de46753",
@@ -406,6 +406,9 @@
         "https://news.web.nhk/newsweb/na/nd-20260825de46212"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/diisea-c7/",
+        "https://www.gizmodo.jp/article/jozen-dirtmaxx-waterproof-rc/",
+        "https://www.gizmodo.jp/article/b028a1da-c376-4ee4-84b7-ea28b8520720/",
         "https://www.gizmodo.jp/article/olight_oclipultra-lyf/",
         "https://www.gizmodo.jp/article/ugreen-nexode-20000-10000-202608/",
         "https://www.gizmodo.jp/article/electric-water-gun-enw/",
@@ -602,9 +605,6 @@
         "https://www.gizmodo.jp/article/pixel11-ai-function/",
         "https://www.gizmodo.jp/article/promachocrinus-wbh/",
         "https://www.gizmodo.jp/article/microdot-technology-tatoo/",
-        "https://www.gizmodo.jp/article/iphone-18-pro-camera-upgrade-only-max/",
-        "https://www.gizmodo.jp/article/airpods-camera-hair-detected/",
-        "https://www.gizmodo.jp/article/researchers-built-a-coin-sized-device-that-can-hack-a-boeing-737s-electronics/",
-        "https://www.gizmodo.jp/article/this-drone-becomes-almost-invisible-by-spinning-extremely-fast-while-emitting-an-unholy-whine/"
+        "https://www.gizmodo.jp/article/iphone-18-pro-camera-upgrade-only-max/"
     ]
 }
