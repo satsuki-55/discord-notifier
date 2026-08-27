@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c0rdl0y8d4wo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260827de46625",
         "https://news.web.nhk/newsweb/na/nd-20260827de46613",
         "https://news.web.nhk/newsweb/na/nd-20260827de46619",
         "https://news.web.nhk/newsweb/na/nd-20260827de46621",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260825de46092",
         "https://news.web.nhk/newsweb/na/nd-20260825de46101",
         "https://news.web.nhk/newsweb/na/nd-20260824de46083",
-        "https://news.web.nhk/newsweb/na/nd-20260825de46098",
-        "https://news.web.nhk/newsweb/na/nd-20260825de46093"
+        "https://news.web.nhk/newsweb/na/nd-20260825de46098"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/tesla-finally-sets-a-launch-date-for-the-cybercab/",
