@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "myGpwvuVMkI",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "ApfAF7vfpD8",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cn9n9n5p9eqo#0",
         "https://www.bbc.co.uk/news/articles/c5yd92gkk7vo#1",
         "https://www.bbc.co.uk/news/videos/cy4k4d3lj21o#0",
         "https://www.bbc.co.uk/news/articles/cew91zkyrvro#1",
@@ -200,8 +201,7 @@
         "https://www.bbc.co.uk/news/articles/clyl81jlzr2o#0",
         "https://www.bbc.co.uk/news/articles/cj06818jgzlo#0",
         "https://www.bbc.co.uk/news/articles/crerd8l3pw5o#1",
-        "https://www.bbc.co.uk/news/articles/c0m3npvpgdno#0",
-        "https://www.bbc.co.uk/news/articles/c05rj80ve56o#0"
+        "https://www.bbc.co.uk/news/articles/c0m3npvpgdno#0"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20260827de46719",
@@ -406,6 +406,8 @@
         "https://news.web.nhk/newsweb/na/nd-20260825de46148"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2608-i-own-30-homes-at-24-full-time-landlord-qen/",
+        "https://www.gizmodo.jp/article/color_connect_kawada-toys/",
         "https://www.gizmodo.jp/article/zipstring-aracna_tokyo-toy-show2026/",
         "https://www.gizmodo.jp/article/cutebee_diy_book_nook_kit/",
         "https://www.gizmodo.jp/article/bc776186-1c73-4bd3-9839-cd57f4bd89cd/",
@@ -603,8 +605,6 @@
         "https://www.gizmodo.jp/article/elecom-usb-c-charger/",
         "https://www.gizmodo.jp/article/lakole_insulated_cooler_bag_with_built-in_gel_ice_pack-sgs/",
         "https://www.gizmodo.jp/article/cmf-buds-neo/",
-        "https://www.gizmodo.jp/article/meta-ray-ban-display-muse-spark/",
-        "https://www.gizmodo.jp/article/2603-matome-android-iphone-xnd/",
-        "https://www.gizmodo.jp/article/switch-2-microsd-express-price-up/"
+        "https://www.gizmodo.jp/article/meta-ray-ban-display-muse-spark/"
     ]
 }
