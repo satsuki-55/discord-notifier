@@ -2,6 +2,11 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "myGpwvuVMkI",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "ApfAF7vfpD8",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c4g355k8lg4o#0",
+        "https://www.bbc.co.uk/news/articles/cn8nd1n54zxo#0",
+        "https://www.bbc.co.uk/news/articles/cvgyd4x6nj4o#0",
+        "https://www.bbc.co.uk/news/articles/c3v4xg5klx7o#1",
+        "https://www.bbc.co.uk/news/articles/c0lrw8325pzo#1",
         "https://www.bbc.co.uk/news/articles/c0rdl0y8d4wo#0",
         "https://www.bbc.co.uk/news/articles/clyj56zjdxpo#0",
         "https://www.bbc.co.uk/news/articles/cd9wp3p4301o#0",
@@ -196,14 +201,10 @@
         "https://www.bbc.co.uk/news/videos/cy4k4d3lj21o#0",
         "https://www.bbc.co.uk/news/articles/c33knmyl0y5o#0",
         "https://www.bbc.co.uk/news/videos/ckg8wkd0j7do#0",
-        "https://www.bbc.co.uk/news/articles/c5y58g2dp3xo#1",
-        "https://www.bbc.co.uk/news/articles/cg598yvrzpro#1",
-        "https://www.bbc.co.uk/news/articles/c9w4jgg4y55o#0",
-        "https://www.bbc.co.uk/news/articles/c4g355k8lg4o#0",
-        "https://www.bbc.co.uk/news/articles/cn8nd1n54zxo#0",
-        "https://www.bbc.co.uk/news/articles/c62m4zn1q6mo#0"
+        "https://www.bbc.co.uk/news/articles/c5y58g2dp3xo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260827de46628",
         "https://news.web.nhk/newsweb/na/nd-20260827de46647",
         "https://news.web.nhk/newsweb/na/nd-20260827de46622",
         "https://news.web.nhk/newsweb/na/nd-20260827de46646",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260824de46074",
         "https://news.web.nhk/newsweb/na/nd-20260824de46072",
         "https://news.web.nhk/newsweb/na/nd-20260825de46099",
-        "https://news.web.nhk/newsweb/na/nd-20260824de46070",
-        "https://news.web.nhk/newsweb/na/nd-20260824de46075"
+        "https://news.web.nhk/newsweb/na/nd-20260824de46070"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/switchbot-aimindclip/",
