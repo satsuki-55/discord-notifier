@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260825de46110"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/bc776186-1c73-4bd3-9839-cd57f4bd89cd/",
         "https://www.gizmodo.jp/article/toyroyal_remotecontroller/",
         "https://www.gizmodo.jp/article/85015b03-6e13-42fe-8969-c50bf587509d/",
         "https://www.gizmodo.jp/article/db41a2f2-f7fe-4a28-bf80-0cdcee2d9777/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/2603-matome-android-iphone-xnd/",
         "https://www.gizmodo.jp/article/switch-2-microsd-express-price-up/",
         "https://www.gizmodo.jp/article/google-may-have-leaked-its-next-fitbit-or-let-ai-hallucinate-it/",
-        "https://www.gizmodo.jp/article/digital-camera-price-up/",
-        "https://www.gizmodo.jp/article/rumor-that-galaxy-z-fold9-lineup-will-expand/"
+        "https://www.gizmodo.jp/article/digital-camera-price-up/"
     ]
 }
