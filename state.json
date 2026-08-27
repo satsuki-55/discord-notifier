@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260825de46105"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/sanwa-usbc-cable/",
         "https://www.gizmodo.jp/article/tcl-k1-smart-lock-rxz/",
         "https://www.gizmodo.jp/article/switchbot-aimindclip/",
         "https://www.gizmodo.jp/article/shokz-put-its-new-open-wireless-earbuds-on-a-diet/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/rumor-that-galaxy-z-fold9-lineup-will-expand/",
         "https://www.gizmodo.jp/article/razer-huntsman-v3-he-magnetic-8khz/",
         "https://www.gizmodo.jp/article/dragon-quest-jinsei-game/",
-        "https://www.gizmodo.jp/article/tau-robotics/",
-        "https://www.gizmodo.jp/article/gizmodo-japan-20th-kogure/"
+        "https://www.gizmodo.jp/article/tau-robotics/"
     ]
 }
