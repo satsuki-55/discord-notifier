@@ -2,6 +2,9 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "myGpwvuVMkI",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "ApfAF7vfpD8",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cpwl54kddeko#0",
+        "https://www.bbc.co.uk/news/articles/cp3kwgyp1vwo#1",
+        "https://www.bbc.co.uk/news/articles/c3relr4xx27o#0",
         "https://www.bbc.co.uk/news/articles/c9dwy750jpdo#0",
         "https://www.bbc.co.uk/news/articles/cn07eqkr748o#0",
         "https://www.bbc.co.uk/news/articles/cn8ej0zvppxo#0",
@@ -198,12 +201,10 @@
         "https://www.bbc.co.uk/news/articles/cnvly73jrrdo#1",
         "https://www.bbc.co.uk/news/articles/c5yednen30go#0",
         "https://www.bbc.co.uk/news/articles/c783lnz12vlo#1",
-        "https://www.bbc.co.uk/news/articles/cly4w05x4p6o#0",
-        "https://www.bbc.co.uk/sport/american-football/articles/cew9l95kyp0o#0",
-        "https://www.bbc.co.uk/news/articles/c33knmyl0y5o#1",
-        "https://www.bbc.co.uk/news/articles/cy0zrey17qno#0"
+        "https://www.bbc.co.uk/news/articles/cly4w05x4p6o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260827de46809",
         "https://news.web.nhk/newsweb/na/nd-20260827de46788",
         "https://news.web.nhk/newsweb/na/nd-20260827de46704",
         "https://news.web.nhk/newsweb/na/nd-20260817de44568",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260825de46283",
         "https://news.web.nhk/newsweb/na/nd-20260825de46129",
         "https://news.web.nhk/newsweb/na/nd-20260822de45705",
-        "https://news.web.nhk/newsweb/na/nd-20260825de46277",
-        "https://news.web.nhk/newsweb/na/nd-20260825de46280"
+        "https://news.web.nhk/newsweb/na/nd-20260825de46277"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/meta-ai-grass-jp/",
         "https://www.gizmodo.jp/article/zinc-iodine-battery/",
         "https://www.gizmodo.jp/article/carkeshi-gp/",
         "https://www.gizmodo.jp/article/hashiru-nishikigoi/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/galaxy-z-fold8-keyboardapp/",
         "https://www.gizmodo.jp/article/the-viral-smart-glasses-sniffing-app-is-informative-but-anticlimactic/",
         "https://www.gizmodo.jp/article/apples-glasses-are-reportedly-being-developed-as-fitness-devices-like-the-apple-watch/",
-        "https://www.gizmodo.jp/article/uniqlo_widepants_review/",
-        "https://www.gizmodo.jp/article/benq-creative-pro-pd2732u/"
+        "https://www.gizmodo.jp/article/uniqlo_widepants_review/"
     ]
 }
