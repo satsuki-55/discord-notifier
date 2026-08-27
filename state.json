@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/videos/ckg8wkd0j7do#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260827de46633",
         "https://news.web.nhk/newsweb/na/nd-20260827de46651",
         "https://news.web.nhk/newsweb/na/nd-20260827de46628",
         "https://news.web.nhk/newsweb/na/nd-20260827de46647",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260825de46103",
         "https://news.web.nhk/newsweb/na/nd-20260825de46100",
         "https://news.web.nhk/newsweb/na/nd-20260824de46074",
-        "https://news.web.nhk/newsweb/na/nd-20260824de46072",
-        "https://news.web.nhk/newsweb/na/nd-20260825de46099"
+        "https://news.web.nhk/newsweb/na/nd-20260824de46072"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/switchbot-aimindclip/",
