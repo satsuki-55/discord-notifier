@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/crerd8l3pw5o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260827de46709",
+        "https://news.web.nhk/newsweb/na/nd-20260827de46721",
         "https://news.web.nhk/newsweb/na/nd-20260827de46706",
         "https://news.web.nhk/newsweb/na/nd-20260827de46716",
         "https://news.web.nhk/newsweb/na/nd-20260827de46692",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260825de46187",
         "https://news.web.nhk/newsweb/na/nd-20260825de46165",
         "https://news.web.nhk/newsweb/na/nd-20260825de46155",
-        "https://news.web.nhk/newsweb/na/nd-20260825de46158",
-        "https://news.web.nhk/newsweb/na/nd-20260825de46118",
-        "https://news.web.nhk/newsweb/na/nd-20260825de46150"
+        "https://news.web.nhk/newsweb/na/nd-20260825de46158"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/apple-event-2026-report/",
