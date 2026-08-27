@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cj06818jgzlo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260825de46158",
         "https://news.web.nhk/newsweb/na/nd-20260827de46699",
         "https://news.web.nhk/newsweb/na/nd-20260827de46709",
         "https://news.web.nhk/newsweb/na/nd-20260827de46721",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260825de46159",
         "https://news.web.nhk/newsweb/na/nd-20260825de46146",
         "https://news.web.nhk/newsweb/na/nd-20260825de46187",
-        "https://news.web.nhk/newsweb/na/nd-20260825de46165",
-        "https://news.web.nhk/newsweb/na/nd-20260825de46155"
+        "https://news.web.nhk/newsweb/na/nd-20260825de46165"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/hex-bots-yamori/",
