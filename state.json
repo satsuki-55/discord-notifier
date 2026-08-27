@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "myGpwvuVMkI",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "ApfAF7vfpD8",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cd68q3wynnqo#1",
         "https://www.bbc.co.uk/news/articles/cn9n9n5p9eqo#0",
         "https://www.bbc.co.uk/news/articles/c5yd92gkk7vo#1",
         "https://www.bbc.co.uk/news/videos/cy4k4d3lj21o#0",
@@ -200,10 +201,10 @@
         "https://www.bbc.co.uk/news/articles/cg598m3meeyo#0",
         "https://www.bbc.co.uk/news/articles/clyl81jlzr2o#0",
         "https://www.bbc.co.uk/news/articles/cj06818jgzlo#0",
-        "https://www.bbc.co.uk/news/articles/crerd8l3pw5o#1",
-        "https://www.bbc.co.uk/news/articles/c0m3npvpgdno#0"
+        "https://www.bbc.co.uk/news/articles/crerd8l3pw5o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260827de46685",
         "https://news.web.nhk/newsweb/na/nd-20260827de46719",
         "https://news.web.nhk/newsweb/na/nd-20260827de46694",
         "https://news.web.nhk/newsweb/na/nd-20260827de46696",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260825de46150",
         "https://news.web.nhk/newsweb/na/nd-20260825de46168",
         "https://news.web.nhk/newsweb/na/nd-20260825de46144",
-        "https://news.web.nhk/newsweb/na/nd-20260825de46127",
-        "https://news.web.nhk/newsweb/na/nd-20260825de46148"
+        "https://news.web.nhk/newsweb/na/nd-20260825de46127"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2608-i-own-30-homes-at-24-full-time-landlord-qen/",
