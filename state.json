@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "myGpwvuVMkI",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "ApfAF7vfpD8",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cddv43d4jn2o#0",
         "https://www.bbc.co.uk/news/articles/cd68q3wynnqo#1",
         "https://www.bbc.co.uk/news/articles/cn9n9n5p9eqo#0",
         "https://www.bbc.co.uk/news/articles/c5yd92gkk7vo#1",
@@ -200,10 +201,10 @@
         "https://www.bbc.co.uk/news/articles/c36lnekj659o#1",
         "https://www.bbc.co.uk/news/articles/cg598m3meeyo#0",
         "https://www.bbc.co.uk/news/articles/clyl81jlzr2o#0",
-        "https://www.bbc.co.uk/news/articles/cj06818jgzlo#0",
-        "https://www.bbc.co.uk/news/articles/crerd8l3pw5o#1"
+        "https://www.bbc.co.uk/news/articles/cj06818jgzlo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260827de46699",
         "https://news.web.nhk/newsweb/na/nd-20260827de46709",
         "https://news.web.nhk/newsweb/na/nd-20260827de46721",
         "https://news.web.nhk/newsweb/na/nd-20260827de46706",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260825de46146",
         "https://news.web.nhk/newsweb/na/nd-20260825de46187",
         "https://news.web.nhk/newsweb/na/nd-20260825de46165",
-        "https://news.web.nhk/newsweb/na/nd-20260825de46155",
-        "https://news.web.nhk/newsweb/na/nd-20260825de46158"
+        "https://news.web.nhk/newsweb/na/nd-20260825de46155"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/hex-bots-yamori/",
         "https://www.gizmodo.jp/article/apple-event-2026-report/",
         "https://www.gizmodo.jp/article/7c8b351f-344e-4d1a-a5a4-b690883c5562/",
         "https://www.gizmodo.jp/article/2608-i-own-30-homes-at-24-full-time-landlord-qen/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/gizmodo-japan-20th-yamadau/",
         "https://www.gizmodo.jp/article/karimmor_fast-dry_tshirt/",
         "https://www.gizmodo.jp/article/seattle-ultrasonics-c200-kitchen-knife-94t/",
-        "https://www.gizmodo.jp/article/elecom-usb-c-charger/",
-        "https://www.gizmodo.jp/article/lakole_insulated_cooler_bag_with_built-in_gel_ice_pack-sgs/"
+        "https://www.gizmodo.jp/article/elecom-usb-c-charger/"
     ]
 }
