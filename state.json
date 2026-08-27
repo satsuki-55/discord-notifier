@@ -2,6 +2,8 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "myGpwvuVMkI",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "ApfAF7vfpD8",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c7v4353rry7o#0",
+        "https://www.bbc.co.uk/news/articles/ce871n7lyvlo#1",
         "https://www.bbc.co.uk/news/articles/c62egy4e2l7o#1",
         "https://www.bbc.co.uk/news/articles/c5ywxpryj95o#0",
         "https://www.bbc.co.uk/news/articles/ckgw9gw34yqo#1",
@@ -199,9 +201,7 @@
         "https://www.bbc.co.uk/news/articles/cn5drvyg92no#1",
         "https://www.bbc.co.uk/news/articles/cz9xdl4g25zo#0",
         "https://www.bbc.co.uk/news/articles/cwyzw836d05o#0",
-        "https://www.bbc.co.uk/news/videos/c783l8lrvdzo#0",
-        "https://www.bbc.co.uk/news/articles/cn8e70jd17zo#0",
-        "https://www.bbc.co.uk/news/articles/ce3r1nwrxpwo#1"
+        "https://www.bbc.co.uk/news/videos/c783l8lrvdzo#0"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20260827de46670",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260825de46316"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/sony_cybershot_dsc-w270_reviw-lkw/",
         "https://www.gizmodo.jp/article/iphone-fold-makes-me-want-to-drink/",
         "https://www.gizmodo.jp/article/meta-ai-grass-jp/",
         "https://www.gizmodo.jp/article/zinc-iodine-battery/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/pokemon-polaroid-collaboration/",
         "https://www.gizmodo.jp/article/iphone-18-18pro-rumors-summary/",
         "https://www.gizmodo.jp/article/galaxy-z-fold8-keyboardapp/",
-        "https://www.gizmodo.jp/article/the-viral-smart-glasses-sniffing-app-is-informative-but-anticlimactic/",
-        "https://www.gizmodo.jp/article/apples-glasses-are-reportedly-being-developed-as-fitness-devices-like-the-apple-watch/"
+        "https://www.gizmodo.jp/article/the-viral-smart-glasses-sniffing-app-is-informative-but-anticlimactic/"
     ]
 }
