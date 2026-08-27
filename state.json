@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "myGpwvuVMkI",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "ApfAF7vfpD8",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/czxq0wgkkdjo#0",
         "https://www.bbc.co.uk/news/articles/clyx0gzynneo#0",
         "https://www.bbc.co.uk/news/articles/c7v4353rry7o#1",
         "https://www.bbc.co.uk/news/articles/cz0zm4pzme2o#0",
@@ -200,10 +201,10 @@
         "https://www.bbc.co.uk/news/articles/c07ler8x9kpo#1",
         "https://www.bbc.co.uk/news/articles/cz7z34vvxvlo#1",
         "https://www.bbc.co.uk/news/articles/c0e31qdqrlyo#0",
-        "https://www.bbc.co.uk/news/articles/c0qxew81y83o#1",
-        "https://www.bbc.co.uk/news/articles/c0e31qdqrlyo#1"
+        "https://www.bbc.co.uk/news/articles/c0qxew81y83o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260828de46850",
         "https://news.web.nhk/newsweb/na/nd-20260828de46832",
         "https://news.web.nhk/newsweb/na/nd-20260828de46851",
         "https://news.web.nhk/newsweb/na/nd-20260827de46806",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260826de46402",
         "https://news.web.nhk/newsweb/na/nd-20260826de46383",
         "https://news.web.nhk/newsweb/na/nd-20260826de46378",
-        "https://news.web.nhk/newsweb/na/nd-20260826de46400",
-        "https://news.web.nhk/newsweb/na/nd-20260826de46385"
+        "https://news.web.nhk/newsweb/na/nd-20260826de46400"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/garmins-fenix-9-and-9-pro-tell-a-broader-story-about-your-physical-activity/",
