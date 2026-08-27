@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "myGpwvuVMkI",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "ApfAF7vfpD8",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c3d7exngd5no#0",
         "https://www.bbc.co.uk/news/articles/cx2z44982e4o#0",
         "https://www.bbc.co.uk/news/articles/c3w0972z5d8o#1",
         "https://www.bbc.co.uk/news/articles/cgl744j0ww1o#0",
@@ -200,10 +201,10 @@
         "https://www.bbc.co.uk/news/articles/c1l1r1zne1ro#0",
         "https://www.bbc.co.uk/news/articles/crl6r66yjklo#0",
         "https://www.bbc.co.uk/news/articles/c0rewr790jyo#0",
-        "https://www.bbc.co.uk/news/articles/c0kl40d3011o#0",
-        "https://www.bbc.co.uk/news/articles/cpqpjv0j0eeo#0"
+        "https://www.bbc.co.uk/news/articles/c0kl40d3011o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260827de46830",
         "https://news.web.nhk/newsweb/na/nd-20260828de46835",
         "https://news.web.nhk/newsweb/na/nd-20260827de46819",
         "https://news.web.nhk/newsweb/na/nd-20260827de46824",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260826de46380",
         "https://news.web.nhk/newsweb/na/nd-20260826de46362",
         "https://news.web.nhk/newsweb/na/nd-20260826de46356",
-        "https://news.web.nhk/newsweb/na/nd-20260826de46361",
-        "https://news.web.nhk/newsweb/na/nd-20260826de46353"
+        "https://news.web.nhk/newsweb/na/nd-20260826de46361"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/scientists-develop-microbes-that-make-vanilla-cookies-out-of-plastic-bottles/",
