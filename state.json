@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "myGpwvuVMkI",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "ApfAF7vfpD8",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cew91zkyrvro#1",
         "https://www.bbc.co.uk/news/articles/cq5xe322ezgo#0",
         "https://www.bbc.co.uk/news/articles/c3v4k0re3vwo#0",
         "https://www.bbc.co.uk/news/articles/c9w4jgg4y55o#0",
@@ -200,10 +201,10 @@
         "https://www.bbc.co.uk/news/articles/c0m3npvpgdno#0",
         "https://www.bbc.co.uk/news/articles/c05rj80ve56o#0",
         "https://www.bbc.co.uk/news/articles/c05q318501yo#1",
-        "https://www.bbc.co.uk/news/articles/cp9e9rg255vo#0",
-        "https://www.bbc.co.uk/news/videos/cy4k4d3lj21o#0"
+        "https://www.bbc.co.uk/news/articles/cp9e9rg255vo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260827de46719",
         "https://news.web.nhk/newsweb/na/nd-20260827de46694",
         "https://news.web.nhk/newsweb/na/nd-20260827de46696",
         "https://news.web.nhk/newsweb/na/nd-20260827de46672",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260825de46168",
         "https://news.web.nhk/newsweb/na/nd-20260825de46144",
         "https://news.web.nhk/newsweb/na/nd-20260825de46127",
-        "https://news.web.nhk/newsweb/na/nd-20260825de46148",
-        "https://news.web.nhk/newsweb/na/nd-20260825de46140"
+        "https://news.web.nhk/newsweb/na/nd-20260825de46148"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/zipstring-aracna_tokyo-toy-show2026/",
