@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c9w4jx2rvgro#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260828de47106",
         "https://news.web.nhk/newsweb/na/nd-20260828de47112",
         "https://news.web.nhk/newsweb/na/nd-20260828de47115",
         "https://news.web.nhk/newsweb/na/nd-20260828de47110",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260827de46600",
         "https://news.web.nhk/newsweb/na/nd-20260824de46018",
         "https://news.web.nhk/newsweb/na/nd-20260827de46598",
-        "https://news.web.nhk/newsweb/na/nd-20260827de46597",
-        "https://news.web.nhk/newsweb/na/nd-20260827de46596"
+        "https://news.web.nhk/newsweb/na/nd-20260827de46597"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/reverb-kzb/",
