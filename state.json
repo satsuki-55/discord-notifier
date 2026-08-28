@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "myGpwvuVMkI",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "ApfAF7vfpD8",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cwyz11475l1o#1",
         "https://www.bbc.co.uk/news/articles/cvgyl64l5nro#0",
         "https://www.bbc.co.uk/news/articles/cx2z8lr9l7wo#0",
         "https://www.bbc.co.uk/news/articles/c4gv5gepxnyo#0",
@@ -200,10 +201,10 @@
         "https://www.bbc.co.uk/news/articles/cwyz9gjw9n9o#1",
         "https://www.bbc.co.uk/news/articles/cx2zyerv2lmo#0",
         "https://www.bbc.co.uk/news/articles/c0lrw8325pzo#0",
-        "https://www.bbc.co.uk/news/articles/cy9z4dwx172o#0",
-        "https://www.bbc.co.uk/news/articles/c87vg9x5d7do#1"
+        "https://www.bbc.co.uk/news/articles/cy9z4dwx172o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260826de46396",
         "https://news.web.nhk/newsweb/na/nd-20260828de46972",
         "https://news.web.nhk/newsweb/na/nd-20260828de46942",
         "https://news.web.nhk/newsweb/na/nd-20260828de46966",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260817de44567",
         "https://news.web.nhk/newsweb/na/nd-20260826de46499",
         "https://news.web.nhk/newsweb/na/nd-20260826de46496",
-        "https://news.web.nhk/newsweb/na/nd-20260826de46505",
-        "https://news.web.nhk/newsweb/na/nd-20260823de45846"
+        "https://news.web.nhk/newsweb/na/nd-20260826de46505"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/ligar-roomie/",
         "https://www.gizmodo.jp/article/iphone-18-18pro-rumors-summary/",
         "https://www.gizmodo.jp/article/apple-event-logo/",
         "https://www.gizmodo.jp/article/spotify-running-mode-android/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/gizmodo-japan-20th-ryotamusha/",
         "https://www.gizmodo.jp/article/nasas-curiosity-rover-finds-a-vast-sea-of-strange-honeycomb-patterns-on-mars/",
         "https://www.gizmodo.jp/article/tritium_nuclear_battery/",
-        "https://www.gizmodo.jp/article/sennheiser-momentum-true-wireless-5/",
-        "https://www.gizmodo.jp/article/google-pixel-11-pro-fold-case/"
+        "https://www.gizmodo.jp/article/sennheiser-momentum-true-wireless-5/"
     ]
 }
