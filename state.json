@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cwyzw836d05o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260828de46970",
         "https://news.web.nhk/newsweb/na/nd-20260826de46396",
         "https://news.web.nhk/newsweb/na/nd-20260828de46972",
         "https://news.web.nhk/newsweb/na/nd-20260828de46942",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260826de46523",
         "https://news.web.nhk/newsweb/na/nd-20260817de44567",
         "https://news.web.nhk/newsweb/na/nd-20260826de46499",
-        "https://news.web.nhk/newsweb/na/nd-20260826de46496",
-        "https://news.web.nhk/newsweb/na/nd-20260826de46505"
+        "https://news.web.nhk/newsweb/na/nd-20260826de46496"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/ligar-roomie/",
