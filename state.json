@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/ce308l1w5q5o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260828de46896",
         "https://news.web.nhk/newsweb/na/nd-20260828de46893",
         "https://news.web.nhk/newsweb/na/nd-20260828de46897",
         "https://news.web.nhk/newsweb/na/nd-20260828de47022",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260826de46520",
         "https://news.web.nhk/newsweb/na/nd-20260823de45901",
         "https://news.web.nhk/newsweb/na/nd-20260826de46504",
-        "https://news.web.nhk/newsweb/na/nd-20260826de46529",
-        "https://news.web.nhk/newsweb/na/nd-20260826de46522"
+        "https://news.web.nhk/newsweb/na/nd-20260826de46529"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/sanwa-supply-tk-cap8bk-bei/",
