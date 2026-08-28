@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/c74k8zwvez0o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260828de46952",
+        "https://news.web.nhk/newsweb/na/nd-20260828de46954",
         "https://news.web.nhk/newsweb/na/nd-20260828de46896",
         "https://news.web.nhk/newsweb/na/nd-20260828de46893",
         "https://news.web.nhk/newsweb/na/nd-20260828de46897",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260826de46531",
         "https://news.web.nhk/newsweb/na/nd-20260826de46526",
         "https://news.web.nhk/newsweb/na/nd-20260826de46520",
-        "https://news.web.nhk/newsweb/na/nd-20260823de45901",
-        "https://news.web.nhk/newsweb/na/nd-20260826de46504",
-        "https://news.web.nhk/newsweb/na/nd-20260826de46529"
+        "https://news.web.nhk/newsweb/na/nd-20260823de45901"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/amazon-anker-wall-light-cam-s4/",
