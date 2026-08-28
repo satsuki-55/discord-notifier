@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/c046peqrg9xo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260828de46898",
+        "https://news.web.nhk/newsweb/na/nd-20260828de46886",
         "https://news.web.nhk/newsweb/na/nd-20260828de46874",
         "https://news.web.nhk/newsweb/na/nd-20260828de46879",
         "https://news.web.nhk/newsweb/na/nd-20260828de46878",
@@ -401,11 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260826de46467",
         "https://news.web.nhk/newsweb/na/nd-20260826de46472",
         "https://news.web.nhk/newsweb/na/nd-20260826de46466",
-        "https://news.web.nhk/newsweb/na/nd-20260826de46360",
-        "https://news.web.nhk/newsweb/na/nd-20260826de46462",
-        "https://news.web.nhk/newsweb/na/nd-20260826de46401"
+        "https://news.web.nhk/newsweb/na/nd-20260826de46360"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/screenless-luffu-link-is-the-next-wearable-from-the-founders-of-fitbit/",
         "https://www.gizmodo.jp/article/incase_tracks-two-way-brief-6co/",
         "https://www.gizmodo.jp/article/pioneer_carrozzeria-ts-x40/",
         "https://www.gizmodo.jp/article/gakken_newblack_toyshow/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/heres-a-leaked-glimpse-of-sonos-next-wireless-headphones/",
         "https://www.gizmodo.jp/article/hand_powered_chatbot_clank_gpt/",
         "https://www.gizmodo.jp/article/amazon-ugreen-air/",
-        "https://www.gizmodo.jp/article/the_best_way_to_detect_ai_images/",
-        "https://www.gizmodo.jp/article/galaxy-z-fold8-transfer-demand/"
+        "https://www.gizmodo.jp/article/the_best_way_to_detect_ai_images/"
     ]
 }
