@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cjdv5y220keo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260828de47107",
         "https://news.web.nhk/newsweb/na/nd-20260828de47099",
         "https://news.web.nhk/newsweb/na/nd-20260828de47091",
         "https://news.web.nhk/newsweb/na/nd-20260826de46568",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260827de46594",
         "https://news.web.nhk/newsweb/na/nd-20260827de46593",
         "https://news.web.nhk/newsweb/na/nd-20260827de46592",
-        "https://news.web.nhk/newsweb/na/nd-20260827de46591",
-        "https://news.web.nhk/newsweb/na/nd-20260827de46590"
+        "https://news.web.nhk/newsweb/na/nd-20260827de46591"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/bose_quietcomfort-headphones_comparison/",
