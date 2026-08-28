@@ -2,6 +2,11 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "7Of_b-9wCm8",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "Twg-dVr9PHs",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cvgydk0vvpyo#0",
+        "https://www.bbc.co.uk/news/articles/cjwg5n7y68xo#0",
+        "https://www.bbc.co.uk/news/articles/cm2q7gv3l5qo#0",
+        "https://www.bbc.co.uk/news/articles/czxzv29p12lo#1",
+        "https://www.bbc.co.uk/news/videos/cj64kgrpgjdo#0",
         "https://www.bbc.co.uk/news/articles/cn74m8e5rleo#1",
         "https://www.bbc.co.uk/news/videos/cx2zdvlqw8yo#0",
         "https://www.bbc.co.uk/news/articles/czjlzdw8gp0o#0",
@@ -196,14 +201,10 @@
         "https://www.bbc.co.uk/news/articles/c0rdl0y8d4wo#0",
         "https://www.bbc.co.uk/news/articles/clyj56zjdxpo#0",
         "https://www.bbc.co.uk/news/articles/cd9wp3p4301o#0",
-        "https://www.bbc.co.uk/news/articles/cqxvrl744nyo#0",
-        "https://www.bbc.co.uk/news/articles/clyq4gxwe7go#0",
-        "https://www.bbc.co.uk/news/articles/cqjkl1xvgw5o#1",
-        "https://www.bbc.co.uk/news/articles/c3w0972z5d8o#0",
-        "https://www.bbc.co.uk/news/articles/cvgydk0vvpyo#0",
-        "https://www.bbc.co.uk/news/articles/cjwg5n7y68xo#0"
+        "https://www.bbc.co.uk/news/articles/cqxvrl744nyo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260829de47117",
         "https://news.web.nhk/newsweb/na/nd-20260828de47100",
         "https://news.web.nhk/newsweb/na/nd-20260829de47121",
         "https://news.web.nhk/newsweb/na/nd-20260828de47105",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260824de46045",
         "https://news.web.nhk/newsweb/na/nd-20260827de46604",
         "https://news.web.nhk/newsweb/na/nd-20260827de46602",
-        "https://news.web.nhk/newsweb/na/nd-20260827de46601",
-        "https://news.web.nhk/newsweb/na/nd-20260827de46599"
+        "https://news.web.nhk/newsweb/na/nd-20260827de46601"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/reverb-kzb/",
