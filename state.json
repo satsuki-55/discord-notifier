@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "7Of_b-9wCm8",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "ApfAF7vfpD8",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/videos/cj06j16vpr5o#0",
         "https://www.bbc.co.uk/news/articles/c93v70w79gxo#1",
         "https://www.bbc.co.uk/news/articles/cx2zn9zj361o#0",
         "https://www.bbc.co.uk/news/articles/cdj43zkjweyo#0",
@@ -200,10 +201,11 @@
         "https://www.bbc.co.uk/news/articles/c790n1vj27no#1",
         "https://www.bbc.co.uk/news/videos/cddv441nyn1o#1",
         "https://www.bbc.co.uk/news/articles/czdz13elezlo#0",
-        "https://www.bbc.co.uk/news/articles/c0klj7ykp81o#0",
-        "https://www.bbc.co.uk/news/articles/cq5xe813w1do#0"
+        "https://www.bbc.co.uk/news/articles/c0klj7ykp81o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260828de47068",
+        "https://news.web.nhk/newsweb/na/nd-20260828de47071",
         "https://news.web.nhk/newsweb/na/nd-20260828de47077",
         "https://news.web.nhk/newsweb/na/nd-20260828de46937",
         "https://news.web.nhk/newsweb/na/nd-20260828de47000",
@@ -401,11 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260826de46552",
         "https://news.web.nhk/newsweb/na/nd-20260827de46585",
         "https://news.web.nhk/newsweb/na/nd-20260826de46560",
-        "https://news.web.nhk/newsweb/na/nd-20260827de46586",
-        "https://news.web.nhk/newsweb/na/nd-20260827de46580",
-        "https://news.web.nhk/newsweb/na/nd-20260827de46584"
+        "https://news.web.nhk/newsweb/na/nd-20260827de46586"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/bowers-wilkins-new-speaker/",
         "https://www.gizmodo.jp/article/insta-360-go-ultra/",
         "https://www.gizmodo.jp/article/fitbit-pokemon-sleep/",
         "https://www.gizmodo.jp/article/bose-quietcomfort-headphones-2nd-gen-review-still-more-quiet-and-comfortable-than-most/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/googlebook-laptop-pc/",
         "https://www.gizmodo.jp/article/soxai-ring-x/",
         "https://www.gizmodo.jp/article/apple_visionpro_yet/",
-        "https://www.gizmodo.jp/article/the_north_face_re_activ_sneaker/",
-        "https://www.gizmodo.jp/article/muji-kazeganukeru-helmet/"
+        "https://www.gizmodo.jp/article/the_north_face_re_activ_sneaker/"
     ]
 }
