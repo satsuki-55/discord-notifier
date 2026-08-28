@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c74k8zwvez0o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260828de47043",
         "https://news.web.nhk/newsweb/na/nd-20260828de46952",
         "https://news.web.nhk/newsweb/na/nd-20260828de46954",
         "https://news.web.nhk/newsweb/na/nd-20260828de46896",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260826de46502",
         "https://news.web.nhk/newsweb/na/nd-20260826de46531",
         "https://news.web.nhk/newsweb/na/nd-20260826de46526",
-        "https://news.web.nhk/newsweb/na/nd-20260826de46520",
-        "https://news.web.nhk/newsweb/na/nd-20260823de45901"
+        "https://news.web.nhk/newsweb/na/nd-20260826de46520"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/centenarian-killer-t-cells/",
         "https://www.gizmodo.jp/article/amazon-anker-wall-light-cam-s4/",
         "https://www.gizmodo.jp/article/sanwa-supply-tk-cap8bk-bei/",
         "https://www.gizmodo.jp/article/anker-smart-pouch-sale/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/2df05f30-c414-480b-89f5-6a6b98d62fe4/",
         "https://www.gizmodo.jp/article/spacecool_radiational_cooling/",
         "https://www.gizmodo.jp/article/masturbation-consultants-gave-an-ai-startup/",
-        "https://www.gizmodo.jp/article/viture-pro-2-review-a-dark-horse-in-the-entry-level-ar-glasses-race/",
-        "https://www.gizmodo.jp/article/gizmodo-japan-20th-ryotamusha/"
+        "https://www.gizmodo.jp/article/viture-pro-2-review-a-dark-horse-in-the-entry-level-ar-glasses-race/"
     ]
 }
