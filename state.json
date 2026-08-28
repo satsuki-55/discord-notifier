@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "myGpwvuVMkI",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "ApfAF7vfpD8",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c93v70w79gxo#0",
         "https://www.bbc.co.uk/news/articles/ckgw5el7n9lo#0",
         "https://www.bbc.co.uk/news/articles/cm27y2dx7pwo#1",
         "https://www.bbc.co.uk/news/articles/c33keeyyv70o#1",
@@ -200,10 +201,10 @@
         "https://www.bbc.co.uk/news/articles/cn0j3z6147jo#1",
         "https://www.bbc.co.uk/news/articles/cz6zwgg9y8go#0",
         "https://www.bbc.co.uk/news/articles/czrzm6p6zxeo#0",
-        "https://www.bbc.co.uk/news/articles/c4gmrz8d31mo#0",
-        "https://www.bbc.co.uk/news/articles/cy9z4dwx172o#1"
+        "https://www.bbc.co.uk/news/articles/c4gmrz8d31mo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260828de46939",
         "https://news.web.nhk/newsweb/na/nd-20260828de47020",
         "https://news.web.nhk/newsweb/na/nd-20260828de46965",
         "https://news.web.nhk/newsweb/na/nd-20260828de46904",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260826de46479",
         "https://news.web.nhk/newsweb/na/nd-20260826de46490",
         "https://news.web.nhk/newsweb/na/nd-20260823de45895",
-        "https://news.web.nhk/newsweb/na/nd-20260826de46535",
-        "https://news.web.nhk/newsweb/na/nd-20260826de46523"
+        "https://news.web.nhk/newsweb/na/nd-20260826de46535"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/ligar-roomie/",
