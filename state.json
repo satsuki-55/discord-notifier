@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c0qxew81y83o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260828de46858",
         "https://news.web.nhk/newsweb/na/nd-20260828de46863",
         "https://news.web.nhk/newsweb/na/nd-20260828de46862",
         "https://news.web.nhk/newsweb/na/nd-20260827de46829",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260826de46411",
         "https://news.web.nhk/newsweb/na/nd-20260823de45735",
         "https://news.web.nhk/newsweb/na/nd-20260826de46398",
-        "https://news.web.nhk/newsweb/na/nd-20260826de46406",
-        "https://news.web.nhk/newsweb/na/nd-20260826de46409"
+        "https://news.web.nhk/newsweb/na/nd-20260826de46406"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/gizmodo-japan-20th-miyagi/",
