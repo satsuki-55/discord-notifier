@@ -1,5 +1,5 @@
 {
-    "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "myGpwvuVMkI",
+    "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "KlVWqGpQkEw",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "ApfAF7vfpD8",
     "rss:bbc": [
         "https://www.bbc.co.uk/news/videos/cddv0rldqqlo#0",
@@ -204,6 +204,9 @@
         "https://www.bbc.co.uk/news/articles/c74k8zwvez0o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260826de46544",
+        "https://news.web.nhk/newsweb/na/nd-20260828de47049",
+        "https://news.web.nhk/newsweb/na/nd-20260828de47056",
         "https://news.web.nhk/newsweb/na/nd-20260828de47052",
         "https://news.web.nhk/newsweb/na/nd-20260828de47042",
         "https://news.web.nhk/newsweb/na/nd-20260828de47051",
@@ -400,10 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260826de46564",
         "https://news.web.nhk/newsweb/na/nd-20260826de46565",
         "https://news.web.nhk/newsweb/na/nd-20260826de46566",
-        "https://news.web.nhk/newsweb/na/nd-20260826de46561",
-        "https://news.web.nhk/newsweb/na/nd-20260826de46558",
-        "https://news.web.nhk/newsweb/na/nd-20260826de46544",
-        "https://news.web.nhk/newsweb/na/nd-20260826de46516"
+        "https://news.web.nhk/newsweb/na/nd-20260826de46561"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/gizmodo-japan-20th-soko/",
