@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cz7z34vvxvlo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260828de46876",
         "https://news.web.nhk/newsweb/na/nd-20260828de46864",
         "https://news.web.nhk/newsweb/na/nd-20260826de46406",
         "https://news.web.nhk/newsweb/na/nd-20260828de46860",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260826de46401",
         "https://news.web.nhk/newsweb/na/nd-20260826de46460",
         "https://news.web.nhk/newsweb/na/nd-20260826de46453",
-        "https://news.web.nhk/newsweb/na/nd-20260826de46419",
-        "https://news.web.nhk/newsweb/na/nd-20260826de46411"
+        "https://news.web.nhk/newsweb/na/nd-20260826de46419"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/pioneer_carrozzeria-ts-x40/",
         "https://www.gizmodo.jp/article/gakken_newblack_toyshow/",
         "https://www.gizmodo.jp/article/apple-polishing-cloth-is-soft/",
         "https://www.gizmodo.jp/article/gizmodo-japan-20th-miyagi/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/amazon-ugreen-air/",
         "https://www.gizmodo.jp/article/the_best_way_to_detect_ai_images/",
         "https://www.gizmodo.jp/article/galaxy-z-fold8-transfer-demand/",
-        "https://www.gizmodo.jp/article/redmi-note-17-pro-max-5g/",
-        "https://www.gizmodo.jp/article/2708-do-nothing-productivity-yqr/"
+        "https://www.gizmodo.jp/article/redmi-note-17-pro-max-5g/"
     ]
 }
