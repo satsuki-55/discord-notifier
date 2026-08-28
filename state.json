@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cz6zwgg9y8go#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260828de46953",
         "https://news.web.nhk/newsweb/na/nd-20260826de46523",
         "https://news.web.nhk/newsweb/na/nd-20260828de47007",
         "https://news.web.nhk/newsweb/na/nd-20260828de47006",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260826de46522",
         "https://news.web.nhk/newsweb/na/nd-20260826de46414",
         "https://news.web.nhk/newsweb/na/nd-20260826de46477",
-        "https://news.web.nhk/newsweb/na/nd-20260826de46469",
-        "https://news.web.nhk/newsweb/na/nd-20260826de46479"
+        "https://news.web.nhk/newsweb/na/nd-20260826de46469"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/anker-smart-pouch-sale/",
