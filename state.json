@@ -2,6 +2,8 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "myGpwvuVMkI",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "ApfAF7vfpD8",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c9v9nndjznvo#0",
+        "https://www.bbc.co.uk/news/articles/cqxvrnvrr5do#1",
         "https://www.bbc.co.uk/news/articles/cm2q7z5mlrmo#0",
         "https://www.bbc.co.uk/news/articles/cn74mm2jz8jo#1",
         "https://www.bbc.co.uk/weather/articles/cpq0zqepnrlo#0",
@@ -199,11 +201,10 @@
         "https://www.bbc.co.uk/news/articles/c87vg9x5d7do#1",
         "https://www.bbc.co.uk/news/articles/clyl8965j5go#1",
         "https://www.bbc.co.uk/news/articles/cq5xdnxppl4o#1",
-        "https://www.bbc.co.uk/sport/american-football/articles/cew9l95kyp0o#1",
-        "https://www.bbc.co.uk/news/articles/c0m3npvpgdno#1",
-        "https://www.bbc.co.uk/news/articles/c046peqrg9xo#0"
+        "https://www.bbc.co.uk/sport/american-football/articles/cew9l95kyp0o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260828de46966",
         "https://news.web.nhk/newsweb/na/nd-20260828de46914",
         "https://news.web.nhk/newsweb/na/nd-20260828de46922",
         "https://news.web.nhk/newsweb/na/nd-20260828de46919",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260826de46505",
         "https://news.web.nhk/newsweb/na/nd-20260823de45846",
         "https://news.web.nhk/newsweb/na/nd-20260826de46396",
-        "https://news.web.nhk/newsweb/na/nd-20260826de46487",
-        "https://news.web.nhk/newsweb/na/nd-20260826de46488"
+        "https://news.web.nhk/newsweb/na/nd-20260826de46487"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/iphone-18-18pro-rumors-summary/",
