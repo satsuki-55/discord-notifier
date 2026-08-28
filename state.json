@@ -204,6 +204,9 @@
         "https://www.bbc.co.uk/news/articles/cq5xe813w1do#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260828de46937",
+        "https://news.web.nhk/newsweb/na/nd-20260828de47000",
+        "https://news.web.nhk/newsweb/na/nd-20260828de47070",
         "https://news.web.nhk/newsweb/na/nd-20260828de47073",
         "https://news.web.nhk/newsweb/na/nd-20260828de47086",
         "https://news.web.nhk/newsweb/na/nd-20260828de47066",
@@ -400,12 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260827de46586",
         "https://news.web.nhk/newsweb/na/nd-20260827de46580",
         "https://news.web.nhk/newsweb/na/nd-20260827de46584",
-        "https://news.web.nhk/newsweb/na/nd-20260827de46583",
-        "https://news.web.nhk/newsweb/na/nd-20260827de46576",
-        "https://news.web.nhk/newsweb/na/nd-20260827de46577",
-        "https://news.web.nhk/newsweb/na/nd-20260826de46512"
+        "https://news.web.nhk/newsweb/na/nd-20260827de46583"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/insta-360-go-ultra/",
         "https://www.gizmodo.jp/article/fitbit-pokemon-sleep/",
         "https://www.gizmodo.jp/article/bose-quietcomfort-headphones-2nd-gen-review-still-more-quiet-and-comfortable-than-most/",
         "https://www.gizmodo.jp/article/samsung_galaxy_s26_fe_release/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/soxai-ring-x/",
         "https://www.gizmodo.jp/article/apple_visionpro_yet/",
         "https://www.gizmodo.jp/article/the_north_face_re_activ_sneaker/",
-        "https://www.gizmodo.jp/article/muji-kazeganukeru-helmet/",
-        "https://www.gizmodo.jp/article/zebra-elecom-stylus-2way/"
+        "https://www.gizmodo.jp/article/muji-kazeganukeru-helmet/"
     ]
 }
