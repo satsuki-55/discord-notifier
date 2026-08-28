@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c046peqrg9xo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260828de46923",
         "https://news.web.nhk/newsweb/na/nd-20260828de46910",
         "https://news.web.nhk/newsweb/na/nd-20260828de46872",
         "https://news.web.nhk/newsweb/na/nd-20260826de46360",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260826de46481",
         "https://news.web.nhk/newsweb/na/nd-20260826de46464",
         "https://news.web.nhk/newsweb/na/nd-20260823de45876",
-        "https://news.web.nhk/newsweb/na/nd-20260826de46478",
-        "https://news.web.nhk/newsweb/na/nd-20260826de46459"
+        "https://news.web.nhk/newsweb/na/nd-20260826de46478"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/nape-pro-now-on-sale/",
