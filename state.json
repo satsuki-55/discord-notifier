@@ -2,6 +2,9 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "7Of_b-9wCm8",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "ApfAF7vfpD8",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c0j38d9v40po#0",
+        "https://www.bbc.co.uk/news/articles/cm2q7z5mlrmo#1",
+        "https://www.bbc.co.uk/news/articles/c3d7exngd5no#1",
         "https://www.bbc.co.uk/news/videos/cj06j16vpr5o#0",
         "https://www.bbc.co.uk/news/articles/c93v70w79gxo#1",
         "https://www.bbc.co.uk/news/articles/cx2zn9zj361o#0",
@@ -198,12 +201,10 @@
         "https://www.bbc.co.uk/news/articles/c24j39jqy2go#0",
         "https://www.bbc.co.uk/news/articles/cz9xdl4g25zo#1",
         "https://www.bbc.co.uk/news/videos/c20ljnlpd3vo#1",
-        "https://www.bbc.co.uk/news/articles/c790n1vj27no#1",
-        "https://www.bbc.co.uk/news/videos/cddv441nyn1o#1",
-        "https://www.bbc.co.uk/news/articles/czdz13elezlo#0",
-        "https://www.bbc.co.uk/news/articles/c0klj7ykp81o#0"
+        "https://www.bbc.co.uk/news/articles/c790n1vj27no#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260828de47089",
         "https://news.web.nhk/newsweb/na/nd-20260827de46580",
         "https://news.web.nhk/newsweb/na/nd-20260828de47068",
         "https://news.web.nhk/newsweb/na/nd-20260828de47071",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260827de46588",
         "https://news.web.nhk/newsweb/na/nd-20260826de46568",
         "https://news.web.nhk/newsweb/na/nd-20260826de46552",
-        "https://news.web.nhk/newsweb/na/nd-20260827de46585",
-        "https://news.web.nhk/newsweb/na/nd-20260826de46560"
+        "https://news.web.nhk/newsweb/na/nd-20260827de46585"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/amazon-roomba-mini-slim-sale/",
