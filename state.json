@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/cz7z34vvxvlo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260828de46874",
+        "https://news.web.nhk/newsweb/na/nd-20260828de46879",
         "https://news.web.nhk/newsweb/na/nd-20260828de46878",
         "https://news.web.nhk/newsweb/na/nd-20260828de46876",
         "https://news.web.nhk/newsweb/na/nd-20260828de46864",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260826de46466",
         "https://news.web.nhk/newsweb/na/nd-20260826de46360",
         "https://news.web.nhk/newsweb/na/nd-20260826de46462",
-        "https://news.web.nhk/newsweb/na/nd-20260826de46401",
-        "https://news.web.nhk/newsweb/na/nd-20260826de46460",
-        "https://news.web.nhk/newsweb/na/nd-20260826de46453"
+        "https://news.web.nhk/newsweb/na/nd-20260826de46401"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/incase_tracks-two-way-brief-6co/",
