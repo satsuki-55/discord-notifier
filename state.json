@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cq5xe813w1do#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260828de47086",
         "https://news.web.nhk/newsweb/na/nd-20260828de47066",
         "https://news.web.nhk/newsweb/na/nd-20260828de47040",
         "https://news.web.nhk/newsweb/na/nd-20260828de47034",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260827de46576",
         "https://news.web.nhk/newsweb/na/nd-20260827de46577",
         "https://news.web.nhk/newsweb/na/nd-20260826de46512",
-        "https://news.web.nhk/newsweb/na/nd-20260827de46574",
-        "https://news.web.nhk/newsweb/na/nd-20260827de46570"
+        "https://news.web.nhk/newsweb/na/nd-20260827de46574"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/bose-quietcomfort-headphones-2nd-gen-review-still-more-quiet-and-comfortable-than-most/",
