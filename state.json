@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260826de46561"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/samsung_galaxy_s26_fe_release/",
         "https://www.gizmodo.jp/article/gizmodo-japan-20th-soko/",
         "https://www.gizmodo.jp/article/grivx-richo/",
         "https://www.gizmodo.jp/article/asoboze_umbrella-bag_regile/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/muji-kazeganukeru-helmet/",
         "https://www.gizmodo.jp/article/zebra-elecom-stylus-2way/",
         "https://www.gizmodo.jp/article/openai-launches-chatgpt-for-teens-to-prevent-kids-from-emotionally-bonding-with-bots/",
-        "https://www.gizmodo.jp/article/giz-20th_kenthasegawa/",
-        "https://www.gizmodo.jp/article/iphone_applecare_need_notneed/"
+        "https://www.gizmodo.jp/article/giz-20th_kenthasegawa/"
     ]
 }
