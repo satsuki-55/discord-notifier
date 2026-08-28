@@ -2,6 +2,8 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "myGpwvuVMkI",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "ApfAF7vfpD8",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cy0je597ep9o#0",
+        "https://www.bbc.co.uk/news/articles/cx2zllwewlko#1",
         "https://www.bbc.co.uk/news/articles/cz0z4k28804o#1",
         "https://www.bbc.co.uk/news/videos/c3v4lrp951xo#1",
         "https://www.bbc.co.uk/news/articles/c93v70w79gxo#0",
@@ -199,11 +201,10 @@
         "https://www.bbc.co.uk/news/articles/c74k8zwvez0o#1",
         "https://www.bbc.co.uk/news/articles/c74k8zwvez0o#0",
         "https://www.bbc.co.uk/news/articles/c07lng44ng5o#1",
-        "https://www.bbc.co.uk/news/articles/ce308l1w5q5o#0",
-        "https://www.bbc.co.uk/news/articles/cn0j3z6147jo#1",
-        "https://www.bbc.co.uk/news/articles/cz6zwgg9y8go#0"
+        "https://www.bbc.co.uk/news/articles/ce308l1w5q5o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260828de46893",
         "https://news.web.nhk/newsweb/na/nd-20260828de46897",
         "https://news.web.nhk/newsweb/na/nd-20260828de47022",
         "https://news.web.nhk/newsweb/na/nd-20260828de46953",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260823de45901",
         "https://news.web.nhk/newsweb/na/nd-20260826de46504",
         "https://news.web.nhk/newsweb/na/nd-20260826de46529",
-        "https://news.web.nhk/newsweb/na/nd-20260826de46522",
-        "https://news.web.nhk/newsweb/na/nd-20260826de46414"
+        "https://news.web.nhk/newsweb/na/nd-20260826de46522"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/sanwa-supply-tk-cap8bk-bei/",
