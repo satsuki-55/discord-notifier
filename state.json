@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "KlVWqGpQkEw",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "ApfAF7vfpD8",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cdj43zkjweyo#0",
         "https://www.bbc.co.uk/news/videos/cddv0rldqqlo#0",
         "https://www.bbc.co.uk/weather/articles/ckgw9jvd4xxo#0",
         "https://www.bbc.co.uk/news/articles/cy0je597ep9o#0",
@@ -200,10 +201,14 @@
         "https://www.bbc.co.uk/news/articles/c0klj7ykp81o#0",
         "https://www.bbc.co.uk/news/articles/cq5xe813w1do#0",
         "https://www.bbc.co.uk/news/articles/crk3dxj6zneo#0",
-        "https://www.bbc.co.uk/news/articles/c74k8zwvez0o#1",
-        "https://www.bbc.co.uk/news/articles/c74k8zwvez0o#0"
+        "https://www.bbc.co.uk/news/articles/c74k8zwvez0o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260828de47040",
+        "https://news.web.nhk/newsweb/na/nd-20260828de47034",
+        "https://news.web.nhk/newsweb/na/nd-20260828de47045",
+        "https://news.web.nhk/newsweb/na/nd-20260828de47050",
+        "https://news.web.nhk/newsweb/na/nd-20260828de47037",
         "https://news.web.nhk/newsweb/na/nd-20260826de46544",
         "https://news.web.nhk/newsweb/na/nd-20260828de47049",
         "https://news.web.nhk/newsweb/na/nd-20260828de47056",
@@ -398,12 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260826de46512",
         "https://news.web.nhk/newsweb/na/nd-20260827de46574",
         "https://news.web.nhk/newsweb/na/nd-20260827de46570",
-        "https://news.web.nhk/newsweb/na/nd-20260826de46537",
-        "https://news.web.nhk/newsweb/na/nd-20260826de46562",
-        "https://news.web.nhk/newsweb/na/nd-20260826de46564",
-        "https://news.web.nhk/newsweb/na/nd-20260826de46565",
-        "https://news.web.nhk/newsweb/na/nd-20260826de46566",
-        "https://news.web.nhk/newsweb/na/nd-20260826de46561"
+        "https://news.web.nhk/newsweb/na/nd-20260826de46537"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/samsung_galaxy_s26_fe_release/",
