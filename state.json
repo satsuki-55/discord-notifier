@@ -1,6 +1,6 @@
 {
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "7Of_b-9wCm8",
-    "youtube:UCjJmYy279ehSYSwR1A3fXtA": "ApfAF7vfpD8",
+    "youtube:UCjJmYy279ehSYSwR1A3fXtA": "Twg-dVr9PHs",
     "rss:bbc": [
         "https://www.bbc.co.uk/news/articles/c5ydgk3v60eo#0",
         "https://www.bbc.co.uk/news/articles/c1j4rkywx3lo#0",
@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c70ljqk5kjqo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260828de47114",
         "https://news.web.nhk/newsweb/na/nd-20260828de47107",
         "https://news.web.nhk/newsweb/na/nd-20260828de47099",
         "https://news.web.nhk/newsweb/na/nd-20260828de47091",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260827de46596",
         "https://news.web.nhk/newsweb/na/nd-20260827de46594",
         "https://news.web.nhk/newsweb/na/nd-20260827de46593",
-        "https://news.web.nhk/newsweb/na/nd-20260827de46592",
-        "https://news.web.nhk/newsweb/na/nd-20260827de46591"
+        "https://news.web.nhk/newsweb/na/nd-20260827de46592"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/deformable-display-nhk-cki/",
