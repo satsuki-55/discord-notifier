@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "7Of_b-9wCm8",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "ApfAF7vfpD8",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cd08g4pjkymo#1",
         "https://www.bbc.co.uk/news/articles/ce8x96rw79ro#1",
         "https://www.bbc.co.uk/sport/football/articles/c4gk206k95xo#0",
         "https://www.bbc.co.uk/news/articles/cp841114eg6o#0",
@@ -200,10 +201,12 @@
         "https://www.bbc.co.uk/news/articles/c5ye3ld87y1o#0",
         "https://www.bbc.co.uk/news/articles/cd68q3wynnqo#0",
         "https://www.bbc.co.uk/news/articles/c804rd7leppo#0",
-        "https://www.bbc.co.uk/news/videos/c62jmlgev3po#0",
-        "https://www.bbc.co.uk/news/articles/c62eg71e1z2o#0"
+        "https://www.bbc.co.uk/news/videos/c62jmlgev3po#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260828de47091",
+        "https://news.web.nhk/newsweb/na/nd-20260826de46568",
+        "https://news.web.nhk/newsweb/na/nd-20260828de47096",
         "https://news.web.nhk/newsweb/na/nd-20260828de47041",
         "https://news.web.nhk/newsweb/na/nd-20260828de47088",
         "https://news.web.nhk/newsweb/na/nd-20260828de47089",
@@ -400,10 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260827de46592",
         "https://news.web.nhk/newsweb/na/nd-20260827de46591",
         "https://news.web.nhk/newsweb/na/nd-20260827de46590",
-        "https://news.web.nhk/newsweb/na/nd-20260827de46581",
-        "https://news.web.nhk/newsweb/na/nd-20260827de46589",
-        "https://news.web.nhk/newsweb/na/nd-20260827de46588",
-        "https://news.web.nhk/newsweb/na/nd-20260826de46568"
+        "https://news.web.nhk/newsweb/na/nd-20260827de46581"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/bousai-goods-government-list/",
