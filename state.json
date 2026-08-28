@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cq5xe813w1do#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260828de47073",
         "https://news.web.nhk/newsweb/na/nd-20260828de47086",
         "https://news.web.nhk/newsweb/na/nd-20260828de47066",
         "https://news.web.nhk/newsweb/na/nd-20260828de47040",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260827de46583",
         "https://news.web.nhk/newsweb/na/nd-20260827de46576",
         "https://news.web.nhk/newsweb/na/nd-20260827de46577",
-        "https://news.web.nhk/newsweb/na/nd-20260826de46512",
-        "https://news.web.nhk/newsweb/na/nd-20260827de46574"
+        "https://news.web.nhk/newsweb/na/nd-20260826de46512"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/fitbit-pokemon-sleep/",
         "https://www.gizmodo.jp/article/bose-quietcomfort-headphones-2nd-gen-review-still-more-quiet-and-comfortable-than-most/",
         "https://www.gizmodo.jp/article/samsung_galaxy_s26_fe_release/",
         "https://www.gizmodo.jp/article/gizmodo-japan-20th-soko/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/apple_visionpro_yet/",
         "https://www.gizmodo.jp/article/the_north_face_re_activ_sneaker/",
         "https://www.gizmodo.jp/article/muji-kazeganukeru-helmet/",
-        "https://www.gizmodo.jp/article/zebra-elecom-stylus-2way/",
-        "https://www.gizmodo.jp/article/openai-launches-chatgpt-for-teens-to-prevent-kids-from-emotionally-bonding-with-bots/"
+        "https://www.gizmodo.jp/article/zebra-elecom-stylus-2way/"
     ]
 }
