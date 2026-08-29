@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cd68q3wynnqo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260828de46960",
         "https://news.web.nhk/newsweb/na/nd-20260829de47143",
         "https://news.web.nhk/newsweb/na/nd-20260829de47140",
         "https://news.web.nhk/newsweb/na/nd-20260829de47138",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260827de46621",
         "https://news.web.nhk/newsweb/na/nd-20260827de46616",
         "https://news.web.nhk/newsweb/na/nd-20260827de46617",
-        "https://news.web.nhk/newsweb/na/nd-20260827de46608",
-        "https://news.web.nhk/newsweb/na/nd-20260827de46609"
+        "https://news.web.nhk/newsweb/na/nd-20260827de46608"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/mummified-human-remains-are-being-sold-online-biohazards-included/",
         "https://www.gizmodo.jp/article/3ccoins-water-drink-band/",
         "https://www.gizmodo.jp/article/orca-echo-setting/",
         "https://www.gizmodo.jp/article/urbanoid-booba-wzs/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/21972617-704b-4ee4-a665-9e737a98d888/",
         "https://www.gizmodo.jp/article/apple-might-finally-let-you-copy-and-paste-from-iphone-to-windows/",
         "https://www.gizmodo.jp/article/the_movie_her_ai_chatbot/",
-        "https://www.gizmodo.jp/article/amazon-basic-wireless-charger/",
-        "https://www.gizmodo.jp/article/razer-is-back-with-another-insufferably-cute-gaming-headset/"
+        "https://www.gizmodo.jp/article/amazon-basic-wireless-charger/"
     ]
 }
