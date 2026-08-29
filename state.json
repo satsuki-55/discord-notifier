@@ -2,6 +2,8 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "mGdf0NpEKOo",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "igApwxB8a-E",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cvgy48r1nr4o#0",
+        "https://www.bbc.co.uk/news/articles/cx2z415w2gpo#1",
         "https://www.bbc.co.uk/news/articles/c86xwqez4npo#0",
         "https://www.bbc.co.uk/news/articles/c4gj2dl4x52o#1",
         "https://www.bbc.co.uk/news/articles/cy8z9084d00o#1",
@@ -199,11 +201,10 @@
         "https://www.bbc.co.uk/news/articles/c20vmp1v3rdo#1",
         "https://www.bbc.co.uk/weather/articles/c5y4n7y89w7o#0",
         "https://www.bbc.co.uk/news/articles/cly464k252yo#0",
-        "https://www.bbc.co.uk/news/articles/cd948kn02e5o#0",
-        "https://www.bbc.co.uk/news/articles/cqxvrnvrr5do#0",
-        "https://www.bbc.co.uk/news/articles/cvgyd4x6nj4o#1"
+        "https://www.bbc.co.uk/news/articles/cd948kn02e5o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260829de47170",
         "https://news.web.nhk/newsweb/na/nd-20260829de47155",
         "https://news.web.nhk/newsweb/na/nd-20260829de47164",
         "https://news.web.nhk/newsweb/na/nd-20260829de47145",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260827de46624",
         "https://news.web.nhk/newsweb/na/nd-20260827de46623",
         "https://news.web.nhk/newsweb/na/nd-20260827de46633",
-        "https://news.web.nhk/newsweb/na/nd-20260827de46651",
-        "https://news.web.nhk/newsweb/na/nd-20260827de46628"
+        "https://news.web.nhk/newsweb/na/nd-20260827de46651"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/ugreen_magflow-pro_magnetic-wireless-car-charger/",
