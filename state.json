@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "mGdf0NpEKOo",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "igApwxB8a-E",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cy8z9084d00o#1",
         "https://www.bbc.co.uk/news/articles/c20vl4vm2pno#0",
         "https://www.bbc.co.uk/news/articles/cpwlrrzp8eeo#0",
         "https://www.bbc.co.uk/news/articles/c158939pz4do#0",
@@ -200,8 +201,7 @@
         "https://www.bbc.co.uk/news/articles/cqxvrnvrr5do#0",
         "https://www.bbc.co.uk/news/articles/cvgyd4x6nj4o#1",
         "https://www.bbc.co.uk/news/articles/clyq4ge4wk9o#1",
-        "https://www.bbc.co.uk/news/articles/cqxvrl744nyo#1",
-        "https://www.bbc.co.uk/news/videos/c1e58wlzxnqo#0"
+        "https://www.bbc.co.uk/news/articles/cqxvrl744nyo#1"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20260827de46626",
@@ -406,6 +406,8 @@
         "https://news.web.nhk/newsweb/na/nd-20260827de46646"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/elecom_items/",
+        "https://www.gizmodo.jp/article/campingcar_matome-yjo/",
         "https://www.gizmodo.jp/article/amazon-ugreen-finetrack-duo-2/",
         "https://www.gizmodo.jp/article/heliox-agao/",
         "https://www.gizmodo.jp/article/nexus-p-1/",
@@ -603,8 +605,6 @@
         "https://www.gizmodo.jp/article/deep_robotics_dr02/",
         "https://www.gizmodo.jp/article/galaxy_z_fold8_passport_size_foldable_smartphone/",
         "https://www.gizmodo.jp/article/prj-b001ex-1jr/",
-        "https://www.gizmodo.jp/article/nanga_compact_umbrella_review/",
-        "https://www.gizmodo.jp/article/the-weirdest-theory-yet-for-why-life-on-earth-suddenly-exploded/",
-        "https://www.gizmodo.jp/article/21972617-704b-4ee4-a665-9e737a98d888/"
+        "https://www.gizmodo.jp/article/nanga_compact_umbrella_review/"
     ]
 }
