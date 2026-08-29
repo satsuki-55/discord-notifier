@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cd68q3wynnqo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260829de47122",
         "https://news.web.nhk/newsweb/na/nd-20260829de47128",
         "https://news.web.nhk/newsweb/na/nd-20260829de47120",
         "https://news.web.nhk/newsweb/na/nd-20260828de47111",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260827de46606",
         "https://news.web.nhk/newsweb/na/nd-20260827de46607",
         "https://news.web.nhk/newsweb/na/nd-20260827de46610",
-        "https://news.web.nhk/newsweb/na/nd-20260826de46493",
-        "https://news.web.nhk/newsweb/na/nd-20260824de46046"
+        "https://news.web.nhk/newsweb/na/nd-20260826de46493"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/amazon-cio-usb-c-magsafe-connector/",
