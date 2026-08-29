@@ -2,6 +2,11 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "7Of_b-9wCm8",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "igApwxB8a-E",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cd08z840p8lo#0",
+        "https://www.bbc.co.uk/news/videos/cj06j16vpr5o#1",
+        "https://www.bbc.co.uk/news/articles/cd68vpjv21do#1",
+        "https://www.bbc.co.uk/news/articles/c70d41g40njo#1",
+        "https://www.bbc.co.uk/news/videos/cx2z81kmeggo#1",
         "https://www.bbc.co.uk/news/articles/cr4vx4pneydo#0",
         "https://www.bbc.co.uk/news/articles/cn45vdxyvvlo#0",
         "https://www.bbc.co.uk/news/articles/c5y4512mlxdo#1",
@@ -196,12 +201,7 @@
         "https://www.bbc.co.uk/news/articles/c20vl4vm2pno#0",
         "https://www.bbc.co.uk/news/articles/cnvlde5075no#0",
         "https://www.bbc.co.uk/news/articles/cvgy3d0j6pgo#0",
-        "https://www.bbc.co.uk/news/articles/cd948kn02e5o#1",
-        "https://www.bbc.co.uk/news/articles/cn9n9n5p9eqo#1",
-        "https://www.bbc.co.uk/news/videos/cq63431rgljo#0",
-        "https://www.bbc.co.uk/news/articles/cd08z840p8lo#0",
-        "https://www.bbc.co.uk/news/articles/cddv43d4jn2o#0",
-        "https://www.bbc.co.uk/news/articles/cd68q3wynnqo#1"
+        "https://www.bbc.co.uk/news/articles/cd948kn02e5o#1"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20260829de47162",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260827de46625"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/heliox-agao/",
         "https://www.gizmodo.jp/article/nexus-p-1/",
         "https://www.gizmodo.jp/article/mummified-human-remains-are-being-sold-online-biohazards-included/",
         "https://www.gizmodo.jp/article/3ccoins-water-drink-band/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/nanga_compact_umbrella_review/",
         "https://www.gizmodo.jp/article/the-weirdest-theory-yet-for-why-life-on-earth-suddenly-exploded/",
         "https://www.gizmodo.jp/article/21972617-704b-4ee4-a665-9e737a98d888/",
-        "https://www.gizmodo.jp/article/apple-might-finally-let-you-copy-and-paste-from-iphone-to-windows/",
-        "https://www.gizmodo.jp/article/the_movie_her_ai_chatbot/"
+        "https://www.gizmodo.jp/article/apple-might-finally-let-you-copy-and-paste-from-iphone-to-windows/"
     ]
 }
