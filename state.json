@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/c70dwxr321ro#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260827de46651",
+        "https://news.web.nhk/newsweb/na/nd-20260829de47180",
         "https://news.web.nhk/newsweb/na/nd-20260829de47170",
         "https://news.web.nhk/newsweb/na/nd-20260829de47155",
         "https://news.web.nhk/newsweb/na/nd-20260829de47164",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260826de46449",
         "https://news.web.nhk/newsweb/na/nd-20260827de46652",
         "https://news.web.nhk/newsweb/na/nd-20260827de46624",
-        "https://news.web.nhk/newsweb/na/nd-20260827de46623",
-        "https://news.web.nhk/newsweb/na/nd-20260827de46633",
-        "https://news.web.nhk/newsweb/na/nd-20260827de46651"
+        "https://news.web.nhk/newsweb/na/nd-20260827de46623"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/amazon-matech-magon-watch-flexstand-5000-semicore/",
