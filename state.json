@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "mGdf0NpEKOo",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "igApwxB8a-E",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cew92lp2g45o#0",
         "https://www.bbc.co.uk/news/articles/czeznrgyd1go#0",
         "https://www.bbc.co.uk/news/articles/cn8ej0zvppxo#0",
         "https://www.bbc.co.uk/news/articles/cvgym9rz07zo#0",
@@ -200,10 +201,10 @@
         "https://www.bbc.co.uk/news/articles/cx2zy2gw3vdo#1",
         "https://www.bbc.co.uk/news/articles/c62egy4e2l7o#0",
         "https://www.bbc.co.uk/news/articles/cm27y2dx7pwo#0",
-        "https://www.bbc.co.uk/news/articles/cd08zzev8lno#1",
-        "https://www.bbc.co.uk/news/articles/cpwl54kddeko#0"
+        "https://www.bbc.co.uk/news/articles/cd08zzev8lno#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260830de47234",
         "https://news.web.nhk/newsweb/na/nd-20260829de47173",
         "https://news.web.nhk/newsweb/na/nd-20260830de47225",
         "https://news.web.nhk/newsweb/na/nd-20260829de47172",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260827de46753",
         "https://news.web.nhk/newsweb/na/nd-20260827de46769",
         "https://news.web.nhk/newsweb/na/nd-20260825de46130",
-        "https://news.web.nhk/newsweb/na/nd-20260827de46761",
-        "https://news.web.nhk/newsweb/na/nd-20260827de46747"
+        "https://news.web.nhk/newsweb/na/nd-20260827de46761"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/gut-microbiota-and-colorectal-cancer-risk/",
