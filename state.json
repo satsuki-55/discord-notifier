@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cd68q3wynnqo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260829de47150",
         "https://news.web.nhk/newsweb/na/nd-20260829de47147",
         "https://news.web.nhk/newsweb/na/nd-20260829de47153",
         "https://news.web.nhk/newsweb/na/nd-20260828de46960",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260827de46625",
         "https://news.web.nhk/newsweb/na/nd-20260827de46613",
         "https://news.web.nhk/newsweb/na/nd-20260827de46619",
-        "https://news.web.nhk/newsweb/na/nd-20260827de46621",
-        "https://news.web.nhk/newsweb/na/nd-20260827de46616"
+        "https://news.web.nhk/newsweb/na/nd-20260827de46621"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/mummified-human-remains-are-being-sold-online-biohazards-included/",
