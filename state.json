@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cvgyd4x6nj4o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260829de47155",
         "https://news.web.nhk/newsweb/na/nd-20260829de47164",
         "https://news.web.nhk/newsweb/na/nd-20260829de47145",
         "https://news.web.nhk/newsweb/na/nd-20260827de46626",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260827de46623",
         "https://news.web.nhk/newsweb/na/nd-20260827de46633",
         "https://news.web.nhk/newsweb/na/nd-20260827de46651",
-        "https://news.web.nhk/newsweb/na/nd-20260827de46628",
-        "https://news.web.nhk/newsweb/na/nd-20260827de46647"
+        "https://news.web.nhk/newsweb/na/nd-20260827de46628"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/ugreen_magflow-pro_magnetic-wireless-car-charger/",
         "https://www.gizmodo.jp/article/elecom_items/",
         "https://www.gizmodo.jp/article/campingcar_matome-yjo/",
         "https://www.gizmodo.jp/article/amazon-ugreen-finetrack-duo-2/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/keychron_orca-echo_put-in-between/",
         "https://www.gizmodo.jp/article/deep_robotics_dr02/",
         "https://www.gizmodo.jp/article/galaxy_z_fold8_passport_size_foldable_smartphone/",
-        "https://www.gizmodo.jp/article/prj-b001ex-1jr/",
-        "https://www.gizmodo.jp/article/nanga_compact_umbrella_review/"
+        "https://www.gizmodo.jp/article/prj-b001ex-1jr/"
     ]
 }
