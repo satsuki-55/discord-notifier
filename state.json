@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "7Of_b-9wCm8",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "Twg-dVr9PHs",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cn45vdxyvvlo#0",
         "https://www.bbc.co.uk/news/articles/c5y4512mlxdo#1",
         "https://www.bbc.co.uk/weather/articles/c1l6g7gqm37o#0",
         "https://www.bbc.co.uk/news/articles/c23x8k1ry27o#0",
@@ -200,8 +201,7 @@
         "https://www.bbc.co.uk/news/articles/cd08z840p8lo#0",
         "https://www.bbc.co.uk/news/articles/cddv43d4jn2o#0",
         "https://www.bbc.co.uk/news/articles/cd68q3wynnqo#1",
-        "https://www.bbc.co.uk/news/articles/cn9n9n5p9eqo#0",
-        "https://www.bbc.co.uk/news/articles/c5yd92gkk7vo#1"
+        "https://www.bbc.co.uk/news/articles/cn9n9n5p9eqo#0"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20260828de47092",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260827de46604"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/famima-azabudai/",
         "https://www.gizmodo.jp/article/xiaomi-redmi-pad-2-sale/",
         "https://www.gizmodo.jp/article/keychron-g6-he-ultralight_three_days_left/",
         "https://www.gizmodo.jp/article/gizmodo-japan-20th-machiko/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/samsung-odyssey-g80hs-monitor-review-6k-isnt-the-future-of-gaming/",
         "https://www.gizmodo.jp/article/google-pixel-11_11pro_first-impression/",
         "https://www.gizmodo.jp/article/keyboard-survey-orca-echo/",
-        "https://www.gizmodo.jp/article/pixel-11-pro-fold_first-impression/",
-        "https://www.gizmodo.jp/article/95bb17e9-cd91-4b97-9fb1-32c342eb3181/"
+        "https://www.gizmodo.jp/article/pixel-11-pro-fold_first-impression/"
     ]
 }
