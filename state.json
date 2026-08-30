@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cew92l07kwzo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260830de47299",
         "https://news.web.nhk/newsweb/na/nd-20260830de47296",
         "https://news.web.nhk/newsweb/na/nd-20260830de47290",
         "https://news.web.nhk/newsweb/na/nd-20260830de47293",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260828de46839",
         "https://news.web.nhk/newsweb/na/nd-20260827de46793",
         "https://news.web.nhk/newsweb/na/nd-20260827de46670",
-        "https://news.web.nhk/newsweb/na/nd-20260825de46292",
-        "https://news.web.nhk/newsweb/na/nd-20260827de46821"
+        "https://news.web.nhk/newsweb/na/nd-20260825de46292"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/car_life_improvement/",
