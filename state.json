@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "1jO8vGxdH4s",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "igApwxB8a-E",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cx279dml00ro#0",
         "https://www.bbc.co.uk/news/articles/czxqk1gwxn7o#0",
         "https://www.bbc.co.uk/news/articles/c3d7xgge7vgo#0",
         "https://www.bbc.co.uk/news/articles/c0kl40d3011o#0",
@@ -200,10 +201,10 @@
         "https://www.bbc.co.uk/news/articles/cz0zm4pzme2o#0",
         "https://www.bbc.co.uk/news/articles/c9v4w77d9m8o#0",
         "https://www.bbc.co.uk/news/articles/c5y4512mlxdo#0",
-        "https://www.bbc.co.uk/news/articles/cz0z4k28804o#0",
-        "https://www.bbc.co.uk/news/articles/cg49q4xydq0o#1"
+        "https://www.bbc.co.uk/news/articles/cz0z4k28804o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260828de46832",
         "https://news.web.nhk/newsweb/na/nd-20260831de47326",
         "https://news.web.nhk/newsweb/na/nd-20260830de47297",
         "https://news.web.nhk/newsweb/na/nd-20260830de47307",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260828de46863",
         "https://news.web.nhk/newsweb/na/nd-20260828de46862",
         "https://news.web.nhk/newsweb/na/nd-20260827de46829",
-        "https://news.web.nhk/newsweb/na/nd-20260828de46859",
-        "https://news.web.nhk/newsweb/na/nd-20260828de46850"
+        "https://news.web.nhk/newsweb/na/nd-20260828de46859"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/keychron-g6-he-ultralight_one_day_left/",
