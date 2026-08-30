@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cx2zy2gw3vdo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260830de47235",
         "https://news.web.nhk/newsweb/na/nd-20260830de47243",
         "https://news.web.nhk/newsweb/na/nd-20260830de47241",
         "https://news.web.nhk/newsweb/na/nd-20260830de47230",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260826de46556",
         "https://news.web.nhk/newsweb/na/nd-20260827de46760",
         "https://news.web.nhk/newsweb/na/nd-20260827de46782",
-        "https://news.web.nhk/newsweb/na/nd-20260827de46778",
-        "https://news.web.nhk/newsweb/na/nd-20260827de46754"
+        "https://news.web.nhk/newsweb/na/nd-20260827de46778"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/keychron-g6-he-ultralight_two_days_left/",
