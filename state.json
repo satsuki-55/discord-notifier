@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c0lrwlzrk86o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260830de47309",
         "https://news.web.nhk/newsweb/na/nd-20260830de47306",
         "https://news.web.nhk/newsweb/na/nd-20260830de47287",
         "https://news.web.nhk/newsweb/na/nd-20260830de47305",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260828de46847",
         "https://news.web.nhk/newsweb/na/nd-20260828de46846",
         "https://news.web.nhk/newsweb/na/nd-20260828de46844",
-        "https://news.web.nhk/newsweb/na/nd-20260828de46843",
-        "https://news.web.nhk/newsweb/na/nd-20260828de46842"
+        "https://news.web.nhk/newsweb/na/nd-20260828de46843"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/swichbot-kata/",
