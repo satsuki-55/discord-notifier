@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cgjq49g8wwqo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260830de47270",
         "https://news.web.nhk/newsweb/na/nd-20260830de47202",
         "https://news.web.nhk/newsweb/na/nd-20260829de47178",
         "https://news.web.nhk/newsweb/na/nd-20260817de44572",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260827de46804",
         "https://news.web.nhk/newsweb/na/nd-20260825de46277",
         "https://news.web.nhk/newsweb/na/nd-20260827de46801",
-        "https://news.web.nhk/newsweb/na/nd-20260827de46809",
-        "https://news.web.nhk/newsweb/na/nd-20260827de46788"
+        "https://news.web.nhk/newsweb/na/nd-20260827de46809"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/litefar-b1/",
