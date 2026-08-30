@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/czxqk1gwxn7o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260830de47297",
+        "https://news.web.nhk/newsweb/na/nd-20260830de47307",
         "https://news.web.nhk/newsweb/na/nd-20260830de47318",
         "https://news.web.nhk/newsweb/na/nd-20260830de47304",
         "https://news.web.nhk/newsweb/na/nd-20260831de47330",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260827de46829",
         "https://news.web.nhk/newsweb/na/nd-20260828de46859",
         "https://news.web.nhk/newsweb/na/nd-20260828de46850",
-        "https://news.web.nhk/newsweb/na/nd-20260828de46832",
-        "https://news.web.nhk/newsweb/na/nd-20260828de46851",
-        "https://news.web.nhk/newsweb/na/nd-20260827de46806"
+        "https://news.web.nhk/newsweb/na/nd-20260828de46832"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/shiseido-ihada-reset-oil/",
