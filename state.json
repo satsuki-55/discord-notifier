@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/clyj56zjdxpo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260830de47305",
+        "https://news.web.nhk/newsweb/na/nd-20260830de47292",
         "https://news.web.nhk/newsweb/na/nd-20260830de47302",
         "https://news.web.nhk/newsweb/na/nd-20260830de47275",
         "https://news.web.nhk/newsweb/na/nd-20260826de46506",
@@ -401,11 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260828de46843",
         "https://news.web.nhk/newsweb/na/nd-20260828de46842",
         "https://news.web.nhk/newsweb/na/nd-20260827de46825",
-        "https://news.web.nhk/newsweb/na/nd-20260828de46841",
-        "https://news.web.nhk/newsweb/na/nd-20260828de46840",
-        "https://news.web.nhk/newsweb/na/nd-20260828de46839"
+        "https://news.web.nhk/newsweb/na/nd-20260828de46841"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/swichbot-kata/",
         "https://www.gizmodo.jp/article/nike_pegasus-plus-2/",
         "https://www.gizmodo.jp/article/car_life_improvement/",
         "https://www.gizmodo.jp/article/logicool-ergom575sp-pde/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/fred_olsen_1848_brizo_floating_solar_tech/",
         "https://www.gizmodo.jp/article/sennheisers-new-wireless-earbuds-actually-have-replaceable-batteries/",
         "https://www.gizmodo.jp/article/gaming-consoles-are-getting-wrecked-by-high-prices/",
-        "https://www.gizmodo.jp/article/these-70-smart-glasses-win-the-gold-medal-for-most-dubious-battery-life-claim/",
-        "https://www.gizmodo.jp/article/iphone12-6years-review/"
+        "https://www.gizmodo.jp/article/these-70-smart-glasses-win-the-gold-medal-for-most-dubious-battery-life-claim/"
     ]
 }
