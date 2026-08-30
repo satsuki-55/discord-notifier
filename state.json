@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c7v4353rry7o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260830de47279",
         "https://news.web.nhk/newsweb/na/nd-20260830de47274",
         "https://news.web.nhk/newsweb/na/nd-20260830de47267",
         "https://news.web.nhk/newsweb/na/nd-20260830de47269",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260827de46816",
         "https://news.web.nhk/newsweb/na/nd-20260827de46807",
         "https://news.web.nhk/newsweb/na/nd-20260825de46183",
-        "https://news.web.nhk/newsweb/na/nd-20260827de46805",
-        "https://news.web.nhk/newsweb/na/nd-20260827de46817"
+        "https://news.web.nhk/newsweb/na/nd-20260827de46805"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/nknot-pen-karabiner/",
         "https://www.gizmodo.jp/article/apple_airpods_max_care/",
         "https://www.gizmodo.jp/article/kagome-yasaitappuri-soup/",
         "https://www.gizmodo.jp/article/litefar-b1/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/iphone12-6years-review/",
         "https://www.gizmodo.jp/article/you-cant-get-food-out-of-a-data-center-family-rejects-26-million-offer-to-sell-their-farm-to-a-data-center/",
         "https://www.gizmodo.jp/article/photochromic_lenses_sunglasses/",
-        "https://www.gizmodo.jp/article/i-love-this-red-analogue-pocket-but-hate-the-supreme-logo/",
-        "https://www.gizmodo.jp/article/microplastics-detected-in-a-shellfish-living-in-the-most-remote-place-on-earth/"
+        "https://www.gizmodo.jp/article/i-love-this-red-analogue-pocket-but-hate-the-supreme-logo/"
     ]
 }
