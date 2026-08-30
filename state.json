@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cx2zy2gw3vdo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260830de47262",
         "https://news.web.nhk/newsweb/na/nd-20260830de47255",
         "https://news.web.nhk/newsweb/na/nd-20260830de47228",
         "https://news.web.nhk/newsweb/na/nd-20260830de47247",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260827de46783",
         "https://news.web.nhk/newsweb/na/nd-20260827de46774",
         "https://news.web.nhk/newsweb/na/nd-20260827de46784",
-        "https://news.web.nhk/newsweb/na/nd-20260827de46765",
-        "https://news.web.nhk/newsweb/na/nd-20260827de46756"
+        "https://news.web.nhk/newsweb/na/nd-20260827de46765"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/6years-with-iphonese2/",
