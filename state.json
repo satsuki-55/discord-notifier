@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/cx2z44982e4o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260828de47075",
+        "https://news.web.nhk/newsweb/na/nd-20260830de47310",
         "https://news.web.nhk/newsweb/na/nd-20260830de47311",
         "https://news.web.nhk/newsweb/na/nd-20260831de47324",
         "https://news.web.nhk/newsweb/na/nd-20260831de47328",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260828de46848",
         "https://news.web.nhk/newsweb/na/nd-20260827de46830",
         "https://news.web.nhk/newsweb/na/nd-20260828de46835",
-        "https://news.web.nhk/newsweb/na/nd-20260827de46819",
-        "https://news.web.nhk/newsweb/na/nd-20260827de46824",
-        "https://news.web.nhk/newsweb/na/nd-20260828de46852"
+        "https://news.web.nhk/newsweb/na/nd-20260827de46819"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/cnc-lathe-for-home-use-makera-z1-wnv/",
