@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cew92l07kwzo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260830de47275",
         "https://news.web.nhk/newsweb/na/nd-20260826de46506",
         "https://news.web.nhk/newsweb/na/nd-20260830de47299",
         "https://news.web.nhk/newsweb/na/nd-20260830de47296",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260828de46841",
         "https://news.web.nhk/newsweb/na/nd-20260828de46840",
         "https://news.web.nhk/newsweb/na/nd-20260828de46839",
-        "https://news.web.nhk/newsweb/na/nd-20260827de46793",
-        "https://news.web.nhk/newsweb/na/nd-20260827de46670"
+        "https://news.web.nhk/newsweb/na/nd-20260827de46793"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/nike_pegasus-plus-2/",
