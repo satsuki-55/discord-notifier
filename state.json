@@ -2,6 +2,8 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "1jO8vGxdH4s",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "igApwxB8a-E",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/czxqk1gwxn7o#0",
+        "https://www.bbc.co.uk/news/articles/c3d7xgge7vgo#0",
         "https://www.bbc.co.uk/news/articles/c0kl40d3011o#0",
         "https://www.bbc.co.uk/news/articles/clylkjyez1do#0",
         "https://www.bbc.co.uk/news/articles/c3d7exngd5no#0",
@@ -199,9 +201,7 @@
         "https://www.bbc.co.uk/news/articles/c9v4w77d9m8o#0",
         "https://www.bbc.co.uk/news/articles/c5y4512mlxdo#0",
         "https://www.bbc.co.uk/news/articles/cz0z4k28804o#0",
-        "https://www.bbc.co.uk/news/articles/cg49q4xydq0o#1",
-        "https://www.bbc.co.uk/news/articles/c4g3y6398nwo#1",
-        "https://www.bbc.co.uk/news/articles/czxqk1gwxn7o#0"
+        "https://www.bbc.co.uk/news/articles/cg49q4xydq0o#1"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20260830de47297",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260828de46832"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/keychron-g6-he-ultralight_one_day_left/",
         "https://www.gizmodo.jp/article/shiseido-ihada-reset-oil/",
         "https://www.gizmodo.jp/article/cnc-lathe-for-home-use-makera-z1-wnv/",
         "https://www.gizmodo.jp/article/anker-solix-c300-sale/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/nvidia_ai_trade/",
         "https://www.gizmodo.jp/article/pico-space-pro/",
         "https://www.gizmodo.jp/article/google-pixel-11-rambler/",
-        "https://www.gizmodo.jp/article/cases-for-the-iphone-18-pro-might-be-compatible-with-the-iphone-17-pro/",
-        "https://www.gizmodo.jp/article/apple-reportedly-testing-controversial-chinese-chips-as-memory-supply-crunch-intensifies/"
+        "https://www.gizmodo.jp/article/cases-for-the-iphone-18-pro-might-be-compatible-with-the-iphone-17-pro/"
     ]
 }
