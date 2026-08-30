@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260828de46859"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/orca-echo-keycaps/",
         "https://www.gizmodo.jp/article/keychron-g6-he-ultralight_one_day_left/",
         "https://www.gizmodo.jp/article/shiseido-ihada-reset-oil/",
         "https://www.gizmodo.jp/article/cnc-lathe-for-home-use-makera-z1-wnv/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/handfan/",
         "https://www.gizmodo.jp/article/nvidia_ai_trade/",
         "https://www.gizmodo.jp/article/pico-space-pro/",
-        "https://www.gizmodo.jp/article/google-pixel-11-rambler/",
-        "https://www.gizmodo.jp/article/cases-for-the-iphone-18-pro-might-be-compatible-with-the-iphone-17-pro/"
+        "https://www.gizmodo.jp/article/google-pixel-11-rambler/"
     ]
 }
