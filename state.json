@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cx2zy2gw3vdo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260830de47247",
         "https://news.web.nhk/newsweb/na/nd-20260830de47246",
         "https://news.web.nhk/newsweb/na/nd-20260830de47242",
         "https://news.web.nhk/newsweb/na/nd-20260830de47235",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260827de46765",
         "https://news.web.nhk/newsweb/na/nd-20260827de46756",
         "https://news.web.nhk/newsweb/na/nd-20260827de46776",
-        "https://news.web.nhk/newsweb/na/nd-20260826de46556",
-        "https://news.web.nhk/newsweb/na/nd-20260827de46760"
+        "https://news.web.nhk/newsweb/na/nd-20260826de46556"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/cordalock/",
         "https://www.gizmodo.jp/article/air-mattress-sale/",
         "https://www.gizmodo.jp/article/keychron-g6-he-ultralight_two_days_left/",
         "https://www.gizmodo.jp/article/gizmodo-japan-20th-onodera/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/exea_headrest_stick_fan_review/",
         "https://www.gizmodo.jp/article/newbalance_supercomp-elite-v6/",
         "https://www.gizmodo.jp/article/cabletime-screendock/",
-        "https://www.gizmodo.jp/article/oh-cool-ai-is-inventing-new-biological-viruses-now/",
-        "https://www.gizmodo.jp/article/xboxs-leaked-elite-3-controller-straddles-the-brands-warring-identities/"
+        "https://www.gizmodo.jp/article/oh-cool-ai-is-inventing-new-biological-viruses-now/"
     ]
 }
