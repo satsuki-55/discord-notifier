@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cx2zy2gw3vdo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260830de47265",
         "https://news.web.nhk/newsweb/na/nd-20260830de47268",
         "https://news.web.nhk/newsweb/na/nd-20260830de47264",
         "https://news.web.nhk/newsweb/na/nd-20260830de47262",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260817de44568",
         "https://news.web.nhk/newsweb/na/nd-20260827de46790",
         "https://news.web.nhk/newsweb/na/nd-20260827de46755",
-        "https://news.web.nhk/newsweb/na/nd-20260827de46783",
-        "https://news.web.nhk/newsweb/na/nd-20260827de46774"
+        "https://news.web.nhk/newsweb/na/nd-20260827de46783"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/mammoth-coffee-for-summer/",
