@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260827de46788"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/litefar-b1/",
         "https://www.gizmodo.jp/article/food_cover_yamajitsu_roomie/",
         "https://www.gizmodo.jp/article/salomon-running-belt/",
         "https://www.gizmodo.jp/article/mammoth-coffee-for-summer/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/i-love-this-red-analogue-pocket-but-hate-the-supreme-logo/",
         "https://www.gizmodo.jp/article/microplastics-detected-in-a-shellfish-living-in-the-most-remote-place-on-earth/",
         "https://www.gizmodo.jp/article/this-satellite-is-so-bright-it-could-fry-your-retinas-through-a-telescope/",
-        "https://www.gizmodo.jp/article/mont-bell_items_products/",
-        "https://www.gizmodo.jp/article/car_air_conditioners/"
+        "https://www.gizmodo.jp/article/mont-bell_items_products/"
     ]
 }
