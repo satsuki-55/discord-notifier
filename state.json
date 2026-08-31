@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/videos/cj06j16vpr5o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260831de47476",
         "https://news.web.nhk/newsweb/na/nd-20260831de47473",
         "https://news.web.nhk/newsweb/na/nd-20260831de47484",
         "https://news.web.nhk/newsweb/na/nd-20260831de47480",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260828de47086",
         "https://news.web.nhk/newsweb/na/nd-20260828de47066",
         "https://news.web.nhk/newsweb/na/nd-20260828de47040",
-        "https://news.web.nhk/newsweb/na/nd-20260828de47034",
-        "https://news.web.nhk/newsweb/na/nd-20260828de47045"
+        "https://news.web.nhk/newsweb/na/nd-20260828de47034"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/people-are-rushing-to-find-ways-to-remove-claudes-ai-text-watermark/",
         "https://www.gizmodo.jp/article/tamagotchi-ring/",
         "https://www.gizmodo.jp/article/fiio-cp11/",
         "https://www.gizmodo.jp/article/microduck-biped-robot-399-dollars/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/puebco_water_shooter/",
         "https://www.gizmodo.jp/article/d1fa2715-ed58-4449-8c93-92f6fb140dd4/",
         "https://www.gizmodo.jp/article/2608-sharkchillpill-ejk/",
-        "https://www.gizmodo.jp/article/amazon-iphone-air/",
-        "https://www.gizmodo.jp/article/nape-pro-how-to/"
+        "https://www.gizmodo.jp/article/amazon-iphone-air/"
     ]
 }
