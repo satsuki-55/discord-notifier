@@ -406,6 +406,9 @@
         "https://news.web.nhk/newsweb/na/nd-20260828de46904"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/spacex-falcon9-moon-crater/",
+        "https://www.gizmodo.jp/article/waymos-cleaner/",
+        "https://www.gizmodo.jp/article/concrete-battery-osp/",
         "https://www.gizmodo.jp/article/millionaires_move_medical_expenses/",
         "https://www.gizmodo.jp/article/whoops-new-meridian-band-makes-an-expensive-wearable-even-more-so/",
         "https://www.gizmodo.jp/article/passport-size-mystery-smartphone/",
@@ -602,9 +605,6 @@
         "https://www.gizmodo.jp/article/magnet-releaser-carabiner/",
         "https://www.gizmodo.jp/article/crime-prevention_tv_simulator_-atj/",
         "https://www.gizmodo.jp/article/oura-lawsuit-highlights-wearables-health-jpn/",
-        "https://www.gizmodo.jp/article/asus-oxiis-e250g1/",
-        "https://www.gizmodo.jp/article/popular-bars-and-restaurants-are-banning-smart-glasses/",
-        "https://www.gizmodo.jp/article/amazon-hiezou-kun-re2/",
-        "https://www.gizmodo.jp/article/steve-jobs-8th-grade-science-fair-project-jpn/"
+        "https://www.gizmodo.jp/article/asus-oxiis-e250g1/"
     ]
 }
