@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c3d7exngd5no#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260831de47482",
         "https://news.web.nhk/newsweb/na/nd-20260831de47476",
         "https://news.web.nhk/newsweb/na/nd-20260831de47473",
         "https://news.web.nhk/newsweb/na/nd-20260831de47484",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260828de47073",
         "https://news.web.nhk/newsweb/na/nd-20260828de47086",
         "https://news.web.nhk/newsweb/na/nd-20260828de47066",
-        "https://news.web.nhk/newsweb/na/nd-20260828de47040",
-        "https://news.web.nhk/newsweb/na/nd-20260828de47034"
+        "https://news.web.nhk/newsweb/na/nd-20260828de47040"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/the-worlds-largest-electric-plane-just-flew-for-27-minutes-jpn/",
