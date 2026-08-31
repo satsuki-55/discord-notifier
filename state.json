@@ -2,6 +2,8 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "ADUeN9ddrgg",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "igApwxB8a-E",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c99dym3prl1o#0",
+        "https://www.bbc.co.uk/news/articles/c2l80eq5lxno#0",
         "https://www.bbc.co.uk/news/videos/c05rl9j6d0no#0",
         "https://www.bbc.co.uk/news/articles/c87vdj8j01xo#0",
         "https://www.bbc.co.uk/news/articles/c4gkp6pgy03o#0",
@@ -199,11 +201,10 @@
         "https://www.bbc.co.uk/news/articles/cpvez80v1pno#0",
         "https://www.bbc.co.uk/news/articles/cd68q3wynnqo#0",
         "https://www.bbc.co.uk/news/articles/cjdvl93e10jo#0",
-        "https://www.bbc.co.uk/news/articles/cx2z44982e4o#1",
-        "https://www.bbc.co.uk/news/videos/ce3rykzvevno#0",
-        "https://www.bbc.co.uk/news/articles/cd08g4pjkymo#1"
+        "https://www.bbc.co.uk/news/articles/cx2z44982e4o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260901de47526",
         "https://news.web.nhk/newsweb/na/nd-20260831de47517",
         "https://news.web.nhk/newsweb/na/nd-20260828de47091",
         "https://news.web.nhk/newsweb/na/nd-20260826de46568",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260828de47106",
         "https://news.web.nhk/newsweb/na/nd-20260828de47112",
         "https://news.web.nhk/newsweb/na/nd-20260828de47115",
-        "https://news.web.nhk/newsweb/na/nd-20260828de47110",
-        "https://news.web.nhk/newsweb/na/nd-20260828de47114"
+        "https://news.web.nhk/newsweb/na/nd-20260828de47110"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/janus-i-flying-suitcase-wpg/",
