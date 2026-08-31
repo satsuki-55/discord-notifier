@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cz0z4k28804o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260831de47486",
         "https://news.web.nhk/newsweb/na/nd-20260831de47481",
         "https://news.web.nhk/newsweb/na/nd-20260831de47470",
         "https://news.web.nhk/newsweb/na/nd-20260831de47360",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260828de47050",
         "https://news.web.nhk/newsweb/na/nd-20260828de47037",
         "https://news.web.nhk/newsweb/na/nd-20260826de46544",
-        "https://news.web.nhk/newsweb/na/nd-20260828de47049",
-        "https://news.web.nhk/newsweb/na/nd-20260828de47056"
+        "https://news.web.nhk/newsweb/na/nd-20260828de47049"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/microduck-biped-robot-399-dollars/",
