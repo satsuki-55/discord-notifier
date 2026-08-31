@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cy9zjgv9lgdo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260831de47522",
         "https://news.web.nhk/newsweb/na/nd-20260901de47528",
         "https://news.web.nhk/newsweb/na/nd-20260901de47524",
         "https://news.web.nhk/newsweb/na/nd-20260828de47115",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260828de47108",
         "https://news.web.nhk/newsweb/na/nd-20260829de47117",
         "https://news.web.nhk/newsweb/na/nd-20260828de47100",
-        "https://news.web.nhk/newsweb/na/nd-20260829de47121",
-        "https://news.web.nhk/newsweb/na/nd-20260828de47105"
+        "https://news.web.nhk/newsweb/na/nd-20260829de47121"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/janus-i-flying-suitcase-wpg/",
