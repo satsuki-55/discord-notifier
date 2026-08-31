@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c7v4353rry7o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260828de46863",
         "https://news.web.nhk/newsweb/na/nd-20260831de47331",
         "https://news.web.nhk/newsweb/na/nd-20260831de47341",
         "https://news.web.nhk/newsweb/na/nd-20260828de46859",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260828de46876",
         "https://news.web.nhk/newsweb/na/nd-20260828de46864",
         "https://news.web.nhk/newsweb/na/nd-20260826de46406",
-        "https://news.web.nhk/newsweb/na/nd-20260828de46860",
-        "https://news.web.nhk/newsweb/na/nd-20260828de46858"
+        "https://news.web.nhk/newsweb/na/nd-20260828de46860"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/redmi-17/",
