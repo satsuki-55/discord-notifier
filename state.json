@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/cwyz11475l1o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260826de46396",
+        "https://news.web.nhk/newsweb/na/nd-20260831de47413",
         "https://news.web.nhk/newsweb/na/nd-20260831de47405",
         "https://news.web.nhk/newsweb/na/nd-20260828de46966",
         "https://news.web.nhk/newsweb/na/nd-20260831de47398",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260828de46939",
         "https://news.web.nhk/newsweb/na/nd-20260828de47020",
         "https://news.web.nhk/newsweb/na/nd-20260828de46965",
-        "https://news.web.nhk/newsweb/na/nd-20260828de46904",
-        "https://news.web.nhk/newsweb/na/nd-20260828de46970",
-        "https://news.web.nhk/newsweb/na/nd-20260826de46396"
+        "https://news.web.nhk/newsweb/na/nd-20260828de46904"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/millionaires_move_medical_expenses/",
