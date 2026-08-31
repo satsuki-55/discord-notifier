@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/cz0z4k28804o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260831de47481",
+        "https://news.web.nhk/newsweb/na/nd-20260831de47470",
         "https://news.web.nhk/newsweb/na/nd-20260831de47360",
         "https://news.web.nhk/newsweb/na/nd-20260831de47464",
         "https://news.web.nhk/newsweb/na/nd-20260831de47458",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260828de47037",
         "https://news.web.nhk/newsweb/na/nd-20260826de46544",
         "https://news.web.nhk/newsweb/na/nd-20260828de47049",
-        "https://news.web.nhk/newsweb/na/nd-20260828de47056",
-        "https://news.web.nhk/newsweb/na/nd-20260828de47052",
-        "https://news.web.nhk/newsweb/na/nd-20260828de47042"
+        "https://news.web.nhk/newsweb/na/nd-20260828de47056"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/iphone15pro-5years/",
