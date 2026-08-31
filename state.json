@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c3d7exngd5no#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260831de47500",
         "https://news.web.nhk/newsweb/na/nd-20260831de47460",
         "https://news.web.nhk/newsweb/na/nd-20260831de47501",
         "https://news.web.nhk/newsweb/na/nd-20260831de47482",
@@ -402,10 +403,11 @@
         "https://news.web.nhk/newsweb/na/nd-20260828de46937",
         "https://news.web.nhk/newsweb/na/nd-20260828de47000",
         "https://news.web.nhk/newsweb/na/nd-20260828de47070",
-        "https://news.web.nhk/newsweb/na/nd-20260828de47073",
-        "https://news.web.nhk/newsweb/na/nd-20260828de47086"
+        "https://news.web.nhk/newsweb/na/nd-20260828de47073"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/google-play-books-gemini-notebook/",
+        "https://www.gizmodo.jp/article/vakuen-amazon/",
         "https://www.gizmodo.jp/article/the-worlds-largest-electric-plane-just-flew-for-27-minutes-jpn/",
         "https://www.gizmodo.jp/article/people-are-rushing-to-find-ways-to-remove-claudes-ai-text-watermark/",
         "https://www.gizmodo.jp/article/tamagotchi-ring/",
@@ -603,8 +605,6 @@
         "https://www.gizmodo.jp/article/ugreen-45w-gan-iqi/",
         "https://www.gizmodo.jp/article/pvc_pipe_recycle/",
         "https://www.gizmodo.jp/article/excited-to-take-deep-zoom-photos-with-your-foldable-iphone-get-ready-for-disappointment/",
-        "https://www.gizmodo.jp/article/puebco_water_shooter/",
-        "https://www.gizmodo.jp/article/d1fa2715-ed58-4449-8c93-92f6fb140dd4/",
-        "https://www.gizmodo.jp/article/2608-sharkchillpill-ejk/"
+        "https://www.gizmodo.jp/article/puebco_water_shooter/"
     ]
 }
