@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c39e7lpyekno#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260828de46896",
         "https://news.web.nhk/newsweb/na/nd-20260831de47425",
         "https://news.web.nhk/newsweb/na/nd-20260828de46893",
         "https://news.web.nhk/newsweb/na/nd-20260828de46897",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260828de47061",
         "https://news.web.nhk/newsweb/na/nd-20260828de46906",
         "https://news.web.nhk/newsweb/na/nd-20260828de47039",
-        "https://news.web.nhk/newsweb/na/nd-20260828de47043",
-        "https://news.web.nhk/newsweb/na/nd-20260828de46952"
+        "https://news.web.nhk/newsweb/na/nd-20260828de47043"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/yamaha-motoroid-lambda-rcl/",
