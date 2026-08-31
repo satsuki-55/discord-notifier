@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260828de46878"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/x-arcade-arcade2tv-xr-max/",
         "https://www.gizmodo.jp/article/blu-hub/",
         "https://www.gizmodo.jp/article/redmi-17/",
         "https://www.gizmodo.jp/article/orca-echo-keycaps/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/marvel_cinematic_universe-sony_film_rights/",
         "https://www.gizmodo.jp/article/ecowin_water_eco_factory/",
         "https://www.gizmodo.jp/article/ruka-td-1/",
-        "https://www.gizmodo.jp/article/handfan/",
-        "https://www.gizmodo.jp/article/nvidia_ai_trade/"
+        "https://www.gizmodo.jp/article/handfan/"
     ]
 }
