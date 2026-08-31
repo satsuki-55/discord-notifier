@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c3d7exngd5no#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260831de47509",
         "https://news.web.nhk/newsweb/na/nd-20260831de47510",
         "https://news.web.nhk/newsweb/na/nd-20260831de47487",
         "https://news.web.nhk/newsweb/na/nd-20260831de47494",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260828de47041",
         "https://news.web.nhk/newsweb/na/nd-20260828de47088",
         "https://news.web.nhk/newsweb/na/nd-20260828de47089",
-        "https://news.web.nhk/newsweb/na/nd-20260827de46580",
-        "https://news.web.nhk/newsweb/na/nd-20260828de47068"
+        "https://news.web.nhk/newsweb/na/nd-20260827de46580"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/janus-i-flying-suitcase-wpg/",
         "https://www.gizmodo.jp/article/chacle-airless-tire/",
         "https://www.gizmodo.jp/article/review-daiso-led-headlight/",
         "https://www.gizmodo.jp/article/google-play-books-gemini-notebook/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/high_school_student_invented_filter-biw/",
         "https://www.gizmodo.jp/article/ai_volume_of_the_worlds_glaciers/",
         "https://www.gizmodo.jp/article/new-imac-m6/",
-        "https://www.gizmodo.jp/article/ugreen-45w-gan-iqi/",
-        "https://www.gizmodo.jp/article/pvc_pipe_recycle/"
+        "https://www.gizmodo.jp/article/ugreen-45w-gan-iqi/"
     ]
 }
