@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c9v4w77d9m8o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260828de46859",
         "https://news.web.nhk/newsweb/na/nd-20260831de47340",
         "https://news.web.nhk/newsweb/na/nd-20260828de46832",
         "https://news.web.nhk/newsweb/na/nd-20260831de47326",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260828de46860",
         "https://news.web.nhk/newsweb/na/nd-20260828de46858",
         "https://news.web.nhk/newsweb/na/nd-20260828de46863",
-        "https://news.web.nhk/newsweb/na/nd-20260828de46862",
-        "https://news.web.nhk/newsweb/na/nd-20260827de46829"
+        "https://news.web.nhk/newsweb/na/nd-20260828de46862"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/redmi-17/",
         "https://www.gizmodo.jp/article/orca-echo-keycaps/",
         "https://www.gizmodo.jp/article/keychron-g6-he-ultralight_one_day_left/",
         "https://www.gizmodo.jp/article/shiseido-ihada-reset-oil/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/ruka-td-1/",
         "https://www.gizmodo.jp/article/handfan/",
         "https://www.gizmodo.jp/article/nvidia_ai_trade/",
-        "https://www.gizmodo.jp/article/pico-space-pro/",
-        "https://www.gizmodo.jp/article/google-pixel-11-rambler/"
+        "https://www.gizmodo.jp/article/pico-space-pro/"
     ]
 }
