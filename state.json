@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260828de46898"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/lg-25g590b-b/",
         "https://www.gizmodo.jp/article/google-openai-and-over-100-companies-call-for-more-action-on-ai-driven-cyberattacks/",
         "https://www.gizmodo.jp/article/x-arcade-arcade2tv-xr-max/",
         "https://www.gizmodo.jp/article/blu-hub/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/steve-jobs-8th-grade-science-fair-project-jpn/",
         "https://www.gizmodo.jp/article/huawei_pura_x_view_1st/",
         "https://www.gizmodo.jp/article/marvel_cinematic_universe-sony_film_rights/",
-        "https://www.gizmodo.jp/article/ecowin_water_eco_factory/",
-        "https://www.gizmodo.jp/article/ruka-td-1/"
+        "https://www.gizmodo.jp/article/ecowin_water_eco_factory/"
     ]
 }
