@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "ADUeN9ddrgg",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "igApwxB8a-E",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/videos/c0m3197yxzmo#0",
         "https://www.bbc.co.uk/news/articles/cz0z4k28804o#1",
         "https://www.bbc.co.uk/news/articles/c783x05nnlko#1",
         "https://www.bbc.co.uk/news/articles/c3rew8jqny5o#0",
@@ -200,10 +201,10 @@
         "https://www.bbc.co.uk/news/articles/cx2zn9zj361o#0",
         "https://www.bbc.co.uk/news/articles/cdj43zkjweyo#0",
         "https://www.bbc.co.uk/news/videos/cddv0rldqqlo#0",
-        "https://www.bbc.co.uk/weather/articles/ckgw9jvd4xxo#0",
-        "https://www.bbc.co.uk/news/articles/cy0je597ep9o#0"
+        "https://www.bbc.co.uk/weather/articles/ckgw9jvd4xxo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260831de47404",
         "https://news.web.nhk/newsweb/na/nd-20260831de47486",
         "https://news.web.nhk/newsweb/na/nd-20260831de47481",
         "https://news.web.nhk/newsweb/na/nd-20260831de47470",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260828de47045",
         "https://news.web.nhk/newsweb/na/nd-20260828de47050",
         "https://news.web.nhk/newsweb/na/nd-20260828de47037",
-        "https://news.web.nhk/newsweb/na/nd-20260826de46544",
-        "https://news.web.nhk/newsweb/na/nd-20260828de47049"
+        "https://news.web.nhk/newsweb/na/nd-20260826de46544"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/tamagotchi-ring/",
         "https://www.gizmodo.jp/article/fiio-cp11/",
         "https://www.gizmodo.jp/article/microduck-biped-robot-399-dollars/",
         "https://www.gizmodo.jp/article/iphone15pro-5years/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/d1fa2715-ed58-4449-8c93-92f6fb140dd4/",
         "https://www.gizmodo.jp/article/2608-sharkchillpill-ejk/",
         "https://www.gizmodo.jp/article/amazon-iphone-air/",
-        "https://www.gizmodo.jp/article/nape-pro-how-to/",
-        "https://www.gizmodo.jp/article/sony_xperia-10-eight/"
+        "https://www.gizmodo.jp/article/nape-pro-how-to/"
     ]
 }
