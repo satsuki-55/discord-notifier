@@ -2,6 +2,8 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "1jO8vGxdH4s",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "igApwxB8a-E",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c9v4w77d9m8o#0",
+        "https://www.bbc.co.uk/news/articles/c4g4r4lxx25o#0",
         "https://www.bbc.co.uk/news/articles/cz0z4k28804o#0",
         "https://www.bbc.co.uk/news/articles/cn5d7ry053eo#0",
         "https://www.bbc.co.uk/news/articles/cx279dml00ro#0",
@@ -199,11 +201,10 @@
         "https://www.bbc.co.uk/news/articles/cy4zgpynwdjo#0",
         "https://www.bbc.co.uk/news/articles/czxq0wgkkdjo#0",
         "https://www.bbc.co.uk/news/articles/clyx0gzynneo#0",
-        "https://www.bbc.co.uk/news/articles/c7v4353rry7o#1",
-        "https://www.bbc.co.uk/news/articles/cz0zm4pzme2o#0",
-        "https://www.bbc.co.uk/news/articles/c9v4w77d9m8o#0"
+        "https://www.bbc.co.uk/news/articles/c7v4353rry7o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260831de47341",
         "https://news.web.nhk/newsweb/na/nd-20260828de46859",
         "https://news.web.nhk/newsweb/na/nd-20260831de47340",
         "https://news.web.nhk/newsweb/na/nd-20260828de46832",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260826de46406",
         "https://news.web.nhk/newsweb/na/nd-20260828de46860",
         "https://news.web.nhk/newsweb/na/nd-20260828de46858",
-        "https://news.web.nhk/newsweb/na/nd-20260828de46863",
-        "https://news.web.nhk/newsweb/na/nd-20260828de46862"
+        "https://news.web.nhk/newsweb/na/nd-20260828de46863"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/redmi-17/",
