@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/clym7yrdk29o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260831de47388",
+        "https://news.web.nhk/newsweb/na/nd-20260831de47384",
         "https://news.web.nhk/newsweb/na/nd-20260826de46396",
         "https://news.web.nhk/newsweb/na/nd-20260831de47413",
         "https://news.web.nhk/newsweb/na/nd-20260831de47405",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260828de47007",
         "https://news.web.nhk/newsweb/na/nd-20260828de47006",
         "https://news.web.nhk/newsweb/na/nd-20260828de46939",
-        "https://news.web.nhk/newsweb/na/nd-20260828de47020",
-        "https://news.web.nhk/newsweb/na/nd-20260828de46965",
-        "https://news.web.nhk/newsweb/na/nd-20260828de46904"
+        "https://news.web.nhk/newsweb/na/nd-20260828de47020"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/spacex-falcon9-moon-crater/",
