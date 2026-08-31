@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cvgyl64l5nro#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260831de47395",
         "https://news.web.nhk/newsweb/na/nd-20260831de47376",
         "https://news.web.nhk/newsweb/na/nd-20260831de47374",
         "https://news.web.nhk/newsweb/na/nd-20260830de47286",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260826de46396",
         "https://news.web.nhk/newsweb/na/nd-20260828de46972",
         "https://news.web.nhk/newsweb/na/nd-20260828de46942",
-        "https://news.web.nhk/newsweb/na/nd-20260828de46966",
-        "https://news.web.nhk/newsweb/na/nd-20260828de46914"
+        "https://news.web.nhk/newsweb/na/nd-20260828de46966"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/whoops-new-meridian-band-makes-an-expensive-wearable-even-more-so/",
