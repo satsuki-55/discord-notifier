@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c4gv5gepxnyo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260831de47374",
         "https://news.web.nhk/newsweb/na/nd-20260830de47286",
         "https://news.web.nhk/newsweb/na/nd-20260828de46910",
         "https://news.web.nhk/newsweb/na/nd-20260826de46360",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260828de46942",
         "https://news.web.nhk/newsweb/na/nd-20260828de46966",
         "https://news.web.nhk/newsweb/na/nd-20260828de46914",
-        "https://news.web.nhk/newsweb/na/nd-20260828de46922",
-        "https://news.web.nhk/newsweb/na/nd-20260828de46919"
+        "https://news.web.nhk/newsweb/na/nd-20260828de46922"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/passport-size-mystery-smartphone/",
