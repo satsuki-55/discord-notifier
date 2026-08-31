@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c3v4k0re3vwo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260831de47442",
         "https://news.web.nhk/newsweb/na/nd-20260831de47417",
         "https://news.web.nhk/newsweb/na/nd-20260831de47408",
         "https://news.web.nhk/newsweb/na/nd-20260831de47367",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260828de46893",
         "https://news.web.nhk/newsweb/na/nd-20260828de46897",
         "https://news.web.nhk/newsweb/na/nd-20260828de47022",
-        "https://news.web.nhk/newsweb/na/nd-20260828de46953",
-        "https://news.web.nhk/newsweb/na/nd-20260826de46523"
+        "https://news.web.nhk/newsweb/na/nd-20260828de46953"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/teen-arrested-after-asking-chatgpt-how-to-kill-his-friend-police-say-anv/",
