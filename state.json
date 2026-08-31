@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/c39e7lpyekno#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260831de47425",
+        "https://news.web.nhk/newsweb/na/nd-20260828de46893",
         "https://news.web.nhk/newsweb/na/nd-20260828de46897",
         "https://news.web.nhk/newsweb/na/nd-20260831de47430",
         "https://news.web.nhk/newsweb/na/nd-20260831de47439",
@@ -401,11 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260828de46906",
         "https://news.web.nhk/newsweb/na/nd-20260828de47039",
         "https://news.web.nhk/newsweb/na/nd-20260828de47043",
-        "https://news.web.nhk/newsweb/na/nd-20260828de46952",
-        "https://news.web.nhk/newsweb/na/nd-20260828de46954",
-        "https://news.web.nhk/newsweb/na/nd-20260828de46896"
+        "https://news.web.nhk/newsweb/na/nd-20260828de46952"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/yamaha-motoroid-lambda-rcl/",
         "https://www.gizmodo.jp/article/flood-resistant_ev/",
         "https://www.gizmodo.jp/article/find-x10-pro-max-200mp-triple-camera/",
         "https://www.gizmodo.jp/article/teen-arrested-after-asking-chatgpt-how-to-kill-his-friend-police-say-anv/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/that-weird-other-section-in-apple-stores-is-reportedly-being-revamped-for-a-new-line-of-home-products/",
         "https://www.gizmodo.jp/article/new-nasa-study-warns-its-easier-than-expected-for-astronauts-to-contaminate-the-moon/",
         "https://www.gizmodo.jp/article/youtube-premium-price-increase/",
-        "https://www.gizmodo.jp/article/3coins-suitcase-iphone/",
-        "https://www.gizmodo.jp/article/magnet-releaser-carabiner/"
+        "https://www.gizmodo.jp/article/3coins-suitcase-iphone/"
     ]
 }
