@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/crr49w58evno#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260831de47428",
         "https://news.web.nhk/newsweb/na/nd-20260831de47442",
         "https://news.web.nhk/newsweb/na/nd-20260831de47417",
         "https://news.web.nhk/newsweb/na/nd-20260831de47408",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260828de46896",
         "https://news.web.nhk/newsweb/na/nd-20260828de46893",
         "https://news.web.nhk/newsweb/na/nd-20260828de46897",
-        "https://news.web.nhk/newsweb/na/nd-20260828de47022",
-        "https://news.web.nhk/newsweb/na/nd-20260828de46953"
+        "https://news.web.nhk/newsweb/na/nd-20260828de47022"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/flood-resistant_ev/",
