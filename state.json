@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/c3d7exngd5no#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260831de47488",
+        "https://news.web.nhk/newsweb/na/nd-20260831de47474",
         "https://news.web.nhk/newsweb/na/nd-20260831de47500",
         "https://news.web.nhk/newsweb/na/nd-20260831de47460",
         "https://news.web.nhk/newsweb/na/nd-20260831de47501",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260828de47071",
         "https://news.web.nhk/newsweb/na/nd-20260828de47077",
         "https://news.web.nhk/newsweb/na/nd-20260828de46937",
-        "https://news.web.nhk/newsweb/na/nd-20260828de47000",
-        "https://news.web.nhk/newsweb/na/nd-20260828de47070",
-        "https://news.web.nhk/newsweb/na/nd-20260828de47073"
+        "https://news.web.nhk/newsweb/na/nd-20260828de47000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/chacle-airless-tire/",
