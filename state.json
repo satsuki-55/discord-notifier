@@ -2,6 +2,10 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "ADUeN9ddrgg",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "igApwxB8a-E",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cj9xj89dk40o#0",
+        "https://www.bbc.co.uk/news/articles/ce871n7lyvlo#0",
+        "https://www.bbc.co.uk/news/articles/c1mv5ggg1l8o#1",
+        "https://www.bbc.co.uk/news/articles/cddv92n194vo#1",
         "https://www.bbc.co.uk/news/articles/c2e074nn8eko#0",
         "https://www.bbc.co.uk/weather/articles/cn0n01vrw9vo#0",
         "https://www.bbc.co.uk/news/articles/ckg0yyg7m9mo#0",
@@ -197,13 +201,10 @@
         "https://www.bbc.co.uk/news/articles/cn74m8e5rleo#1",
         "https://www.bbc.co.uk/news/videos/cx2zdvlqw8yo#0",
         "https://www.bbc.co.uk/news/articles/czjlzdw8gp0o#0",
-        "https://www.bbc.co.uk/sport/cricket/articles/c17j0y17epdo#0",
-        "https://www.bbc.co.uk/news/articles/czxzv29p12lo#0",
-        "https://www.bbc.co.uk/news/articles/cy9zj11gwzxo#1",
-        "https://www.bbc.co.uk/news/articles/cj9xj89dk40o#0",
-        "https://www.bbc.co.uk/news/articles/ce871n7lyvlo#0"
+        "https://www.bbc.co.uk/sport/cricket/articles/c17j0y17epdo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260901de47606",
         "https://news.web.nhk/newsweb/na/nd-20260901de47590",
         "https://news.web.nhk/newsweb/na/nd-20260901de47602",
         "https://news.web.nhk/newsweb/na/nd-20260901de47578",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260830de47201",
         "https://news.web.nhk/newsweb/na/nd-20260829de47171",
         "https://news.web.nhk/newsweb/na/nd-20260829de47175",
-        "https://news.web.nhk/newsweb/na/nd-20260828de46854",
-        "https://news.web.nhk/newsweb/na/nd-20260829de47156"
+        "https://news.web.nhk/newsweb/na/nd-20260828de46854"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/deep-orange-17/",
