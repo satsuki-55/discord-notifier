@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "TyKOScHExN4",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "igApwxB8a-E",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c24j5192j7jo#1",
         "https://www.bbc.co.uk/news/videos/ceq8945e71ro#0",
         "https://www.bbc.co.uk/news/articles/crk661074ejo#0",
         "https://www.bbc.co.uk/news/articles/c62e6rkn43ko#0",
@@ -200,10 +201,10 @@
         "https://www.bbc.co.uk/news/articles/c5y4xmx16k0o#0",
         "https://www.bbc.co.uk/news/articles/clylkwl5nd4o#0",
         "https://www.bbc.co.uk/news/articles/cqlw52vr0dwo#0",
-        "https://www.bbc.co.uk/news/articles/c70dwxr321ro#0",
-        "https://www.bbc.co.uk/news/articles/c5ye8p8xpg4o#0"
+        "https://www.bbc.co.uk/news/articles/c70dwxr321ro#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260901de47698",
         "https://news.web.nhk/newsweb/na/nd-20260901de47697",
         "https://news.web.nhk/newsweb/na/nd-20260901de47690",
         "https://news.web.nhk/newsweb/na/nd-20260901de47691",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260830de47269",
         "https://news.web.nhk/newsweb/na/nd-20260829de47174",
         "https://news.web.nhk/newsweb/na/nd-20260830de47270",
-        "https://news.web.nhk/newsweb/na/nd-20260830de47202",
-        "https://news.web.nhk/newsweb/na/nd-20260829de47178"
+        "https://news.web.nhk/newsweb/na/nd-20260830de47202"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/murata_mask-voice-clip_ceatec-fot/",
