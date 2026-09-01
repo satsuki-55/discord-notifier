@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/cz0zm2j7ld1o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260901de47586",
+        "https://news.web.nhk/newsweb/na/nd-20260901de47587",
         "https://news.web.nhk/newsweb/na/nd-20260901de47577",
         "https://news.web.nhk/newsweb/na/nd-20260901de47576",
         "https://news.web.nhk/newsweb/na/nd-20260827de46651",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260829de47156",
         "https://news.web.nhk/newsweb/na/nd-20260829de47184",
         "https://news.web.nhk/newsweb/na/nd-20260829de47187",
-        "https://news.web.nhk/newsweb/na/nd-20260829de47158",
-        "https://news.web.nhk/newsweb/na/nd-20260829de47190",
-        "https://news.web.nhk/newsweb/na/nd-20260829de47159"
+        "https://news.web.nhk/newsweb/na/nd-20260829de47158"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/tim-cook-steps-down-today/",
