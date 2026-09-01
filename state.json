@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "TyKOScHExN4",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "igApwxB8a-E",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cdx0np90lx4o#1",
         "https://www.bbc.co.uk/news/articles/cvgy91nvy27o#1",
         "https://www.bbc.co.uk/sport/olympics/articles/cwyz3dxpnq9o#0",
         "https://www.bbc.co.uk/news/articles/c5yvpr0751go#0",
@@ -200,10 +201,10 @@
         "https://www.bbc.co.uk/news/articles/c20vl4vm2pno#0",
         "https://www.bbc.co.uk/news/articles/cpwlrrzp8eeo#0",
         "https://www.bbc.co.uk/news/articles/c158939pz4do#0",
-        "https://www.bbc.co.uk/news/articles/c4gj2dl4x52o#0",
-        "https://www.bbc.co.uk/news/articles/cn45vdxyvvlo#1"
+        "https://www.bbc.co.uk/news/articles/c4gj2dl4x52o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260901de47674",
         "https://news.web.nhk/newsweb/na/nd-20260901de47667",
         "https://news.web.nhk/newsweb/na/nd-20260901de47638",
         "https://news.web.nhk/newsweb/na/nd-20260901de47604",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260830de47262",
         "https://news.web.nhk/newsweb/na/nd-20260830de47255",
         "https://news.web.nhk/newsweb/na/nd-20260830de47228",
-        "https://news.web.nhk/newsweb/na/nd-20260830de47247",
-        "https://news.web.nhk/newsweb/na/nd-20260830de47246"
+        "https://news.web.nhk/newsweb/na/nd-20260830de47247"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/saiveina-laundry-basket/",
         "https://www.gizmodo.jp/article/amazon_smile-sale_2026_september-real-buy/",
         "https://www.gizmodo.jp/article/playstation-27-inch-gaming-monitor-with-dualsense-charging-hook-review-exactly-as-the-name-suggests-and-nothing-more/",
         "https://www.gizmodo.jp/article/inventwood-p0s/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/amazons-kindle-price-hikes-are-the-most-obscene-casualty-of-the-ram-crisis/",
         "https://www.gizmodo.jp/article/apples-new-beats-wireless-headphones-could-take-a-big-anc-leap/",
         "https://www.gizmodo.jp/article/insurance-companies-cautious-about-space-data-centers/",
-        "https://www.gizmodo.jp/article/2026-apple-watch/",
-        "https://www.gizmodo.jp/article/2026-ipad-mini/"
+        "https://www.gizmodo.jp/article/2026-apple-watch/"
     ]
 }
