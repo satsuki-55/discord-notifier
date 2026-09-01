@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "ADUeN9ddrgg",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "igApwxB8a-E",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c0qxw1qw3g7o#1",
         "https://www.bbc.co.uk/news/articles/cd684219x6do#0",
         "https://www.bbc.co.uk/news/articles/c1kxmvm39nyo#0",
         "https://www.bbc.co.uk/news/articles/c62m7vp5895o#1",
@@ -200,10 +201,10 @@
         "https://www.bbc.co.uk/news/articles/c23x8k1ry27o#0",
         "https://www.bbc.co.uk/news/articles/c9w4jgg4y55o#0",
         "https://www.bbc.co.uk/news/articles/clyrv84yd9ko#0",
-        "https://www.bbc.co.uk/news/articles/c99dvm39mreo#0",
-        "https://www.bbc.co.uk/news/articles/cz0zm2j7ld1o#1"
+        "https://www.bbc.co.uk/news/articles/c99dvm39mreo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260901de47643",
         "https://news.web.nhk/newsweb/na/nd-20260901de47639",
         "https://news.web.nhk/newsweb/na/nd-20260901de47642",
         "https://news.web.nhk/newsweb/na/nd-20260901de47636",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260830de47230",
         "https://news.web.nhk/newsweb/na/nd-20260830de47239",
         "https://news.web.nhk/newsweb/na/nd-20260830de47237",
-        "https://news.web.nhk/newsweb/na/nd-20260830de47234",
-        "https://news.web.nhk/newsweb/na/nd-20260829de47173"
+        "https://news.web.nhk/newsweb/na/nd-20260830de47234"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/playstation-27-inch-gaming-monitor-with-dualsense-charging-hook-review-exactly-as-the-name-suggests-and-nothing-more/",
         "https://www.gizmodo.jp/article/inventwood-p0s/",
         "https://www.gizmodo.jp/article/anker-solix-ever-frost-2-23l-electric-cooler/",
         "https://www.gizmodo.jp/article/montbell-water-repellent-and-cleaning-service-qmu/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/insurance-companies-cautious-about-space-data-centers/",
         "https://www.gizmodo.jp/article/2026-apple-watch/",
         "https://www.gizmodo.jp/article/2026-ipad-mini/",
-        "https://www.gizmodo.jp/article/just-how-bad-are-ai-data-centers-for-your-local-water/",
-        "https://www.gizmodo.jp/article/world-humanoid-robot-games-beijing/"
+        "https://www.gizmodo.jp/article/just-how-bad-are-ai-data-centers-for-your-local-water/"
     ]
 }
