@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "ADUeN9ddrgg",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "igApwxB8a-E",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/videos/c89jxgd93qyo#0",
         "https://www.bbc.co.uk/news/articles/cx2d1vy0827o#0",
         "https://www.bbc.co.uk/news/articles/cz64955d56po#1",
         "https://www.bbc.co.uk/news/articles/cvgydk0vvpyo#0",
@@ -200,10 +201,10 @@
         "https://www.bbc.co.uk/news/articles/cz0zm2j7ld1o#1",
         "https://www.bbc.co.uk/news/articles/cx2zn9zj361o#1",
         "https://www.bbc.co.uk/news/articles/c209gd5jnq1o#1",
-        "https://www.bbc.co.uk/news/articles/cm2q7gv3l5qo#1",
-        "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o#0"
+        "https://www.bbc.co.uk/news/articles/cm2q7gv3l5qo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260828de46912",
         "https://news.web.nhk/newsweb/na/nd-20260901de47623",
         "https://news.web.nhk/newsweb/na/nd-20260901de47625",
         "https://news.web.nhk/newsweb/na/nd-20260901de47620",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260830de47209",
         "https://news.web.nhk/newsweb/na/nd-20260830de47222",
         "https://news.web.nhk/newsweb/na/nd-20260830de47218",
-        "https://news.web.nhk/newsweb/na/nd-20260830de47215",
-        "https://news.web.nhk/newsweb/na/nd-20260830de47211"
+        "https://news.web.nhk/newsweb/na/nd-20260830de47215"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/apple-watch-series-12_heart-rate-monitoring-function/",
