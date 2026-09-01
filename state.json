@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "ADUeN9ddrgg",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "igApwxB8a-E",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cx2zmdgry3do#0",
         "https://www.bbc.co.uk/news/articles/c0qxw1qw3g7o#0",
         "https://www.bbc.co.uk/news/articles/czjlzdw8gp0o#0",
         "https://www.bbc.co.uk/news/articles/c6247yv8564o#1",
@@ -200,10 +201,10 @@
         "https://www.bbc.co.uk/news/articles/cvgydk0vvpyo#0",
         "https://www.bbc.co.uk/news/articles/cjwg5n7y68xo#0",
         "https://www.bbc.co.uk/news/articles/cm2q7gv3l5qo#0",
-        "https://www.bbc.co.uk/news/articles/czxzv29p12lo#1",
-        "https://www.bbc.co.uk/news/videos/cj64kgrpgjdo#0"
+        "https://www.bbc.co.uk/news/articles/czxzv29p12lo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260901de47618",
         "https://news.web.nhk/newsweb/na/nd-20260901de47609",
         "https://news.web.nhk/newsweb/na/nd-20260901de47610",
         "https://news.web.nhk/newsweb/na/nd-20260901de47565",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260830de47199",
         "https://news.web.nhk/newsweb/na/nd-20260830de47204",
         "https://news.web.nhk/newsweb/na/nd-20260830de47200",
-        "https://news.web.nhk/newsweb/na/nd-20260830de47203",
-        "https://news.web.nhk/newsweb/na/nd-20260830de47201"
+        "https://news.web.nhk/newsweb/na/nd-20260830de47203"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/stylus-pen_planned/",
