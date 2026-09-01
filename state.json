@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cz0zm2j7ld1o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260901de47577",
         "https://news.web.nhk/newsweb/na/nd-20260901de47576",
         "https://news.web.nhk/newsweb/na/nd-20260827de46651",
         "https://news.web.nhk/newsweb/na/nd-20260901de47582",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260829de47187",
         "https://news.web.nhk/newsweb/na/nd-20260829de47158",
         "https://news.web.nhk/newsweb/na/nd-20260829de47190",
-        "https://news.web.nhk/newsweb/na/nd-20260829de47159",
-        "https://news.web.nhk/newsweb/na/nd-20260829de47183"
+        "https://news.web.nhk/newsweb/na/nd-20260829de47159"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/tim-cook-steps-down-today/",
         "https://www.gizmodo.jp/article/jbls-new-pulse-speaker-is-a-more-of-a-lantern/",
         "https://www.gizmodo.jp/article/orca-echo-typing-practice/",
         "https://www.gizmodo.jp/article/magnifica-start-8ri/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/eyewear_molmena/",
         "https://www.gizmodo.jp/article/amazon-drone-delivery-miss/",
         "https://www.gizmodo.jp/article/topping-dx-1-ii/",
-        "https://www.gizmodo.jp/article/macmini_early_release/",
-        "https://www.gizmodo.jp/article/google-opens-the-gates-of-ai-slop-hell/"
+        "https://www.gizmodo.jp/article/macmini_early_release/"
     ]
 }
