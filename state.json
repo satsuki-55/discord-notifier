@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "ADUeN9ddrgg",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "igApwxB8a-E",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c1kxmvm39nyo#0",
         "https://www.bbc.co.uk/news/articles/c62m7vp5895o#1",
         "https://www.bbc.co.uk/news/videos/c89jxgd93qyo#0",
         "https://www.bbc.co.uk/news/articles/cx2d1vy0827o#0",
@@ -200,10 +201,10 @@
         "https://www.bbc.co.uk/news/articles/clyrv84yd9ko#0",
         "https://www.bbc.co.uk/news/articles/c99dvm39mreo#0",
         "https://www.bbc.co.uk/news/articles/cz0zm2j7ld1o#1",
-        "https://www.bbc.co.uk/news/articles/cx2zn9zj361o#1",
-        "https://www.bbc.co.uk/news/articles/c209gd5jnq1o#1"
+        "https://www.bbc.co.uk/news/articles/cx2zn9zj361o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260901de47630",
         "https://news.web.nhk/newsweb/na/nd-20260901de47627",
         "https://news.web.nhk/newsweb/na/nd-20260828de46912",
         "https://news.web.nhk/newsweb/na/nd-20260901de47623",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260830de47225",
         "https://news.web.nhk/newsweb/na/nd-20260829de47172",
         "https://news.web.nhk/newsweb/na/nd-20260830de47209",
-        "https://news.web.nhk/newsweb/na/nd-20260830de47222",
-        "https://news.web.nhk/newsweb/na/nd-20260830de47218"
+        "https://news.web.nhk/newsweb/na/nd-20260830de47222"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/anker-solix-ever-frost-2-23l-electric-cooler/",
         "https://www.gizmodo.jp/article/montbell-water-repellent-and-cleaning-service-qmu/",
         "https://www.gizmodo.jp/article/apple-watch-series-12_heart-rate-monitoring-function/",
         "https://www.gizmodo.jp/article/anthropic-to-tell-investors-it-has-potential-revenue-of-basically-the-entire-us-gdp-jpn/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/2026-ipad-mini/",
         "https://www.gizmodo.jp/article/just-how-bad-are-ai-data-centers-for-your-local-water/",
         "https://www.gizmodo.jp/article/world-humanoid-robot-games-beijing/",
-        "https://www.gizmodo.jp/article/augment_360_100km/",
-        "https://www.gizmodo.jp/article/mac-studio-m5-max-ultra/"
+        "https://www.gizmodo.jp/article/augment_360_100km/"
     ]
 }
