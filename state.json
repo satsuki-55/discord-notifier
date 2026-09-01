@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cn74m8e5rleo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260901de47610",
         "https://news.web.nhk/newsweb/na/nd-20260901de47565",
         "https://news.web.nhk/newsweb/na/nd-20260901de47606",
         "https://news.web.nhk/newsweb/na/nd-20260901de47590",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260830de47200",
         "https://news.web.nhk/newsweb/na/nd-20260830de47203",
         "https://news.web.nhk/newsweb/na/nd-20260830de47201",
-        "https://news.web.nhk/newsweb/na/nd-20260829de47171",
-        "https://news.web.nhk/newsweb/na/nd-20260829de47175"
+        "https://news.web.nhk/newsweb/na/nd-20260829de47171"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2608-toyota-bz-review-ev-tzw/",
