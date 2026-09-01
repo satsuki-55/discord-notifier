@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260830de47306"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/anthropic_released_claude_fable_5_1/",
         "https://www.gizmodo.jp/article/more-evidence-emerges-that-gen-xers-feel-the-most-whatever-about-ai/",
         "https://www.gizmodo.jp/article/murata_mask-voice-clip_ceatec-fot/",
         "https://www.gizmodo.jp/article/msi-crosshair-16-hx-e14w/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/2608-spacex-shares-crazy-overvalued-scott-galloway-elon-musk-kdi/",
         "https://www.gizmodo.jp/article/todays-ligar/",
         "https://www.gizmodo.jp/article/hyperx-cloud-alpha-air/",
-        "https://www.gizmodo.jp/article/uber-eats-drone/",
-        "https://www.gizmodo.jp/article/keychron-g6-he-for-work-re/"
+        "https://www.gizmodo.jp/article/uber-eats-drone/"
     ]
 }
