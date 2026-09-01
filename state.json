@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "TyKOScHExN4",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "igApwxB8a-E",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/crk661074ejo#0",
         "https://www.bbc.co.uk/news/articles/c62e6rkn43ko#0",
         "https://www.bbc.co.uk/news/articles/ckgvrm5nxexo#1",
         "https://www.bbc.co.uk/news/articles/c3v4pgk7gweo#0",
@@ -200,8 +201,7 @@
         "https://www.bbc.co.uk/news/articles/cqlw52vr0dwo#0",
         "https://www.bbc.co.uk/news/articles/c70dwxr321ro#0",
         "https://www.bbc.co.uk/news/articles/c5ye8p8xpg4o#0",
-        "https://www.bbc.co.uk/news/articles/c5y5727d02xo#0",
-        "https://www.bbc.co.uk/news/videos/cj64kgrpgjdo#1"
+        "https://www.bbc.co.uk/news/articles/c5y5727d02xo#0"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20260901de47690",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260817de44572"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/msi-crosshair-16-hx-e14w/",
         "https://www.gizmodo.jp/article/millet_drynamic-mesh/",
         "https://www.gizmodo.jp/article/ice-wants-a-boston-dynamics-k9-unit/",
         "https://www.gizmodo.jp/article/the-eu-has-officially-decided-chatgpt-is-a-search-engine/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/uber-eats-drone/",
         "https://www.gizmodo.jp/article/keychron-g6-he-for-work-re/",
         "https://www.gizmodo.jp/article/weimall_cool-seat_review-uaq/",
-        "https://www.gizmodo.jp/article/74e84bda-0433-42b1-8b76-2b58373b59a0/",
-        "https://www.gizmodo.jp/article/amazons-kindle-price-hikes-are-the-most-obscene-casualty-of-the-ram-crisis/"
+        "https://www.gizmodo.jp/article/74e84bda-0433-42b1-8b76-2b58373b59a0/"
     ]
 }
