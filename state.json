@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "ADUeN9ddrgg",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "igApwxB8a-E",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c2e074nn8eko#0",
         "https://www.bbc.co.uk/weather/articles/cn0n01vrw9vo#0",
         "https://www.bbc.co.uk/news/articles/ckg0yyg7m9mo#0",
         "https://www.bbc.co.uk/news/articles/czjz31dk1xmo#1",
@@ -200,10 +201,10 @@
         "https://www.bbc.co.uk/news/articles/czxzv29p12lo#0",
         "https://www.bbc.co.uk/news/articles/cy9zj11gwzxo#1",
         "https://www.bbc.co.uk/news/articles/cj9xj89dk40o#0",
-        "https://www.bbc.co.uk/news/articles/ce871n7lyvlo#0",
-        "https://www.bbc.co.uk/news/articles/cj06jgq62v9o#0"
+        "https://www.bbc.co.uk/news/articles/ce871n7lyvlo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260901de47590",
         "https://news.web.nhk/newsweb/na/nd-20260901de47602",
         "https://news.web.nhk/newsweb/na/nd-20260901de47578",
         "https://news.web.nhk/newsweb/na/nd-20260901de47586",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260829de47171",
         "https://news.web.nhk/newsweb/na/nd-20260829de47175",
         "https://news.web.nhk/newsweb/na/nd-20260828de46854",
-        "https://news.web.nhk/newsweb/na/nd-20260829de47156",
-        "https://news.web.nhk/newsweb/na/nd-20260829de47184"
+        "https://news.web.nhk/newsweb/na/nd-20260829de47156"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/deep-orange-17/",
         "https://www.gizmodo.jp/article/iphone-18-pro-pro-max-rumors-summary/",
         "https://www.gizmodo.jp/article/meta-smart-glasses-creeps-now-have-one-less-way-to-be-creepy/",
         "https://www.gizmodo.jp/article/tim-cook-steps-down-today/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/stan_product_zip-purse_dcf-amh/",
         "https://www.gizmodo.jp/article/adresso_shizen-flow-light-alarm-clock/",
         "https://www.gizmodo.jp/article/5050workshop-magbiner/",
-        "https://www.gizmodo.jp/article/eyewear_molmena/",
-        "https://www.gizmodo.jp/article/amazon-drone-delivery-miss/"
+        "https://www.gizmodo.jp/article/eyewear_molmena/"
     ]
 }
