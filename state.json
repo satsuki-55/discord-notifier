@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260830de47201"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/stylus-pen_planned/",
         "https://www.gizmodo.jp/article/2608-toyota-bz-review-ev-tzw/",
         "https://www.gizmodo.jp/article/deep-orange-17/",
         "https://www.gizmodo.jp/article/iphone-18-pro-pro-max-rumors-summary/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/mac-studio-m5-max-ultra/",
         "https://www.gizmodo.jp/article/mac-mini-m6/",
         "https://www.gizmodo.jp/article/stan_product_zip-purse_dcf-amh/",
-        "https://www.gizmodo.jp/article/adresso_shizen-flow-light-alarm-clock/",
-        "https://www.gizmodo.jp/article/5050workshop-magbiner/"
+        "https://www.gizmodo.jp/article/adresso_shizen-flow-light-alarm-clock/"
     ]
 }
