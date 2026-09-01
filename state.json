@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/czxzv29p12lo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260901de47617",
         "https://news.web.nhk/newsweb/na/nd-20260901de47616",
         "https://news.web.nhk/newsweb/na/nd-20260901de47618",
         "https://news.web.nhk/newsweb/na/nd-20260901de47609",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260830de47207",
         "https://news.web.nhk/newsweb/na/nd-20260830de47205",
         "https://news.web.nhk/newsweb/na/nd-20260830de47199",
-        "https://news.web.nhk/newsweb/na/nd-20260830de47204",
-        "https://news.web.nhk/newsweb/na/nd-20260830de47200"
+        "https://news.web.nhk/newsweb/na/nd-20260830de47204"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/anthropic-to-tell-investors-it-has-potential-revenue-of-basically-the-entire-us-gdp-jpn/",
         "https://www.gizmodo.jp/article/stylus-pen_planned/",
         "https://www.gizmodo.jp/article/2608-toyota-bz-review-ev-tzw/",
         "https://www.gizmodo.jp/article/deep-orange-17/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/augment_360_100km/",
         "https://www.gizmodo.jp/article/mac-studio-m5-max-ultra/",
         "https://www.gizmodo.jp/article/mac-mini-m6/",
-        "https://www.gizmodo.jp/article/stan_product_zip-purse_dcf-amh/",
-        "https://www.gizmodo.jp/article/adresso_shizen-flow-light-alarm-clock/"
+        "https://www.gizmodo.jp/article/stan_product_zip-purse_dcf-amh/"
     ]
 }
