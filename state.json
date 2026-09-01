@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/czxzv29p12lo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260901de47620",
         "https://news.web.nhk/newsweb/na/nd-20260901de47621",
         "https://news.web.nhk/newsweb/na/nd-20260901de47617",
         "https://news.web.nhk/newsweb/na/nd-20260901de47616",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260830de47215",
         "https://news.web.nhk/newsweb/na/nd-20260830de47211",
         "https://news.web.nhk/newsweb/na/nd-20260830de47207",
-        "https://news.web.nhk/newsweb/na/nd-20260830de47205",
-        "https://news.web.nhk/newsweb/na/nd-20260830de47199"
+        "https://news.web.nhk/newsweb/na/nd-20260830de47205"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/anthropic-to-tell-investors-it-has-potential-revenue-of-basically-the-entire-us-gdp-jpn/",
