@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "TyKOScHExN4",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "igApwxB8a-E",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cvgy91nvy27o#1",
         "https://www.bbc.co.uk/sport/olympics/articles/cwyz3dxpnq9o#0",
         "https://www.bbc.co.uk/news/articles/c5yvpr0751go#0",
         "https://www.bbc.co.uk/news/articles/c3v0qrz7z25o#1",
@@ -200,10 +201,10 @@
         "https://www.bbc.co.uk/news/articles/cpwlrrzp8eeo#0",
         "https://www.bbc.co.uk/news/articles/c158939pz4do#0",
         "https://www.bbc.co.uk/news/articles/c4gj2dl4x52o#0",
-        "https://www.bbc.co.uk/news/articles/cn45vdxyvvlo#1",
-        "https://www.bbc.co.uk/news/articles/cd08z840p8lo#0"
+        "https://www.bbc.co.uk/news/articles/cn45vdxyvvlo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260901de47667",
         "https://news.web.nhk/newsweb/na/nd-20260901de47638",
         "https://news.web.nhk/newsweb/na/nd-20260901de47604",
         "https://news.web.nhk/newsweb/na/nd-20260901de47671",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260830de47255",
         "https://news.web.nhk/newsweb/na/nd-20260830de47228",
         "https://news.web.nhk/newsweb/na/nd-20260830de47247",
-        "https://news.web.nhk/newsweb/na/nd-20260830de47246",
-        "https://news.web.nhk/newsweb/na/nd-20260830de47242"
+        "https://news.web.nhk/newsweb/na/nd-20260830de47246"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/amazon_smile-sale_2026_september-real-buy/",
