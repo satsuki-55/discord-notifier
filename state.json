@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cpwlrrzp8eeo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260901de47677",
         "https://news.web.nhk/newsweb/na/nd-20260901de47674",
         "https://news.web.nhk/newsweb/na/nd-20260901de47667",
         "https://news.web.nhk/newsweb/na/nd-20260901de47638",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260830de47264",
         "https://news.web.nhk/newsweb/na/nd-20260830de47262",
         "https://news.web.nhk/newsweb/na/nd-20260830de47255",
-        "https://news.web.nhk/newsweb/na/nd-20260830de47228",
-        "https://news.web.nhk/newsweb/na/nd-20260830de47247"
+        "https://news.web.nhk/newsweb/na/nd-20260830de47228"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/saiveina-laundry-basket/",
