@@ -2,6 +2,8 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "TyKOScHExN4",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "igApwxB8a-E",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/ckg0y07rdplo#0",
+        "https://www.bbc.co.uk/news/articles/cew95ke74l7o#1",
         "https://www.bbc.co.uk/news/articles/cm279dk9r8no#0",
         "https://www.bbc.co.uk/sport/football/articles/c780w17lw02o#1",
         "https://www.bbc.co.uk/news/articles/cvgy4258kgyo#0",
@@ -199,11 +201,10 @@
         "https://www.bbc.co.uk/news/articles/ckgw7xj698lo#0",
         "https://www.bbc.co.uk/news/articles/cvgy48r1nr4o#0",
         "https://www.bbc.co.uk/news/articles/cx2z415w2gpo#1",
-        "https://www.bbc.co.uk/news/articles/c86xwqez4npo#0",
-        "https://www.bbc.co.uk/news/articles/c4gj2dl4x52o#1",
-        "https://www.bbc.co.uk/news/articles/cy8z9084d00o#1"
+        "https://www.bbc.co.uk/news/articles/c86xwqez4npo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260901de47683",
         "https://news.web.nhk/newsweb/na/nd-20260901de47677",
         "https://news.web.nhk/newsweb/na/nd-20260901de47674",
         "https://news.web.nhk/newsweb/na/nd-20260901de47667",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260830de47268",
         "https://news.web.nhk/newsweb/na/nd-20260830de47264",
         "https://news.web.nhk/newsweb/na/nd-20260830de47262",
-        "https://news.web.nhk/newsweb/na/nd-20260830de47255",
-        "https://news.web.nhk/newsweb/na/nd-20260830de47228"
+        "https://news.web.nhk/newsweb/na/nd-20260830de47255"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/saiveina-laundry-basket/",
