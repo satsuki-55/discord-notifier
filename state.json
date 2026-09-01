@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cz0zm2j7ld1o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260901de47639",
         "https://news.web.nhk/newsweb/na/nd-20260901de47642",
         "https://news.web.nhk/newsweb/na/nd-20260901de47636",
         "https://news.web.nhk/newsweb/na/nd-20260901de47635",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260830de47239",
         "https://news.web.nhk/newsweb/na/nd-20260830de47237",
         "https://news.web.nhk/newsweb/na/nd-20260830de47234",
-        "https://news.web.nhk/newsweb/na/nd-20260829de47173",
-        "https://news.web.nhk/newsweb/na/nd-20260830de47225"
+        "https://news.web.nhk/newsweb/na/nd-20260829de47173"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/inventwood-p0s/",
         "https://www.gizmodo.jp/article/anker-solix-ever-frost-2-23l-electric-cooler/",
         "https://www.gizmodo.jp/article/montbell-water-repellent-and-cleaning-service-qmu/",
         "https://www.gizmodo.jp/article/apple-watch-series-12_heart-rate-monitoring-function/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/2026-apple-watch/",
         "https://www.gizmodo.jp/article/2026-ipad-mini/",
         "https://www.gizmodo.jp/article/just-how-bad-are-ai-data-centers-for-your-local-water/",
-        "https://www.gizmodo.jp/article/world-humanoid-robot-games-beijing/",
-        "https://www.gizmodo.jp/article/augment_360_100km/"
+        "https://www.gizmodo.jp/article/world-humanoid-robot-games-beijing/"
     ]
 }
