@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "ADUeN9ddrgg",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "igApwxB8a-E",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c6247yv8564o#1",
         "https://www.bbc.co.uk/news/articles/c1dl31k01v7o#1",
         "https://www.bbc.co.uk/news/articles/cj9xj89dk40o#0",
         "https://www.bbc.co.uk/news/articles/ce871n7lyvlo#0",
@@ -200,8 +201,7 @@
         "https://www.bbc.co.uk/news/articles/czxzv29p12lo#1",
         "https://www.bbc.co.uk/news/videos/cj64kgrpgjdo#0",
         "https://www.bbc.co.uk/news/articles/cn74m8e5rleo#1",
-        "https://www.bbc.co.uk/news/videos/cx2zdvlqw8yo#0",
-        "https://www.bbc.co.uk/news/articles/czjlzdw8gp0o#0"
+        "https://www.bbc.co.uk/news/videos/cx2zdvlqw8yo#0"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20260901de47565",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260829de47175"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2608-toyota-bz-review-ev-tzw/",
         "https://www.gizmodo.jp/article/deep-orange-17/",
         "https://www.gizmodo.jp/article/iphone-18-pro-pro-max-rumors-summary/",
         "https://www.gizmodo.jp/article/meta-smart-glasses-creeps-now-have-one-less-way-to-be-creepy/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/mac-mini-m6/",
         "https://www.gizmodo.jp/article/stan_product_zip-purse_dcf-amh/",
         "https://www.gizmodo.jp/article/adresso_shizen-flow-light-alarm-clock/",
-        "https://www.gizmodo.jp/article/5050workshop-magbiner/",
-        "https://www.gizmodo.jp/article/eyewear_molmena/"
+        "https://www.gizmodo.jp/article/5050workshop-magbiner/"
     ]
 }
