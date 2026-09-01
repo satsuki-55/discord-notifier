@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c770jyd4l7lo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260902de47726",
         "https://news.web.nhk/newsweb/na/nd-20260902de47725",
         "https://news.web.nhk/newsweb/na/nd-20260901de47685",
         "https://news.web.nhk/newsweb/na/nd-20260902de47719",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260831de47327",
         "https://news.web.nhk/newsweb/na/nd-20260830de47288",
         "https://news.web.nhk/newsweb/na/nd-20260830de47316",
-        "https://news.web.nhk/newsweb/na/nd-20260830de47312",
-        "https://news.web.nhk/newsweb/na/nd-20260830de47309"
+        "https://news.web.nhk/newsweb/na/nd-20260830de47312"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/anthropic_released_claude_fable_5_1/",
