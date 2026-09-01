@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cvgy48r1nr4o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260901de47672",
         "https://news.web.nhk/newsweb/na/nd-20260901de47675",
         "https://news.web.nhk/newsweb/na/nd-20260901de47684",
         "https://news.web.nhk/newsweb/na/nd-20260901de47683",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260830de47254",
         "https://news.web.nhk/newsweb/na/nd-20260830de47281",
         "https://news.web.nhk/newsweb/na/nd-20260830de47265",
-        "https://news.web.nhk/newsweb/na/nd-20260830de47268",
-        "https://news.web.nhk/newsweb/na/nd-20260830de47264"
+        "https://news.web.nhk/newsweb/na/nd-20260830de47268"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/the-eu-has-officially-decided-chatgpt-is-a-search-engine/",
