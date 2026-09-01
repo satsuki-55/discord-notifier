@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/crr49w58evno#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260901de47545",
         "https://news.web.nhk/newsweb/na/nd-20260831de47518",
         "https://news.web.nhk/newsweb/na/nd-20260901de47542",
         "https://news.web.nhk/newsweb/na/nd-20260831de47504",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260829de47147",
         "https://news.web.nhk/newsweb/na/nd-20260829de47153",
         "https://news.web.nhk/newsweb/na/nd-20260828de46960",
-        "https://news.web.nhk/newsweb/na/nd-20260829de47143",
-        "https://news.web.nhk/newsweb/na/nd-20260829de47140"
+        "https://news.web.nhk/newsweb/na/nd-20260829de47143"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/there-are-carrier-pigeon-apps-now-because-pigeon-technology-is-actually-superior/",
