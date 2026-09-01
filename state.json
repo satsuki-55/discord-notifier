@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c99dvm39mreo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260901de47646",
         "https://news.web.nhk/newsweb/na/nd-20260901de47643",
         "https://news.web.nhk/newsweb/na/nd-20260901de47639",
         "https://news.web.nhk/newsweb/na/nd-20260901de47642",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260830de47241",
         "https://news.web.nhk/newsweb/na/nd-20260830de47230",
         "https://news.web.nhk/newsweb/na/nd-20260830de47239",
-        "https://news.web.nhk/newsweb/na/nd-20260830de47237",
-        "https://news.web.nhk/newsweb/na/nd-20260830de47234"
+        "https://news.web.nhk/newsweb/na/nd-20260830de47237"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/playstation-27-inch-gaming-monitor-with-dualsense-charging-hook-review-exactly-as-the-name-suggests-and-nothing-more/",
