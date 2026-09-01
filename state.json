@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "ADUeN9ddrgg",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "igApwxB8a-E",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c5ywd9q3ywvo#1",
         "https://www.bbc.co.uk/news/articles/c8d3myrgdd1o#0",
         "https://www.bbc.co.uk/weather/articles/c99dypl3jgmo#0",
         "https://www.bbc.co.uk/news/articles/cz64955d56po#0",
@@ -200,10 +201,12 @@
         "https://www.bbc.co.uk/news/articles/cp30gqnpqjqo#0",
         "https://www.bbc.co.uk/news/articles/c4gk2lqgkeno#0",
         "https://www.bbc.co.uk/news/articles/cqxvwpe0plro#0",
-        "https://www.bbc.co.uk/news/articles/c2076gxr0llo#1",
-        "https://www.bbc.co.uk/news/articles/crr49w58evno#1"
+        "https://www.bbc.co.uk/news/articles/c2076gxr0llo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260901de47536",
+        "https://news.web.nhk/newsweb/na/nd-20260901de47539",
+        "https://news.web.nhk/newsweb/na/nd-20260901de47543",
         "https://news.web.nhk/newsweb/na/nd-20260829de47143",
         "https://news.web.nhk/newsweb/na/nd-20260901de47546",
         "https://news.web.nhk/newsweb/na/nd-20260901de47545",
@@ -400,10 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260829de47163",
         "https://news.web.nhk/newsweb/na/nd-20260829de47162",
         "https://news.web.nhk/newsweb/na/nd-20260829de47161",
-        "https://news.web.nhk/newsweb/na/nd-20260829de47154",
-        "https://news.web.nhk/newsweb/na/nd-20260829de47150",
-        "https://news.web.nhk/newsweb/na/nd-20260829de47147",
-        "https://news.web.nhk/newsweb/na/nd-20260829de47153"
+        "https://news.web.nhk/newsweb/na/nd-20260829de47154"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/there-are-carrier-pigeon-apps-now-because-pigeon-technology-is-actually-superior/",
