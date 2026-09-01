@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cx2zn9zj361o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260901de47635",
         "https://news.web.nhk/newsweb/na/nd-20260901de47630",
         "https://news.web.nhk/newsweb/na/nd-20260901de47627",
         "https://news.web.nhk/newsweb/na/nd-20260828de46912",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260829de47173",
         "https://news.web.nhk/newsweb/na/nd-20260830de47225",
         "https://news.web.nhk/newsweb/na/nd-20260829de47172",
-        "https://news.web.nhk/newsweb/na/nd-20260830de47209",
-        "https://news.web.nhk/newsweb/na/nd-20260830de47222"
+        "https://news.web.nhk/newsweb/na/nd-20260830de47209"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/anker-solix-ever-frost-2-23l-electric-cooler/",
