@@ -2,6 +2,8 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "TyKOScHExN4",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "igApwxB8a-E",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c4gj0l34g78o#1",
+        "https://www.bbc.co.uk/news/articles/c3v4pgk7gweo#1",
         "https://www.bbc.co.uk/news/articles/c17j00lnn41o#0",
         "https://www.bbc.co.uk/news/articles/c7507z4enq6o#0",
         "https://www.bbc.co.uk/news/articles/c9v9yydy2wvo#0",
@@ -199,9 +201,7 @@
         "https://www.bbc.co.uk/news/articles/cde0k172eddo#0",
         "https://www.bbc.co.uk/news/articles/cvgyx45zzwgo#0",
         "https://www.bbc.co.uk/news/articles/c1e5p51n2p2o#0",
-        "https://www.bbc.co.uk/news/articles/c6247yv8564o#0",
-        "https://www.bbc.co.uk/news/articles/c046lng73v4o#1",
-        "https://www.bbc.co.uk/news/articles/c07ler8x9kpo#0"
+        "https://www.bbc.co.uk/news/articles/c6247yv8564o#0"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20260902de47765",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260831de47326"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/3coins-cd-player/",
         "https://www.gizmodo.jp/article/corsair-skiff-100-plus/",
         "https://www.gizmodo.jp/article/framework-desktop-pc-coming-soon/",
         "https://www.gizmodo.jp/article/apple-fall-event-26-products/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/comma-ai-chestnut/",
         "https://www.gizmodo.jp/article/apple-pricedown/",
         "https://www.gizmodo.jp/article/trustnic-car-fan-vvc-lri/",
-        "https://www.gizmodo.jp/article/sam-altman-admits-its-going-to-take-a-long-time-before-ai-goes-mainstream/",
-        "https://www.gizmodo.jp/article/knirps_t220rs_uv_umbrella-inq/"
+        "https://www.gizmodo.jp/article/sam-altman-admits-its-going-to-take-a-long-time-before-ai-goes-mainstream/"
     ]
 }
