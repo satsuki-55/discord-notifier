@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/clylkjyez1do#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260902de47810",
+        "https://news.web.nhk/newsweb/na/nd-20260902de47806",
         "https://news.web.nhk/newsweb/na/nd-20260902de47797",
         "https://news.web.nhk/newsweb/na/nd-20260902de47800",
         "https://news.web.nhk/newsweb/na/nd-20260902de47789",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260831de47356",
         "https://news.web.nhk/newsweb/na/nd-20260831de47345",
         "https://news.web.nhk/newsweb/na/nd-20260831de47359",
-        "https://news.web.nhk/newsweb/na/nd-20260831de47363",
-        "https://news.web.nhk/newsweb/na/nd-20260831de47339",
-        "https://news.web.nhk/newsweb/na/nd-20260826de46406"
+        "https://news.web.nhk/newsweb/na/nd-20260831de47363"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/anker-power-bank-30w-builtin/",
