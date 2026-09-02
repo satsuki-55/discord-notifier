@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260831de47476"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/huawei-band-11_review/",
         "https://www.gizmodo.jp/article/sonos-new-beam-soundbar-has-up-firing-speakers/",
         "https://www.gizmodo.jp/article/alk-shoulder-bag-3gp/",
         "https://www.gizmodo.jp/article/switchbot-open-close-sensor/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/sanwa-usbc-cable/",
         "https://www.gizmodo.jp/article/tcl-k1-smart-lock-rxz/",
         "https://www.gizmodo.jp/article/switchbot-aimindclip/",
-        "https://www.gizmodo.jp/article/shokz-put-its-new-open-wireless-earbuds-on-a-diet/",
-        "https://www.gizmodo.jp/article/amazon-macbook-air-m5/"
+        "https://www.gizmodo.jp/article/shokz-put-its-new-open-wireless-earbuds-on-a-diet/"
     ]
 }
