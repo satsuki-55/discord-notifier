@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "TyKOScHExN4",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "VIoSYxFLCwo",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cy7zxy2p7k8o#0",
         "https://www.bbc.co.uk/news/articles/c70lwxve0y5o#0",
         "https://www.bbc.co.uk/news/articles/c3eq80d5pejo#1",
         "https://www.bbc.co.uk/news/articles/cg59d09nyyvo#0",
@@ -200,10 +201,10 @@
         "https://www.bbc.co.uk/news/articles/c4g3nwwjd8go#0",
         "https://www.bbc.co.uk/news/articles/clyx0gzynneo#0",
         "https://www.bbc.co.uk/news/articles/cx27vxkpdz1o#0",
-        "https://www.bbc.co.uk/news/articles/cjrx4j7pyz3o#0",
-        "https://www.bbc.co.uk/news/articles/c9v4w77d9m8o#0"
+        "https://www.bbc.co.uk/news/articles/cjrx4j7pyz3o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260902de47835",
         "https://news.web.nhk/newsweb/na/nd-20260902de47735",
         "https://news.web.nhk/newsweb/na/nd-20260902de47843",
         "https://news.web.nhk/newsweb/na/nd-20260902de47840",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260826de46396",
         "https://news.web.nhk/newsweb/na/nd-20260831de47413",
         "https://news.web.nhk/newsweb/na/nd-20260831de47405",
-        "https://news.web.nhk/newsweb/na/nd-20260828de46966",
-        "https://news.web.nhk/newsweb/na/nd-20260831de47398"
+        "https://news.web.nhk/newsweb/na/nd-20260828de46966"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/poco-f9-ultra/",
