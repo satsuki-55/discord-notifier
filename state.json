@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/c99dym3prl1o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260903de47880",
+        "https://news.web.nhk/newsweb/na/nd-20260903de47878",
         "https://news.web.nhk/newsweb/na/nd-20260903de47882",
         "https://news.web.nhk/newsweb/na/nd-20260903de47875",
         "https://news.web.nhk/newsweb/na/nd-20260902de47873",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260831de47458",
         "https://news.web.nhk/newsweb/na/nd-20260831de47401",
         "https://news.web.nhk/newsweb/na/nd-20260831de47436",
-        "https://news.web.nhk/newsweb/na/nd-20260828de46896",
-        "https://news.web.nhk/newsweb/na/nd-20260831de47425",
-        "https://news.web.nhk/newsweb/na/nd-20260828de46893"
+        "https://news.web.nhk/newsweb/na/nd-20260828de46896"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/alk-shoulder-bag-3gp/",
