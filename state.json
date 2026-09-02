@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c0kl40d3011o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260902de47804",
         "https://news.web.nhk/newsweb/na/nd-20260902de47792",
         "https://news.web.nhk/newsweb/na/nd-20260902de47810",
         "https://news.web.nhk/newsweb/na/nd-20260902de47806",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260831de47366",
         "https://news.web.nhk/newsweb/na/nd-20260831de47364",
         "https://news.web.nhk/newsweb/na/nd-20260831de47356",
-        "https://news.web.nhk/newsweb/na/nd-20260831de47345",
-        "https://news.web.nhk/newsweb/na/nd-20260831de47359"
+        "https://news.web.nhk/newsweb/na/nd-20260831de47345"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/ceatec_fairydevices-wcs/",
