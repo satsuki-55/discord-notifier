@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260831de47428"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/apple-claims-former-employee-stole-trade-secrets-for-openai-then-tried-to-destroy-the-evidence/",
         "https://www.gizmodo.jp/article/41f190c9-d169-4b6c-bb13-829ccc646a3f/",
         "https://www.gizmodo.jp/article/dyson-camerajet/",
         "https://www.gizmodo.jp/article/asus-note-pc-rtx-spark/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/amazon-macbook-air-m5/",
         "https://www.gizmodo.jp/article/tesla-finally-sets-a-launch-date-for-the-cybercab/",
         "https://www.gizmodo.jp/article/surprise-and-shine-apple/",
-        "https://www.gizmodo.jp/article/elecom-zebra-stylus-2way/",
-        "https://www.gizmodo.jp/article/arrows-alpha2/"
+        "https://www.gizmodo.jp/article/elecom-zebra-stylus-2way/"
     ]
 }
