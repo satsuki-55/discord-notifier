@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c3v0qrz7z25o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260903de47898",
         "https://news.web.nhk/newsweb/na/nd-20260903de47895",
         "https://news.web.nhk/newsweb/na/nd-20260902de47849",
         "https://news.web.nhk/newsweb/na/nd-20260903de47892",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260831de47474",
         "https://news.web.nhk/newsweb/na/nd-20260831de47500",
         "https://news.web.nhk/newsweb/na/nd-20260831de47460",
-        "https://news.web.nhk/newsweb/na/nd-20260831de47501",
-        "https://news.web.nhk/newsweb/na/nd-20260831de47482"
+        "https://news.web.nhk/newsweb/na/nd-20260831de47501"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/ikea-ankarlagg/",
