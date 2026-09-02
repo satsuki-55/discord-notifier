@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c4gv5gepxnyo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260902de47820",
         "https://news.web.nhk/newsweb/na/nd-20260902de47856",
         "https://news.web.nhk/newsweb/na/nd-20260902de47794",
         "https://news.web.nhk/newsweb/na/nd-20260902de47845",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260831de47442",
         "https://news.web.nhk/newsweb/na/nd-20260831de47417",
         "https://news.web.nhk/newsweb/na/nd-20260831de47408",
-        "https://news.web.nhk/newsweb/na/nd-20260831de47367",
-        "https://news.web.nhk/newsweb/na/nd-20260831de47422"
+        "https://news.web.nhk/newsweb/na/nd-20260831de47367"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/asus-note-pc-rtx-spark/",
         "https://www.gizmodo.jp/article/poco-f9-ultra/",
         "https://www.gizmodo.jp/article/bauhutte-gaming-arm-cushion-wide/",
         "https://www.gizmodo.jp/article/report-reveals-which-cars-are-most-likely-to-get-pooped-zmd/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/elecom-zebra-stylus-2way/",
         "https://www.gizmodo.jp/article/arrows-alpha2/",
         "https://www.gizmodo.jp/article/galaxy-tab-s12/",
-        "https://www.gizmodo.jp/article/the-results-were-disastrous-after-a-professor-suspecting-ai-use-switched-to-in-person-final-exams-xvx/",
-        "https://www.gizmodo.jp/article/data-centers-will-eat-12-of-us-electricity-by-2030-this-platinum-fuel-cell-fix-may-help/"
+        "https://www.gizmodo.jp/article/the-results-were-disastrous-after-a-professor-suspecting-ai-use-switched-to-in-person-final-exams-xvx/"
     ]
 }
