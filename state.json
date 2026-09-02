@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "TyKOScHExN4",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "VIoSYxFLCwo",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo#1",
         "https://www.bbc.co.uk/news/articles/cn9wv8l15ezo#0",
         "https://www.bbc.co.uk/news/articles/c1mvn2yp9n2o#0",
         "https://www.bbc.co.uk/news/videos/c33k72m7x11o#0",
@@ -200,10 +201,11 @@
         "https://www.bbc.co.uk/weather/articles/c99dypl3jgmo#0",
         "https://www.bbc.co.uk/news/articles/cz64955d56po#0",
         "https://www.bbc.co.uk/news/videos/c74emdn49kdo#0",
-        "https://www.bbc.co.uk/news/articles/c3v0qrz7z25o#0",
-        "https://www.bbc.co.uk/news/articles/cqlwrpey1epo#1"
+        "https://www.bbc.co.uk/news/articles/c3v0qrz7z25o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260903de47892",
+        "https://news.web.nhk/newsweb/na/nd-20260903de47888",
         "https://news.web.nhk/newsweb/na/nd-20260903de47885",
         "https://news.web.nhk/newsweb/na/nd-20260903de47889",
         "https://news.web.nhk/newsweb/na/nd-20260903de47887",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260831de47501",
         "https://news.web.nhk/newsweb/na/nd-20260831de47482",
         "https://news.web.nhk/newsweb/na/nd-20260831de47476",
-        "https://news.web.nhk/newsweb/na/nd-20260831de47473",
-        "https://news.web.nhk/newsweb/na/nd-20260831de47484",
-        "https://news.web.nhk/newsweb/na/nd-20260831de47480"
+        "https://news.web.nhk/newsweb/na/nd-20260831de47473"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/alk-shoulder-bag-3gp/",
