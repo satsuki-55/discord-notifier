@@ -2,6 +2,8 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "TyKOScHExN4",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "VIoSYxFLCwo",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cp30gqnpqjqo#0",
+        "https://www.bbc.co.uk/news/articles/cp3ky2w4y9no#1",
         "https://www.bbc.co.uk/news/articles/c8d3myrgdd1o#0",
         "https://www.bbc.co.uk/weather/articles/c99dypl3jgmo#0",
         "https://www.bbc.co.uk/news/articles/c39mv4vm7exo#0",
@@ -199,11 +201,10 @@
         "https://www.bbc.co.uk/news/articles/ckg0yyg7m9mo#0",
         "https://www.bbc.co.uk/news/articles/czjz31dk1xmo#1",
         "https://www.bbc.co.uk/news/videos/cz6zp2pwzx5o#0",
-        "https://www.bbc.co.uk/news/articles/cx2z72x5z1po#1",
-        "https://www.bbc.co.uk/news/articles/c99dyjk7mpyo#0",
-        "https://www.bbc.co.uk/news/articles/cn5dzldq1pzo#0"
+        "https://www.bbc.co.uk/news/articles/cx2z72x5z1po#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260903de47893",
         "https://news.web.nhk/newsweb/na/nd-20260903de47898",
         "https://news.web.nhk/newsweb/na/nd-20260903de47895",
         "https://news.web.nhk/newsweb/na/nd-20260902de47849",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260831de47488",
         "https://news.web.nhk/newsweb/na/nd-20260831de47474",
         "https://news.web.nhk/newsweb/na/nd-20260831de47500",
-        "https://news.web.nhk/newsweb/na/nd-20260831de47460",
-        "https://news.web.nhk/newsweb/na/nd-20260831de47501"
+        "https://news.web.nhk/newsweb/na/nd-20260831de47460"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/ikea-ankarlagg/",
