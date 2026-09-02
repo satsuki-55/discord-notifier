@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "TyKOScHExN4",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "VIoSYxFLCwo",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/ce9e810pg7ko#0",
         "https://www.bbc.co.uk/news/articles/c780ez2923xo#0",
         "https://www.bbc.co.uk/news/articles/c8xk4rl904vo#1",
         "https://www.bbc.co.uk/news/articles/c8xk4rl904vo#0",
@@ -200,10 +201,10 @@
         "https://www.bbc.co.uk/news/articles/c93vgv4kr49o#0",
         "https://www.bbc.co.uk/news/videos/c0m3197yxzmo#0",
         "https://www.bbc.co.uk/news/articles/cz0z4k28804o#1",
-        "https://www.bbc.co.uk/news/articles/c783x05nnlko#1",
-        "https://www.bbc.co.uk/news/articles/c3rew8jqny5o#0"
+        "https://www.bbc.co.uk/news/articles/c783x05nnlko#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260902de47867",
         "https://news.web.nhk/newsweb/na/nd-20260902de47864",
         "https://news.web.nhk/newsweb/na/nd-20260902de47865",
         "https://news.web.nhk/newsweb/na/nd-20260902de47796",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260828de46893",
         "https://news.web.nhk/newsweb/na/nd-20260828de46897",
         "https://news.web.nhk/newsweb/na/nd-20260831de47430",
-        "https://news.web.nhk/newsweb/na/nd-20260831de47439",
-        "https://news.web.nhk/newsweb/na/nd-20260831de47428"
+        "https://news.web.nhk/newsweb/na/nd-20260831de47439"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/switchbot-open-close-sensor/",
