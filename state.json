@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260828de46863"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/anker-power-bank-30w-builtin/",
         "https://www.gizmodo.jp/article/2607-lht-nitori-rechargeable-battery-apn/",
         "https://www.gizmodo.jp/article/3coins-cd-player/",
         "https://www.gizmodo.jp/article/corsair-skiff-100-plus/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/yonex_carbon-cruise-aerus-gt/",
         "https://www.gizmodo.jp/article/asimov-1/",
         "https://www.gizmodo.jp/article/comma-ai-chestnut/",
-        "https://www.gizmodo.jp/article/apple-pricedown/",
-        "https://www.gizmodo.jp/article/trustnic-car-fan-vvc-lri/"
+        "https://www.gizmodo.jp/article/apple-pricedown/"
     ]
 }
