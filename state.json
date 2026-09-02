@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/czxqk1gwxn7o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260902de47799",
         "https://news.web.nhk/newsweb/na/nd-20260902de47828",
         "https://news.web.nhk/newsweb/na/nd-20260902de47778",
         "https://news.web.nhk/newsweb/na/nd-20260902de47815",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260828de46910",
         "https://news.web.nhk/newsweb/na/nd-20260826de46360",
         "https://news.web.nhk/newsweb/na/nd-20260831de47375",
-        "https://news.web.nhk/newsweb/na/nd-20260831de47373",
-        "https://news.web.nhk/newsweb/na/nd-20260831de47366"
+        "https://news.web.nhk/newsweb/na/nd-20260831de47373"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/report-reveals-which-cars-are-most-likely-to-get-pooped-zmd/",
         "https://www.gizmodo.jp/article/bill-gates-warns-humanity-about-ai-we-do-not-have-the-luxury-of-moving-slowly/",
         "https://www.gizmodo.jp/article/ceatec_fairydevices-wcs/",
         "https://www.gizmodo.jp/article/anker-power-bank-30w-builtin/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/the-results-were-disastrous-after-a-professor-suspecting-ai-use-switched-to-in-person-final-exams-xvx/",
         "https://www.gizmodo.jp/article/data-centers-will-eat-12-of-us-electricity-by-2030-this-platinum-fuel-cell-fix-may-help/",
         "https://www.gizmodo.jp/article/new-mac-mini-cm/",
-        "https://www.gizmodo.jp/article/yonex_carbon-cruise-aerus-gt/",
-        "https://www.gizmodo.jp/article/asimov-1/"
+        "https://www.gizmodo.jp/article/yonex_carbon-cruise-aerus-gt/"
     ]
 }
