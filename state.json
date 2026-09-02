@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/ckgwxx0dg05o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260902de47852",
         "https://news.web.nhk/newsweb/na/nd-20260902de47820",
         "https://news.web.nhk/newsweb/na/nd-20260902de47856",
         "https://news.web.nhk/newsweb/na/nd-20260902de47794",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260831de47428",
         "https://news.web.nhk/newsweb/na/nd-20260831de47442",
         "https://news.web.nhk/newsweb/na/nd-20260831de47417",
-        "https://news.web.nhk/newsweb/na/nd-20260831de47408",
-        "https://news.web.nhk/newsweb/na/nd-20260831de47367"
+        "https://news.web.nhk/newsweb/na/nd-20260831de47408"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/asus-note-pc-rtx-spark/",
