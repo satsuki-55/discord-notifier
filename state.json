@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/c5ymvdm5520o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260902de47749",
+        "https://news.web.nhk/newsweb/na/nd-20260902de47751",
         "https://news.web.nhk/newsweb/na/nd-20260902de47744",
         "https://news.web.nhk/newsweb/na/nd-20260902de47729",
         "https://news.web.nhk/newsweb/na/nd-20260902de47733",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260828de47075",
         "https://news.web.nhk/newsweb/na/nd-20260830de47310",
         "https://news.web.nhk/newsweb/na/nd-20260830de47311",
-        "https://news.web.nhk/newsweb/na/nd-20260831de47324",
-        "https://news.web.nhk/newsweb/na/nd-20260831de47328",
-        "https://news.web.nhk/newsweb/na/nd-20260830de47308"
+        "https://news.web.nhk/newsweb/na/nd-20260831de47324"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/dell-gizmodo-xps-13-event/",
