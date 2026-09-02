@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c5ymvdm5520o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260902de47757",
         "https://news.web.nhk/newsweb/na/nd-20260902de47750",
         "https://news.web.nhk/newsweb/na/nd-20260902de47754",
         "https://news.web.nhk/newsweb/na/nd-20260831de47324",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260830de47307",
         "https://news.web.nhk/newsweb/na/nd-20260830de47318",
         "https://news.web.nhk/newsweb/na/nd-20260830de47304",
-        "https://news.web.nhk/newsweb/na/nd-20260831de47330",
-        "https://news.web.nhk/newsweb/na/nd-20260830de47321"
+        "https://news.web.nhk/newsweb/na/nd-20260831de47330"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/osaka-metro-humanoid/",
