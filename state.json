@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c8rnp5m85jlo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260902de47731",
         "https://news.web.nhk/newsweb/na/nd-20260902de47723",
         "https://news.web.nhk/newsweb/na/nd-20260902de47726",
         "https://news.web.nhk/newsweb/na/nd-20260902de47725",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260830de47308",
         "https://news.web.nhk/newsweb/na/nd-20260831de47325",
         "https://news.web.nhk/newsweb/na/nd-20260831de47327",
-        "https://news.web.nhk/newsweb/na/nd-20260830de47288",
-        "https://news.web.nhk/newsweb/na/nd-20260830de47316"
+        "https://news.web.nhk/newsweb/na/nd-20260830de47288"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/speedos-new-wearable-adds-speed-and-stroke-tracking-to-goggles-you-might-already-own/",
