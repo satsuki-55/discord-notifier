@@ -2,6 +2,8 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "TyKOScHExN4",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "igApwxB8a-E",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c70lwxve0y5o#0",
+        "https://www.bbc.co.uk/news/articles/c3eq80d5pejo#1",
         "https://www.bbc.co.uk/news/articles/cg59d09nyyvo#0",
         "https://www.bbc.co.uk/news/articles/cn458wx1w0eo#0",
         "https://www.bbc.co.uk/news/videos/cy0zdw78ngdo#0",
@@ -199,11 +201,10 @@
         "https://www.bbc.co.uk/news/articles/clyx0gzynneo#0",
         "https://www.bbc.co.uk/news/articles/cx27vxkpdz1o#0",
         "https://www.bbc.co.uk/news/articles/cjrx4j7pyz3o#0",
-        "https://www.bbc.co.uk/news/articles/c9v4w77d9m8o#0",
-        "https://www.bbc.co.uk/news/articles/c4g4r4lxx25o#0",
-        "https://www.bbc.co.uk/news/articles/cz0z4k28804o#0"
+        "https://www.bbc.co.uk/news/articles/c9v4w77d9m8o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260902de47735",
         "https://news.web.nhk/newsweb/na/nd-20260902de47843",
         "https://news.web.nhk/newsweb/na/nd-20260902de47840",
         "https://news.web.nhk/newsweb/na/nd-20260902de47827",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260831de47413",
         "https://news.web.nhk/newsweb/na/nd-20260831de47405",
         "https://news.web.nhk/newsweb/na/nd-20260828de46966",
-        "https://news.web.nhk/newsweb/na/nd-20260831de47398",
-        "https://news.web.nhk/newsweb/na/nd-20260831de47395"
+        "https://news.web.nhk/newsweb/na/nd-20260831de47398"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/bauhutte-gaming-arm-cushion-wide/",
