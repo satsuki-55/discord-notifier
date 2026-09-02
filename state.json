@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c5ymvdm5520o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260902de47744",
         "https://news.web.nhk/newsweb/na/nd-20260902de47729",
         "https://news.web.nhk/newsweb/na/nd-20260902de47733",
         "https://news.web.nhk/newsweb/na/nd-20260902de47731",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260830de47311",
         "https://news.web.nhk/newsweb/na/nd-20260831de47324",
         "https://news.web.nhk/newsweb/na/nd-20260831de47328",
-        "https://news.web.nhk/newsweb/na/nd-20260830de47308",
-        "https://news.web.nhk/newsweb/na/nd-20260831de47325"
+        "https://news.web.nhk/newsweb/na/nd-20260830de47308"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/bstbb700-buffalo/",
