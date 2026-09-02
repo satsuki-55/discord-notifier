@@ -204,6 +204,9 @@
         "https://www.bbc.co.uk/news/articles/cx2zy118q7ko#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260828de46859",
+        "https://news.web.nhk/newsweb/na/nd-20260902de47787",
+        "https://news.web.nhk/newsweb/na/nd-20260902de47790",
         "https://news.web.nhk/newsweb/na/nd-20260828de46967",
         "https://news.web.nhk/newsweb/na/nd-20260902de47784",
         "https://news.web.nhk/newsweb/na/nd-20260902de47783",
@@ -400,10 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260826de46406",
         "https://news.web.nhk/newsweb/na/nd-20260831de47352",
         "https://news.web.nhk/newsweb/na/nd-20260831de47336",
-        "https://news.web.nhk/newsweb/na/nd-20260828de46863",
-        "https://news.web.nhk/newsweb/na/nd-20260831de47331",
-        "https://news.web.nhk/newsweb/na/nd-20260831de47341",
-        "https://news.web.nhk/newsweb/na/nd-20260828de46859"
+        "https://news.web.nhk/newsweb/na/nd-20260828de46863"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2607-lht-nitori-rechargeable-battery-apn/",
