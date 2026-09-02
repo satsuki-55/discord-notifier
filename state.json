@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c1e5p51n2p2o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260902de47783",
         "https://news.web.nhk/newsweb/na/nd-20260902de47765",
         "https://news.web.nhk/newsweb/na/nd-20260902de47767",
         "https://news.web.nhk/newsweb/na/nd-20260902de47764",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260831de47341",
         "https://news.web.nhk/newsweb/na/nd-20260828de46859",
         "https://news.web.nhk/newsweb/na/nd-20260831de47340",
-        "https://news.web.nhk/newsweb/na/nd-20260828de46832",
-        "https://news.web.nhk/newsweb/na/nd-20260831de47326"
+        "https://news.web.nhk/newsweb/na/nd-20260828de46832"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/3coins-cd-player/",
