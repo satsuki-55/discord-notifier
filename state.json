@@ -2,6 +2,15 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "TyKOScHExN4",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "VIoSYxFLCwo",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/ckg0y07rdplo#1",
+        "https://www.bbc.co.uk/news/articles/cy4zgpynwdjo#0",
+        "https://www.bbc.co.uk/news/articles/clyx0gzynneo#0",
+        "https://www.bbc.co.uk/news/videos/ckgxzyrk7x7o#0",
+        "https://www.bbc.co.uk/news/articles/c8xk45k9r1go#0",
+        "https://www.bbc.co.uk/news/articles/cj4jn9q7evpo#1",
+        "https://www.bbc.co.uk/news/articles/cn74vzl52l4o#1",
+        "https://www.bbc.co.uk/news/videos/c9v9y7z7mxyo#0",
+        "https://www.bbc.co.uk/news/articles/c7708vn2yp7o#0",
         "https://www.bbc.co.uk/news/articles/cy7zxy2p7k8o#0",
         "https://www.bbc.co.uk/news/articles/c70lwxve0y5o#0",
         "https://www.bbc.co.uk/news/articles/c3eq80d5pejo#1",
@@ -192,18 +201,10 @@
         "https://www.bbc.co.uk/news/articles/c1dl31k01v7o#0",
         "https://www.bbc.co.uk/sport/tennis/articles/c39m1le9gjeo#0",
         "https://www.bbc.co.uk/news/articles/c4gv5gepxnyo#0",
-        "https://www.bbc.co.uk/news/articles/cly5v8qmy64o#0",
-        "https://www.bbc.co.uk/news/articles/cx2z4n8j14do#0",
-        "https://www.bbc.co.uk/news/articles/cm2q7z5mlrmo#0",
-        "https://www.bbc.co.uk/news/articles/c3v4px7yv6xo#0",
-        "https://www.bbc.co.uk/weather/articles/cpq0zqepnrlo#0",
-        "https://www.bbc.co.uk/news/articles/cy4zgpynwdjo#0",
-        "https://www.bbc.co.uk/news/articles/c4g3nwwjd8go#0",
-        "https://www.bbc.co.uk/news/articles/clyx0gzynneo#0",
-        "https://www.bbc.co.uk/news/articles/cx27vxkpdz1o#0",
-        "https://www.bbc.co.uk/news/articles/cjrx4j7pyz3o#0"
+        "https://www.bbc.co.uk/news/articles/cly5v8qmy64o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260902de47809",
         "https://news.web.nhk/newsweb/na/nd-20260828de46966",
         "https://news.web.nhk/newsweb/na/nd-20260902de47803",
         "https://news.web.nhk/newsweb/na/nd-20260902de47835",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260831de47422",
         "https://news.web.nhk/newsweb/na/nd-20260831de47388",
         "https://news.web.nhk/newsweb/na/nd-20260831de47384",
-        "https://news.web.nhk/newsweb/na/nd-20260826de46396",
-        "https://news.web.nhk/newsweb/na/nd-20260831de47413"
+        "https://news.web.nhk/newsweb/na/nd-20260826de46396"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/poco-f9-ultra/",
