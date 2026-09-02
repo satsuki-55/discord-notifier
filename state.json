@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "TyKOScHExN4",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "VIoSYxFLCwo",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c0m3wpk7rdjo#0",
         "https://www.bbc.co.uk/news/articles/cj4jnqvdny0o#0",
         "https://www.bbc.co.uk/news/articles/c0rez9zegj5o#0",
         "https://www.bbc.co.uk/news/articles/c8d39vq779no#1",
@@ -200,8 +201,7 @@
         "https://www.bbc.co.uk/news/articles/c1mv5ggg1l8o#0",
         "https://www.bbc.co.uk/news/articles/cddv92n194vo#0",
         "https://www.bbc.co.uk/news/articles/c8xkqjdk142o#1",
-        "https://www.bbc.co.uk/news/articles/clylkjyez1do#1",
-        "https://www.bbc.co.uk/news/articles/c93vgv4kr49o#0"
+        "https://www.bbc.co.uk/news/articles/clylkjyez1do#1"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20260902de47867",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260831de47439"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/alk-shoulder-bag-3gp/",
         "https://www.gizmodo.jp/article/switchbot-open-close-sensor/",
         "https://www.gizmodo.jp/article/apple-claims-former-employee-stole-trade-secrets-for-openai-then-tried-to-destroy-the-evidence/",
         "https://www.gizmodo.jp/article/41f190c9-d169-4b6c-bb13-829ccc646a3f/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/switchbot-aimindclip/",
         "https://www.gizmodo.jp/article/shokz-put-its-new-open-wireless-earbuds-on-a-diet/",
         "https://www.gizmodo.jp/article/amazon-macbook-air-m5/",
-        "https://www.gizmodo.jp/article/tesla-finally-sets-a-launch-date-for-the-cybercab/",
-        "https://www.gizmodo.jp/article/surprise-and-shine-apple/"
+        "https://www.gizmodo.jp/article/tesla-finally-sets-a-launch-date-for-the-cybercab/"
     ]
 }
