@@ -2,6 +2,8 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "TyKOScHExN4",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "VIoSYxFLCwo",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c7507g9v992o#0",
+        "https://www.bbc.co.uk/news/articles/c0rez9zegj5o#1",
         "https://www.bbc.co.uk/news/articles/cgk5m42z1vpo#0",
         "https://www.bbc.co.uk/news/articles/c7839kyekm0o#0",
         "https://www.bbc.co.uk/news/articles/c70de1ny92wo#0",
@@ -199,11 +201,10 @@
         "https://www.bbc.co.uk/news/articles/c1dl31k01v7o#1",
         "https://www.bbc.co.uk/news/articles/cj9xj89dk40o#0",
         "https://www.bbc.co.uk/news/articles/ce871n7lyvlo#0",
-        "https://www.bbc.co.uk/news/articles/c1mv5ggg1l8o#1",
-        "https://www.bbc.co.uk/news/articles/cddv92n194vo#1",
-        "https://www.bbc.co.uk/news/articles/c2e074nn8eko#0"
+        "https://www.bbc.co.uk/news/articles/c1mv5ggg1l8o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260903de47914",
         "https://news.web.nhk/newsweb/na/nd-20260903de47905",
         "https://news.web.nhk/newsweb/na/nd-20260903de47904",
         "https://news.web.nhk/newsweb/na/nd-20260903de47900",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260831de47509",
         "https://news.web.nhk/newsweb/na/nd-20260831de47510",
         "https://news.web.nhk/newsweb/na/nd-20260831de47487",
-        "https://news.web.nhk/newsweb/na/nd-20260831de47494",
-        "https://news.web.nhk/newsweb/na/nd-20260831de47499"
+        "https://news.web.nhk/newsweb/na/nd-20260831de47494"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/sparkle-tcx-280df/",
         "https://www.gizmodo.jp/article/mars-potato-shaped-moon-may-have-gotten-its-youthful-look-from-a-single-impact/",
         "https://www.gizmodo.jp/article/a-massive-steam-leak-has-unearthed-thousands-of-lost-game-builds/",
         "https://www.gizmodo.jp/article/ikea-ankarlagg/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/bc776186-1c73-4bd3-9839-cd57f4bd89cd/",
         "https://www.gizmodo.jp/article/toyroyal_remotecontroller/",
         "https://www.gizmodo.jp/article/85015b03-6e13-42fe-8969-c50bf587509d/",
-        "https://www.gizmodo.jp/article/db41a2f2-f7fe-4a28-bf80-0cdcee2d9777/",
-        "https://www.gizmodo.jp/article/sanwa-usbc-cable/"
+        "https://www.gizmodo.jp/article/db41a2f2-f7fe-4a28-bf80-0cdcee2d9777/"
     ]
 }
