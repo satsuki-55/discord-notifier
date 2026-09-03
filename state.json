@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/ce871n7lyvlo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260903de47922",
         "https://news.web.nhk/newsweb/na/nd-20260903de47931",
         "https://news.web.nhk/newsweb/na/nd-20260903de47927",
         "https://news.web.nhk/newsweb/na/nd-20260903de47930",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260826de46568",
         "https://news.web.nhk/newsweb/na/nd-20260831de47515",
         "https://news.web.nhk/newsweb/na/nd-20260831de47512",
-        "https://news.web.nhk/newsweb/na/nd-20260831de47511",
-        "https://news.web.nhk/newsweb/na/nd-20260831de47508"
+        "https://news.web.nhk/newsweb/na/nd-20260831de47511"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/escura-lab-instantsnap-novo/",
