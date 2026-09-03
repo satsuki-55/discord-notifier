@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "TyKOScHExN4",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "VIoSYxFLCwo",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/ce9e838jzpzo#1",
         "https://www.bbc.co.uk/news/articles/crk661074ejo#0",
         "https://www.bbc.co.uk/news/articles/c62e6rkn43ko#0",
         "https://www.bbc.co.uk/news/articles/c9861x5pzgxo#1",
@@ -200,10 +201,10 @@
         "https://www.bbc.co.uk/news/articles/cm2q1qgg542o#1",
         "https://www.bbc.co.uk/news/articles/c5ylm3m67n2o#0",
         "https://www.bbc.co.uk/news/articles/cm2792pendro#0",
-        "https://www.bbc.co.uk/news/articles/cx2zmdgry3do#1",
-        "https://www.bbc.co.uk/news/articles/c24j5192j7jo#1"
+        "https://www.bbc.co.uk/news/articles/cx2zmdgry3do#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260901de47556",
         "https://news.web.nhk/newsweb/na/nd-20260903de48040",
         "https://news.web.nhk/newsweb/na/nd-20260903de48029",
         "https://news.web.nhk/newsweb/na/nd-20260903de48025",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260901de47575",
         "https://news.web.nhk/newsweb/na/nd-20260827de46626",
         "https://news.web.nhk/newsweb/na/nd-20260901de47568",
-        "https://news.web.nhk/newsweb/na/nd-20260829de47163",
-        "https://news.web.nhk/newsweb/na/nd-20260901de47558"
+        "https://news.web.nhk/newsweb/na/nd-20260829de47163"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/iphone18-nonsilver/",
