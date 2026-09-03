@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260901de47630"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/openai_gpt_6_astra_release/",
         "https://www.gizmodo.jp/article/dell-tries-beat-the-macbook-neo-with-yet-another-cheapish-laptop/",
         "https://www.gizmodo.jp/article/hanare-okomo-nest-zuo/",
         "https://www.gizmodo.jp/article/jumping-jacks-gadget-70/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/maxevis-ai-go-board-game/",
         "https://www.gizmodo.jp/article/gravitrax-marble-run-toyshow2026/",
         "https://www.gizmodo.jp/article/microsoft-ups-investment-in-polluting-ai-but-cuts-down-carbon-removal-by-80/",
-        "https://www.gizmodo.jp/article/toshibanduke/",
-        "https://www.gizmodo.jp/article/orca-echo-first-impression/"
+        "https://www.gizmodo.jp/article/toshibanduke/"
     ]
 }
