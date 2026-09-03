@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c780wy7ype4o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260903de47958",
         "https://news.web.nhk/newsweb/na/nd-20260903de47966",
         "https://news.web.nhk/newsweb/na/nd-20260903de47956",
         "https://news.web.nhk/newsweb/na/nd-20260903de47950",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260828de47115",
         "https://news.web.nhk/newsweb/na/nd-20260831de47505",
         "https://news.web.nhk/newsweb/na/nd-20260901de47537",
-        "https://news.web.nhk/newsweb/na/nd-20260901de47526",
-        "https://news.web.nhk/newsweb/na/nd-20260831de47517"
+        "https://news.web.nhk/newsweb/na/nd-20260901de47526"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2604-ewa-a106-axl/",
