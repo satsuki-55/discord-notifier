@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c2dw3wn972no#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260903de47984",
         "https://news.web.nhk/newsweb/na/nd-20260903de47912",
         "https://news.web.nhk/newsweb/na/nd-20260903de47980",
         "https://news.web.nhk/newsweb/na/nd-20260903de47982",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260831de47504",
         "https://news.web.nhk/newsweb/na/nd-20260831de47507",
         "https://news.web.nhk/newsweb/na/nd-20260831de47520",
-        "https://news.web.nhk/newsweb/na/nd-20260831de47519",
-        "https://news.web.nhk/newsweb/na/nd-20260901de47527"
+        "https://news.web.nhk/newsweb/na/nd-20260831de47519"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/3coins-multi-tool-review-dvs/",
