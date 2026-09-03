@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c9w4jgg4y55o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260903de47912",
         "https://news.web.nhk/newsweb/na/nd-20260903de47980",
         "https://news.web.nhk/newsweb/na/nd-20260903de47982",
         "https://news.web.nhk/newsweb/na/nd-20260903de47976",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260831de47507",
         "https://news.web.nhk/newsweb/na/nd-20260831de47520",
         "https://news.web.nhk/newsweb/na/nd-20260831de47519",
-        "https://news.web.nhk/newsweb/na/nd-20260901de47527",
-        "https://news.web.nhk/newsweb/na/nd-20260901de47541"
+        "https://news.web.nhk/newsweb/na/nd-20260901de47527"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/dyson-camera-jet/",
         "https://www.gizmodo.jp/article/aqumo-candle-npn/",
         "https://www.gizmodo.jp/article/pebble-time-2-review-the-most-joyful-smartwatch-ive-ever-worn/",
         "https://www.gizmodo.jp/article/2604-ewa-a106-axl/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/olight_oclipultra-lyf/",
         "https://www.gizmodo.jp/article/ugreen-nexode-20000-10000-202608/",
         "https://www.gizmodo.jp/article/electric-water-gun-enw/",
-        "https://www.gizmodo.jp/article/nanodrift-ae86-mini-drift-rc/",
-        "https://www.gizmodo.jp/article/kaitanics-honda-super-cub-110-tokyo-omocha-show/"
+        "https://www.gizmodo.jp/article/nanodrift-ae86-mini-drift-rc/"
     ]
 }
