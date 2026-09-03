@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/videos/cz6zp2pwzx5o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260903de47900",
         "https://news.web.nhk/newsweb/na/nd-20260903de47902",
         "https://news.web.nhk/newsweb/na/nd-20260903de47893",
         "https://news.web.nhk/newsweb/na/nd-20260903de47898",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260831de47494",
         "https://news.web.nhk/newsweb/na/nd-20260831de47499",
         "https://news.web.nhk/newsweb/na/nd-20260831de47488",
-        "https://news.web.nhk/newsweb/na/nd-20260831de47474",
-        "https://news.web.nhk/newsweb/na/nd-20260831de47500"
+        "https://news.web.nhk/newsweb/na/nd-20260831de47474"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/a-massive-steam-leak-has-unearthed-thousands-of-lost-game-builds/",
         "https://www.gizmodo.jp/article/ikea-ankarlagg/",
         "https://www.gizmodo.jp/article/huawei-band-11_review/",
         "https://www.gizmodo.jp/article/sonos-new-beam-soundbar-has-up-firing-speakers/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/85015b03-6e13-42fe-8969-c50bf587509d/",
         "https://www.gizmodo.jp/article/db41a2f2-f7fe-4a28-bf80-0cdcee2d9777/",
         "https://www.gizmodo.jp/article/sanwa-usbc-cable/",
-        "https://www.gizmodo.jp/article/tcl-k1-smart-lock-rxz/",
-        "https://www.gizmodo.jp/article/switchbot-aimindclip/"
+        "https://www.gizmodo.jp/article/tcl-k1-smart-lock-rxz/"
     ]
 }
