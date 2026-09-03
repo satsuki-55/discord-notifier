@@ -2,6 +2,8 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "TyKOScHExN4",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "VIoSYxFLCwo",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c70de1ny92wo#0",
+        "https://www.bbc.co.uk/news/articles/cy8z7wypzqxo#0",
         "https://www.bbc.co.uk/sport/tennis/articles/cjdv3gxl5zgo#0",
         "https://www.bbc.co.uk/news/articles/cp30gqnpqjqo#0",
         "https://www.bbc.co.uk/news/articles/cp3ky2w4y9no#1",
@@ -199,9 +201,7 @@
         "https://www.bbc.co.uk/news/articles/cddv92n194vo#1",
         "https://www.bbc.co.uk/news/articles/c2e074nn8eko#0",
         "https://www.bbc.co.uk/weather/articles/cn0n01vrw9vo#0",
-        "https://www.bbc.co.uk/news/articles/ckg0yyg7m9mo#0",
-        "https://www.bbc.co.uk/news/articles/czjz31dk1xmo#1",
-        "https://www.bbc.co.uk/news/videos/cz6zp2pwzx5o#0"
+        "https://www.bbc.co.uk/news/articles/ckg0yyg7m9mo#0"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20260903de47900",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260831de47474"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/mars-potato-shaped-moon-may-have-gotten-its-youthful-look-from-a-single-impact/",
         "https://www.gizmodo.jp/article/a-massive-steam-leak-has-unearthed-thousands-of-lost-game-builds/",
         "https://www.gizmodo.jp/article/ikea-ankarlagg/",
         "https://www.gizmodo.jp/article/huawei-band-11_review/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/toyroyal_remotecontroller/",
         "https://www.gizmodo.jp/article/85015b03-6e13-42fe-8969-c50bf587509d/",
         "https://www.gizmodo.jp/article/db41a2f2-f7fe-4a28-bf80-0cdcee2d9777/",
-        "https://www.gizmodo.jp/article/sanwa-usbc-cable/",
-        "https://www.gizmodo.jp/article/tcl-k1-smart-lock-rxz/"
+        "https://www.gizmodo.jp/article/sanwa-usbc-cable/"
     ]
 }
