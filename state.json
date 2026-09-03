@@ -2,6 +2,9 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "TyKOScHExN4",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "VIoSYxFLCwo",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c89jgw0x0zgo#0",
+        "https://www.bbc.co.uk/news/articles/czxz73zp7nwo#1",
+        "https://www.bbc.co.uk/weather/articles/cd0x17r4j0yo#0",
         "https://www.bbc.co.uk/news/videos/cdx02dw785vo#0",
         "https://www.bbc.co.uk/news/articles/cge41ee40vwo#0",
         "https://www.bbc.co.uk/news/videos/cly4zxd7e7wo#0",
@@ -198,12 +201,12 @@
         "https://www.bbc.co.uk/sport/olympics/articles/cwyz3dxpnq9o#0",
         "https://www.bbc.co.uk/news/articles/c5yvpr0751go#0",
         "https://www.bbc.co.uk/news/articles/c3v0qrz7z25o#1",
-        "https://www.bbc.co.uk/news/articles/c1wxex4vg35o#0",
-        "https://www.bbc.co.uk/news/articles/cx2d1vy0827o#1",
-        "https://www.bbc.co.uk/weather/articles/c1l6g7gqm37o#0",
-        "https://www.bbc.co.uk/news/articles/c2dw3wn972no#0"
+        "https://www.bbc.co.uk/news/articles/c1wxex4vg35o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260903de47990",
+        "https://news.web.nhk/newsweb/na/nd-20260903de47998",
+        "https://news.web.nhk/newsweb/na/nd-20260903de48000",
         "https://news.web.nhk/newsweb/na/nd-20260903de47984",
         "https://news.web.nhk/newsweb/na/nd-20260903de47912",
         "https://news.web.nhk/newsweb/na/nd-20260903de47980",
@@ -400,10 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260901de47545",
         "https://news.web.nhk/newsweb/na/nd-20260831de47518",
         "https://news.web.nhk/newsweb/na/nd-20260901de47542",
-        "https://news.web.nhk/newsweb/na/nd-20260831de47504",
-        "https://news.web.nhk/newsweb/na/nd-20260831de47507",
-        "https://news.web.nhk/newsweb/na/nd-20260831de47520",
-        "https://news.web.nhk/newsweb/na/nd-20260831de47519"
+        "https://news.web.nhk/newsweb/na/nd-20260831de47504"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/3coins-multi-tool-review-dvs/",
