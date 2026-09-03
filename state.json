@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c1kxmvm39nyo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260828de46968",
         "https://news.web.nhk/newsweb/na/nd-20260903de47972",
         "https://news.web.nhk/newsweb/na/nd-20260903de47974",
         "https://news.web.nhk/newsweb/na/nd-20260903de47943",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260901de47531",
         "https://news.web.nhk/newsweb/na/nd-20260901de47534",
         "https://news.web.nhk/newsweb/na/nd-20260831de47522",
-        "https://news.web.nhk/newsweb/na/nd-20260901de47528",
-        "https://news.web.nhk/newsweb/na/nd-20260901de47524"
+        "https://news.web.nhk/newsweb/na/nd-20260901de47528"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/pebble-time-2-review-the-most-joyful-smartwatch-ive-ever-worn/",
