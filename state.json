@@ -2,6 +2,10 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "TyKOScHExN4",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "VIoSYxFLCwo",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cvgydk0vvpyo#0",
+        "https://www.bbc.co.uk/news/articles/cjwg5n7y68xo#0",
+        "https://www.bbc.co.uk/news/articles/c17jqp0xzpzo#0",
+        "https://www.bbc.co.uk/news/articles/c1mvn2yp9n2o#1",
         "https://www.bbc.co.uk/news/articles/cj9x2k8n3y1o#0",
         "https://www.bbc.co.uk/news/videos/cg59d9dyn46o#0",
         "https://www.bbc.co.uk/news/videos/c9v9y7z7mxyo#1",
@@ -197,13 +201,10 @@
         "https://www.bbc.co.uk/news/articles/cd684219x6do#0",
         "https://www.bbc.co.uk/news/articles/c1kxmvm39nyo#0",
         "https://www.bbc.co.uk/news/articles/c62m7vp5895o#1",
-        "https://www.bbc.co.uk/news/videos/c89jxgd93qyo#0",
-        "https://www.bbc.co.uk/news/articles/cx2d1vy0827o#0",
-        "https://www.bbc.co.uk/news/articles/cz64955d56po#1",
-        "https://www.bbc.co.uk/news/articles/cvgydk0vvpyo#0",
-        "https://www.bbc.co.uk/news/articles/cjwg5n7y68xo#0"
+        "https://www.bbc.co.uk/news/videos/c89jxgd93qyo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260903de47970",
         "https://news.web.nhk/newsweb/na/nd-20260903de47958",
         "https://news.web.nhk/newsweb/na/nd-20260903de47966",
         "https://news.web.nhk/newsweb/na/nd-20260903de47956",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260901de47524",
         "https://news.web.nhk/newsweb/na/nd-20260828de47115",
         "https://news.web.nhk/newsweb/na/nd-20260831de47505",
-        "https://news.web.nhk/newsweb/na/nd-20260901de47537",
-        "https://news.web.nhk/newsweb/na/nd-20260901de47526"
+        "https://news.web.nhk/newsweb/na/nd-20260901de47537"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/pebble-time-2-review-the-most-joyful-smartwatch-ive-ever-worn/",
         "https://www.gizmodo.jp/article/2604-ewa-a106-axl/",
         "https://www.gizmodo.jp/article/hey-really-didnt-have-to-go-this-hard-for-the-cyberpunk-2077-edition-of-the-commodore-64/",
         "https://www.gizmodo.jp/article/iphone18pro-colors/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/electric-water-gun-enw/",
         "https://www.gizmodo.jp/article/nanodrift-ae86-mini-drift-rc/",
         "https://www.gizmodo.jp/article/kaitanics-honda-super-cub-110-tokyo-omocha-show/",
-        "https://www.gizmodo.jp/article/hex-bots-yamori/",
-        "https://www.gizmodo.jp/article/apple-event-2026-report/"
+        "https://www.gizmodo.jp/article/hex-bots-yamori/"
     ]
 }
