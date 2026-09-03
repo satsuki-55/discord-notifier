@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/weather/articles/cn0n01vrw9vo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260903de47905",
         "https://news.web.nhk/newsweb/na/nd-20260903de47904",
         "https://news.web.nhk/newsweb/na/nd-20260903de47900",
         "https://news.web.nhk/newsweb/na/nd-20260903de47902",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260831de47510",
         "https://news.web.nhk/newsweb/na/nd-20260831de47487",
         "https://news.web.nhk/newsweb/na/nd-20260831de47494",
-        "https://news.web.nhk/newsweb/na/nd-20260831de47499",
-        "https://news.web.nhk/newsweb/na/nd-20260831de47488"
+        "https://news.web.nhk/newsweb/na/nd-20260831de47499"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/mars-potato-shaped-moon-may-have-gotten-its-youthful-look-from-a-single-impact/",
