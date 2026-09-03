@@ -2,6 +2,9 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "TyKOScHExN4",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "VIoSYxFLCwo",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c07lz7rn2mjo#0",
+        "https://www.bbc.co.uk/news/articles/c23x4yd9zz2o#1",
+        "https://www.bbc.co.uk/news/articles/cy8z7wypzqxo#1",
         "https://www.bbc.co.uk/news/articles/c89jgw0x0zgo#0",
         "https://www.bbc.co.uk/news/articles/czxz73zp7nwo#1",
         "https://www.bbc.co.uk/weather/articles/cd0x17r4j0yo#0",
@@ -198,10 +201,7 @@
         "https://www.bbc.co.uk/news/articles/c3v4pzn0p7yo#0",
         "https://www.bbc.co.uk/news/articles/cdx0np90lx4o#1",
         "https://www.bbc.co.uk/news/articles/cvgy91nvy27o#1",
-        "https://www.bbc.co.uk/sport/olympics/articles/cwyz3dxpnq9o#0",
-        "https://www.bbc.co.uk/news/articles/c5yvpr0751go#0",
-        "https://www.bbc.co.uk/news/articles/c3v0qrz7z25o#1",
-        "https://www.bbc.co.uk/news/articles/c1wxex4vg35o#0"
+        "https://www.bbc.co.uk/sport/olympics/articles/cwyz3dxpnq9o#0"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20260903de47990",
