@@ -2,6 +2,9 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "TyKOScHExN4",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "VIoSYxFLCwo",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/videos/cg59d9dyn46o#0",
+        "https://www.bbc.co.uk/news/videos/c9v9y7z7mxyo#1",
+        "https://www.bbc.co.uk/news/articles/c0qxw1qw3g7o#0",
         "https://www.bbc.co.uk/news/articles/c3v4wz946wdo#1",
         "https://www.bbc.co.uk/news/articles/c93vgv4kr49o#0",
         "https://www.bbc.co.uk/news/articles/clyk32nr1emo#1",
@@ -198,12 +201,10 @@
         "https://www.bbc.co.uk/news/articles/cz64955d56po#1",
         "https://www.bbc.co.uk/news/articles/cvgydk0vvpyo#0",
         "https://www.bbc.co.uk/news/articles/cjwg5n7y68xo#0",
-        "https://www.bbc.co.uk/news/articles/c780wy7ype4o#0",
-        "https://www.bbc.co.uk/news/articles/crr451lpl4no#1",
-        "https://www.bbc.co.uk/news/articles/c62m7vp5895o#0",
-        "https://www.bbc.co.uk/news/articles/cx2zmdgry3do#0"
+        "https://www.bbc.co.uk/news/articles/c780wy7ype4o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260903de47956",
         "https://news.web.nhk/newsweb/na/nd-20260903de47950",
         "https://news.web.nhk/newsweb/na/nd-20260903de47942",
         "https://news.web.nhk/newsweb/na/nd-20260903de47939",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260901de47537",
         "https://news.web.nhk/newsweb/na/nd-20260901de47526",
         "https://news.web.nhk/newsweb/na/nd-20260831de47517",
-        "https://news.web.nhk/newsweb/na/nd-20260828de47091",
-        "https://news.web.nhk/newsweb/na/nd-20260826de46568"
+        "https://news.web.nhk/newsweb/na/nd-20260828de47091"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2604-ewa-a106-axl/",
         "https://www.gizmodo.jp/article/hey-really-didnt-have-to-go-this-hard-for-the-cyberpunk-2077-edition-of-the-commodore-64/",
         "https://www.gizmodo.jp/article/iphone18pro-colors/",
         "https://www.gizmodo.jp/article/kidou-bungu-auto-transform-card-case/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/nanodrift-ae86-mini-drift-rc/",
         "https://www.gizmodo.jp/article/kaitanics-honda-super-cub-110-tokyo-omocha-show/",
         "https://www.gizmodo.jp/article/hex-bots-yamori/",
-        "https://www.gizmodo.jp/article/apple-event-2026-report/",
-        "https://www.gizmodo.jp/article/7c8b351f-344e-4d1a-a5a4-b690883c5562/"
+        "https://www.gizmodo.jp/article/apple-event-2026-report/"
     ]
 }
