@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "TyKOScHExN4",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "VIoSYxFLCwo",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c5ye295pxgxo#1",
         "https://www.bbc.co.uk/news/articles/c4gk2zlv0e6o#0",
         "https://www.bbc.co.uk/news/articles/ceq8r5gjygno#0",
         "https://www.bbc.co.uk/news/articles/c8jdyxpdnldo#1",
@@ -200,10 +201,10 @@
         "https://www.bbc.co.uk/news/articles/cew95ke74l7o#1",
         "https://www.bbc.co.uk/news/articles/cm279dk9r8no#0",
         "https://www.bbc.co.uk/sport/football/articles/c780w17lw02o#1",
-        "https://www.bbc.co.uk/news/articles/cvgy4258kgyo#0",
-        "https://www.bbc.co.uk/news/articles/c3v4pzn0p7yo#0"
+        "https://www.bbc.co.uk/news/articles/cvgy4258kgyo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260903de47996",
         "https://news.web.nhk/newsweb/na/nd-20260903de47994",
         "https://news.web.nhk/newsweb/na/nd-20260903de48004",
         "https://news.web.nhk/newsweb/na/nd-20260903de48011",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260831de47521",
         "https://news.web.nhk/newsweb/na/nd-20260901de47536",
         "https://news.web.nhk/newsweb/na/nd-20260901de47539",
-        "https://news.web.nhk/newsweb/na/nd-20260901de47543",
-        "https://news.web.nhk/newsweb/na/nd-20260829de47143"
+        "https://news.web.nhk/newsweb/na/nd-20260901de47543"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/3coins-multi-tool-review-dvs/",
