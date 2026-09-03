@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "TyKOScHExN4",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "Zl0h5xckZ0c",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cvgyqey6rlyo#0",
         "https://www.bbc.co.uk/news/articles/c4gq2my0v5po#0",
         "https://www.bbc.co.uk/news/articles/cn5d2r0zqvdo#0",
         "https://www.bbc.co.uk/news/articles/c1l123mmrg7o#0",
@@ -200,10 +201,11 @@
         "https://www.bbc.co.uk/news/articles/clyk5016mpyo#0",
         "https://www.bbc.co.uk/news/articles/cddvyyz0e47o#0",
         "https://www.bbc.co.uk/news/articles/cm279dk9r8no#1",
-        "https://www.bbc.co.uk/news/articles/cg7k09z4lj9o#0",
-        "https://www.bbc.co.uk/news/articles/cj4jn9q7evpo#0"
+        "https://www.bbc.co.uk/news/articles/cg7k09z4lj9o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260903de48053",
+        "https://news.web.nhk/newsweb/na/nd-20260903de48052",
         "https://news.web.nhk/newsweb/na/nd-20260903de48045",
         "https://news.web.nhk/newsweb/na/nd-20260904de48061",
         "https://news.web.nhk/newsweb/na/nd-20260903de48057",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260901de47616",
         "https://news.web.nhk/newsweb/na/nd-20260901de47618",
         "https://news.web.nhk/newsweb/na/nd-20260901de47609",
-        "https://news.web.nhk/newsweb/na/nd-20260901de47610",
-        "https://news.web.nhk/newsweb/na/nd-20260901de47565",
-        "https://news.web.nhk/newsweb/na/nd-20260901de47606"
+        "https://news.web.nhk/newsweb/na/nd-20260901de47610"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/hanare-okomo-nest-zuo/",
