@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c1mv5ggg1l8o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260903de47915",
         "https://news.web.nhk/newsweb/na/nd-20260903de47914",
         "https://news.web.nhk/newsweb/na/nd-20260903de47905",
         "https://news.web.nhk/newsweb/na/nd-20260903de47904",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260831de47513",
         "https://news.web.nhk/newsweb/na/nd-20260831de47509",
         "https://news.web.nhk/newsweb/na/nd-20260831de47510",
-        "https://news.web.nhk/newsweb/na/nd-20260831de47487",
-        "https://news.web.nhk/newsweb/na/nd-20260831de47494"
+        "https://news.web.nhk/newsweb/na/nd-20260831de47487"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/3-more-macs-to-obsolete-products-202609/",
