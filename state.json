@@ -2,6 +2,10 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "TyKOScHExN4",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "Zl0h5xckZ0c",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/videos/cdr7g3vdl58o#0",
+        "https://www.bbc.co.uk/news/articles/cx2z7lz7777o#0",
+        "https://www.bbc.co.uk/news/articles/cddve618plzo#1",
+        "https://www.bbc.co.uk/news/articles/cj6482r6yl4o#1",
         "https://www.bbc.co.uk/news/articles/cvgyp2n1e75o#0",
         "https://www.bbc.co.uk/news/articles/crr40g71vylo#0",
         "https://www.bbc.co.uk/news/articles/c5y4jr4yr2eo#0",
@@ -197,13 +201,10 @@
         "https://www.bbc.co.uk/news/articles/cn74vzl52l4o#0",
         "https://www.bbc.co.uk/news/articles/cg7k09z4lj9o#1",
         "https://www.bbc.co.uk/news/articles/ce301e7w2qvo#0",
-        "https://www.bbc.co.uk/news/articles/cx2zmzg0408o#1",
-        "https://www.bbc.co.uk/news/articles/c5ylm3m67n2o#1",
-        "https://www.bbc.co.uk/news/articles/cge41d19gq9o#0",
-        "https://www.bbc.co.uk/news/articles/c4gj0l34g78o#1",
-        "https://www.bbc.co.uk/news/articles/c3v4pgk7gweo#1"
+        "https://www.bbc.co.uk/news/articles/cx2zmzg0408o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260904de48079",
         "https://news.web.nhk/newsweb/na/nd-20260903de47995",
         "https://news.web.nhk/newsweb/na/nd-20260904de48068",
         "https://news.web.nhk/newsweb/na/nd-20260904de48066",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260901de47639",
         "https://news.web.nhk/newsweb/na/nd-20260901de47642",
         "https://news.web.nhk/newsweb/na/nd-20260901de47636",
-        "https://news.web.nhk/newsweb/na/nd-20260901de47635",
-        "https://news.web.nhk/newsweb/na/nd-20260901de47630"
+        "https://news.web.nhk/newsweb/na/nd-20260901de47635"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/shisei-hack/",
