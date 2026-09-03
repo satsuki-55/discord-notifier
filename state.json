@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/cg7k09z4lj9o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260901de47609",
+        "https://news.web.nhk/newsweb/na/nd-20260904de48063",
         "https://news.web.nhk/newsweb/na/nd-20260901de47610",
         "https://news.web.nhk/newsweb/na/nd-20260904de48064",
         "https://news.web.nhk/newsweb/na/nd-20260903de48053",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260901de47625",
         "https://news.web.nhk/newsweb/na/nd-20260901de47620",
         "https://news.web.nhk/newsweb/na/nd-20260901de47621",
-        "https://news.web.nhk/newsweb/na/nd-20260901de47617",
-        "https://news.web.nhk/newsweb/na/nd-20260901de47616",
-        "https://news.web.nhk/newsweb/na/nd-20260901de47618"
+        "https://news.web.nhk/newsweb/na/nd-20260901de47617"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/hanare-okomo-nest-zuo/",
