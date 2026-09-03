@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "TyKOScHExN4",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "Zl0h5xckZ0c",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cd68jv9d21zo#0",
         "https://www.bbc.co.uk/news/articles/crk3xdv0z71o#0",
         "https://www.bbc.co.uk/news/articles/cn8ej0zvppxo#0",
         "https://www.bbc.co.uk/news/articles/cew92lp2g45o#0",
@@ -200,8 +201,7 @@
         "https://www.bbc.co.uk/news/articles/cg49q4xydq0o#0",
         "https://www.bbc.co.uk/news/articles/cgk5jk6nkxzo#0",
         "https://www.bbc.co.uk/news/videos/cn74vl31r48o#0",
-        "https://www.bbc.co.uk/news/articles/c980y8r98y2o#1",
-        "https://www.bbc.co.uk/news/articles/c3eq499d0lgo#0"
+        "https://www.bbc.co.uk/news/articles/c980y8r98y2o#1"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20260903de48047",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260901de47577"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/hanare-okomo-nest-zuo/",
         "https://www.gizmodo.jp/article/jumping-jacks-gadget-70/",
         "https://www.gizmodo.jp/article/iphone18pro_a20-pro_leak/",
         "https://www.gizmodo.jp/article/iphone18-nonsilver/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/microsoft-ups-investment-in-polluting-ai-but-cuts-down-carbon-removal-by-80/",
         "https://www.gizmodo.jp/article/toshibanduke/",
         "https://www.gizmodo.jp/article/orca-echo-first-impression/",
-        "https://www.gizmodo.jp/article/totonoi_link_fit/",
-        "https://www.gizmodo.jp/article/diisea-c7/"
+        "https://www.gizmodo.jp/article/totonoi_link_fit/"
     ]
 }
