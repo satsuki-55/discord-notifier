@@ -2,6 +2,8 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "TyKOScHExN4",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "VIoSYxFLCwo",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/videos/cz7z93zde3po#0",
+        "https://www.bbc.co.uk/news/articles/cx2zxgg4mx9o#1",
         "https://www.bbc.co.uk/news/articles/c5ye295pxgxo#1",
         "https://www.bbc.co.uk/news/articles/c4gk2zlv0e6o#0",
         "https://www.bbc.co.uk/news/articles/ceq8r5gjygno#0",
@@ -199,11 +201,10 @@
         "https://www.bbc.co.uk/news/articles/cj645yl6d6do#1",
         "https://www.bbc.co.uk/news/articles/ckg0y07rdplo#0",
         "https://www.bbc.co.uk/news/articles/cew95ke74l7o#1",
-        "https://www.bbc.co.uk/news/articles/cm279dk9r8no#0",
-        "https://www.bbc.co.uk/sport/football/articles/c780w17lw02o#1",
-        "https://www.bbc.co.uk/news/articles/cvgy4258kgyo#0"
+        "https://www.bbc.co.uk/news/articles/cm279dk9r8no#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260903de48029",
         "https://news.web.nhk/newsweb/na/nd-20260903de48025",
         "https://news.web.nhk/newsweb/na/nd-20260903de48022",
         "https://news.web.nhk/newsweb/na/nd-20260903de48024",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260901de47568",
         "https://news.web.nhk/newsweb/na/nd-20260829de47163",
         "https://news.web.nhk/newsweb/na/nd-20260901de47558",
-        "https://news.web.nhk/newsweb/na/nd-20260901de47556",
-        "https://news.web.nhk/newsweb/na/nd-20260901de47557"
+        "https://news.web.nhk/newsweb/na/nd-20260901de47556"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/iphone18-nonsilver/",
         "https://www.gizmodo.jp/article/iphone-fold-magsafe/",
         "https://www.gizmodo.jp/article/google-pixel-11-pro-review/",
         "https://www.gizmodo.jp/article/3coins-multi-tool-review-dvs/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/totonoi_link_fit/",
         "https://www.gizmodo.jp/article/diisea-c7/",
         "https://www.gizmodo.jp/article/jozen-dirtmaxx-waterproof-rc/",
-        "https://www.gizmodo.jp/article/b028a1da-c376-4ee4-84b7-ea28b8520720/",
-        "https://www.gizmodo.jp/article/olight_oclipultra-lyf/"
+        "https://www.gizmodo.jp/article/b028a1da-c376-4ee4-84b7-ea28b8520720/"
     ]
 }
