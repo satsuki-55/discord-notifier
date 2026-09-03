@@ -2,6 +2,10 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "TyKOScHExN4",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "VIoSYxFLCwo",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c93vgv4kr49o#0",
+        "https://www.bbc.co.uk/news/articles/clyk32nr1emo#1",
+        "https://www.bbc.co.uk/news/articles/ce9e810pg7ko#1",
+        "https://www.bbc.co.uk/news/articles/c62j50n131mo#1",
         "https://www.bbc.co.uk/news/articles/ce3rn93de9eo#0",
         "https://www.bbc.co.uk/news/articles/cyvze0n4vy1o#1",
         "https://www.bbc.co.uk/news/articles/c7507g9v992o#0",
@@ -197,13 +201,10 @@
         "https://www.bbc.co.uk/news/articles/crr451lpl4no#1",
         "https://www.bbc.co.uk/news/articles/c62m7vp5895o#0",
         "https://www.bbc.co.uk/news/articles/cx2zmdgry3do#0",
-        "https://www.bbc.co.uk/news/articles/c0qxw1qw3g7o#0",
-        "https://www.bbc.co.uk/news/articles/czjlzdw8gp0o#0",
-        "https://www.bbc.co.uk/news/articles/c6247yv8564o#1",
-        "https://www.bbc.co.uk/news/articles/c1dl31k01v7o#1",
-        "https://www.bbc.co.uk/news/articles/cj9xj89dk40o#0"
+        "https://www.bbc.co.uk/news/articles/c0qxw1qw3g7o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260903de47950",
         "https://news.web.nhk/newsweb/na/nd-20260903de47942",
         "https://news.web.nhk/newsweb/na/nd-20260903de47939",
         "https://news.web.nhk/newsweb/na/nd-20260903de47922",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260901de47526",
         "https://news.web.nhk/newsweb/na/nd-20260831de47517",
         "https://news.web.nhk/newsweb/na/nd-20260828de47091",
-        "https://news.web.nhk/newsweb/na/nd-20260826de46568",
-        "https://news.web.nhk/newsweb/na/nd-20260831de47515"
+        "https://news.web.nhk/newsweb/na/nd-20260826de46568"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/hey-really-didnt-have-to-go-this-hard-for-the-cyberpunk-2077-edition-of-the-commodore-64/",
