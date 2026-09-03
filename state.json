@@ -2,6 +2,8 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "TyKOScHExN4",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "Zl0h5xckZ0c",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cly4e0wn452o#0",
+        "https://www.bbc.co.uk/news/articles/cj9xe09jz4eo#0",
         "https://www.bbc.co.uk/news/articles/cy0zylpdveqo#0",
         "https://www.bbc.co.uk/news/articles/c305qn2jeggo#0",
         "https://www.bbc.co.uk/news/articles/cy4zvk3z2k1o#0",
@@ -199,9 +201,7 @@
         "https://www.bbc.co.uk/news/articles/c7507z4enq6o#0",
         "https://www.bbc.co.uk/news/articles/c9v9yydy2wvo#0",
         "https://www.bbc.co.uk/news/articles/cvgyp2n1e75o#0",
-        "https://www.bbc.co.uk/news/articles/crr40g71vylo#0",
-        "https://www.bbc.co.uk/news/articles/c99dym3prl1o#1",
-        "https://www.bbc.co.uk/news/articles/cly4e0wn452o#0"
+        "https://www.bbc.co.uk/news/articles/crr40g71vylo#0"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20260903de47995",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260901de47630"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/shisei-hack/",
         "https://www.gizmodo.jp/article/openai_gpt_6_astra_release/",
         "https://www.gizmodo.jp/article/dell-tries-beat-the-macbook-neo-with-yet-another-cheapish-laptop/",
         "https://www.gizmodo.jp/article/hanare-okomo-nest-zuo/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/hashiru-nishikigoi/",
         "https://www.gizmodo.jp/article/maxevis-ai-go-board-game/",
         "https://www.gizmodo.jp/article/gravitrax-marble-run-toyshow2026/",
-        "https://www.gizmodo.jp/article/microsoft-ups-investment-in-polluting-ai-but-cuts-down-carbon-removal-by-80/",
-        "https://www.gizmodo.jp/article/toshibanduke/"
+        "https://www.gizmodo.jp/article/microsoft-ups-investment-in-polluting-ai-but-cuts-down-carbon-removal-by-80/"
     ]
 }
