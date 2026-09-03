@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/c1wxex4vg35o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260901de47568",
+        "https://news.web.nhk/newsweb/na/nd-20260903de48046",
         "https://news.web.nhk/newsweb/na/nd-20260903de48042",
         "https://news.web.nhk/newsweb/na/nd-20260901de47556",
         "https://news.web.nhk/newsweb/na/nd-20260903de48040",
@@ -401,11 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260901de47572",
         "https://news.web.nhk/newsweb/na/nd-20260901de47551",
         "https://news.web.nhk/newsweb/na/nd-20260901de47559",
-        "https://news.web.nhk/newsweb/na/nd-20260901de47575",
-        "https://news.web.nhk/newsweb/na/nd-20260827de46626",
-        "https://news.web.nhk/newsweb/na/nd-20260901de47568"
+        "https://news.web.nhk/newsweb/na/nd-20260901de47575"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/iphone18pro_a20-pro_leak/",
         "https://www.gizmodo.jp/article/iphone18-nonsilver/",
         "https://www.gizmodo.jp/article/iphone-fold-magsafe/",
         "https://www.gizmodo.jp/article/google-pixel-11-pro-review/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/orca-echo-first-impression/",
         "https://www.gizmodo.jp/article/totonoi_link_fit/",
         "https://www.gizmodo.jp/article/diisea-c7/",
-        "https://www.gizmodo.jp/article/jozen-dirtmaxx-waterproof-rc/",
-        "https://www.gizmodo.jp/article/b028a1da-c376-4ee4-84b7-ea28b8520720/"
+        "https://www.gizmodo.jp/article/jozen-dirtmaxx-waterproof-rc/"
     ]
 }
