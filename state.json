@@ -2,6 +2,9 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "Wc_P8R7JvDs",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "-527Vy-x64U",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cg491g7rnqqo#0",
+        "https://www.bbc.co.uk/news/articles/cj9xe2rvpkvo#1",
+        "https://www.bbc.co.uk/news/videos/c86xjeqn4qyo#0",
         "https://www.bbc.co.uk/news/articles/cn45jg3zlz4o#0",
         "https://www.bbc.co.uk/news/articles/cp931m8n3p5o#0",
         "https://www.bbc.co.uk/news/articles/clyk18g1l8ko#1",
@@ -198,12 +201,10 @@
         "https://www.bbc.co.uk/news/articles/cx2zxgg4mx9o#0",
         "https://www.bbc.co.uk/news/articles/c3v4wz946wdo#0",
         "https://www.bbc.co.uk/news/articles/c70lq0xz8veo#1",
-        "https://www.bbc.co.uk/news/articles/c2e0r4nwg30o#1",
-        "https://www.bbc.co.uk/news/articles/cddvyyz0e47o#1",
-        "https://www.bbc.co.uk/news/articles/cp3ky2w4y9no#0",
-        "https://www.bbc.co.uk/news/articles/cn9wv7pene2o#0"
+        "https://www.bbc.co.uk/news/articles/c2e0r4nwg30o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260904de48227",
         "https://news.web.nhk/newsweb/na/nd-20260904de48208",
         "https://news.web.nhk/newsweb/na/nd-20260904de48217",
         "https://news.web.nhk/newsweb/na/nd-20260904de48209",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260902de47764",
         "https://news.web.nhk/newsweb/na/nd-20260902de47737",
         "https://news.web.nhk/newsweb/na/nd-20260902de47755",
-        "https://news.web.nhk/newsweb/na/nd-20260902de47757",
-        "https://news.web.nhk/newsweb/na/nd-20260902de47750"
+        "https://news.web.nhk/newsweb/na/nd-20260902de47757"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/sonys-huge-new-party-speaker-is-downright-bone-rattling/",
