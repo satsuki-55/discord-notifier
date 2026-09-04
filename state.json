@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cy7zxy2p7k8o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260904de48123",
         "https://news.web.nhk/newsweb/na/nd-20260904de48117",
         "https://news.web.nhk/newsweb/na/nd-20260904de48094",
         "https://news.web.nhk/newsweb/na/nd-20260904de48100",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260901de47638",
         "https://news.web.nhk/newsweb/na/nd-20260901de47604",
         "https://news.web.nhk/newsweb/na/nd-20260901de47671",
-        "https://news.web.nhk/newsweb/na/nd-20260901de47670",
-        "https://news.web.nhk/newsweb/na/nd-20260901de47562"
+        "https://news.web.nhk/newsweb/na/nd-20260901de47670"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/why-cant-our-gaming-handhelds-also-be-our-work-pcs/",
