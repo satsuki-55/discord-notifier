@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c780ez2923xo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260904de48185",
         "https://news.web.nhk/newsweb/na/nd-20260904de48193",
         "https://news.web.nhk/newsweb/na/nd-20260904de48205",
         "https://news.web.nhk/newsweb/na/nd-20260904de48199",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260902de47729",
         "https://news.web.nhk/newsweb/na/nd-20260902de47733",
         "https://news.web.nhk/newsweb/na/nd-20260902de47731",
-        "https://news.web.nhk/newsweb/na/nd-20260902de47723",
-        "https://news.web.nhk/newsweb/na/nd-20260902de47726"
+        "https://news.web.nhk/newsweb/na/nd-20260902de47723"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/motorola-edge-70-plus-200-megapixel-camera-pantone-colors/",
