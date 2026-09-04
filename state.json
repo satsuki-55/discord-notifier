@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c8xk4rl904vo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260904de48126",
         "https://news.web.nhk/newsweb/na/nd-20260904de48184",
         "https://news.web.nhk/newsweb/na/nd-20260904de48178",
         "https://news.web.nhk/newsweb/na/nd-20260828de46969",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260902de47718",
         "https://news.web.nhk/newsweb/na/nd-20260901de47708",
         "https://news.web.nhk/newsweb/na/nd-20260902de47716",
-        "https://news.web.nhk/newsweb/na/nd-20260902de47713",
-        "https://news.web.nhk/newsweb/na/nd-20260901de47704"
+        "https://news.web.nhk/newsweb/na/nd-20260902de47713"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/ankers-new-smart-speaker-watches-you-sleep/",
