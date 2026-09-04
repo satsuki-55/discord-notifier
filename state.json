@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "Wc_P8R7JvDs",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "-527Vy-x64U",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cx2z0kvy4n4o#1",
         "https://www.bbc.co.uk/news/articles/c9dwjv96qyqo#0",
         "https://www.bbc.co.uk/news/articles/cjrx75ldydwo#1",
         "https://www.bbc.co.uk/news/articles/cy5zryk1lwyo#0",
@@ -200,10 +201,10 @@
         "https://www.bbc.co.uk/news/articles/c0rez9zegj5o#0",
         "https://www.bbc.co.uk/news/articles/c8d39vq779no#1",
         "https://www.bbc.co.uk/news/articles/ce9e810pg7ko#0",
-        "https://www.bbc.co.uk/news/articles/c780ez2923xo#0",
-        "https://www.bbc.co.uk/news/articles/c8xk4rl904vo#1"
+        "https://www.bbc.co.uk/news/articles/c780ez2923xo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260904de48205",
         "https://news.web.nhk/newsweb/na/nd-20260904de48199",
         "https://news.web.nhk/newsweb/na/nd-20260904de48148",
         "https://news.web.nhk/newsweb/na/nd-20260904de48151",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260902de47731",
         "https://news.web.nhk/newsweb/na/nd-20260902de47723",
         "https://news.web.nhk/newsweb/na/nd-20260902de47726",
-        "https://news.web.nhk/newsweb/na/nd-20260902de47725",
-        "https://news.web.nhk/newsweb/na/nd-20260901de47685"
+        "https://news.web.nhk/newsweb/na/nd-20260902de47725"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/canyon-predict/",
