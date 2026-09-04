@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "TyKOScHExN4",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "Zl0h5xckZ0c",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/videos/c36l7jwjg1no#0",
         "https://www.bbc.co.uk/news/articles/crerw2nj81zo#0",
         "https://www.bbc.co.uk/news/articles/c0lr18ll1k3o#1",
         "https://www.bbc.co.uk/news/articles/cqxv49z84ppo#0",
@@ -200,10 +201,10 @@
         "https://www.bbc.co.uk/news/articles/cy7zxy2p7k8o#0",
         "https://www.bbc.co.uk/news/articles/c70lwxve0y5o#0",
         "https://www.bbc.co.uk/news/articles/c3eq80d5pejo#1",
-        "https://www.bbc.co.uk/news/articles/cg59d09nyyvo#0",
-        "https://www.bbc.co.uk/news/articles/cn458wx1w0eo#0"
+        "https://www.bbc.co.uk/news/articles/cg59d09nyyvo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260904de48089",
         "https://news.web.nhk/newsweb/na/nd-20260904de48080",
         "https://news.web.nhk/newsweb/na/nd-20260904de48082",
         "https://news.web.nhk/newsweb/na/nd-20260904de48079",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260901de47659",
         "https://news.web.nhk/newsweb/na/nd-20260901de47646",
         "https://news.web.nhk/newsweb/na/nd-20260901de47643",
-        "https://news.web.nhk/newsweb/na/nd-20260901de47639",
-        "https://news.web.nhk/newsweb/na/nd-20260901de47642"
+        "https://news.web.nhk/newsweb/na/nd-20260901de47639"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/jbls-new-wi-fi-speakers-aim-to-beat-sonos-at-its-own-game/",
