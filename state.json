@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "TyKOScHExN4",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "-527Vy-x64U",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cwyzn8r8w79o#1",
         "https://www.bbc.co.uk/news/articles/ce9eg0zz8k4o#0",
         "https://www.bbc.co.uk/news/articles/cy4zgpynwdjo#0",
         "https://www.bbc.co.uk/news/articles/clyx0gzynneo#0",
@@ -200,10 +201,10 @@
         "https://www.bbc.co.uk/news/articles/c62j50n131mo#0",
         "https://www.bbc.co.uk/news/articles/cz0z3x4n9ypo#1",
         "https://www.bbc.co.uk/news/articles/cy7zx6k404go#0",
-        "https://www.bbc.co.uk/news/articles/c74k39g3ee5o#0",
-        "https://www.bbc.co.uk/news/articles/c4gv5gepxnyo#0"
+        "https://www.bbc.co.uk/news/articles/c74k39g3ee5o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260904de48152",
         "https://news.web.nhk/newsweb/na/nd-20260901de47675",
         "https://news.web.nhk/newsweb/na/nd-20260904de48149",
         "https://news.web.nhk/newsweb/na/nd-20260904de48138",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260901de47697",
         "https://news.web.nhk/newsweb/na/nd-20260901de47690",
         "https://news.web.nhk/newsweb/na/nd-20260901de47691",
-        "https://news.web.nhk/newsweb/na/nd-20260901de47689",
-        "https://news.web.nhk/newsweb/na/nd-20260901de47692"
+        "https://news.web.nhk/newsweb/na/nd-20260901de47689"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2608-korekai-solar-panel-re/",
