@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/c7708dy33pdo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260904de48155",
+        "https://news.web.nhk/newsweb/na/nd-20260904de48171",
         "https://news.web.nhk/newsweb/na/nd-20260904de48090",
         "https://news.web.nhk/newsweb/na/nd-20260904de48173",
         "https://news.web.nhk/newsweb/na/nd-20260904de48176",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260901de47704",
         "https://news.web.nhk/newsweb/na/nd-20260902de47714",
         "https://news.web.nhk/newsweb/na/nd-20260902de47711",
-        "https://news.web.nhk/newsweb/na/nd-20260902de47712",
-        "https://news.web.nhk/newsweb/na/nd-20260901de47700",
-        "https://news.web.nhk/newsweb/na/nd-20260901de47702"
+        "https://news.web.nhk/newsweb/na/nd-20260902de47712"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/camera-with-digital-film/",
