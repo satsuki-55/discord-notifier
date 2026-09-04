@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "Wc_P8R7JvDs",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "-527Vy-x64U",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cx2r2mzelxko#1",
         "https://www.bbc.co.uk/news/articles/ce8eg2nnxz0o#0",
         "https://www.bbc.co.uk/news/articles/c7903r0grx0o#0",
         "https://www.bbc.co.uk/news/articles/clyjzpgv29do#1",
@@ -200,10 +201,10 @@
         "https://www.bbc.co.uk/news/videos/cn0j4k45z32o#0",
         "https://www.bbc.co.uk/news/articles/cn9wv80j9w9o#0",
         "https://www.bbc.co.uk/news/articles/cy8z3jv98xyo#0",
-        "https://www.bbc.co.uk/news/articles/c0m3wpk7rdjo#0",
-        "https://www.bbc.co.uk/news/articles/cj4jnqvdny0o#0"
+        "https://www.bbc.co.uk/news/articles/c0m3wpk7rdjo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260904de48206",
         "https://news.web.nhk/newsweb/na/nd-20260904de48207",
         "https://news.web.nhk/newsweb/na/nd-20260904de48185",
         "https://news.web.nhk/newsweb/na/nd-20260904de48193",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260902de47751",
         "https://news.web.nhk/newsweb/na/nd-20260902de47744",
         "https://news.web.nhk/newsweb/na/nd-20260902de47729",
-        "https://news.web.nhk/newsweb/na/nd-20260902de47733",
-        "https://news.web.nhk/newsweb/na/nd-20260902de47731"
+        "https://news.web.nhk/newsweb/na/nd-20260902de47733"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/rayneo-gt-max/",
