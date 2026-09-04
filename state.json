@@ -2,6 +2,8 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "TyKOScHExN4",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "-527Vy-x64U",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cy5zryk1lwyo#0",
+        "https://www.bbc.co.uk/news/articles/c5ylg86gp4eo#1",
         "https://www.bbc.co.uk/news/articles/c86xj5z7x61o#0",
         "https://www.bbc.co.uk/news/articles/cy5zryk1lwyo#1",
         "https://www.bbc.co.uk/news/articles/c74k39g3ee5o#0",
@@ -199,11 +201,10 @@
         "https://www.bbc.co.uk/news/articles/c780ez2923xo#0",
         "https://www.bbc.co.uk/news/articles/c8xk4rl904vo#1",
         "https://www.bbc.co.uk/news/articles/c8xk4rl904vo#0",
-        "https://www.bbc.co.uk/news/articles/c70lwxve0y5o#1",
-        "https://www.bbc.co.uk/news/articles/cd6857j2v1qo#0",
-        "https://www.bbc.co.uk/news/articles/c7708dy33pdo#0"
+        "https://www.bbc.co.uk/news/articles/c70lwxve0y5o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260904de48178",
         "https://news.web.nhk/newsweb/na/nd-20260828de46969",
         "https://news.web.nhk/newsweb/na/nd-20260904de48155",
         "https://news.web.nhk/newsweb/na/nd-20260904de48171",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260902de47716",
         "https://news.web.nhk/newsweb/na/nd-20260902de47713",
         "https://news.web.nhk/newsweb/na/nd-20260901de47704",
-        "https://news.web.nhk/newsweb/na/nd-20260902de47714",
-        "https://news.web.nhk/newsweb/na/nd-20260902de47711"
+        "https://news.web.nhk/newsweb/na/nd-20260902de47714"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/camera-with-digital-film/",
