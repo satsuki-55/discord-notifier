@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/cy7zxy2p7k8o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260904de48129",
+        "https://news.web.nhk/newsweb/na/nd-20260904de48124",
         "https://news.web.nhk/newsweb/na/nd-20260903de47913",
         "https://news.web.nhk/newsweb/na/nd-20260902de47746",
         "https://news.web.nhk/newsweb/na/nd-20260904de48123",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260901de47683",
         "https://news.web.nhk/newsweb/na/nd-20260901de47677",
         "https://news.web.nhk/newsweb/na/nd-20260901de47674",
-        "https://news.web.nhk/newsweb/na/nd-20260901de47667",
-        "https://news.web.nhk/newsweb/na/nd-20260901de47638",
-        "https://news.web.nhk/newsweb/na/nd-20260901de47604"
+        "https://news.web.nhk/newsweb/na/nd-20260901de47667"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/acers-new-aspire-laptop-is-like-if-the-nintendo-3ds-had-a-4k-screen/",
