@@ -1,6 +1,6 @@
 {
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "TyKOScHExN4",
-    "youtube:UCjJmYy279ehSYSwR1A3fXtA": "Zl0h5xckZ0c",
+    "youtube:UCjJmYy279ehSYSwR1A3fXtA": "-527Vy-x64U",
     "rss:bbc": [
         "https://www.bbc.co.uk/news/articles/cr4vnr5g1k7o#1",
         "https://www.bbc.co.uk/news/articles/cx2z7lz7777o#1",
@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cy7zxy2p7k8o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260904de48122",
         "https://news.web.nhk/newsweb/na/nd-20260904de48118",
         "https://news.web.nhk/newsweb/na/nd-20260904de48125",
         "https://news.web.nhk/newsweb/na/nd-20260904de48129",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260901de47672",
         "https://news.web.nhk/newsweb/na/nd-20260901de47675",
         "https://news.web.nhk/newsweb/na/nd-20260901de47684",
-        "https://news.web.nhk/newsweb/na/nd-20260901de47683",
-        "https://news.web.nhk/newsweb/na/nd-20260901de47677"
+        "https://news.web.nhk/newsweb/na/nd-20260901de47683"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/new-york-city-bans-ai-from-elementary-schools/",
