@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cy8z7wypzqxo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260905de48266",
         "https://news.web.nhk/newsweb/na/nd-20260905de48260",
         "https://news.web.nhk/newsweb/na/nd-20260905de48262",
         "https://news.web.nhk/newsweb/na/nd-20260904de48222",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260902de47840",
         "https://news.web.nhk/newsweb/na/nd-20260902de47827",
         "https://news.web.nhk/newsweb/na/nd-20260902de47839",
-        "https://news.web.nhk/newsweb/na/nd-20260902de47837",
-        "https://news.web.nhk/newsweb/na/nd-20260902de47833"
+        "https://news.web.nhk/newsweb/na/nd-20260902de47837"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/montbell-flex-water-pack-review-oea/",
