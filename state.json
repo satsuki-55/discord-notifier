@@ -2,6 +2,10 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "TyKOScHExN4",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "-527Vy-x64U",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cn8ell3dngno#0",
+        "https://www.bbc.co.uk/news/articles/cy4z8mzx7gwo#0",
+        "https://www.bbc.co.uk/news/articles/cvgypl1gyzro#1",
+        "https://www.bbc.co.uk/news/articles/c89jgw0x0zgo#1",
         "https://www.bbc.co.uk/news/articles/cwyzn8r8w79o#1",
         "https://www.bbc.co.uk/news/articles/ce9eg0zz8k4o#0",
         "https://www.bbc.co.uk/news/articles/cy4zgpynwdjo#0",
@@ -197,13 +201,11 @@
         "https://www.bbc.co.uk/news/articles/c7708dy33pdo#0",
         "https://www.bbc.co.uk/news/articles/cge41d19gq9o#1",
         "https://www.bbc.co.uk/news/articles/cn8mr1myy2ko#1",
-        "https://www.bbc.co.uk/news/articles/c7708dy33pdo#1",
-        "https://www.bbc.co.uk/news/articles/c62j50n131mo#0",
-        "https://www.bbc.co.uk/news/articles/cz0z3x4n9ypo#1",
-        "https://www.bbc.co.uk/news/articles/cy7zx6k404go#0",
-        "https://www.bbc.co.uk/news/articles/c74k39g3ee5o#0"
+        "https://www.bbc.co.uk/news/articles/c7708dy33pdo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260904de48158",
+        "https://news.web.nhk/newsweb/na/nd-20260904de48168",
         "https://news.web.nhk/newsweb/na/nd-20260904de48154",
         "https://news.web.nhk/newsweb/na/nd-20260904de48134",
         "https://news.web.nhk/newsweb/na/nd-20260904de48152",
@@ -401,11 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260830de47270",
         "https://news.web.nhk/newsweb/na/nd-20260902de47709",
         "https://news.web.nhk/newsweb/na/nd-20260901de47696",
-        "https://news.web.nhk/newsweb/na/nd-20260901de47698",
-        "https://news.web.nhk/newsweb/na/nd-20260901de47697",
-        "https://news.web.nhk/newsweb/na/nd-20260901de47690"
+        "https://news.web.nhk/newsweb/na/nd-20260901de47698"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/camera-with-digital-film/",
         "https://www.gizmodo.jp/article/2608-korekai-solar-panel-re/",
         "https://www.gizmodo.jp/article/ifa-anker-soundcore-sleep-4-pro/",
         "https://www.gizmodo.jp/article/new-york-city-bans-ai-from-elementary-schools/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/apple-polishing-cloth-is-soft/",
         "https://www.gizmodo.jp/article/gizmodo-japan-20th-miyagi/",
         "https://www.gizmodo.jp/article/garmins-fenix-9-and-9-pro-tell-a-broader-story-about-your-physical-activity/",
-        "https://www.gizmodo.jp/article/scientists-develop-microbes-that-make-vanilla-cookies-out-of-plastic-bottles/",
-        "https://www.gizmodo.jp/article/sony_cybershot_dsc-w270_reviw-lkw/"
+        "https://www.gizmodo.jp/article/scientists-develop-microbes-that-make-vanilla-cookies-out-of-plastic-bottles/"
     ]
 }
