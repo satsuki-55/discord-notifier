@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "TyKOScHExN4",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "Zl0h5xckZ0c",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cx2z7lz7777o#1",
         "https://www.bbc.co.uk/news/articles/clyk18g1l8ko#0",
         "https://www.bbc.co.uk/news/videos/c36l7jwjg1no#0",
         "https://www.bbc.co.uk/news/articles/crerw2nj81zo#0",
@@ -200,10 +201,10 @@
         "https://www.bbc.co.uk/news/videos/c9v9y7z7mxyo#0",
         "https://www.bbc.co.uk/news/articles/c7708vn2yp7o#0",
         "https://www.bbc.co.uk/news/articles/cy7zxy2p7k8o#0",
-        "https://www.bbc.co.uk/news/articles/c70lwxve0y5o#0",
-        "https://www.bbc.co.uk/news/articles/c3eq80d5pejo#1"
+        "https://www.bbc.co.uk/news/articles/c70lwxve0y5o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260904de48094",
         "https://news.web.nhk/newsweb/na/nd-20260904de48100",
         "https://news.web.nhk/newsweb/na/nd-20260904de48096",
         "https://news.web.nhk/newsweb/na/nd-20260904de48089",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260901de47671",
         "https://news.web.nhk/newsweb/na/nd-20260901de47670",
         "https://news.web.nhk/newsweb/na/nd-20260901de47562",
-        "https://news.web.nhk/newsweb/na/nd-20260901de47659",
-        "https://news.web.nhk/newsweb/na/nd-20260901de47646"
+        "https://news.web.nhk/newsweb/na/nd-20260901de47659"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/alienware-desperately-wants-gaming-pros-to-finally-adopt-oled/",
