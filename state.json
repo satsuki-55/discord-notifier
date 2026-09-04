@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cwyxydr7gv9o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260901de47675",
         "https://news.web.nhk/newsweb/na/nd-20260904de48149",
         "https://news.web.nhk/newsweb/na/nd-20260904de48138",
         "https://news.web.nhk/newsweb/na/nd-20260904de48143",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260901de47690",
         "https://news.web.nhk/newsweb/na/nd-20260901de47691",
         "https://news.web.nhk/newsweb/na/nd-20260901de47689",
-        "https://news.web.nhk/newsweb/na/nd-20260901de47692",
-        "https://news.web.nhk/newsweb/na/nd-20260901de47672"
+        "https://news.web.nhk/newsweb/na/nd-20260901de47692"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/ifa-anker-soundcore-sleep-4-pro/",
