@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c3v4wz946wdo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260904de48221",
         "https://news.web.nhk/newsweb/na/nd-20260904de48223",
         "https://news.web.nhk/newsweb/na/nd-20260904de48227",
         "https://news.web.nhk/newsweb/na/nd-20260904de48208",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260902de47765",
         "https://news.web.nhk/newsweb/na/nd-20260902de47767",
         "https://news.web.nhk/newsweb/na/nd-20260902de47764",
-        "https://news.web.nhk/newsweb/na/nd-20260902de47737",
-        "https://news.web.nhk/newsweb/na/nd-20260902de47755"
+        "https://news.web.nhk/newsweb/na/nd-20260902de47737"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/smart-ring-finger-tier-list/",
