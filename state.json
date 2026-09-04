@@ -2,6 +2,9 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "Wc_P8R7JvDs",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "-527Vy-x64U",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cp931m8n3p5o#0",
+        "https://www.bbc.co.uk/news/articles/clyk18g1l8ko#1",
+        "https://www.bbc.co.uk/sport/tennis/articles/cy8zqd4zg14o#1",
         "https://www.bbc.co.uk/news/articles/cn9wv80j9w9o#0",
         "https://www.bbc.co.uk/news/articles/cn45jvgk97xo#0",
         "https://www.bbc.co.uk/news/articles/c305qn2jeggo#1",
@@ -198,12 +201,11 @@
         "https://www.bbc.co.uk/news/articles/cddvyyz0e47o#1",
         "https://www.bbc.co.uk/news/articles/cp3ky2w4y9no#0",
         "https://www.bbc.co.uk/news/articles/cn9wv7pene2o#0",
-        "https://www.bbc.co.uk/news/articles/cwyze4593zwo#0",
-        "https://www.bbc.co.uk/news/articles/c8xk45k9r1go#1",
-        "https://www.bbc.co.uk/news/articles/clyk5016mpyo#1",
-        "https://www.bbc.co.uk/news/videos/c0lr1krdxxwo#1"
+        "https://www.bbc.co.uk/news/articles/cwyze4593zwo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260904de48209",
+        "https://news.web.nhk/newsweb/na/nd-20260904de48190",
         "https://news.web.nhk/newsweb/na/nd-20260902de47744",
         "https://news.web.nhk/newsweb/na/nd-20260904de48203",
         "https://news.web.nhk/newsweb/na/nd-20260904de48213",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260902de47757",
         "https://news.web.nhk/newsweb/na/nd-20260902de47750",
         "https://news.web.nhk/newsweb/na/nd-20260902de47754",
-        "https://news.web.nhk/newsweb/na/nd-20260831de47324",
-        "https://news.web.nhk/newsweb/na/nd-20260902de47743",
-        "https://news.web.nhk/newsweb/na/nd-20260902de47747"
+        "https://news.web.nhk/newsweb/na/nd-20260831de47324"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/rayneo-gt-max/",
