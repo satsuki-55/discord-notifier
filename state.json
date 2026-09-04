@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cvgy51xlz39o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260904de48244",
         "https://news.web.nhk/newsweb/na/nd-20260904de48247",
         "https://news.web.nhk/newsweb/na/nd-20260904de48234",
         "https://news.web.nhk/newsweb/na/nd-20260904de48240",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260902de47789",
         "https://news.web.nhk/newsweb/na/nd-20260828de46859",
         "https://news.web.nhk/newsweb/na/nd-20260902de47787",
-        "https://news.web.nhk/newsweb/na/nd-20260902de47790",
-        "https://news.web.nhk/newsweb/na/nd-20260828de46967"
+        "https://news.web.nhk/newsweb/na/nd-20260902de47790"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/montbell-flex-water-pack-review-oea/",
         "https://www.gizmodo.jp/article/poke-ball-themed-hotel/",
         "https://www.gizmodo.jp/article/smart-ring-finger-tier-list/",
         "https://www.gizmodo.jp/article/apple-event-2026-report/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/amazon-anker-wall-light-cam-s4/",
         "https://www.gizmodo.jp/article/sanwa-supply-tk-cap8bk-bei/",
         "https://www.gizmodo.jp/article/anker-smart-pouch-sale/",
-        "https://www.gizmodo.jp/article/ligar-roomie/",
-        "https://www.gizmodo.jp/article/iphone-18-18pro-rumors-summary/"
+        "https://www.gizmodo.jp/article/ligar-roomie/"
     ]
 }
