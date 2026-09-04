@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "TyKOScHExN4",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "-527Vy-x64U",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/ce9eg0zz8k4o#0",
         "https://www.bbc.co.uk/news/articles/cy4zgpynwdjo#0",
         "https://www.bbc.co.uk/news/articles/clyx0gzynneo#0",
         "https://www.bbc.co.uk/news/articles/cly4zkpvl4wo#0",
@@ -200,8 +201,7 @@
         "https://www.bbc.co.uk/news/articles/cz0z3x4n9ypo#1",
         "https://www.bbc.co.uk/news/articles/cy7zx6k404go#0",
         "https://www.bbc.co.uk/news/articles/c74k39g3ee5o#0",
-        "https://www.bbc.co.uk/news/articles/c4gv5gepxnyo#0",
-        "https://www.bbc.co.uk/news/articles/cwyxydr7gv9o#0"
+        "https://www.bbc.co.uk/news/articles/c4gv5gepxnyo#0"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20260901de47675",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260901de47692"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2608-korekai-solar-panel-re/",
         "https://www.gizmodo.jp/article/ifa-anker-soundcore-sleep-4-pro/",
         "https://www.gizmodo.jp/article/new-york-city-bans-ai-from-elementary-schools/",
         "https://www.gizmodo.jp/article/acers-new-aspire-laptop-is-like-if-the-nintendo-3ds-had-a-4k-screen/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/gizmodo-japan-20th-miyagi/",
         "https://www.gizmodo.jp/article/garmins-fenix-9-and-9-pro-tell-a-broader-story-about-your-physical-activity/",
         "https://www.gizmodo.jp/article/scientists-develop-microbes-that-make-vanilla-cookies-out-of-plastic-bottles/",
-        "https://www.gizmodo.jp/article/sony_cybershot_dsc-w270_reviw-lkw/",
-        "https://www.gizmodo.jp/article/iphone-fold-makes-me-want-to-drink/"
+        "https://www.gizmodo.jp/article/sony_cybershot_dsc-w270_reviw-lkw/"
     ]
 }
