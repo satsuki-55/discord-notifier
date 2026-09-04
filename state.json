@@ -2,6 +2,8 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "LwkFUe4yYns",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "9sJuIfHp-Tc",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o#0",
+        "https://www.bbc.co.uk/news/articles/c7903r0grx0o#1",
         "https://www.bbc.co.uk/news/articles/cy0zx2pkpx9o#0",
         "https://www.bbc.co.uk/news/articles/crk3xd8j3k5o#1",
         "https://www.bbc.co.uk/news/videos/cn8evz26eyqo#0",
@@ -199,11 +201,10 @@
         "https://www.bbc.co.uk/news/articles/cly4e0wn452o#1",
         "https://www.bbc.co.uk/news/videos/cy8z32v7130o#0",
         "https://www.bbc.co.uk/news/articles/cvgy51xlz39o#0",
-        "https://www.bbc.co.uk/news/articles/c86xpv8l9y9o#1",
-        "https://www.bbc.co.uk/news/videos/c17jqvzdvqjo#0",
-        "https://www.bbc.co.uk/news/articles/cy7zxy2p7k8o#1"
+        "https://www.bbc.co.uk/news/articles/c86xpv8l9y9o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260904de48240",
         "https://news.web.nhk/newsweb/na/nd-20260829de47121",
         "https://news.web.nhk/newsweb/na/nd-20260902de47737",
         "https://news.web.nhk/newsweb/na/nd-20260904de48237",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260902de47790",
         "https://news.web.nhk/newsweb/na/nd-20260828de46967",
         "https://news.web.nhk/newsweb/na/nd-20260902de47784",
-        "https://news.web.nhk/newsweb/na/nd-20260902de47783",
-        "https://news.web.nhk/newsweb/na/nd-20260902de47765"
+        "https://news.web.nhk/newsweb/na/nd-20260902de47783"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/poke-ball-themed-hotel/",
