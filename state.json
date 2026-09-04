@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cge41d19gq9o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260904de48172",
         "https://news.web.nhk/newsweb/na/nd-20260904de48158",
         "https://news.web.nhk/newsweb/na/nd-20260904de48168",
         "https://news.web.nhk/newsweb/na/nd-20260904de48154",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260901de47706",
         "https://news.web.nhk/newsweb/na/nd-20260830de47270",
         "https://news.web.nhk/newsweb/na/nd-20260902de47709",
-        "https://news.web.nhk/newsweb/na/nd-20260901de47696",
-        "https://news.web.nhk/newsweb/na/nd-20260901de47698"
+        "https://news.web.nhk/newsweb/na/nd-20260901de47696"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/camera-with-digital-film/",
