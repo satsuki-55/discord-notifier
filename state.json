@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "LwkFUe4yYns",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "9sJuIfHp-Tc",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cy8znyzgkjjo#0",
         "https://www.bbc.co.uk/news/articles/cvgyn8q8gqxo#1",
         "https://www.bbc.co.uk/news/articles/cvgyqpmy01po#1",
         "https://www.bbc.co.uk/news/articles/cx2z0xnw2d6o#0",
@@ -200,10 +201,10 @@
         "https://www.bbc.co.uk/news/articles/c3d787k9kpyo#0",
         "https://www.bbc.co.uk/news/articles/c1kxmvm39nyo#0",
         "https://www.bbc.co.uk/news/articles/c8jdyxpdnldo#0",
-        "https://www.bbc.co.uk/news/articles/czxz73zp7nwo#0",
-        "https://www.bbc.co.uk/news/articles/c7v4zj2262vo#1"
+        "https://www.bbc.co.uk/news/articles/czxz73zp7nwo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260905de48328",
         "https://news.web.nhk/newsweb/na/nd-20260905de48326",
         "https://news.web.nhk/newsweb/na/nd-20260905de48325",
         "https://news.web.nhk/newsweb/na/nd-20260905de48312",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260903de47883",
         "https://news.web.nhk/newsweb/na/nd-20260903de47874",
         "https://news.web.nhk/newsweb/na/nd-20260903de47880",
-        "https://news.web.nhk/newsweb/na/nd-20260903de47878",
-        "https://news.web.nhk/newsweb/na/nd-20260903de47882"
+        "https://news.web.nhk/newsweb/na/nd-20260903de47878"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/amazon-oral-b-pro-1s/",
         "https://www.gizmodo.jp/article/d0ce7b72-cb3c-48af-8028-90b3b7debe8e/",
         "https://www.gizmodo.jp/article/meta-wants-to-bring-ai-and-universal-translation-to-the-gtm/",
         "https://www.gizmodo.jp/article/yamazaki_drain_hose_holder-re/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/fitbit-pokemon-sleep/",
         "https://www.gizmodo.jp/article/bose-quietcomfort-headphones-2nd-gen-review-still-more-quiet-and-comfortable-than-most/",
         "https://www.gizmodo.jp/article/samsung_galaxy_s26_fe_release/",
-        "https://www.gizmodo.jp/article/gizmodo-japan-20th-soko/",
-        "https://www.gizmodo.jp/article/grivx-richo/"
+        "https://www.gizmodo.jp/article/gizmodo-japan-20th-soko/"
     ]
 }
