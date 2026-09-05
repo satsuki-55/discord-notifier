@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/videos/cwyzeyd7peeo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260905de48340",
         "https://news.web.nhk/newsweb/na/nd-20260905de48349",
         "https://news.web.nhk/newsweb/na/nd-20260905de48343",
         "https://news.web.nhk/newsweb/na/nd-20260905de48347",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260903de47893",
         "https://news.web.nhk/newsweb/na/nd-20260903de47898",
         "https://news.web.nhk/newsweb/na/nd-20260903de47895",
-        "https://news.web.nhk/newsweb/na/nd-20260902de47849",
-        "https://news.web.nhk/newsweb/na/nd-20260903de47892"
+        "https://news.web.nhk/newsweb/na/nd-20260902de47849"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/oxiclean-bag/",
         "https://www.gizmodo.jp/article/bousai_items_summary/",
         "https://www.gizmodo.jp/article/excessive_screen_time_increases/",
         "https://www.gizmodo.jp/article/amazon-oral-b-pro-1s/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/amazon-roomba-mini-slim-sale/",
         "https://www.gizmodo.jp/article/bowers-wilkins-new-speaker/",
         "https://www.gizmodo.jp/article/insta-360-go-ultra/",
-        "https://www.gizmodo.jp/article/fitbit-pokemon-sleep/",
-        "https://www.gizmodo.jp/article/bose-quietcomfort-headphones-2nd-gen-review-still-more-quiet-and-comfortable-than-most/"
+        "https://www.gizmodo.jp/article/fitbit-pokemon-sleep/"
     ]
 }
