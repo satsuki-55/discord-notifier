@@ -2,6 +2,10 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "LwkFUe4yYns",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "9sJuIfHp-Tc",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cx2z0xnw2d6o#0",
+        "https://www.bbc.co.uk/news/articles/cwyz7lrwqdyo#1",
+        "https://www.bbc.co.uk/news/articles/cgrvgejwgvlo#1",
+        "https://www.bbc.co.uk/news/articles/cddvep5vj7mo#1",
         "https://www.bbc.co.uk/news/articles/c980g0g7yyjo#0",
         "https://www.bbc.co.uk/news/articles/cgk5g51xk57o#0",
         "https://www.bbc.co.uk/news/articles/c3v45xy67g5o#0",
@@ -197,13 +201,10 @@
         "https://www.bbc.co.uk/news/articles/czxz73zp7nwo#0",
         "https://www.bbc.co.uk/news/articles/c7v4zj2262vo#1",
         "https://www.bbc.co.uk/news/videos/cz9znq5g7qko#0",
-        "https://www.bbc.co.uk/news/articles/cvgydk0vvpyo#0",
-        "https://www.bbc.co.uk/news/articles/cjwg5n7y68xo#0",
-        "https://www.bbc.co.uk/news/articles/c17jqp0xzpzo#0",
-        "https://www.bbc.co.uk/news/articles/c1mvn2yp9n2o#1",
-        "https://www.bbc.co.uk/news/articles/cj9x2k8n3y1o#0"
+        "https://www.bbc.co.uk/news/articles/cvgydk0vvpyo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260905de48325",
         "https://news.web.nhk/newsweb/na/nd-20260905de48312",
         "https://news.web.nhk/newsweb/na/nd-20260905de48314",
         "https://news.web.nhk/newsweb/na/nd-20260905de48313",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260903de47880",
         "https://news.web.nhk/newsweb/na/nd-20260903de47878",
         "https://news.web.nhk/newsweb/na/nd-20260903de47882",
-        "https://news.web.nhk/newsweb/na/nd-20260903de47875",
-        "https://news.web.nhk/newsweb/na/nd-20260902de47873"
+        "https://news.web.nhk/newsweb/na/nd-20260903de47875"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/meta-wants-to-bring-ai-and-universal-translation-to-the-gtm/",
