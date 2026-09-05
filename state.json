@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cvgydk0vvpyo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260905de48326",
         "https://news.web.nhk/newsweb/na/nd-20260905de48325",
         "https://news.web.nhk/newsweb/na/nd-20260905de48312",
         "https://news.web.nhk/newsweb/na/nd-20260905de48314",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260903de47874",
         "https://news.web.nhk/newsweb/na/nd-20260903de47880",
         "https://news.web.nhk/newsweb/na/nd-20260903de47878",
-        "https://news.web.nhk/newsweb/na/nd-20260903de47882",
-        "https://news.web.nhk/newsweb/na/nd-20260903de47875"
+        "https://news.web.nhk/newsweb/na/nd-20260903de47882"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/meta-wants-to-bring-ai-and-universal-translation-to-the-gtm/",
