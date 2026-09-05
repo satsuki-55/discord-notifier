@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/czxz73zp7nwo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260905de48332",
         "https://news.web.nhk/newsweb/na/nd-20260905de48327",
         "https://news.web.nhk/newsweb/na/nd-20260905de48330",
         "https://news.web.nhk/newsweb/na/nd-20260905de48328",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260903de47884",
         "https://news.web.nhk/newsweb/na/nd-20260903de47881",
         "https://news.web.nhk/newsweb/na/nd-20260903de47879",
-        "https://news.web.nhk/newsweb/na/nd-20260903de47883",
-        "https://news.web.nhk/newsweb/na/nd-20260903de47874"
+        "https://news.web.nhk/newsweb/na/nd-20260903de47883"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/amazon-oral-b-pro-1s/",
