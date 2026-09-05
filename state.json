@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cgk5m42z1vpo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260905de48270",
         "https://news.web.nhk/newsweb/na/nd-20260905de48275",
         "https://news.web.nhk/newsweb/na/nd-20260905de48259",
         "https://news.web.nhk/newsweb/na/nd-20260905de48269",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260902de47803",
         "https://news.web.nhk/newsweb/na/nd-20260902de47835",
         "https://news.web.nhk/newsweb/na/nd-20260902de47735",
-        "https://news.web.nhk/newsweb/na/nd-20260902de47843",
-        "https://news.web.nhk/newsweb/na/nd-20260902de47840"
+        "https://news.web.nhk/newsweb/na/nd-20260902de47843"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/orca-echo-touchtry-event-0830/",
