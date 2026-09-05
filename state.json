@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "LwkFUe4yYns",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "9sJuIfHp-Tc",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c7v4npv1m22o#0",
         "https://www.bbc.co.uk/news/videos/cd79vp91321o#1",
         "https://www.bbc.co.uk/news/articles/c7v4npv1m22o#1",
         "https://www.bbc.co.uk/news/articles/cy4z8mzx7gwo#1",
@@ -200,10 +201,10 @@
         "https://www.bbc.co.uk/news/videos/cg59d9dyn46o#0",
         "https://www.bbc.co.uk/news/videos/c9v9y7z7mxyo#1",
         "https://www.bbc.co.uk/news/articles/c0qxw1qw3g7o#0",
-        "https://www.bbc.co.uk/news/articles/c3v4wz946wdo#1",
-        "https://www.bbc.co.uk/news/articles/c93vgv4kr49o#0"
+        "https://www.bbc.co.uk/news/articles/c3v4wz946wdo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260905de48287",
         "https://news.web.nhk/newsweb/na/nd-20260905de48283",
         "https://news.web.nhk/newsweb/na/nd-20260905de48267",
         "https://news.web.nhk/newsweb/na/nd-20260905de48278",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260902de47794",
         "https://news.web.nhk/newsweb/na/nd-20260902de47845",
         "https://news.web.nhk/newsweb/na/nd-20260902de47809",
-        "https://news.web.nhk/newsweb/na/nd-20260828de46966",
-        "https://news.web.nhk/newsweb/na/nd-20260902de47803"
+        "https://news.web.nhk/newsweb/na/nd-20260828de46966"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/iphone-18-pro-ltpo-plus-display-upgrade-ggl/",
         "https://www.gizmodo.jp/article/a4d4dda7-75da-410b-b322-580323249d8c/",
         "https://www.gizmodo.jp/article/orca-echo-touchtry-event-0830/",
         "https://www.gizmodo.jp/article/montbell-flex-water-pack-review-oea/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/asoboze_umbrella-bag_regile/",
         "https://www.gizmodo.jp/article/galaxy_s27pro_cad_renders_leaks/",
         "https://www.gizmodo.jp/article/centenarian-killer-t-cells/",
-        "https://www.gizmodo.jp/article/amazon-anker-wall-light-cam-s4/",
-        "https://www.gizmodo.jp/article/sanwa-supply-tk-cap8bk-bei/"
+        "https://www.gizmodo.jp/article/amazon-anker-wall-light-cam-s4/"
     ]
 }
