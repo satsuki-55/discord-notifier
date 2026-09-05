@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/videos/cg59d9dyn46o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260906de48395",
         "https://news.web.nhk/newsweb/na/nd-20260906de48381",
         "https://news.web.nhk/newsweb/na/nd-20260906de48392",
         "https://news.web.nhk/newsweb/na/nd-20260906de48384",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260903de47972",
         "https://news.web.nhk/newsweb/na/nd-20260903de47974",
         "https://news.web.nhk/newsweb/na/nd-20260903de47943",
-        "https://news.web.nhk/newsweb/na/nd-20260903de47970",
-        "https://news.web.nhk/newsweb/na/nd-20260903de47958"
+        "https://news.web.nhk/newsweb/na/nd-20260903de47970"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/tcl-tab-a1-nxtpaper-tablets-mix-business-and-pleasure/",
