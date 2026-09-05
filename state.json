@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/weather/articles/cd0x17r4j0yo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260905de48360",
         "https://news.web.nhk/newsweb/na/nd-20260905de48352",
         "https://news.web.nhk/newsweb/na/nd-20260905de48359",
         "https://news.web.nhk/newsweb/na/nd-20260905de48324",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260903de47915",
         "https://news.web.nhk/newsweb/na/nd-20260903de47914",
         "https://news.web.nhk/newsweb/na/nd-20260903de47905",
-        "https://news.web.nhk/newsweb/na/nd-20260903de47904",
-        "https://news.web.nhk/newsweb/na/nd-20260903de47900"
+        "https://news.web.nhk/newsweb/na/nd-20260903de47904"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/oxiclean-bag/",
