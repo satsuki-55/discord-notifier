@@ -204,6 +204,10 @@
         "https://www.bbc.co.uk/news/videos/c9v9y7z7mxyo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260902de47852",
+        "https://news.web.nhk/newsweb/na/nd-20260905de48303",
+        "https://news.web.nhk/newsweb/na/nd-20260905de48300",
+        "https://news.web.nhk/newsweb/na/nd-20260905de48301",
         "https://news.web.nhk/newsweb/na/nd-20260905de48294",
         "https://news.web.nhk/newsweb/na/nd-20260905de48291",
         "https://news.web.nhk/newsweb/na/nd-20260905de48296",
@@ -399,11 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260902de47873",
         "https://news.web.nhk/newsweb/na/nd-20260902de47867",
         "https://news.web.nhk/newsweb/na/nd-20260902de47864",
-        "https://news.web.nhk/newsweb/na/nd-20260902de47865",
-        "https://news.web.nhk/newsweb/na/nd-20260902de47796",
-        "https://news.web.nhk/newsweb/na/nd-20260902de47852",
-        "https://news.web.nhk/newsweb/na/nd-20260902de47820",
-        "https://news.web.nhk/newsweb/na/nd-20260902de47856"
+        "https://news.web.nhk/newsweb/na/nd-20260902de47865"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/acers-smaller-intel-based-gaming-handheld-has-sky-high-ambitions/",
