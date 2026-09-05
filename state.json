@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "N_TMyQ7SgXo",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "9sJuIfHp-Tc",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo#0",
         "https://www.bbc.co.uk/news/videos/cwyzeyd7peeo#0",
         "https://www.bbc.co.uk/news/articles/cddvep5vj7mo#0",
         "https://www.bbc.co.uk/news/articles/cew9kz1kxpvo#1",
@@ -200,10 +201,10 @@
         "https://www.bbc.co.uk/news/articles/cy8z7wypzqxo#1",
         "https://www.bbc.co.uk/news/articles/c89jgw0x0zgo#0",
         "https://www.bbc.co.uk/news/articles/czxz73zp7nwo#1",
-        "https://www.bbc.co.uk/weather/articles/cd0x17r4j0yo#0",
-        "https://www.bbc.co.uk/news/videos/cdx02dw785vo#0"
+        "https://www.bbc.co.uk/weather/articles/cd0x17r4j0yo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260905de48344",
         "https://news.web.nhk/newsweb/na/nd-20260905de48351",
         "https://news.web.nhk/newsweb/na/nd-20260905de48340",
         "https://news.web.nhk/newsweb/na/nd-20260905de48349",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260903de47900",
         "https://news.web.nhk/newsweb/na/nd-20260903de47902",
         "https://news.web.nhk/newsweb/na/nd-20260903de47893",
-        "https://news.web.nhk/newsweb/na/nd-20260903de47898",
-        "https://news.web.nhk/newsweb/na/nd-20260903de47895"
+        "https://news.web.nhk/newsweb/na/nd-20260903de47898"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/oxiclean-bag/",
