@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260903de47881"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/bousai_items_summary/",
         "https://www.gizmodo.jp/article/excessive_screen_time_increases/",
         "https://www.gizmodo.jp/article/amazon-oral-b-pro-1s/",
         "https://www.gizmodo.jp/article/d0ce7b72-cb3c-48af-8028-90b3b7debe8e/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/bowers-wilkins-new-speaker/",
         "https://www.gizmodo.jp/article/insta-360-go-ultra/",
         "https://www.gizmodo.jp/article/fitbit-pokemon-sleep/",
-        "https://www.gizmodo.jp/article/bose-quietcomfort-headphones-2nd-gen-review-still-more-quiet-and-comfortable-than-most/",
-        "https://www.gizmodo.jp/article/samsung_galaxy_s26_fe_release/"
+        "https://www.gizmodo.jp/article/bose-quietcomfort-headphones-2nd-gen-review-still-more-quiet-and-comfortable-than-most/"
     ]
 }
