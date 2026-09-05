@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/crl6d8jjx7jo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260906de48379",
         "https://news.web.nhk/newsweb/na/nd-20260906de48389",
         "https://news.web.nhk/newsweb/na/nd-20260903de47931",
         "https://news.web.nhk/newsweb/na/nd-20260906de48380",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260903de47958",
         "https://news.web.nhk/newsweb/na/nd-20260903de47966",
         "https://news.web.nhk/newsweb/na/nd-20260903de47956",
-        "https://news.web.nhk/newsweb/na/nd-20260903de47950",
-        "https://news.web.nhk/newsweb/na/nd-20260903de47942"
+        "https://news.web.nhk/newsweb/na/nd-20260903de47950"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/iphone17-pro-max-review-gxl/",
