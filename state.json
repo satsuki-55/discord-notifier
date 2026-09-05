@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/czxz73zp7nwo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260905de48331",
         "https://news.web.nhk/newsweb/na/nd-20260905de48337",
         "https://news.web.nhk/newsweb/na/nd-20260905de48334",
         "https://news.web.nhk/newsweb/na/nd-20260905de48332",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260903de47887",
         "https://news.web.nhk/newsweb/na/nd-20260903de47876",
         "https://news.web.nhk/newsweb/na/nd-20260903de47886",
-        "https://news.web.nhk/newsweb/na/nd-20260903de47884",
-        "https://news.web.nhk/newsweb/na/nd-20260903de47881"
+        "https://news.web.nhk/newsweb/na/nd-20260903de47884"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/bousai_items_summary/",
