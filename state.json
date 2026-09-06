@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cd68jv9d21zo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260906de48465",
         "https://news.web.nhk/newsweb/na/nd-20260903de48004",
         "https://news.web.nhk/newsweb/na/nd-20260906de48464",
         "https://news.web.nhk/newsweb/na/nd-20260906de48460",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260903de48025",
         "https://news.web.nhk/newsweb/na/nd-20260903de48022",
         "https://news.web.nhk/newsweb/na/nd-20260903de48024",
-        "https://news.web.nhk/newsweb/na/nd-20260903de48008",
-        "https://news.web.nhk/newsweb/na/nd-20260903de47996"
+        "https://news.web.nhk/newsweb/na/nd-20260903de48008"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/acers-vero-16-is-its-most-repairable-laptop-ever/",
