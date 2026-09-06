@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cd68jv9d21zo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260906de48469",
         "https://news.web.nhk/newsweb/na/nd-20260906de48465",
         "https://news.web.nhk/newsweb/na/nd-20260903de48004",
         "https://news.web.nhk/newsweb/na/nd-20260906de48464",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260903de48029",
         "https://news.web.nhk/newsweb/na/nd-20260903de48025",
         "https://news.web.nhk/newsweb/na/nd-20260903de48022",
-        "https://news.web.nhk/newsweb/na/nd-20260903de48024",
-        "https://news.web.nhk/newsweb/na/nd-20260903de48008"
+        "https://news.web.nhk/newsweb/na/nd-20260903de48024"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/apple-products-rumored-not-to-be-released-this-time/",
         "https://www.gizmodo.jp/article/acers-vero-16-is-its-most-repairable-laptop-ever/",
         "https://www.gizmodo.jp/article/country-and-stream-minty-ice-mist/",
         "https://www.gizmodo.jp/article/corn-roomie-re/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/keychron-g6-he-ultralight_three_days_left/",
         "https://www.gizmodo.jp/article/gizmodo-japan-20th-machiko/",
         "https://www.gizmodo.jp/article/amazon-xiaomi-poco-pad-m1/",
-        "https://www.gizmodo.jp/article/reverb-kzb/",
-        "https://www.gizmodo.jp/article/deformable-display-nhk-cki/"
+        "https://www.gizmodo.jp/article/reverb-kzb/"
     ]
 }
