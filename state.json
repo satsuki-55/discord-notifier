@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cwyzn8r8w79o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260906de48526",
         "https://news.web.nhk/newsweb/na/nd-20260906de48532",
         "https://news.web.nhk/newsweb/na/nd-20260906de48517",
         "https://news.web.nhk/newsweb/na/nd-20260906de48458",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260903de48051",
         "https://news.web.nhk/newsweb/na/nd-20260903de48050",
         "https://news.web.nhk/newsweb/na/nd-20260903de48049",
-        "https://news.web.nhk/newsweb/na/nd-20260903de48048",
-        "https://news.web.nhk/newsweb/na/nd-20260901de47568"
+        "https://news.web.nhk/newsweb/na/nd-20260903de48048"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/revive-dead-frog-frozen-for-40-years/",
         "https://www.gizmodo.jp/article/the-relationship-between-saliva-and-colorectal-cancer-risk/",
         "https://www.gizmodo.jp/article/ozlo-sleepbuds-2-review-comfy-sleep-earbuds-with-an-uncomfortable-price/",
         "https://www.gizmodo.jp/article/will-we-ever-solve-the-problem-of-losing-data/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/toy-camera-emo-flip-hs-07/",
         "https://www.gizmodo.jp/article/amazon-cio-usb-c-magsafe-connector/",
         "https://www.gizmodo.jp/article/famima-azabudai/",
-        "https://www.gizmodo.jp/article/xiaomi-redmi-pad-2-sale/",
-        "https://www.gizmodo.jp/article/keychron-g6-he-ultralight_three_days_left/"
+        "https://www.gizmodo.jp/article/xiaomi-redmi-pad-2-sale/"
     ]
 }
