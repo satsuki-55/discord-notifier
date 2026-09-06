@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c70dzzkwgg5o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260907de48666",
         "https://news.web.nhk/newsweb/na/nd-20260906de48515",
         "https://news.web.nhk/newsweb/na/nd-20260906de48514",
         "https://news.web.nhk/newsweb/na/nd-20260907de48626",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260904de48124",
         "https://news.web.nhk/newsweb/na/nd-20260903de47913",
         "https://news.web.nhk/newsweb/na/nd-20260902de47746",
-        "https://news.web.nhk/newsweb/na/nd-20260904de48123",
-        "https://news.web.nhk/newsweb/na/nd-20260904de48117"
+        "https://news.web.nhk/newsweb/na/nd-20260904de48123"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/ai-can-detect-parkinsons-from-drawing-99-percent/",
         "https://www.gizmodo.jp/article/best-timing-buy-smartphone-roa/",
         "https://www.gizmodo.jp/article/revive-dead-frog-frozen-for-40-years/",
         "https://www.gizmodo.jp/article/the-relationship-between-saliva-and-colorectal-cancer-risk/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/orca-echo-setting/",
         "https://www.gizmodo.jp/article/urbanoid-booba-wzs/",
         "https://www.gizmodo.jp/article/toy-camera-emo-flip-hs-07/",
-        "https://www.gizmodo.jp/article/amazon-cio-usb-c-magsafe-connector/",
-        "https://www.gizmodo.jp/article/famima-azabudai/"
+        "https://www.gizmodo.jp/article/amazon-cio-usb-c-magsafe-connector/"
     ]
 }
