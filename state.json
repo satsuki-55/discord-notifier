@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cwyzn8r8w79o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260906de48517",
         "https://news.web.nhk/newsweb/na/nd-20260906de48458",
         "https://news.web.nhk/newsweb/na/nd-20260906de48513",
         "https://news.web.nhk/newsweb/na/nd-20260906de48502",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260903de48049",
         "https://news.web.nhk/newsweb/na/nd-20260903de48048",
         "https://news.web.nhk/newsweb/na/nd-20260901de47568",
-        "https://news.web.nhk/newsweb/na/nd-20260903de48046",
-        "https://news.web.nhk/newsweb/na/nd-20260903de48042"
+        "https://news.web.nhk/newsweb/na/nd-20260903de48046"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/will-we-ever-solve-the-problem-of-losing-data/",
