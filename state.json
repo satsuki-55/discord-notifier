@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c9dwedep38po#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260906de48436",
         "https://news.web.nhk/newsweb/na/nd-20260906de48450",
         "https://news.web.nhk/newsweb/na/nd-20260906de48443",
         "https://news.web.nhk/newsweb/na/nd-20260906de48437",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260903de48019",
         "https://news.web.nhk/newsweb/na/nd-20260903de47990",
         "https://news.web.nhk/newsweb/na/nd-20260903de47998",
-        "https://news.web.nhk/newsweb/na/nd-20260903de48000",
-        "https://news.web.nhk/newsweb/na/nd-20260903de47984"
+        "https://news.web.nhk/newsweb/na/nd-20260903de48000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/anti-anpr-car/",
