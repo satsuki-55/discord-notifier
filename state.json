@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/cwyzn8r8w79o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260906de48539",
+        "https://news.web.nhk/newsweb/na/nd-20260906de48534",
         "https://news.web.nhk/newsweb/na/nd-20260906de48526",
         "https://news.web.nhk/newsweb/na/nd-20260906de48532",
         "https://news.web.nhk/newsweb/na/nd-20260906de48517",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260903de48030",
         "https://news.web.nhk/newsweb/na/nd-20260903de48044",
         "https://news.web.nhk/newsweb/na/nd-20260903de48051",
-        "https://news.web.nhk/newsweb/na/nd-20260903de48050",
-        "https://news.web.nhk/newsweb/na/nd-20260903de48049",
-        "https://news.web.nhk/newsweb/na/nd-20260903de48048"
+        "https://news.web.nhk/newsweb/na/nd-20260903de48050"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/revive-dead-frog-frozen-for-40-years/",
