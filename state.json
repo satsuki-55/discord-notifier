@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260903de47906"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/anti-anpr-car/",
         "https://www.gizmodo.jp/article/iphone_xs_genkai-enc/",
         "https://www.gizmodo.jp/article/philips-hue-liane-360-rope-light-signe-pendant-lights/",
         "https://www.gizmodo.jp/article/apple-20-inch-foldable-gtm/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/deformable-display-nhk-cki/",
         "https://www.gizmodo.jp/article/bose_quietcomfort-headphones_comparison/",
         "https://www.gizmodo.jp/article/ikea-xbox/",
-        "https://www.gizmodo.jp/article/amazon-nextrage-projector-nx1/",
-        "https://www.gizmodo.jp/article/perplexity-launches-local-ai-model-that-will-run-on-your-gpu-instead-of-the-cloud/"
+        "https://www.gizmodo.jp/article/amazon-nextrage-projector-nx1/"
     ]
 }
