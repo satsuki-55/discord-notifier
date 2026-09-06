@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cd68jv9d21zo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260906de48468",
         "https://news.web.nhk/newsweb/na/nd-20260906de48469",
         "https://news.web.nhk/newsweb/na/nd-20260906de48465",
         "https://news.web.nhk/newsweb/na/nd-20260903de48004",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260903de48040",
         "https://news.web.nhk/newsweb/na/nd-20260903de48029",
         "https://news.web.nhk/newsweb/na/nd-20260903de48025",
-        "https://news.web.nhk/newsweb/na/nd-20260903de48022",
-        "https://news.web.nhk/newsweb/na/nd-20260903de48024"
+        "https://news.web.nhk/newsweb/na/nd-20260903de48022"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/apple-products-rumored-not-to-be-released-this-time/",
