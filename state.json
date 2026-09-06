@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/clyqw44w142o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260906de48400",
         "https://news.web.nhk/newsweb/na/nd-20260906de48448",
         "https://news.web.nhk/newsweb/na/nd-20260906de48453",
         "https://news.web.nhk/newsweb/na/nd-20260906de48447",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260903de47994",
         "https://news.web.nhk/newsweb/na/nd-20260903de48004",
         "https://news.web.nhk/newsweb/na/nd-20260903de48011",
-        "https://news.web.nhk/newsweb/na/nd-20260831de47504",
-        "https://news.web.nhk/newsweb/na/nd-20260903de48019"
+        "https://news.web.nhk/newsweb/na/nd-20260831de47504"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/country-and-stream-minty-ice-mist/",
