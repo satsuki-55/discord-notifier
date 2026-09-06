@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cy4zvk3z2k1o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260907de48600",
         "https://news.web.nhk/newsweb/na/nd-20260907de48682",
         "https://news.web.nhk/newsweb/na/nd-20260907de48666",
         "https://news.web.nhk/newsweb/na/nd-20260906de48515",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260904de48125",
         "https://news.web.nhk/newsweb/na/nd-20260904de48129",
         "https://news.web.nhk/newsweb/na/nd-20260904de48124",
-        "https://news.web.nhk/newsweb/na/nd-20260903de47913",
-        "https://news.web.nhk/newsweb/na/nd-20260902de47746"
+        "https://news.web.nhk/newsweb/na/nd-20260903de47913"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/ai-can-detect-parkinsons-from-drawing-99-percent/",
