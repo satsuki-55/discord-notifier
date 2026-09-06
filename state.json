@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/c70dzzkwgg5o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260904de48082",
+        "https://news.web.nhk/newsweb/na/nd-20260907de48665",
         "https://news.web.nhk/newsweb/na/nd-20260906de48524",
         "https://news.web.nhk/newsweb/na/nd-20260907de48631",
         "https://news.web.nhk/newsweb/na/nd-20260907de48649",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260904de48094",
         "https://news.web.nhk/newsweb/na/nd-20260904de48100",
         "https://news.web.nhk/newsweb/na/nd-20260904de48096",
-        "https://news.web.nhk/newsweb/na/nd-20260904de48089",
-        "https://news.web.nhk/newsweb/na/nd-20260904de48080",
-        "https://news.web.nhk/newsweb/na/nd-20260904de48082"
+        "https://news.web.nhk/newsweb/na/nd-20260904de48089"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/best-timing-buy-smartphone-roa/",
