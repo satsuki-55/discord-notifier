@@ -2,6 +2,8 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "HWIOPVWdA74",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "9sJuIfHp-Tc",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c980j5m8mpro#0",
+        "https://www.bbc.co.uk/news/articles/cp301rw6kvro#1",
         "https://www.bbc.co.uk/news/articles/cn5d2r0zqvdo#0",
         "https://www.bbc.co.uk/sport/football/articles/c99d1dlpkp4o#0",
         "https://www.bbc.co.uk/news/articles/cp8d56w7d9po#0",
@@ -199,11 +201,10 @@
         "https://www.bbc.co.uk/news/articles/c305qn2jeggo#0",
         "https://www.bbc.co.uk/news/articles/cy4zvk3z2k1o#0",
         "https://www.bbc.co.uk/news/articles/cr50ddzl97qo#0",
-        "https://www.bbc.co.uk/news/articles/c70dzzkwgg5o#1",
-        "https://www.bbc.co.uk/news/videos/ckg0eerml02o#0",
-        "https://www.bbc.co.uk/news/articles/cvgyqey6rlyo#0"
+        "https://www.bbc.co.uk/news/articles/c70dzzkwgg5o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260906de48524",
         "https://news.web.nhk/newsweb/na/nd-20260907de48631",
         "https://news.web.nhk/newsweb/na/nd-20260907de48649",
         "https://news.web.nhk/newsweb/na/nd-20260907de48645",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260904de48096",
         "https://news.web.nhk/newsweb/na/nd-20260904de48089",
         "https://news.web.nhk/newsweb/na/nd-20260904de48080",
-        "https://news.web.nhk/newsweb/na/nd-20260904de48082",
-        "https://news.web.nhk/newsweb/na/nd-20260904de48079"
+        "https://news.web.nhk/newsweb/na/nd-20260904de48082"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/best-timing-buy-smartphone-roa/",
