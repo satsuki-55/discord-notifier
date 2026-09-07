@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cddve618plzo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260906de48501",
         "https://news.web.nhk/newsweb/na/nd-20260907de48714",
         "https://news.web.nhk/newsweb/na/nd-20260907de48712",
         "https://news.web.nhk/newsweb/na/nd-20260907de48692",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260904de48158",
         "https://news.web.nhk/newsweb/na/nd-20260904de48168",
         "https://news.web.nhk/newsweb/na/nd-20260904de48154",
-        "https://news.web.nhk/newsweb/na/nd-20260904de48134",
-        "https://news.web.nhk/newsweb/na/nd-20260904de48152"
+        "https://news.web.nhk/newsweb/na/nd-20260904de48134"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/price-forecasts-for-foldable-iphones/",
