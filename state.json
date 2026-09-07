@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c17jqp0xzpzo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260828de46983",
         "https://news.web.nhk/newsweb/na/nd-20260907de48802",
         "https://news.web.nhk/newsweb/na/nd-20260907de48786",
         "https://news.web.nhk/newsweb/na/nd-20260907de48799",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260904de48208",
         "https://news.web.nhk/newsweb/na/nd-20260904de48217",
         "https://news.web.nhk/newsweb/na/nd-20260904de48209",
-        "https://news.web.nhk/newsweb/na/nd-20260904de48190",
-        "https://news.web.nhk/newsweb/na/nd-20260902de47744"
+        "https://news.web.nhk/newsweb/na/nd-20260904de48190"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/iphone-18-pro-color/",
