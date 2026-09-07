@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "HWIOPVWdA74",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "9sJuIfHp-Tc",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/crerw2nj81zo#0",
         "https://www.bbc.co.uk/news/articles/cn0j4lz6pe9o#0",
         "https://www.bbc.co.uk/news/articles/c4g7rxgvkgdo#1",
         "https://www.bbc.co.uk/news/articles/cn9wyvxn95vo#0",
@@ -200,10 +201,11 @@
         "https://www.bbc.co.uk/news/articles/c17jqp0xzpzo#1",
         "https://www.bbc.co.uk/news/articles/clyeq3ngwe4o#1",
         "https://www.bbc.co.uk/news/articles/cr4vnr5g1k7o#1",
-        "https://www.bbc.co.uk/news/articles/cx2z7lz7777o#1",
-        "https://www.bbc.co.uk/news/articles/clyk18g1l8ko#0"
+        "https://www.bbc.co.uk/news/articles/cx2z7lz7777o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260907de48715",
+        "https://news.web.nhk/newsweb/na/nd-20260906de48525",
         "https://news.web.nhk/newsweb/na/nd-20260907de48780",
         "https://news.web.nhk/newsweb/na/nd-20260907de48775",
         "https://news.web.nhk/newsweb/na/nd-20260904de48188",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260904de48194",
         "https://news.web.nhk/newsweb/na/nd-20260904de48206",
         "https://news.web.nhk/newsweb/na/nd-20260904de48207",
-        "https://news.web.nhk/newsweb/na/nd-20260904de48185",
-        "https://news.web.nhk/newsweb/na/nd-20260904de48193",
-        "https://news.web.nhk/newsweb/na/nd-20260904de48205"
+        "https://news.web.nhk/newsweb/na/nd-20260904de48185"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/a-cargo-plane-with-no-pilot-just-completed-a-series-of-flights-over-a-small-louisiana-town/",
