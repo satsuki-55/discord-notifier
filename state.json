@@ -1,5 +1,5 @@
 {
-    "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "yGwxA6pxQGw",
+    "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "HWIOPVWdA74",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "9sJuIfHp-Tc",
     "rss:bbc": [
         "https://www.bbc.co.uk/news/articles/c74el40wpw9o#0",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260904de48244"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/iphone-18-18pro-rumors-summary/",
         "https://www.gizmodo.jp/article/kaizirushi-nadesori/",
         "https://www.gizmodo.jp/article/foldable-iphones-yay-or-nay/",
         "https://www.gizmodo.jp/article/foldable-phone-editors-survey-2026/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/6years-with-iphonese2/",
         "https://www.gizmodo.jp/article/daiso-mist-fan/",
         "https://www.gizmodo.jp/article/nasa-is-launching-a-4-billion-space-telescope-sunday-heres-why-you-should-care/",
-        "https://www.gizmodo.jp/article/cordalock/",
-        "https://www.gizmodo.jp/article/air-mattress-sale/"
+        "https://www.gizmodo.jp/article/cordalock/"
     ]
 }
