@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cx2r2mzelxko#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260907de48755",
         "https://news.web.nhk/newsweb/na/nd-20260907de48752",
         "https://news.web.nhk/newsweb/na/nd-20260907de48736",
         "https://news.web.nhk/newsweb/na/nd-20260904de48171",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260904de48181",
         "https://news.web.nhk/newsweb/na/nd-20260904de48182",
         "https://news.web.nhk/newsweb/na/nd-20260904de48186",
-        "https://news.web.nhk/newsweb/na/nd-20260904de48126",
-        "https://news.web.nhk/newsweb/na/nd-20260904de48184"
+        "https://news.web.nhk/newsweb/na/nd-20260904de48126"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/xiaomi-18-fold/",
         "https://www.gizmodo.jp/article/huaweis-watch-d3-doubles-as-an-inflatable-blood-pressure-cuff/",
         "https://www.gizmodo.jp/article/iphone-maintenance-tools-igt/",
         "https://www.gizmodo.jp/article/ugreen-magflow-pro-magnetic-power-bank/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/elecom_items/",
         "https://www.gizmodo.jp/article/campingcar_matome-yjo/",
         "https://www.gizmodo.jp/article/amazon-ugreen-finetrack-duo-2/",
-        "https://www.gizmodo.jp/article/heliox-agao/",
-        "https://www.gizmodo.jp/article/nexus-p-1/"
+        "https://www.gizmodo.jp/article/heliox-agao/"
     ]
 }
