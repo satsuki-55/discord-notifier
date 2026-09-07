@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/ce9eg0zz8k4o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260908de48888",
         "https://news.web.nhk/newsweb/na/nd-20260908de48909",
         "https://news.web.nhk/newsweb/na/nd-20260908de48890",
         "https://news.web.nhk/newsweb/na/nd-20260907de48883",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260904de48222",
         "https://news.web.nhk/newsweb/na/nd-20260905de48253",
         "https://news.web.nhk/newsweb/na/nd-20260905de48252",
-        "https://news.web.nhk/newsweb/na/nd-20260904de48250",
-        "https://news.web.nhk/newsweb/na/nd-20260905de48264"
+        "https://news.web.nhk/newsweb/na/nd-20260904de48250"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/production-volume-of-foldable-iphones/",
