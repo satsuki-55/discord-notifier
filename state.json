@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c39mv4vm7exo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260907de48698",
         "https://news.web.nhk/newsweb/na/nd-20260907de48710",
         "https://news.web.nhk/newsweb/na/nd-20260904de48158",
         "https://news.web.nhk/newsweb/na/nd-20260907de48725",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260904de48155",
         "https://news.web.nhk/newsweb/na/nd-20260904de48171",
         "https://news.web.nhk/newsweb/na/nd-20260904de48090",
-        "https://news.web.nhk/newsweb/na/nd-20260904de48173",
-        "https://news.web.nhk/newsweb/na/nd-20260904de48176"
+        "https://news.web.nhk/newsweb/na/nd-20260904de48173"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/iphone-maintenance-tools-igt/",
