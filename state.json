@@ -2,6 +2,10 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "yGwxA6pxQGw",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "9sJuIfHp-Tc",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c2kw1qek7gdo#0",
+        "https://www.bbc.co.uk/news/articles/c158wwl22xko#1",
+        "https://www.bbc.co.uk/news/articles/czezydp4l97o#1",
+        "https://www.bbc.co.uk/news/articles/cgqd774wzpdo#1",
         "https://www.bbc.co.uk/news/articles/c74el40wpw9o#0",
         "https://www.bbc.co.uk/news/articles/cpd0113082eo#0",
         "https://www.bbc.co.uk/news/articles/cx2z0je34y1o#0",
@@ -197,13 +201,10 @@
         "https://www.bbc.co.uk/news/articles/cx2z0kvy4n4o#1",
         "https://www.bbc.co.uk/news/articles/c9dwjv96qyqo#0",
         "https://www.bbc.co.uk/news/articles/cjrx75ldydwo#1",
-        "https://www.bbc.co.uk/news/articles/cy5zryk1lwyo#0",
-        "https://www.bbc.co.uk/news/articles/c5ylg86gp4eo#1",
-        "https://www.bbc.co.uk/news/articles/c86xj5z7x61o#0",
-        "https://www.bbc.co.uk/news/articles/cy5zryk1lwyo#1",
-        "https://www.bbc.co.uk/news/articles/c74k39g3ee5o#0"
+        "https://www.bbc.co.uk/news/articles/cy5zryk1lwyo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260907de48850",
         "https://news.web.nhk/newsweb/na/nd-20260907de48835",
         "https://news.web.nhk/newsweb/na/nd-20260907de48845",
         "https://news.web.nhk/newsweb/na/nd-20260907de48846",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260903de48007",
         "https://news.web.nhk/newsweb/na/nd-20260905de48256",
         "https://news.web.nhk/newsweb/na/nd-20260904de48238",
-        "https://news.web.nhk/newsweb/na/nd-20260904de48249",
-        "https://news.web.nhk/newsweb/na/nd-20260904de48244"
+        "https://news.web.nhk/newsweb/na/nd-20260904de48249"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/fold-smartphone-samsung-apple/",
         "https://www.gizmodo.jp/article/iphone-18-18pro-rumors-summary/",
         "https://www.gizmodo.jp/article/kaizirushi-nadesori/",
         "https://www.gizmodo.jp/article/foldable-iphones-yay-or-nay/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/iwatani-yakimaru2-review-jek/",
         "https://www.gizmodo.jp/article/6years-with-iphonese2/",
         "https://www.gizmodo.jp/article/daiso-mist-fan/",
-        "https://www.gizmodo.jp/article/nasa-is-launching-a-4-billion-space-telescope-sunday-heres-why-you-should-care/",
-        "https://www.gizmodo.jp/article/cordalock/"
+        "https://www.gizmodo.jp/article/nasa-is-launching-a-4-billion-space-telescope-sunday-heres-why-you-should-care/"
     ]
 }
