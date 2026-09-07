@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cr4vnr5g1k7o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260907de48785",
         "https://news.web.nhk/newsweb/na/nd-20260907de48791",
         "https://news.web.nhk/newsweb/na/nd-20260907de48715",
         "https://news.web.nhk/newsweb/na/nd-20260906de48525",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260904de48213",
         "https://news.web.nhk/newsweb/na/nd-20260904de48198",
         "https://news.web.nhk/newsweb/na/nd-20260904de48194",
-        "https://news.web.nhk/newsweb/na/nd-20260904de48206",
-        "https://news.web.nhk/newsweb/na/nd-20260904de48207"
+        "https://news.web.nhk/newsweb/na/nd-20260904de48206"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/triggerpoint_foam_roller_re/",
