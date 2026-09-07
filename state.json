@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c17jqp0xzpzo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260907de48799",
         "https://news.web.nhk/newsweb/na/nd-20260903de47913",
         "https://news.web.nhk/newsweb/na/nd-20260902de47746",
         "https://news.web.nhk/newsweb/na/nd-20260907de48785",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260904de48190",
         "https://news.web.nhk/newsweb/na/nd-20260902de47744",
         "https://news.web.nhk/newsweb/na/nd-20260904de48203",
-        "https://news.web.nhk/newsweb/na/nd-20260904de48213",
-        "https://news.web.nhk/newsweb/na/nd-20260904de48198"
+        "https://news.web.nhk/newsweb/na/nd-20260904de48213"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/apple-game-controllers/",
