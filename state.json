@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c0lr18ll1k3o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260907de48780",
         "https://news.web.nhk/newsweb/na/nd-20260907de48775",
         "https://news.web.nhk/newsweb/na/nd-20260904de48188",
         "https://news.web.nhk/newsweb/na/nd-20260904de48189",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260904de48207",
         "https://news.web.nhk/newsweb/na/nd-20260904de48185",
         "https://news.web.nhk/newsweb/na/nd-20260904de48193",
-        "https://news.web.nhk/newsweb/na/nd-20260904de48205",
-        "https://news.web.nhk/newsweb/na/nd-20260904de48199"
+        "https://news.web.nhk/newsweb/na/nd-20260904de48205"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/a-cargo-plane-with-no-pilot-just-completed-a-series-of-flights-over-a-small-louisiana-town/",
