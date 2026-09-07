@@ -2,6 +2,9 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "HWIOPVWdA74",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "9sJuIfHp-Tc",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/videos/cdr7g3vdl58o#0",
+        "https://www.bbc.co.uk/news/articles/cx2z37qj4wno#0",
+        "https://www.bbc.co.uk/news/articles/cy0zx2pkpx9o#1",
         "https://www.bbc.co.uk/news/articles/cj06z37p0mlo#0",
         "https://www.bbc.co.uk/news/articles/cvgyp2n1e75o#0",
         "https://www.bbc.co.uk/news/articles/crr40g71vylo#0",
@@ -198,12 +201,10 @@
         "https://www.bbc.co.uk/news/articles/c7v4n7pv5epo#0",
         "https://www.bbc.co.uk/news/articles/crk3xd8j3k5o#0",
         "https://www.bbc.co.uk/news/articles/cx2r2mzelxko#0",
-        "https://www.bbc.co.uk/news/articles/c39mv4vm7exo#1",
-        "https://www.bbc.co.uk/news/articles/crerw510gdzo#1",
-        "https://www.bbc.co.uk/news/videos/cdr7g3vdl58o#0",
-        "https://www.bbc.co.uk/news/articles/cx2z7lz7777o#0"
+        "https://www.bbc.co.uk/news/articles/c39mv4vm7exo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260907de48710",
         "https://news.web.nhk/newsweb/na/nd-20260904de48158",
         "https://news.web.nhk/newsweb/na/nd-20260907de48725",
         "https://news.web.nhk/newsweb/na/nd-20260907de48732",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260904de48171",
         "https://news.web.nhk/newsweb/na/nd-20260904de48090",
         "https://news.web.nhk/newsweb/na/nd-20260904de48173",
-        "https://news.web.nhk/newsweb/na/nd-20260904de48176",
-        "https://news.web.nhk/newsweb/na/nd-20260904de48170"
+        "https://news.web.nhk/newsweb/na/nd-20260904de48176"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/iphone-maintenance-tools-igt/",
         "https://www.gizmodo.jp/article/ugreen-magflow-pro-magnetic-power-bank/",
         "https://www.gizmodo.jp/article/price-forecasts-for-foldable-iphones/",
         "https://www.gizmodo.jp/article/zero-gravity-workstation-0b-xl-prone/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/amazon-ugreen-finetrack-duo-2/",
         "https://www.gizmodo.jp/article/heliox-agao/",
         "https://www.gizmodo.jp/article/nexus-p-1/",
-        "https://www.gizmodo.jp/article/mummified-human-remains-are-being-sold-online-biohazards-included/",
-        "https://www.gizmodo.jp/article/3ccoins-water-drink-band/"
+        "https://www.gizmodo.jp/article/mummified-human-remains-are-being-sold-online-biohazards-included/"
     ]
 }
