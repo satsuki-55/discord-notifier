@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c5y4jr4yr2eo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260907de48692",
         "https://news.web.nhk/newsweb/na/nd-20260907de48708",
         "https://news.web.nhk/newsweb/na/nd-20260907de48699",
         "https://news.web.nhk/newsweb/na/nd-20260907de48697",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260904de48134",
         "https://news.web.nhk/newsweb/na/nd-20260904de48152",
         "https://news.web.nhk/newsweb/na/nd-20260901de47675",
-        "https://news.web.nhk/newsweb/na/nd-20260904de48149",
-        "https://news.web.nhk/newsweb/na/nd-20260904de48138"
+        "https://news.web.nhk/newsweb/na/nd-20260904de48149"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/zero-gravity-workstation-0b-xl-prone/",
