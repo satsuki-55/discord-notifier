@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/c74k39g3ee5o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260907de48835",
+        "https://news.web.nhk/newsweb/na/nd-20260907de48845",
         "https://news.web.nhk/newsweb/na/nd-20260907de48846",
         "https://news.web.nhk/newsweb/na/nd-20260907de48823",
         "https://news.web.nhk/newsweb/na/nd-20260907de48833",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260905de48256",
         "https://news.web.nhk/newsweb/na/nd-20260904de48238",
         "https://news.web.nhk/newsweb/na/nd-20260904de48249",
-        "https://news.web.nhk/newsweb/na/nd-20260904de48244",
-        "https://news.web.nhk/newsweb/na/nd-20260904de48247",
-        "https://news.web.nhk/newsweb/na/nd-20260904de48234"
+        "https://news.web.nhk/newsweb/na/nd-20260904de48244"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/kaizirushi-nadesori/",
