@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cwyzn8r8w79o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260907de48829",
         "https://news.web.nhk/newsweb/na/nd-20260907de48792",
         "https://news.web.nhk/newsweb/na/nd-20260907de48811",
         "https://news.web.nhk/newsweb/na/nd-20260907de48739",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260829de47121",
         "https://news.web.nhk/newsweb/na/nd-20260902de47737",
         "https://news.web.nhk/newsweb/na/nd-20260904de48237",
-        "https://news.web.nhk/newsweb/na/nd-20260904de48221",
-        "https://news.web.nhk/newsweb/na/nd-20260904de48223"
+        "https://news.web.nhk/newsweb/na/nd-20260904de48221"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/foldable-phone-editors-survey-2026/",
