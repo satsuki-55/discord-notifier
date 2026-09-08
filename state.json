@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cwyz6728veqo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260909de49209",
         "https://news.web.nhk/newsweb/na/nd-20260909de49211",
         "https://news.web.nhk/newsweb/na/nd-20260909de49215",
         "https://news.web.nhk/newsweb/na/nd-20260909de49220",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260907de48689",
         "https://news.web.nhk/newsweb/na/nd-20260907de48669",
         "https://news.web.nhk/newsweb/na/nd-20260907de48684",
-        "https://news.web.nhk/newsweb/na/nd-20260907de48676",
-        "https://news.web.nhk/newsweb/na/nd-20260907de48600"
+        "https://news.web.nhk/newsweb/na/nd-20260907de48676"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/what-i-brought-for-apple-fall-event-2026/",
