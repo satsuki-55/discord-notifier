@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260906de48387"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/vibram_japan/",
         "https://www.gizmodo.jp/article/moto-watch-ultra-is-a-standard-wear-os-smartwatch-for-good-and-for-bad/",
         "https://www.gizmodo.jp/article/amazon-buffalo-usb-c-to-c-cable/",
         "https://www.gizmodo.jp/article/amazon-sale-mobile-battery-recommend-kvh/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/shiseido-ihada-reset-oil/",
         "https://www.gizmodo.jp/article/cnc-lathe-for-home-use-makera-z1-wnv/",
         "https://www.gizmodo.jp/article/anker-solix-c300-sale/",
-        "https://www.gizmodo.jp/article/ascii-city/",
-        "https://www.gizmodo.jp/article/swichbot-kata/"
+        "https://www.gizmodo.jp/article/ascii-city/"
     ]
 }
