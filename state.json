@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "yGwxA6pxQGw",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "9sJuIfHp-Tc",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cn0j4lz6pe9o#1",
         "https://www.bbc.co.uk/news/articles/cd08vvnp9geo#0",
         "https://www.bbc.co.uk/news/videos/c62jdyld8myo#0",
         "https://www.bbc.co.uk/news/articles/cwyz7lrwqdyo#0",
@@ -200,10 +201,11 @@
         "https://www.bbc.co.uk/news/videos/cd79vp91321o#1",
         "https://www.bbc.co.uk/news/articles/c7v4npv1m22o#1",
         "https://www.bbc.co.uk/news/articles/cy4z8mzx7gwo#1",
-        "https://www.bbc.co.uk/news/articles/c4g7rxgvkgdo#0",
-        "https://www.bbc.co.uk/news/videos/cr7dzr2e789o#0"
+        "https://www.bbc.co.uk/news/articles/c4g7rxgvkgdo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260908de49030",
+        "https://news.web.nhk/newsweb/na/nd-20260908de49045",
         "https://news.web.nhk/newsweb/na/nd-20260908de49040",
         "https://news.web.nhk/newsweb/na/nd-20260908de49034",
         "https://news.web.nhk/newsweb/na/nd-20260907de48796",
@@ -401,11 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260906de48382",
         "https://news.web.nhk/newsweb/na/nd-20260905de48375",
         "https://news.web.nhk/newsweb/na/nd-20260906de48378",
-        "https://news.web.nhk/newsweb/na/nd-20260906de48387",
-        "https://news.web.nhk/newsweb/na/nd-20260906de48383",
-        "https://news.web.nhk/newsweb/na/nd-20260906de48377"
+        "https://news.web.nhk/newsweb/na/nd-20260906de48387"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/moto-watch-ultra-is-a-standard-wear-os-smartwatch-for-good-and-for-bad/",
         "https://www.gizmodo.jp/article/amazon-buffalo-usb-c-to-c-cable/",
         "https://www.gizmodo.jp/article/amazon-sale-mobile-battery-recommend-kvh/",
         "https://www.gizmodo.jp/article/psp_musicplayer_pspman/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/cnc-lathe-for-home-use-makera-z1-wnv/",
         "https://www.gizmodo.jp/article/anker-solix-c300-sale/",
         "https://www.gizmodo.jp/article/ascii-city/",
-        "https://www.gizmodo.jp/article/swichbot-kata/",
-        "https://www.gizmodo.jp/article/nike_pegasus-plus-2/"
+        "https://www.gizmodo.jp/article/swichbot-kata/"
     ]
 }
