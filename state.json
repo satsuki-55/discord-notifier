@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "yGwxA6pxQGw",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "9sJuIfHp-Tc",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c20917w25n4o#0",
         "https://www.bbc.co.uk/news/articles/c1j1896e973o#0",
         "https://www.bbc.co.uk/news/articles/cn8np9wwe35o#0",
         "https://www.bbc.co.uk/news/articles/c0m39g7xzevo#1",
@@ -200,10 +201,11 @@
         "https://www.bbc.co.uk/news/videos/cgl7x04k3yyo#0",
         "https://www.bbc.co.uk/news/articles/c8r6ezx1jmro#0",
         "https://www.bbc.co.uk/news/articles/c24j1r45r49o#0",
-        "https://www.bbc.co.uk/news/articles/cwyz6728veqo#0",
-        "https://www.bbc.co.uk/news/articles/cr4vnr5g1k7o#0"
+        "https://www.bbc.co.uk/news/articles/cwyz6728veqo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260909de49211",
+        "https://news.web.nhk/newsweb/na/nd-20260909de49215",
         "https://news.web.nhk/newsweb/na/nd-20260909de49220",
         "https://news.web.nhk/newsweb/na/nd-20260909de49213",
         "https://news.web.nhk/newsweb/na/nd-20260909de49204",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260907de48669",
         "https://news.web.nhk/newsweb/na/nd-20260907de48684",
         "https://news.web.nhk/newsweb/na/nd-20260907de48676",
-        "https://news.web.nhk/newsweb/na/nd-20260907de48600",
-        "https://news.web.nhk/newsweb/na/nd-20260907de48682",
-        "https://news.web.nhk/newsweb/na/nd-20260907de48666"
+        "https://news.web.nhk/newsweb/na/nd-20260907de48600"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/what-i-brought-for-apple-fall-event-2026/",
