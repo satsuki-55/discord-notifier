@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/cgrvgejwgvlo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260908de49071",
+        "https://news.web.nhk/newsweb/na/nd-20260908de49063",
         "https://news.web.nhk/newsweb/na/nd-20260908de49093",
         "https://news.web.nhk/newsweb/na/nd-20260908de49082",
         "https://news.web.nhk/newsweb/na/nd-20260908de49079",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260906de48427",
         "https://news.web.nhk/newsweb/na/nd-20260906de48423",
         "https://news.web.nhk/newsweb/na/nd-20260906de48408",
-        "https://news.web.nhk/newsweb/na/nd-20260903de47974",
-        "https://news.web.nhk/newsweb/na/nd-20260906de48402",
-        "https://news.web.nhk/newsweb/na/nd-20260906de48399"
+        "https://news.web.nhk/newsweb/na/nd-20260903de47974"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/razer-clio-x/",
