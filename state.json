@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c89jpyk8n80o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260908de49172",
         "https://news.web.nhk/newsweb/na/nd-20260908de49156",
         "https://news.web.nhk/newsweb/na/nd-20260908de49158",
         "https://news.web.nhk/newsweb/na/nd-20260908de49168",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260907de48565",
         "https://news.web.nhk/newsweb/na/nd-20260907de48564",
         "https://news.web.nhk/newsweb/na/nd-20260903de48030",
-        "https://news.web.nhk/newsweb/na/nd-20260907de48563",
-        "https://news.web.nhk/newsweb/na/nd-20260906de48552"
+        "https://news.web.nhk/newsweb/na/nd-20260907de48563"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/two_to_one_movie_natja-brunckhorst_interview/",
