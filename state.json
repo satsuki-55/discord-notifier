@@ -2,6 +2,8 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "yGwxA6pxQGw",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "9sJuIfHp-Tc",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c770v7y63r0o#0",
+        "https://www.bbc.co.uk/news/articles/cq5x30003zdo#1",
         "https://www.bbc.co.uk/news/articles/c4gm8npmp4ro#0",
         "https://www.bbc.co.uk/news/articles/cvgy63mdnr7o#1",
         "https://www.bbc.co.uk/news/articles/cx2z0je34y1o#1",
@@ -199,9 +201,7 @@
         "https://www.bbc.co.uk/news/articles/c4gkr3p0ql7o#0",
         "https://www.bbc.co.uk/news/articles/cly5r60v4mro#1",
         "https://www.bbc.co.uk/news/articles/cly5r60v4mro#0",
-        "https://www.bbc.co.uk/news/articles/cje87w9j342o#0",
-        "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo#0",
-        "https://www.bbc.co.uk/news/videos/cwyzeyd7peeo#0"
+        "https://www.bbc.co.uk/news/articles/cje87w9j342o#0"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20260908de49084",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260903de48022"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2609-iphone-17-pro-max-1-year-review/",
         "https://www.gizmodo.jp/article/i-test-rode-the-volkswagen-licensed-worlds-safest-e-bike-in-berlin/",
         "https://www.gizmodo.jp/article/2609-tesla-cybercab-manual/",
         "https://www.gizmodo.jp/article/creer_sensor-light/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/lg-25g590b-b/",
         "https://www.gizmodo.jp/article/google-openai-and-over-100-companies-call-for-more-action-on-ai-driven-cyberattacks/",
         "https://www.gizmodo.jp/article/x-arcade-arcade2tv-xr-max/",
-        "https://www.gizmodo.jp/article/blu-hub/",
-        "https://www.gizmodo.jp/article/redmi-17/"
+        "https://www.gizmodo.jp/article/blu-hub/"
     ]
 }
