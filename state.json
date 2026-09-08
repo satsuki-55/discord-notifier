@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c62k677d4lzo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260908de49092",
         "https://news.web.nhk/newsweb/na/nd-20260908de49098",
         "https://news.web.nhk/newsweb/na/nd-20260908de49087",
         "https://news.web.nhk/newsweb/na/nd-20260908de49110",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260906de48464",
         "https://news.web.nhk/newsweb/na/nd-20260906de48460",
         "https://news.web.nhk/newsweb/na/nd-20260906de48452",
-        "https://news.web.nhk/newsweb/na/nd-20260906de48400",
-        "https://news.web.nhk/newsweb/na/nd-20260906de48448"
+        "https://news.web.nhk/newsweb/na/nd-20260906de48400"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/i-test-rode-the-volkswagen-licensed-worlds-safest-e-bike-in-berlin/",
         "https://www.gizmodo.jp/article/2609-tesla-cybercab-manual/",
         "https://www.gizmodo.jp/article/creer_sensor-light/",
         "https://www.gizmodo.jp/article/razer-clio-x/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/google-openai-and-over-100-companies-call-for-more-action-on-ai-driven-cyberattacks/",
         "https://www.gizmodo.jp/article/x-arcade-arcade2tv-xr-max/",
         "https://www.gizmodo.jp/article/blu-hub/",
-        "https://www.gizmodo.jp/article/redmi-17/",
-        "https://www.gizmodo.jp/article/orca-echo-keycaps/"
+        "https://www.gizmodo.jp/article/redmi-17/"
     ]
 }
