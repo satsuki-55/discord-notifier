@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "yGwxA6pxQGw",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "9sJuIfHp-Tc",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cwyze8ed774o#1",
         "https://www.bbc.co.uk/news/articles/c5y5kn143d1o#0",
         "https://www.bbc.co.uk/news/articles/c8xkv1q8yp0o#1",
         "https://www.bbc.co.uk/news/articles/cq63m88ymqro#0",
@@ -200,10 +201,10 @@
         "https://www.bbc.co.uk/news/articles/cvgyn8q8gqxo#1",
         "https://www.bbc.co.uk/news/articles/cvgyqpmy01po#1",
         "https://www.bbc.co.uk/news/articles/cx2z0xnw2d6o#0",
-        "https://www.bbc.co.uk/news/articles/cwyz7lrwqdyo#1",
-        "https://www.bbc.co.uk/news/articles/cgrvgejwgvlo#1"
+        "https://www.bbc.co.uk/news/articles/cwyz7lrwqdyo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260908de49112",
         "https://news.web.nhk/newsweb/na/nd-20260908de49094",
         "https://news.web.nhk/newsweb/na/nd-20260908de49095",
         "https://news.web.nhk/newsweb/na/nd-20260908de49068",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260906de48453",
         "https://news.web.nhk/newsweb/na/nd-20260906de48447",
         "https://news.web.nhk/newsweb/na/nd-20260906de48436",
-        "https://news.web.nhk/newsweb/na/nd-20260906de48450",
-        "https://news.web.nhk/newsweb/na/nd-20260906de48443"
+        "https://news.web.nhk/newsweb/na/nd-20260906de48450"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/creer_sensor-light/",
