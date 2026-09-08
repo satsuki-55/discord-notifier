@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c7v4npv1m22o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260908de49074",
         "https://news.web.nhk/newsweb/na/nd-20260908de49052",
         "https://news.web.nhk/newsweb/na/nd-20260908de49072",
         "https://news.web.nhk/newsweb/na/nd-20260908de49066",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260906de48395",
         "https://news.web.nhk/newsweb/na/nd-20260906de48381",
         "https://news.web.nhk/newsweb/na/nd-20260906de48392",
-        "https://news.web.nhk/newsweb/na/nd-20260906de48384",
-        "https://news.web.nhk/newsweb/na/nd-20260906de48379"
+        "https://news.web.nhk/newsweb/na/nd-20260906de48384"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/his-new-irobot-concept-is-the-matryoshka-of-robot-vacuums/",
         "https://www.gizmodo.jp/article/vibram_japan/",
         "https://www.gizmodo.jp/article/moto-watch-ultra-is-a-standard-wear-os-smartwatch-for-good-and-for-bad/",
         "https://www.gizmodo.jp/article/amazon-buffalo-usb-c-to-c-cable/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/keychron-g6-he-ultralight_one_day_left/",
         "https://www.gizmodo.jp/article/shiseido-ihada-reset-oil/",
         "https://www.gizmodo.jp/article/cnc-lathe-for-home-use-makera-z1-wnv/",
-        "https://www.gizmodo.jp/article/anker-solix-c300-sale/",
-        "https://www.gizmodo.jp/article/ascii-city/"
+        "https://www.gizmodo.jp/article/anker-solix-c300-sale/"
     ]
 }
