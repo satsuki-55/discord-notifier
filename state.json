@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "yGwxA6pxQGw",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "9sJuIfHp-Tc",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cq5x3vjq06qo#0",
         "https://www.bbc.co.uk/news/articles/c70dx3z9956o#0",
         "https://www.bbc.co.uk/news/articles/cddvzm9nyz7o#1",
         "https://www.bbc.co.uk/news/articles/c770v7y63r0o#0",
@@ -200,10 +201,11 @@
         "https://www.bbc.co.uk/news/articles/c7903j1vpe5o#1",
         "https://www.bbc.co.uk/news/articles/c0qxgn7q1vdo#0",
         "https://www.bbc.co.uk/news/articles/cvgypkzgy4wo#1",
-        "https://www.bbc.co.uk/news/articles/c4gkr3p0ql7o#0",
-        "https://www.bbc.co.uk/news/articles/cly5r60v4mro#1"
+        "https://www.bbc.co.uk/news/articles/c4gkr3p0ql7o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260908de49154",
+        "https://news.web.nhk/newsweb/na/nd-20260908de49147",
         "https://news.web.nhk/newsweb/na/nd-20260908de49084",
         "https://news.web.nhk/newsweb/na/nd-20260908de49140",
         "https://news.web.nhk/newsweb/na/nd-20260908de49131",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260906de48532",
         "https://news.web.nhk/newsweb/na/nd-20260906de48517",
         "https://news.web.nhk/newsweb/na/nd-20260906de48458",
-        "https://news.web.nhk/newsweb/na/nd-20260906de48513",
-        "https://news.web.nhk/newsweb/na/nd-20260906de48502",
-        "https://news.web.nhk/newsweb/na/nd-20260903de48022"
+        "https://news.web.nhk/newsweb/na/nd-20260906de48513"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2609-iphone-17-pro-max-1-year-review/",
