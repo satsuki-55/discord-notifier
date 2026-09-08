@@ -2,6 +2,8 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "yGwxA6pxQGw",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "9sJuIfHp-Tc",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cq63m88ymqro#0",
+        "https://www.bbc.co.uk/news/articles/c05r61rqe4yo#1",
         "https://www.bbc.co.uk/news/articles/cq5x3n38308o#0",
         "https://www.bbc.co.uk/news/articles/ce8e32n8epeo#1",
         "https://www.bbc.co.uk/news/articles/cp30kv53qvdo#0",
@@ -199,11 +201,10 @@
         "https://www.bbc.co.uk/news/articles/cwyz7lrwqdyo#1",
         "https://www.bbc.co.uk/news/articles/cgrvgejwgvlo#1",
         "https://www.bbc.co.uk/news/articles/cddvep5vj7mo#1",
-        "https://www.bbc.co.uk/news/articles/c980g0g7yyjo#0",
-        "https://www.bbc.co.uk/news/articles/cgk5g51xk57o#0",
-        "https://www.bbc.co.uk/news/articles/c3v45xy67g5o#0"
+        "https://www.bbc.co.uk/news/articles/c980g0g7yyjo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260908de49082",
         "https://news.web.nhk/newsweb/na/nd-20260908de49079",
         "https://news.web.nhk/newsweb/na/nd-20260908de49049",
         "https://news.web.nhk/newsweb/na/nd-20260908de49073",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260903de47974",
         "https://news.web.nhk/newsweb/na/nd-20260906de48402",
         "https://news.web.nhk/newsweb/na/nd-20260906de48399",
-        "https://news.web.nhk/newsweb/na/nd-20260905de48361",
-        "https://news.web.nhk/newsweb/na/nd-20260906de48395"
+        "https://news.web.nhk/newsweb/na/nd-20260905de48361"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/his-new-irobot-concept-is-the-matryoshka-of-robot-vacuums/",
