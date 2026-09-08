@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/cj64rrne643o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260908de49168",
+        "https://news.web.nhk/newsweb/na/nd-20260908de49166",
         "https://news.web.nhk/newsweb/na/nd-20260908de49167",
         "https://news.web.nhk/newsweb/na/nd-20260908de49150",
         "https://news.web.nhk/newsweb/na/nd-20260908de49146",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260907de48563",
         "https://news.web.nhk/newsweb/na/nd-20260906de48552",
         "https://news.web.nhk/newsweb/na/nd-20260906de48542",
-        "https://news.web.nhk/newsweb/na/nd-20260906de48529",
-        "https://news.web.nhk/newsweb/na/nd-20260906de48539",
-        "https://news.web.nhk/newsweb/na/nd-20260906de48534"
+        "https://news.web.nhk/newsweb/na/nd-20260906de48529"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/how-arm-works-with-orca-echo-re/",
