@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c7903j1vpe5o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260908de49160",
         "https://news.web.nhk/newsweb/na/nd-20260908de49154",
         "https://news.web.nhk/newsweb/na/nd-20260908de49147",
         "https://news.web.nhk/newsweb/na/nd-20260908de49084",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260906de48526",
         "https://news.web.nhk/newsweb/na/nd-20260906de48532",
         "https://news.web.nhk/newsweb/na/nd-20260906de48517",
-        "https://news.web.nhk/newsweb/na/nd-20260906de48458",
-        "https://news.web.nhk/newsweb/na/nd-20260906de48513"
+        "https://news.web.nhk/newsweb/na/nd-20260906de48458"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2609-iphone-17-pro-max-1-year-review/",
