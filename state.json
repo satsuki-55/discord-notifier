@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260906de48399"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/razer-clio-x/",
         "https://www.gizmodo.jp/article/packard-bell-pc/",
         "https://www.gizmodo.jp/article/his-new-irobot-concept-is-the-matryoshka-of-robot-vacuums/",
         "https://www.gizmodo.jp/article/vibram_japan/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/redmi-17/",
         "https://www.gizmodo.jp/article/orca-echo-keycaps/",
         "https://www.gizmodo.jp/article/keychron-g6-he-ultralight_one_day_left/",
-        "https://www.gizmodo.jp/article/shiseido-ihada-reset-oil/",
-        "https://www.gizmodo.jp/article/cnc-lathe-for-home-use-makera-z1-wnv/"
+        "https://www.gizmodo.jp/article/shiseido-ihada-reset-oil/"
     ]
 }
