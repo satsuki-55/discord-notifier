@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "yGwxA6pxQGw",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "9sJuIfHp-Tc",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cddvz1mz09zo#0",
         "https://www.bbc.co.uk/news/articles/cn8m1k7p3v7o#0",
         "https://www.bbc.co.uk/news/articles/cwyze8ed774o#0",
         "https://www.bbc.co.uk/news/articles/cwyze8ed774o#1",
@@ -200,10 +201,11 @@
         "https://www.bbc.co.uk/news/articles/c3v45xy67g5o#1",
         "https://www.bbc.co.uk/news/articles/c62k677d4lzo#0",
         "https://www.bbc.co.uk/news/articles/cy8znyzgkjjo#0",
-        "https://www.bbc.co.uk/news/articles/cvgyn8q8gqxo#1",
-        "https://www.bbc.co.uk/news/articles/cvgyqpmy01po#1"
+        "https://www.bbc.co.uk/news/articles/cvgyn8q8gqxo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260908de49087",
+        "https://news.web.nhk/newsweb/na/nd-20260908de49110",
         "https://news.web.nhk/newsweb/na/nd-20260908de49121",
         "https://news.web.nhk/newsweb/na/nd-20260908de49112",
         "https://news.web.nhk/newsweb/na/nd-20260908de49094",
@@ -401,11 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260906de48452",
         "https://news.web.nhk/newsweb/na/nd-20260906de48400",
         "https://news.web.nhk/newsweb/na/nd-20260906de48448",
-        "https://news.web.nhk/newsweb/na/nd-20260906de48453",
-        "https://news.web.nhk/newsweb/na/nd-20260906de48447",
-        "https://news.web.nhk/newsweb/na/nd-20260906de48436"
+        "https://news.web.nhk/newsweb/na/nd-20260906de48453"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2609-tesla-cybercab-manual/",
         "https://www.gizmodo.jp/article/creer_sensor-light/",
         "https://www.gizmodo.jp/article/razer-clio-x/",
         "https://www.gizmodo.jp/article/packard-bell-pc/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/x-arcade-arcade2tv-xr-max/",
         "https://www.gizmodo.jp/article/blu-hub/",
         "https://www.gizmodo.jp/article/redmi-17/",
-        "https://www.gizmodo.jp/article/orca-echo-keycaps/",
-        "https://www.gizmodo.jp/article/keychron-g6-he-ultralight_one_day_left/"
+        "https://www.gizmodo.jp/article/orca-echo-keycaps/"
     ]
 }
