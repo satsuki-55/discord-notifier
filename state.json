@@ -2,6 +2,8 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "yGwxA6pxQGw",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "9sJuIfHp-Tc",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c780nlgyd79o#0",
+        "https://www.bbc.co.uk/news/articles/c5yl96vz0edo#1",
         "https://www.bbc.co.uk/weather/articles/cgl7zn37jw8o#0",
         "https://www.bbc.co.uk/news/articles/cwyzel3qjvzo#0",
         "https://www.bbc.co.uk/news/articles/cde024l10dyo#0",
@@ -199,9 +201,7 @@
         "https://www.bbc.co.uk/news/articles/cn8ell3dngno#1",
         "https://www.bbc.co.uk/news/articles/ce30vp55dnlo#1",
         "https://www.bbc.co.uk/news/articles/ce30vp55dnlo#0",
-        "https://www.bbc.co.uk/news/articles/ce9e838jzpzo#0",
-        "https://www.bbc.co.uk/news/articles/cy0zxjp50j6o#1",
-        "https://www.bbc.co.uk/news/articles/c2e0w2e0k0ro#0"
+        "https://www.bbc.co.uk/news/articles/ce9e838jzpzo#0"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20260908de48898",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260905de48300"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/rayneo-gt-max-59/",
         "https://www.gizmodo.jp/article/beyerdynamics-new-wireless-headphones-have-ridiculously-beefy-battery-life/",
         "https://www.gizmodo.jp/article/moondrop-pudding/",
         "https://www.gizmodo.jp/article/production-volume-of-foldable-iphones/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/nknot-pen-karabiner/",
         "https://www.gizmodo.jp/article/apple_airpods_max_care/",
         "https://www.gizmodo.jp/article/kagome-yasaitappuri-soup/",
-        "https://www.gizmodo.jp/article/litefar-b1/",
-        "https://www.gizmodo.jp/article/food_cover_yamajitsu_roomie/"
+        "https://www.gizmodo.jp/article/litefar-b1/"
     ]
 }
