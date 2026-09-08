@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cwyz7lrwqdyo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260908de49022",
         "https://news.web.nhk/newsweb/na/nd-20260908de49015",
         "https://news.web.nhk/newsweb/na/nd-20260908de49006",
         "https://news.web.nhk/newsweb/na/nd-20260828de46985",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260905de48360",
         "https://news.web.nhk/newsweb/na/nd-20260905de48352",
         "https://news.web.nhk/newsweb/na/nd-20260905de48359",
-        "https://news.web.nhk/newsweb/na/nd-20260905de48324",
-        "https://news.web.nhk/newsweb/na/nd-20260905de48344"
+        "https://news.web.nhk/newsweb/na/nd-20260905de48324"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/amazon-buffalo-usb-c-to-c-cable/",
