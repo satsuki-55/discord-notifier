@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/ce30vp55dnlo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260908de48972",
         "https://news.web.nhk/newsweb/na/nd-20260908de48956",
         "https://news.web.nhk/newsweb/na/nd-20260908de48957",
         "https://news.web.nhk/newsweb/na/nd-20260908de48947",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260905de48330",
         "https://news.web.nhk/newsweb/na/nd-20260905de48328",
         "https://news.web.nhk/newsweb/na/nd-20260905de48326",
-        "https://news.web.nhk/newsweb/na/nd-20260905de48325",
-        "https://news.web.nhk/newsweb/na/nd-20260905de48312"
+        "https://news.web.nhk/newsweb/na/nd-20260905de48325"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/is-the-foldable-iphones-name-duo/",
