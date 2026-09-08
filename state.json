@@ -2,6 +2,8 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "yGwxA6pxQGw",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "9sJuIfHp-Tc",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c62k677d4lzo#0",
+        "https://www.bbc.co.uk/news/articles/c8jd14glvneo#0",
         "https://www.bbc.co.uk/news/articles/cq5x3n38308o#1",
         "https://www.bbc.co.uk/news/articles/c4grdk95vgno#0",
         "https://www.bbc.co.uk/news/articles/cddvz1mz09zo#0",
@@ -199,11 +201,10 @@
         "https://www.bbc.co.uk/news/articles/cddvep5vj7mo#0",
         "https://www.bbc.co.uk/news/articles/cew9kz1kxpvo#1",
         "https://www.bbc.co.uk/news/articles/c9865dyrjrwo#1",
-        "https://www.bbc.co.uk/news/articles/c7903j1vpe5o#0",
-        "https://www.bbc.co.uk/news/articles/c3v45xy67g5o#1",
-        "https://www.bbc.co.uk/news/articles/c62k677d4lzo#0"
+        "https://www.bbc.co.uk/news/articles/c7903j1vpe5o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260908de49134",
         "https://news.web.nhk/newsweb/na/nd-20260906de48400",
         "https://news.web.nhk/newsweb/na/nd-20260908de49089",
         "https://news.web.nhk/newsweb/na/nd-20260908de49092",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260906de48469",
         "https://news.web.nhk/newsweb/na/nd-20260906de48465",
         "https://news.web.nhk/newsweb/na/nd-20260903de48004",
-        "https://news.web.nhk/newsweb/na/nd-20260906de48464",
-        "https://news.web.nhk/newsweb/na/nd-20260906de48460"
+        "https://news.web.nhk/newsweb/na/nd-20260906de48464"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/i-test-rode-the-volkswagen-licensed-worlds-safest-e-bike-in-berlin/",
