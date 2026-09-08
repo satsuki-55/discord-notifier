@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cgrvgejwgvlo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260908de49094",
         "https://news.web.nhk/newsweb/na/nd-20260908de49095",
         "https://news.web.nhk/newsweb/na/nd-20260908de49068",
         "https://news.web.nhk/newsweb/na/nd-20260908de49099",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260906de48447",
         "https://news.web.nhk/newsweb/na/nd-20260906de48436",
         "https://news.web.nhk/newsweb/na/nd-20260906de48450",
-        "https://news.web.nhk/newsweb/na/nd-20260906de48443",
-        "https://news.web.nhk/newsweb/na/nd-20260906de48437"
+        "https://news.web.nhk/newsweb/na/nd-20260906de48443"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/creer_sensor-light/",
         "https://www.gizmodo.jp/article/razer-clio-x/",
         "https://www.gizmodo.jp/article/packard-bell-pc/",
         "https://www.gizmodo.jp/article/his-new-irobot-concept-is-the-matryoshka-of-robot-vacuums/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/blu-hub/",
         "https://www.gizmodo.jp/article/redmi-17/",
         "https://www.gizmodo.jp/article/orca-echo-keycaps/",
-        "https://www.gizmodo.jp/article/keychron-g6-he-ultralight_one_day_left/",
-        "https://www.gizmodo.jp/article/shiseido-ihada-reset-oil/"
+        "https://www.gizmodo.jp/article/keychron-g6-he-ultralight_one_day_left/"
     ]
 }
