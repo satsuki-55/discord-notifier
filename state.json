@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/ce3r02z3dxno#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260909de49198",
         "https://news.web.nhk/newsweb/na/nd-20260903de48045",
         "https://news.web.nhk/newsweb/na/nd-20260908de49141",
         "https://news.web.nhk/newsweb/na/nd-20260908de49182",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260906de48550",
         "https://news.web.nhk/newsweb/na/nd-20260907de48555",
         "https://news.web.nhk/newsweb/na/nd-20260904de48248",
-        "https://news.web.nhk/newsweb/na/nd-20260907de48609",
-        "https://news.web.nhk/newsweb/na/nd-20260907de48592"
+        "https://news.web.nhk/newsweb/na/nd-20260907de48609"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/used-iphone-silicone-case-for-a-year-gvx/",
