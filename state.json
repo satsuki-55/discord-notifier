@@ -2,6 +2,8 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "yGwxA6pxQGw",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "9sJuIfHp-Tc",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cjdvyk3pm27o#0",
+        "https://www.bbc.co.uk/news/articles/clyenxp540vo#1",
         "https://www.bbc.co.uk/news/articles/cjw54ww73qjo#1",
         "https://www.bbc.co.uk/news/articles/cx2z4dv6vn2o#1",
         "https://www.bbc.co.uk/news/articles/cx2zkyl7kwyo#1",
@@ -199,11 +201,10 @@
         "https://www.bbc.co.uk/news/articles/cp301rw6kvro#0",
         "https://www.bbc.co.uk/news/articles/cje87w9j342o#1",
         "https://www.bbc.co.uk/news/articles/cnvl1r1080go#0",
-        "https://www.bbc.co.uk/news/articles/c980g0g7yyjo#1",
-        "https://www.bbc.co.uk/news/videos/c4gr9y1ny3xo#1",
-        "https://www.bbc.co.uk/news/articles/c89jpyk8n80o#0"
+        "https://www.bbc.co.uk/news/articles/c980g0g7yyjo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260908de49163",
         "https://news.web.nhk/newsweb/na/nd-20260908de49176",
         "https://news.web.nhk/newsweb/na/nd-20260908de49172",
         "https://news.web.nhk/newsweb/na/nd-20260908de49156",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260904de48062",
         "https://news.web.nhk/newsweb/na/nd-20260907de48567",
         "https://news.web.nhk/newsweb/na/nd-20260907de48565",
-        "https://news.web.nhk/newsweb/na/nd-20260907de48564",
-        "https://news.web.nhk/newsweb/na/nd-20260903de48030"
+        "https://news.web.nhk/newsweb/na/nd-20260907de48564"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/two_to_one_movie_natja-brunckhorst_interview/",
