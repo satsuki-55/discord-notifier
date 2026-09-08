@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c5yep7y48x2o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260908de48898",
         "https://news.web.nhk/newsweb/na/nd-20260905de48291",
         "https://news.web.nhk/newsweb/na/nd-20260908de48907",
         "https://news.web.nhk/newsweb/na/nd-20260905de48277",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260905de48313",
         "https://news.web.nhk/newsweb/na/nd-20260902de47852",
         "https://news.web.nhk/newsweb/na/nd-20260905de48303",
-        "https://news.web.nhk/newsweb/na/nd-20260905de48300",
-        "https://news.web.nhk/newsweb/na/nd-20260905de48301"
+        "https://news.web.nhk/newsweb/na/nd-20260905de48300"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/beyerdynamics-new-wireless-headphones-have-ridiculously-beefy-battery-life/",
