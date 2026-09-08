@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/ce9e838jzpzo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260908de48933",
+        "https://news.web.nhk/newsweb/na/nd-20260908de48944",
         "https://news.web.nhk/newsweb/na/nd-20260908de48898",
         "https://news.web.nhk/newsweb/na/nd-20260905de48291",
         "https://news.web.nhk/newsweb/na/nd-20260908de48907",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260905de48312",
         "https://news.web.nhk/newsweb/na/nd-20260905de48314",
         "https://news.web.nhk/newsweb/na/nd-20260905de48313",
-        "https://news.web.nhk/newsweb/na/nd-20260902de47852",
-        "https://news.web.nhk/newsweb/na/nd-20260905de48303",
-        "https://news.web.nhk/newsweb/na/nd-20260905de48300"
+        "https://news.web.nhk/newsweb/na/nd-20260902de47852"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/rayneo-gt-max-59/",
