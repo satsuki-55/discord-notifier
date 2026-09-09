@@ -2,6 +2,9 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "yGwxA6pxQGw",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "9sJuIfHp-Tc",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cn5d2r0zqvdo#0",
+        "https://www.bbc.co.uk/news/articles/crl6z03pr0do#0",
+        "https://www.bbc.co.uk/news/articles/c770v7y63r0o#1",
         "https://www.bbc.co.uk/news/articles/c74k13kpv2no#0",
         "https://www.bbc.co.uk/news/articles/cn457lq938jo#1",
         "https://www.bbc.co.uk/news/articles/clyl6866j1jo#0",
@@ -198,12 +201,10 @@
         "https://www.bbc.co.uk/news/articles/c1kx4lgy4z4o#0",
         "https://www.bbc.co.uk/news/articles/cp8d56w7d9po#1",
         "https://www.bbc.co.uk/news/articles/cx2zkyl7kwyo#0",
-        "https://www.bbc.co.uk/news/articles/c980j5m8mpro#0",
-        "https://www.bbc.co.uk/news/articles/cp301rw6kvro#1",
-        "https://www.bbc.co.uk/news/articles/cn5d2r0zqvdo#0",
-        "https://www.bbc.co.uk/sport/football/articles/c99d1dlpkp4o#0"
+        "https://www.bbc.co.uk/news/articles/c980j5m8mpro#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260909de49256",
         "https://news.web.nhk/newsweb/na/nd-20260909de49240",
         "https://news.web.nhk/newsweb/na/nd-20260909de49251",
         "https://news.web.nhk/newsweb/na/nd-20260909de49247",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260907de48732",
         "https://news.web.nhk/newsweb/na/nd-20260907de48724",
         "https://news.web.nhk/newsweb/na/nd-20260907de48713",
-        "https://news.web.nhk/newsweb/na/nd-20260906de48501",
-        "https://news.web.nhk/newsweb/na/nd-20260907de48714"
+        "https://news.web.nhk/newsweb/na/nd-20260906de48501"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2609-portable-kettle-lifestyle/",
