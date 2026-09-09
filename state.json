@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c8jdev0422jo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260909de49402",
         "https://news.web.nhk/newsweb/na/nd-20260907de48845",
         "https://news.web.nhk/newsweb/na/nd-20260910de49412",
         "https://news.web.nhk/newsweb/na/nd-20260907de48846",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260907de48879",
         "https://news.web.nhk/newsweb/na/nd-20260907de48866",
         "https://news.web.nhk/newsweb/na/nd-20260907de48859",
-        "https://news.web.nhk/newsweb/na/nd-20260907de48855",
-        "https://news.web.nhk/newsweb/na/nd-20260907de48848"
+        "https://news.web.nhk/newsweb/na/nd-20260907de48855"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/a967c7b8-0ea8-40f0-8f2c-6d0041585699/",
