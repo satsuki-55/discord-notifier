@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "yGwxA6pxQGw",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "9sJuIfHp-Tc",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cn8m1k7p3v7o#1",
         "https://www.bbc.co.uk/news/articles/c305qn2jeggo#0",
         "https://www.bbc.co.uk/news/articles/c1kx4lgy4z4o#0",
         "https://www.bbc.co.uk/news/articles/clykjmjm6m0o#0",
@@ -200,8 +201,7 @@
         "https://www.bbc.co.uk/news/articles/cj9xe09jz4eo#1",
         "https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro#0",
         "https://www.bbc.co.uk/news/articles/cwyz74xn8q8o#0",
-        "https://www.bbc.co.uk/news/articles/c5y7gk9knnlo#1",
-        "https://www.bbc.co.uk/news/articles/cj9xe09jz4eo#0"
+        "https://www.bbc.co.uk/news/articles/c5y7gk9knnlo#1"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20260909de49275",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260907de48710"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2606-lht-liverylife-kf86max-lgq/",
         "https://www.gizmodo.jp/article/2609-openai-hugging-face-ai-incident/",
         "https://www.gizmodo.jp/article/2609-foldable-iphone-name-prediction/",
         "https://www.gizmodo.jp/article/2609-apple-watch-se-unavailable/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/tamagotchi-ring/",
         "https://www.gizmodo.jp/article/fiio-cp11/",
         "https://www.gizmodo.jp/article/microduck-biped-robot-399-dollars/",
-        "https://www.gizmodo.jp/article/iphone15pro-5years/",
-        "https://www.gizmodo.jp/article/altra_escalante-5/"
+        "https://www.gizmodo.jp/article/iphone15pro-5years/"
     ]
 }
