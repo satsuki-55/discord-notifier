@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c5yl96vz0edo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260909de49361",
         "https://news.web.nhk/newsweb/na/nd-20260909de49355",
         "https://news.web.nhk/newsweb/na/nd-20260909de49274",
         "https://news.web.nhk/newsweb/na/nd-20260909de49334",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260828de46983",
         "https://news.web.nhk/newsweb/na/nd-20260907de48802",
         "https://news.web.nhk/newsweb/na/nd-20260907de48786",
-        "https://news.web.nhk/newsweb/na/nd-20260907de48799",
-        "https://news.web.nhk/newsweb/na/nd-20260903de47913"
+        "https://news.web.nhk/newsweb/na/nd-20260907de48799"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2609-iphone-galaxy-pixel-video-comparison/",
         "https://www.gizmodo.jp/article/apple-event-2026-cookies/",
         "https://www.gizmodo.jp/article/2609-apple-tim-cook-john-ternus-compensation-2027/",
         "https://www.gizmodo.jp/article/512a8a02-ea3f-44d0-a4e2-8c36a29fd001/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/chacle-airless-tire/",
         "https://www.gizmodo.jp/article/review-daiso-led-headlight/",
         "https://www.gizmodo.jp/article/google-play-books-gemini-notebook/",
-        "https://www.gizmodo.jp/article/vakuen-amazon/",
-        "https://www.gizmodo.jp/article/the-worlds-largest-electric-plane-just-flew-for-27-minutes-jpn/"
+        "https://www.gizmodo.jp/article/vakuen-amazon/"
     ]
 }
