@@ -406,6 +406,8 @@
         "https://news.web.nhk/newsweb/na/nd-20260907de48848"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/apple-reference-image_iphone/",
+        "https://www.gizmodo.jp/article/apple_new-items_matome/",
         "https://www.gizmodo.jp/article/2609-iphone-18-pro-battery-life/",
         "https://www.gizmodo.jp/article/apple-watch-series-12-readiness-health-age/",
         "https://www.gizmodo.jp/article/apple-event-2026-kids-cue/",
@@ -603,8 +605,6 @@
         "https://www.gizmodo.jp/article/asus-note-pc-rtx-spark/",
         "https://www.gizmodo.jp/article/poco-f9-ultra/",
         "https://www.gizmodo.jp/article/bauhutte-gaming-arm-cushion-wide/",
-        "https://www.gizmodo.jp/article/report-reveals-which-cars-are-most-likely-to-get-pooped-zmd/",
-        "https://www.gizmodo.jp/article/bill-gates-warns-humanity-about-ai-we-do-not-have-the-luxury-of-moving-slowly/",
-        "https://www.gizmodo.jp/article/ceatec_fairydevices-wcs/"
+        "https://www.gizmodo.jp/article/report-reveals-which-cars-are-most-likely-to-get-pooped-zmd/"
     ]
 }
