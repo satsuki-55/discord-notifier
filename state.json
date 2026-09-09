@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cpwlrj2je1po#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260909de49247",
         "https://news.web.nhk/newsweb/na/nd-20260909de49243",
         "https://news.web.nhk/newsweb/na/nd-20260909de49237",
         "https://news.web.nhk/newsweb/na/nd-20260909de49228",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260906de48501",
         "https://news.web.nhk/newsweb/na/nd-20260907de48714",
         "https://news.web.nhk/newsweb/na/nd-20260907de48712",
-        "https://news.web.nhk/newsweb/na/nd-20260907de48692",
-        "https://news.web.nhk/newsweb/na/nd-20260907de48708"
+        "https://news.web.nhk/newsweb/na/nd-20260907de48692"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/peelers_for_greenonions_repost/",
         "https://www.gizmodo.jp/article/2609-retro-pc-external-monitor-hub/",
         "https://www.gizmodo.jp/article/2609-motorola-wide-foldable-smartphone/",
         "https://www.gizmodo.jp/article/2609-hypershell-halo-exoskeleton/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/flood-resistant_ev/",
         "https://www.gizmodo.jp/article/find-x10-pro-max-200mp-triple-camera/",
         "https://www.gizmodo.jp/article/teen-arrested-after-asking-chatgpt-how-to-kill-his-friend-police-say-anv/",
-        "https://www.gizmodo.jp/article/spacex-falcon9-moon-crater/",
-        "https://www.gizmodo.jp/article/waymos-cleaner/"
+        "https://www.gizmodo.jp/article/spacex-falcon9-moon-crater/"
     ]
 }
