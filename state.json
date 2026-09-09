@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "iCFtvSW88l0",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "9sJuIfHp-Tc",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cp849rlrrmlo#1",
         "https://www.bbc.co.uk/news/articles/cly47p5vk63o#1",
         "https://www.bbc.co.uk/news/articles/c7v4l9vy8m6o#1",
         "https://www.bbc.co.uk/news/articles/c8r6y4me2g6o#1",
@@ -200,8 +201,7 @@
         "https://www.bbc.co.uk/news/articles/cn5dkk7yw74o#1",
         "https://www.bbc.co.uk/news/articles/cqlw0ke2v97o#0",
         "https://www.bbc.co.uk/news/articles/c4grdjnle22o#0",
-        "https://www.bbc.co.uk/news/articles/c780nlgyd79o#0",
-        "https://www.bbc.co.uk/news/articles/c5yl96vz0edo#1"
+        "https://www.bbc.co.uk/news/articles/c780nlgyd79o#0"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20260910de49410",
@@ -406,6 +406,9 @@
         "https://news.web.nhk/newsweb/na/nd-20260907de48839"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/6d6ba759-4df0-4703-82a7-2b0fb7859513/",
+        "https://www.gizmodo.jp/article/2c07774c-0743-4b3c-ad4a-b9bd35415217/",
+        "https://www.gizmodo.jp/article/2609-iphone-duo/",
         "https://www.gizmodo.jp/article/2609-apple-watch-12-ultra-4-health-sensors/",
         "https://www.gizmodo.jp/article/d8e00d42-1c2b-4f01-af7d-fd151ad1bc31/",
         "https://www.gizmodo.jp/article/2609-iphone-18-pro-camera-features/",
@@ -602,9 +605,6 @@
         "https://www.gizmodo.jp/article/more-evidence-emerges-that-gen-xers-feel-the-most-whatever-about-ai/",
         "https://www.gizmodo.jp/article/murata_mask-voice-clip_ceatec-fot/",
         "https://www.gizmodo.jp/article/msi-crosshair-16-hx-e14w/",
-        "https://www.gizmodo.jp/article/millet_drynamic-mesh/",
-        "https://www.gizmodo.jp/article/ice-wants-a-boston-dynamics-k9-unit/",
-        "https://www.gizmodo.jp/article/the-eu-has-officially-decided-chatgpt-is-a-search-engine/",
-        "https://www.gizmodo.jp/article/saiveina-laundry-basket/"
+        "https://www.gizmodo.jp/article/millet_drynamic-mesh/"
     ]
 }
