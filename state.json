@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cj9xvg1kz0mo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260909de49377",
         "https://news.web.nhk/newsweb/na/nd-20260909de49405",
         "https://news.web.nhk/newsweb/na/nd-20260909de49406",
         "https://news.web.nhk/newsweb/na/nd-20260910de49410",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260907de48850",
         "https://news.web.nhk/newsweb/na/nd-20260907de48835",
         "https://news.web.nhk/newsweb/na/nd-20260907de48845",
-        "https://news.web.nhk/newsweb/na/nd-20260907de48846",
-        "https://news.web.nhk/newsweb/na/nd-20260907de48823"
+        "https://news.web.nhk/newsweb/na/nd-20260907de48846"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/apple-event-2026-kids-cue/",
