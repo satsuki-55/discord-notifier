@@ -2,6 +2,8 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "iCFtvSW88l0",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "9sJuIfHp-Tc",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c62mn90ppnro#0",
+        "https://www.bbc.co.uk/news/articles/cq5x3vjq06qo#1",
         "https://www.bbc.co.uk/news/articles/cx2zx1v8ye3o#0",
         "https://www.bbc.co.uk/news/articles/clyrjw1yj75o#1",
         "https://www.bbc.co.uk/news/articles/c790l73ryp3o#0",
@@ -199,11 +201,10 @@
         "https://www.bbc.co.uk/news/articles/cje8wx2qw9vo#1",
         "https://www.bbc.co.uk/news/articles/cwyzd53rq9jo#1",
         "https://www.bbc.co.uk/news/articles/cp931m8n3p5o#1",
-        "https://www.bbc.co.uk/news/articles/c5yl96vz0edo#0",
-        "https://www.bbc.co.uk/news/articles/cjdvx9pz44ro#0",
-        "https://www.bbc.co.uk/news/articles/czezydp4l97o#0"
+        "https://www.bbc.co.uk/news/articles/c5yl96vz0edo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260909de49355",
         "https://news.web.nhk/newsweb/na/nd-20260909de49274",
         "https://news.web.nhk/newsweb/na/nd-20260909de49334",
         "https://news.web.nhk/newsweb/na/nd-20260909de49327",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260907de48802",
         "https://news.web.nhk/newsweb/na/nd-20260907de48786",
         "https://news.web.nhk/newsweb/na/nd-20260907de48799",
-        "https://news.web.nhk/newsweb/na/nd-20260903de47913",
-        "https://news.web.nhk/newsweb/na/nd-20260902de47746"
+        "https://news.web.nhk/newsweb/na/nd-20260903de47913"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/apple-event-2026-cookies/",
         "https://www.gizmodo.jp/article/2609-apple-tim-cook-john-ternus-compensation-2027/",
         "https://www.gizmodo.jp/article/512a8a02-ea3f-44d0-a4e2-8c36a29fd001/",
         "https://www.gizmodo.jp/article/dell_xps13/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/review-daiso-led-headlight/",
         "https://www.gizmodo.jp/article/google-play-books-gemini-notebook/",
         "https://www.gizmodo.jp/article/vakuen-amazon/",
-        "https://www.gizmodo.jp/article/the-worlds-largest-electric-plane-just-flew-for-27-minutes-jpn/",
-        "https://www.gizmodo.jp/article/people-are-rushing-to-find-ways-to-remove-claudes-ai-text-watermark/"
+        "https://www.gizmodo.jp/article/the-worlds-largest-electric-plane-just-flew-for-27-minutes-jpn/"
     ]
 }
