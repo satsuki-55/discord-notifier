@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260907de48855"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/051cb0fc-a416-4e59-b0e6-9447fb30b497/",
         "https://www.gizmodo.jp/article/what-is-iphoneduo_news/",
         "https://www.gizmodo.jp/article/a967c7b8-0ea8-40f0-8f2c-6d0041585699/",
         "https://www.gizmodo.jp/article/apple-reference-image_iphone/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/apple-claims-former-employee-stole-trade-secrets-for-openai-then-tried-to-destroy-the-evidence/",
         "https://www.gizmodo.jp/article/41f190c9-d169-4b6c-bb13-829ccc646a3f/",
         "https://www.gizmodo.jp/article/dyson-camerajet/",
-        "https://www.gizmodo.jp/article/asus-note-pc-rtx-spark/",
-        "https://www.gizmodo.jp/article/poco-f9-ultra/"
+        "https://www.gizmodo.jp/article/asus-note-pc-rtx-spark/"
     ]
 }
