@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c23x0kd8eleo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260909de49407",
         "https://news.web.nhk/newsweb/na/nd-20260909de49392",
         "https://news.web.nhk/newsweb/na/nd-20260909de49396",
         "https://news.web.nhk/newsweb/na/nd-20260909de49385",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260907de48823",
         "https://news.web.nhk/newsweb/na/nd-20260907de48833",
         "https://news.web.nhk/newsweb/na/nd-20260907de48839",
-        "https://news.web.nhk/newsweb/na/nd-20260907de48836",
-        "https://news.web.nhk/newsweb/na/nd-20260907de48829"
+        "https://news.web.nhk/newsweb/na/nd-20260907de48836"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/amazon_datacenter_water-zvx/",
