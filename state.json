@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cj9xvg1kz0mo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260910de49416",
         "https://news.web.nhk/newsweb/na/nd-20260909de49377",
         "https://news.web.nhk/newsweb/na/nd-20260909de49405",
         "https://news.web.nhk/newsweb/na/nd-20260909de49406",
@@ -402,10 +403,11 @@
         "https://news.web.nhk/newsweb/na/nd-20260907de48848",
         "https://news.web.nhk/newsweb/na/nd-20260907de48850",
         "https://news.web.nhk/newsweb/na/nd-20260907de48835",
-        "https://news.web.nhk/newsweb/na/nd-20260907de48845",
-        "https://news.web.nhk/newsweb/na/nd-20260907de48846"
+        "https://news.web.nhk/newsweb/na/nd-20260907de48845"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2609-iphone-18-pro-battery-life/",
+        "https://www.gizmodo.jp/article/apple-watch-series-12-readiness-health-age/",
         "https://www.gizmodo.jp/article/apple-event-2026-kids-cue/",
         "https://www.gizmodo.jp/article/3ce244ca-1de9-439b-aad9-082c64654c71/",
         "https://www.gizmodo.jp/article/a20pro_m5_whichismorepowerful/",
@@ -603,8 +605,6 @@
         "https://www.gizmodo.jp/article/bauhutte-gaming-arm-cushion-wide/",
         "https://www.gizmodo.jp/article/report-reveals-which-cars-are-most-likely-to-get-pooped-zmd/",
         "https://www.gizmodo.jp/article/bill-gates-warns-humanity-about-ai-we-do-not-have-the-luxury-of-moving-slowly/",
-        "https://www.gizmodo.jp/article/ceatec_fairydevices-wcs/",
-        "https://www.gizmodo.jp/article/anker-power-bank-30w-builtin/",
-        "https://www.gizmodo.jp/article/2607-lht-nitori-rechargeable-battery-apn/"
+        "https://www.gizmodo.jp/article/ceatec_fairydevices-wcs/"
     ]
 }
