@@ -2,6 +2,8 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "iCFtvSW88l0",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "9sJuIfHp-Tc",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cqlw0ke2v97o#0",
+        "https://www.bbc.co.uk/news/articles/clyjd1jnd03o#1",
         "https://www.bbc.co.uk/news/articles/clyjd1jnd03o#0",
         "https://www.bbc.co.uk/news/articles/c5y42v5n05do#1",
         "https://www.bbc.co.uk/news/articles/cp849rlrrmlo#1",
@@ -199,11 +201,10 @@
         "https://www.bbc.co.uk/news/articles/cq5x30003zdo#0",
         "https://www.bbc.co.uk/news/articles/c39mz7xlvjzo#1",
         "https://www.bbc.co.uk/news/articles/cj9xvg1kz0mo#1",
-        "https://www.bbc.co.uk/news/articles/crernpv433vo#1",
-        "https://www.bbc.co.uk/news/articles/cn5dkk7yw74o#1",
-        "https://www.bbc.co.uk/news/articles/cqlw0ke2v97o#0"
+        "https://www.bbc.co.uk/news/articles/crernpv433vo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260909de49405",
         "https://news.web.nhk/newsweb/na/nd-20260909de49406",
         "https://news.web.nhk/newsweb/na/nd-20260910de49410",
         "https://news.web.nhk/newsweb/na/nd-20260909de49407",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260907de48835",
         "https://news.web.nhk/newsweb/na/nd-20260907de48845",
         "https://news.web.nhk/newsweb/na/nd-20260907de48846",
-        "https://news.web.nhk/newsweb/na/nd-20260907de48823",
-        "https://news.web.nhk/newsweb/na/nd-20260907de48833"
+        "https://news.web.nhk/newsweb/na/nd-20260907de48823"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/a20pro_m5_whichismorepowerful/",
         "https://www.gizmodo.jp/article/9fb4f78a-1d16-4192-83a9-83a700a1d491/",
         "https://www.gizmodo.jp/article/c12d38a2-f93a-4f7d-ac7c-1596286b703c/",
         "https://www.gizmodo.jp/article/iphone-duo-price-release-date/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/anker-power-bank-30w-builtin/",
         "https://www.gizmodo.jp/article/2607-lht-nitori-rechargeable-battery-apn/",
         "https://www.gizmodo.jp/article/3coins-cd-player/",
-        "https://www.gizmodo.jp/article/corsair-skiff-100-plus/",
-        "https://www.gizmodo.jp/article/framework-desktop-pc-coming-soon/"
+        "https://www.gizmodo.jp/article/corsair-skiff-100-plus/"
     ]
 }
