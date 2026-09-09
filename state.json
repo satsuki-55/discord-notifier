@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cddvzz1mjpvo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260909de49396",
         "https://news.web.nhk/newsweb/na/nd-20260909de49385",
         "https://news.web.nhk/newsweb/na/nd-20260909de49382",
         "https://news.web.nhk/newsweb/na/nd-20260909de49379",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260907de48839",
         "https://news.web.nhk/newsweb/na/nd-20260907de48836",
         "https://news.web.nhk/newsweb/na/nd-20260907de48829",
-        "https://news.web.nhk/newsweb/na/nd-20260907de48792",
-        "https://news.web.nhk/newsweb/na/nd-20260907de48811"
+        "https://news.web.nhk/newsweb/na/nd-20260907de48792"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/iphone-duo/",
         "https://www.gizmodo.jp/article/movie_backrooms_kane-parsons_interview/",
         "https://www.gizmodo.jp/article/2609-roland-tr-909-day-browser/",
         "https://www.gizmodo.jp/article/2609-astronaut-constipation-diet-fiber/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/magnifica-start-8ri/",
         "https://www.gizmodo.jp/article/trend-alert-is-anti-ai-fashion-this-seasons-hottest-new-look/",
         "https://www.gizmodo.jp/article/instagram-is-still-drowned-in-creepy-smart-glasses-content/",
-        "https://www.gizmodo.jp/article/there-are-carrier-pigeon-apps-now-because-pigeon-technology-is-actually-superior/",
-        "https://www.gizmodo.jp/article/janus-i-flying-suitcase-wpg/"
+        "https://www.gizmodo.jp/article/there-are-carrier-pigeon-apps-now-because-pigeon-technology-is-actually-superior/"
     ]
 }
