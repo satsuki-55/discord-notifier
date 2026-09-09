@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c74el40wpw9o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260909de49379",
         "https://news.web.nhk/newsweb/na/nd-20260909de49350",
         "https://news.web.nhk/newsweb/na/nd-20260909de49372",
         "https://news.web.nhk/newsweb/na/nd-20260909de49362",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260907de48792",
         "https://news.web.nhk/newsweb/na/nd-20260907de48811",
         "https://news.web.nhk/newsweb/na/nd-20260907de48739",
-        "https://news.web.nhk/newsweb/na/nd-20260907de48814",
-        "https://news.web.nhk/newsweb/na/nd-20260828de46984"
+        "https://news.web.nhk/newsweb/na/nd-20260907de48814"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2609-iphone-galaxy-pixel-video-comparison/",
