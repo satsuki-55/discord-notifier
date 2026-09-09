@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260909de49288",
         "https://news.web.nhk/newsweb/na/nd-20260909de49275",
         "https://news.web.nhk/newsweb/na/nd-20260909de49272",
         "https://news.web.nhk/newsweb/na/nd-20260909de49277",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260907de48746",
         "https://news.web.nhk/newsweb/na/nd-20260907de48751",
         "https://news.web.nhk/newsweb/na/nd-20260907de48723",
-        "https://news.web.nhk/newsweb/na/nd-20260907de48698",
-        "https://news.web.nhk/newsweb/na/nd-20260907de48710"
+        "https://news.web.nhk/newsweb/na/nd-20260907de48698"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/yude-tamago-meijin/",
         "https://www.gizmodo.jp/article/2606-lht-liverylife-kf86max-lgq/",
         "https://www.gizmodo.jp/article/2609-openai-hugging-face-ai-incident/",
         "https://www.gizmodo.jp/article/2609-foldable-iphone-name-prediction/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/people-are-rushing-to-find-ways-to-remove-claudes-ai-text-watermark/",
         "https://www.gizmodo.jp/article/tamagotchi-ring/",
         "https://www.gizmodo.jp/article/fiio-cp11/",
-        "https://www.gizmodo.jp/article/microduck-biped-robot-399-dollars/",
-        "https://www.gizmodo.jp/article/iphone15pro-5years/"
+        "https://www.gizmodo.jp/article/microduck-biped-robot-399-dollars/"
     ]
 }
