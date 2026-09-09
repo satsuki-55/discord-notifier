@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cp8d56w7d9po#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260909de49240",
         "https://news.web.nhk/newsweb/na/nd-20260909de49251",
         "https://news.web.nhk/newsweb/na/nd-20260909de49247",
         "https://news.web.nhk/newsweb/na/nd-20260909de49243",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260907de48724",
         "https://news.web.nhk/newsweb/na/nd-20260907de48713",
         "https://news.web.nhk/newsweb/na/nd-20260906de48501",
-        "https://news.web.nhk/newsweb/na/nd-20260907de48714",
-        "https://news.web.nhk/newsweb/na/nd-20260907de48712"
+        "https://news.web.nhk/newsweb/na/nd-20260907de48714"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/hyperkin-shockline-retro-game-usb-c-cable/",
