@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "iCFtvSW88l0",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "9sJuIfHp-Tc",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c5y42v5n05do#1",
         "https://www.bbc.co.uk/news/articles/cp849rlrrmlo#1",
         "https://www.bbc.co.uk/news/articles/cly47p5vk63o#1",
         "https://www.bbc.co.uk/news/articles/c7v4l9vy8m6o#1",
@@ -200,8 +201,7 @@
         "https://www.bbc.co.uk/news/articles/crernpv433vo#1",
         "https://www.bbc.co.uk/news/articles/cn5dkk7yw74o#1",
         "https://www.bbc.co.uk/news/articles/cqlw0ke2v97o#0",
-        "https://www.bbc.co.uk/news/articles/c4grdjnle22o#0",
-        "https://www.bbc.co.uk/news/articles/c780nlgyd79o#0"
+        "https://www.bbc.co.uk/news/articles/c4grdjnle22o#0"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20260910de49410",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260907de48839"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/ef14d2e4-8654-4882-b7fa-fc66c847788b/",
         "https://www.gizmodo.jp/article/6d6ba759-4df0-4703-82a7-2b0fb7859513/",
         "https://www.gizmodo.jp/article/2c07774c-0743-4b3c-ad4a-b9bd35415217/",
         "https://www.gizmodo.jp/article/2609-iphone-duo/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/anthropic_released_claude_fable_5_1/",
         "https://www.gizmodo.jp/article/more-evidence-emerges-that-gen-xers-feel-the-most-whatever-about-ai/",
         "https://www.gizmodo.jp/article/murata_mask-voice-clip_ceatec-fot/",
-        "https://www.gizmodo.jp/article/msi-crosshair-16-hx-e14w/",
-        "https://www.gizmodo.jp/article/millet_drynamic-mesh/"
+        "https://www.gizmodo.jp/article/msi-crosshair-16-hx-e14w/"
     ]
 }
