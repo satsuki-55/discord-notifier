@@ -2,6 +2,8 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "iCFtvSW88l0",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "9sJuIfHp-Tc",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cwyz7lrwqdyo#0",
+        "https://www.bbc.co.uk/news/articles/cjw54ww73qjo#0",
         "https://www.bbc.co.uk/news/articles/c8d3myrgdd1o#0",
         "https://www.bbc.co.uk/news/articles/c5y75dl0jpko#0",
         "https://www.bbc.co.uk/news/articles/cn5dew594n6o#0",
@@ -199,9 +201,7 @@
         "https://www.bbc.co.uk/news/articles/cpd0113082eo#1",
         "https://www.bbc.co.uk/news/articles/cvgy6n0l4rdo#0",
         "https://www.bbc.co.uk/news/articles/cn0j4lz6pe9o#1",
-        "https://www.bbc.co.uk/news/articles/cd08vvnp9geo#0",
-        "https://www.bbc.co.uk/news/videos/c62jdyld8myo#0",
-        "https://www.bbc.co.uk/news/articles/cwyz7lrwqdyo#0"
+        "https://www.bbc.co.uk/news/articles/cd08vvnp9geo#0"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20260909de49403",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260908de48909"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2609-iphone-duo-review-fold8/",
         "https://www.gizmodo.jp/article/2609-apple-watch-series-12-ultra-4/",
         "https://www.gizmodo.jp/article/iphoneduo_firstimpression/",
         "https://www.gizmodo.jp/article/iphone-18-pro-pro-max-rumors-summary/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/huawei-band-11_review/",
         "https://www.gizmodo.jp/article/sonos-new-beam-soundbar-has-up-firing-speakers/",
         "https://www.gizmodo.jp/article/alk-shoulder-bag-3gp/",
-        "https://www.gizmodo.jp/article/switchbot-open-close-sensor/",
-        "https://www.gizmodo.jp/article/apple-claims-former-employee-stole-trade-secrets-for-openai-then-tried-to-destroy-the-evidence/"
+        "https://www.gizmodo.jp/article/switchbot-open-close-sensor/"
     ]
 }
