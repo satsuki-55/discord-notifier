@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "iCFtvSW88l0",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "9sJuIfHp-Tc",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c5y42v5n05do#0",
         "https://www.bbc.co.uk/news/articles/c3d7pzyjzllo#0",
         "https://www.bbc.co.uk/news/articles/cqlwekrl3dqo#1",
         "https://www.bbc.co.uk/news/articles/c3d7pzyjzllo#1",
@@ -200,8 +201,7 @@
         "https://www.bbc.co.uk/news/articles/cn8e63qdqwzo#1",
         "https://www.bbc.co.uk/news/articles/c4gj8xx5010o#0",
         "https://www.bbc.co.uk/news/articles/clyenxp540vo#0",
-        "https://www.bbc.co.uk/news/articles/c2kw1qek7gdo#1",
-        "https://www.bbc.co.uk/news/articles/cgk43mn42g7o#0"
+        "https://www.bbc.co.uk/news/articles/c2kw1qek7gdo#1"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20260909de49407",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260907de48836"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/apple-event-2026-kuroda-matome/",
         "https://www.gizmodo.jp/article/2609-cupertino-apple-event-heatwave-report/",
         "https://www.gizmodo.jp/article/2609-apple-ceo-teases-new-camera-feature-before-event/",
         "https://www.gizmodo.jp/article/2609-mechamecha-chameleon-switch2/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/iphone-18-pro-pro-max-rumors-summary/",
         "https://www.gizmodo.jp/article/meta-smart-glasses-creeps-now-have-one-less-way-to-be-creepy/",
         "https://www.gizmodo.jp/article/tim-cook-steps-down-today/",
-        "https://www.gizmodo.jp/article/jbls-new-pulse-speaker-is-a-more-of-a-lantern/",
-        "https://www.gizmodo.jp/article/orca-echo-typing-practice/"
+        "https://www.gizmodo.jp/article/jbls-new-pulse-speaker-is-a-more-of-a-lantern/"
     ]
 }
