@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "yGwxA6pxQGw",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "9sJuIfHp-Tc",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/ckgwy1k42w4o#0",
         "https://www.bbc.co.uk/weather/articles/cvgynj49lzmo#0",
         "https://www.bbc.co.uk/news/articles/cy7zygy3rl2o#1",
         "https://www.bbc.co.uk/news/articles/cx2z421xe0zo#0",
@@ -200,10 +201,10 @@
         "https://www.bbc.co.uk/news/articles/c4g7rxgvkgdo#1",
         "https://www.bbc.co.uk/news/articles/cn9wyvxn95vo#0",
         "https://www.bbc.co.uk/news/articles/cr4vn1e207go#0",
-        "https://www.bbc.co.uk/news/articles/crk3xd8j3k5o#0",
-        "https://www.bbc.co.uk/news/articles/cx2z37qj4wno#1"
+        "https://www.bbc.co.uk/news/articles/crk3xd8j3k5o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260909de49329",
         "https://news.web.nhk/newsweb/na/nd-20260909de49342",
         "https://news.web.nhk/newsweb/na/nd-20260904de48189",
         "https://news.web.nhk/newsweb/na/nd-20260909de49331",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260907de48785",
         "https://news.web.nhk/newsweb/na/nd-20260907de48791",
         "https://news.web.nhk/newsweb/na/nd-20260907de48715",
-        "https://news.web.nhk/newsweb/na/nd-20260906de48525",
-        "https://news.web.nhk/newsweb/na/nd-20260907de48780"
+        "https://news.web.nhk/newsweb/na/nd-20260906de48525"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/512a8a02-ea3f-44d0-a4e2-8c36a29fd001/",
         "https://www.gizmodo.jp/article/dell_xps13/",
         "https://www.gizmodo.jp/article/yude-tamago-meijin/",
         "https://www.gizmodo.jp/article/2606-lht-liverylife-kf86max-lgq/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/vakuen-amazon/",
         "https://www.gizmodo.jp/article/the-worlds-largest-electric-plane-just-flew-for-27-minutes-jpn/",
         "https://www.gizmodo.jp/article/people-are-rushing-to-find-ways-to-remove-claudes-ai-text-watermark/",
-        "https://www.gizmodo.jp/article/tamagotchi-ring/",
-        "https://www.gizmodo.jp/article/fiio-cp11/"
+        "https://www.gizmodo.jp/article/tamagotchi-ring/"
     ]
 }
