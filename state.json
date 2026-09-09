@@ -2,6 +2,9 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "iCFtvSW88l0",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "9sJuIfHp-Tc",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/ckgwj4kl5lno#0",
+        "https://www.bbc.co.uk/news/articles/cy0zqk2w92lo#1",
+        "https://www.bbc.co.uk/news/articles/cq63816e60lo#1",
         "https://www.bbc.co.uk/news/articles/cq63816e60lo#0",
         "https://www.bbc.co.uk/news/articles/cqlw0ke2v97o#0",
         "https://www.bbc.co.uk/news/articles/clyjd1jnd03o#1",
@@ -198,10 +201,7 @@
         "https://www.bbc.co.uk/news/articles/c4gj8xx5010o#1",
         "https://www.bbc.co.uk/news/videos/clyl2dnjgkro#0",
         "https://www.bbc.co.uk/news/articles/c5y4l22p262o#1",
-        "https://www.bbc.co.uk/news/articles/c8jdev0422jo#0",
-        "https://www.bbc.co.uk/news/articles/cq5x30003zdo#0",
-        "https://www.bbc.co.uk/news/articles/c39mz7xlvjzo#1",
-        "https://www.bbc.co.uk/news/articles/cj9xvg1kz0mo#1"
+        "https://www.bbc.co.uk/news/articles/c8jdev0422jo#0"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20260907de48845",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260907de48848"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/a967c7b8-0ea8-40f0-8f2c-6d0041585699/",
         "https://www.gizmodo.jp/article/apple-reference-image_iphone/",
         "https://www.gizmodo.jp/article/apple_new-items_matome/",
         "https://www.gizmodo.jp/article/2609-iphone-18-pro-battery-life/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/dyson-camerajet/",
         "https://www.gizmodo.jp/article/asus-note-pc-rtx-spark/",
         "https://www.gizmodo.jp/article/poco-f9-ultra/",
-        "https://www.gizmodo.jp/article/bauhutte-gaming-arm-cushion-wide/",
-        "https://www.gizmodo.jp/article/report-reveals-which-cars-are-most-likely-to-get-pooped-zmd/"
+        "https://www.gizmodo.jp/article/bauhutte-gaming-arm-cushion-wide/"
     ]
 }
