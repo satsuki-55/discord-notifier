@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/crernpv433vo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260909de49374",
+        "https://news.web.nhk/newsweb/na/nd-20260910de49420",
         "https://news.web.nhk/newsweb/na/nd-20260910de49414",
         "https://news.web.nhk/newsweb/na/nd-20260909de49378",
         "https://news.web.nhk/newsweb/na/nd-20260910de49413",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260908de48905",
         "https://news.web.nhk/newsweb/na/nd-20260908de48888",
         "https://news.web.nhk/newsweb/na/nd-20260908de48909",
-        "https://news.web.nhk/newsweb/na/nd-20260908de48890",
-        "https://news.web.nhk/newsweb/na/nd-20260907de48883",
-        "https://news.web.nhk/newsweb/na/nd-20260907de48879"
+        "https://news.web.nhk/newsweb/na/nd-20260908de48890"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/iphoneduo_firstimpression/",
