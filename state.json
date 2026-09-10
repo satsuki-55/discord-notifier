@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/c1j1896e973o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260910de49598",
+        "https://news.web.nhk/newsweb/na/nd-20260910de49606",
         "https://news.web.nhk/newsweb/na/nd-20260911de49615",
         "https://news.web.nhk/newsweb/na/nd-20260910de49609",
         "https://news.web.nhk/newsweb/na/nd-20260911de49622",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260908de49050",
         "https://news.web.nhk/newsweb/na/nd-20260908de49076",
         "https://news.web.nhk/newsweb/na/nd-20260908de49071",
-        "https://news.web.nhk/newsweb/na/nd-20260908de49063",
-        "https://news.web.nhk/newsweb/na/nd-20260908de49093",
-        "https://news.web.nhk/newsweb/na/nd-20260908de49082"
+        "https://news.web.nhk/newsweb/na/nd-20260908de49063"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/data-center-ied/",
