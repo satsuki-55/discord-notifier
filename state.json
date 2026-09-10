@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cddvzd1z53lo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260910de49599",
         "https://news.web.nhk/newsweb/na/nd-20260910de49595",
         "https://news.web.nhk/newsweb/na/nd-20260910de49597",
         "https://news.web.nhk/newsweb/na/nd-20260910de49594",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260908de49045",
         "https://news.web.nhk/newsweb/na/nd-20260908de49040",
         "https://news.web.nhk/newsweb/na/nd-20260908de49034",
-        "https://news.web.nhk/newsweb/na/nd-20260907de48796",
-        "https://news.web.nhk/newsweb/na/nd-20260905de48324"
+        "https://news.web.nhk/newsweb/na/nd-20260907de48796"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/apple-watch_series-12_siri_recap_health/",
