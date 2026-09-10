@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cx2zkyl7kwyo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260910de49531",
         "https://news.web.nhk/newsweb/na/nd-20260910de49526",
         "https://news.web.nhk/newsweb/na/nd-20260910de49504",
         "https://news.web.nhk/newsweb/na/nd-20260910de49517",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260908de48960",
         "https://news.web.nhk/newsweb/na/nd-20260908de48964",
         "https://news.web.nhk/newsweb/na/nd-20260908de48972",
-        "https://news.web.nhk/newsweb/na/nd-20260908de48956",
-        "https://news.web.nhk/newsweb/na/nd-20260908de48957"
+        "https://news.web.nhk/newsweb/na/nd-20260908de48956"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/orca-echo-review/",
         "https://www.gizmodo.jp/article/single-tooth-forensic-identification/",
         "https://www.gizmodo.jp/article/metalgearsolid-master-collection2-review/",
         "https://www.gizmodo.jp/article/2604-xteink-x4-ereader-review-bbd/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/escura-lab-instantsnap-novo/",
         "https://www.gizmodo.jp/article/sonos-new-wireless-headphones-lean-into-wi-fi/",
         "https://www.gizmodo.jp/article/what-makes-me-want-iphonefold/",
-        "https://www.gizmodo.jp/article/3-more-macs-to-obsolete-products-202609/",
-        "https://www.gizmodo.jp/article/3d-whistle-eon/"
+        "https://www.gizmodo.jp/article/3-more-macs-to-obsolete-products-202609/"
     ]
 }
