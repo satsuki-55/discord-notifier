@@ -406,6 +406,8 @@
         "https://news.web.nhk/newsweb/na/nd-20260907de48796"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/nnormal-cadi-gtx/",
+        "https://www.gizmodo.jp/article/ios-27_siri-ai_release_date/",
         "https://www.gizmodo.jp/article/apple-watch_series-12_siri_recap_health/",
         "https://www.gizmodo.jp/article/2609-iphone-duo-price-justification/",
         "https://www.gizmodo.jp/article/why-iphone-duo/",
@@ -603,8 +605,6 @@
         "https://www.gizmodo.jp/article/google-pixel-11-pro-review/",
         "https://www.gizmodo.jp/article/3coins-multi-tool-review-dvs/",
         "https://www.gizmodo.jp/article/dyson-camera-jet/",
-        "https://www.gizmodo.jp/article/aqumo-candle-npn/",
-        "https://www.gizmodo.jp/article/pebble-time-2-review-the-most-joyful-smartwatch-ive-ever-worn/",
-        "https://www.gizmodo.jp/article/2604-ewa-a106-axl/"
+        "https://www.gizmodo.jp/article/aqumo-candle-npn/"
     ]
 }
