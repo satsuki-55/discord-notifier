@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c4gm8npmp4ro#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260910de49510",
         "https://news.web.nhk/newsweb/na/nd-20260910de49433",
         "https://news.web.nhk/newsweb/na/nd-20260910de49494",
         "https://news.web.nhk/newsweb/na/nd-20260910de49492",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260908de48933",
         "https://news.web.nhk/newsweb/na/nd-20260908de48944",
         "https://news.web.nhk/newsweb/na/nd-20260908de48898",
-        "https://news.web.nhk/newsweb/na/nd-20260905de48291",
-        "https://news.web.nhk/newsweb/na/nd-20260908de48907"
+        "https://news.web.nhk/newsweb/na/nd-20260905de48291"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2604-xteink-x4-ereader-review-bbd/",
