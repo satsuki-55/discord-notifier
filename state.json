@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/cvgy63mdnr7o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260910de49482",
+        "https://news.web.nhk/newsweb/na/nd-20260910de49446",
         "https://news.web.nhk/newsweb/na/nd-20260910de49477",
         "https://news.web.nhk/newsweb/na/nd-20260910de49469",
         "https://news.web.nhk/newsweb/na/nd-20260910de49464",
@@ -401,11 +403,11 @@
         "https://news.web.nhk/newsweb/na/nd-20260908de48932",
         "https://news.web.nhk/newsweb/na/nd-20260908de48929",
         "https://news.web.nhk/newsweb/na/nd-20260908de48928",
-        "https://news.web.nhk/newsweb/na/nd-20260908de48903",
-        "https://news.web.nhk/newsweb/na/nd-20260907de48851",
-        "https://news.web.nhk/newsweb/na/nd-20260907de48880"
+        "https://news.web.nhk/newsweb/na/nd-20260908de48903"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/iphone-duo_samsung_reaction/",
+        "https://www.gizmodo.jp/article/2609-mac-studio-ai-demo-apple-park/",
         "https://www.gizmodo.jp/article/sony-wh-1000xm4c-budget-anc-headphone/",
         "https://www.gizmodo.jp/article/resume_hacks_targeting_ai-xcl/",
         "https://www.gizmodo.jp/article/lenovo-legion-5a-gen-11/",
@@ -603,8 +605,6 @@
         "https://www.gizmodo.jp/article/3d-whistle-eon/",
         "https://www.gizmodo.jp/article/sparkle-tcx-280df/",
         "https://www.gizmodo.jp/article/mars-potato-shaped-moon-may-have-gotten-its-youthful-look-from-a-single-impact/",
-        "https://www.gizmodo.jp/article/a-massive-steam-leak-has-unearthed-thousands-of-lost-game-builds/",
-        "https://www.gizmodo.jp/article/ikea-ankarlagg/",
-        "https://www.gizmodo.jp/article/huawei-band-11_review/"
+        "https://www.gizmodo.jp/article/a-massive-steam-leak-has-unearthed-thousands-of-lost-game-builds/"
     ]
 }
