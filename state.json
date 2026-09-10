@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cx2zkyl7kwyo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260910de49526",
         "https://news.web.nhk/newsweb/na/nd-20260910de49504",
         "https://news.web.nhk/newsweb/na/nd-20260910de49517",
         "https://news.web.nhk/newsweb/na/nd-20260910de49522",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260908de48964",
         "https://news.web.nhk/newsweb/na/nd-20260908de48972",
         "https://news.web.nhk/newsweb/na/nd-20260908de48956",
-        "https://news.web.nhk/newsweb/na/nd-20260908de48957",
-        "https://news.web.nhk/newsweb/na/nd-20260908de48947"
+        "https://news.web.nhk/newsweb/na/nd-20260908de48957"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/metalgearsolid-master-collection2-review/",
