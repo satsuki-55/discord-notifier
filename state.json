@@ -2,6 +2,9 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "iCFtvSW88l0",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "9sJuIfHp-Tc",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/videos/czxzwge59w8o#0",
+        "https://www.bbc.co.uk/news/articles/c8jdpj4ydm2o#0",
+        "https://www.bbc.co.uk/news/articles/cj4jyv7l92eo#0",
         "https://www.bbc.co.uk/news/articles/c89jdl0j5x4o#1",
         "https://www.bbc.co.uk/news/articles/c0klnjmgpm6o#1",
         "https://www.bbc.co.uk/news/videos/cdr76legmevo#1",
@@ -198,12 +201,10 @@
         "https://www.bbc.co.uk/news/articles/cddvzd1z53lo#1",
         "https://www.bbc.co.uk/news/articles/cp849n2nz01o#0",
         "https://www.bbc.co.uk/news/articles/cjdvyk3pm27o#1",
-        "https://www.bbc.co.uk/news/articles/ce8x3dp1zpxo#0",
-        "https://www.bbc.co.uk/news/articles/cgk43mn42g7o#1",
-        "https://www.bbc.co.uk/news/articles/c70drp0pyw2o#0",
-        "https://www.bbc.co.uk/news/articles/cjdvyk3pm27o#0"
+        "https://www.bbc.co.uk/news/articles/ce8x3dp1zpxo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260910de49554",
         "https://news.web.nhk/newsweb/na/nd-20260910de49562",
         "https://news.web.nhk/newsweb/na/nd-20260910de49547",
         "https://news.web.nhk/newsweb/na/nd-20260910de49557",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260828de46985",
         "https://news.web.nhk/newsweb/na/nd-20260908de49004",
         "https://news.web.nhk/newsweb/na/nd-20260908de49005",
-        "https://news.web.nhk/newsweb/na/nd-20260908de48998",
-        "https://news.web.nhk/newsweb/na/nd-20260908de49002"
+        "https://news.web.nhk/newsweb/na/nd-20260908de48998"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2609-cear-pave/",
         "https://www.gizmodo.jp/article/chargespot-interview-battery-strategy/",
         "https://www.gizmodo.jp/article/chargespot-battery-serial-number-safety/",
         "https://www.gizmodo.jp/article/iphone_price_increase/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/2604-ewa-a106-axl/",
         "https://www.gizmodo.jp/article/hey-really-didnt-have-to-go-this-hard-for-the-cyberpunk-2077-edition-of-the-commodore-64/",
         "https://www.gizmodo.jp/article/iphone18pro-colors/",
-        "https://www.gizmodo.jp/article/kidou-bungu-auto-transform-card-case/",
-        "https://www.gizmodo.jp/article/escura-lab-instantsnap-novo/"
+        "https://www.gizmodo.jp/article/kidou-bungu-auto-transform-card-case/"
     ]
 }
