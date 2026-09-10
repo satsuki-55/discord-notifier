@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c5y5kn143d1o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260910de49443",
         "https://news.web.nhk/newsweb/na/nd-20260910de49426",
         "https://news.web.nhk/newsweb/na/nd-20260910de49424",
         "https://news.web.nhk/newsweb/na/nd-20260910de49425",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260908de48889",
         "https://news.web.nhk/newsweb/na/nd-20260908de48893",
         "https://news.web.nhk/newsweb/na/nd-20260908de48892",
-        "https://news.web.nhk/newsweb/na/nd-20260908de48914",
-        "https://news.web.nhk/newsweb/na/nd-20260908de48908"
+        "https://news.web.nhk/newsweb/na/nd-20260908de48914"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2609-iphone-duo-review-fold8/",
