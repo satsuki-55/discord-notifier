@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/clyenxp540vo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260910de49563",
+        "https://news.web.nhk/newsweb/na/nd-20260910de49560",
         "https://news.web.nhk/newsweb/na/nd-20260910de49559",
         "https://news.web.nhk/newsweb/na/nd-20260910de49548",
         "https://news.web.nhk/newsweb/na/nd-20260910de49544",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260908de49002",
         "https://news.web.nhk/newsweb/na/nd-20260908de49001",
         "https://news.web.nhk/newsweb/na/nd-20260908de48978",
-        "https://news.web.nhk/newsweb/na/nd-20260908de48994",
-        "https://news.web.nhk/newsweb/na/nd-20260908de48990",
-        "https://news.web.nhk/newsweb/na/nd-20260908de48981"
+        "https://news.web.nhk/newsweb/na/nd-20260908de48994"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/chargespot-interview-battery-strategy/",
