@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cddvzd1z53lo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260910de49594",
         "https://news.web.nhk/newsweb/na/nd-20260910de49582",
         "https://news.web.nhk/newsweb/na/nd-20260910de49583",
         "https://news.web.nhk/newsweb/na/nd-20260910de49541",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260907de48796",
         "https://news.web.nhk/newsweb/na/nd-20260905de48324",
         "https://news.web.nhk/newsweb/na/nd-20260908de49023",
-        "https://news.web.nhk/newsweb/na/nd-20260908de49024",
-        "https://news.web.nhk/newsweb/na/nd-20260908de49022"
+        "https://news.web.nhk/newsweb/na/nd-20260908de49024"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2609-iphone-duo-price-justification/",
