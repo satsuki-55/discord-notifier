@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/cjw54ww73qjo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260910de49559",
+        "https://news.web.nhk/newsweb/na/nd-20260910de49548",
         "https://news.web.nhk/newsweb/na/nd-20260910de49544",
         "https://news.web.nhk/newsweb/na/nd-20260910de49545",
         "https://news.web.nhk/newsweb/na/nd-20260910de49539",
@@ -401,11 +403,11 @@
         "https://news.web.nhk/newsweb/na/nd-20260908de48978",
         "https://news.web.nhk/newsweb/na/nd-20260908de48994",
         "https://news.web.nhk/newsweb/na/nd-20260908de48990",
-        "https://news.web.nhk/newsweb/na/nd-20260908de48981",
-        "https://news.web.nhk/newsweb/na/nd-20260908de48958",
-        "https://news.web.nhk/newsweb/na/nd-20260908de48945"
+        "https://news.web.nhk/newsweb/na/nd-20260908de48981"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/chargespot-interview-battery-strategy/",
+        "https://www.gizmodo.jp/article/chargespot-battery-serial-number-safety/",
         "https://www.gizmodo.jp/article/iphone_price_increase/",
         "https://www.gizmodo.jp/article/orca-echo-review/",
         "https://www.gizmodo.jp/article/single-tooth-forensic-identification/",
@@ -603,8 +605,6 @@
         "https://www.gizmodo.jp/article/hey-really-didnt-have-to-go-this-hard-for-the-cyberpunk-2077-edition-of-the-commodore-64/",
         "https://www.gizmodo.jp/article/iphone18pro-colors/",
         "https://www.gizmodo.jp/article/kidou-bungu-auto-transform-card-case/",
-        "https://www.gizmodo.jp/article/escura-lab-instantsnap-novo/",
-        "https://www.gizmodo.jp/article/sonos-new-wireless-headphones-lean-into-wi-fi/",
-        "https://www.gizmodo.jp/article/what-makes-me-want-iphonefold/"
+        "https://www.gizmodo.jp/article/escura-lab-instantsnap-novo/"
     ]
 }
