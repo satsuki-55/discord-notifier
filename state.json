@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c4grdk95vgno#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260910de49469",
         "https://news.web.nhk/newsweb/na/nd-20260910de49464",
         "https://news.web.nhk/newsweb/na/nd-20260910de49458",
         "https://news.web.nhk/newsweb/na/nd-20260910de49459",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260908de48903",
         "https://news.web.nhk/newsweb/na/nd-20260907de48851",
         "https://news.web.nhk/newsweb/na/nd-20260907de48880",
-        "https://news.web.nhk/newsweb/na/nd-20260908de48897",
-        "https://news.web.nhk/newsweb/na/nd-20260908de48917"
+        "https://news.web.nhk/newsweb/na/nd-20260908de48897"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/sony-wh-1000xm4c-budget-anc-headphone/",
