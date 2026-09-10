@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cp849n2nz01o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260910de49583",
         "https://news.web.nhk/newsweb/na/nd-20260910de49541",
         "https://news.web.nhk/newsweb/na/nd-20260910de49558",
         "https://news.web.nhk/newsweb/na/nd-20260910de49553",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260908de49023",
         "https://news.web.nhk/newsweb/na/nd-20260908de49024",
         "https://news.web.nhk/newsweb/na/nd-20260908de49022",
-        "https://news.web.nhk/newsweb/na/nd-20260908de49015",
-        "https://news.web.nhk/newsweb/na/nd-20260908de49006"
+        "https://news.web.nhk/newsweb/na/nd-20260908de49015"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/why-iphone-duo/",
