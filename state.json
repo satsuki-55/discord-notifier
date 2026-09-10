@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "iCFtvSW88l0",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "9sJuIfHp-Tc",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cd94y7d7qyzo#0",
         "https://www.bbc.co.uk/news/articles/ce3r77d9n90o#0",
         "https://www.bbc.co.uk/news/articles/cqxv2vwjjq3o#0",
         "https://www.bbc.co.uk/news/articles/cx2z70xr0y3o#0",
@@ -200,8 +201,7 @@
         "https://www.bbc.co.uk/news/articles/c74k13kpv2no#0",
         "https://www.bbc.co.uk/news/articles/cn457lq938jo#1",
         "https://www.bbc.co.uk/news/articles/clyl6866j1jo#0",
-        "https://www.bbc.co.uk/news/videos/c2079ne1xx6o#0",
-        "https://www.bbc.co.uk/news/articles/cyvznqypz0yo#0"
+        "https://www.bbc.co.uk/news/videos/c2079ne1xx6o#0"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20260911de49614",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260908de49099"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/10-moments-apple-event-2026/",
         "https://www.gizmodo.jp/article/data-center-ied/",
         "https://www.gizmodo.jp/article/nnormal-cadi-gtx/",
         "https://www.gizmodo.jp/article/ios-27_siri-ai_release_date/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/iphone18-nonsilver/",
         "https://www.gizmodo.jp/article/iphone-fold-magsafe/",
         "https://www.gizmodo.jp/article/google-pixel-11-pro-review/",
-        "https://www.gizmodo.jp/article/3coins-multi-tool-review-dvs/",
-        "https://www.gizmodo.jp/article/dyson-camera-jet/"
+        "https://www.gizmodo.jp/article/3coins-multi-tool-review-dvs/"
     ]
 }
