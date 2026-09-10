@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/ce8x3dp1zpxo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260910de49574",
         "https://news.web.nhk/newsweb/na/nd-20260910de49554",
         "https://news.web.nhk/newsweb/na/nd-20260910de49562",
         "https://news.web.nhk/newsweb/na/nd-20260910de49547",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260908de49006",
         "https://news.web.nhk/newsweb/na/nd-20260828de46985",
         "https://news.web.nhk/newsweb/na/nd-20260908de49004",
-        "https://news.web.nhk/newsweb/na/nd-20260908de49005",
-        "https://news.web.nhk/newsweb/na/nd-20260908de48998"
+        "https://news.web.nhk/newsweb/na/nd-20260908de49005"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2609-cear-pave/",
