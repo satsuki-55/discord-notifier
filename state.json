@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/cj4jwlx77lro#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260911de49767",
+        "https://news.web.nhk/newsweb/na/nd-20260911de49774",
         "https://news.web.nhk/newsweb/na/nd-20260911de49758",
         "https://news.web.nhk/newsweb/na/nd-20260911de49739",
         "https://news.web.nhk/newsweb/na/nd-20260911de49742",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260909de49205",
         "https://news.web.nhk/newsweb/na/nd-20260909de49208",
         "https://news.web.nhk/newsweb/na/nd-20260908de49169",
-        "https://news.web.nhk/newsweb/na/nd-20260909de49197",
-        "https://news.web.nhk/newsweb/na/nd-20260908de49138",
-        "https://news.web.nhk/newsweb/na/nd-20260909de49200"
+        "https://news.web.nhk/newsweb/na/nd-20260909de49197"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2609-iphone-18-pro-duo-career-release-price/",
