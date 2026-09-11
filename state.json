@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "iybWyXqwEVQ",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "9sJuIfHp-Tc",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/clymlyg7y44o#1",
         "https://www.bbc.co.uk/news/articles/c17j94ew1lno#1",
         "https://www.bbc.co.uk/news/articles/cgjq1q3nd52o#1",
         "https://www.bbc.co.uk/news/articles/cj06762qegmo#1",
@@ -200,10 +201,11 @@
         "https://www.bbc.co.uk/news/articles/c8r6y4me2g6o#1",
         "https://www.bbc.co.uk/news/articles/cvgyvpxe3yjo#1",
         "https://www.bbc.co.uk/news/articles/c8r6y4me2g6o#0",
-        "https://www.bbc.co.uk/news/articles/ckgwydke178o#1",
-        "https://www.bbc.co.uk/news/videos/clyjd6jz101o#1"
+        "https://www.bbc.co.uk/news/articles/ckgwydke178o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260909de49312",
+        "https://news.web.nhk/newsweb/na/nd-20260911de49824",
         "https://news.web.nhk/newsweb/na/nd-20260911de49822",
         "https://news.web.nhk/newsweb/na/nd-20260912de49833",
         "https://news.web.nhk/newsweb/na/nd-20260912de49835",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260909de49313",
         "https://news.web.nhk/newsweb/na/nd-20260909de49284",
         "https://news.web.nhk/newsweb/na/nd-20260909de49306",
-        "https://news.web.nhk/newsweb/na/nd-20260907de48746",
-        "https://news.web.nhk/newsweb/na/nd-20260909de49302",
-        "https://news.web.nhk/newsweb/na/nd-20260909de49312"
+        "https://news.web.nhk/newsweb/na/nd-20260907de48746"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2609-docomo-iphone-18-pro-price/",
