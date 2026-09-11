@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "OwXhtuSiPYc",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "9sJuIfHp-Tc",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cqxvzpg82yvo#1",
         "https://www.bbc.co.uk/news/articles/cj3dy704l71o#1",
         "https://www.bbc.co.uk/news/videos/ce8e67l4330o#2",
         "https://www.bbc.co.uk/news/articles/c8e31lwnz9ro#2",
@@ -200,8 +201,7 @@
         "https://www.bbc.co.uk/news/articles/c62mn90ppnro#1",
         "https://www.bbc.co.uk/news/articles/c05re9qg09ro#1",
         "https://www.bbc.co.uk/news/articles/cqxv2vwjjq3o#1",
-        "https://www.bbc.co.uk/news/articles/c5yw39nvy97o#0",
-        "https://www.bbc.co.uk/news/articles/c9qxnyengdjo#1"
+        "https://www.bbc.co.uk/news/articles/c5yw39nvy97o#0"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20260911de49777",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260909de49205"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/0f9e91ec-dc88-42cf-a4e0-ca2d5c92a0d7/",
         "https://www.gizmodo.jp/article/apples-biggest-ai-advantage-its-not-trying-to-build-god/",
         "https://www.gizmodo.jp/article/2609-iphone-18-pro-duo-career-release-price/",
         "https://www.gizmodo.jp/article/orca-echo-summary/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/elecom-tanlet-stand/",
         "https://www.gizmodo.jp/article/ankers-new-smart-speaker-watches-you-sleep/",
         "https://www.gizmodo.jp/article/camera-with-digital-film/",
-        "https://www.gizmodo.jp/article/2608-korekai-solar-panel-re/",
-        "https://www.gizmodo.jp/article/ifa-anker-soundcore-sleep-4-pro/"
+        "https://www.gizmodo.jp/article/2608-korekai-solar-panel-re/"
     ]
 }
