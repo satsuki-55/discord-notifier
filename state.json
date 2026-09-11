@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "iCFtvSW88l0",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "9sJuIfHp-Tc",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/videos/cdr765xj1k1o#1",
         "https://www.bbc.co.uk/weather/articles/cqxv4wj8jxwo#1",
         "https://www.bbc.co.uk/weather/articles/cqxv4wj8jxwo#0",
         "https://www.bbc.co.uk/news/articles/cq5xjlvn71lo#1",
@@ -200,10 +201,10 @@
         "https://www.bbc.co.uk/news/articles/cvgynv90599o#0",
         "https://www.bbc.co.uk/news/articles/ckgwy1k42w4o#0",
         "https://www.bbc.co.uk/weather/articles/cvgynj49lzmo#0",
-        "https://www.bbc.co.uk/news/articles/cy7zygy3rl2o#1",
-        "https://www.bbc.co.uk/news/articles/cx2z421xe0zo#0"
+        "https://www.bbc.co.uk/news/articles/cy7zygy3rl2o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260911de49708",
         "https://news.web.nhk/newsweb/na/nd-20260911de49646",
         "https://news.web.nhk/newsweb/na/nd-20260911de49694",
         "https://news.web.nhk/newsweb/na/nd-20260911de49697",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260908de49144",
         "https://news.web.nhk/newsweb/na/nd-20260908de49183",
         "https://news.web.nhk/newsweb/na/nd-20260908de49181",
-        "https://news.web.nhk/newsweb/na/nd-20260903de48030",
-        "https://news.web.nhk/newsweb/na/nd-20260908de49163"
+        "https://news.web.nhk/newsweb/na/nd-20260903de48030"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/sanwa-supply-usb-power-tap/",
