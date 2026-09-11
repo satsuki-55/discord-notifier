@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c70dx3z9956o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260911de49714",
         "https://news.web.nhk/newsweb/na/nd-20260911de49713",
         "https://news.web.nhk/newsweb/na/nd-20260911de49706",
         "https://news.web.nhk/newsweb/na/nd-20260911de49699",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260908de49174",
         "https://news.web.nhk/newsweb/na/nd-20260909de49198",
         "https://news.web.nhk/newsweb/na/nd-20260903de48045",
-        "https://news.web.nhk/newsweb/na/nd-20260908de49141",
-        "https://news.web.nhk/newsweb/na/nd-20260908de49182"
+        "https://news.web.nhk/newsweb/na/nd-20260908de49141"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/airpods-5-wireless-charging-case-hands-on/",
