@@ -2,6 +2,8 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "iCFtvSW88l0",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "9sJuIfHp-Tc",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cpvelrmp1vmo#0",
+        "https://www.bbc.co.uk/news/articles/c0lrk7d7j0no#1",
         "https://www.bbc.co.uk/news/articles/cwyz9jlqrj4o#1",
         "https://www.bbc.co.uk/news/articles/cvgyvk2djk4o#1",
         "https://www.bbc.co.uk/news/articles/c305qn2jeggo#0",
@@ -199,11 +201,10 @@
         "https://www.bbc.co.uk/news/articles/c9qxnyengdjo#0",
         "https://www.bbc.co.uk/news/articles/ce8x3dp1zpxo#1",
         "https://www.bbc.co.uk/news/articles/c99dm1000p7o#1",
-        "https://www.bbc.co.uk/sport/tennis/articles/c20v6pgz7nmo#0",
-        "https://www.bbc.co.uk/news/articles/cn8np9wwe35o#1",
-        "https://www.bbc.co.uk/news/articles/cvgy3lyxd6zo#0"
+        "https://www.bbc.co.uk/sport/tennis/articles/c20v6pgz7nmo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260911de49692",
         "https://news.web.nhk/newsweb/na/nd-20260911de49686",
         "https://news.web.nhk/newsweb/na/nd-20260911de49690",
         "https://news.web.nhk/newsweb/na/nd-20260911de49688",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260908de49168",
         "https://news.web.nhk/newsweb/na/nd-20260908de49166",
         "https://news.web.nhk/newsweb/na/nd-20260908de49167",
-        "https://news.web.nhk/newsweb/na/nd-20260908de49150",
-        "https://news.web.nhk/newsweb/na/nd-20260908de49146"
+        "https://news.web.nhk/newsweb/na/nd-20260908de49150"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/ai-data-centers-community-benefit-infrastructure/",
         "https://www.gizmodo.jp/article/2609-tesla-powerwall-3/",
         "https://www.gizmodo.jp/article/lenovos-aeroblade-concept-could-bring-us-laptops-that-weigh-less-than-two-pounds/",
         "https://www.gizmodo.jp/article/rotunbot-byc/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/alienware-desperately-wants-gaming-pros-to-finally-adopt-oled/",
         "https://www.gizmodo.jp/article/jbls-new-wi-fi-speakers-aim-to-beat-sonos-at-its-own-game/",
         "https://www.gizmodo.jp/article/shisei-hack/",
-        "https://www.gizmodo.jp/article/openai_gpt_6_astra_release/",
-        "https://www.gizmodo.jp/article/dell-tries-beat-the-macbook-neo-with-yet-another-cheapish-laptop/"
+        "https://www.gizmodo.jp/article/openai_gpt_6_astra_release/"
     ]
 }
