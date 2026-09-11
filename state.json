@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c70drp0pyw2o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260911de49671",
         "https://news.web.nhk/newsweb/na/nd-20260911de49662",
         "https://news.web.nhk/newsweb/na/nd-20260911de49652",
         "https://news.web.nhk/newsweb/na/nd-20260911de49664",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260908de49147",
         "https://news.web.nhk/newsweb/na/nd-20260908de49084",
         "https://news.web.nhk/newsweb/na/nd-20260908de49140",
-        "https://news.web.nhk/newsweb/na/nd-20260908de49131",
-        "https://news.web.nhk/newsweb/na/nd-20260908de49113"
+        "https://news.web.nhk/newsweb/na/nd-20260908de49131"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/lenovos-aeroblade-concept-could-bring-us-laptops-that-weigh-less-than-two-pounds/",
