@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/clykjmjm6m0o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260911de49647",
+        "https://news.web.nhk/newsweb/na/nd-20260911de49645",
         "https://news.web.nhk/newsweb/na/nd-20260911de49642",
         "https://news.web.nhk/newsweb/na/nd-20260911de49643",
         "https://news.web.nhk/newsweb/na/nd-20260911de49635",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260906de48400",
         "https://news.web.nhk/newsweb/na/nd-20260908de49089",
         "https://news.web.nhk/newsweb/na/nd-20260908de49092",
-        "https://news.web.nhk/newsweb/na/nd-20260908de49098",
-        "https://news.web.nhk/newsweb/na/nd-20260908de49087",
-        "https://news.web.nhk/newsweb/na/nd-20260908de49110"
+        "https://news.web.nhk/newsweb/na/nd-20260908de49098"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/orca-echo-3days-left/",
