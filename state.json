@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c9qxnyengdjo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260828de46988",
         "https://news.web.nhk/newsweb/na/nd-20260911de49695",
         "https://news.web.nhk/newsweb/na/nd-20260911de49696",
         "https://news.web.nhk/newsweb/na/nd-20260911de49693",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260908de49163",
         "https://news.web.nhk/newsweb/na/nd-20260908de49176",
         "https://news.web.nhk/newsweb/na/nd-20260908de49172",
-        "https://news.web.nhk/newsweb/na/nd-20260908de49156",
-        "https://news.web.nhk/newsweb/na/nd-20260908de49158"
+        "https://news.web.nhk/newsweb/na/nd-20260908de49156"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/sanwa-supply-usb-power-tap/",
