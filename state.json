@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cx2zkyl7kwyo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260911de49635",
         "https://news.web.nhk/newsweb/na/nd-20260911de49636",
         "https://news.web.nhk/newsweb/na/nd-20260910de49578",
         "https://news.web.nhk/newsweb/na/nd-20260911de49632",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260908de49087",
         "https://news.web.nhk/newsweb/na/nd-20260908de49110",
         "https://news.web.nhk/newsweb/na/nd-20260908de49121",
-        "https://news.web.nhk/newsweb/na/nd-20260908de49112",
-        "https://news.web.nhk/newsweb/na/nd-20260908de49094"
+        "https://news.web.nhk/newsweb/na/nd-20260908de49112"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/huawei-has-a-new-3000-trifold-just-in-case-apples-foldable-iphone-wasnt-expensive-enough-for-you/",
