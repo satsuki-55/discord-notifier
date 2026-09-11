@@ -2,6 +2,8 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "iCFtvSW88l0",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "9sJuIfHp-Tc",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/videos/cy8zrnn2ekxo#0",
+        "https://www.bbc.co.uk/news/articles/c790l73ryp3o#1",
         "https://www.bbc.co.uk/news/articles/cpq0n1q0eego#0",
         "https://www.bbc.co.uk/news/articles/cpvelrmp1vmo#0",
         "https://www.bbc.co.uk/news/articles/c0lrk7d7j0no#1",
@@ -199,11 +201,11 @@
         "https://www.bbc.co.uk/news/articles/c05re9qg09ro#0",
         "https://www.bbc.co.uk/news/articles/cgmr22kpd9yo#1",
         "https://www.bbc.co.uk/news/articles/cvgyp2n1e75o#0",
-        "https://www.bbc.co.uk/news/articles/c9qxnyengdjo#0",
-        "https://www.bbc.co.uk/news/articles/ce8x3dp1zpxo#1",
-        "https://www.bbc.co.uk/news/articles/c99dm1000p7o#1"
+        "https://www.bbc.co.uk/news/articles/c9qxnyengdjo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260911de49695",
+        "https://news.web.nhk/newsweb/na/nd-20260911de49696",
         "https://news.web.nhk/newsweb/na/nd-20260911de49693",
         "https://news.web.nhk/newsweb/na/nd-20260911de49691",
         "https://news.web.nhk/newsweb/na/nd-20260911de49692",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260908de49176",
         "https://news.web.nhk/newsweb/na/nd-20260908de49172",
         "https://news.web.nhk/newsweb/na/nd-20260908de49156",
-        "https://news.web.nhk/newsweb/na/nd-20260908de49158",
-        "https://news.web.nhk/newsweb/na/nd-20260908de49168",
-        "https://news.web.nhk/newsweb/na/nd-20260908de49166"
+        "https://news.web.nhk/newsweb/na/nd-20260908de49158"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/ai-data-centers-community-benefit-infrastructure/",
