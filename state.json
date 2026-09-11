@@ -2,6 +2,8 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "iybWyXqwEVQ",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "9sJuIfHp-Tc",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c8r6y4me2g6o#0",
+        "https://www.bbc.co.uk/news/articles/cqjkejq5750o#1",
         "https://www.bbc.co.uk/news/articles/c1j4ngr05l8o#0",
         "https://www.bbc.co.uk/news/articles/clymlyg7y44o#1",
         "https://www.bbc.co.uk/news/articles/c17j94ew1lno#1",
@@ -199,11 +201,10 @@
         "https://www.bbc.co.uk/news/articles/cp849rlrrmlo#1",
         "https://www.bbc.co.uk/news/articles/cly47p5vk63o#1",
         "https://www.bbc.co.uk/news/articles/c7v4l9vy8m6o#1",
-        "https://www.bbc.co.uk/news/articles/c8r6y4me2g6o#1",
-        "https://www.bbc.co.uk/news/articles/cvgyvpxe3yjo#1",
-        "https://www.bbc.co.uk/news/articles/c8r6y4me2g6o#0"
+        "https://www.bbc.co.uk/news/articles/c8r6y4me2g6o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260912de49849",
         "https://news.web.nhk/newsweb/na/nd-20260912de49847",
         "https://news.web.nhk/newsweb/na/nd-20260912de49839",
         "https://news.web.nhk/newsweb/na/nd-20260912de49846",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260904de48189",
         "https://news.web.nhk/newsweb/na/nd-20260909de49331",
         "https://news.web.nhk/newsweb/na/nd-20260909de49336",
-        "https://news.web.nhk/newsweb/na/nd-20260908de48955",
-        "https://news.web.nhk/newsweb/na/nd-20260909de49332"
+        "https://news.web.nhk/newsweb/na/nd-20260908de48955"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/keychron_orca-echo_put-in-between-re/",
         "https://www.gizmodo.jp/article/2609-docomo-iphone-18-pro-price/",
         "https://www.gizmodo.jp/article/high-five_shoelaces_review-5u4/",
         "https://www.gizmodo.jp/article/2609-iphone-18-pro-vs-iphone-17-pro-specs/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/montbell-flex-water-pack-review-oea/",
         "https://www.gizmodo.jp/article/poke-ball-themed-hotel/",
         "https://www.gizmodo.jp/article/smart-ring-finger-tier-list/",
-        "https://www.gizmodo.jp/article/apple-event-2026-report/",
-        "https://www.gizmodo.jp/article/sonys-huge-new-party-speaker-is-downright-bone-rattling/"
+        "https://www.gizmodo.jp/article/apple-event-2026-report/"
     ]
 }
