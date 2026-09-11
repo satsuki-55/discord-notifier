@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "iCFtvSW88l0",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "9sJuIfHp-Tc",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cx2z70xr0y3o#1",
         "https://www.bbc.co.uk/news/articles/crr4j00q44zo#0",
         "https://www.bbc.co.uk/news/articles/cx2zx1v8ye3o#0",
         "https://www.bbc.co.uk/news/articles/cvgyvk2djk4o#0",
@@ -200,10 +201,10 @@
         "https://www.bbc.co.uk/news/articles/c9qxnyengdjo#1",
         "https://www.bbc.co.uk/news/articles/c3v439n5xlpo#1",
         "https://www.bbc.co.uk/news/articles/cj4jwlx77lro#0",
-        "https://www.bbc.co.uk/news/articles/clykjmjm6m0o#1",
-        "https://www.bbc.co.uk/sport/articles/cwyzx1gxwqlo#1"
+        "https://www.bbc.co.uk/news/articles/clykjmjm6m0o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260911de49742",
         "https://news.web.nhk/newsweb/na/nd-20260911de49733",
         "https://news.web.nhk/newsweb/na/nd-20260911de49723",
         "https://news.web.nhk/newsweb/na/nd-20260911de49721",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260908de49138",
         "https://news.web.nhk/newsweb/na/nd-20260909de49200",
         "https://news.web.nhk/newsweb/na/nd-20260908de49178",
-        "https://news.web.nhk/newsweb/na/nd-20260904de48248",
-        "https://news.web.nhk/newsweb/na/nd-20260909de49187"
+        "https://news.web.nhk/newsweb/na/nd-20260904de48248"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/orca-echo-summary/",
