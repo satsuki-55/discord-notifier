@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cwyzprn3gkgo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260911de49820",
         "https://news.web.nhk/newsweb/na/nd-20260911de49783",
         "https://news.web.nhk/newsweb/na/nd-20260911de49799",
         "https://news.web.nhk/newsweb/na/nd-20260911de49776",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260909de49277",
         "https://news.web.nhk/newsweb/na/nd-20260909de49273",
         "https://news.web.nhk/newsweb/na/nd-20260909de49265",
-        "https://news.web.nhk/newsweb/na/nd-20260909de49267",
-        "https://news.web.nhk/newsweb/na/nd-20260909de49256"
+        "https://news.web.nhk/newsweb/na/nd-20260909de49267"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/high-five_shoelaces_review-5u4/",
