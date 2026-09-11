@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c9qxnyengdjo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260911de49777",
         "https://news.web.nhk/newsweb/na/nd-20260909de49197",
         "https://news.web.nhk/newsweb/na/nd-20260911de49737",
         "https://news.web.nhk/newsweb/na/nd-20260911de49767",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260909de49190",
         "https://news.web.nhk/newsweb/na/nd-20260908de49145",
         "https://news.web.nhk/newsweb/na/nd-20260909de49206",
-        "https://news.web.nhk/newsweb/na/nd-20260909de49205",
-        "https://news.web.nhk/newsweb/na/nd-20260909de49208"
+        "https://news.web.nhk/newsweb/na/nd-20260909de49205"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/apples-biggest-ai-advantage-its-not-trying-to-build-god/",
