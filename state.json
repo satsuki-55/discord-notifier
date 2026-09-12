@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "iybWyXqwEVQ",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "9sJuIfHp-Tc",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c4g5kxw4wd7o#1",
         "https://www.bbc.co.uk/news/articles/c3wjn3pl63xo#0",
         "https://www.bbc.co.uk/news/articles/c1kx0jje18wo#1",
         "https://www.bbc.co.uk/news/articles/cy0zvx15rywo#0",
@@ -200,8 +201,7 @@
         "https://www.bbc.co.uk/news/articles/cg7kjlzlev1o#1",
         "https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo#1",
         "https://www.bbc.co.uk/news/articles/c93vde0n2l4o#0",
-        "https://www.bbc.co.uk/news/articles/c93vde0n2l4o#1",
-        "https://www.bbc.co.uk/news/videos/cy5zpze3qe3o#1"
+        "https://www.bbc.co.uk/news/articles/c93vde0n2l4o#1"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20260912de49899",
@@ -406,6 +406,8 @@
         "https://news.web.nhk/newsweb/na/nd-20260907de48846"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2e69eabb-f76e-4d59-aed3-6eaee4f54870/",
+        "https://www.gizmodo.jp/article/orca-echo-2days-left/",
         "https://www.gizmodo.jp/article/2609-footrest-hot-and-cool/",
         "https://www.gizmodo.jp/article/airpods-5-vs-airpods-4-anc-isnt-the-only-upgrade/",
         "https://www.gizmodo.jp/article/2609-samsung-galaxy-z-fold-evolution-history/",
@@ -603,8 +605,6 @@
         "https://www.gizmodo.jp/article/bousai_items_summary/",
         "https://www.gizmodo.jp/article/excessive_screen_time_increases/",
         "https://www.gizmodo.jp/article/amazon-oral-b-pro-1s/",
-        "https://www.gizmodo.jp/article/d0ce7b72-cb3c-48af-8028-90b3b7debe8e/",
-        "https://www.gizmodo.jp/article/meta-wants-to-bring-ai-and-universal-translation-to-the-gtm/",
-        "https://www.gizmodo.jp/article/yamazaki_drain_hose_holder-re/"
+        "https://www.gizmodo.jp/article/d0ce7b72-cb3c-48af-8028-90b3b7debe8e/"
     ]
 }
