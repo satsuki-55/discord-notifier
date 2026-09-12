@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c74edv9887eo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260912de49891",
         "https://news.web.nhk/newsweb/na/nd-20260909de49396",
         "https://news.web.nhk/newsweb/na/nd-20260912de49890",
         "https://news.web.nhk/newsweb/na/nd-20260912de49884",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260909de49377",
         "https://news.web.nhk/newsweb/na/nd-20260909de49405",
         "https://news.web.nhk/newsweb/na/nd-20260909de49406",
-        "https://news.web.nhk/newsweb/na/nd-20260910de49410",
-        "https://news.web.nhk/newsweb/na/nd-20260909de49407"
+        "https://news.web.nhk/newsweb/na/nd-20260910de49410"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/airpods-5-vs-airpods-4-anc-isnt-the-only-upgrade/",
