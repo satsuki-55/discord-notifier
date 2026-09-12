@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "C6x1_NORrVY",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "9sJuIfHp-Tc",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c4grdk95vgno#0",
         "https://www.bbc.co.uk/news/articles/cgmrzm17dgjo#0",
         "https://www.bbc.co.uk/news/articles/clye9nldd7do#1",
         "https://www.bbc.co.uk/news/articles/crm932el3yjo#1",
@@ -200,10 +201,10 @@
         "https://www.bbc.co.uk/news/articles/cg7kjlzlev1o#0",
         "https://www.bbc.co.uk/news/articles/c93vderdkyvo#0",
         "https://www.bbc.co.uk/news/articles/c62k677d4lzo#0",
-        "https://www.bbc.co.uk/news/articles/c5ydld0gykpo#0",
-        "https://www.bbc.co.uk/news/articles/c93vderdkyvo#1"
+        "https://www.bbc.co.uk/news/articles/c5ydld0gykpo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260912de49903",
         "https://news.web.nhk/newsweb/na/nd-20260912de49901",
         "https://news.web.nhk/newsweb/na/nd-20260912de49899",
         "https://news.web.nhk/newsweb/na/nd-20260912de49900",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260909de49378",
         "https://news.web.nhk/newsweb/na/nd-20260910de49413",
         "https://news.web.nhk/newsweb/na/nd-20260909de49402",
-        "https://news.web.nhk/newsweb/na/nd-20260907de48845",
-        "https://news.web.nhk/newsweb/na/nd-20260910de49412"
+        "https://news.web.nhk/newsweb/na/nd-20260907de48845"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/asus-rog-gjallar-gaming-soundbar-review-sorry-did-you-say-something/",
