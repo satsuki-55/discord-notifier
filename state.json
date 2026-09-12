@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/videos/cy5zpze3qe3o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260912de49899",
         "https://news.web.nhk/newsweb/na/nd-20260912de49900",
         "https://news.web.nhk/newsweb/na/nd-20260912de49898",
         "https://news.web.nhk/newsweb/na/nd-20260912de49892",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260909de49402",
         "https://news.web.nhk/newsweb/na/nd-20260907de48845",
         "https://news.web.nhk/newsweb/na/nd-20260910de49412",
-        "https://news.web.nhk/newsweb/na/nd-20260907de48846",
-        "https://news.web.nhk/newsweb/na/nd-20260910de49416"
+        "https://news.web.nhk/newsweb/na/nd-20260907de48846"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2609-footrest-hot-and-cool/",
