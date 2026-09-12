@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/ckgwj4kl5lno#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260912de49866",
+        "https://news.web.nhk/newsweb/na/nd-20260912de49865",
         "https://news.web.nhk/newsweb/na/nd-20260912de49854",
         "https://news.web.nhk/newsweb/na/nd-20260909de49342",
         "https://news.web.nhk/newsweb/na/nd-20260912de49856",
@@ -401,11 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260903de47913",
         "https://news.web.nhk/newsweb/na/nd-20260909de49361",
         "https://news.web.nhk/newsweb/na/nd-20260909de49355",
-        "https://news.web.nhk/newsweb/na/nd-20260909de49274",
-        "https://news.web.nhk/newsweb/na/nd-20260909de49334",
-        "https://news.web.nhk/newsweb/na/nd-20260909de49327"
+        "https://news.web.nhk/newsweb/na/nd-20260909de49274"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/level-lock-pro-review-as-good-as-a-secret-smart-lock-gets-spc/",
         "https://www.gizmodo.jp/article/2609-keyboard-stand-storage-organizer/",
         "https://www.gizmodo.jp/article/keychron_orca-echo_put-in-between-re/",
         "https://www.gizmodo.jp/article/2609-docomo-iphone-18-pro-price/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/a4d4dda7-75da-410b-b322-580323249d8c/",
         "https://www.gizmodo.jp/article/orca-echo-touchtry-event-0830/",
         "https://www.gizmodo.jp/article/montbell-flex-water-pack-review-oea/",
-        "https://www.gizmodo.jp/article/poke-ball-themed-hotel/",
-        "https://www.gizmodo.jp/article/smart-ring-finger-tier-list/"
+        "https://www.gizmodo.jp/article/poke-ball-themed-hotel/"
     ]
 }
