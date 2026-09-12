@@ -2,6 +2,8 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "iybWyXqwEVQ",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "9sJuIfHp-Tc",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/clyjqvjzlwno#0",
+        "https://www.bbc.co.uk/news/articles/c1kx0jje18wo#0",
         "https://www.bbc.co.uk/news/articles/c1wx8gg7xw1o#2",
         "https://www.bbc.co.uk/news/articles/c804dvky833o#2",
         "https://www.bbc.co.uk/news/articles/crm932el3yjo#2",
@@ -199,11 +201,10 @@
         "https://www.bbc.co.uk/news/articles/c7v4lq969llo#1",
         "https://www.bbc.co.uk/news/articles/ce8e7431nmno#0",
         "https://www.bbc.co.uk/news/articles/ce8e7431nmno#1",
-        "https://www.bbc.co.uk/news/articles/c74edv9887eo#1",
-        "https://www.bbc.co.uk/news/articles/cwyz7lrwqdyo#0",
-        "https://www.bbc.co.uk/news/articles/cjw54ww73qjo#0"
+        "https://www.bbc.co.uk/news/articles/c74edv9887eo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260912de49890",
         "https://news.web.nhk/newsweb/na/nd-20260912de49884",
         "https://news.web.nhk/newsweb/na/nd-20260912de49878",
         "https://news.web.nhk/newsweb/na/nd-20260909de49350",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260909de49406",
         "https://news.web.nhk/newsweb/na/nd-20260910de49410",
         "https://news.web.nhk/newsweb/na/nd-20260909de49407",
-        "https://news.web.nhk/newsweb/na/nd-20260909de49392",
-        "https://news.web.nhk/newsweb/na/nd-20260909de49396"
+        "https://news.web.nhk/newsweb/na/nd-20260909de49392"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/airpods-5-vs-airpods-4-anc-isnt-the-only-upgrade/",
