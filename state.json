@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cm2r1x35rgro#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260912de49884",
         "https://news.web.nhk/newsweb/na/nd-20260912de49878",
         "https://news.web.nhk/newsweb/na/nd-20260909de49350",
         "https://news.web.nhk/newsweb/na/nd-20260912de49882",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260910de49410",
         "https://news.web.nhk/newsweb/na/nd-20260909de49407",
         "https://news.web.nhk/newsweb/na/nd-20260909de49392",
-        "https://news.web.nhk/newsweb/na/nd-20260909de49396",
-        "https://news.web.nhk/newsweb/na/nd-20260909de49385"
+        "https://news.web.nhk/newsweb/na/nd-20260909de49396"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2609-iphone-duo-apple-watch/",
