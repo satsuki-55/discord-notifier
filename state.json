@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/cevw2lxnwk9o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260909de49350",
+        "https://news.web.nhk/newsweb/na/nd-20260912de49882",
         "https://news.web.nhk/newsweb/na/nd-20260912de49880",
         "https://news.web.nhk/newsweb/na/nd-20260912de49871",
         "https://news.web.nhk/newsweb/na/nd-20260912de49870",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260909de49392",
         "https://news.web.nhk/newsweb/na/nd-20260909de49396",
         "https://news.web.nhk/newsweb/na/nd-20260909de49385",
-        "https://news.web.nhk/newsweb/na/nd-20260909de49382",
-        "https://news.web.nhk/newsweb/na/nd-20260909de49379",
-        "https://news.web.nhk/newsweb/na/nd-20260909de49350"
+        "https://news.web.nhk/newsweb/na/nd-20260909de49382"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2609-iphone-duo-apple-watch/",
