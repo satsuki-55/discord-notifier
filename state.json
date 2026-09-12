@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c046rxw93xlo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260912de49870",
         "https://news.web.nhk/newsweb/na/nd-20260912de49869",
         "https://news.web.nhk/newsweb/na/nd-20260912de49864",
         "https://news.web.nhk/newsweb/na/nd-20260912de49868",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260909de49379",
         "https://news.web.nhk/newsweb/na/nd-20260909de49350",
         "https://news.web.nhk/newsweb/na/nd-20260909de49372",
-        "https://news.web.nhk/newsweb/na/nd-20260909de49362",
-        "https://news.web.nhk/newsweb/na/nd-20260903de47913"
+        "https://news.web.nhk/newsweb/na/nd-20260909de49362"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/level-lock-pro-review-as-good-as-a-secret-smart-lock-gets-spc/",
