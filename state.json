@@ -2,6 +2,8 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "C6x1_NORrVY",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "rhwOxQ-h28M",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c0lr7k4k4zyo#0",
+        "https://www.bbc.co.uk/news/articles/cvgydvrlep1o#1",
         "https://www.bbc.co.uk/news/articles/c3v4nzrk4rlo#1",
         "https://www.bbc.co.uk/news/articles/c3v4nzrk4rlo#0",
         "https://www.bbc.co.uk/news/articles/c89jdl0j5x4o#1",
@@ -199,11 +201,10 @@
         "https://www.bbc.co.uk/news/articles/c62mqzj5vnpo#1",
         "https://www.bbc.co.uk/news/articles/ckgwenl0g0wo#1",
         "https://www.bbc.co.uk/news/articles/ckgwenl0g0wo#0",
-        "https://www.bbc.co.uk/news/videos/ckgw3ngep09o#0",
-        "https://www.bbc.co.uk/news/articles/cde0rk4r5jjo#1",
-        "https://www.bbc.co.uk/news/articles/cj9xznl0yvzo#1"
+        "https://www.bbc.co.uk/news/videos/ckgw3ngep09o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260912de49911",
         "https://news.web.nhk/newsweb/na/nd-20260912de49914",
         "https://news.web.nhk/newsweb/na/nd-20260912de49922",
         "https://news.web.nhk/newsweb/na/nd-20260912de49903",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260909de49374",
         "https://news.web.nhk/newsweb/na/nd-20260910de49420",
         "https://news.web.nhk/newsweb/na/nd-20260910de49414",
-        "https://news.web.nhk/newsweb/na/nd-20260909de49378",
-        "https://news.web.nhk/newsweb/na/nd-20260910de49413"
+        "https://news.web.nhk/newsweb/na/nd-20260909de49378"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/a-rogue-black-hole-of-unusual-size-is-devouring-stars-in-a-distant-galaxy-jpn-z4i/",
