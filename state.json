@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cj4jynv59ddo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260913de49941",
         "https://news.web.nhk/newsweb/na/nd-20260912de49919",
         "https://news.web.nhk/newsweb/na/nd-20260912de49908",
         "https://news.web.nhk/newsweb/na/nd-20260913de49937",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260910de49469",
         "https://news.web.nhk/newsweb/na/nd-20260910de49464",
         "https://news.web.nhk/newsweb/na/nd-20260910de49458",
-        "https://news.web.nhk/newsweb/na/nd-20260910de49459",
-        "https://news.web.nhk/newsweb/na/nd-20260910de49452"
+        "https://news.web.nhk/newsweb/na/nd-20260910de49459"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/a-rogue-black-hole-of-unusual-size-is-devouring-stars-in-a-distant-galaxy-jpn-z4i/",
