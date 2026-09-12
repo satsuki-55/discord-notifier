@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cqlw0ke2v97o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260911de49830",
         "https://news.web.nhk/newsweb/na/nd-20260828de46989",
         "https://news.web.nhk/newsweb/na/nd-20260912de49848",
         "https://news.web.nhk/newsweb/na/nd-20260912de49845",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260909de49327",
         "https://news.web.nhk/newsweb/na/nd-20260909de49346",
         "https://news.web.nhk/newsweb/na/nd-20260909de49329",
-        "https://news.web.nhk/newsweb/na/nd-20260909de49342",
-        "https://news.web.nhk/newsweb/na/nd-20260904de48189"
+        "https://news.web.nhk/newsweb/na/nd-20260909de49342"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/keychron_orca-echo_put-in-between-re/",
