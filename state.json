@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c780n702pp4o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260914de50002",
         "https://news.web.nhk/newsweb/na/nd-20260914de50007",
         "https://news.web.nhk/newsweb/na/nd-20260913de49986",
         "https://news.web.nhk/newsweb/na/nd-20260913de49999",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260910de49582",
         "https://news.web.nhk/newsweb/na/nd-20260910de49583",
         "https://news.web.nhk/newsweb/na/nd-20260910de49541",
-        "https://news.web.nhk/newsweb/na/nd-20260910de49558",
-        "https://news.web.nhk/newsweb/na/nd-20260910de49553"
+        "https://news.web.nhk/newsweb/na/nd-20260910de49558"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/lg-tvs-are-capable-of-listening-to-more-than-your-screen-report-claims/",
