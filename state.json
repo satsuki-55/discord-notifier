@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c1l68gmqq24o#2"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260913de50000",
         "https://news.web.nhk/newsweb/na/nd-20260914de50006",
         "https://news.web.nhk/newsweb/na/nd-20260914de50001",
         "https://news.web.nhk/newsweb/na/nd-20260913de49991",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260910de49554",
         "https://news.web.nhk/newsweb/na/nd-20260910de49562",
         "https://news.web.nhk/newsweb/na/nd-20260910de49547",
-        "https://news.web.nhk/newsweb/na/nd-20260910de49557",
-        "https://news.web.nhk/newsweb/na/nd-20260910de49563"
+        "https://news.web.nhk/newsweb/na/nd-20260910de49557"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/watch-nasas-curiosity-struggle-to-break-loose-from-a-rock-on-mars-hvm/",
