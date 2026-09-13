@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cx2z770jr03o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260908de48996",
         "https://news.web.nhk/newsweb/na/nd-20260913de49970",
         "https://news.web.nhk/newsweb/na/nd-20260913de49958",
         "https://news.web.nhk/newsweb/na/nd-20260913de49956",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260910de49522",
         "https://news.web.nhk/newsweb/na/nd-20260828de46987",
         "https://news.web.nhk/newsweb/na/nd-20260910de49510",
-        "https://news.web.nhk/newsweb/na/nd-20260910de49433",
-        "https://news.web.nhk/newsweb/na/nd-20260910de49494"
+        "https://news.web.nhk/newsweb/na/nd-20260910de49433"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2609-yogibo-zipparoll-travel-cushion/",
         "https://www.gizmodo.jp/article/orca-echo-first-impression-re/",
         "https://www.gizmodo.jp/article/2609-reusable-food-wrap-cover/",
         "https://www.gizmodo.jp/article/2609-youtube-netflix-creator-strategy/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/best-timing-buy-smartphone-roa/",
         "https://www.gizmodo.jp/article/revive-dead-frog-frozen-for-40-years/",
         "https://www.gizmodo.jp/article/the-relationship-between-saliva-and-colorectal-cancer-risk/",
-        "https://www.gizmodo.jp/article/ozlo-sleepbuds-2-review-comfy-sleep-earbuds-with-an-uncomfortable-price/",
-        "https://www.gizmodo.jp/article/will-we-ever-solve-the-problem-of-losing-data/"
+        "https://www.gizmodo.jp/article/ozlo-sleepbuds-2-review-comfy-sleep-earbuds-with-an-uncomfortable-price/"
     ]
 }
