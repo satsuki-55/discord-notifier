@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cj4jyv7l92eo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260913de49953",
         "https://news.web.nhk/newsweb/na/nd-20260913de49955",
         "https://news.web.nhk/newsweb/na/nd-20260913de49951",
         "https://news.web.nhk/newsweb/na/nd-20260913de49949",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260910de49494",
         "https://news.web.nhk/newsweb/na/nd-20260910de49492",
         "https://news.web.nhk/newsweb/na/nd-20260910de49506",
-        "https://news.web.nhk/newsweb/na/nd-20260910de49496",
-        "https://news.web.nhk/newsweb/na/nd-20260910de49490"
+        "https://news.web.nhk/newsweb/na/nd-20260910de49496"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2609-aston-martin-brough-superior-amb-002/",
