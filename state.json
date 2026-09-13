@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c305qn2jeggo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260913de49983",
         "https://news.web.nhk/newsweb/na/nd-20260907de48826",
         "https://news.web.nhk/newsweb/na/nd-20260913de49978",
         "https://news.web.nhk/newsweb/na/nd-20260913de49979",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260910de49434",
         "https://news.web.nhk/newsweb/na/nd-20260910de49542",
         "https://news.web.nhk/newsweb/na/nd-20260910de49537",
-        "https://news.web.nhk/newsweb/na/nd-20260910de49531",
-        "https://news.web.nhk/newsweb/na/nd-20260910de49526"
+        "https://news.web.nhk/newsweb/na/nd-20260910de49531"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/bousai-item-matome/",
