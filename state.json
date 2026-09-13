@@ -204,6 +204,9 @@
         "https://www.bbc.co.uk/news/articles/cx2z770jr03o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260913de49975",
+        "https://news.web.nhk/newsweb/na/nd-20260913de49973",
+        "https://news.web.nhk/newsweb/na/nd-20260913de49974",
         "https://news.web.nhk/newsweb/na/nd-20260908de48996",
         "https://news.web.nhk/newsweb/na/nd-20260913de49970",
         "https://news.web.nhk/newsweb/na/nd-20260913de49958",
@@ -400,10 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260910de49526",
         "https://news.web.nhk/newsweb/na/nd-20260910de49504",
         "https://news.web.nhk/newsweb/na/nd-20260910de49517",
-        "https://news.web.nhk/newsweb/na/nd-20260910de49522",
-        "https://news.web.nhk/newsweb/na/nd-20260828de46987",
-        "https://news.web.nhk/newsweb/na/nd-20260910de49510",
-        "https://news.web.nhk/newsweb/na/nd-20260910de49433"
+        "https://news.web.nhk/newsweb/na/nd-20260910de49522"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2609-yogibo-zipparoll-travel-cushion/",
