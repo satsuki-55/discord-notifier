@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "gXKMWmNVwC4",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "7jtLAKs7kbM",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c62ene9kr71o#0",
         "https://www.bbc.co.uk/weather/articles/cwyzq4538j3o#0",
         "https://www.bbc.co.uk/news/articles/ce3r77d9n90o#0",
         "https://www.bbc.co.uk/news/articles/cvgy04v7rkjo#0",
@@ -200,10 +201,10 @@
         "https://www.bbc.co.uk/news/articles/c305qn2jeggo#0",
         "https://www.bbc.co.uk/news/articles/cx2z770jr03o#1",
         "https://www.bbc.co.uk/news/articles/cx2zrrpkx20o#1",
-        "https://www.bbc.co.uk/news/articles/cdj4z2x3zyko#1",
-        "https://www.bbc.co.uk/news/articles/cx2zkyl7kwyo#0"
+        "https://www.bbc.co.uk/news/articles/cdj4z2x3zyko#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260913de49970",
         "https://news.web.nhk/newsweb/na/nd-20260913de49958",
         "https://news.web.nhk/newsweb/na/nd-20260913de49956",
         "https://news.web.nhk/newsweb/na/nd-20260913de49953",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260828de46987",
         "https://news.web.nhk/newsweb/na/nd-20260910de49510",
         "https://news.web.nhk/newsweb/na/nd-20260910de49433",
-        "https://news.web.nhk/newsweb/na/nd-20260910de49494",
-        "https://news.web.nhk/newsweb/na/nd-20260910de49492"
+        "https://news.web.nhk/newsweb/na/nd-20260910de49494"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2609-reusable-food-wrap-cover/",
