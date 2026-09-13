@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cwyz9jlqrj4o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260907de48824",
         "https://news.web.nhk/newsweb/na/nd-20260910de49537",
         "https://news.web.nhk/newsweb/na/nd-20260913de49980",
         "https://news.web.nhk/newsweb/na/nd-20260913de49981",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260910de49548",
         "https://news.web.nhk/newsweb/na/nd-20260910de49544",
         "https://news.web.nhk/newsweb/na/nd-20260910de49545",
-        "https://news.web.nhk/newsweb/na/nd-20260910de49539",
-        "https://news.web.nhk/newsweb/na/nd-20260910de49434"
+        "https://news.web.nhk/newsweb/na/nd-20260910de49539"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2609-brine-magnesium-recovery-solar-heat/",
