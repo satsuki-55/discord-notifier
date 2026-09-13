@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "gXKMWmNVwC4",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "7jtLAKs7kbM",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/crm9ezvwjpno#0",
         "https://www.bbc.co.uk/news/articles/cly41rdkrleo#1",
         "https://www.bbc.co.uk/news/articles/clyl18x4734o#0",
         "https://www.bbc.co.uk/news/videos/c5yjk63ww1ro#0",
@@ -200,8 +201,7 @@
         "https://www.bbc.co.uk/news/articles/c3eq7kl5l00o#0",
         "https://www.bbc.co.uk/news/articles/cx2z38jqe3eo#0",
         "https://www.bbc.co.uk/news/articles/crr4j00q44zo#1",
-        "https://www.bbc.co.uk/news/articles/c780n702pp4o#0",
-        "https://www.bbc.co.uk/news/articles/ce8e6pkkd04o#1"
+        "https://www.bbc.co.uk/news/articles/c780n702pp4o#0"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20260914de50007",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260910de49553"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/lg-tvs-are-capable-of-listening-to-more-than-your-screen-report-claims/",
         "https://www.gizmodo.jp/article/watch-nasas-curiosity-struggle-to-break-loose-from-a-rock-on-mars-hvm/",
         "https://www.gizmodo.jp/article/2609-patagonia-nano-puff-jacket-disaster-prevention/",
         "https://www.gizmodo.jp/article/cb098bb4-d334-4f15-894d-8ae560bb5b72/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/huaweis-watch-d3-doubles-as-an-inflatable-blood-pressure-cuff/",
         "https://www.gizmodo.jp/article/iphone-maintenance-tools-igt/",
         "https://www.gizmodo.jp/article/ugreen-magflow-pro-magnetic-power-bank/",
-        "https://www.gizmodo.jp/article/price-forecasts-for-foldable-iphones/",
-        "https://www.gizmodo.jp/article/zero-gravity-workstation-0b-xl-prone/"
+        "https://www.gizmodo.jp/article/price-forecasts-for-foldable-iphones/"
     ]
 }
