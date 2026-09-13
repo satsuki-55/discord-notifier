@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c305qn2jeggo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260913de49978",
         "https://news.web.nhk/newsweb/na/nd-20260913de49979",
         "https://news.web.nhk/newsweb/na/nd-20260913de49975",
         "https://news.web.nhk/newsweb/na/nd-20260913de49973",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260910de49537",
         "https://news.web.nhk/newsweb/na/nd-20260910de49531",
         "https://news.web.nhk/newsweb/na/nd-20260910de49526",
-        "https://news.web.nhk/newsweb/na/nd-20260910de49504",
-        "https://news.web.nhk/newsweb/na/nd-20260910de49517"
+        "https://news.web.nhk/newsweb/na/nd-20260910de49504"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/new-airpods5-airplane-review/",
