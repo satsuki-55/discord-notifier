@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260910de49601"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/apple-watch-series-12-vs-apple-watch-series-11-colors-sensors-and-ai/",
         "https://www.gizmodo.jp/article/new-nothing-wireless-headphones-could-be-coming-this-month/",
         "https://www.gizmodo.jp/article/solid-state-nuclear-battery-power-cell-url/",
         "https://www.gizmodo.jp/article/cd-sales-increase-streaming-era/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/apple-game-controllers/",
         "https://www.gizmodo.jp/article/triggerpoint_foam_roller_re/",
         "https://www.gizmodo.jp/article/a-cargo-plane-with-no-pilot-just-completed-a-series-of-flights-over-a-small-louisiana-town/",
-        "https://www.gizmodo.jp/article/iphone-duo-name/",
-        "https://www.gizmodo.jp/article/homey-portal/"
+        "https://www.gizmodo.jp/article/iphone-duo-name/"
     ]
 }
