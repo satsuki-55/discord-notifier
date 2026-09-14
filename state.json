@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c8r6y4me2g6o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260914de50175",
         "https://news.web.nhk/newsweb/na/nd-20260911de49656",
         "https://news.web.nhk/newsweb/na/nd-20260914de50182",
         "https://news.web.nhk/newsweb/na/nd-20260914de50045",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260911de49687",
         "https://news.web.nhk/newsweb/na/nd-20260911de49681",
         "https://news.web.nhk/newsweb/na/nd-20260911de49671",
-        "https://news.web.nhk/newsweb/na/nd-20260911de49662",
-        "https://news.web.nhk/newsweb/na/nd-20260911de49652"
+        "https://news.web.nhk/newsweb/na/nd-20260911de49662"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2609-galaxy-z-fold8-tim-cook-ad/",
