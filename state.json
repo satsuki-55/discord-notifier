@@ -204,6 +204,9 @@
         "https://www.bbc.co.uk/news/articles/c23x72yx2rvo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260914de50113",
+        "https://news.web.nhk/newsweb/na/nd-20260914de50120",
+        "https://news.web.nhk/newsweb/na/nd-20260914de50130",
         "https://news.web.nhk/newsweb/na/nd-20260914de50131",
         "https://news.web.nhk/newsweb/na/nd-20260914de50115",
         "https://news.web.nhk/newsweb/na/nd-20260914de50136",
@@ -400,10 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260911de49627",
         "https://news.web.nhk/newsweb/na/nd-20260911de49620",
         "https://news.web.nhk/newsweb/na/nd-20260911de49621",
-        "https://news.web.nhk/newsweb/na/nd-20260911de49613",
-        "https://news.web.nhk/newsweb/na/nd-20260910de49598",
-        "https://news.web.nhk/newsweb/na/nd-20260910de49606",
-        "https://news.web.nhk/newsweb/na/nd-20260911de49615"
+        "https://news.web.nhk/newsweb/na/nd-20260911de49613"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2609-canadian-house-flipping-us-real-estate-regrets/",
