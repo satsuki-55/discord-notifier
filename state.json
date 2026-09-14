@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "gXKMWmNVwC4",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "567S2nBx4fg",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cwg7kv373z4eo#1",
         "https://www.bbc.co.uk/news/articles/cq0m3pkmgg1ko#1",
         "https://www.bbc.co.uk/news/articles/cqgk5e2j0gg8o#1",
         "https://www.bbc.co.uk/news/articles/cqgk5e2j0gg8o#0",
@@ -200,10 +201,10 @@
         "https://www.bbc.co.uk/news/articles/cwyz59yyqk4o#0",
         "https://www.bbc.co.uk/news/articles/c4g5kxw4wd7o#0",
         "https://www.bbc.co.uk/news/articles/c8d37dm8d8mo#1",
-        "https://www.bbc.co.uk/news/articles/c4grdk95vgno#0",
-        "https://www.bbc.co.uk/news/articles/cgmrzm17dgjo#0"
+        "https://www.bbc.co.uk/news/articles/c4grdk95vgno#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260914de50204",
         "https://news.web.nhk/newsweb/na/nd-20260914de50210",
         "https://news.web.nhk/newsweb/na/nd-20260914de50076",
         "https://news.web.nhk/newsweb/na/nd-20260914de50209",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260911de49708",
         "https://news.web.nhk/newsweb/na/nd-20260911de49646",
         "https://news.web.nhk/newsweb/na/nd-20260911de49694",
-        "https://news.web.nhk/newsweb/na/nd-20260911de49697",
-        "https://news.web.nhk/newsweb/na/nd-20260828de46988"
+        "https://news.web.nhk/newsweb/na/nd-20260911de49697"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/datacenter-electricity-consume/",
