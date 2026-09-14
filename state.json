@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "gXKMWmNVwC4",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "7jtLAKs7kbM",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cgl7zrnxxy6o#1",
         "https://www.bbc.co.uk/news/articles/cwyzvgj70y4o#1",
         "https://www.bbc.co.uk/news/articles/cwyzvgj70y4o#0",
         "https://www.bbc.co.uk/news/articles/cx2zg554w9ko#0",
@@ -200,10 +201,10 @@
         "https://www.bbc.co.uk/news/articles/cr50q0l9r1do#0",
         "https://www.bbc.co.uk/news/videos/cy5z02w1zxxo#1",
         "https://www.bbc.co.uk/news/articles/cgjq1qy98vjo#0",
-        "https://www.bbc.co.uk/news/videos/cy5z02w1zxxo#0",
-        "https://www.bbc.co.uk/news/articles/cy8zrz42yxko#1"
+        "https://www.bbc.co.uk/news/videos/cy5z02w1zxxo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260914de50072",
         "https://news.web.nhk/newsweb/na/nd-20260914de50066",
         "https://news.web.nhk/newsweb/na/nd-20260914de50046",
         "https://news.web.nhk/newsweb/na/nd-20260914de50018",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260910de49610",
         "https://news.web.nhk/newsweb/na/nd-20260910de49611",
         "https://news.web.nhk/newsweb/na/nd-20260910de49568",
-        "https://news.web.nhk/newsweb/na/nd-20260910de49566",
-        "https://news.web.nhk/newsweb/na/nd-20260910de49567"
+        "https://news.web.nhk/newsweb/na/nd-20260910de49566"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/apple-watch-ultra-4-vs-apple-watch-ultra-3-tracking-everything-all-the-time/",
         "https://www.gizmodo.jp/article/apple-watch-series-12-vs-apple-watch-series-11-colors-sensors-and-ai/",
         "https://www.gizmodo.jp/article/new-nothing-wireless-headphones-could-be-coming-this-month/",
         "https://www.gizmodo.jp/article/solid-state-nuclear-battery-power-cell-url/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/iphone-18-pro-color/",
         "https://www.gizmodo.jp/article/apple-game-controllers/",
         "https://www.gizmodo.jp/article/triggerpoint_foam_roller_re/",
-        "https://www.gizmodo.jp/article/a-cargo-plane-with-no-pilot-just-completed-a-series-of-flights-over-a-small-louisiana-town/",
-        "https://www.gizmodo.jp/article/iphone-duo-name/"
+        "https://www.gizmodo.jp/article/a-cargo-plane-with-no-pilot-just-completed-a-series-of-flights-over-a-small-louisiana-town/"
     ]
 }
