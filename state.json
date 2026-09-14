@@ -2,6 +2,8 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "gXKMWmNVwC4",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "7jtLAKs7kbM",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/ce87qzrz7p8o#0",
+        "https://www.bbc.co.uk/news/articles/ce8767g4jdpo#1",
         "https://www.bbc.co.uk/news/articles/c0m3neyyzm7o#0",
         "https://www.bbc.co.uk/news/articles/ckgwzlwglldo#1",
         "https://www.bbc.co.uk/news/articles/cx2z5y37p90o#1",
@@ -199,9 +201,7 @@
         "https://www.bbc.co.uk/news/articles/cgjq1q3nd52o#1",
         "https://www.bbc.co.uk/news/articles/cj06762qegmo#1",
         "https://www.bbc.co.uk/news/articles/clyjqvjzlwno#1",
-        "https://www.bbc.co.uk/news/articles/cj06762qegmo#0",
-        "https://www.bbc.co.uk/news/articles/cvgyq4j0q4qo#1",
-        "https://www.bbc.co.uk/news/articles/c23x72yx2rvo#0"
+        "https://www.bbc.co.uk/news/articles/cj06762qegmo#0"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20260914de50147",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260911de49614"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/earphones-for-sleeping-matome/",
         "https://www.gizmodo.jp/article/2609-canadian-house-flipping-us-real-estate-regrets/",
         "https://www.gizmodo.jp/article/2609-pioneer-switch-gaming-speaker-tq-pg400/",
         "https://www.gizmodo.jp/article/apple-watch-ultra-4-vs-apple-watch-ultra-3-tracking-everything-all-the-time/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/foldable-iphones-yay-or-nay/",
         "https://www.gizmodo.jp/article/foldable-phone-editors-survey-2026/",
         "https://www.gizmodo.jp/article/mitsubishi-electric/",
-        "https://www.gizmodo.jp/article/iphone-18-pro-color/",
-        "https://www.gizmodo.jp/article/apple-game-controllers/"
+        "https://www.gizmodo.jp/article/iphone-18-pro-color/"
     ]
 }
