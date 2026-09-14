@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cj06762qegmo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260914de50150",
         "https://news.web.nhk/newsweb/na/nd-20260914de50159",
         "https://news.web.nhk/newsweb/na/nd-20260914de50147",
         "https://news.web.nhk/newsweb/na/nd-20260914de50146",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260911de49643",
         "https://news.web.nhk/newsweb/na/nd-20260911de49635",
         "https://news.web.nhk/newsweb/na/nd-20260911de49636",
-        "https://news.web.nhk/newsweb/na/nd-20260910de49578",
-        "https://news.web.nhk/newsweb/na/nd-20260911de49632"
+        "https://news.web.nhk/newsweb/na/nd-20260910de49578"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/earphones-for-sleeping-matome/",
