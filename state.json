@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c4grdk95vgno#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260915de50223",
         "https://news.web.nhk/newsweb/na/nd-20260915de50224",
         "https://news.web.nhk/newsweb/na/nd-20260915de50222",
         "https://news.web.nhk/newsweb/na/nd-20260914de50212",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260911de49721",
         "https://news.web.nhk/newsweb/na/nd-20260911de49720",
         "https://news.web.nhk/newsweb/na/nd-20260911de49714",
-        "https://news.web.nhk/newsweb/na/nd-20260911de49713",
-        "https://news.web.nhk/newsweb/na/nd-20260911de49706"
+        "https://news.web.nhk/newsweb/na/nd-20260911de49713"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/datacenter-electricity-consume/",
