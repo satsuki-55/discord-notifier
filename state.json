@@ -2,6 +2,10 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "gXKMWmNVwC4",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "7jtLAKs7kbM",
     "rss:bbc": [
+        "https://www.bbc.co.uk/sport/athletics/articles/c9dw905jw5no#0",
+        "https://www.bbc.co.uk/news/articles/cj06762qegmo#0",
+        "https://www.bbc.co.uk/news/articles/cx2zvkglvm8o#1",
+        "https://www.bbc.co.uk/sport/athletics/articles/c9dw905jw5no#1",
         "https://www.bbc.co.uk/news/articles/ce87qzrz7p8o#0",
         "https://www.bbc.co.uk/news/articles/ce8767g4jdpo#1",
         "https://www.bbc.co.uk/news/articles/c0m3neyyzm7o#0",
@@ -197,13 +201,10 @@
         "https://www.bbc.co.uk/news/articles/cqjkejq5750o#1",
         "https://www.bbc.co.uk/news/articles/c1j4ngr05l8o#0",
         "https://www.bbc.co.uk/news/articles/clymlyg7y44o#1",
-        "https://www.bbc.co.uk/news/articles/c17j94ew1lno#1",
-        "https://www.bbc.co.uk/news/articles/cgjq1q3nd52o#1",
-        "https://www.bbc.co.uk/news/articles/cj06762qegmo#1",
-        "https://www.bbc.co.uk/news/articles/clyjqvjzlwno#1",
-        "https://www.bbc.co.uk/news/articles/cj06762qegmo#0"
+        "https://www.bbc.co.uk/news/articles/c17j94ew1lno#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260910de49608",
         "https://news.web.nhk/newsweb/na/nd-20260914de50174",
         "https://news.web.nhk/newsweb/na/nd-20260914de50152",
         "https://news.web.nhk/newsweb/na/nd-20260914de50164",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260911de49652",
         "https://news.web.nhk/newsweb/na/nd-20260911de49664",
         "https://news.web.nhk/newsweb/na/nd-20260911de49656",
-        "https://news.web.nhk/newsweb/na/nd-20260911de49658",
-        "https://news.web.nhk/newsweb/na/nd-20260911de49659"
+        "https://news.web.nhk/newsweb/na/nd-20260911de49658"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/nike-acg-picklejuice/",
