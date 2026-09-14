@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/c3v4zgzr1kxo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260914de50189",
+        "https://news.web.nhk/newsweb/na/nd-20260914de50173",
         "https://news.web.nhk/newsweb/na/nd-20260914de50180",
         "https://news.web.nhk/newsweb/na/nd-20260914de50175",
         "https://news.web.nhk/newsweb/na/nd-20260911de49656",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260911de49688",
         "https://news.web.nhk/newsweb/na/nd-20260911de49682",
         "https://news.web.nhk/newsweb/na/nd-20260911de49684",
-        "https://news.web.nhk/newsweb/na/nd-20260911de49687",
-        "https://news.web.nhk/newsweb/na/nd-20260911de49681",
-        "https://news.web.nhk/newsweb/na/nd-20260911de49671"
+        "https://news.web.nhk/newsweb/na/nd-20260911de49687"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2609-rtx-5090-96gb-modded-gpu-600k-yen/",
