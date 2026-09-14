@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cgjq1qy98vjo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260914de50030",
         "https://news.web.nhk/newsweb/na/nd-20260914de50027",
         "https://news.web.nhk/newsweb/na/nd-20260914de50023",
         "https://news.web.nhk/newsweb/na/nd-20260914de50019",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260910de49601",
         "https://news.web.nhk/newsweb/na/nd-20260910de49602",
         "https://news.web.nhk/newsweb/na/nd-20260910de49599",
-        "https://news.web.nhk/newsweb/na/nd-20260910de49595",
-        "https://news.web.nhk/newsweb/na/nd-20260910de49597"
+        "https://news.web.nhk/newsweb/na/nd-20260910de49595"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/cd-sales-increase-streaming-era/",
