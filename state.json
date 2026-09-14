@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cjrx5xlz83jo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260914de50027",
         "https://news.web.nhk/newsweb/na/nd-20260914de50023",
         "https://news.web.nhk/newsweb/na/nd-20260914de50019",
         "https://news.web.nhk/newsweb/na/nd-20260914de50016",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260910de49602",
         "https://news.web.nhk/newsweb/na/nd-20260910de49599",
         "https://news.web.nhk/newsweb/na/nd-20260910de49595",
-        "https://news.web.nhk/newsweb/na/nd-20260910de49597",
-        "https://news.web.nhk/newsweb/na/nd-20260910de49594"
+        "https://news.web.nhk/newsweb/na/nd-20260910de49597"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/best-gaming-budget-work-laptop-macbook-razer-dell-hp/",
