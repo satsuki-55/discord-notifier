@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/cy0zvx15rywo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260914de50153",
+        "https://news.web.nhk/newsweb/na/nd-20260914de50194",
         "https://news.web.nhk/newsweb/na/nd-20260914de50195",
         "https://news.web.nhk/newsweb/na/nd-20260914de50190",
         "https://news.web.nhk/newsweb/na/nd-20260914de50189",
@@ -401,11 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260911de49691",
         "https://news.web.nhk/newsweb/na/nd-20260911de49692",
         "https://news.web.nhk/newsweb/na/nd-20260911de49686",
-        "https://news.web.nhk/newsweb/na/nd-20260911de49690",
-        "https://news.web.nhk/newsweb/na/nd-20260911de49688",
-        "https://news.web.nhk/newsweb/na/nd-20260911de49682"
+        "https://news.web.nhk/newsweb/na/nd-20260911de49690"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2609-zozotown-hhkb-collab-fashion/",
         "https://www.gizmodo.jp/article/2609-iphone-duo-folio-case-missing-feature/",
         "https://www.gizmodo.jp/article/seiko-bousai-clock/",
         "https://www.gizmodo.jp/article/2609-rtx-5090-96gb-modded-gpu-600k-yen/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/many-car-names-have-roots-in-off-color-humor/",
         "https://www.gizmodo.jp/article/pgytechou_mini-tech-organizer/",
         "https://www.gizmodo.jp/article/cargocontainer-fan/",
-        "https://www.gizmodo.jp/article/djis-new-360-camera-fixes-everything-wrong-with-the-first-one/",
-        "https://www.gizmodo.jp/article/fold-smartphone-samsung-apple/"
+        "https://www.gizmodo.jp/article/djis-new-360-camera-fixes-everything-wrong-with-the-first-one/"
     ]
 }
