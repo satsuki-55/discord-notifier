@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c8r6y4me2g6o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260914de50180",
         "https://news.web.nhk/newsweb/na/nd-20260914de50175",
         "https://news.web.nhk/newsweb/na/nd-20260911de49656",
         "https://news.web.nhk/newsweb/na/nd-20260914de50182",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260911de49684",
         "https://news.web.nhk/newsweb/na/nd-20260911de49687",
         "https://news.web.nhk/newsweb/na/nd-20260911de49681",
-        "https://news.web.nhk/newsweb/na/nd-20260911de49671",
-        "https://news.web.nhk/newsweb/na/nd-20260911de49662"
+        "https://news.web.nhk/newsweb/na/nd-20260911de49671"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2609-rtx-5090-96gb-modded-gpu-600k-yen/",
         "https://www.gizmodo.jp/article/2609-galaxy-z-fold8-tim-cook-ad/",
         "https://www.gizmodo.jp/article/daiso-disaster-prevention-goods-10/",
         "https://www.gizmodo.jp/article/nike-acg-picklejuice/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/djis-new-360-camera-fixes-everything-wrong-with-the-first-one/",
         "https://www.gizmodo.jp/article/fold-smartphone-samsung-apple/",
         "https://www.gizmodo.jp/article/iphone-18-18pro-rumors-summary/",
-        "https://www.gizmodo.jp/article/kaizirushi-nadesori/",
-        "https://www.gizmodo.jp/article/foldable-iphones-yay-or-nay/"
+        "https://www.gizmodo.jp/article/kaizirushi-nadesori/"
     ]
 }
