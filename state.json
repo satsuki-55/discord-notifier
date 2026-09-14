@@ -2,6 +2,8 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "gXKMWmNVwC4",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "567S2nBx4fg",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cmy5zggx3l2vo#1",
+        "https://www.bbc.co.uk/news/articles/cmpwlkk9dgr7o#1",
         "https://www.bbc.co.uk/news/articles/cy0zq2n9gggo#0",
         "https://www.bbc.co.uk/news/articles/c68xkddgnd47o#1",
         "https://www.bbc.co.uk/news/articles/cqpved1p2j4zo#1",
@@ -199,11 +201,10 @@
         "https://www.bbc.co.uk/news/articles/cwyz59yyqk4o#1",
         "https://www.bbc.co.uk/news/articles/c62m933465eo#0",
         "https://www.bbc.co.uk/news/articles/c62m933465eo#1",
-        "https://www.bbc.co.uk/news/articles/cwyz755yeg9o#0",
-        "https://www.bbc.co.uk/news/articles/c5yjkxlngjyo#1",
-        "https://www.bbc.co.uk/news/articles/cy0zvx15rywo#1"
+        "https://www.bbc.co.uk/news/articles/cwyz755yeg9o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260914de50197",
         "https://news.web.nhk/newsweb/na/nd-20260914de50198",
         "https://news.web.nhk/newsweb/na/nd-20260914de50153",
         "https://news.web.nhk/newsweb/na/nd-20260914de50194",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260911de49696",
         "https://news.web.nhk/newsweb/na/nd-20260911de49693",
         "https://news.web.nhk/newsweb/na/nd-20260911de49691",
-        "https://news.web.nhk/newsweb/na/nd-20260911de49692",
-        "https://news.web.nhk/newsweb/na/nd-20260911de49686"
+        "https://news.web.nhk/newsweb/na/nd-20260911de49692"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2609-zozotown-hhkb-collab-fashion/",
