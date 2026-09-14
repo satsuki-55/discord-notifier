@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c33kp533nn6o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260915de50230",
         "https://news.web.nhk/newsweb/na/nd-20260911de49721",
         "https://news.web.nhk/newsweb/na/nd-20260914de50179",
         "https://news.web.nhk/newsweb/na/nd-20260914de50205",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260911de49767",
         "https://news.web.nhk/newsweb/na/nd-20260911de49774",
         "https://news.web.nhk/newsweb/na/nd-20260911de49758",
-        "https://news.web.nhk/newsweb/na/nd-20260911de49739",
-        "https://news.web.nhk/newsweb/na/nd-20260911de49742"
+        "https://news.web.nhk/newsweb/na/nd-20260911de49739"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2609-toyota-gr-kart/",
