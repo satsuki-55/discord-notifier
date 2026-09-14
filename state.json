@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cqlw0ke2v97o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260914de50190",
         "https://news.web.nhk/newsweb/na/nd-20260914de50189",
         "https://news.web.nhk/newsweb/na/nd-20260914de50173",
         "https://news.web.nhk/newsweb/na/nd-20260914de50180",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260911de49690",
         "https://news.web.nhk/newsweb/na/nd-20260911de49688",
         "https://news.web.nhk/newsweb/na/nd-20260911de49682",
-        "https://news.web.nhk/newsweb/na/nd-20260911de49684",
-        "https://news.web.nhk/newsweb/na/nd-20260911de49687"
+        "https://news.web.nhk/newsweb/na/nd-20260911de49684"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/seiko-bousai-clock/",
