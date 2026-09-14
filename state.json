@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "gXKMWmNVwC4",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "567S2nBx4fg",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c98r632g6p76o#0",
         "https://www.bbc.co.uk/news/articles/c6n9w87ejqn2o#0",
         "https://www.bbc.co.uk/news/articles/cvgynz9qz00o#0",
         "https://www.bbc.co.uk/news/articles/c65ym93p73xmo#0",
@@ -200,10 +201,10 @@
         "https://www.bbc.co.uk/news/articles/c89jdl0j5x4o#1",
         "https://www.bbc.co.uk/news/articles/cwyz755yeg9o#1",
         "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o#1",
-        "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o#0",
-        "https://www.bbc.co.uk/news/articles/c33kp533nn6o#1"
+        "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260915de50231",
         "https://news.web.nhk/newsweb/na/nd-20260915de50230",
         "https://news.web.nhk/newsweb/na/nd-20260911de49721",
         "https://news.web.nhk/newsweb/na/nd-20260914de50179",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260911de49737",
         "https://news.web.nhk/newsweb/na/nd-20260911de49767",
         "https://news.web.nhk/newsweb/na/nd-20260911de49774",
-        "https://news.web.nhk/newsweb/na/nd-20260911de49758",
-        "https://news.web.nhk/newsweb/na/nd-20260911de49739"
+        "https://news.web.nhk/newsweb/na/nd-20260911de49758"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2609-toyota-gr-kart/",
