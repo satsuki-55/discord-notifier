@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "gXKMWmNVwC4",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "7jtLAKs7kbM",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cx2zg554w9ko#0",
         "https://www.bbc.co.uk/news/videos/cx2z5gjj838o#1",
         "https://www.bbc.co.uk/weather/articles/cx2zyjw825go#1",
         "https://www.bbc.co.uk/news/articles/clyqx0e175ko#1",
@@ -200,8 +201,7 @@
         "https://www.bbc.co.uk/news/videos/cy5z02w1zxxo#0",
         "https://www.bbc.co.uk/news/articles/cy8zrz42yxko#1",
         "https://www.bbc.co.uk/news/articles/c17j91jenr8o#1",
-        "https://www.bbc.co.uk/news/articles/cgjq1qy98vjo#1",
-        "https://www.bbc.co.uk/news/articles/cq8je91vvzjo#1"
+        "https://www.bbc.co.uk/news/articles/cgjq1qy98vjo#1"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20260914de50027",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260910de49597"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/cd-sales-increase-streaming-era/",
         "https://www.gizmodo.jp/article/best-gaming-budget-work-laptop-macbook-razer-dell-hp/",
         "https://www.gizmodo.jp/article/orca-echo-trackball/",
         "https://www.gizmodo.jp/article/2609-arduview-transparent-retro-handheld/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/iphone-duo-name/",
         "https://www.gizmodo.jp/article/homey-portal/",
         "https://www.gizmodo.jp/article/playstation-lego/",
-        "https://www.gizmodo.jp/article/xiaomi-18-fold/",
-        "https://www.gizmodo.jp/article/huaweis-watch-d3-doubles-as-an-inflatable-blood-pressure-cuff/"
+        "https://www.gizmodo.jp/article/xiaomi-18-fold/"
     ]
 }
