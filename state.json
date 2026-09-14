@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/cj06762qegmo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260914de50075",
+        "https://news.web.nhk/newsweb/na/nd-20260914de50073",
         "https://news.web.nhk/newsweb/na/nd-20260914de50167",
         "https://news.web.nhk/newsweb/na/nd-20260914de50157",
         "https://news.web.nhk/newsweb/na/nd-20260914de50163",
@@ -401,11 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260911de49659",
         "https://news.web.nhk/newsweb/na/nd-20260911de49653",
         "https://news.web.nhk/newsweb/na/nd-20260911de49647",
-        "https://news.web.nhk/newsweb/na/nd-20260911de49645",
-        "https://news.web.nhk/newsweb/na/nd-20260911de49642",
-        "https://news.web.nhk/newsweb/na/nd-20260911de49643"
+        "https://news.web.nhk/newsweb/na/nd-20260911de49645"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/nike-acg-picklejuice/",
         "https://www.gizmodo.jp/article/earphones-for-sleeping-matome/",
         "https://www.gizmodo.jp/article/2609-canadian-house-flipping-us-real-estate-regrets/",
         "https://www.gizmodo.jp/article/2609-pioneer-switch-gaming-speaker-tq-pg400/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/kaizirushi-nadesori/",
         "https://www.gizmodo.jp/article/foldable-iphones-yay-or-nay/",
         "https://www.gizmodo.jp/article/foldable-phone-editors-survey-2026/",
-        "https://www.gizmodo.jp/article/mitsubishi-electric/",
-        "https://www.gizmodo.jp/article/iphone-18-pro-color/"
+        "https://www.gizmodo.jp/article/mitsubishi-electric/"
     ]
 }
