@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cy8zrz42yxko#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260914de50066",
         "https://news.web.nhk/newsweb/na/nd-20260914de50046",
         "https://news.web.nhk/newsweb/na/nd-20260914de50018",
         "https://news.web.nhk/newsweb/na/nd-20260914de50035",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260910de49611",
         "https://news.web.nhk/newsweb/na/nd-20260910de49568",
         "https://news.web.nhk/newsweb/na/nd-20260910de49566",
-        "https://news.web.nhk/newsweb/na/nd-20260910de49567",
-        "https://news.web.nhk/newsweb/na/nd-20260910de49601"
+        "https://news.web.nhk/newsweb/na/nd-20260910de49567"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/apple-watch-series-12-vs-apple-watch-series-11-colors-sensors-and-ai/",
