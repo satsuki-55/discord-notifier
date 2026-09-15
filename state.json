@@ -204,6 +204,9 @@
         "https://www.bbc.co.uk/news/articles/cq635037g18o#2"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260915de50283",
+        "https://news.web.nhk/newsweb/na/nd-20260911de49777",
+        "https://news.web.nhk/newsweb/na/nd-20260915de50269",
         "https://news.web.nhk/newsweb/na/nd-20260915de50273",
         "https://news.web.nhk/newsweb/na/nd-20260915de50247",
         "https://news.web.nhk/newsweb/na/nd-20260915de50245",
@@ -400,10 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260911de49757",
         "https://news.web.nhk/newsweb/na/nd-20260911de49792",
         "https://news.web.nhk/newsweb/na/nd-20260911de49763",
-        "https://news.web.nhk/newsweb/na/nd-20260911de49771",
-        "https://news.web.nhk/newsweb/na/nd-20260909de49205",
-        "https://news.web.nhk/newsweb/na/nd-20260911de49752",
-        "https://news.web.nhk/newsweb/na/nd-20260911de49777"
+        "https://news.web.nhk/newsweb/na/nd-20260911de49771"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/data-centers-create-heat-islands-stretching-6-miles-study-finds-mbj/",
