@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "gXKMWmNVwC4",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "eqce3NObWkg",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cm3eqdv90977o#0",
         "https://www.bbc.co.uk/sport/athletics/articles/cr780v5361j0o#0",
         "https://www.bbc.co.uk/news/articles/c3v4z2vwrkpo#1",
         "https://www.bbc.co.uk/news/articles/cj5yd5446v6lo#1",
@@ -200,10 +201,10 @@
         "https://www.bbc.co.uk/news/articles/c0klnl3l6vro#0",
         "https://www.bbc.co.uk/news/videos/cpq01p1wn78o#1",
         "https://www.bbc.co.uk/news/articles/c7v48vp31mdo#1",
-        "https://www.bbc.co.uk/news/articles/c7v48vp31mdo#0",
-        "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo#0"
+        "https://www.bbc.co.uk/news/articles/c7v48vp31mdo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260916de50456",
         "https://news.web.nhk/newsweb/na/nd-20260916de50470",
         "https://news.web.nhk/newsweb/na/nd-20260916de50463",
         "https://news.web.nhk/newsweb/na/nd-20260916de50459",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260912de49919",
         "https://news.web.nhk/newsweb/na/nd-20260912de49908",
         "https://news.web.nhk/newsweb/na/nd-20260913de49937",
-        "https://news.web.nhk/newsweb/na/nd-20260913de49936",
-        "https://news.web.nhk/newsweb/na/nd-20260912de49910"
+        "https://news.web.nhk/newsweb/na/nd-20260913de49936"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/mobile_batterys_refrigerator/",
