@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/c5y6z72z9lno#2"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260911de49783",
+        "https://news.web.nhk/newsweb/na/nd-20260915de50323",
         "https://news.web.nhk/newsweb/na/nd-20260915de50315",
         "https://news.web.nhk/newsweb/na/nd-20260915de50310",
         "https://news.web.nhk/newsweb/na/nd-20260911de49805",
@@ -401,11 +403,11 @@
         "https://news.web.nhk/newsweb/na/nd-20260912de49832",
         "https://news.web.nhk/newsweb/na/nd-20260911de49806",
         "https://news.web.nhk/newsweb/na/nd-20260911de49815",
-        "https://news.web.nhk/newsweb/na/nd-20260911de49816",
-        "https://news.web.nhk/newsweb/na/nd-20260911de49820",
-        "https://news.web.nhk/newsweb/na/nd-20260911de49783"
+        "https://news.web.nhk/newsweb/na/nd-20260911de49816"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2609-anker-power-conference-2026-new-products/",
+        "https://www.gizmodo.jp/article/2609-ios-27-update-guide/",
         "https://www.gizmodo.jp/article/ios27-movie-subtitle/",
         "https://www.gizmodo.jp/article/ios-27-beta-siri-ai-first-impression/",
         "https://www.gizmodo.jp/article/ios-27-beta-photo-ai-edit/",
@@ -603,8 +605,6 @@
         "https://www.gizmodo.jp/article/packard-bell-pc/",
         "https://www.gizmodo.jp/article/his-new-irobot-concept-is-the-matryoshka-of-robot-vacuums/",
         "https://www.gizmodo.jp/article/vibram_japan/",
-        "https://www.gizmodo.jp/article/moto-watch-ultra-is-a-standard-wear-os-smartwatch-for-good-and-for-bad/",
-        "https://www.gizmodo.jp/article/amazon-buffalo-usb-c-to-c-cable/",
-        "https://www.gizmodo.jp/article/amazon-sale-mobile-battery-recommend-kvh/"
+        "https://www.gizmodo.jp/article/moto-watch-ultra-is-a-standard-wear-os-smartwatch-for-good-and-for-bad/"
     ]
 }
