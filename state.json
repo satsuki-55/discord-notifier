@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c3eqpd9zgl9o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260915de50353",
         "https://news.web.nhk/newsweb/na/nd-20260915de50301",
         "https://news.web.nhk/newsweb/na/nd-20260915de50376",
         "https://news.web.nhk/newsweb/na/nd-20260915de50382",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260912de49869",
         "https://news.web.nhk/newsweb/na/nd-20260912de49864",
         "https://news.web.nhk/newsweb/na/nd-20260912de49868",
-        "https://news.web.nhk/newsweb/na/nd-20260912de49866",
-        "https://news.web.nhk/newsweb/na/nd-20260912de49865"
+        "https://news.web.nhk/newsweb/na/nd-20260912de49866"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2609-anthropic-ceo-ai-development-slowdown/",
         "https://www.gizmodo.jp/article/2609-iphone-duo-reasons-to-buy/",
         "https://www.gizmodo.jp/article/2609-cloud-storage-blu-ray-recorder/",
         "https://www.gizmodo.jp/article/2609-macbook-neo-amazon-discount/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/2609-iphone-17-pro-max-1-year-review/",
         "https://www.gizmodo.jp/article/i-test-rode-the-volkswagen-licensed-worlds-safest-e-bike-in-berlin/",
         "https://www.gizmodo.jp/article/2609-tesla-cybercab-manual/",
-        "https://www.gizmodo.jp/article/creer_sensor-light/",
-        "https://www.gizmodo.jp/article/razer-clio-x/"
+        "https://www.gizmodo.jp/article/creer_sensor-light/"
     ]
 }
