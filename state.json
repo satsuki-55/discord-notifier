@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/videos/cpq01p1wn78o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260915de50430",
         "https://news.web.nhk/newsweb/na/nd-20260916de50471",
         "https://news.web.nhk/newsweb/na/nd-20260914de50181",
         "https://news.web.nhk/newsweb/na/nd-20260916de50464",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260913de49951",
         "https://news.web.nhk/newsweb/na/nd-20260913de49949",
         "https://news.web.nhk/newsweb/na/nd-20260828de46990",
-        "https://news.web.nhk/newsweb/na/nd-20260912de49886",
-        "https://news.web.nhk/newsweb/na/nd-20260913de49934"
+        "https://news.web.nhk/newsweb/na/nd-20260912de49886"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/mobile_batterys_refrigerator/",
