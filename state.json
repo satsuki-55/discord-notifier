@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "gXKMWmNVwC4",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "567S2nBx4fg",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cmqjkg121kr9o#1",
         "https://www.bbc.co.uk/news/articles/c2l8v7l0djqo#0",
         "https://www.bbc.co.uk/news/articles/c6n9w87ejqn2o#1",
         "https://www.bbc.co.uk/news/articles/c2l8v7l0djqo#1",
@@ -200,10 +201,10 @@
         "https://www.bbc.co.uk/news/articles/c3eqpd9zgl9o#1",
         "https://www.bbc.co.uk/news/articles/c1kx0gyje9wo#1",
         "https://www.bbc.co.uk/news/articles/c1kx0gyje9wo#0",
-        "https://www.bbc.co.uk/news/articles/cj3dzy3n84no#2",
-        "https://www.bbc.co.uk/news/articles/cj06jgl9qzlo#2"
+        "https://www.bbc.co.uk/news/articles/cj3dzy3n84no#2"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260915de50348",
         "https://news.web.nhk/newsweb/na/nd-20260915de50355",
         "https://news.web.nhk/newsweb/na/nd-20260915de50339",
         "https://news.web.nhk/newsweb/na/nd-20260915de50325",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260909de49312",
         "https://news.web.nhk/newsweb/na/nd-20260911de49824",
         "https://news.web.nhk/newsweb/na/nd-20260911de49822",
-        "https://news.web.nhk/newsweb/na/nd-20260912de49833",
-        "https://news.web.nhk/newsweb/na/nd-20260912de49835"
+        "https://news.web.nhk/newsweb/na/nd-20260912de49833"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2609-macbook-neo-amazon-discount/",
