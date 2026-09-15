@@ -204,6 +204,10 @@
         "https://www.bbc.co.uk/news/articles/c3eqpd9zgl9o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260915de50376",
+        "https://news.web.nhk/newsweb/na/nd-20260915de50382",
+        "https://news.web.nhk/newsweb/na/nd-20260915de50381",
+        "https://news.web.nhk/newsweb/na/nd-20260915de50341",
         "https://news.web.nhk/newsweb/na/nd-20260911de49798",
         "https://news.web.nhk/newsweb/na/nd-20260915de50371",
         "https://news.web.nhk/newsweb/na/nd-20260915de50379",
@@ -399,13 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260912de49868",
         "https://news.web.nhk/newsweb/na/nd-20260912de49866",
         "https://news.web.nhk/newsweb/na/nd-20260912de49865",
-        "https://news.web.nhk/newsweb/na/nd-20260912de49854",
-        "https://news.web.nhk/newsweb/na/nd-20260909de49342",
-        "https://news.web.nhk/newsweb/na/nd-20260912de49856",
-        "https://news.web.nhk/newsweb/na/nd-20260911de49830",
-        "https://news.web.nhk/newsweb/na/nd-20260828de46989"
+        "https://news.web.nhk/newsweb/na/nd-20260912de49854"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2609-iphone-duo-reasons-to-buy/",
         "https://www.gizmodo.jp/article/2609-cloud-storage-blu-ray-recorder/",
         "https://www.gizmodo.jp/article/2609-macbook-neo-amazon-discount/",
         "https://www.gizmodo.jp/article/2609-ios27-hidden-dogcow-clarus/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/i-test-rode-the-volkswagen-licensed-worlds-safest-e-bike-in-berlin/",
         "https://www.gizmodo.jp/article/2609-tesla-cybercab-manual/",
         "https://www.gizmodo.jp/article/creer_sensor-light/",
-        "https://www.gizmodo.jp/article/razer-clio-x/",
-        "https://www.gizmodo.jp/article/packard-bell-pc/"
+        "https://www.gizmodo.jp/article/razer-clio-x/"
     ]
 }
