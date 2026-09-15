@@ -2,6 +2,8 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "gXKMWmNVwC4",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "567S2nBx4fg",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/ckgwe8dk6z6o#0",
+        "https://www.bbc.co.uk/news/videos/c6j9xym8zjy3o#1",
         "https://www.bbc.co.uk/news/articles/ck20989806e9o#1",
         "https://www.bbc.co.uk/news/articles/cn8me133119o#1",
         "https://www.bbc.co.uk/news/articles/c33kmred368o#1",
@@ -199,11 +201,10 @@
         "https://www.bbc.co.uk/news/articles/cj06jgl9qzlo#2",
         "https://www.bbc.co.uk/news/articles/cvgy4w3mnpvo#0",
         "https://www.bbc.co.uk/news/articles/c86x4pd720xo#2",
-        "https://www.bbc.co.uk/news/articles/c5y6z72z9lno#2",
-        "https://www.bbc.co.uk/news/articles/ckgwe8dk6z6o#2",
-        "https://www.bbc.co.uk/news/articles/ckgwe8dk6z6o#0"
+        "https://www.bbc.co.uk/news/articles/c5y6z72z9lno#2"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260915de50310",
         "https://news.web.nhk/newsweb/na/nd-20260911de49805",
         "https://news.web.nhk/newsweb/na/nd-20260915de50316",
         "https://news.web.nhk/newsweb/na/nd-20260915de50320",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260911de49816",
         "https://news.web.nhk/newsweb/na/nd-20260911de49820",
         "https://news.web.nhk/newsweb/na/nd-20260911de49783",
-        "https://news.web.nhk/newsweb/na/nd-20260911de49799",
-        "https://news.web.nhk/newsweb/na/nd-20260911de49776"
+        "https://news.web.nhk/newsweb/na/nd-20260911de49799"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/ios27-movie-subtitle/",
