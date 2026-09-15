@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/c1kx0gyje9wo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260915de50319",
+        "https://news.web.nhk/newsweb/na/nd-20260915de50314",
         "https://news.web.nhk/newsweb/na/nd-20260828de46992",
         "https://news.web.nhk/newsweb/na/nd-20260915de50347",
         "https://news.web.nhk/newsweb/na/nd-20260915de50348",
@@ -401,11 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260912de49846",
         "https://news.web.nhk/newsweb/na/nd-20260911de49803",
         "https://news.web.nhk/newsweb/na/nd-20260912de49842",
-        "https://news.web.nhk/newsweb/na/nd-20260912de49837",
-        "https://news.web.nhk/newsweb/na/nd-20260909de49312",
-        "https://news.web.nhk/newsweb/na/nd-20260911de49824"
+        "https://news.web.nhk/newsweb/na/nd-20260912de49837"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2609-cloud-storage-blu-ray-recorder/",
         "https://www.gizmodo.jp/article/2609-macbook-neo-amazon-discount/",
         "https://www.gizmodo.jp/article/2609-ios27-hidden-dogcow-clarus/",
         "https://www.gizmodo.jp/article/2609-anker-power-conference-2026-new-products/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/2609-tesla-cybercab-manual/",
         "https://www.gizmodo.jp/article/creer_sensor-light/",
         "https://www.gizmodo.jp/article/razer-clio-x/",
-        "https://www.gizmodo.jp/article/packard-bell-pc/",
-        "https://www.gizmodo.jp/article/his-new-irobot-concept-is-the-matryoshka-of-robot-vacuums/"
+        "https://www.gizmodo.jp/article/packard-bell-pc/"
     ]
 }
