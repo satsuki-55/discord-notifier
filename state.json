@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c780zvq7xlvo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260915de50299",
         "https://news.web.nhk/newsweb/na/nd-20260915de50271",
         "https://news.web.nhk/newsweb/na/nd-20260915de50272",
         "https://news.web.nhk/newsweb/na/nd-20260915de50305",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260911de49776",
         "https://news.web.nhk/newsweb/na/nd-20260911de49814",
         "https://news.web.nhk/newsweb/na/nd-20260911de49805",
-        "https://news.web.nhk/newsweb/na/nd-20260911de49756",
-        "https://news.web.nhk/newsweb/na/nd-20260911de49775"
+        "https://news.web.nhk/newsweb/na/nd-20260911de49756"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/ios27-movie-subtitle/",
