@@ -2,6 +2,8 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "gXKMWmNVwC4",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "567S2nBx4fg",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cw980n0nd0qjo#0",
+        "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o#1",
         "https://www.bbc.co.uk/news/articles/c5yjpdy4gjlo#1",
         "https://www.bbc.co.uk/news/articles/cqe8x6gkk250o#1",
         "https://www.bbc.co.uk/news/articles/c9vgy8d8256go#1",
@@ -199,11 +201,10 @@
         "https://www.bbc.co.uk/sport/tennis/articles/clym434j01xo#1",
         "https://www.bbc.co.uk/news/articles/c2e0jg10dkdo#1",
         "https://www.bbc.co.uk/news/articles/c780zvq7xlvo#0",
-        "https://www.bbc.co.uk/news/articles/c780zvq7xlvo#1",
-        "https://www.bbc.co.uk/news/articles/cwyzppd1d5lo#0",
-        "https://www.bbc.co.uk/news/articles/cwyzppd1d5lo#1"
+        "https://www.bbc.co.uk/news/articles/c780zvq7xlvo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260915de50305",
         "https://news.web.nhk/newsweb/na/nd-20260915de50297",
         "https://news.web.nhk/newsweb/na/nd-20260915de50293",
         "https://news.web.nhk/newsweb/na/nd-20260915de50294",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260911de49756",
         "https://news.web.nhk/newsweb/na/nd-20260911de49775",
         "https://news.web.nhk/newsweb/na/nd-20260911de49780",
-        "https://news.web.nhk/newsweb/na/nd-20260911de49796",
-        "https://news.web.nhk/newsweb/na/nd-20260911de49770"
+        "https://news.web.nhk/newsweb/na/nd-20260911de49796"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/ios-27-beta-siri-ai-first-impression/",
