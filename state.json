@@ -2,6 +2,8 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "gXKMWmNVwC4",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "567S2nBx4fg",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c8ly49w9g1edo#0",
+        "https://www.bbc.co.uk/news/articles/cy459y5y9yxo#1",
         "https://www.bbc.co.uk/news/articles/c1kx0gyje9wo#0",
         "https://www.bbc.co.uk/news/videos/cq98692g6xxdo#1",
         "https://www.bbc.co.uk/news/articles/cq9v9j2rxpxxo#0",
@@ -199,11 +201,10 @@
         "https://www.bbc.co.uk/news/articles/cy0zv4j24zgo#2",
         "https://www.bbc.co.uk/news/articles/crr4en2ylz8o#1",
         "https://www.bbc.co.uk/news/articles/cvgykzgljlyo#1",
-        "https://www.bbc.co.uk/news/videos/cpq01p1wn78o#2",
-        "https://www.bbc.co.uk/news/articles/cj06jgl9qzlo#0",
-        "https://www.bbc.co.uk/news/articles/c3eqpd9zgl9o#1"
+        "https://www.bbc.co.uk/news/videos/cpq01p1wn78o#2"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260915de50403",
         "https://news.web.nhk/newsweb/na/nd-20260915de50390",
         "https://news.web.nhk/newsweb/na/nd-20260915de50391",
         "https://news.web.nhk/newsweb/na/nd-20260915de50388",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260909de49350",
         "https://news.web.nhk/newsweb/na/nd-20260912de49882",
         "https://news.web.nhk/newsweb/na/nd-20260912de49880",
-        "https://news.web.nhk/newsweb/na/nd-20260912de49871",
-        "https://news.web.nhk/newsweb/na/nd-20260912de49870"
+        "https://news.web.nhk/newsweb/na/nd-20260912de49871"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/k-and-f_concept_screnncleaner_review/",
