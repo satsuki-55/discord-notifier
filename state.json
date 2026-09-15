@@ -1,6 +1,6 @@
 {
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "gXKMWmNVwC4",
-    "youtube:UCjJmYy279ehSYSwR1A3fXtA": "567S2nBx4fg",
+    "youtube:UCjJmYy279ehSYSwR1A3fXtA": "eqce3NObWkg",
     "rss:bbc": [
         "https://www.bbc.co.uk/news/videos/cred7xze25ndo#0",
         "https://www.bbc.co.uk/news/articles/cm4gl6j53w19o#1",
@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/c86x4pd720xo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260915de50419",
+        "https://news.web.nhk/newsweb/na/nd-20260915de50417",
         "https://news.web.nhk/newsweb/na/nd-20260915de50413",
         "https://news.web.nhk/newsweb/na/nd-20260915de50414",
         "https://news.web.nhk/newsweb/na/nd-20260915de50416",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260912de49900",
         "https://news.web.nhk/newsweb/na/nd-20260912de49898",
         "https://news.web.nhk/newsweb/na/nd-20260912de49892",
-        "https://news.web.nhk/newsweb/na/nd-20260912de49897",
-        "https://news.web.nhk/newsweb/na/nd-20260912de49891",
-        "https://news.web.nhk/newsweb/na/nd-20260909de49396"
+        "https://news.web.nhk/newsweb/na/nd-20260912de49897"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/potential-price-increase-for-the-samsung-galaxy-s26/",
