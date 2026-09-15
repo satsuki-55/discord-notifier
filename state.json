@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cvgykzgljlyo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260915de50418",
         "https://news.web.nhk/newsweb/na/nd-20260915de50446",
         "https://news.web.nhk/newsweb/na/nd-20260915de50449",
         "https://news.web.nhk/newsweb/na/nd-20260915de50448",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260913de49927",
         "https://news.web.nhk/newsweb/na/nd-20260912de49920",
         "https://news.web.nhk/newsweb/na/nd-20260912de49921",
-        "https://news.web.nhk/newsweb/na/nd-20260911de49812",
-        "https://news.web.nhk/newsweb/na/nd-20260912de49912"
+        "https://news.web.nhk/newsweb/na/nd-20260911de49812"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/daiso_bottle_one-push_review/",
