@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/crr4en2ylz8o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260915de50416",
         "https://news.web.nhk/newsweb/na/nd-20260915de50409",
         "https://news.web.nhk/newsweb/na/nd-20260915de50332",
         "https://news.web.nhk/newsweb/na/nd-20260915de50411",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260912de49891",
         "https://news.web.nhk/newsweb/na/nd-20260909de49396",
         "https://news.web.nhk/newsweb/na/nd-20260912de49890",
-        "https://news.web.nhk/newsweb/na/nd-20260912de49884",
-        "https://news.web.nhk/newsweb/na/nd-20260912de49878"
+        "https://news.web.nhk/newsweb/na/nd-20260912de49884"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/potential-price-increase-for-the-samsung-galaxy-s26/",
