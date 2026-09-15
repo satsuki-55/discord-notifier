@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c3eqpd9zgl9o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260915de50391",
         "https://news.web.nhk/newsweb/na/nd-20260915de50388",
         "https://news.web.nhk/newsweb/na/nd-20260915de50370",
         "https://news.web.nhk/newsweb/na/nd-20260915de50353",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260912de49880",
         "https://news.web.nhk/newsweb/na/nd-20260912de49871",
         "https://news.web.nhk/newsweb/na/nd-20260912de49870",
-        "https://news.web.nhk/newsweb/na/nd-20260912de49869",
-        "https://news.web.nhk/newsweb/na/nd-20260912de49864"
+        "https://news.web.nhk/newsweb/na/nd-20260912de49869"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2609-anthropic-ceo-ai-development-slowdown/",
