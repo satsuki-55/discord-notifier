@@ -2,6 +2,8 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "gXKMWmNVwC4",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "567S2nBx4fg",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/ck20989806e9o#1",
+        "https://www.bbc.co.uk/news/articles/cn8me133119o#1",
         "https://www.bbc.co.uk/news/articles/c33kmred368o#1",
         "https://www.bbc.co.uk/news/articles/c780zvq7xlvo#1",
         "https://www.bbc.co.uk/news/articles/cw980n0nd0qjo#1",
@@ -199,11 +201,11 @@
         "https://www.bbc.co.uk/news/articles/c86x4pd720xo#2",
         "https://www.bbc.co.uk/news/articles/c5y6z72z9lno#2",
         "https://www.bbc.co.uk/news/articles/ckgwe8dk6z6o#2",
-        "https://www.bbc.co.uk/news/articles/ckgwe8dk6z6o#0",
-        "https://www.bbc.co.uk/news/articles/cr4vq7rw27qo#1",
-        "https://www.bbc.co.uk/sport/tennis/articles/clym434j01xo#1"
+        "https://www.bbc.co.uk/news/articles/ckgwe8dk6z6o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260911de49805",
+        "https://news.web.nhk/newsweb/na/nd-20260915de50316",
         "https://news.web.nhk/newsweb/na/nd-20260915de50320",
         "https://news.web.nhk/newsweb/na/nd-20260915de50299",
         "https://news.web.nhk/newsweb/na/nd-20260915de50271",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260911de49820",
         "https://news.web.nhk/newsweb/na/nd-20260911de49783",
         "https://news.web.nhk/newsweb/na/nd-20260911de49799",
-        "https://news.web.nhk/newsweb/na/nd-20260911de49776",
-        "https://news.web.nhk/newsweb/na/nd-20260911de49814",
-        "https://news.web.nhk/newsweb/na/nd-20260911de49805"
+        "https://news.web.nhk/newsweb/na/nd-20260911de49776"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/ios27-movie-subtitle/",
