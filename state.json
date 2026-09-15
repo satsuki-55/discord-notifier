@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cvgydvrlep1o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260915de50237",
         "https://news.web.nhk/newsweb/na/nd-20260915de50231",
         "https://news.web.nhk/newsweb/na/nd-20260915de50230",
         "https://news.web.nhk/newsweb/na/nd-20260911de49721",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260909de49197",
         "https://news.web.nhk/newsweb/na/nd-20260911de49737",
         "https://news.web.nhk/newsweb/na/nd-20260911de49767",
-        "https://news.web.nhk/newsweb/na/nd-20260911de49774",
-        "https://news.web.nhk/newsweb/na/nd-20260911de49758"
+        "https://news.web.nhk/newsweb/na/nd-20260911de49774"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2609-ios-27-release/",
