@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "gXKMWmNVwC4",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "567S2nBx4fg",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/videos/crlyjxjv69v6o#1",
         "https://www.bbc.co.uk/news/articles/cjw57xyd4q0o#1",
         "https://www.bbc.co.uk/news/articles/ck790xg41ygro#1",
         "https://www.bbc.co.uk/news/videos/cm4gkvk7wzkpo#0",
@@ -200,8 +201,7 @@
         "https://www.bbc.co.uk/news/articles/c3v4nnw9pvyo#0",
         "https://www.bbc.co.uk/news/articles/crm9xk9eg88o#0",
         "https://www.bbc.co.uk/news/videos/cwyz11gk7y7o#1",
-        "https://www.bbc.co.uk/news/articles/cq635037g18o#2",
-        "https://www.bbc.co.uk/news/articles/cd94kj17zvwo#1"
+        "https://www.bbc.co.uk/news/articles/cq635037g18o#2"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20260915de50247",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260909de49197"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/samsung-is-already-working-on-smart-glasses-with-a-built-in-screen/",
         "https://www.gizmodo.jp/article/5-features-you-should-update-ios27/",
         "https://www.gizmodo.jp/article/2609-ios27-iphone-liquid-glass-transparency/",
         "https://www.gizmodo.jp/article/jbl-quantum-120-gaming-headset/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/is-the-foldable-iphones-name-duo/",
         "https://www.gizmodo.jp/article/apple-store-battery-report-7gt/",
         "https://www.gizmodo.jp/article/xsnap-7-pro/",
-        "https://www.gizmodo.jp/article/rayneo-gt-max-59/",
-        "https://www.gizmodo.jp/article/beyerdynamics-new-wireless-headphones-have-ridiculously-beefy-battery-life/"
+        "https://www.gizmodo.jp/article/rayneo-gt-max-59/"
     ]
 }
