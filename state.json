@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c3eqpd9zgl9o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260915de50377",
         "https://news.web.nhk/newsweb/na/nd-20260915de50374",
         "https://news.web.nhk/newsweb/na/nd-20260915de50373",
         "https://news.web.nhk/newsweb/na/nd-20260915de50369",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260912de49848",
         "https://news.web.nhk/newsweb/na/nd-20260912de49845",
         "https://news.web.nhk/newsweb/na/nd-20260912de49849",
-        "https://news.web.nhk/newsweb/na/nd-20260912de49847",
-        "https://news.web.nhk/newsweb/na/nd-20260912de49839"
+        "https://news.web.nhk/newsweb/na/nd-20260912de49847"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2609-cloud-storage-blu-ray-recorder/",
