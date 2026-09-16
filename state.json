@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cx2zg554w9ko#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260828de46993",
         "https://news.web.nhk/newsweb/na/nd-20260916de50594",
         "https://news.web.nhk/newsweb/na/nd-20260916de50590",
         "https://news.web.nhk/newsweb/na/nd-20260916de50572",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260914de50023",
         "https://news.web.nhk/newsweb/na/nd-20260914de50019",
         "https://news.web.nhk/newsweb/na/nd-20260914de50016",
-        "https://news.web.nhk/newsweb/na/nd-20260914de50012",
-        "https://news.web.nhk/newsweb/na/nd-20260914de50002"
+        "https://news.web.nhk/newsweb/na/nd-20260914de50012"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/iris-ohyama-karalie-mini-turbo/",
