@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "l8cXDvm2HeM",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "slO6OwdsCds",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko#1",
         "https://www.bbc.co.uk/news/videos/cwz0zpyzrlr1o#1",
         "https://www.bbc.co.uk/news/articles/cv2dw7lw4rkpo#1",
         "https://www.bbc.co.uk/news/videos/cmvgyp7n98zvo#1",
@@ -200,10 +201,10 @@
         "https://www.bbc.co.uk/sport/athletics/articles/c9dw905jw5no#0",
         "https://www.bbc.co.uk/news/articles/cj06762qegmo#0",
         "https://www.bbc.co.uk/news/articles/cx2zvkglvm8o#1",
-        "https://www.bbc.co.uk/sport/athletics/articles/c9dw905jw5no#1",
-        "https://www.bbc.co.uk/news/articles/ce87qzrz7p8o#0"
+        "https://www.bbc.co.uk/sport/athletics/articles/c9dw905jw5no#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260916de50512",
         "https://news.web.nhk/newsweb/na/nd-20260916de50622",
         "https://news.web.nhk/newsweb/na/nd-20260914de50027",
         "https://news.web.nhk/newsweb/na/nd-20260916de50597",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260914de50056",
         "https://news.web.nhk/newsweb/na/nd-20260914de50072",
         "https://news.web.nhk/newsweb/na/nd-20260914de50066",
-        "https://news.web.nhk/newsweb/na/nd-20260914de50046",
-        "https://news.web.nhk/newsweb/na/nd-20260914de50018"
+        "https://news.web.nhk/newsweb/na/nd-20260914de50046"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/miyagen-runmeshcap/",
