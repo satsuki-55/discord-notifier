@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260913de49986"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2609-compressed-disaster-prevention-goods/",
         "https://www.gizmodo.jp/article/ai-recreated-1963-bundesliga-goal/",
         "https://www.gizmodo.jp/article/nintendo-switch-vulnerability/",
         "https://www.gizmodo.jp/article/2609-dell-xps-13-2026-review/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/2606-lht-liverylife-kf86max-lgq/",
         "https://www.gizmodo.jp/article/2609-openai-hugging-face-ai-incident/",
         "https://www.gizmodo.jp/article/2609-foldable-iphone-name-prediction/",
-        "https://www.gizmodo.jp/article/2609-apple-watch-se-unavailable/",
-        "https://www.gizmodo.jp/article/2609-foldable-iphone-discussion/"
+        "https://www.gizmodo.jp/article/2609-apple-watch-se-unavailable/"
     ]
 }
