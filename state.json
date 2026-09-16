@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260916de50663",
         "https://news.web.nhk/newsweb/na/nd-20260916de50602",
         "https://news.web.nhk/newsweb/na/nd-20260916de50660",
         "https://news.web.nhk/newsweb/na/nd-20260916de50658",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260914de50159",
         "https://news.web.nhk/newsweb/na/nd-20260914de50147",
         "https://news.web.nhk/newsweb/na/nd-20260914de50146",
-        "https://news.web.nhk/newsweb/na/nd-20260914de50144",
-        "https://news.web.nhk/newsweb/na/nd-20260914de50123"
+        "https://news.web.nhk/newsweb/na/nd-20260914de50144"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/instax-pal-2/",
