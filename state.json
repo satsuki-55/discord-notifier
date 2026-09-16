@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "l8cXDvm2HeM",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "slO6OwdsCds",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/videos/ck7v40jjv367o#2",
         "https://www.bbc.co.uk/news/articles/c8vgy53k49lgo#0",
         "https://www.bbc.co.uk/news/articles/ce8e70x3pjzo#2",
         "https://www.bbc.co.uk/news/articles/cj06762qegmo#0",
@@ -200,10 +201,10 @@
         "https://www.bbc.co.uk/news/articles/cde06rxw5g6o#0",
         "https://www.bbc.co.uk/news/articles/ce8en6v3601o#1",
         "https://www.bbc.co.uk/news/articles/ce8en6v3601o#0",
-        "https://www.bbc.co.uk/news/articles/c1j4ngr05l8o#0",
-        "https://www.bbc.co.uk/sport/football/articles/c77036d68k8o#1"
+        "https://www.bbc.co.uk/news/articles/c1j4ngr05l8o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260916de50533",
         "https://news.web.nhk/newsweb/na/nd-20260916de50630",
         "https://news.web.nhk/newsweb/na/nd-20260916de50628",
         "https://news.web.nhk/newsweb/na/nd-20260916de50635",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260914de50031",
         "https://news.web.nhk/newsweb/na/nd-20260914de50053",
         "https://news.web.nhk/newsweb/na/nd-20260914de50077",
-        "https://news.web.nhk/newsweb/na/nd-20260914de50079",
-        "https://news.web.nhk/newsweb/na/nd-20260914de50057"
+        "https://news.web.nhk/newsweb/na/nd-20260914de50079"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/kikippa-youtube/",
