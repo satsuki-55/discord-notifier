@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "l8cXDvm2HeM",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "slO6OwdsCds",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/videos/c5n4k0pmdx89o#1",
         "https://www.bbc.co.uk/news/articles/cjqlw4773rqyo#1",
         "https://www.bbc.co.uk/news/articles/cx1l6rzj86vgo#0",
         "https://www.bbc.co.uk/news/videos/c6kgxmk5zkrgo#0",
@@ -200,10 +201,10 @@
         "https://www.bbc.co.uk/news/articles/c2l799gxjjpo#0",
         "https://www.bbc.co.uk/news/articles/c750vqp1wlxo#1",
         "https://www.bbc.co.uk/news/articles/c750vqp1wlxo#0",
-        "https://www.bbc.co.uk/news/articles/cxyvzggzd5jgo#0",
-        "https://www.bbc.co.uk/news/articles/c623xee9dkdyo#1"
+        "https://www.bbc.co.uk/news/articles/cxyvzggzd5jgo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260916de50674",
         "https://news.web.nhk/newsweb/na/nd-20260914de50163",
         "https://news.web.nhk/newsweb/na/nd-20260916de50641",
         "https://news.web.nhk/newsweb/na/nd-20260916de50673",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260914de50152",
         "https://news.web.nhk/newsweb/na/nd-20260914de50164",
         "https://news.web.nhk/newsweb/na/nd-20260914de50075",
-        "https://news.web.nhk/newsweb/na/nd-20260914de50073",
-        "https://news.web.nhk/newsweb/na/nd-20260914de50167"
+        "https://news.web.nhk/newsweb/na/nd-20260914de50073"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/shokz_openfit-air-2_openrun-air-2/",
