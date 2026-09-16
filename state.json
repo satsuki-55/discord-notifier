@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/clyqx0e175ko#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260916de50526",
+        "https://news.web.nhk/newsweb/na/nd-20260916de50525",
         "https://news.web.nhk/newsweb/na/nd-20260916de50498",
         "https://news.web.nhk/newsweb/na/nd-20260916de50517",
         "https://news.web.nhk/newsweb/na/nd-20260916de50497",
@@ -401,11 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260913de49984",
         "https://news.web.nhk/newsweb/na/nd-20260907de48824",
         "https://news.web.nhk/newsweb/na/nd-20260910de49537",
-        "https://news.web.nhk/newsweb/na/nd-20260913de49980",
-        "https://news.web.nhk/newsweb/na/nd-20260913de49981",
-        "https://news.web.nhk/newsweb/na/nd-20260913de49983"
+        "https://news.web.nhk/newsweb/na/nd-20260913de49980"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2609-dell-xps-13-2026-review/",
         "https://www.gizmodo.jp/article/3coins_silicone-magnetic-umbrella-holder-fwo/",
         "https://www.gizmodo.jp/article/2609-galaxy-tab-s12-release-date-october-7/",
         "https://www.gizmodo.jp/article/2609-panasonic-air-purifier-f-px55d/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/2609-apple-watch-se-unavailable/",
         "https://www.gizmodo.jp/article/2609-foldable-iphone-discussion/",
         "https://www.gizmodo.jp/article/2609-portable-kettle-lifestyle/",
-        "https://www.gizmodo.jp/article/hyperkin-shockline-retro-game-usb-c-cable/",
-        "https://www.gizmodo.jp/article/fold-iphone-rumor/"
+        "https://www.gizmodo.jp/article/hyperkin-shockline-retro-game-usb-c-cable/"
     ]
 }
