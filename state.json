@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/c2095wyqvx2o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260916de50535",
+        "https://news.web.nhk/newsweb/na/nd-20260916de50531",
         "https://news.web.nhk/newsweb/na/nd-20260916de50529",
         "https://news.web.nhk/newsweb/na/nd-20260916de50493",
         "https://news.web.nhk/newsweb/na/nd-20260916de50522",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260914de50006",
         "https://news.web.nhk/newsweb/na/nd-20260914de50001",
         "https://news.web.nhk/newsweb/na/nd-20260913de49991",
-        "https://news.web.nhk/newsweb/na/nd-20260913de49962",
-        "https://news.web.nhk/newsweb/na/nd-20260913de49985",
-        "https://news.web.nhk/newsweb/na/nd-20260913de49984"
+        "https://news.web.nhk/newsweb/na/nd-20260913de49962"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/nintendo-switch-vulnerability/",
