@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/clyqx0e175ko#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260916de50522",
         "https://news.web.nhk/newsweb/na/nd-20260916de50526",
         "https://news.web.nhk/newsweb/na/nd-20260916de50525",
         "https://news.web.nhk/newsweb/na/nd-20260916de50498",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260913de49985",
         "https://news.web.nhk/newsweb/na/nd-20260913de49984",
         "https://news.web.nhk/newsweb/na/nd-20260907de48824",
-        "https://news.web.nhk/newsweb/na/nd-20260910de49537",
-        "https://news.web.nhk/newsweb/na/nd-20260913de49980"
+        "https://news.web.nhk/newsweb/na/nd-20260910de49537"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2609-dell-xps-13-2026-review/",
