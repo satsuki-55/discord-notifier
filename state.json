@@ -2,6 +2,8 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "gXKMWmNVwC4",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "eqce3NObWkg",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c1dpwg1lq9yo#0",
+        "https://www.bbc.co.uk/news/articles/cv986j48l66ko#0",
         "https://www.bbc.co.uk/news/articles/c6e30e98v7j1o#0",
         "https://www.bbc.co.uk/news/articles/cw804154z90ko#1",
         "https://www.bbc.co.uk/news/articles/c6e30e98v7j1o#1",
@@ -199,11 +201,10 @@
         "https://www.bbc.co.uk/news/articles/cly41rdkrleo#0",
         "https://www.bbc.co.uk/news/articles/clyl18x4734o#1",
         "https://www.bbc.co.uk/news/articles/cy4zrepw78eo#1",
-        "https://www.bbc.co.uk/news/articles/c0qx5d79kdeo#0",
-        "https://www.bbc.co.uk/news/articles/c0qx5d79kdeo#1",
-        "https://www.bbc.co.uk/news/articles/c1dpwg1lq9yo#0"
+        "https://www.bbc.co.uk/news/articles/c0qx5d79kdeo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260916de50481",
         "https://news.web.nhk/newsweb/na/nd-20260916de50478",
         "https://news.web.nhk/newsweb/na/nd-20260916de50477",
         "https://news.web.nhk/newsweb/na/nd-20260916de50462",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260913de49958",
         "https://news.web.nhk/newsweb/na/nd-20260913de49956",
         "https://news.web.nhk/newsweb/na/nd-20260913de49953",
-        "https://news.web.nhk/newsweb/na/nd-20260913de49955",
-        "https://news.web.nhk/newsweb/na/nd-20260913de49951"
+        "https://news.web.nhk/newsweb/na/nd-20260913de49955"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/moft-iphone18pro-movas-case/",
