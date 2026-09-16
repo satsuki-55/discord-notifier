@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c4gqjv476qeo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260916de50491",
         "https://news.web.nhk/newsweb/na/nd-20260913de49974",
         "https://news.web.nhk/newsweb/na/nd-20260916de50485",
         "https://news.web.nhk/newsweb/na/nd-20260913de49970",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260913de49983",
         "https://news.web.nhk/newsweb/na/nd-20260907de48826",
         "https://news.web.nhk/newsweb/na/nd-20260913de49978",
-        "https://news.web.nhk/newsweb/na/nd-20260913de49979",
-        "https://news.web.nhk/newsweb/na/nd-20260913de49975"
+        "https://news.web.nhk/newsweb/na/nd-20260913de49979"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2609-panasonic-air-purifier-f-px55d/",
