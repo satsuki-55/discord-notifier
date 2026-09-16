@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/videos/c6kgxmk5zkrgo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260914de50163",
         "https://news.web.nhk/newsweb/na/nd-20260916de50641",
         "https://news.web.nhk/newsweb/na/nd-20260916de50673",
         "https://news.web.nhk/newsweb/na/nd-20260914de50146",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260914de50164",
         "https://news.web.nhk/newsweb/na/nd-20260914de50075",
         "https://news.web.nhk/newsweb/na/nd-20260914de50073",
-        "https://news.web.nhk/newsweb/na/nd-20260914de50167",
-        "https://news.web.nhk/newsweb/na/nd-20260914de50157"
+        "https://news.web.nhk/newsweb/na/nd-20260914de50167"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/paire-lipstickbikini/",
         "https://www.gizmodo.jp/article/saucony_endorphin-azzurra_review/",
         "https://www.gizmodo.jp/article/instax-pal-2/",
         "https://www.gizmodo.jp/article/iphone18pro-with-tokyo-nightlife/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/iphone-duo/",
         "https://www.gizmodo.jp/article/movie_backrooms_kane-parsons_interview/",
         "https://www.gizmodo.jp/article/2609-roland-tr-909-day-browser/",
-        "https://www.gizmodo.jp/article/2609-astronaut-constipation-diet-fiber/",
-        "https://www.gizmodo.jp/article/keyboard-survey-orca-echo-re/"
+        "https://www.gizmodo.jp/article/2609-astronaut-constipation-diet-fiber/"
     ]
 }
