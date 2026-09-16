@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/ce8767g4jdpo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260914de50027",
+        "https://news.web.nhk/newsweb/na/nd-20260916de50597",
         "https://news.web.nhk/newsweb/na/nd-20260916de50610",
         "https://news.web.nhk/newsweb/na/nd-20260916de50606",
         "https://news.web.nhk/newsweb/na/nd-20260916de50598",
@@ -401,11 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260914de50066",
         "https://news.web.nhk/newsweb/na/nd-20260914de50046",
         "https://news.web.nhk/newsweb/na/nd-20260914de50018",
-        "https://news.web.nhk/newsweb/na/nd-20260914de50035",
-        "https://news.web.nhk/newsweb/na/nd-20260914de50030",
-        "https://news.web.nhk/newsweb/na/nd-20260914de50027"
+        "https://news.web.nhk/newsweb/na/nd-20260914de50035"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/miyagen-runmeshcap/",
         "https://www.gizmodo.jp/article/tomica_mini-car_garage/",
         "https://www.gizmodo.jp/article/6f66f6b0-a71d-412a-a967-ae4ab85f0f3d/",
         "https://www.gizmodo.jp/article/2609-nvidia-rtx-60-series-release-rumor/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/apple-event-2026-cookies/",
         "https://www.gizmodo.jp/article/2609-apple-tim-cook-john-ternus-compensation-2027/",
         "https://www.gizmodo.jp/article/512a8a02-ea3f-44d0-a4e2-8c36a29fd001/",
-        "https://www.gizmodo.jp/article/dell_xps13/",
-        "https://www.gizmodo.jp/article/yude-tamago-meijin/"
+        "https://www.gizmodo.jp/article/dell_xps13/"
     ]
 }
