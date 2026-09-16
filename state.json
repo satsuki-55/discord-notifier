@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/ce8767g4jdpo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260916de50622",
         "https://news.web.nhk/newsweb/na/nd-20260914de50027",
         "https://news.web.nhk/newsweb/na/nd-20260916de50597",
         "https://news.web.nhk/newsweb/na/nd-20260916de50610",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260914de50072",
         "https://news.web.nhk/newsweb/na/nd-20260914de50066",
         "https://news.web.nhk/newsweb/na/nd-20260914de50046",
-        "https://news.web.nhk/newsweb/na/nd-20260914de50018",
-        "https://news.web.nhk/newsweb/na/nd-20260914de50035"
+        "https://news.web.nhk/newsweb/na/nd-20260914de50018"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/miyagen-runmeshcap/",
