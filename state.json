@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "gXKMWmNVwC4",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "slO6OwdsCds",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o#0",
         "https://www.bbc.co.uk/news/articles/ce8e70x3pjzo#1",
         "https://www.bbc.co.uk/news/articles/c64g7wl30wygo#2",
         "https://www.bbc.co.uk/news/articles/cw4gq0j5jg10o#0",
@@ -200,10 +201,10 @@
         "https://www.bbc.co.uk/news/articles/c80n3xl378ro#0",
         "https://www.bbc.co.uk/news/articles/cwyz5yvye90o#1",
         "https://www.bbc.co.uk/news/articles/c74e0zwkk18o#1",
-        "https://www.bbc.co.uk/news/articles/cvgyjn9pdeeo#1",
-        "https://www.bbc.co.uk/news/articles/cgl7zrnxxy6o#1"
+        "https://www.bbc.co.uk/news/articles/cvgyjn9pdeeo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260916de50610",
         "https://news.web.nhk/newsweb/na/nd-20260916de50606",
         "https://news.web.nhk/newsweb/na/nd-20260916de50598",
         "https://news.web.nhk/newsweb/na/nd-20260914de50002",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260914de50018",
         "https://news.web.nhk/newsweb/na/nd-20260914de50035",
         "https://news.web.nhk/newsweb/na/nd-20260914de50030",
-        "https://news.web.nhk/newsweb/na/nd-20260914de50027",
-        "https://news.web.nhk/newsweb/na/nd-20260914de50023"
+        "https://news.web.nhk/newsweb/na/nd-20260914de50027"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/tomica_mini-car_garage/",
         "https://www.gizmodo.jp/article/6f66f6b0-a71d-412a-a967-ae4ab85f0f3d/",
         "https://www.gizmodo.jp/article/2609-nvidia-rtx-60-series-release-rumor/",
         "https://www.gizmodo.jp/article/iris-ohyama-karalie-mini-turbo/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/2609-apple-tim-cook-john-ternus-compensation-2027/",
         "https://www.gizmodo.jp/article/512a8a02-ea3f-44d0-a4e2-8c36a29fd001/",
         "https://www.gizmodo.jp/article/dell_xps13/",
-        "https://www.gizmodo.jp/article/yude-tamago-meijin/",
-        "https://www.gizmodo.jp/article/2606-lht-liverylife-kf86max-lgq/"
+        "https://www.gizmodo.jp/article/yude-tamago-meijin/"
     ]
 }
