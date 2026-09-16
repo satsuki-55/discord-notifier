@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cjn5dl95z13qo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260917de50708",
         "https://news.web.nhk/newsweb/na/nd-20260917de50697",
         "https://news.web.nhk/newsweb/na/nd-20260917de50693",
         "https://news.web.nhk/newsweb/na/nd-20260917de50700",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260914de50076",
         "https://news.web.nhk/newsweb/na/nd-20260914de50209",
         "https://news.web.nhk/newsweb/na/nd-20260911de49692",
-        "https://news.web.nhk/newsweb/na/nd-20260914de50208",
-        "https://news.web.nhk/newsweb/na/nd-20260914de50197"
+        "https://news.web.nhk/newsweb/na/nd-20260914de50208"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/china-turns-on-the-worlds-first-underwater-data-center-qsv/",
