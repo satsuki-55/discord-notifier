@@ -2,6 +2,11 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "l8cXDvm2HeM",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "slO6OwdsCds",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/videos/cm4gkvk7wzkpo#0",
+        "https://www.bbc.co.uk/news/articles/cm4gjrxez1q0o#0",
+        "https://www.bbc.co.uk/news/articles/c9vgyd02mdvno#0",
+        "https://www.bbc.co.uk/news/articles/cgqd9zkkvlyo#0",
+        "https://www.bbc.co.uk/sport/football/articles/cvrl6egl1254o#1",
         "https://www.bbc.co.uk/news/articles/cw62jvpele45o#1",
         "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o#1",
         "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o#0",
@@ -196,14 +201,10 @@
         "https://www.bbc.co.uk/news/articles/ck790xg41ygro#0",
         "https://www.bbc.co.uk/news/articles/cqlykdx48xrpo#1",
         "https://www.bbc.co.uk/news/articles/cqlykdx48xrpo#0",
-        "https://www.bbc.co.uk/news/articles/ck20989806e9o#0",
-        "https://www.bbc.co.uk/news/videos/crlyjxjv69v6o#1",
-        "https://www.bbc.co.uk/news/articles/cjw57xyd4q0o#1",
-        "https://www.bbc.co.uk/news/articles/ck790xg41ygro#1",
-        "https://www.bbc.co.uk/news/videos/cm4gkvk7wzkpo#0",
-        "https://www.bbc.co.uk/news/articles/c98r632g6p76o#1"
+        "https://www.bbc.co.uk/news/articles/ck20989806e9o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260917de50723",
         "https://news.web.nhk/newsweb/na/nd-20260914de50204",
         "https://news.web.nhk/newsweb/na/nd-20260917de50711",
         "https://news.web.nhk/newsweb/na/nd-20260916de50616",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260914de50212",
         "https://news.web.nhk/newsweb/na/nd-20260911de49708",
         "https://news.web.nhk/newsweb/na/nd-20260915de50221",
-        "https://news.web.nhk/newsweb/na/nd-20260914de50207",
-        "https://news.web.nhk/newsweb/na/nd-20260914de50203"
+        "https://news.web.nhk/newsweb/na/nd-20260914de50207"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2609-samsung-galaxy-z-trifold-2-release/",
