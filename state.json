@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/czezwd6xw0zo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260916de50562",
+        "https://news.web.nhk/newsweb/na/nd-20260916de50574",
         "https://news.web.nhk/newsweb/na/nd-20260916de50557",
         "https://news.web.nhk/newsweb/na/nd-20260916de50551",
         "https://news.web.nhk/newsweb/na/nd-20260916de50547",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260914de50002",
         "https://news.web.nhk/newsweb/na/nd-20260914de50007",
         "https://news.web.nhk/newsweb/na/nd-20260913de49986",
-        "https://news.web.nhk/newsweb/na/nd-20260913de49999",
-        "https://news.web.nhk/newsweb/na/nd-20260914de50014",
-        "https://news.web.nhk/newsweb/na/nd-20260914de50008"
+        "https://news.web.nhk/newsweb/na/nd-20260913de49999"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/ai-recreated-1963-bundesliga-goal/",
