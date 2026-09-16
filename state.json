@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "l8cXDvm2HeM",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "slO6OwdsCds",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cw62jvpele45o#1",
         "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o#1",
         "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o#0",
         "https://www.bbc.co.uk/news/articles/cm4gl6j53w19o#0",
@@ -200,10 +201,10 @@
         "https://www.bbc.co.uk/news/articles/cjw57xyd4q0o#1",
         "https://www.bbc.co.uk/news/articles/ck790xg41ygro#1",
         "https://www.bbc.co.uk/news/videos/cm4gkvk7wzkpo#0",
-        "https://www.bbc.co.uk/news/articles/c98r632g6p76o#1",
-        "https://www.bbc.co.uk/weather/articles/c98r630jejdyo#1"
+        "https://www.bbc.co.uk/news/articles/c98r632g6p76o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260917de50711",
         "https://news.web.nhk/newsweb/na/nd-20260916de50616",
         "https://news.web.nhk/newsweb/na/nd-20260917de50717",
         "https://news.web.nhk/newsweb/na/nd-20260917de50718",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260915de50221",
         "https://news.web.nhk/newsweb/na/nd-20260914de50207",
         "https://news.web.nhk/newsweb/na/nd-20260914de50203",
-        "https://news.web.nhk/newsweb/na/nd-20260915de50216",
-        "https://news.web.nhk/newsweb/na/nd-20260914de50204"
+        "https://news.web.nhk/newsweb/na/nd-20260915de50216"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2609-apple-store-genius-bar-return/",
