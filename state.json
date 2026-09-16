@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260914de50019"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2609-nvidia-rtx-60-series-release-rumor/",
         "https://www.gizmodo.jp/article/iris-ohyama-karalie-mini-turbo/",
         "https://www.gizmodo.jp/article/2609-compressed-disaster-prevention-goods/",
         "https://www.gizmodo.jp/article/ai-recreated-1963-bundesliga-goal/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/dell_xps13/",
         "https://www.gizmodo.jp/article/yude-tamago-meijin/",
         "https://www.gizmodo.jp/article/2606-lht-liverylife-kf86max-lgq/",
-        "https://www.gizmodo.jp/article/2609-openai-hugging-face-ai-incident/",
-        "https://www.gizmodo.jp/article/2609-foldable-iphone-name-prediction/"
+        "https://www.gizmodo.jp/article/2609-openai-hugging-face-ai-incident/"
     ]
 }
