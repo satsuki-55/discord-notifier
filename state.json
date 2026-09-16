@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cgl7zrnxxy6o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260916de50606",
         "https://news.web.nhk/newsweb/na/nd-20260916de50598",
         "https://news.web.nhk/newsweb/na/nd-20260914de50002",
         "https://news.web.nhk/newsweb/na/nd-20260828de46993",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260914de50035",
         "https://news.web.nhk/newsweb/na/nd-20260914de50030",
         "https://news.web.nhk/newsweb/na/nd-20260914de50027",
-        "https://news.web.nhk/newsweb/na/nd-20260914de50023",
-        "https://news.web.nhk/newsweb/na/nd-20260914de50019"
+        "https://news.web.nhk/newsweb/na/nd-20260914de50023"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2609-nvidia-rtx-60-series-release-rumor/",
