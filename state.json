@@ -2,6 +2,8 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "gXKMWmNVwC4",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "eqce3NObWkg",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/clyqx0e175ko#0",
+        "https://www.bbc.co.uk/news/articles/cw4gq0j5jg10o#1",
         "https://www.bbc.co.uk/news/articles/cr5yev2v1x29o#1",
         "https://www.bbc.co.uk/news/articles/cmgrvdxzzk8eo#1",
         "https://www.bbc.co.uk/news/articles/cmn0jk2z760eo#1",
@@ -199,9 +201,7 @@
         "https://www.bbc.co.uk/news/articles/czezwd6xw0zo#0",
         "https://www.bbc.co.uk/news/articles/cd94kze0y9qo#1",
         "https://www.bbc.co.uk/news/articles/c2095wyqvx2o#1",
-        "https://www.bbc.co.uk/news/articles/c3eq7kl5l00o#0",
-        "https://www.bbc.co.uk/news/articles/c4gqjv476qeo#0",
-        "https://www.bbc.co.uk/news/articles/clyqx0e175ko#0"
+        "https://www.bbc.co.uk/news/articles/c3eq7kl5l00o#0"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20260916de50529",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260913de49984"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/nintendo-switch-vulnerability/",
         "https://www.gizmodo.jp/article/2609-dell-xps-13-2026-review/",
         "https://www.gizmodo.jp/article/3coins_silicone-magnetic-umbrella-holder-fwo/",
         "https://www.gizmodo.jp/article/2609-galaxy-tab-s12-release-date-october-7/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/2609-foldable-iphone-name-prediction/",
         "https://www.gizmodo.jp/article/2609-apple-watch-se-unavailable/",
         "https://www.gizmodo.jp/article/2609-foldable-iphone-discussion/",
-        "https://www.gizmodo.jp/article/2609-portable-kettle-lifestyle/",
-        "https://www.gizmodo.jp/article/hyperkin-shockline-retro-game-usb-c-cable/"
+        "https://www.gizmodo.jp/article/2609-portable-kettle-lifestyle/"
     ]
 }
