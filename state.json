@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "l8cXDvm2HeM",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "slO6OwdsCds",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c2l799gxjjpo#0",
         "https://www.bbc.co.uk/news/articles/cjqlw4773rqyo#0",
         "https://www.bbc.co.uk/news/videos/cm4gk0lrex5vo#0",
         "https://www.bbc.co.uk/news/articles/cqkgvkn6yyxyo#1",
@@ -200,8 +201,7 @@
         "https://www.bbc.co.uk/news/articles/cm9w47ngje9no#0",
         "https://www.bbc.co.uk/news/articles/c0m3neyyzm7o#1",
         "https://www.bbc.co.uk/news/videos/cqdj48mpw8mro#0",
-        "https://www.bbc.co.uk/news/articles/cqrk37rrpk23o#1",
-        "https://www.bbc.co.uk/news/articles/cmp3042q6w3zo#1"
+        "https://www.bbc.co.uk/news/articles/cqrk37rrpk23o#1"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20260916de50674",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260914de50073"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/china-turns-on-the-worlds-first-underwater-data-center-qsv/",
         "https://www.gizmodo.jp/article/shokz_openfit-air-2_openrun-air-2/",
         "https://www.gizmodo.jp/article/paire-lipstickbikini/",
         "https://www.gizmodo.jp/article/saucony_endorphin-azzurra_review/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/2609-mechamecha-chameleon-switch2/",
         "https://www.gizmodo.jp/article/amazon_datacenter_water-zvx/",
         "https://www.gizmodo.jp/article/iphone-duo/",
-        "https://www.gizmodo.jp/article/movie_backrooms_kane-parsons_interview/",
-        "https://www.gizmodo.jp/article/2609-roland-tr-909-day-browser/"
+        "https://www.gizmodo.jp/article/movie_backrooms_kane-parsons_interview/"
     ]
 }
