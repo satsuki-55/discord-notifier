@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/ck790x9d74vvo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260917de50879",
         "https://news.web.nhk/newsweb/na/nd-20260917de50866",
         "https://news.web.nhk/newsweb/na/nd-20260917de50867",
         "https://news.web.nhk/newsweb/na/nd-20260917de50876",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260915de50390",
         "https://news.web.nhk/newsweb/na/nd-20260915de50391",
         "https://news.web.nhk/newsweb/na/nd-20260915de50388",
-        "https://news.web.nhk/newsweb/na/nd-20260915de50370",
-        "https://news.web.nhk/newsweb/na/nd-20260915de50353"
+        "https://news.web.nhk/newsweb/na/nd-20260915de50370"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2609-tecno-pova-8-pro-tonino-lamborghini/",
