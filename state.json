@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c8ly49w9g1edo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260917de50830",
         "https://news.web.nhk/newsweb/na/nd-20260917de50844",
         "https://news.web.nhk/newsweb/na/nd-20260917de50840",
         "https://news.web.nhk/newsweb/na/nd-20260917de50835",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260915de50369",
         "https://news.web.nhk/newsweb/na/nd-20260915de50338",
         "https://news.web.nhk/newsweb/na/nd-20260915de50319",
-        "https://news.web.nhk/newsweb/na/nd-20260915de50314",
-        "https://news.web.nhk/newsweb/na/nd-20260828de46992"
+        "https://news.web.nhk/newsweb/na/nd-20260915de50314"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/biccamera-private-pc/",
         "https://www.gizmodo.jp/article/axisray-lab_bash_controller_tgs2026/",
         "https://www.gizmodo.jp/article/my-play-watch_tgs2026/",
         "https://www.gizmodo.jp/article/panasonic-coricoran-tgs2026/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/14a59a25-1eee-46ee-a6d1-8c6f48c64c86/",
         "https://www.gizmodo.jp/article/ef14d2e4-8654-4882-b7fa-fc66c847788b/",
         "https://www.gizmodo.jp/article/6d6ba759-4df0-4703-82a7-2b0fb7859513/",
-        "https://www.gizmodo.jp/article/2c07774c-0743-4b3c-ad4a-b9bd35415217/",
-        "https://www.gizmodo.jp/article/2609-iphone-duo/"
+        "https://www.gizmodo.jp/article/2c07774c-0743-4b3c-ad4a-b9bd35415217/"
     ]
 }
