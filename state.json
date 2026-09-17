@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "l8cXDvm2HeM",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "slO6OwdsCds",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cmp3073x6464o#1",
         "https://www.bbc.co.uk/news/articles/c6d79z7ez7r4o#1",
         "https://www.bbc.co.uk/news/articles/cqx2zlxxzpg4o#1",
         "https://www.bbc.co.uk/news/articles/c639m42y43v4o#0",
@@ -200,10 +201,14 @@
         "https://www.bbc.co.uk/news/articles/c33kmred368o#1",
         "https://www.bbc.co.uk/news/articles/c780zvq7xlvo#1",
         "https://www.bbc.co.uk/news/articles/cw980n0nd0qjo#1",
-        "https://www.bbc.co.uk/news/articles/cw980n0nd0qjo#0",
-        "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o#1"
+        "https://www.bbc.co.uk/news/articles/cw980n0nd0qjo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260916de50504",
+        "https://news.web.nhk/newsweb/na/nd-20260916de50499",
+        "https://news.web.nhk/newsweb/na/nd-20260916de50500",
+        "https://news.web.nhk/newsweb/na/nd-20260917de50747",
+        "https://news.web.nhk/newsweb/na/nd-20260917de50754",
         "https://news.web.nhk/newsweb/na/nd-20260916de50502",
         "https://news.web.nhk/newsweb/na/nd-20260917de50740",
         "https://news.web.nhk/newsweb/na/nd-20260917de50750",
@@ -398,12 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260915de50231",
         "https://news.web.nhk/newsweb/na/nd-20260915de50230",
         "https://news.web.nhk/newsweb/na/nd-20260911de49721",
-        "https://news.web.nhk/newsweb/na/nd-20260914de50179",
-        "https://news.web.nhk/newsweb/na/nd-20260914de50205",
-        "https://news.web.nhk/newsweb/na/nd-20260915de50219",
-        "https://news.web.nhk/newsweb/na/nd-20260915de50220",
-        "https://news.web.nhk/newsweb/na/nd-20260914de50211",
-        "https://news.web.nhk/newsweb/na/nd-20260915de50223"
+        "https://news.web.nhk/newsweb/na/nd-20260914de50179"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/lite-way-trinket-whistle-orc/",
