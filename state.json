@@ -204,6 +204,9 @@
         "https://www.bbc.co.uk/news/articles/cw980n0nd0qjo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260917de50811",
+        "https://news.web.nhk/newsweb/na/nd-20260917de50808",
+        "https://news.web.nhk/newsweb/na/nd-20260917de50807",
         "https://news.web.nhk/newsweb/na/nd-20260917de50785",
         "https://news.web.nhk/newsweb/na/nd-20260917de50794",
         "https://news.web.nhk/newsweb/na/nd-20260915de50293",
@@ -400,12 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260915de50323",
         "https://news.web.nhk/newsweb/na/nd-20260915de50315",
         "https://news.web.nhk/newsweb/na/nd-20260915de50310",
-        "https://news.web.nhk/newsweb/na/nd-20260911de49805",
-        "https://news.web.nhk/newsweb/na/nd-20260915de50316",
-        "https://news.web.nhk/newsweb/na/nd-20260915de50320",
-        "https://news.web.nhk/newsweb/na/nd-20260915de50299"
+        "https://news.web.nhk/newsweb/na/nd-20260911de49805"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/keychron-nape-pro-special-edition-tgs2026/",
         "https://www.gizmodo.jp/article/bandainamco-tgs2026-merch-ace-combat-tales/",
         "https://www.gizmodo.jp/article/portable_toilet_step_review/",
         "https://www.gizmodo.jp/article/2609-samsung-galaxy-buds-on-clip-earphones/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/63f00909-7f2f-4c0f-bc84-7ea3aaf08403/",
         "https://www.gizmodo.jp/article/apple-event-2026-john-ternus-debut/",
         "https://www.gizmodo.jp/article/apple-event-2026-joz-selfie/",
-        "https://www.gizmodo.jp/article/2609-metroid-ravenous-switch2/",
-        "https://www.gizmodo.jp/article/apple-event-2026-press-badge/"
+        "https://www.gizmodo.jp/article/2609-metroid-ravenous-switch2/"
     ]
 }
