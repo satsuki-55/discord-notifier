@@ -204,6 +204,10 @@
         "https://www.bbc.co.uk/news/articles/cv8e35rzy486o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260917de50869",
+        "https://news.web.nhk/newsweb/na/nd-20260915de50371",
+        "https://news.web.nhk/newsweb/na/nd-20260917de50841",
+        "https://news.web.nhk/newsweb/na/nd-20260917de50872",
         "https://news.web.nhk/newsweb/na/nd-20260917de50845",
         "https://news.web.nhk/newsweb/na/nd-20260917de50851",
         "https://news.web.nhk/newsweb/na/nd-20260917de50868",
@@ -399,11 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260915de50353",
         "https://news.web.nhk/newsweb/na/nd-20260915de50301",
         "https://news.web.nhk/newsweb/na/nd-20260915de50376",
-        "https://news.web.nhk/newsweb/na/nd-20260915de50382",
-        "https://news.web.nhk/newsweb/na/nd-20260915de50381",
-        "https://news.web.nhk/newsweb/na/nd-20260915de50341",
-        "https://news.web.nhk/newsweb/na/nd-20260911de49798",
-        "https://news.web.nhk/newsweb/na/nd-20260915de50371"
+        "https://news.web.nhk/newsweb/na/nd-20260915de50382"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/fostex_t50rp-bt_tgs2026/",
