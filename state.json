@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/cw980n0nd0qjo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260917de50805",
+        "https://news.web.nhk/newsweb/na/nd-20260915de50246",
         "https://news.web.nhk/newsweb/na/nd-20260917de50800",
         "https://news.web.nhk/newsweb/na/nd-20260917de50799",
         "https://news.web.nhk/newsweb/na/nd-20260917de50738",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260915de50272",
         "https://news.web.nhk/newsweb/na/nd-20260915de50305",
         "https://news.web.nhk/newsweb/na/nd-20260915de50297",
-        "https://news.web.nhk/newsweb/na/nd-20260915de50293",
-        "https://news.web.nhk/newsweb/na/nd-20260915de50294",
-        "https://news.web.nhk/newsweb/na/nd-20260915de50292"
+        "https://news.web.nhk/newsweb/na/nd-20260915de50293"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/portable_toilet_step_review/",
