@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/cw980n0nd0qjo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260917de50798",
+        "https://news.web.nhk/newsweb/na/nd-20260917de50812",
         "https://news.web.nhk/newsweb/na/nd-20260915de50310",
         "https://news.web.nhk/newsweb/na/nd-20260917de50790",
         "https://news.web.nhk/newsweb/na/nd-20260917de50802",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260915de50325",
         "https://news.web.nhk/newsweb/na/nd-20260915de50343",
         "https://news.web.nhk/newsweb/na/nd-20260915de50259",
-        "https://news.web.nhk/newsweb/na/nd-20260915de50304",
-        "https://news.web.nhk/newsweb/na/nd-20260911de49783",
-        "https://news.web.nhk/newsweb/na/nd-20260915de50323"
+        "https://news.web.nhk/newsweb/na/nd-20260915de50304"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2609-orbital-works-modular-mouse-tgs2026/",
