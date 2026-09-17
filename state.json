@@ -2,6 +2,8 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "l8cXDvm2HeM",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "hOPxysIHGp4",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cqde04len22wo#0",
+        "https://www.bbc.co.uk/news/articles/cj207ddzy6ewo#1",
         "https://www.bbc.co.uk/news/articles/ckg59nq6y990o#1",
         "https://www.bbc.co.uk/news/articles/ck980qyy6d2zo#0",
         "https://www.bbc.co.uk/news/articles/c3lyrn4p870yo#1",
@@ -199,9 +201,7 @@
         "https://www.bbc.co.uk/news/articles/cmy4zqgk97wlo#0",
         "https://www.bbc.co.uk/news/articles/cmq8jdgel128o#0",
         "https://www.bbc.co.uk/news/articles/c3n07ydqdzlvo#1",
-        "https://www.bbc.co.uk/news/articles/cmzezj5e18xxo#1",
-        "https://www.bbc.co.uk/news/articles/c61580330nj1o#0",
-        "https://www.bbc.co.uk/news/articles/c3n07ydqdzlvo#0"
+        "https://www.bbc.co.uk/news/articles/cmzezj5e18xxo#1"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20260917de50888",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260915de50409"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/akko_bun-wonderland-key-cap_tgs2026/",
         "https://www.gizmodo.jp/article/playvital_cover_tgs2026/",
         "https://www.gizmodo.jp/article/eweadn_keyboard_tgs2026/",
         "https://www.gizmodo.jp/article/2609-iphone-17-pro-max-1-year-review-njb/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/apple_new-items_matome/",
         "https://www.gizmodo.jp/article/2609-iphone-18-pro-battery-life/",
         "https://www.gizmodo.jp/article/apple-watch-series-12-readiness-health-age/",
-        "https://www.gizmodo.jp/article/apple-event-2026-kids-cue/",
-        "https://www.gizmodo.jp/article/3ce244ca-1de9-439b-aad9-082c64654c71/"
+        "https://www.gizmodo.jp/article/apple-event-2026-kids-cue/"
     ]
 }
