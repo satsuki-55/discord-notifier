@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c52e01k49e8jo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260917de50889",
         "https://news.web.nhk/newsweb/na/nd-20260917de50882",
         "https://news.web.nhk/newsweb/na/nd-20260917de50880",
         "https://news.web.nhk/newsweb/na/nd-20260917de50881",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260915de50416",
         "https://news.web.nhk/newsweb/na/nd-20260915de50409",
         "https://news.web.nhk/newsweb/na/nd-20260915de50332",
-        "https://news.web.nhk/newsweb/na/nd-20260915de50411",
-        "https://news.web.nhk/newsweb/na/nd-20260915de50401"
+        "https://news.web.nhk/newsweb/na/nd-20260915de50411"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2609-elroy-air-chaparral-cargo-drone-flight-test/",
