@@ -2,6 +2,9 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "l8cXDvm2HeM",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "hOPxysIHGp4",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/ce8e70x3pjzo#0",
+        "https://www.bbc.co.uk/news/articles/cmlyrn2n4zg5o#0",
+        "https://www.bbc.co.uk/news/articles/c6n8m72r13ngo#0",
         "https://www.bbc.co.uk/news/articles/ckr50lrz5e6zo#1",
         "https://www.bbc.co.uk/news/articles/cqkg083ve78ro#1",
         "https://www.bbc.co.uk/news/articles/c50m3glzppgpo#0",
@@ -198,12 +201,10 @@
         "https://www.bbc.co.uk/news/articles/c1dpwg1lq9yo#0",
         "https://www.bbc.co.uk/news/articles/cv986j48l66ko#0",
         "https://www.bbc.co.uk/news/articles/c6e30e98v7j1o#0",
-        "https://www.bbc.co.uk/news/articles/cw804154z90ko#1",
-        "https://www.bbc.co.uk/news/articles/c6e30e98v7j1o#1",
-        "https://www.bbc.co.uk/news/articles/ce8e70x3pjzo#0",
-        "https://www.bbc.co.uk/news/articles/cmlyrn2n4zg5o#0"
+        "https://www.bbc.co.uk/news/articles/cw804154z90ko#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260917de50925",
         "https://news.web.nhk/newsweb/na/nd-20260918de50935",
         "https://news.web.nhk/newsweb/na/nd-20260918de50937",
         "https://news.web.nhk/newsweb/na/nd-20260915de50418",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260915de50455",
         "https://news.web.nhk/newsweb/na/nd-20260916de50457",
         "https://news.web.nhk/newsweb/na/nd-20260915de50454",
-        "https://news.web.nhk/newsweb/na/nd-20260916de50456",
-        "https://news.web.nhk/newsweb/na/nd-20260916de50470"
+        "https://news.web.nhk/newsweb/na/nd-20260916de50456"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/newbalance_higt-grade-rebounting-insole-dfe-rqg/",
