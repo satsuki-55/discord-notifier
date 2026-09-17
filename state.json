@@ -1,6 +1,6 @@
 {
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "l8cXDvm2HeM",
-    "youtube:UCjJmYy279ehSYSwR1A3fXtA": "slO6OwdsCds",
+    "youtube:UCjJmYy279ehSYSwR1A3fXtA": "a5_iXg7ZDjE",
     "rss:bbc": [
         "https://www.bbc.co.uk/news/articles/cmpq0wj5g899o#0",
         "https://www.bbc.co.uk/news/articles/cmp3073x6464o#1",
@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cw980n0nd0qjo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260917de50799",
         "https://news.web.nhk/newsweb/na/nd-20260917de50738",
         "https://news.web.nhk/newsweb/na/nd-20260917de50795",
         "https://news.web.nhk/newsweb/na/nd-20260917de50741",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260915de50293",
         "https://news.web.nhk/newsweb/na/nd-20260915de50294",
         "https://news.web.nhk/newsweb/na/nd-20260915de50292",
-        "https://news.web.nhk/newsweb/na/nd-20260915de50246",
-        "https://news.web.nhk/newsweb/na/nd-20260915de50291"
+        "https://news.web.nhk/newsweb/na/nd-20260915de50246"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/portable_toilet_step_review/",
         "https://www.gizmodo.jp/article/2609-samsung-galaxy-buds-on-clip-earphones/",
         "https://www.gizmodo.jp/article/lite-way-trinket-whistle-orc/",
         "https://www.gizmodo.jp/article/torras-ostand-q3-air-pro/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/apple-event-2026-joz-selfie/",
         "https://www.gizmodo.jp/article/2609-metroid-ravenous-switch2/",
         "https://www.gizmodo.jp/article/apple-event-2026-press-badge/",
-        "https://www.gizmodo.jp/article/2609-apple-event-live-report-2026-matome/",
-        "https://www.gizmodo.jp/article/apple-event-2026-kuroda-matome/"
+        "https://www.gizmodo.jp/article/2609-apple-event-live-report-2026-matome/"
     ]
 }
