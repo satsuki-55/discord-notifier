@@ -204,6 +204,10 @@
         "https://www.bbc.co.uk/news/articles/cw980n0nd0qjo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260917de50785",
+        "https://news.web.nhk/newsweb/na/nd-20260917de50794",
+        "https://news.web.nhk/newsweb/na/nd-20260915de50293",
+        "https://news.web.nhk/newsweb/na/nd-20260917de50777",
         "https://news.web.nhk/newsweb/na/nd-20260917de50804",
         "https://news.web.nhk/newsweb/na/nd-20260917de50805",
         "https://news.web.nhk/newsweb/na/nd-20260915de50246",
@@ -399,11 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260911de49805",
         "https://news.web.nhk/newsweb/na/nd-20260915de50316",
         "https://news.web.nhk/newsweb/na/nd-20260915de50320",
-        "https://news.web.nhk/newsweb/na/nd-20260915de50299",
-        "https://news.web.nhk/newsweb/na/nd-20260915de50271",
-        "https://news.web.nhk/newsweb/na/nd-20260915de50272",
-        "https://news.web.nhk/newsweb/na/nd-20260915de50305",
-        "https://news.web.nhk/newsweb/na/nd-20260915de50297"
+        "https://news.web.nhk/newsweb/na/nd-20260915de50299"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/bandainamco-tgs2026-merch-ace-combat-tales/",
