@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "l8cXDvm2HeM",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "hOPxysIHGp4",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c3lyrn4p870yo#1",
         "https://www.bbc.co.uk/news/articles/cmdx0jzzpd89o#2",
         "https://www.bbc.co.uk/sport/olympics/articles/cqvgy1m9z4k8o#1",
         "https://www.bbc.co.uk/news/articles/cqx2zgk8k8xvo#0",
@@ -200,8 +201,7 @@
         "https://www.bbc.co.uk/news/articles/c61580330nj1o#0",
         "https://www.bbc.co.uk/news/articles/c3n07ydqdzlvo#0",
         "https://www.bbc.co.uk/news/articles/ce3r77d9n90o#0",
-        "https://www.bbc.co.uk/news/articles/c52e01k49e8jo#1",
-        "https://www.bbc.co.uk/news/articles/ck790x9d74vvo#1"
+        "https://www.bbc.co.uk/news/articles/c52e01k49e8jo#1"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20260917de50881",
@@ -406,6 +406,8 @@
         "https://news.web.nhk/newsweb/na/nd-20260915de50390"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2609-tgs2026-square-enix-retro-goods/",
+        "https://www.gizmodo.jp/article/dunlop_gaming-muscle_tgs2026/",
         "https://www.gizmodo.jp/article/pixio_monitor-decoration_tgs2026/",
         "https://www.gizmodo.jp/article/2609-tecno-pova-8-pro-tonino-lamborghini/",
         "https://www.gizmodo.jp/article/fostex_t50rp-bt_tgs2026/",
@@ -603,8 +605,6 @@
         "https://www.gizmodo.jp/article/9fb4f78a-1d16-4192-83a9-83a700a1d491/",
         "https://www.gizmodo.jp/article/c12d38a2-f93a-4f7d-ac7c-1596286b703c/",
         "https://www.gizmodo.jp/article/iphone-duo-price-release-date/",
-        "https://www.gizmodo.jp/article/2609-iphone-duo-case-review/",
-        "https://www.gizmodo.jp/article/iphone-duo-ipad-mini/",
-        "https://www.gizmodo.jp/article/3fe59106-ab3a-46cf-ae7b-864ef60c4a7c/"
+        "https://www.gizmodo.jp/article/2609-iphone-duo-case-review/"
     ]
 }
