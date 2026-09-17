@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c6e30e98v7j1o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260918de50950",
         "https://news.web.nhk/newsweb/na/nd-20260918de50938",
         "https://news.web.nhk/newsweb/na/nd-20260917de50900",
         "https://news.web.nhk/newsweb/na/nd-20260918de50942",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260916de50476",
         "https://news.web.nhk/newsweb/na/nd-20260916de50481",
         "https://news.web.nhk/newsweb/na/nd-20260916de50478",
-        "https://news.web.nhk/newsweb/na/nd-20260916de50477",
-        "https://news.web.nhk/newsweb/na/nd-20260916de50462"
+        "https://news.web.nhk/newsweb/na/nd-20260916de50477"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2609-instax-pal-2/",
         "https://www.gizmodo.jp/article/newbalance_higt-grade-rebounting-insole-dfe-rqg/",
         "https://www.gizmodo.jp/article/vitinha-hakone-ekiden-running-distance/",
         "https://www.gizmodo.jp/article/azeron_cyborg2_keyzen_tgs2026/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/051cb0fc-a416-4e59-b0e6-9447fb30b497/",
         "https://www.gizmodo.jp/article/what-is-iphoneduo_news/",
         "https://www.gizmodo.jp/article/a967c7b8-0ea8-40f0-8f2c-6d0041585699/",
-        "https://www.gizmodo.jp/article/apple-reference-image_iphone/",
-        "https://www.gizmodo.jp/article/apple_new-items_matome/"
+        "https://www.gizmodo.jp/article/apple-reference-image_iphone/"
     ]
 }
