@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cw980n0nd0qjo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260917de50741",
         "https://news.web.nhk/newsweb/na/nd-20260917de50788",
         "https://news.web.nhk/newsweb/na/nd-20260917de50786",
         "https://news.web.nhk/newsweb/na/nd-20260917de50779",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260915de50246",
         "https://news.web.nhk/newsweb/na/nd-20260915de50291",
         "https://news.web.nhk/newsweb/na/nd-20260915de50266",
-        "https://news.web.nhk/newsweb/na/nd-20260915de50283",
-        "https://news.web.nhk/newsweb/na/nd-20260911de49777"
+        "https://news.web.nhk/newsweb/na/nd-20260915de50283"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2609-samsung-galaxy-buds-on-clip-earphones/",
