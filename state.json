@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/cw980n0nd0qjo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260916de50559",
+        "https://news.web.nhk/newsweb/na/nd-20260916de50501",
         "https://news.web.nhk/newsweb/na/nd-20260916de50504",
         "https://news.web.nhk/newsweb/na/nd-20260916de50499",
         "https://news.web.nhk/newsweb/na/nd-20260916de50500",
@@ -401,11 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260915de50249",
         "https://news.web.nhk/newsweb/na/nd-20260915de50237",
         "https://news.web.nhk/newsweb/na/nd-20260915de50231",
-        "https://news.web.nhk/newsweb/na/nd-20260915de50230",
-        "https://news.web.nhk/newsweb/na/nd-20260911de49721",
-        "https://news.web.nhk/newsweb/na/nd-20260914de50179"
+        "https://news.web.nhk/newsweb/na/nd-20260915de50230"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2609-samsung-galaxy-buds-on-clip-earphones/",
         "https://www.gizmodo.jp/article/lite-way-trinket-whistle-orc/",
         "https://www.gizmodo.jp/article/torras-ostand-q3-air-pro/",
         "https://www.gizmodo.jp/article/174ebbc5-5bc1-4953-aa08-45e05257ebe1/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/2609-metroid-ravenous-switch2/",
         "https://www.gizmodo.jp/article/apple-event-2026-press-badge/",
         "https://www.gizmodo.jp/article/2609-apple-event-live-report-2026-matome/",
-        "https://www.gizmodo.jp/article/apple-event-2026-kuroda-matome/",
-        "https://www.gizmodo.jp/article/2609-cupertino-apple-event-heatwave-report/"
+        "https://www.gizmodo.jp/article/apple-event-2026-kuroda-matome/"
     ]
 }
