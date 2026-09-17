@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "l8cXDvm2HeM",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "hOPxysIHGp4",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c65y5xv3j90vo#1",
         "https://www.bbc.co.uk/news/articles/cmlyrzve5pwzo#1",
         "https://www.bbc.co.uk/news/articles/c58jd32wgwk4o#0",
         "https://www.bbc.co.uk/news/articles/cmpq0wj5g899o#1",
@@ -200,8 +201,7 @@
         "https://www.bbc.co.uk/news/articles/cwn8mjl31p5yo#1",
         "https://www.bbc.co.uk/news/articles/cjvgy1g932xro#1",
         "https://www.bbc.co.uk/news/articles/c8ly49w9g1edo#1",
-        "https://www.bbc.co.uk/news/articles/c8ly49w9g1edo#0",
-        "https://www.bbc.co.uk/news/articles/cy459y5y9yxo#1"
+        "https://www.bbc.co.uk/news/articles/c8ly49w9g1edo#0"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20260828de46994",
@@ -406,6 +406,8 @@
         "https://news.web.nhk/newsweb/na/nd-20260915de50339"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/my-play-watch_tgs2026/",
+        "https://www.gizmodo.jp/article/panasonic-coricoran-tgs2026/",
         "https://www.gizmodo.jp/article/neogio-aes-plus_tgs2026/",
         "https://www.gizmodo.jp/article/rog_xbox_ally_x20/",
         "https://www.gizmodo.jp/article/2609-cio-magnetic-usb-c-cable/",
@@ -603,8 +605,6 @@
         "https://www.gizmodo.jp/article/6d6ba759-4df0-4703-82a7-2b0fb7859513/",
         "https://www.gizmodo.jp/article/2c07774c-0743-4b3c-ad4a-b9bd35415217/",
         "https://www.gizmodo.jp/article/2609-iphone-duo/",
-        "https://www.gizmodo.jp/article/2609-apple-watch-12-ultra-4-health-sensors/",
-        "https://www.gizmodo.jp/article/d8e00d42-1c2b-4f01-af7d-fd151ad1bc31/",
-        "https://www.gizmodo.jp/article/2609-iphone-18-pro-camera-features/"
+        "https://www.gizmodo.jp/article/2609-apple-watch-12-ultra-4-health-sensors/"
     ]
 }
