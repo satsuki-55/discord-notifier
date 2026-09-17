@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "l8cXDvm2HeM",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "hOPxysIHGp4",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cqzrz03pvd43o#1",
         "https://www.bbc.co.uk/news/articles/c65y5xv3j90vo#1",
         "https://www.bbc.co.uk/news/articles/cmlyrzve5pwzo#1",
         "https://www.bbc.co.uk/news/articles/c58jd32wgwk4o#0",
@@ -200,10 +201,10 @@
         "https://www.bbc.co.uk/news/articles/cwn8mjl31p5yo#0",
         "https://www.bbc.co.uk/news/articles/cwn8mjl31p5yo#1",
         "https://www.bbc.co.uk/news/articles/cjvgy1g932xro#1",
-        "https://www.bbc.co.uk/news/articles/c8ly49w9g1edo#1",
-        "https://www.bbc.co.uk/news/articles/c8ly49w9g1edo#0"
+        "https://www.bbc.co.uk/news/articles/c8ly49w9g1edo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260917de50854",
         "https://news.web.nhk/newsweb/na/nd-20260917de50830",
         "https://news.web.nhk/newsweb/na/nd-20260917de50844",
         "https://news.web.nhk/newsweb/na/nd-20260917de50840",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260915de50373",
         "https://news.web.nhk/newsweb/na/nd-20260915de50369",
         "https://news.web.nhk/newsweb/na/nd-20260915de50338",
-        "https://news.web.nhk/newsweb/na/nd-20260915de50319",
-        "https://news.web.nhk/newsweb/na/nd-20260915de50314"
+        "https://news.web.nhk/newsweb/na/nd-20260915de50319"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/biccamera-private-pc/",
