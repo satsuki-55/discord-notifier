@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "l8cXDvm2HeM",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "slO6OwdsCds",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cmpq0wj5g899o#0",
         "https://www.bbc.co.uk/news/articles/cmp3073x6464o#1",
         "https://www.bbc.co.uk/news/articles/c6d79z7ez7r4o#1",
         "https://www.bbc.co.uk/news/articles/cqx2zlxxzpg4o#1",
@@ -200,10 +201,12 @@
         "https://www.bbc.co.uk/news/articles/cn8me133119o#1",
         "https://www.bbc.co.uk/news/articles/c33kmred368o#1",
         "https://www.bbc.co.uk/news/articles/c780zvq7xlvo#1",
-        "https://www.bbc.co.uk/news/articles/cw980n0nd0qjo#1",
-        "https://www.bbc.co.uk/news/articles/cw980n0nd0qjo#0"
+        "https://www.bbc.co.uk/news/articles/cw980n0nd0qjo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260917de50765",
+        "https://news.web.nhk/newsweb/na/nd-20260917de50752",
+        "https://news.web.nhk/newsweb/na/nd-20260917de50763",
         "https://news.web.nhk/newsweb/na/nd-20260916de50559",
         "https://news.web.nhk/newsweb/na/nd-20260916de50501",
         "https://news.web.nhk/newsweb/na/nd-20260916de50504",
@@ -400,10 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260915de50273",
         "https://news.web.nhk/newsweb/na/nd-20260915de50247",
         "https://news.web.nhk/newsweb/na/nd-20260915de50245",
-        "https://news.web.nhk/newsweb/na/nd-20260915de50249",
-        "https://news.web.nhk/newsweb/na/nd-20260915de50237",
-        "https://news.web.nhk/newsweb/na/nd-20260915de50231",
-        "https://news.web.nhk/newsweb/na/nd-20260915de50230"
+        "https://news.web.nhk/newsweb/na/nd-20260915de50249"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2609-samsung-galaxy-buds-on-clip-earphones/",
