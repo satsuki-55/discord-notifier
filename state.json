@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c3n07ydqdzlvo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260917de50909",
         "https://news.web.nhk/newsweb/na/nd-20260917de50892",
         "https://news.web.nhk/newsweb/na/nd-20260917de50888",
         "https://news.web.nhk/newsweb/na/nd-20260915de50401",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260915de50419",
         "https://news.web.nhk/newsweb/na/nd-20260915de50417",
         "https://news.web.nhk/newsweb/na/nd-20260915de50413",
-        "https://news.web.nhk/newsweb/na/nd-20260915de50414",
-        "https://news.web.nhk/newsweb/na/nd-20260915de50416"
+        "https://news.web.nhk/newsweb/na/nd-20260915de50414"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/akko_bun-wonderland-key-cap_tgs2026/",
