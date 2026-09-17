@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/c1kx0gyje9wo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260917de50824",
+        "https://news.web.nhk/newsweb/na/nd-20260917de50793",
         "https://news.web.nhk/newsweb/na/nd-20260917de50803",
         "https://news.web.nhk/newsweb/na/nd-20260917de50798",
         "https://news.web.nhk/newsweb/na/nd-20260917de50812",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260915de50348",
         "https://news.web.nhk/newsweb/na/nd-20260915de50355",
         "https://news.web.nhk/newsweb/na/nd-20260915de50339",
-        "https://news.web.nhk/newsweb/na/nd-20260915de50325",
-        "https://news.web.nhk/newsweb/na/nd-20260915de50343",
-        "https://news.web.nhk/newsweb/na/nd-20260915de50259"
+        "https://news.web.nhk/newsweb/na/nd-20260915de50325"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/gifu-plastic-gamebox-sound-absorbing-booth/",
