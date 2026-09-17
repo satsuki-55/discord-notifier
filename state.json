@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cmqjkg121kr9o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260917de50853",
         "https://news.web.nhk/newsweb/na/nd-20260915de50369",
         "https://news.web.nhk/newsweb/na/nd-20260917de50862",
         "https://news.web.nhk/newsweb/na/nd-20260917de50860",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260915de50371",
         "https://news.web.nhk/newsweb/na/nd-20260915de50379",
         "https://news.web.nhk/newsweb/na/nd-20260915de50378",
-        "https://news.web.nhk/newsweb/na/nd-20260915de50377",
-        "https://news.web.nhk/newsweb/na/nd-20260915de50374"
+        "https://news.web.nhk/newsweb/na/nd-20260915de50377"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/casio_aq240-retro-digiana-watch/",
