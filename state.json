@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "l8cXDvm2HeM",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "a5_iXg7ZDjE",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cmvgyp871j03o#1",
         "https://www.bbc.co.uk/news/articles/cmpq0wj5g899o#0",
         "https://www.bbc.co.uk/news/articles/cmp3073x6464o#1",
         "https://www.bbc.co.uk/news/articles/c6d79z7ez7r4o#1",
@@ -200,10 +201,10 @@
         "https://www.bbc.co.uk/news/articles/ck20989806e9o#1",
         "https://www.bbc.co.uk/news/articles/cn8me133119o#1",
         "https://www.bbc.co.uk/news/articles/c33kmred368o#1",
-        "https://www.bbc.co.uk/news/articles/c780zvq7xlvo#1",
-        "https://www.bbc.co.uk/news/articles/cw980n0nd0qjo#1"
+        "https://www.bbc.co.uk/news/articles/c780zvq7xlvo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260917de50803",
         "https://news.web.nhk/newsweb/na/nd-20260917de50798",
         "https://news.web.nhk/newsweb/na/nd-20260917de50812",
         "https://news.web.nhk/newsweb/na/nd-20260915de50310",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260915de50339",
         "https://news.web.nhk/newsweb/na/nd-20260915de50325",
         "https://news.web.nhk/newsweb/na/nd-20260915de50343",
-        "https://news.web.nhk/newsweb/na/nd-20260915de50259",
-        "https://news.web.nhk/newsweb/na/nd-20260915de50304"
+        "https://news.web.nhk/newsweb/na/nd-20260915de50259"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/movie_satoko_ashizawa-akiko_interview/",
         "https://www.gizmodo.jp/article/2609-orbital-works-modular-mouse-tgs2026/",
         "https://www.gizmodo.jp/article/2609-tgs2026-pokemon-go-gps-spoofing-tool/",
         "https://www.gizmodo.jp/article/keychron-nape-pro-special-edition-tgs2026/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/apple-event-2026-camera-hollywood/",
         "https://www.gizmodo.jp/article/00540d78-4ef1-41fa-b847-8ee97ab61a89/",
         "https://www.gizmodo.jp/article/2609-siri-voice-customization-apple-event/",
-        "https://www.gizmodo.jp/article/63f00909-7f2f-4c0f-bc84-7ea3aaf08403/",
-        "https://www.gizmodo.jp/article/apple-event-2026-john-ternus-debut/"
+        "https://www.gizmodo.jp/article/63f00909-7f2f-4c0f-bc84-7ea3aaf08403/"
     ]
 }
