@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "l8cXDvm2HeM",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "hOPxysIHGp4",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cqlym1n9kpyvo#0",
         "https://www.bbc.co.uk/news/articles/cxr50l3d762po#0",
         "https://www.bbc.co.uk/news/articles/cqde04len22wo#0",
         "https://www.bbc.co.uk/news/articles/cj207ddzy6ewo#1",
@@ -200,10 +201,10 @@
         "https://www.bbc.co.uk/news/articles/cq5ym3rdmkzjo#1",
         "https://www.bbc.co.uk/news/articles/c65yw2gq2nrno#1",
         "https://www.bbc.co.uk/news/articles/cmy4zqgk97wlo#0",
-        "https://www.bbc.co.uk/news/articles/cmq8jdgel128o#0",
-        "https://www.bbc.co.uk/news/articles/c3n07ydqdzlvo#1"
+        "https://www.bbc.co.uk/news/articles/cmq8jdgel128o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260917de50908",
         "https://news.web.nhk/newsweb/na/nd-20260917de50909",
         "https://news.web.nhk/newsweb/na/nd-20260917de50892",
         "https://news.web.nhk/newsweb/na/nd-20260917de50888",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260915de50284",
         "https://news.web.nhk/newsweb/na/nd-20260915de50419",
         "https://news.web.nhk/newsweb/na/nd-20260915de50417",
-        "https://news.web.nhk/newsweb/na/nd-20260915de50413",
-        "https://news.web.nhk/newsweb/na/nd-20260915de50414"
+        "https://news.web.nhk/newsweb/na/nd-20260915de50413"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/akko_bun-wonderland-key-cap_tgs2026/",
