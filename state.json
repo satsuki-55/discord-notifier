@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c6e30e98v7j1o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260918de50946",
         "https://news.web.nhk/newsweb/na/nd-20260918de50936",
         "https://news.web.nhk/newsweb/na/nd-20260918de50945",
         "https://news.web.nhk/newsweb/na/nd-20260917de50925",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260916de50471",
         "https://news.web.nhk/newsweb/na/nd-20260914de50181",
         "https://news.web.nhk/newsweb/na/nd-20260916de50464",
-        "https://news.web.nhk/newsweb/na/nd-20260915de50455",
-        "https://news.web.nhk/newsweb/na/nd-20260916de50457"
+        "https://news.web.nhk/newsweb/na/nd-20260915de50455"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/newbalance_higt-grade-rebounting-insole-dfe-rqg/",
