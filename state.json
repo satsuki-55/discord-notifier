@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cmpq04wx8l4eo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260917de50855",
         "https://news.web.nhk/newsweb/na/nd-20260917de50854",
         "https://news.web.nhk/newsweb/na/nd-20260917de50830",
         "https://news.web.nhk/newsweb/na/nd-20260917de50844",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260915de50374",
         "https://news.web.nhk/newsweb/na/nd-20260915de50373",
         "https://news.web.nhk/newsweb/na/nd-20260915de50369",
-        "https://news.web.nhk/newsweb/na/nd-20260915de50338",
-        "https://news.web.nhk/newsweb/na/nd-20260915de50319"
+        "https://news.web.nhk/newsweb/na/nd-20260915de50338"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/hypeshop_nooir-klavier-2-k2_tgs2026/",
