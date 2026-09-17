@@ -2,6 +2,8 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "l8cXDvm2HeM",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "hOPxysIHGp4",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/videos/cred7xze25ndo#0",
+        "https://www.bbc.co.uk/sport/olympics/articles/cqvgy1m9z4k8o#0",
         "https://www.bbc.co.uk/news/articles/c52e047wpw7po#1",
         "https://www.bbc.co.uk/news/videos/cmew984dq92lo#1",
         "https://www.bbc.co.uk/news/articles/c9lyk27g8ln7o#1",
@@ -199,11 +201,10 @@
         "https://www.bbc.co.uk/news/articles/ck790x9d74vvo#0",
         "https://www.bbc.co.uk/news/articles/cqkgvkn6yyxyo#0",
         "https://www.bbc.co.uk/news/articles/c64g7wl30wygo#1",
-        "https://www.bbc.co.uk/news/articles/cv8e35rzy486o#1",
-        "https://www.bbc.co.uk/news/articles/cw3d7mv5v72ro#1",
-        "https://www.bbc.co.uk/news/videos/cred7xze25ndo#0"
+        "https://www.bbc.co.uk/news/articles/cv8e35rzy486o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260917de50868",
         "https://news.web.nhk/newsweb/na/nd-20260917de50853",
         "https://news.web.nhk/newsweb/na/nd-20260915de50369",
         "https://news.web.nhk/newsweb/na/nd-20260917de50862",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260911de49798",
         "https://news.web.nhk/newsweb/na/nd-20260915de50371",
         "https://news.web.nhk/newsweb/na/nd-20260915de50379",
-        "https://news.web.nhk/newsweb/na/nd-20260915de50378",
-        "https://news.web.nhk/newsweb/na/nd-20260915de50377"
+        "https://news.web.nhk/newsweb/na/nd-20260915de50378"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/fostex_t50rp-bt_tgs2026/",
         "https://www.gizmodo.jp/article/evotop_zuiki_tgs2026/",
         "https://www.gizmodo.jp/article/casio_aq240-retro-digiana-watch/",
         "https://www.gizmodo.jp/article/2609-realforce-gx1-steins-gate-tgs2026/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/iphone-duo-ipad-mini/",
         "https://www.gizmodo.jp/article/3fe59106-ab3a-46cf-ae7b-864ef60c4a7c/",
         "https://www.gizmodo.jp/article/4d9895aa-483c-41fa-8503-87647f84aaf0/",
-        "https://www.gizmodo.jp/article/74760696-6409-43e5-aa4e-8a78c046ee5c/",
-        "https://www.gizmodo.jp/article/2609-iphone-duo-apple-event-report/"
+        "https://www.gizmodo.jp/article/74760696-6409-43e5-aa4e-8a78c046ee5c/"
     ]
 }
