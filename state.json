@@ -2,6 +2,10 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "l8cXDvm2HeM",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "hOPxysIHGp4",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c1dpwg1lq9yo#0",
+        "https://www.bbc.co.uk/news/articles/cvj64w204y58o#0",
+        "https://www.bbc.co.uk/news/articles/cm4gj5z9xvnqo#0",
+        "https://www.bbc.co.uk/news/articles/c79g0j3d4q9o#0",
         "https://www.bbc.co.uk/news/videos/c6p93mn44m42o#1",
         "https://www.bbc.co.uk/news/articles/crlyqg1ekj4po#0",
         "https://www.bbc.co.uk/news/articles/ce8e70x3pjzo#0",
@@ -197,11 +201,7 @@
         "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o#1",
         "https://www.bbc.co.uk/news/articles/cjy5z9l0395ro#1",
         "https://www.bbc.co.uk/news/articles/cmlyrn2n4zg5o#1",
-        "https://www.bbc.co.uk/news/articles/cvg7231pev5o#1",
-        "https://www.bbc.co.uk/news/articles/c607lxnvn7r4o#0",
-        "https://www.bbc.co.uk/news/articles/c607lxnvn7r4o#1",
-        "https://www.bbc.co.uk/news/articles/c1dpwg1lq9yo#0",
-        "https://www.bbc.co.uk/news/articles/cv986j48l66ko#0"
+        "https://www.bbc.co.uk/news/articles/cvg7231pev5o#1"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20260918de50952",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260916de50481"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/detachable-kitchen-shears/",
         "https://www.gizmodo.jp/article/2609-instax-pal-2/",
         "https://www.gizmodo.jp/article/newbalance_higt-grade-rebounting-insole-dfe-rqg/",
         "https://www.gizmodo.jp/article/vitinha-hakone-ekiden-running-distance/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/iphone-18-pro-pro-max-rumors-summary/",
         "https://www.gizmodo.jp/article/051cb0fc-a416-4e59-b0e6-9447fb30b497/",
         "https://www.gizmodo.jp/article/what-is-iphoneduo_news/",
-        "https://www.gizmodo.jp/article/a967c7b8-0ea8-40f0-8f2c-6d0041585699/",
-        "https://www.gizmodo.jp/article/apple-reference-image_iphone/"
+        "https://www.gizmodo.jp/article/a967c7b8-0ea8-40f0-8f2c-6d0041585699/"
     ]
 }
