@@ -2,6 +2,8 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "l8cXDvm2HeM",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "slO6OwdsCds",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c639m42y43v4o#0",
+        "https://www.bbc.co.uk/weather/articles/cqvgy1lejp7ro#1",
         "https://www.bbc.co.uk/news/articles/cy4zpp20w77o#0",
         "https://www.bbc.co.uk/news/articles/cqlykdx48xrpo#1",
         "https://www.bbc.co.uk/news/articles/c60qx4v825glo#0",
@@ -199,11 +201,10 @@
         "https://www.bbc.co.uk/news/articles/cw980n0nd0qjo#0",
         "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o#1",
         "https://www.bbc.co.uk/news/articles/c5yjpdy4gjlo#1",
-        "https://www.bbc.co.uk/news/articles/cqe8x6gkk250o#1",
-        "https://www.bbc.co.uk/news/articles/c9vgy8d8256go#1",
-        "https://www.bbc.co.uk/news/articles/cmly433ke05vo#1"
+        "https://www.bbc.co.uk/news/articles/cqe8x6gkk250o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260917de50714",
         "https://news.web.nhk/newsweb/na/nd-20260917de50725",
         "https://news.web.nhk/newsweb/na/nd-20260917de50723",
         "https://news.web.nhk/newsweb/na/nd-20260914de50204",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260915de50224",
         "https://news.web.nhk/newsweb/na/nd-20260915de50222",
         "https://news.web.nhk/newsweb/na/nd-20260914de50212",
-        "https://news.web.nhk/newsweb/na/nd-20260911de49708",
-        "https://news.web.nhk/newsweb/na/nd-20260915de50221"
+        "https://news.web.nhk/newsweb/na/nd-20260911de49708"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2609-samsung-galaxy-z-trifold-2-release/",
