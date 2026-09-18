@@ -2,6 +2,8 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "l8cXDvm2HeM",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "hOPxysIHGp4",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cqn74jeek06no#0",
+        "https://www.bbc.co.uk/news/articles/c9vgyd02mdvno#1",
         "https://www.bbc.co.uk/news/videos/cq0m3k8n8xm2o#1",
         "https://www.bbc.co.uk/news/articles/cmlyrzz2gpw4o#1",
         "https://www.bbc.co.uk/news/videos/cr209jz45vn4o#1",
@@ -199,11 +201,10 @@
         "https://www.bbc.co.uk/news/articles/ce8e70x3pjzo#1",
         "https://www.bbc.co.uk/news/articles/c64g7wl30wygo#2",
         "https://www.bbc.co.uk/news/articles/cw4gq0j5jg10o#0",
-        "https://www.bbc.co.uk/news/articles/cqy0z5y7wnp2o#0",
-        "https://www.bbc.co.uk/news/articles/crgqde1nex2vo#1",
-        "https://www.bbc.co.uk/news/articles/ckz7zyn1lwypo#1"
+        "https://www.bbc.co.uk/news/articles/cqy0z5y7wnp2o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260918de50970",
         "https://news.web.nhk/newsweb/na/nd-20260918de50976",
         "https://news.web.nhk/newsweb/na/nd-20260918de50975",
         "https://news.web.nhk/newsweb/na/nd-20260918de50974",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260916de50498",
         "https://news.web.nhk/newsweb/na/nd-20260916de50517",
         "https://news.web.nhk/newsweb/na/nd-20260916de50497",
-        "https://news.web.nhk/newsweb/na/nd-20260916de50491",
-        "https://news.web.nhk/newsweb/na/nd-20260913de49974"
+        "https://news.web.nhk/newsweb/na/nd-20260916de50491"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/georgia-data-center-secretly-guzzled-30-million-gallons-of-water-before-paying-a-dime-rfk/",
