@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/videos/cq0m3k8n8xm2o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260918de50974",
         "https://news.web.nhk/newsweb/na/nd-20260918de50960",
         "https://news.web.nhk/newsweb/na/nd-20260918de50958",
         "https://news.web.nhk/newsweb/na/nd-20260918de50959",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260916de50491",
         "https://news.web.nhk/newsweb/na/nd-20260913de49974",
         "https://news.web.nhk/newsweb/na/nd-20260916de50485",
-        "https://news.web.nhk/newsweb/na/nd-20260913de49970",
-        "https://news.web.nhk/newsweb/na/nd-20260916de50483"
+        "https://news.web.nhk/newsweb/na/nd-20260913de49970"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/georgia-data-center-secretly-guzzled-30-million-gallons-of-water-before-paying-a-dime-rfk/",
         "https://www.gizmodo.jp/article/airpods-5_review/",
         "https://www.gizmodo.jp/article/napepro_faq-re/",
         "https://www.gizmodo.jp/article/grapht-mini-dac-horror-edition/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/iphone-duo_samsung_reaction/",
         "https://www.gizmodo.jp/article/2609-mac-studio-ai-demo-apple-park/",
         "https://www.gizmodo.jp/article/sony-wh-1000xm4c-budget-anc-headphone/",
-        "https://www.gizmodo.jp/article/resume_hacks_targeting_ai-xcl/",
-        "https://www.gizmodo.jp/article/lenovo-legion-5a-gen-11/"
+        "https://www.gizmodo.jp/article/resume_hacks_targeting_ai-xcl/"
     ]
 }
