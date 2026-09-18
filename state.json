@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cv986j48l66ko#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260918de51030",
         "https://news.web.nhk/newsweb/na/nd-20260918de50964",
         "https://news.web.nhk/newsweb/na/nd-20260918de51008",
         "https://news.web.nhk/newsweb/na/nd-20260918de51021",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260916de50514",
         "https://news.web.nhk/newsweb/na/nd-20260916de50520",
         "https://news.web.nhk/newsweb/na/nd-20260916de50535",
-        "https://news.web.nhk/newsweb/na/nd-20260916de50531",
-        "https://news.web.nhk/newsweb/na/nd-20260916de50529"
+        "https://news.web.nhk/newsweb/na/nd-20260916de50531"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/iphone-18-pro_burgundy_review/",
