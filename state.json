@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cr5yev2v1x29o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260918de50960",
         "https://news.web.nhk/newsweb/na/nd-20260918de50958",
         "https://news.web.nhk/newsweb/na/nd-20260918de50959",
         "https://news.web.nhk/newsweb/na/nd-20260918de50954",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260913de49974",
         "https://news.web.nhk/newsweb/na/nd-20260916de50485",
         "https://news.web.nhk/newsweb/na/nd-20260913de49970",
-        "https://news.web.nhk/newsweb/na/nd-20260916de50483",
-        "https://news.web.nhk/newsweb/na/nd-20260916de50475"
+        "https://news.web.nhk/newsweb/na/nd-20260916de50483"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/iphone18pro-new-camera-feature/",
