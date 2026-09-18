@@ -204,6 +204,9 @@
         "https://www.bbc.co.uk/news/articles/cq986j7x1nd3o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260918de51089",
+        "https://news.web.nhk/newsweb/na/nd-20260918de51072",
+        "https://news.web.nhk/newsweb/na/nd-20260918de51068",
         "https://news.web.nhk/newsweb/na/nd-20260918de51080",
         "https://news.web.nhk/newsweb/na/nd-20260918de51076",
         "https://news.web.nhk/newsweb/na/nd-20260918de51086",
@@ -400,12 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260916de50636",
         "https://news.web.nhk/newsweb/na/nd-20260916de50619",
         "https://news.web.nhk/newsweb/na/nd-20260916de50638",
-        "https://news.web.nhk/newsweb/na/nd-20260916de50533",
-        "https://news.web.nhk/newsweb/na/nd-20260916de50630",
-        "https://news.web.nhk/newsweb/na/nd-20260916de50628",
-        "https://news.web.nhk/newsweb/na/nd-20260916de50635"
+        "https://news.web.nhk/newsweb/na/nd-20260916de50533"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/iphone-daiso-goods/",
         "https://www.gizmodo.jp/article/2609-googlebook-preorder-2026-september/",
         "https://www.gizmodo.jp/article/gamingglasses_meganemonoya_tgs2026/",
         "https://www.gizmodo.jp/article/belkin-iphone-18-pro-promax-cases/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/orca-echo-3days-left/",
         "https://www.gizmodo.jp/article/huawei-has-a-new-3000-trifold-just-in-case-apples-foldable-iphone-wasnt-expensive-enough-for-you/",
         "https://www.gizmodo.jp/article/oled-screens-are-finally-defeating-the-one-thing-holding-them-back/",
-        "https://www.gizmodo.jp/article/10-moments-apple-event-2026/",
-        "https://www.gizmodo.jp/article/data-center-ied/"
+        "https://www.gizmodo.jp/article/10-moments-apple-event-2026/"
     ]
 }
