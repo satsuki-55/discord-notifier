@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cqy0z5y7wnp2o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260918de51021",
         "https://news.web.nhk/newsweb/na/nd-20260918de51005",
         "https://news.web.nhk/newsweb/na/nd-20260918de50989",
         "https://news.web.nhk/newsweb/na/nd-20260918de50986",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260916de50531",
         "https://news.web.nhk/newsweb/na/nd-20260916de50529",
         "https://news.web.nhk/newsweb/na/nd-20260916de50493",
-        "https://news.web.nhk/newsweb/na/nd-20260916de50522",
-        "https://news.web.nhk/newsweb/na/nd-20260916de50526"
+        "https://news.web.nhk/newsweb/na/nd-20260916de50522"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2609-3coins-suitcase-iphone-holder/",
