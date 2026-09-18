@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cgqd9zkkvlyo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260918de51062",
         "https://news.web.nhk/newsweb/na/nd-20260918de51153",
         "https://news.web.nhk/newsweb/na/nd-20260919de51182",
         "https://news.web.nhk/newsweb/na/nd-20260918de51142",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260917de50718",
         "https://news.web.nhk/newsweb/na/nd-20260917de50709",
         "https://news.web.nhk/newsweb/na/nd-20260917de50702",
-        "https://news.web.nhk/newsweb/na/nd-20260917de50708",
-        "https://news.web.nhk/newsweb/na/nd-20260917de50697"
+        "https://news.web.nhk/newsweb/na/nd-20260917de50708"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/sensor-light-ball-type-daiso-f7p/",
