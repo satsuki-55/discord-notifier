@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "l8cXDvm2HeM",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "hOPxysIHGp4",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/videos/c9lyk2xj62yro#1",
         "https://www.bbc.co.uk/news/articles/c8vgy53k49lgo#0",
         "https://www.bbc.co.uk/news/articles/cwp845p6q2qqo#1",
         "https://www.bbc.co.uk/news/articles/c6qjk9q1wpqeo#0",
@@ -200,10 +201,11 @@
         "https://www.bbc.co.uk/news/articles/c6n4523y5490o#1",
         "https://www.bbc.co.uk/news/articles/cr89jqd1w45eo#0",
         "https://www.bbc.co.uk/news/articles/c8vgy53k49lgo#1",
-        "https://www.bbc.co.uk/news/articles/c6kgxjl35822o#0",
-        "https://www.bbc.co.uk/news/articles/cq986j7x1nd3o#1"
+        "https://www.bbc.co.uk/news/articles/c6kgxjl35822o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260916de50619",
+        "https://news.web.nhk/newsweb/na/nd-20260918de51096",
         "https://news.web.nhk/newsweb/na/nd-20260918de51078",
         "https://news.web.nhk/newsweb/na/nd-20260918de51075",
         "https://news.web.nhk/newsweb/na/nd-20260918de51089",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260916de50627",
         "https://news.web.nhk/newsweb/na/nd-20260916de50642",
         "https://news.web.nhk/newsweb/na/nd-20260916de50650",
-        "https://news.web.nhk/newsweb/na/nd-20260916de50647",
-        "https://news.web.nhk/newsweb/na/nd-20260916de50636",
-        "https://news.web.nhk/newsweb/na/nd-20260916de50619"
+        "https://news.web.nhk/newsweb/na/nd-20260916de50647"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/apple-wrist-strap/",
