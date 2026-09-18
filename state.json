@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c6kgxjl35822o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260918de51095",
         "https://news.web.nhk/newsweb/na/nd-20260918de51103",
         "https://news.web.nhk/newsweb/na/nd-20260918de51097",
         "https://news.web.nhk/newsweb/na/nd-20260918de51091",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260916de50602",
         "https://news.web.nhk/newsweb/na/nd-20260916de50660",
         "https://news.web.nhk/newsweb/na/nd-20260916de50658",
-        "https://news.web.nhk/newsweb/na/nd-20260916de50640",
-        "https://news.web.nhk/newsweb/na/nd-20260916de50654"
+        "https://news.web.nhk/newsweb/na/nd-20260916de50640"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/iphone-18-pro-review/",
         "https://www.gizmodo.jp/article/2609-iphone-18-pro-max-center-of-gravity/",
         "https://www.gizmodo.jp/article/tgs2026_matome/",
         "https://www.gizmodo.jp/article/2609-anker-solix-s2000-portable-power-station-review/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/ai-data-centers-community-benefit-infrastructure/",
         "https://www.gizmodo.jp/article/2609-tesla-powerwall-3/",
         "https://www.gizmodo.jp/article/lenovos-aeroblade-concept-could-bring-us-laptops-that-weigh-less-than-two-pounds/",
-        "https://www.gizmodo.jp/article/rotunbot-byc/",
-        "https://www.gizmodo.jp/article/xiaomi-mineral-water-purifier/"
+        "https://www.gizmodo.jp/article/rotunbot-byc/"
     ]
 }
