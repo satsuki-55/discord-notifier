@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/cv986j48l66ko#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260918de51044",
+        "https://news.web.nhk/newsweb/na/nd-20260918de51012",
         "https://news.web.nhk/newsweb/na/nd-20260918de51046",
         "https://news.web.nhk/newsweb/na/nd-20260918de51039",
         "https://news.web.nhk/newsweb/na/nd-20260918de51032",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260916de50562",
         "https://news.web.nhk/newsweb/na/nd-20260916de50574",
         "https://news.web.nhk/newsweb/na/nd-20260916de50557",
-        "https://news.web.nhk/newsweb/na/nd-20260916de50551",
-        "https://news.web.nhk/newsweb/na/nd-20260916de50547",
-        "https://news.web.nhk/newsweb/na/nd-20260916de50514"
+        "https://news.web.nhk/newsweb/na/nd-20260916de50551"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2609-digital-paper-camera-diy/",
