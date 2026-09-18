@@ -2,6 +2,8 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "l8cXDvm2HeM",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "hOPxysIHGp4",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cw7v4jr2932ro#0",
+        "https://www.bbc.co.uk/news/articles/ck980qyy6d2zo#1",
         "https://www.bbc.co.uk/news/articles/c574e3kk818do#0",
         "https://www.bbc.co.uk/news/articles/cmx2zg345drgo#0",
         "https://www.bbc.co.uk/news/articles/cm0rejq1wqkko#1",
@@ -199,9 +201,7 @@
         "https://www.bbc.co.uk/news/articles/cj06762qegmo#0",
         "https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko#0",
         "https://www.bbc.co.uk/news/articles/cqy0z5y7wnp2o#1",
-        "https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o#1",
-        "https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko#1",
-        "https://www.bbc.co.uk/news/videos/cwz0zpyzrlr1o#1"
+        "https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o#1"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20260918de51056",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260916de50572"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/7fa81580-456b-4241-b4b0-df696ba0cc95/",
         "https://www.gizmodo.jp/article/drump-wakarase_tgs2026/",
         "https://www.gizmodo.jp/article/moimate_blocpad/",
         "https://www.gizmodo.jp/article/tgs2026_fluffy-matome/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/data-center-ied/",
         "https://www.gizmodo.jp/article/nnormal-cadi-gtx/",
         "https://www.gizmodo.jp/article/ios-27_siri-ai_release_date/",
-        "https://www.gizmodo.jp/article/apple-watch_series-12_siri_recap_health/",
-        "https://www.gizmodo.jp/article/2609-iphone-duo-price-justification/"
+        "https://www.gizmodo.jp/article/apple-watch_series-12_siri_recap_health/"
     ]
 }
