@@ -2,6 +2,8 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "l8cXDvm2HeM",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "hOPxysIHGp4",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c6x2z4dlzyr0o#0",
+        "https://www.bbc.co.uk/news/articles/ck0e35qyqlx0o#1",
         "https://www.bbc.co.uk/news/videos/cm2dw1y5enx6o#1",
         "https://www.bbc.co.uk/news/articles/c9j3d2rr6g24o#1",
         "https://www.bbc.co.uk/news/articles/cw7v4jr2932ro#0",
@@ -199,11 +201,10 @@
         "https://www.bbc.co.uk/news/articles/cq986j7x1nd3o#1",
         "https://www.bbc.co.uk/news/videos/ck7v40jjv367o#2",
         "https://www.bbc.co.uk/news/articles/c8vgy53k49lgo#0",
-        "https://www.bbc.co.uk/news/articles/ce8e70x3pjzo#2",
-        "https://www.bbc.co.uk/news/articles/cj06762qegmo#0",
-        "https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko#0"
+        "https://www.bbc.co.uk/news/articles/ce8e70x3pjzo#2"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260918de51070",
         "https://news.web.nhk/newsweb/na/nd-20260918de51063",
         "https://news.web.nhk/newsweb/na/nd-20260916de50572",
         "https://news.web.nhk/newsweb/na/nd-20260916de50592",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260916de50597",
         "https://news.web.nhk/newsweb/na/nd-20260916de50610",
         "https://news.web.nhk/newsweb/na/nd-20260916de50606",
-        "https://news.web.nhk/newsweb/na/nd-20260916de50598",
-        "https://news.web.nhk/newsweb/na/nd-20260914de50002"
+        "https://news.web.nhk/newsweb/na/nd-20260916de50598"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/belkin-iphone-18-pro-promax-cases/",
