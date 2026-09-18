@@ -2,6 +2,8 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "T1QaaRpfK9U",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "hOPxysIHGp4",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cm2dw1w9d3yjo#0",
+        "https://www.bbc.co.uk/news/articles/cm2dw1w9d3yjo#1",
         "https://www.bbc.co.uk/news/articles/cw0kl1571lpmo#1",
         "https://www.bbc.co.uk/news/articles/cw0kl1571lpmo#0",
         "https://www.bbc.co.uk/news/articles/ck05rv764l0eo#1",
@@ -199,11 +201,10 @@
         "https://www.bbc.co.uk/news/articles/c6lyqe9j1gy5o#1",
         "https://www.bbc.co.uk/news/articles/cn8m1113ym1o#0",
         "https://www.bbc.co.uk/news/articles/cjp3077led9qo#0",
-        "https://www.bbc.co.uk/news/articles/c6dj4nn0n97ro#0",
-        "https://www.bbc.co.uk/news/articles/c6783ekp0yn8o#1",
-        "https://www.bbc.co.uk/news/articles/c3ew98pd1755o#1"
+        "https://www.bbc.co.uk/news/articles/c6dj4nn0n97ro#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260918de51143",
         "https://news.web.nhk/newsweb/na/nd-20260828de46995",
         "https://news.web.nhk/newsweb/na/nd-20260918de51127",
         "https://news.web.nhk/newsweb/na/nd-20260918de51130",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260916de50687",
         "https://news.web.nhk/newsweb/na/nd-20260916de50688",
         "https://news.web.nhk/newsweb/na/nd-20260916de50689",
-        "https://news.web.nhk/newsweb/na/nd-20260917de50690",
-        "https://news.web.nhk/newsweb/na/nd-20260916de50686"
+        "https://news.web.nhk/newsweb/na/nd-20260917de50690"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/electra-mit-ohio-aircraft-factory/",
         "https://www.gizmodo.jp/article/did-google-glass-wearers-actually-get-punched-in-the-face/",
         "https://www.gizmodo.jp/article/iphone18pro-camera-nightview/",
         "https://www.gizmodo.jp/article/the-lucas-museum-is-here-the-good-the-bad-and-the-incredible/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/2609-iphone-18-pro-duo-career-release-price/",
         "https://www.gizmodo.jp/article/orca-echo-summary/",
         "https://www.gizmodo.jp/article/2609-motorola-wide-foldable-smartphone-teaser/",
-        "https://www.gizmodo.jp/article/rhinoshield-airx-guinness-world-records/",
-        "https://www.gizmodo.jp/article/airpods-5-wireless-charging-case-hands-on/"
+        "https://www.gizmodo.jp/article/rhinoshield-airx-guinness-world-records/"
     ]
 }
