@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c6kgxjl35822o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260918de51103",
         "https://news.web.nhk/newsweb/na/nd-20260918de51097",
         "https://news.web.nhk/newsweb/na/nd-20260918de51091",
         "https://news.web.nhk/newsweb/na/nd-20260918de51087",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260916de50660",
         "https://news.web.nhk/newsweb/na/nd-20260916de50658",
         "https://news.web.nhk/newsweb/na/nd-20260916de50640",
-        "https://news.web.nhk/newsweb/na/nd-20260916de50654",
-        "https://news.web.nhk/newsweb/na/nd-20260916de50639"
+        "https://news.web.nhk/newsweb/na/nd-20260916de50654"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2609-iphone-18-pro-max-center-of-gravity/",
