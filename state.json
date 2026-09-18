@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cq986j7x1nd3o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260918de51086",
         "https://news.web.nhk/newsweb/na/nd-20260916de50597",
         "https://news.web.nhk/newsweb/na/nd-20260918de51066",
         "https://news.web.nhk/newsweb/na/nd-20260918de51071",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260916de50628",
         "https://news.web.nhk/newsweb/na/nd-20260916de50635",
         "https://news.web.nhk/newsweb/na/nd-20260916de50620",
-        "https://news.web.nhk/newsweb/na/nd-20260916de50512",
-        "https://news.web.nhk/newsweb/na/nd-20260916de50622"
+        "https://news.web.nhk/newsweb/na/nd-20260916de50512"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2609-googlebook-preorder-2026-september/",
