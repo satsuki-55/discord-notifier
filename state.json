@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "l8cXDvm2HeM",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "hOPxysIHGp4",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c54g7jdmw032o#0",
         "https://www.bbc.co.uk/news/articles/ckn9wenz8wjwo#1",
         "https://www.bbc.co.uk/news/articles/cw1mvjyv937eo#0",
         "https://www.bbc.co.uk/news/articles/c6y9zgx5vy2go#1",
@@ -200,10 +201,11 @@
         "https://www.bbc.co.uk/news/videos/c5n4k0pmdx89o#1",
         "https://www.bbc.co.uk/news/articles/cjqlw4773rqyo#1",
         "https://www.bbc.co.uk/news/articles/cx1l6rzj86vgo#0",
-        "https://www.bbc.co.uk/news/videos/c6kgxmk5zkrgo#0",
-        "https://www.bbc.co.uk/news/articles/cqr7dj1e34z9o#0"
+        "https://www.bbc.co.uk/news/videos/c6kgxmk5zkrgo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260918de51133",
+        "https://news.web.nhk/newsweb/na/nd-20260918de51120",
         "https://news.web.nhk/newsweb/na/nd-20260918de51106",
         "https://news.web.nhk/newsweb/na/nd-20260918de51129",
         "https://news.web.nhk/newsweb/na/nd-20260918de51077",
@@ -401,11 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260916de50681",
         "https://news.web.nhk/newsweb/na/nd-20260916de50674",
         "https://news.web.nhk/newsweb/na/nd-20260914de50163",
-        "https://news.web.nhk/newsweb/na/nd-20260916de50641",
-        "https://news.web.nhk/newsweb/na/nd-20260916de50673",
-        "https://news.web.nhk/newsweb/na/nd-20260914de50146"
+        "https://news.web.nhk/newsweb/na/nd-20260916de50641"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2609-ugreen-magflow-pro-liquid-cooled-power-bank/",
         "https://www.gizmodo.jp/article/iphone-18-pro_clearcase/",
         "https://www.gizmodo.jp/article/2609-iphone18-pro-faceid-screen-protector-issue/",
         "https://www.gizmodo.jp/article/iphone-18-pro-review/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/airpods-5-wireless-charging-case-hands-on/",
         "https://www.gizmodo.jp/article/bb50a66f-8daf-401b-938f-27d05e88e471/",
         "https://www.gizmodo.jp/article/sanwa-supply-usb-power-tap/",
-        "https://www.gizmodo.jp/article/ai-data-centers-community-benefit-infrastructure/",
-        "https://www.gizmodo.jp/article/2609-tesla-powerwall-3/"
+        "https://www.gizmodo.jp/article/ai-data-centers-community-benefit-infrastructure/"
     ]
 }
