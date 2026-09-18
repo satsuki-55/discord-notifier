@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/cqr7dj1e34z9o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260918de51106",
+        "https://news.web.nhk/newsweb/na/nd-20260918de51129",
         "https://news.web.nhk/newsweb/na/nd-20260918de51077",
         "https://news.web.nhk/newsweb/na/nd-20260918de51124",
         "https://news.web.nhk/newsweb/na/nd-20260918de51118",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260914de50163",
         "https://news.web.nhk/newsweb/na/nd-20260916de50641",
         "https://news.web.nhk/newsweb/na/nd-20260916de50673",
-        "https://news.web.nhk/newsweb/na/nd-20260914de50146",
-        "https://news.web.nhk/newsweb/na/nd-20260916de50669",
-        "https://news.web.nhk/newsweb/na/nd-20260914de50144"
+        "https://news.web.nhk/newsweb/na/nd-20260914de50146"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/iphone-18-pro_clearcase/",
