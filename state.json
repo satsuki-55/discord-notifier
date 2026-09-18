@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "T1QaaRpfK9U",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "hOPxysIHGp4",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c63d7lexyym1o#1",
         "https://www.bbc.co.uk/news/articles/cgqd9zkkvlyo#0",
         "https://www.bbc.co.uk/news/articles/cw5yl228lvzlo#0",
         "https://www.bbc.co.uk/sport/football/articles/cmeq8v8e3ql7o#1",
@@ -200,10 +201,10 @@
         "https://www.bbc.co.uk/news/articles/cr3wjz3edd10o#1",
         "https://www.bbc.co.uk/news/articles/cm4gjrxez1q0o#1",
         "https://www.bbc.co.uk/news/articles/cr3wjz3edd10o#0",
-        "https://www.bbc.co.uk/news/videos/cm4gkvk7wzkpo#0",
-        "https://www.bbc.co.uk/news/articles/cm4gjrxez1q0o#0"
+        "https://www.bbc.co.uk/news/videos/cm4gkvk7wzkpo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260919de51190",
         "https://news.web.nhk/newsweb/na/nd-20260918de51062",
         "https://news.web.nhk/newsweb/na/nd-20260918de51153",
         "https://news.web.nhk/newsweb/na/nd-20260919de51182",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260917de50717",
         "https://news.web.nhk/newsweb/na/nd-20260917de50718",
         "https://news.web.nhk/newsweb/na/nd-20260917de50709",
-        "https://news.web.nhk/newsweb/na/nd-20260917de50702",
-        "https://news.web.nhk/newsweb/na/nd-20260917de50708"
+        "https://news.web.nhk/newsweb/na/nd-20260917de50702"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/sensor-light-ball-type-daiso-f7p/",
