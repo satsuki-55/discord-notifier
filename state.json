@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "T1QaaRpfK9U",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "hOPxysIHGp4",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cke87n51563po#0",
         "https://www.bbc.co.uk/news/articles/c8y5z7d37yzzo#0",
         "https://www.bbc.co.uk/news/articles/cqde04len22wo#1",
         "https://www.bbc.co.uk/news/articles/c54g7jdmw032o#1",
@@ -200,10 +201,10 @@
         "https://www.bbc.co.uk/news/articles/cqkgvkn6yyxyo#1",
         "https://www.bbc.co.uk/news/articles/c750vqp1wlxo#0",
         "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo#0",
-        "https://www.bbc.co.uk/news/videos/cw1mv721kedlo#1",
-        "https://www.bbc.co.uk/news/videos/c5n4k0pmdx89o#1"
+        "https://www.bbc.co.uk/news/videos/cw1mv721kedlo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260918de51130",
         "https://news.web.nhk/newsweb/na/nd-20260918de51116",
         "https://news.web.nhk/newsweb/na/nd-20260918de51133",
         "https://news.web.nhk/newsweb/na/nd-20260918de51120",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260917de50690",
         "https://news.web.nhk/newsweb/na/nd-20260916de50686",
         "https://news.web.nhk/newsweb/na/nd-20260916de50681",
-        "https://news.web.nhk/newsweb/na/nd-20260916de50674",
-        "https://news.web.nhk/newsweb/na/nd-20260914de50163"
+        "https://news.web.nhk/newsweb/na/nd-20260916de50674"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2609-ugreen-magflow-pro-liquid-cooled-power-bank/",
