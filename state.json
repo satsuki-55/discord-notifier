@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c6kgxjl35822o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260918de51093",
         "https://news.web.nhk/newsweb/na/nd-20260916de50619",
         "https://news.web.nhk/newsweb/na/nd-20260918de51096",
         "https://news.web.nhk/newsweb/na/nd-20260918de51078",
@@ -402,10 +403,11 @@
         "https://news.web.nhk/newsweb/na/nd-20260916de50639",
         "https://news.web.nhk/newsweb/na/nd-20260916de50627",
         "https://news.web.nhk/newsweb/na/nd-20260916de50642",
-        "https://news.web.nhk/newsweb/na/nd-20260916de50650",
-        "https://news.web.nhk/newsweb/na/nd-20260916de50647"
+        "https://news.web.nhk/newsweb/na/nd-20260916de50650"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/tgs2026_matome/",
+        "https://www.gizmodo.jp/article/2609-anker-solix-s2000-portable-power-station-review/",
         "https://www.gizmodo.jp/article/apple-wrist-strap/",
         "https://www.gizmodo.jp/article/iphone-daiso-goods/",
         "https://www.gizmodo.jp/article/2609-googlebook-preorder-2026-september/",
@@ -603,8 +605,6 @@
         "https://www.gizmodo.jp/article/lenovos-aeroblade-concept-could-bring-us-laptops-that-weigh-less-than-two-pounds/",
         "https://www.gizmodo.jp/article/rotunbot-byc/",
         "https://www.gizmodo.jp/article/xiaomi-mineral-water-purifier/",
-        "https://www.gizmodo.jp/article/orca-echo-3days-left/",
-        "https://www.gizmodo.jp/article/huawei-has-a-new-3000-trifold-just-in-case-apples-foldable-iphone-wasnt-expensive-enough-for-you/",
-        "https://www.gizmodo.jp/article/oled-screens-are-finally-defeating-the-one-thing-holding-them-back/"
+        "https://www.gizmodo.jp/article/orca-echo-3days-left/"
     ]
 }
