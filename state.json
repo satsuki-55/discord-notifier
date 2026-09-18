@@ -2,6 +2,9 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "l8cXDvm2HeM",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "hOPxysIHGp4",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c6y9zgx5vy2go#0",
+        "https://www.bbc.co.uk/news/articles/cm3wjlxjnwg3o#1",
+        "https://www.bbc.co.uk/news/articles/c6z0zg53vp4lo#1",
         "https://www.bbc.co.uk/news/articles/cw980qp2n3p4o#0",
         "https://www.bbc.co.uk/news/articles/cqx2zgk8k8xvo#1",
         "https://www.bbc.co.uk/news/articles/cw1mvj19yvk4o#0",
@@ -198,10 +201,7 @@
         "https://www.bbc.co.uk/news/videos/cq0m3k8n8xm2o#0",
         "https://www.bbc.co.uk/news/articles/cw4gr5jnd134o#0",
         "https://www.bbc.co.uk/news/articles/c6y8zp3kv0x3o#1",
-        "https://www.bbc.co.uk/news/articles/c39w4xqw4r2jo#0",
-        "https://www.bbc.co.uk/news/articles/c39w4xqw4r2jo#1",
-        "https://www.bbc.co.uk/news/articles/c790xvnzgnno#0",
-        "https://www.bbc.co.uk/news/articles/cm17jz89rxevo#0"
+        "https://www.bbc.co.uk/news/articles/c39w4xqw4r2jo#0"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20260918de51118",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260916de50663"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/iphone-18-pro_clearcase/",
         "https://www.gizmodo.jp/article/2609-iphone18-pro-faceid-screen-protector-issue/",
         "https://www.gizmodo.jp/article/iphone-18-pro-review/",
         "https://www.gizmodo.jp/article/2609-iphone-18-pro-max-center-of-gravity/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/bb50a66f-8daf-401b-938f-27d05e88e471/",
         "https://www.gizmodo.jp/article/sanwa-supply-usb-power-tap/",
         "https://www.gizmodo.jp/article/ai-data-centers-community-benefit-infrastructure/",
-        "https://www.gizmodo.jp/article/2609-tesla-powerwall-3/",
-        "https://www.gizmodo.jp/article/lenovos-aeroblade-concept-could-bring-us-laptops-that-weigh-less-than-two-pounds/"
+        "https://www.gizmodo.jp/article/2609-tesla-powerwall-3/"
     ]
 }
