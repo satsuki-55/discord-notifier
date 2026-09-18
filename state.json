@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cv986j48l66ko#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260918de51039",
         "https://news.web.nhk/newsweb/na/nd-20260918de51032",
         "https://news.web.nhk/newsweb/na/nd-20260918de51030",
         "https://news.web.nhk/newsweb/na/nd-20260918de50964",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260916de50551",
         "https://news.web.nhk/newsweb/na/nd-20260916de50547",
         "https://news.web.nhk/newsweb/na/nd-20260916de50514",
-        "https://news.web.nhk/newsweb/na/nd-20260916de50520",
-        "https://news.web.nhk/newsweb/na/nd-20260916de50535"
+        "https://news.web.nhk/newsweb/na/nd-20260916de50520"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2604-lht-iflytek-ainote2-jgl/",
         "https://www.gizmodo.jp/article/iphone-18-pro_burgundy_review/",
         "https://www.gizmodo.jp/article/2609-3coins-suitcase-iphone-holder/",
         "https://www.gizmodo.jp/article/iphone-18-pro_dynamic-island/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/chargespot-battery-serial-number-safety/",
         "https://www.gizmodo.jp/article/iphone_price_increase/",
         "https://www.gizmodo.jp/article/orca-echo-review/",
-        "https://www.gizmodo.jp/article/single-tooth-forensic-identification/",
-        "https://www.gizmodo.jp/article/metalgearsolid-master-collection2-review/"
+        "https://www.gizmodo.jp/article/single-tooth-forensic-identification/"
     ]
 }
