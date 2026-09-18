@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cv2dw7lw4rkpo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260918de51050",
         "https://news.web.nhk/newsweb/na/nd-20260918de51052",
         "https://news.web.nhk/newsweb/na/nd-20260918de51022",
         "https://news.web.nhk/newsweb/na/nd-20260918de51044",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260916de50594",
         "https://news.web.nhk/newsweb/na/nd-20260916de50590",
         "https://news.web.nhk/newsweb/na/nd-20260916de50572",
-        "https://news.web.nhk/newsweb/na/nd-20260916de50562",
-        "https://news.web.nhk/newsweb/na/nd-20260916de50574"
+        "https://news.web.nhk/newsweb/na/nd-20260916de50562"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/drump-wakarase_tgs2026/",
         "https://www.gizmodo.jp/article/moimate_blocpad/",
         "https://www.gizmodo.jp/article/tgs2026_fluffy-matome/",
         "https://www.gizmodo.jp/article/game-in-thailand-is-fire_tgs2026/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/nnormal-cadi-gtx/",
         "https://www.gizmodo.jp/article/ios-27_siri-ai_release_date/",
         "https://www.gizmodo.jp/article/apple-watch_series-12_siri_recap_health/",
-        "https://www.gizmodo.jp/article/2609-iphone-duo-price-justification/",
-        "https://www.gizmodo.jp/article/why-iphone-duo/"
+        "https://www.gizmodo.jp/article/2609-iphone-duo-price-justification/"
     ]
 }
