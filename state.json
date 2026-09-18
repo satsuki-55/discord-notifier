@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/cm17jz89rxevo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260918de51118",
+        "https://news.web.nhk/newsweb/na/nd-20260918de51115",
         "https://news.web.nhk/newsweb/na/nd-20260918de51104",
         "https://news.web.nhk/newsweb/na/nd-20260918de51088",
         "https://news.web.nhk/newsweb/na/nd-20260918de51095",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260916de50669",
         "https://news.web.nhk/newsweb/na/nd-20260914de50144",
         "https://news.web.nhk/newsweb/na/nd-20260916de50665",
-        "https://news.web.nhk/newsweb/na/nd-20260916de50663",
-        "https://news.web.nhk/newsweb/na/nd-20260916de50602",
-        "https://news.web.nhk/newsweb/na/nd-20260916de50660"
+        "https://news.web.nhk/newsweb/na/nd-20260916de50663"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2609-iphone18-pro-faceid-screen-protector-issue/",
