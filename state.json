@@ -2,6 +2,8 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "l8cXDvm2HeM",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "hOPxysIHGp4",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c6kgxjl35822o#0",
+        "https://www.bbc.co.uk/news/articles/c6n8m72r13ngo#1",
         "https://www.bbc.co.uk/news/videos/c9lyk2xj62yro#1",
         "https://www.bbc.co.uk/news/articles/c8vgy53k49lgo#0",
         "https://www.bbc.co.uk/news/articles/cwp845p6q2qqo#1",
@@ -199,11 +201,10 @@
         "https://www.bbc.co.uk/news/articles/cw4gmllp86mmo#1",
         "https://www.bbc.co.uk/news/articles/cmd79z0pdzgjo#1",
         "https://www.bbc.co.uk/news/articles/c6n4523y5490o#1",
-        "https://www.bbc.co.uk/news/articles/cr89jqd1w45eo#0",
-        "https://www.bbc.co.uk/news/articles/c8vgy53k49lgo#1",
-        "https://www.bbc.co.uk/news/articles/c6kgxjl35822o#0"
+        "https://www.bbc.co.uk/news/articles/cr89jqd1w45eo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260918de51088",
         "https://news.web.nhk/newsweb/na/nd-20260918de51095",
         "https://news.web.nhk/newsweb/na/nd-20260918de51103",
         "https://news.web.nhk/newsweb/na/nd-20260918de51097",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260916de50663",
         "https://news.web.nhk/newsweb/na/nd-20260916de50602",
         "https://news.web.nhk/newsweb/na/nd-20260916de50660",
-        "https://news.web.nhk/newsweb/na/nd-20260916de50658",
-        "https://news.web.nhk/newsweb/na/nd-20260916de50640"
+        "https://news.web.nhk/newsweb/na/nd-20260916de50658"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/iphone-18-pro-review/",
