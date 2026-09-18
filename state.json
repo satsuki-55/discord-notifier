@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/weather/articles/cqvgy1lejp7ro#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260919de51203",
         "https://news.web.nhk/newsweb/na/nd-20260919de51202",
         "https://news.web.nhk/newsweb/na/nd-20260919de51190",
         "https://news.web.nhk/newsweb/na/nd-20260918de51062",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260917de50711",
         "https://news.web.nhk/newsweb/na/nd-20260916de50616",
         "https://news.web.nhk/newsweb/na/nd-20260917de50717",
-        "https://news.web.nhk/newsweb/na/nd-20260917de50718",
-        "https://news.web.nhk/newsweb/na/nd-20260917de50709"
+        "https://news.web.nhk/newsweb/na/nd-20260917de50718"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2609-truck-bus-simulator/",
