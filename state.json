@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/ck980qyy6d2zo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260920de51299",
         "https://news.web.nhk/newsweb/na/nd-20260920de51297",
         "https://news.web.nhk/newsweb/na/nd-20260919de51264",
         "https://news.web.nhk/newsweb/na/nd-20260920de51302",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260917de50840",
         "https://news.web.nhk/newsweb/na/nd-20260917de50835",
         "https://news.web.nhk/newsweb/na/nd-20260917de50837",
-        "https://news.web.nhk/newsweb/na/nd-20260828de46994",
-        "https://news.web.nhk/newsweb/na/nd-20260917de50824"
+        "https://news.web.nhk/newsweb/na/nd-20260828de46994"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2609-timex-t80-ring-watch/",
