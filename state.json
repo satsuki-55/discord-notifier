@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cv0lrxw6ygl2o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260919de51237",
         "https://news.web.nhk/newsweb/na/nd-20260919de51235",
         "https://news.web.nhk/newsweb/na/nd-20260919de51230",
         "https://news.web.nhk/newsweb/na/nd-20260919de51229",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260917de50779",
         "https://news.web.nhk/newsweb/na/nd-20260917de50776",
         "https://news.web.nhk/newsweb/na/nd-20260917de50768",
-        "https://news.web.nhk/newsweb/na/nd-20260917de50765",
-        "https://news.web.nhk/newsweb/na/nd-20260917de50752"
+        "https://news.web.nhk/newsweb/na/nd-20260917de50765"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/what-is-pro/",
         "https://www.gizmodo.jp/article/2609-casio-f-b100w-smart-cheap-casio/",
         "https://www.gizmodo.jp/article/2609-yamazaky-bathroom-drain-net-holder/",
         "https://www.gizmodo.jp/article/bose-open-earbuds-2026/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/apple-watch-series-12-and-ultra-4-ram/",
         "https://www.gizmodo.jp/article/level-lock-pro-review-as-good-as-a-secret-smart-lock-gets-spc/",
         "https://www.gizmodo.jp/article/2609-keyboard-stand-storage-organizer/",
-        "https://www.gizmodo.jp/article/keychron_orca-echo_put-in-between-re/",
-        "https://www.gizmodo.jp/article/2609-docomo-iphone-18-pro-price/"
+        "https://www.gizmodo.jp/article/keychron_orca-echo_put-in-between-re/"
     ]
 }
