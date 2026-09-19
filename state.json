@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "T1QaaRpfK9U",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "hOPxysIHGp4",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cmed7el18dxpo#0",
         "https://www.bbc.co.uk/news/articles/c6lye7200g7vo#1",
         "https://www.bbc.co.uk/news/articles/c60qx4v825glo#0",
         "https://www.bbc.co.uk/news/videos/cm9w4nenzv4no#0",
@@ -200,10 +201,10 @@
         "https://www.bbc.co.uk/news/articles/cmpq0wj5g899o#0",
         "https://www.bbc.co.uk/news/articles/cmp3073x6464o#1",
         "https://www.bbc.co.uk/news/articles/c6d79z7ez7r4o#1",
-        "https://www.bbc.co.uk/news/articles/cqx2zlxxzpg4o#1",
-        "https://www.bbc.co.uk/news/articles/c639m42y43v4o#0"
+        "https://www.bbc.co.uk/news/articles/cqx2zlxxzpg4o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260919de51230",
         "https://news.web.nhk/newsweb/na/nd-20260919de51229",
         "https://news.web.nhk/newsweb/na/nd-20260919de51228",
         "https://news.web.nhk/newsweb/na/nd-20260919de51227",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260917de50768",
         "https://news.web.nhk/newsweb/na/nd-20260917de50765",
         "https://news.web.nhk/newsweb/na/nd-20260917de50752",
-        "https://news.web.nhk/newsweb/na/nd-20260917de50763",
-        "https://news.web.nhk/newsweb/na/nd-20260916de50559"
+        "https://news.web.nhk/newsweb/na/nd-20260917de50763"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/difference-between-iphone18pro-and-17pro/",
