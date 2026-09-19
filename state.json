@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c639m42y43v4o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260919de51229",
         "https://news.web.nhk/newsweb/na/nd-20260919de51228",
         "https://news.web.nhk/newsweb/na/nd-20260919de51227",
         "https://news.web.nhk/newsweb/na/nd-20260917de50747",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260917de50765",
         "https://news.web.nhk/newsweb/na/nd-20260917de50752",
         "https://news.web.nhk/newsweb/na/nd-20260917de50763",
-        "https://news.web.nhk/newsweb/na/nd-20260916de50559",
-        "https://news.web.nhk/newsweb/na/nd-20260916de50501"
+        "https://news.web.nhk/newsweb/na/nd-20260916de50559"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2609-pebble-time-2-review/",
