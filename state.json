@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "T1QaaRpfK9U",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "hOPxysIHGp4",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cm5y7qj54klpo#0",
         "https://www.bbc.co.uk/news/articles/c6m2rkx2evxmo#1",
         "https://www.bbc.co.uk/news/articles/c61wx47n0408o#1",
         "https://www.bbc.co.uk/news/articles/cqlykr2vrv04o#0",
@@ -200,8 +201,7 @@
         "https://www.bbc.co.uk/news/articles/cxr50l3d762po#0",
         "https://www.bbc.co.uk/news/articles/cqde04len22wo#0",
         "https://www.bbc.co.uk/news/articles/cj207ddzy6ewo#1",
-        "https://www.bbc.co.uk/news/articles/ckg59nq6y990o#1",
-        "https://www.bbc.co.uk/news/articles/ck980qyy6d2zo#0"
+        "https://www.bbc.co.uk/news/articles/ckg59nq6y990o#1"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20260920de51299",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260828de46994"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2609-gta6-miami-vice-city-collab-controversy/",
         "https://www.gizmodo.jp/article/2609-timex-t80-ring-watch/",
         "https://www.gizmodo.jp/article/the-foundation-of-an-artificial-island-in-scotland-lying-at-thebottomof-a-lake-dates-back-more-than-5000-years-qra/",
         "https://www.gizmodo.jp/article/2609-jbl-pulse-6-speaker-lantern/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/a-rogue-black-hole-of-unusual-size-is-devouring-stars-in-a-distant-galaxy-jpn-z4i/",
         "https://www.gizmodo.jp/article/2609-iphone-battery-replacement-extend-life/",
         "https://www.gizmodo.jp/article/f3c9b53e-8373-42bb-8f36-482902c9c82a/",
-        "https://www.gizmodo.jp/article/asus-rog-gjallar-gaming-soundbar-review-sorry-did-you-say-something/",
-        "https://www.gizmodo.jp/article/2609-vaio-t-flip-laptop/"
+        "https://www.gizmodo.jp/article/asus-rog-gjallar-gaming-soundbar-review-sorry-did-you-say-something/"
     ]
 }
