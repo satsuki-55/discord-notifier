@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/weather/articles/cqvgy1lejp7ro#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260917de50747",
+        "https://news.web.nhk/newsweb/na/nd-20260919de51219",
         "https://news.web.nhk/newsweb/na/nd-20260919de51222",
         "https://news.web.nhk/newsweb/na/nd-20260919de51221",
         "https://news.web.nhk/newsweb/na/nd-20260919de51220",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260916de50559",
         "https://news.web.nhk/newsweb/na/nd-20260916de50501",
         "https://news.web.nhk/newsweb/na/nd-20260916de50504",
-        "https://news.web.nhk/newsweb/na/nd-20260916de50499",
-        "https://news.web.nhk/newsweb/na/nd-20260916de50500",
-        "https://news.web.nhk/newsweb/na/nd-20260917de50747"
+        "https://news.web.nhk/newsweb/na/nd-20260916de50499"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/canon-eos-r10/",
