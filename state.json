@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/weather/articles/cqvgy1lejp7ro#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260919de51210",
         "https://news.web.nhk/newsweb/na/nd-20260919de51213",
         "https://news.web.nhk/newsweb/na/nd-20260919de51212",
         "https://news.web.nhk/newsweb/na/nd-20260919de51215",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260917de50740",
         "https://news.web.nhk/newsweb/na/nd-20260917de50750",
         "https://news.web.nhk/newsweb/na/nd-20260917de50744",
-        "https://news.web.nhk/newsweb/na/nd-20260917de50714",
-        "https://news.web.nhk/newsweb/na/nd-20260917de50725"
+        "https://news.web.nhk/newsweb/na/nd-20260917de50714"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/iphone-18-pro-camera-features/",
