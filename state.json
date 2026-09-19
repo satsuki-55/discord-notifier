@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/c639m42y43v4o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260919de51228",
+        "https://news.web.nhk/newsweb/na/nd-20260919de51227",
         "https://news.web.nhk/newsweb/na/nd-20260917de50747",
         "https://news.web.nhk/newsweb/na/nd-20260919de51219",
         "https://news.web.nhk/newsweb/na/nd-20260919de51222",
@@ -401,11 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260917de50752",
         "https://news.web.nhk/newsweb/na/nd-20260917de50763",
         "https://news.web.nhk/newsweb/na/nd-20260916de50559",
-        "https://news.web.nhk/newsweb/na/nd-20260916de50501",
-        "https://news.web.nhk/newsweb/na/nd-20260916de50504",
-        "https://news.web.nhk/newsweb/na/nd-20260916de50499"
+        "https://news.web.nhk/newsweb/na/nd-20260916de50501"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2609-pebble-time-2-review/",
         "https://www.gizmodo.jp/article/meta-luna-smart-glasses-may-drastically-tone-down-the-creep-factor/",
         "https://www.gizmodo.jp/article/ios27-7-siri-ai/",
         "https://www.gizmodo.jp/article/canon-eos-r10/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/2609-iphone-18-pro-vs-iphone-17-pro-specs/",
         "https://www.gizmodo.jp/article/the-north-face_engineered-garments-vectiv-forward-eg/",
         "https://www.gizmodo.jp/article/2609-keychron-orca-echo-keymap/",
-        "https://www.gizmodo.jp/article/iphone-18-pro-benchmark/",
-        "https://www.gizmodo.jp/article/2609-tesla-cybercab-no-steering-wheel-pedals/"
+        "https://www.gizmodo.jp/article/iphone-18-pro-benchmark/"
     ]
 }
