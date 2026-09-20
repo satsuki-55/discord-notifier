@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "XRYNcsUAx7M",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "JI6cjiDN708",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c5lympv9nw3jo#1",
         "https://www.bbc.co.uk/news/articles/cmvgy3pdv612o#1",
         "https://www.bbc.co.uk/news/articles/cqm27pnyd294o#0",
         "https://www.bbc.co.uk/news/articles/cm36l2pye2kwo#0",
@@ -200,10 +201,10 @@
         "https://www.bbc.co.uk/news/articles/cqn74jeek06no#1",
         "https://www.bbc.co.uk/news/articles/c9qrn3y72dxo#1",
         "https://www.bbc.co.uk/news/articles/cqkg083ve78ro#0",
-        "https://www.bbc.co.uk/news/articles/c6rer05nqlx5o#0",
-        "https://www.bbc.co.uk/news/articles/cmvgy3pdv612o#0"
+        "https://www.bbc.co.uk/news/articles/c6rer05nqlx5o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260920de51378",
         "https://news.web.nhk/newsweb/na/nd-20260921de51527",
         "https://news.web.nhk/newsweb/na/nd-20260921de51525",
         "https://news.web.nhk/newsweb/na/nd-20260921de51522",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260918de50975",
         "https://news.web.nhk/newsweb/na/nd-20260918de50974",
         "https://news.web.nhk/newsweb/na/nd-20260918de50960",
-        "https://news.web.nhk/newsweb/na/nd-20260918de50958",
-        "https://news.web.nhk/newsweb/na/nd-20260918de50959"
+        "https://news.web.nhk/newsweb/na/nd-20260918de50958"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/claude-powered-agent-apparently-deletes-company-database-debases-itself-further-in-confession-gbq/",
