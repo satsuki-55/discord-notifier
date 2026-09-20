@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c6zxz7np1kldo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260920de51330",
         "https://news.web.nhk/newsweb/na/nd-20260920de51340",
         "https://news.web.nhk/newsweb/na/nd-20260920de51329",
         "https://news.web.nhk/newsweb/na/nd-20260920de51327",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260917de50851",
         "https://news.web.nhk/newsweb/na/nd-20260917de50868",
         "https://news.web.nhk/newsweb/na/nd-20260917de50853",
-        "https://news.web.nhk/newsweb/na/nd-20260915de50369",
-        "https://news.web.nhk/newsweb/na/nd-20260917de50862"
+        "https://news.web.nhk/newsweb/na/nd-20260915de50369"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2609-foldable-emergency-toilet/",
