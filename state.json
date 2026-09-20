@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/ckr50lrz5e6zo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260920de51400",
+        "https://news.web.nhk/newsweb/na/nd-20260920de51399",
         "https://news.web.nhk/newsweb/na/nd-20260920de51389",
         "https://news.web.nhk/newsweb/na/nd-20260920de51388",
         "https://news.web.nhk/newsweb/na/nd-20260920de51385",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260917de50916",
         "https://news.web.nhk/newsweb/na/nd-20260917de50913",
         "https://news.web.nhk/newsweb/na/nd-20260917de50908",
-        "https://news.web.nhk/newsweb/na/nd-20260917de50909",
-        "https://news.web.nhk/newsweb/na/nd-20260917de50892",
-        "https://news.web.nhk/newsweb/na/nd-20260917de50888"
+        "https://news.web.nhk/newsweb/na/nd-20260917de50909"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/mizuno_sky-prime_runningshoes/",
