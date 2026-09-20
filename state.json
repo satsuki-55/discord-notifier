@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/videos/cq986g1npk0eo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260917de50897",
         "https://news.web.nhk/newsweb/na/nd-20260828de46998",
         "https://news.web.nhk/newsweb/na/nd-20260920de51311",
         "https://news.web.nhk/newsweb/na/nd-20260917de50866",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260915de50401",
         "https://news.web.nhk/newsweb/na/nd-20260917de50889",
         "https://news.web.nhk/newsweb/na/nd-20260917de50882",
-        "https://news.web.nhk/newsweb/na/nd-20260917de50880",
-        "https://news.web.nhk/newsweb/na/nd-20260917de50881"
+        "https://news.web.nhk/newsweb/na/nd-20260917de50880"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/riken-rikyu-ai-supercomputer/",
