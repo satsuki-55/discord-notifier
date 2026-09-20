@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/c9e8e21x3vp4o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260920de51312",
+        "https://news.web.nhk/newsweb/na/nd-20260920de51325",
         "https://news.web.nhk/newsweb/na/nd-20260920de51305",
         "https://news.web.nhk/newsweb/na/nd-20260920de51299",
         "https://news.web.nhk/newsweb/na/nd-20260920de51297",
@@ -401,11 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260917de50854",
         "https://news.web.nhk/newsweb/na/nd-20260917de50830",
         "https://news.web.nhk/newsweb/na/nd-20260917de50844",
-        "https://news.web.nhk/newsweb/na/nd-20260917de50840",
-        "https://news.web.nhk/newsweb/na/nd-20260917de50835",
-        "https://news.web.nhk/newsweb/na/nd-20260917de50837"
+        "https://news.web.nhk/newsweb/na/nd-20260917de50840"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/maingear-zero-2026-review-pc-gaming-bliss-with-a-price-tag-to-make-you-cry/",
         "https://www.gizmodo.jp/article/the-boox-palma-3-upgrades-to-aluminum-and-android-16/",
         "https://www.gizmodo.jp/article/2609-gta6-miami-vice-city-collab-controversy/",
         "https://www.gizmodo.jp/article/2609-timex-t80-ring-watch/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/tech-ceos-are-this-falls-favorite-movie-villains/",
         "https://www.gizmodo.jp/article/un-human-rights-chief-says-a-handful-of-men-have-almost-unlimited-power-over-ai/",
         "https://www.gizmodo.jp/article/a-rogue-black-hole-of-unusual-size-is-devouring-stars-in-a-distant-galaxy-jpn-z4i/",
-        "https://www.gizmodo.jp/article/2609-iphone-battery-replacement-extend-life/",
-        "https://www.gizmodo.jp/article/f3c9b53e-8373-42bb-8f36-482902c9c82a/"
+        "https://www.gizmodo.jp/article/2609-iphone-battery-replacement-extend-life/"
     ]
 }
