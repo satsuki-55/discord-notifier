@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "T1QaaRpfK9U",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "-yqIjeECpUs",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo#1",
         "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo#0",
         "https://www.bbc.co.uk/news/articles/crwyzj53pl1lo#1",
         "https://www.bbc.co.uk/news/videos/cv1j4794gn6po#1",
@@ -200,8 +201,7 @@
         "https://www.bbc.co.uk/news/articles/cwly7vkke4jxo#1",
         "https://www.bbc.co.uk/news/articles/ckrer2738v8vo#0",
         "https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o#0",
-        "https://www.bbc.co.uk/news/articles/c6zxz7np1kldo#1",
-        "https://www.bbc.co.uk/news/articles/cm3wjlxjnwg3o#0"
+        "https://www.bbc.co.uk/news/articles/c6zxz7np1kldo#1"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20260920de51340",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260917de50862"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2609-foldable-emergency-toilet/",
         "https://www.gizmodo.jp/article/dyson-new-release/",
         "https://www.gizmodo.jp/article/2609-trump-phone-silent-price-increase/",
         "https://www.gizmodo.jp/article/ai-defeats-enigma-2q7-3sk/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/2609-aston-martin-brough-superior-amb-002/",
         "https://www.gizmodo.jp/article/greenhouse_gas_emissions-zxn/",
         "https://www.gizmodo.jp/article/2609-oppo-find-x10-pro-max-triple-200mp-camera/",
-        "https://www.gizmodo.jp/article/orca-echo-1day-left/",
-        "https://www.gizmodo.jp/article/tech-ceos-are-this-falls-favorite-movie-villains/"
+        "https://www.gizmodo.jp/article/orca-echo-1day-left/"
     ]
 }
