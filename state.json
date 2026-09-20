@@ -2,6 +2,8 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "T1QaaRpfK9U",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "-yqIjeECpUs",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cm0463619r1no#0",
+        "https://www.bbc.co.uk/news/articles/cklyjzv4nl7wo#1",
         "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo#1",
         "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo#0",
         "https://www.bbc.co.uk/news/articles/crwyzj53pl1lo#1",
@@ -199,11 +201,10 @@
         "https://www.bbc.co.uk/news/articles/cwly7vkke4jxo#0",
         "https://www.bbc.co.uk/news/articles/cm9w4n5nverdo#1",
         "https://www.bbc.co.uk/news/articles/cwly7vkke4jxo#1",
-        "https://www.bbc.co.uk/news/articles/ckrer2738v8vo#0",
-        "https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o#0",
-        "https://www.bbc.co.uk/news/articles/c6zxz7np1kldo#1"
+        "https://www.bbc.co.uk/news/articles/ckrer2738v8vo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260920de51358",
         "https://news.web.nhk/newsweb/na/nd-20260920de51339",
         "https://news.web.nhk/newsweb/na/nd-20260920de51349",
         "https://news.web.nhk/newsweb/na/nd-20260920de51353",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260915de50371",
         "https://news.web.nhk/newsweb/na/nd-20260917de50841",
         "https://news.web.nhk/newsweb/na/nd-20260917de50872",
-        "https://news.web.nhk/newsweb/na/nd-20260917de50845",
-        "https://news.web.nhk/newsweb/na/nd-20260917de50851"
+        "https://news.web.nhk/newsweb/na/nd-20260917de50845"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2609-jitrainno-ai-e-paper-frame/",
