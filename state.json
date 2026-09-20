@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/c9e8e21x3vp4o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260920de51327",
+        "https://news.web.nhk/newsweb/na/nd-20260920de51332",
         "https://news.web.nhk/newsweb/na/nd-20260920de51320",
         "https://news.web.nhk/newsweb/na/nd-20260920de51306",
         "https://news.web.nhk/newsweb/na/nd-20260920de51312",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260915de50369",
         "https://news.web.nhk/newsweb/na/nd-20260917de50862",
         "https://news.web.nhk/newsweb/na/nd-20260917de50860",
-        "https://news.web.nhk/newsweb/na/nd-20260917de50855",
-        "https://news.web.nhk/newsweb/na/nd-20260917de50854",
-        "https://news.web.nhk/newsweb/na/nd-20260917de50830"
+        "https://news.web.nhk/newsweb/na/nd-20260917de50855"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2609-trump-phone-silent-price-increase/",
