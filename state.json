@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/ckr50lrz5e6zo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260920de51388",
+        "https://news.web.nhk/newsweb/na/nd-20260920de51385",
         "https://news.web.nhk/newsweb/na/nd-20260920de51387",
         "https://news.web.nhk/newsweb/na/nd-20260917de50897",
         "https://news.web.nhk/newsweb/na/nd-20260828de46998",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260917de50909",
         "https://news.web.nhk/newsweb/na/nd-20260917de50892",
         "https://news.web.nhk/newsweb/na/nd-20260917de50888",
-        "https://news.web.nhk/newsweb/na/nd-20260915de50401",
-        "https://news.web.nhk/newsweb/na/nd-20260917de50889",
-        "https://news.web.nhk/newsweb/na/nd-20260917de50882"
+        "https://news.web.nhk/newsweb/na/nd-20260915de50401"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/lg-gram-pro-16-inch-2026-review-an-expensive-disappointment/",
