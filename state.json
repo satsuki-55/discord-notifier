@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c6rer05nqlx5o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260921de51536",
         "https://news.web.nhk/newsweb/na/nd-20260921de51516",
         "https://news.web.nhk/newsweb/na/nd-20260921de51530",
         "https://news.web.nhk/newsweb/na/nd-20260921de51458",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260918de50968",
         "https://news.web.nhk/newsweb/na/nd-20260918de50983",
         "https://news.web.nhk/newsweb/na/nd-20260918de50970",
-        "https://news.web.nhk/newsweb/na/nd-20260918de50976",
-        "https://news.web.nhk/newsweb/na/nd-20260918de50975"
+        "https://news.web.nhk/newsweb/na/nd-20260918de50976"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/apple-reference-image-iphone18pro/",
         "https://www.gizmodo.jp/article/claude-powered-agent-apparently-deletes-company-database-debases-itself-further-in-confession-gbq/",
         "https://www.gizmodo.jp/article/2609-one-handed-apple-watch-operation/",
         "https://www.gizmodo.jp/article/947fec0a-206e-4c61-9999-0f6a8fdf7bb7/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/watch-nasas-curiosity-struggle-to-break-loose-from-a-rock-on-mars-hvm/",
         "https://www.gizmodo.jp/article/2609-patagonia-nano-puff-jacket-disaster-prevention/",
         "https://www.gizmodo.jp/article/cb098bb4-d334-4f15-894d-8ae560bb5b72/",
-        "https://www.gizmodo.jp/article/2609-brine-magnesium-recovery-solar-heat/",
-        "https://www.gizmodo.jp/article/bousai-item-matome/"
+        "https://www.gizmodo.jp/article/2609-brine-magnesium-recovery-solar-heat/"
     ]
 }
