@@ -2,6 +2,9 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "XRYNcsUAx7M",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "JI6cjiDN708",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c3056d456gro#0",
+        "https://www.bbc.co.uk/news/articles/c20veglyjp8o#0",
+        "https://www.bbc.co.uk/news/articles/cv1j4k1nez76o#1",
         "https://www.bbc.co.uk/news/articles/c5lympv9nw3jo#1",
         "https://www.bbc.co.uk/news/articles/cmvgy3pdv612o#1",
         "https://www.bbc.co.uk/news/articles/cqm27pnyd294o#0",
@@ -198,12 +201,10 @@
         "https://www.bbc.co.uk/news/articles/cm0rejq1wqkko#1",
         "https://www.bbc.co.uk/news/articles/c574e3kk818do#1",
         "https://www.bbc.co.uk/news/articles/cxnvl6pp1609o#1",
-        "https://www.bbc.co.uk/news/articles/cqn74jeek06no#1",
-        "https://www.bbc.co.uk/news/articles/c9qrn3y72dxo#1",
-        "https://www.bbc.co.uk/news/articles/cqkg083ve78ro#0",
-        "https://www.bbc.co.uk/news/articles/c6rer05nqlx5o#0"
+        "https://www.bbc.co.uk/news/articles/cqn74jeek06no#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260921de51541",
         "https://news.web.nhk/newsweb/na/nd-20260921de51547",
         "https://news.web.nhk/newsweb/na/nd-20260921de51542",
         "https://news.web.nhk/newsweb/na/nd-20260921de51540",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260918de51021",
         "https://news.web.nhk/newsweb/na/nd-20260918de51005",
         "https://news.web.nhk/newsweb/na/nd-20260918de50989",
-        "https://news.web.nhk/newsweb/na/nd-20260918de50986",
-        "https://news.web.nhk/newsweb/na/nd-20260918de50968"
+        "https://news.web.nhk/newsweb/na/nd-20260918de50986"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2609-xiaomi-18-pro-rear-display/",
