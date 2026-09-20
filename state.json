@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/cxnvl6pp1609o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260921de51552",
+        "https://news.web.nhk/newsweb/na/nd-20260921de51550",
         "https://news.web.nhk/newsweb/na/nd-20260921de51541",
         "https://news.web.nhk/newsweb/na/nd-20260921de51547",
         "https://news.web.nhk/newsweb/na/nd-20260921de51542",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260918de50964",
         "https://news.web.nhk/newsweb/na/nd-20260918de51008",
         "https://news.web.nhk/newsweb/na/nd-20260918de51021",
-        "https://news.web.nhk/newsweb/na/nd-20260918de51005",
-        "https://news.web.nhk/newsweb/na/nd-20260918de50989",
-        "https://news.web.nhk/newsweb/na/nd-20260918de50986"
+        "https://news.web.nhk/newsweb/na/nd-20260918de51005"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2609-xiaomi-18-pro-rear-display/",
