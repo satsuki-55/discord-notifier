@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "XRYNcsUAx7M",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "-yqIjeECpUs",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cqrk31k7pprlo#0",
         "https://www.bbc.co.uk/news/articles/cm3eqdv90977o#0",
         "https://www.bbc.co.uk/news/articles/cr89j514dly2o#1",
         "https://www.bbc.co.uk/news/articles/cr89j514dly2o#0",
@@ -200,8 +201,7 @@
         "https://www.bbc.co.uk/news/articles/cqkg083ve78ro#1",
         "https://www.bbc.co.uk/news/articles/c50m3glzppgpo#0",
         "https://www.bbc.co.uk/news/articles/cq4gm0k5g3geo#0",
-        "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o#0",
-        "https://www.bbc.co.uk/news/videos/cq986g1npk0eo#1"
+        "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o#0"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20260917de50897",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260917de50880"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/lg-gram-pro-16-inch-2026-review-an-expensive-disappointment/",
         "https://www.gizmodo.jp/article/riken-rikyu-ai-supercomputer/",
         "https://www.gizmodo.jp/article/2609-tokyo-game-show-2026-cancelled/",
         "https://www.gizmodo.jp/article/2609-ios27-new-features/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/new-airpods5-airplane-review/",
         "https://www.gizmodo.jp/article/2609-yogibo-zipparoll-travel-cushion/",
         "https://www.gizmodo.jp/article/orca-echo-first-impression-re/",
-        "https://www.gizmodo.jp/article/2609-reusable-food-wrap-cover/",
-        "https://www.gizmodo.jp/article/2609-youtube-netflix-creator-strategy/"
+        "https://www.gizmodo.jp/article/2609-reusable-food-wrap-cover/"
     ]
 }
