@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/ck0e35qyqlx0o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260920de51359",
         "https://news.web.nhk/newsweb/na/nd-20260920de51364",
         "https://news.web.nhk/newsweb/na/nd-20260920de51358",
         "https://news.web.nhk/newsweb/na/nd-20260920de51339",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260917de50876",
         "https://news.web.nhk/newsweb/na/nd-20260917de50869",
         "https://news.web.nhk/newsweb/na/nd-20260915de50371",
-        "https://news.web.nhk/newsweb/na/nd-20260917de50841",
-        "https://news.web.nhk/newsweb/na/nd-20260917de50872"
+        "https://news.web.nhk/newsweb/na/nd-20260917de50841"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2609-huawei-pura-x-wide-android-phone/",
