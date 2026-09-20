@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c9e8e21x3vp4o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260920de51320",
         "https://news.web.nhk/newsweb/na/nd-20260920de51306",
         "https://news.web.nhk/newsweb/na/nd-20260920de51312",
         "https://news.web.nhk/newsweb/na/nd-20260920de51325",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260917de50860",
         "https://news.web.nhk/newsweb/na/nd-20260917de50855",
         "https://news.web.nhk/newsweb/na/nd-20260917de50854",
-        "https://news.web.nhk/newsweb/na/nd-20260917de50830",
-        "https://news.web.nhk/newsweb/na/nd-20260917de50844"
+        "https://news.web.nhk/newsweb/na/nd-20260917de50830"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/ai-defeats-enigma-2q7-3sk/",
         "https://www.gizmodo.jp/article/maingear-zero-2026-review-pc-gaming-bliss-with-a-price-tag-to-make-you-cry/",
         "https://www.gizmodo.jp/article/the-boox-palma-3-upgrades-to-aluminum-and-android-16/",
         "https://www.gizmodo.jp/article/2609-gta6-miami-vice-city-collab-controversy/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/orca-echo-1day-left/",
         "https://www.gizmodo.jp/article/tech-ceos-are-this-falls-favorite-movie-villains/",
         "https://www.gizmodo.jp/article/un-human-rights-chief-says-a-handful-of-men-have-almost-unlimited-power-over-ai/",
-        "https://www.gizmodo.jp/article/a-rogue-black-hole-of-unusual-size-is-devouring-stars-in-a-distant-galaxy-jpn-z4i/",
-        "https://www.gizmodo.jp/article/2609-iphone-battery-replacement-extend-life/"
+        "https://www.gizmodo.jp/article/a-rogue-black-hole-of-unusual-size-is-devouring-stars-in-a-distant-galaxy-jpn-z4i/"
     ]
 }
