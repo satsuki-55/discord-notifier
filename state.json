@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/videos/cq986g1npk0eo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260917de50867",
         "https://news.web.nhk/newsweb/na/nd-20260920de51376",
         "https://news.web.nhk/newsweb/na/nd-20260920de51372",
         "https://news.web.nhk/newsweb/na/nd-20260920de51369",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260917de50881",
         "https://news.web.nhk/newsweb/na/nd-20260917de50897",
         "https://news.web.nhk/newsweb/na/nd-20260917de50887",
-        "https://news.web.nhk/newsweb/na/nd-20260917de50879",
-        "https://news.web.nhk/newsweb/na/nd-20260917de50866"
+        "https://news.web.nhk/newsweb/na/nd-20260917de50879"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2609-tokyo-game-show-2026-cancelled/",
