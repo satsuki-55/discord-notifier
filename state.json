@@ -2,6 +2,10 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "XRYNcsUAx7M",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "-yqIjeECpUs",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c50m3glzppgpo#0",
+        "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o#0",
+        "https://www.bbc.co.uk/news/articles/cm0rexrwjj1vo#0",
+        "https://www.bbc.co.uk/news/articles/c68xk701d975o#0",
         "https://www.bbc.co.uk/news/articles/cqrk31k7pprlo#0",
         "https://www.bbc.co.uk/news/articles/cm3eqdv90977o#0",
         "https://www.bbc.co.uk/news/articles/cr89j514dly2o#1",
@@ -197,13 +201,10 @@
         "https://www.bbc.co.uk/news/articles/ce8e70x3pjzo#0",
         "https://www.bbc.co.uk/news/articles/cmlyrn2n4zg5o#0",
         "https://www.bbc.co.uk/news/articles/c6n8m72r13ngo#0",
-        "https://www.bbc.co.uk/news/articles/ckr50lrz5e6zo#1",
-        "https://www.bbc.co.uk/news/articles/cqkg083ve78ro#1",
-        "https://www.bbc.co.uk/news/articles/c50m3glzppgpo#0",
-        "https://www.bbc.co.uk/news/articles/cq4gm0k5g3geo#0",
-        "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o#0"
+        "https://www.bbc.co.uk/news/articles/ckr50lrz5e6zo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260920de51387",
         "https://news.web.nhk/newsweb/na/nd-20260917de50897",
         "https://news.web.nhk/newsweb/na/nd-20260828de46998",
         "https://news.web.nhk/newsweb/na/nd-20260920de51311",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260917de50888",
         "https://news.web.nhk/newsweb/na/nd-20260915de50401",
         "https://news.web.nhk/newsweb/na/nd-20260917de50889",
-        "https://news.web.nhk/newsweb/na/nd-20260917de50882",
-        "https://news.web.nhk/newsweb/na/nd-20260917de50880"
+        "https://news.web.nhk/newsweb/na/nd-20260917de50882"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/lg-gram-pro-16-inch-2026-review-an-expensive-disappointment/",
