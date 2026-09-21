@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "FI-7Jq6C-uU",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "p2ywyi1M6Vo",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c6jdvpr30k8jo#1",
         "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo#0",
         "https://www.bbc.co.uk/news/articles/c6d79pzny7gjo#1",
         "https://www.bbc.co.uk/news/articles/c6jdvpr30k8jo#0",
@@ -200,8 +201,7 @@
         "https://www.bbc.co.uk/news/articles/cm4gj5z9xvnqo#1",
         "https://www.bbc.co.uk/news/articles/cm2dw1w9d3yjo#0",
         "https://www.bbc.co.uk/news/articles/cm2dw1w9d3yjo#1",
-        "https://www.bbc.co.uk/news/articles/cw0kl1571lpmo#1",
-        "https://www.bbc.co.uk/news/articles/cw0kl1571lpmo#0"
+        "https://www.bbc.co.uk/news/articles/cw0kl1571lpmo#1"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20260921de51710",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260918de51104"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/ai_safety_collaboration_antitrust/",
         "https://www.gizmodo.jp/article/kumazakiaim-anshin-rec/",
         "https://www.gizmodo.jp/article/acer-ep0/",
         "https://www.gizmodo.jp/article/2609-oxtak-money-penny-ai-voice-recorder/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/2609-ios-27-release/",
         "https://www.gizmodo.jp/article/garmin-fenix-9/",
         "https://www.gizmodo.jp/article/2609-toyota-gr-kart/",
-        "https://www.gizmodo.jp/article/datacenter-electricity-consume/",
-        "https://www.gizmodo.jp/article/2609-zozotown-hhkb-collab-fashion/"
+        "https://www.gizmodo.jp/article/datacenter-electricity-consume/"
     ]
 }
