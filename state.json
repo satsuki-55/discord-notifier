@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cmx2zg345drgo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260921de51739",
         "https://news.web.nhk/newsweb/na/nd-20260918de51120",
         "https://news.web.nhk/newsweb/na/nd-20260921de51725",
         "https://news.web.nhk/newsweb/na/nd-20260921de51731",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260918de51143",
         "https://news.web.nhk/newsweb/na/nd-20260828de46995",
         "https://news.web.nhk/newsweb/na/nd-20260918de51127",
-        "https://news.web.nhk/newsweb/na/nd-20260918de51130",
-        "https://news.web.nhk/newsweb/na/nd-20260918de51116"
+        "https://news.web.nhk/newsweb/na/nd-20260918de51130"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/mizuno_wave-rider-30-2/",
