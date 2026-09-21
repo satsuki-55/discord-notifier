@@ -2,6 +2,9 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "FI-7Jq6C-uU",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "p2ywyi1M6Vo",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c6jdvpr30k8jo#0",
+        "https://www.bbc.co.uk/news/articles/cw1mvj19yvk4o#1",
+        "https://www.bbc.co.uk/news/articles/cjly4p95y3zko#1",
         "https://www.bbc.co.uk/news/articles/cke87n51563po#0",
         "https://www.bbc.co.uk/news/articles/cm0e32rwvrryo#0",
         "https://www.bbc.co.uk/news/articles/cmd68px5qqddo#0",
@@ -198,12 +201,11 @@
         "https://www.bbc.co.uk/news/articles/cw0kl1571lpmo#1",
         "https://www.bbc.co.uk/news/articles/cw0kl1571lpmo#0",
         "https://www.bbc.co.uk/news/articles/ck05rv764l0eo#1",
-        "https://www.bbc.co.uk/news/articles/c750vqp1wlxo#0",
-        "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo#0",
-        "https://www.bbc.co.uk/news/articles/c6vgy80ge1z7o#0",
-        "https://www.bbc.co.uk/news/articles/cw7v4jr2932ro#1"
+        "https://www.bbc.co.uk/news/articles/c750vqp1wlxo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260921de51710",
+        "https://news.web.nhk/newsweb/na/nd-20260921de51721",
         "https://news.web.nhk/newsweb/na/nd-20260918de51097",
         "https://news.web.nhk/newsweb/na/nd-20260921de51711",
         "https://news.web.nhk/newsweb/na/nd-20260921de51708",
@@ -401,11 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260918de51124",
         "https://news.web.nhk/newsweb/na/nd-20260918de51118",
         "https://news.web.nhk/newsweb/na/nd-20260918de51115",
-        "https://news.web.nhk/newsweb/na/nd-20260918de51104",
-        "https://news.web.nhk/newsweb/na/nd-20260918de51088",
-        "https://news.web.nhk/newsweb/na/nd-20260918de51095"
+        "https://news.web.nhk/newsweb/na/nd-20260918de51104"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/kumazakiaim-anshin-rec/",
         "https://www.gizmodo.jp/article/acer-ep0/",
         "https://www.gizmodo.jp/article/2609-oxtak-money-penny-ai-voice-recorder/",
         "https://www.gizmodo.jp/article/yashica-y16-pocket-camera/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/garmin-fenix-9/",
         "https://www.gizmodo.jp/article/2609-toyota-gr-kart/",
         "https://www.gizmodo.jp/article/datacenter-electricity-consume/",
-        "https://www.gizmodo.jp/article/2609-zozotown-hhkb-collab-fashion/",
-        "https://www.gizmodo.jp/article/2609-iphone-duo-folio-case-missing-feature/"
+        "https://www.gizmodo.jp/article/2609-zozotown-hhkb-collab-fashion/"
     ]
 }
