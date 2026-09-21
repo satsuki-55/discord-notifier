@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260919de51202"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/mitsuoka-la1-opencar/",
         "https://www.gizmodo.jp/article/leap-seconds-were-a-headache-now-timekeepers-are-considering-a-leap-hour-vqz/",
         "https://www.gizmodo.jp/article/mizuno_wave-rider-30-2/",
         "https://www.gizmodo.jp/article/musk-wants-a-self-growing-moon-city-in-10-years-heres-when-the-water-runs-out/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/ios27-lockscreen/",
         "https://www.gizmodo.jp/article/samsung-is-already-working-on-smart-glasses-with-a-built-in-screen/",
         "https://www.gizmodo.jp/article/5-features-you-should-update-ios27/",
-        "https://www.gizmodo.jp/article/2609-ios27-iphone-liquid-glass-transparency/",
-        "https://www.gizmodo.jp/article/jbl-quantum-120-gaming-headset/"
+        "https://www.gizmodo.jp/article/2609-ios27-iphone-liquid-glass-transparency/"
     ]
 }
