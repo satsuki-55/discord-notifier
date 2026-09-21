@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/ckn9wenz8wjwo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260921de51692",
         "https://news.web.nhk/newsweb/na/nd-20260921de51703",
         "https://news.web.nhk/newsweb/na/nd-20260921de51698",
         "https://news.web.nhk/newsweb/na/nd-20260918de51089",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260918de51103",
         "https://news.web.nhk/newsweb/na/nd-20260918de51097",
         "https://news.web.nhk/newsweb/na/nd-20260918de51091",
-        "https://news.web.nhk/newsweb/na/nd-20260918de51087",
-        "https://news.web.nhk/newsweb/na/nd-20260918de51093"
+        "https://news.web.nhk/newsweb/na/nd-20260918de51087"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2609-oxtak-money-penny-ai-voice-recorder/",
