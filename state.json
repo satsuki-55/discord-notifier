@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/c6x2z4dlzyr0o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260921de51614",
+        "https://news.web.nhk/newsweb/na/nd-20260921de51620",
         "https://news.web.nhk/newsweb/na/nd-20260921de51624",
         "https://news.web.nhk/newsweb/na/nd-20260921de51621",
         "https://news.web.nhk/newsweb/na/nd-20260921de51617",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260918de51056",
         "https://news.web.nhk/newsweb/na/nd-20260918de51050",
         "https://news.web.nhk/newsweb/na/nd-20260918de51052",
-        "https://news.web.nhk/newsweb/na/nd-20260918de51022",
-        "https://news.web.nhk/newsweb/na/nd-20260918de51044",
-        "https://news.web.nhk/newsweb/na/nd-20260918de51012"
+        "https://news.web.nhk/newsweb/na/nd-20260918de51022"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/mujilabo-smooth-jersey-longsleeve-pullover/",
