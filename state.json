@@ -2,6 +2,9 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "XRYNcsUAx7M",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "JI6cjiDN708",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cmed7p06epxjo#0",
+        "https://www.bbc.co.uk/news/articles/cqrk31k7pprlo#1",
+        "https://www.bbc.co.uk/news/articles/cqzrz0z4plk1o#1",
         "https://www.bbc.co.uk/news/articles/cqzrz0z4plk1o#0",
         "https://www.bbc.co.uk/news/videos/cq0lr24x3ep1o#1",
         "https://www.bbc.co.uk/news/articles/cqm27pnyd294o#1",
@@ -198,10 +201,7 @@
         "https://www.bbc.co.uk/news/articles/cwp845p6q2qqo#1",
         "https://www.bbc.co.uk/news/articles/c6qjk9q1wpqeo#0",
         "https://www.bbc.co.uk/news/articles/c6x2z4dlzyr0o#0",
-        "https://www.bbc.co.uk/news/articles/ck0e35qyqlx0o#1",
-        "https://www.bbc.co.uk/news/videos/cm2dw1y5enx6o#1",
-        "https://www.bbc.co.uk/news/articles/c9j3d2rr6g24o#1",
-        "https://www.bbc.co.uk/news/articles/cw7v4jr2932ro#0"
+        "https://www.bbc.co.uk/news/articles/ck0e35qyqlx0o#1"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20260921de51617",
@@ -406,6 +406,8 @@
         "https://news.web.nhk/newsweb/na/nd-20260918de51039"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/tire-particles-carp-anemia/",
+        "https://www.gizmodo.jp/article/2609-audio-technica-ath-al5nc/",
         "https://www.gizmodo.jp/article/japan-summer-2026-extreme-weather/",
         "https://www.gizmodo.jp/article/2609-mediatek-dimensity-9600-pro-2nm-chip/",
         "https://www.gizmodo.jp/article/vixion2-har/",
@@ -603,8 +605,6 @@
         "https://www.gizmodo.jp/article/apple-watch-ultra-4-vs-apple-watch-ultra-3-tracking-everything-all-the-time/",
         "https://www.gizmodo.jp/article/apple-watch-series-12-vs-apple-watch-series-11-colors-sensors-and-ai/",
         "https://www.gizmodo.jp/article/new-nothing-wireless-headphones-could-be-coming-this-month/",
-        "https://www.gizmodo.jp/article/solid-state-nuclear-battery-power-cell-url/",
-        "https://www.gizmodo.jp/article/cd-sales-increase-streaming-era/",
-        "https://www.gizmodo.jp/article/best-gaming-budget-work-laptop-macbook-razer-dell-hp/"
+        "https://www.gizmodo.jp/article/solid-state-nuclear-battery-power-cell-url/"
     ]
 }
