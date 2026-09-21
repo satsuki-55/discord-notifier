@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c607l0k72rlvo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260919de51203",
         "https://news.web.nhk/newsweb/na/nd-20260919de51202",
         "https://news.web.nhk/newsweb/na/nd-20260922de51804",
         "https://news.web.nhk/newsweb/na/nd-20260921de51718",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260919de51212",
         "https://news.web.nhk/newsweb/na/nd-20260919de51215",
         "https://news.web.nhk/newsweb/na/nd-20260918de51144",
-        "https://news.web.nhk/newsweb/na/nd-20260919de51209",
-        "https://news.web.nhk/newsweb/na/nd-20260919de51211"
+        "https://news.web.nhk/newsweb/na/nd-20260919de51209"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/mitsuoka-la1-opencar/",
