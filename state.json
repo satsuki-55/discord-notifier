@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "FI-7Jq6C-uU",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "p2ywyi1M6Vo",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cv4g50w2px0no#1",
         "https://www.bbc.co.uk/news/articles/ckp84pj8zpngo#0",
         "https://www.bbc.co.uk/news/articles/cmx2z10zk736o#1",
         "https://www.bbc.co.uk/news/articles/cw1mvj19yvk4o#0",
@@ -200,8 +201,7 @@
         "https://www.bbc.co.uk/news/articles/cw1mvjyv937eo#0",
         "https://www.bbc.co.uk/news/articles/c6y9zgx5vy2go#1",
         "https://www.bbc.co.uk/news/articles/cw1mvjyv937eo#1",
-        "https://www.bbc.co.uk/news/articles/c790xvnzgnno#0",
-        "https://www.bbc.co.uk/news/articles/c6y9zgx5vy2go#0"
+        "https://www.bbc.co.uk/news/articles/c790xvnzgnno#0"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20260918de51089",
@@ -406,6 +406,8 @@
         "https://news.web.nhk/newsweb/na/nd-20260918de51096"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/yashica-y16-pocket-camera/",
+        "https://www.gizmodo.jp/article/smart-glasses-privacy-zuckoff/",
         "https://www.gizmodo.jp/article/camp-snap-110d-camera/",
         "https://www.gizmodo.jp/article/syncere-lume/",
         "https://www.gizmodo.jp/article/oddly-satisfying-just-right-feeling/",
@@ -603,8 +605,6 @@
         "https://www.gizmodo.jp/article/2609-zozotown-hhkb-collab-fashion/",
         "https://www.gizmodo.jp/article/2609-iphone-duo-folio-case-missing-feature/",
         "https://www.gizmodo.jp/article/seiko-bousai-clock/",
-        "https://www.gizmodo.jp/article/2609-rtx-5090-96gb-modded-gpu-600k-yen/",
-        "https://www.gizmodo.jp/article/2609-galaxy-z-fold8-tim-cook-ad/",
-        "https://www.gizmodo.jp/article/daiso-disaster-prevention-goods-10/"
+        "https://www.gizmodo.jp/article/2609-rtx-5090-96gb-modded-gpu-600k-yen/"
     ]
 }
