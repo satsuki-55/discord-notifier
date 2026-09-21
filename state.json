@@ -2,6 +2,8 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "FI-7Jq6C-uU",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "p2ywyi1M6Vo",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/ckp84pj8zpngo#0",
+        "https://www.bbc.co.uk/news/articles/cmx2z10zk736o#1",
         "https://www.bbc.co.uk/news/articles/cw1mvj19yvk4o#0",
         "https://www.bbc.co.uk/news/articles/cx4gqv239043o#0",
         "https://www.bbc.co.uk/news/articles/c9zrz0nl4p70o#0",
@@ -199,11 +201,10 @@
         "https://www.bbc.co.uk/news/articles/c6y9zgx5vy2go#1",
         "https://www.bbc.co.uk/news/articles/cw1mvjyv937eo#1",
         "https://www.bbc.co.uk/news/articles/c790xvnzgnno#0",
-        "https://www.bbc.co.uk/news/articles/c6y9zgx5vy2go#0",
-        "https://www.bbc.co.uk/news/articles/cm3wjlxjnwg3o#1",
-        "https://www.bbc.co.uk/news/articles/c6z0zg53vp4lo#1"
+        "https://www.bbc.co.uk/news/articles/c6y9zgx5vy2go#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260921de51670",
         "https://news.web.nhk/newsweb/na/nd-20260921de51669",
         "https://news.web.nhk/newsweb/na/nd-20260921de51641",
         "https://news.web.nhk/newsweb/na/nd-20260918de51067",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260918de51072",
         "https://news.web.nhk/newsweb/na/nd-20260918de51068",
         "https://news.web.nhk/newsweb/na/nd-20260918de51080",
-        "https://news.web.nhk/newsweb/na/nd-20260918de51076",
-        "https://news.web.nhk/newsweb/na/nd-20260918de51086"
+        "https://news.web.nhk/newsweb/na/nd-20260918de51076"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/oddly-satisfying-just-right-feeling/",
