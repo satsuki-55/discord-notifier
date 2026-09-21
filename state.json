@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "FI-7Jq6C-uU",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "p2ywyi1M6Vo",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cw4gm7l742dmo#1",
         "https://www.bbc.co.uk/news/videos/ckjrxpqxx2v3o#0",
         "https://www.bbc.co.uk/news/videos/c699dlj957mgo#1",
         "https://www.bbc.co.uk/news/articles/ck1e52v16ngxo#1",
@@ -200,8 +201,7 @@
         "https://www.bbc.co.uk/news/articles/cmqxvd1drd35o#1",
         "https://www.bbc.co.uk/news/videos/c317j8k4lvy9o#1",
         "https://www.bbc.co.uk/news/videos/c623xzx1pnleo#1",
-        "https://www.bbc.co.uk/sport/football/articles/cmeq8v8e3ql7o#0",
-        "https://www.bbc.co.uk/news/articles/c60m3k28j81mo#0"
+        "https://www.bbc.co.uk/sport/football/articles/cmeq8v8e3ql7o#0"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20260921de51748",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260918de51143"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/leap-seconds-were-a-headache-now-timekeepers-are-considering-a-leap-hour-vqz/",
         "https://www.gizmodo.jp/article/mizuno_wave-rider-30-2/",
         "https://www.gizmodo.jp/article/musk-wants-a-self-growing-moon-city-in-10-years-heres-when-the-water-runs-out/",
         "https://www.gizmodo.jp/article/google-may-finally-release-laptops-you-cant-just-ignore/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/samsung-is-already-working-on-smart-glasses-with-a-built-in-screen/",
         "https://www.gizmodo.jp/article/5-features-you-should-update-ios27/",
         "https://www.gizmodo.jp/article/2609-ios27-iphone-liquid-glass-transparency/",
-        "https://www.gizmodo.jp/article/jbl-quantum-120-gaming-headset/",
-        "https://www.gizmodo.jp/article/2609-ios-27-release/"
+        "https://www.gizmodo.jp/article/jbl-quantum-120-gaming-headset/"
     ]
 }
