@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c54g7jdmw032o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260921de51708",
         "https://news.web.nhk/newsweb/na/nd-20260921de51687",
         "https://news.web.nhk/newsweb/na/nd-20260921de51692",
         "https://news.web.nhk/newsweb/na/nd-20260921de51703",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260918de51088",
         "https://news.web.nhk/newsweb/na/nd-20260918de51095",
         "https://news.web.nhk/newsweb/na/nd-20260918de51103",
-        "https://news.web.nhk/newsweb/na/nd-20260918de51097",
-        "https://news.web.nhk/newsweb/na/nd-20260918de51091"
+        "https://news.web.nhk/newsweb/na/nd-20260918de51097"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/acer-ep0/",
