@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "XRYNcsUAx7M",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "JI6cjiDN708",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cmdx0pqrv72wo#1",
         "https://www.bbc.co.uk/news/articles/c8vgy53k49lgo#0",
         "https://www.bbc.co.uk/news/videos/ckly58lmy2gvo#0",
         "https://www.bbc.co.uk/news/articles/cq5yme200n8go#1",
@@ -200,8 +201,7 @@
         "https://www.bbc.co.uk/news/articles/cwe8e2j5xxy3o#1",
         "https://www.bbc.co.uk/news/articles/ckn9wenz8wjwo#0",
         "https://www.bbc.co.uk/news/articles/c3j4jz07e2v8o#1",
-        "https://www.bbc.co.uk/news/articles/c6kgxjl35822o#0",
-        "https://www.bbc.co.uk/news/articles/c6n8m72r13ngo#1"
+        "https://www.bbc.co.uk/news/articles/c6kgxjl35822o#0"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20260921de51627",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260918de51056"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2609-sp500-10000-points-outlook-2027/",
         "https://www.gizmodo.jp/article/2609-oppo-find-x10-pro-max-global/",
         "https://www.gizmodo.jp/article/2609-iphone-18-pro-face-id-fix/",
         "https://www.gizmodo.jp/article/mujilabo-smooth-jersey-longsleeve-pullover/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/nike-acg-picklejuice/",
         "https://www.gizmodo.jp/article/earphones-for-sleeping-matome/",
         "https://www.gizmodo.jp/article/2609-canadian-house-flipping-us-real-estate-regrets/",
-        "https://www.gizmodo.jp/article/2609-pioneer-switch-gaming-speaker-tq-pg400/",
-        "https://www.gizmodo.jp/article/apple-watch-ultra-4-vs-apple-watch-ultra-3-tracking-everything-all-the-time/"
+        "https://www.gizmodo.jp/article/2609-pioneer-switch-gaming-speaker-tq-pg400/"
     ]
 }
