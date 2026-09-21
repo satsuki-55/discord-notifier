@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cw0kl1571lpmo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260921de51726",
         "https://news.web.nhk/newsweb/na/nd-20260921de51724",
         "https://news.web.nhk/newsweb/na/nd-20260921de51710",
         "https://news.web.nhk/newsweb/na/nd-20260921de51721",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260918de51129",
         "https://news.web.nhk/newsweb/na/nd-20260918de51077",
         "https://news.web.nhk/newsweb/na/nd-20260918de51124",
-        "https://news.web.nhk/newsweb/na/nd-20260918de51118",
-        "https://news.web.nhk/newsweb/na/nd-20260918de51115"
+        "https://news.web.nhk/newsweb/na/nd-20260918de51118"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/google-may-finally-release-laptops-you-cant-just-ignore/",
         "https://www.gizmodo.jp/article/ai_safety_collaboration_antitrust/",
         "https://www.gizmodo.jp/article/kumazakiaim-anshin-rec/",
         "https://www.gizmodo.jp/article/acer-ep0/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/jbl-quantum-120-gaming-headset/",
         "https://www.gizmodo.jp/article/2609-ios-27-release/",
         "https://www.gizmodo.jp/article/garmin-fenix-9/",
-        "https://www.gizmodo.jp/article/2609-toyota-gr-kart/",
-        "https://www.gizmodo.jp/article/datacenter-electricity-consume/"
+        "https://www.gizmodo.jp/article/2609-toyota-gr-kart/"
     ]
 }
