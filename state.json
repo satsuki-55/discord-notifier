@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "FI-7Jq6C-uU",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "p2ywyi1M6Vo",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cmd79p4z98lzo#1",
         "https://www.bbc.co.uk/news/articles/cmd79p4z98lzo#0",
         "https://www.bbc.co.uk/news/articles/c617j2x01epjo#1",
         "https://www.bbc.co.uk/news/articles/cmwyz2p4pj2eo#0",
@@ -200,8 +201,7 @@
         "https://www.bbc.co.uk/news/articles/ckz7zg4ez0peo#1",
         "https://www.bbc.co.uk/news/articles/ckz7zg4ez0peo#0",
         "https://www.bbc.co.uk/news/articles/cmx2zg345drgo#1",
-        "https://www.bbc.co.uk/news/articles/c6e30gxjwxv1o#1",
-        "https://www.bbc.co.uk/news/articles/cn8m1113ym1o#0"
+        "https://www.bbc.co.uk/news/articles/c6e30gxjwxv1o#1"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20260921de51726",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260918de51118"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/musk-wants-a-self-growing-moon-city-in-10-years-heres-when-the-water-runs-out/",
         "https://www.gizmodo.jp/article/google-may-finally-release-laptops-you-cant-just-ignore/",
         "https://www.gizmodo.jp/article/ai_safety_collaboration_antitrust/",
         "https://www.gizmodo.jp/article/kumazakiaim-anshin-rec/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/2609-ios27-iphone-liquid-glass-transparency/",
         "https://www.gizmodo.jp/article/jbl-quantum-120-gaming-headset/",
         "https://www.gizmodo.jp/article/2609-ios-27-release/",
-        "https://www.gizmodo.jp/article/garmin-fenix-9/",
-        "https://www.gizmodo.jp/article/2609-toyota-gr-kart/"
+        "https://www.gizmodo.jp/article/garmin-fenix-9/"
     ]
 }
