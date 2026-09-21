@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c6n8m72r13ngo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260921de51627",
         "https://news.web.nhk/newsweb/na/nd-20260921de51630",
         "https://news.web.nhk/newsweb/na/nd-20260921de51573",
         "https://news.web.nhk/newsweb/na/nd-20260921de51614",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260916de50572",
         "https://news.web.nhk/newsweb/na/nd-20260916de50592",
         "https://news.web.nhk/newsweb/na/nd-20260918de51057",
-        "https://news.web.nhk/newsweb/na/nd-20260918de51056",
-        "https://news.web.nhk/newsweb/na/nd-20260918de51050"
+        "https://news.web.nhk/newsweb/na/nd-20260918de51056"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2609-oppo-find-x10-pro-max-global/",
