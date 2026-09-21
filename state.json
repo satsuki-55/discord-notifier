@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cm1j4kj57k08o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260922de51763",
         "https://news.web.nhk/newsweb/na/nd-20260921de51761",
         "https://news.web.nhk/newsweb/na/nd-20260921de51758",
         "https://news.web.nhk/newsweb/na/nd-20260921de51748",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260918de51158",
         "https://news.web.nhk/newsweb/na/nd-20260919de51166",
         "https://news.web.nhk/newsweb/na/nd-20260918de51157",
-        "https://news.web.nhk/newsweb/na/nd-20260918de51155",
-        "https://news.web.nhk/newsweb/na/nd-20260918de51152"
+        "https://news.web.nhk/newsweb/na/nd-20260918de51155"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/leap-seconds-were-a-headache-now-timekeepers-are-considering-a-leap-hour-vqz/",
