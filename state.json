@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/c6e30gxjwxv1o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260918de51118",
+        "https://news.web.nhk/newsweb/na/nd-20260921de51730",
         "https://news.web.nhk/newsweb/na/nd-20260921de51726",
         "https://news.web.nhk/newsweb/na/nd-20260921de51724",
         "https://news.web.nhk/newsweb/na/nd-20260921de51710",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260918de51120",
         "https://news.web.nhk/newsweb/na/nd-20260918de51106",
         "https://news.web.nhk/newsweb/na/nd-20260918de51129",
-        "https://news.web.nhk/newsweb/na/nd-20260918de51077",
-        "https://news.web.nhk/newsweb/na/nd-20260918de51124",
-        "https://news.web.nhk/newsweb/na/nd-20260918de51118"
+        "https://news.web.nhk/newsweb/na/nd-20260918de51077"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/musk-wants-a-self-growing-moon-city-in-10-years-heres-when-the-water-runs-out/",
