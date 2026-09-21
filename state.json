@@ -2,6 +2,9 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "FI-7Jq6C-uU",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "p2ywyi1M6Vo",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c607l0k72rlvo#0",
+        "https://www.bbc.co.uk/news/articles/cqzjz2gx18ggo#0",
+        "https://www.bbc.co.uk/news/articles/cje8y3w2zdpo#0",
         "https://www.bbc.co.uk/news/articles/ckvgyzzgvv4wo#0",
         "https://www.bbc.co.uk/news/articles/c60qx4v825glo#0",
         "https://www.bbc.co.uk/news/videos/cm9w4nenzv4no#0",
@@ -198,10 +201,7 @@
         "https://www.bbc.co.uk/news/videos/cv8e3jw1kr4lo#1",
         "https://www.bbc.co.uk/news/articles/cjkg71e67k17o#0",
         "https://www.bbc.co.uk/news/articles/cqvgy34ndj4eo#0",
-        "https://www.bbc.co.uk/news/articles/cmed7el18dxpo#1",
-        "https://www.bbc.co.uk/news/videos/cqy4zw4xr717o#1",
-        "https://www.bbc.co.uk/news/articles/c607l0k72rlvo#0",
-        "https://www.bbc.co.uk/news/articles/c607l0k72rlvo#1"
+        "https://www.bbc.co.uk/news/articles/cmed7el18dxpo#1"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20260922de51808",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260918de51144"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2609-we-are-rewind-eq-002-headphone/",
         "https://www.gizmodo.jp/article/mitsuoka-la1-opencar/",
         "https://www.gizmodo.jp/article/leap-seconds-were-a-headache-now-timekeepers-are-considering-a-leap-hour-vqz/",
         "https://www.gizmodo.jp/article/mizuno_wave-rider-30-2/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/data-centers-create-heat-islands-stretching-6-miles-study-finds-mbj/",
         "https://www.gizmodo.jp/article/ios27-lockscreen/",
         "https://www.gizmodo.jp/article/samsung-is-already-working-on-smart-glasses-with-a-built-in-screen/",
-        "https://www.gizmodo.jp/article/5-features-you-should-update-ios27/",
-        "https://www.gizmodo.jp/article/2609-ios27-iphone-liquid-glass-transparency/"
+        "https://www.gizmodo.jp/article/5-features-you-should-update-ios27/"
     ]
 }
