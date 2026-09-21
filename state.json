@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/ck980qyy6d2zo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260921de51617",
         "https://news.web.nhk/newsweb/na/nd-20260921de51611",
         "https://news.web.nhk/newsweb/na/nd-20260921de51580",
         "https://news.web.nhk/newsweb/na/nd-20260921de51488",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260918de51044",
         "https://news.web.nhk/newsweb/na/nd-20260918de51012",
         "https://news.web.nhk/newsweb/na/nd-20260918de51046",
-        "https://news.web.nhk/newsweb/na/nd-20260918de51039",
-        "https://news.web.nhk/newsweb/na/nd-20260918de51032"
+        "https://news.web.nhk/newsweb/na/nd-20260918de51039"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/japan-summer-2026-extreme-weather/",
