@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cwe8e2j5xxy3o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260921de51641",
         "https://news.web.nhk/newsweb/na/nd-20260918de51067",
         "https://news.web.nhk/newsweb/na/nd-20260918de50967",
         "https://news.web.nhk/newsweb/na/nd-20260921de51654",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260918de51080",
         "https://news.web.nhk/newsweb/na/nd-20260918de51076",
         "https://news.web.nhk/newsweb/na/nd-20260918de51086",
-        "https://news.web.nhk/newsweb/na/nd-20260916de50597",
-        "https://news.web.nhk/newsweb/na/nd-20260918de51066"
+        "https://news.web.nhk/newsweb/na/nd-20260916de50597"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/ai-datacenter-ewaste-wave/",
