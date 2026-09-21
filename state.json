@@ -2,6 +2,8 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "FI-7Jq6C-uU",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "p2ywyi1M6Vo",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cm2dw2r7wz0no#0",
+        "https://www.bbc.co.uk/news/articles/cmwyz2p4pj2eo#1",
         "https://www.bbc.co.uk/news/articles/cmde0pp22r5go#0",
         "https://www.bbc.co.uk/news/articles/crq5x74yv6dxo#1",
         "https://www.bbc.co.uk/news/articles/cr2092216nywo#0",
@@ -199,11 +201,10 @@
         "https://www.bbc.co.uk/news/articles/cw5yl228lvzlo#0",
         "https://www.bbc.co.uk/sport/football/articles/cmeq8v8e3ql7o#1",
         "https://www.bbc.co.uk/sport/hockey/articles/cmx2zg85gq03o#0",
-        "https://www.bbc.co.uk/news/articles/c6vgy80ge1z7o#1",
-        "https://www.bbc.co.uk/news/articles/cm4gl6j53w19o#0",
-        "https://www.bbc.co.uk/news/articles/c6e30580jqjpo#0"
+        "https://www.bbc.co.uk/news/articles/c6vgy80ge1z7o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260922de51778",
         "https://news.web.nhk/newsweb/na/nd-20260922de51784",
         "https://news.web.nhk/newsweb/na/nd-20260918de51152",
         "https://news.web.nhk/newsweb/na/nd-20260922de51763",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260919de51163",
         "https://news.web.nhk/newsweb/na/nd-20260919de51169",
         "https://news.web.nhk/newsweb/na/nd-20260919de51167",
-        "https://news.web.nhk/newsweb/na/nd-20260918de51158",
-        "https://news.web.nhk/newsweb/na/nd-20260919de51166"
+        "https://news.web.nhk/newsweb/na/nd-20260918de51158"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/leap-seconds-were-a-headache-now-timekeepers-are-considering-a-leap-hour-vqz/",
