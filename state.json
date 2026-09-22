@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cj4gklz9dxplo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260922de51867",
         "https://news.web.nhk/newsweb/na/nd-20260922de51851",
         "https://news.web.nhk/newsweb/na/nd-20260922de51863",
         "https://news.web.nhk/newsweb/na/nd-20260922de51846",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260919de51219",
         "https://news.web.nhk/newsweb/na/nd-20260919de51222",
         "https://news.web.nhk/newsweb/na/nd-20260919de51221",
-        "https://news.web.nhk/newsweb/na/nd-20260919de51220",
-        "https://news.web.nhk/newsweb/na/nd-20260919de51218"
+        "https://news.web.nhk/newsweb/na/nd-20260919de51220"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/oregon-data-centers-quarter-power/",
