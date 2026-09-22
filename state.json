@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cqzrz0z4plk1o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260923de51940",
         "https://news.web.nhk/newsweb/na/nd-20260922de51892",
         "https://news.web.nhk/newsweb/na/nd-20260922de51926",
         "https://news.web.nhk/newsweb/na/nd-20260923de51933",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260920de51286",
         "https://news.web.nhk/newsweb/na/nd-20260919de51285",
         "https://news.web.nhk/newsweb/na/nd-20260919de51284",
-        "https://news.web.nhk/newsweb/na/nd-20260919de51281",
-        "https://news.web.nhk/newsweb/na/nd-20260919de51280"
+        "https://news.web.nhk/newsweb/na/nd-20260919de51281"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/beats360-nikeid-headphone-review/",
