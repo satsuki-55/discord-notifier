@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cmed7p06epxjo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260923de51939",
         "https://news.web.nhk/newsweb/na/nd-20260923de51936",
         "https://news.web.nhk/newsweb/na/nd-20260923de51940",
         "https://news.web.nhk/newsweb/na/nd-20260922de51892",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260920de51287",
         "https://news.web.nhk/newsweb/na/nd-20260920de51295",
         "https://news.web.nhk/newsweb/na/nd-20260920de51286",
-        "https://news.web.nhk/newsweb/na/nd-20260919de51285",
-        "https://news.web.nhk/newsweb/na/nd-20260919de51284"
+        "https://news.web.nhk/newsweb/na/nd-20260919de51285"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/metas-next-headset-looks-an-awful-lot-like-googles-aura-xr-glasses/",
