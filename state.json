@@ -1,7 +1,9 @@
 {
-    "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "FI-7Jq6C-uU",
+    "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "Z8YLfjJNRj8",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "wuNO1osf7zI",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cmz6z2vx65jeo#0",
+        "https://www.bbc.co.uk/news/articles/c3y0z25v0zjwo#1",
         "https://www.bbc.co.uk/news/articles/cx8d38djqm25o#0",
         "https://www.bbc.co.uk/news/articles/cwg59g3vz564o#0",
         "https://www.bbc.co.uk/news/articles/cje3rezd92y3o#1",
@@ -199,11 +201,11 @@
         "https://www.bbc.co.uk/news/articles/cm780ll1de18o#1",
         "https://www.bbc.co.uk/news/articles/c65ymj7njvl7o#0",
         "https://www.bbc.co.uk/news/articles/cm780ll1de18o#0",
-        "https://www.bbc.co.uk/news/articles/cqlykr2vrv04o#1",
-        "https://www.bbc.co.uk/news/articles/c39w4n07ekeno#1",
-        "https://www.bbc.co.uk/news/articles/cvgy1q2k2z0o#0"
+        "https://www.bbc.co.uk/news/articles/cqlykr2vrv04o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260922de51887",
+        "https://news.web.nhk/newsweb/na/nd-20260922de51883",
         "https://news.web.nhk/newsweb/na/nd-20260922de51877",
         "https://news.web.nhk/newsweb/na/nd-20260922de51872",
         "https://news.web.nhk/newsweb/na/nd-20260922de51870",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260919de51230",
         "https://news.web.nhk/newsweb/na/nd-20260919de51229",
         "https://news.web.nhk/newsweb/na/nd-20260919de51228",
-        "https://news.web.nhk/newsweb/na/nd-20260919de51227",
-        "https://news.web.nhk/newsweb/na/nd-20260917de50747",
-        "https://news.web.nhk/newsweb/na/nd-20260919de51219"
+        "https://news.web.nhk/newsweb/na/nd-20260919de51227"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/apple-bobborchers-interview/",
