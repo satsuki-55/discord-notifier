@@ -1,6 +1,6 @@
 {
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "FI-7Jq6C-uU",
-    "youtube:UCjJmYy279ehSYSwR1A3fXtA": "p2ywyi1M6Vo",
+    "youtube:UCjJmYy279ehSYSwR1A3fXtA": "wuNO1osf7zI",
     "rss:bbc": [
         "https://www.bbc.co.uk/news/articles/cmdx5pp6rxqyo#1",
         "https://www.bbc.co.uk/news/articles/ck5yw8npxzrlo#0",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260919de51216"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/oregon-data-centers-quarter-power/",
         "https://www.gizmodo.jp/article/2609-ai-warnings-tech-stocks-decline/",
         "https://www.gizmodo.jp/article/rimowa-faber-castell_artist_case/",
         "https://www.gizmodo.jp/article/2609-gemini-security-incident-may/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/2609-anthropic-ceo-ai-development-slowdown/",
         "https://www.gizmodo.jp/article/2609-iphone-duo-reasons-to-buy/",
         "https://www.gizmodo.jp/article/2609-cloud-storage-blu-ray-recorder/",
-        "https://www.gizmodo.jp/article/2609-macbook-neo-amazon-discount/",
-        "https://www.gizmodo.jp/article/2609-ios27-hidden-dogcow-clarus/"
+        "https://www.gizmodo.jp/article/2609-macbook-neo-amazon-discount/"
     ]
 }
