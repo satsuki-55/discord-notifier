@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cmlyrzve5pwzo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260922de51898",
         "https://news.web.nhk/newsweb/na/nd-20260919de51235",
         "https://news.web.nhk/newsweb/na/nd-20260922de51903",
         "https://news.web.nhk/newsweb/na/nd-20260919de51229",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260919de51225",
         "https://news.web.nhk/newsweb/na/nd-20260919de51241",
         "https://news.web.nhk/newsweb/na/nd-20260919de51242",
-        "https://news.web.nhk/newsweb/na/nd-20260828de46997",
-        "https://news.web.nhk/newsweb/na/nd-20260919de51240"
+        "https://news.web.nhk/newsweb/na/nd-20260828de46997"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/pangram-can-now-check-your-gmail-for-ai-slop/",
