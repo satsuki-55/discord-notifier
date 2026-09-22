@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "Z8YLfjJNRj8",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "wuNO1osf7zI",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cqy7z275yx65o#0",
         "https://www.bbc.co.uk/news/articles/c8dx5dy5rzz2o#1",
         "https://www.bbc.co.uk/news/articles/cv2dwylkl7weo#1",
         "https://www.bbc.co.uk/news/articles/c6790y1gj247o#0",
@@ -200,10 +201,10 @@
         "https://www.bbc.co.uk/news/articles/czxz0zq9y6do#0",
         "https://www.bbc.co.uk/news/articles/c61wx47n0408o#0",
         "https://www.bbc.co.uk/news/articles/cm4g525l8jwwo#1",
-        "https://www.bbc.co.uk/news/articles/cvj64w204y58o#1",
-        "https://www.bbc.co.uk/news/articles/ckrer2738v8vo#0"
+        "https://www.bbc.co.uk/news/articles/cvj64w204y58o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260919de51229",
         "https://news.web.nhk/newsweb/na/nd-20260919de51228",
         "https://news.web.nhk/newsweb/na/nd-20260922de51897",
         "https://news.web.nhk/newsweb/na/nd-20260922de51889",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260828de46997",
         "https://news.web.nhk/newsweb/na/nd-20260919de51240",
         "https://news.web.nhk/newsweb/na/nd-20260919de51237",
-        "https://news.web.nhk/newsweb/na/nd-20260919de51235",
-        "https://news.web.nhk/newsweb/na/nd-20260919de51230"
+        "https://news.web.nhk/newsweb/na/nd-20260919de51235"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2609-childrens-future-predictions-50-years-ago-and-today/",
