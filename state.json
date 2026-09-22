@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260919de51227"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/asics_blast_series_comparison/",
         "https://www.gizmodo.jp/article/apple-bobborchers-interview/",
         "https://www.gizmodo.jp/article/2609-mediatek-googlebook-chip/",
         "https://www.gizmodo.jp/article/2609-m6-pro-benchmark-fake/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/jetboil-disaster-prevention/",
         "https://www.gizmodo.jp/article/2609-ai-detection-tools-deepfake-reliability/",
         "https://www.gizmodo.jp/article/2609-steam-frame-release-price/",
-        "https://www.gizmodo.jp/article/potential-price-increase-for-the-samsung-galaxy-s26/",
-        "https://www.gizmodo.jp/article/k-and-f_concept_screnncleaner_review/"
+        "https://www.gizmodo.jp/article/potential-price-increase-for-the-samsung-galaxy-s26/"
     ]
 }
