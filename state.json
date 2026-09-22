@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cqkgvlkg0z3xo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260922de51835",
         "https://news.web.nhk/newsweb/na/nd-20260922de51828",
         "https://news.web.nhk/newsweb/na/nd-20260922de51819",
         "https://news.web.nhk/newsweb/na/nd-20260922de51808",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260917de50714",
         "https://news.web.nhk/newsweb/na/nd-20260919de51216",
         "https://news.web.nhk/newsweb/na/nd-20260919de51210",
-        "https://news.web.nhk/newsweb/na/nd-20260919de51213",
-        "https://news.web.nhk/newsweb/na/nd-20260919de51212"
+        "https://news.web.nhk/newsweb/na/nd-20260919de51213"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/unique_smartphones-ruu/",
