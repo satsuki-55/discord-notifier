@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260919de51215"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2609-steam-frame-review/",
         "https://www.gizmodo.jp/article/2609-apple-tech-woven-case-1-year-review/",
         "https://www.gizmodo.jp/article/2609-we-are-rewind-eq-002-headphone/",
         "https://www.gizmodo.jp/article/mitsuoka-la1-opencar/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/ios-27-beta-siri-ai-first-impression/",
         "https://www.gizmodo.jp/article/ios-27-beta-photo-ai-edit/",
         "https://www.gizmodo.jp/article/data-centers-create-heat-islands-stretching-6-miles-study-finds-mbj/",
-        "https://www.gizmodo.jp/article/ios27-lockscreen/",
-        "https://www.gizmodo.jp/article/samsung-is-already-working-on-smart-glasses-with-a-built-in-screen/"
+        "https://www.gizmodo.jp/article/ios27-lockscreen/"
     ]
 }
