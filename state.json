@@ -2,6 +2,9 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "Z8YLfjJNRj8",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "wuNO1osf7zI",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c8xkvzlz0x4o#0",
+        "https://www.bbc.co.uk/news/articles/cx305ymq4ldqo#0",
+        "https://www.bbc.co.uk/news/articles/c2dwg3zexkpo#0",
         "https://www.bbc.co.uk/news/articles/cqzrz0z4plk1o#0",
         "https://www.bbc.co.uk/news/articles/cm5ydz4kl65ro#0",
         "https://www.bbc.co.uk/news/videos/cwe8ejvv0leno#0",
@@ -198,10 +201,7 @@
         "https://www.bbc.co.uk/news/articles/c8vgy53k49lgo#0",
         "https://www.bbc.co.uk/news/videos/ckly58lmy2gvo#0",
         "https://www.bbc.co.uk/news/articles/cq5yme200n8go#1",
-        "https://www.bbc.co.uk/news/articles/cmpq0w73d9dqo#0",
-        "https://www.bbc.co.uk/news/articles/cmpwln09gknzo#1",
-        "https://www.bbc.co.uk/news/articles/cmed7p06epxjo#1",
-        "https://www.bbc.co.uk/news/articles/cmed7p06epxjo#0"
+        "https://www.bbc.co.uk/news/articles/cmpq0w73d9dqo#0"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20260923de51939",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260919de51285"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/jumping-jacks-gadget-61-re/",
         "https://www.gizmodo.jp/article/metas-next-headset-looks-an-awful-lot-like-googles-aura-xr-glasses/",
         "https://www.gizmodo.jp/article/beats360-nikeid-headphone-review/",
         "https://www.gizmodo.jp/article/future-of-ai-plans-daa/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/2609-galaxy-tab-s12-release-date-october-7/",
         "https://www.gizmodo.jp/article/2609-panasonic-air-purifier-f-px55d/",
         "https://www.gizmodo.jp/article/moft-iphone18pro-movas-case/",
-        "https://www.gizmodo.jp/article/marna-onebreath/",
-        "https://www.gizmodo.jp/article/mobile_batterys_refrigerator/"
+        "https://www.gizmodo.jp/article/marna-onebreath/"
     ]
 }
