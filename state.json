@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "Z8YLfjJNRj8",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "FKjYIC7NGgE",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo#0",
         "https://www.bbc.co.uk/news/articles/cqlymw74g20ro#0",
         "https://www.bbc.co.uk/news/articles/cm5y7qj54klpo#0",
         "https://www.bbc.co.uk/news/articles/cqrm90m2g1dzo#0",
@@ -200,8 +201,7 @@
         "https://www.bbc.co.uk/news/articles/cx8d38djqm25o#1",
         "https://www.bbc.co.uk/news/articles/cmz6z2vx65jeo#0",
         "https://www.bbc.co.uk/news/articles/c3y0z25v0zjwo#1",
-        "https://www.bbc.co.uk/news/articles/cx8d38djqm25o#0",
-        "https://www.bbc.co.uk/news/articles/cwg59g3vz564o#0"
+        "https://www.bbc.co.uk/news/articles/cx8d38djqm25o#0"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20260923de52044",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260921de51472"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2609-us-space-control-weapons/",
         "https://www.gizmodo.jp/article/dragonberry-weed-could-help-scientists-extract-rare-earth-metals-from-polluted-soil-uyu/",
         "https://www.gizmodo.jp/article/surf-wec-hawaii-wave-energy/",
         "https://www.gizmodo.jp/article/climate-change-is-supercharging-el-nino-1000-years-of-coral-data-shows/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/2609-apple-store-genius-bar-return/",
         "https://www.gizmodo.jp/article/china-turns-on-the-worlds-first-underwater-data-center-qsv/",
         "https://www.gizmodo.jp/article/shokz_openfit-air-2_openrun-air-2/",
-        "https://www.gizmodo.jp/article/paire-lipstickbikini/",
-        "https://www.gizmodo.jp/article/saucony_endorphin-azzurra_review/"
+        "https://www.gizmodo.jp/article/paire-lipstickbikini/"
     ]
 }
