@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c8vgyzn2d31yo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260923de51975",
         "https://news.web.nhk/newsweb/na/nd-20260923de51965",
         "https://news.web.nhk/newsweb/na/nd-20260923de51968",
         "https://news.web.nhk/newsweb/na/nd-20260923de51966",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260920de51312",
         "https://news.web.nhk/newsweb/na/nd-20260920de51325",
         "https://news.web.nhk/newsweb/na/nd-20260920de51305",
-        "https://news.web.nhk/newsweb/na/nd-20260920de51299",
-        "https://news.web.nhk/newsweb/na/nd-20260920de51297"
+        "https://news.web.nhk/newsweb/na/nd-20260920de51299"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/bank-of-england-governor-warns-ai-represents-threat-to-the-global-economy/",
         "https://www.gizmodo.jp/article/5c944072-6e7e-45a3-84ac-03d9f1d1b705/",
         "https://www.gizmodo.jp/article/cigarette_butt_repost/",
         "https://www.gizmodo.jp/article/dysons-latest-robovac-is-ideal-for-people-who-dont-care-about-mop-bots/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/2609-compressed-disaster-prevention-goods/",
         "https://www.gizmodo.jp/article/ai-recreated-1963-bundesliga-goal/",
         "https://www.gizmodo.jp/article/nintendo-switch-vulnerability/",
-        "https://www.gizmodo.jp/article/2609-dell-xps-13-2026-review/",
-        "https://www.gizmodo.jp/article/3coins_silicone-magnetic-umbrella-holder-fwo/"
+        "https://www.gizmodo.jp/article/2609-dell-xps-13-2026-review/"
     ]
 }
