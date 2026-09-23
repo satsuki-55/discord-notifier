@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/c9kgvej2vzy8o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260920de51358",
+        "https://news.web.nhk/newsweb/na/nd-20260920de51339",
         "https://news.web.nhk/newsweb/na/nd-20260923de52006",
         "https://news.web.nhk/newsweb/na/nd-20260923de52009",
         "https://news.web.nhk/newsweb/na/nd-20260923de52007",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260920de51369",
         "https://news.web.nhk/newsweb/na/nd-20260920de51366",
         "https://news.web.nhk/newsweb/na/nd-20260920de51363",
-        "https://news.web.nhk/newsweb/na/nd-20260920de51359",
-        "https://news.web.nhk/newsweb/na/nd-20260920de51364",
-        "https://news.web.nhk/newsweb/na/nd-20260920de51358"
+        "https://news.web.nhk/newsweb/na/nd-20260920de51359"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/iris-oyama_portable-fridge_review/",
