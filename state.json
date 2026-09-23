@@ -2,6 +2,8 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "Z8YLfjJNRj8",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "FKjYIC7NGgE",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c6vgy0333dppo#0",
+        "https://www.bbc.co.uk/news/articles/ck87v27vdn1po#0",
         "https://www.bbc.co.uk/news/articles/ck5ywzl5vd5po#0",
         "https://www.bbc.co.uk/news/articles/c674kyg43d3lo#1",
         "https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo#0",
@@ -199,11 +201,10 @@
         "https://www.bbc.co.uk/news/articles/c65ymj7njvl7o#0",
         "https://www.bbc.co.uk/news/articles/cw305ynd69n6o#0",
         "https://www.bbc.co.uk/news/articles/cmde0pp22r5go#1",
-        "https://www.bbc.co.uk/news/articles/cmd79wn72ngjo#1",
-        "https://www.bbc.co.uk/news/articles/cx8d38djqm25o#1",
-        "https://www.bbc.co.uk/news/articles/cmz6z2vx65jeo#0"
+        "https://www.bbc.co.uk/news/articles/cmd79wn72ngjo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260924de52088",
         "https://news.web.nhk/newsweb/na/nd-20260923de52044",
         "https://news.web.nhk/newsweb/na/nd-20260924de52084",
         "https://news.web.nhk/newsweb/na/nd-20260923de52064",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260921de51486",
         "https://news.web.nhk/newsweb/na/nd-20260921de51481",
         "https://news.web.nhk/newsweb/na/nd-20260921de51476",
-        "https://news.web.nhk/newsweb/na/nd-20260921de51467",
-        "https://news.web.nhk/newsweb/na/nd-20260921de51472"
+        "https://news.web.nhk/newsweb/na/nd-20260921de51467"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2609-us-space-control-weapons/",
