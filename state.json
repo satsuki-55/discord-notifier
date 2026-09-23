@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c9kgvej2vzy8o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260923de52009",
         "https://news.web.nhk/newsweb/na/nd-20260923de52007",
         "https://news.web.nhk/newsweb/na/nd-20260923de52002",
         "https://news.web.nhk/newsweb/na/nd-20260923de52001",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260920de51359",
         "https://news.web.nhk/newsweb/na/nd-20260920de51364",
         "https://news.web.nhk/newsweb/na/nd-20260920de51358",
-        "https://news.web.nhk/newsweb/na/nd-20260920de51339",
-        "https://news.web.nhk/newsweb/na/nd-20260920de51349"
+        "https://news.web.nhk/newsweb/na/nd-20260920de51339"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/iris-oyama_portable-fridge_review/",
         "https://www.gizmodo.jp/article/china-earth-ct-airborne-scan/",
         "https://www.gizmodo.jp/article/2609-ai-hallucination-us-military-china/",
         "https://www.gizmodo.jp/article/in-a-warming-world-air-conditioning-is-a-necessary-evil-or-is-it/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/miyagen-runmeshcap/",
         "https://www.gizmodo.jp/article/tomica_mini-car_garage/",
         "https://www.gizmodo.jp/article/6f66f6b0-a71d-412a-a967-ae4ab85f0f3d/",
-        "https://www.gizmodo.jp/article/2609-nvidia-rtx-60-series-release-rumor/",
-        "https://www.gizmodo.jp/article/iris-ohyama-karalie-mini-turbo/"
+        "https://www.gizmodo.jp/article/2609-nvidia-rtx-60-series-release-rumor/"
     ]
 }
