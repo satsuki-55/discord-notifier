@@ -2,6 +2,8 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "Z8YLfjJNRj8",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "wuNO1osf7zI",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c9rk3rdp644mo#1",
+        "https://www.bbc.co.uk/news/videos/cjp306113l0wo#1",
         "https://www.bbc.co.uk/news/articles/c9rk3rdp644mo#0",
         "https://www.bbc.co.uk/news/articles/cq62j13gnyrko#0",
         "https://www.bbc.co.uk/news/articles/cqy4z9pv4w0po#0",
@@ -199,9 +201,7 @@
         "https://www.bbc.co.uk/news/articles/cm0rexrwjj1vo#1",
         "https://www.bbc.co.uk/news/articles/c54g7jdmw032o#0",
         "https://www.bbc.co.uk/news/articles/c9qxnyengdjo#0",
-        "https://www.bbc.co.uk/news/videos/c6z0z2nne11vo#1",
-        "https://www.bbc.co.uk/news/articles/c6y9zgx5vy2go#1",
-        "https://www.bbc.co.uk/news/articles/c790xvnzgnno#0"
+        "https://www.bbc.co.uk/news/videos/c6z0z2nne11vo#1"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20260923de51980",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260920de51312"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2609-ai-hallucination-us-military-china/",
         "https://www.gizmodo.jp/article/in-a-warming-world-air-conditioning-is-a-necessary-evil-or-is-it/",
         "https://www.gizmodo.jp/article/iphone18-pro-carriers-reservation-guide/",
         "https://www.gizmodo.jp/article/bank-of-england-governor-warns-ai-represents-threat-to-the-global-economy/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/6f66f6b0-a71d-412a-a967-ae4ab85f0f3d/",
         "https://www.gizmodo.jp/article/2609-nvidia-rtx-60-series-release-rumor/",
         "https://www.gizmodo.jp/article/iris-ohyama-karalie-mini-turbo/",
-        "https://www.gizmodo.jp/article/2609-compressed-disaster-prevention-goods/",
-        "https://www.gizmodo.jp/article/ai-recreated-1963-bundesliga-goal/"
+        "https://www.gizmodo.jp/article/2609-compressed-disaster-prevention-goods/"
     ]
 }
