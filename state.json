@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cv4g50w2px0no#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260828de47010",
         "https://news.web.nhk/newsweb/na/nd-20260828de47009",
         "https://news.web.nhk/newsweb/na/nd-20260923de51960",
         "https://news.web.nhk/newsweb/na/nd-20260923de51944",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260920de51302",
         "https://news.web.nhk/newsweb/na/nd-20260920de51300",
         "https://news.web.nhk/newsweb/na/nd-20260919de51282",
-        "https://news.web.nhk/newsweb/na/nd-20260920de51291",
-        "https://news.web.nhk/newsweb/na/nd-20260920de51288"
+        "https://news.web.nhk/newsweb/na/nd-20260920de51291"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/dysons-latest-robovac-is-ideal-for-people-who-dont-care-about-mop-bots/",
