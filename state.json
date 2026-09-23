@@ -2,6 +2,8 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "Z8YLfjJNRj8",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "FKjYIC7NGgE",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cry8zwwq21pxo#0",
+        "https://www.bbc.co.uk/news/articles/c3kg80ve7x0no#1",
         "https://www.bbc.co.uk/news/articles/c3rr48pxg54qo#1",
         "https://www.bbc.co.uk/news/articles/ck1l6yyg52qvo#1",
         "https://www.bbc.co.uk/news/articles/cqn745px55nno#1",
@@ -199,11 +201,10 @@
         "https://www.bbc.co.uk/news/articles/cmwyz2p4pj2eo#1",
         "https://www.bbc.co.uk/news/articles/cmde0pp22r5go#0",
         "https://www.bbc.co.uk/news/articles/crq5x74yv6dxo#1",
-        "https://www.bbc.co.uk/news/articles/cr2092216nywo#0",
-        "https://www.bbc.co.uk/news/articles/ckp84pj8zpngo#1",
-        "https://www.bbc.co.uk/news/articles/cr2092216nywo#1"
+        "https://www.bbc.co.uk/news/articles/cr2092216nywo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260923de52054",
         "https://news.web.nhk/newsweb/na/nd-20260917de50897",
         "https://news.web.nhk/newsweb/na/nd-20260923de52041",
         "https://news.web.nhk/newsweb/na/nd-20260920de51311",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260920de51400",
         "https://news.web.nhk/newsweb/na/nd-20260920de51399",
         "https://news.web.nhk/newsweb/na/nd-20260920de51389",
-        "https://news.web.nhk/newsweb/na/nd-20260920de51388",
-        "https://news.web.nhk/newsweb/na/nd-20260920de51385"
+        "https://news.web.nhk/newsweb/na/nd-20260920de51388"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/the-cutest-framework-laptop-12-is-getting-a-smorgasbord-of-upgrades/",
