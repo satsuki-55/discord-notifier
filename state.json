@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c8vgyzn2d31yo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260923de51981",
         "https://news.web.nhk/newsweb/na/nd-20260923de51978",
         "https://news.web.nhk/newsweb/na/nd-20260923de51975",
         "https://news.web.nhk/newsweb/na/nd-20260923de51965",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260920de51320",
         "https://news.web.nhk/newsweb/na/nd-20260920de51306",
         "https://news.web.nhk/newsweb/na/nd-20260920de51312",
-        "https://news.web.nhk/newsweb/na/nd-20260920de51325",
-        "https://news.web.nhk/newsweb/na/nd-20260920de51305"
+        "https://news.web.nhk/newsweb/na/nd-20260920de51325"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/in-a-warming-world-air-conditioning-is-a-necessary-evil-or-is-it/",
