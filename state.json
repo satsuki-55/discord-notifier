@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "Z8YLfjJNRj8",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "FKjYIC7NGgE",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c90kly26d7pzo#1",
         "https://www.bbc.co.uk/news/articles/c670lydl5wg5o#1",
         "https://www.bbc.co.uk/news/articles/c670lydl5wg5o#0",
         "https://www.bbc.co.uk/news/articles/c90kly26d7pzo#0",
@@ -200,8 +201,7 @@
         "https://www.bbc.co.uk/news/articles/cmd68px5qqddo#1",
         "https://www.bbc.co.uk/news/articles/cm4gjr1qepr8o#0",
         "https://www.bbc.co.uk/news/articles/cm4gjr1qepr8o#1",
-        "https://www.bbc.co.uk/news/articles/cm2dw2r7wz0no#0",
-        "https://www.bbc.co.uk/news/articles/cmwyz2p4pj2eo#1"
+        "https://www.bbc.co.uk/news/articles/cm2dw2r7wz0no#0"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20260923de52054",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260920de51388"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/climate-change-is-supercharging-el-nino-1000-years-of-coral-data-shows/",
         "https://www.gizmodo.jp/article/2609-failed-company-customer-data-for-ai-training/",
         "https://www.gizmodo.jp/article/the-cutest-framework-laptop-12-is-getting-a-smorgasbord-of-upgrades/",
         "https://www.gizmodo.jp/article/2609-m6-mac-mini-review/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/paire-lipstickbikini/",
         "https://www.gizmodo.jp/article/saucony_endorphin-azzurra_review/",
         "https://www.gizmodo.jp/article/instax-pal-2/",
-        "https://www.gizmodo.jp/article/iphone18pro-with-tokyo-nightlife/",
-        "https://www.gizmodo.jp/article/dell-gizmodo-xps-13-event/"
+        "https://www.gizmodo.jp/article/iphone18pro-with-tokyo-nightlife/"
     ]
 }
