@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "Z8YLfjJNRj8",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "wuNO1osf7zI",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c6rerlq99w30o#1",
         "https://www.bbc.co.uk/news/articles/c9j3dgxl8j58o#1",
         "https://www.bbc.co.uk/news/articles/cx305ymq4ldqo#1",
         "https://www.bbc.co.uk/news/videos/cwe8ejvv0leno#1",
@@ -200,8 +201,7 @@
         "https://www.bbc.co.uk/news/articles/c8vgyzn2d31yo#1",
         "https://www.bbc.co.uk/news/articles/cv4g50w2px0no#1",
         "https://www.bbc.co.uk/news/articles/ckp84pj8zpngo#0",
-        "https://www.bbc.co.uk/news/articles/cmx2z10zk736o#1",
-        "https://www.bbc.co.uk/news/articles/cw1mvj19yvk4o#0"
+        "https://www.bbc.co.uk/news/articles/cmx2z10zk736o#1"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20260923de51944",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260920de51287"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/underwater-perovskite-solar-cells/",
         "https://www.gizmodo.jp/article/jumping-jacks-gadget-61-re/",
         "https://www.gizmodo.jp/article/metas-next-headset-looks-an-awful-lot-like-googles-aura-xr-glasses/",
         "https://www.gizmodo.jp/article/beats360-nikeid-headphone-review/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/3coins_silicone-magnetic-umbrella-holder-fwo/",
         "https://www.gizmodo.jp/article/2609-galaxy-tab-s12-release-date-october-7/",
         "https://www.gizmodo.jp/article/2609-panasonic-air-purifier-f-px55d/",
-        "https://www.gizmodo.jp/article/moft-iphone18pro-movas-case/",
-        "https://www.gizmodo.jp/article/marna-onebreath/"
+        "https://www.gizmodo.jp/article/moft-iphone18pro-movas-case/"
     ]
 }
