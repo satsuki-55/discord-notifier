@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/ck1e52v16ngxo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260923de52024",
+        "https://news.web.nhk/newsweb/na/nd-20260923de52028",
         "https://news.web.nhk/newsweb/na/nd-20260920de51358",
         "https://news.web.nhk/newsweb/na/nd-20260920de51339",
         "https://news.web.nhk/newsweb/na/nd-20260923de52006",
@@ -401,11 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260920de51376",
         "https://news.web.nhk/newsweb/na/nd-20260920de51372",
         "https://news.web.nhk/newsweb/na/nd-20260920de51369",
-        "https://news.web.nhk/newsweb/na/nd-20260920de51366",
-        "https://news.web.nhk/newsweb/na/nd-20260920de51363",
-        "https://news.web.nhk/newsweb/na/nd-20260920de51359"
+        "https://news.web.nhk/newsweb/na/nd-20260920de51366"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/tokyo-keyboard-expo-2026-valkey-orb/",
         "https://www.gizmodo.jp/article/ec990399-1842-4a77-af6c-ac6e00f18a44/",
         "https://www.gizmodo.jp/article/iris-oyama_portable-fridge_review/",
         "https://www.gizmodo.jp/article/china-earth-ct-airborne-scan/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/dell-gizmodo-xps-13-event/",
         "https://www.gizmodo.jp/article/kikippa-youtube/",
         "https://www.gizmodo.jp/article/miyagen-runmeshcap/",
-        "https://www.gizmodo.jp/article/tomica_mini-car_garage/",
-        "https://www.gizmodo.jp/article/6f66f6b0-a71d-412a-a967-ae4ab85f0f3d/"
+        "https://www.gizmodo.jp/article/tomica_mini-car_garage/"
     ]
 }
