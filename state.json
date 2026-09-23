@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cje3rezd92y3o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260923de52044",
         "https://news.web.nhk/newsweb/na/nd-20260924de52084",
         "https://news.web.nhk/newsweb/na/nd-20260923de52064",
         "https://news.web.nhk/newsweb/na/nd-20260923de52050",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260921de51481",
         "https://news.web.nhk/newsweb/na/nd-20260921de51476",
         "https://news.web.nhk/newsweb/na/nd-20260921de51467",
-        "https://news.web.nhk/newsweb/na/nd-20260921de51472",
-        "https://news.web.nhk/newsweb/na/nd-20260921de51469"
+        "https://news.web.nhk/newsweb/na/nd-20260921de51472"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/dragonberry-weed-could-help-scientists-extract-rare-earth-metals-from-polluted-soil-uyu/",
