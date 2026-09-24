@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/cj62e1wrpx73o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260924de52227",
+        "https://news.web.nhk/newsweb/na/nd-20260924de52226",
         "https://news.web.nhk/newsweb/na/nd-20260924de52215",
         "https://news.web.nhk/newsweb/na/nd-20260924de52212",
         "https://news.web.nhk/newsweb/na/nd-20260924de52220",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260921de51637",
         "https://news.web.nhk/newsweb/na/nd-20260921de51631",
         "https://news.web.nhk/newsweb/na/nd-20260921de51627",
-        "https://news.web.nhk/newsweb/na/nd-20260921de51630",
-        "https://news.web.nhk/newsweb/na/nd-20260921de51573",
-        "https://news.web.nhk/newsweb/na/nd-20260921de51614"
+        "https://news.web.nhk/newsweb/na/nd-20260921de51630"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2609-razer-pompompurin-gaming-headset/",
