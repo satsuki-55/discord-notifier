@@ -204,6 +204,9 @@
         "https://www.bbc.co.uk/weather/articles/cmvgy4nv9d62o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260924de52128",
+        "https://news.web.nhk/newsweb/na/nd-20260924de52108",
+        "https://news.web.nhk/newsweb/na/nd-20260924de52125",
         "https://news.web.nhk/newsweb/na/nd-20260924de52130",
         "https://news.web.nhk/newsweb/na/nd-20260924de52122",
         "https://news.web.nhk/newsweb/na/nd-20260924de52121",
@@ -400,12 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260921de51458",
         "https://news.web.nhk/newsweb/na/nd-20260920de51378",
         "https://news.web.nhk/newsweb/na/nd-20260921de51527",
-        "https://news.web.nhk/newsweb/na/nd-20260921de51525",
-        "https://news.web.nhk/newsweb/na/nd-20260921de51522",
-        "https://news.web.nhk/newsweb/na/nd-20260921de51523",
-        "https://news.web.nhk/newsweb/na/nd-20260921de51512"
+        "https://news.web.nhk/newsweb/na/nd-20260921de51525"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/dolphins-use-seashells-to-scoop-up-fish-and-eat-them-in-rare-hunting-behavior/",
         "https://www.gizmodo.jp/article/2609-meta-vr-glasses-vs-quest/",
         "https://www.gizmodo.jp/article/f21e7fac-10e4-495c-85fe-decda2c674fd-bew/",
         "https://www.gizmodo.jp/article/sanwa-fire-prevention-tap/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/2609-tgs2026-pokemon-go-gps-spoofing-tool/",
         "https://www.gizmodo.jp/article/keychron-nape-pro-special-edition-tgs2026/",
         "https://www.gizmodo.jp/article/bandainamco-tgs2026-merch-ace-combat-tales/",
-        "https://www.gizmodo.jp/article/portable_toilet_step_review/",
-        "https://www.gizmodo.jp/article/2609-samsung-galaxy-buds-on-clip-earphones/"
+        "https://www.gizmodo.jp/article/portable_toilet_step_review/"
     ]
 }
