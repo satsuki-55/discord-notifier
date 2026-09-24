@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "1XM9d58r_ew",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "FKjYIC7NGgE",
     "rss:bbc": [
+        "https://www.bbc.co.uk/sport/boxing/articles/c89n188d53no#1",
         "https://www.bbc.co.uk/news/articles/cv1j4yr6j2p0o#1",
         "https://www.bbc.co.uk/news/articles/cv1j4yr6j2p0o#0",
         "https://www.bbc.co.uk/news/articles/cmp30r1klk37o#0",
@@ -200,10 +201,10 @@
         "https://www.bbc.co.uk/news/articles/c607l2j2rj8ro#1",
         "https://www.bbc.co.uk/news/articles/cklyjz20pd22o#1",
         "https://www.bbc.co.uk/news/videos/cr209jz45vn4o#0",
-        "https://www.bbc.co.uk/news/articles/ckn9w4y37gw1o#1",
-        "https://www.bbc.co.uk/news/videos/cxly57mv4767o#1"
+        "https://www.bbc.co.uk/news/articles/ckn9w4y37gw1o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260924de52255",
         "https://news.web.nhk/newsweb/na/nd-20260924de52233",
         "https://news.web.nhk/newsweb/na/nd-20260916de50592",
         "https://news.web.nhk/newsweb/na/nd-20260918de51057",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260921de51682",
         "https://news.web.nhk/newsweb/na/nd-20260921de51670",
         "https://news.web.nhk/newsweb/na/nd-20260921de51669",
-        "https://news.web.nhk/newsweb/na/nd-20260921de51641",
-        "https://news.web.nhk/newsweb/na/nd-20260918de51067"
+        "https://news.web.nhk/newsweb/na/nd-20260921de51641"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2609-a16z-horowitz-andreessen-academy-university/",
