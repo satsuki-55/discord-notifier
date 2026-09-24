@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cr93e2nz0281o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260924de52200",
         "https://news.web.nhk/newsweb/na/nd-20260924de52199",
         "https://news.web.nhk/newsweb/na/nd-20260924de52197",
         "https://news.web.nhk/newsweb/na/nd-20260924de52207",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260921de51617",
         "https://news.web.nhk/newsweb/na/nd-20260921de51611",
         "https://news.web.nhk/newsweb/na/nd-20260921de51580",
-        "https://news.web.nhk/newsweb/na/nd-20260921de51488",
-        "https://news.web.nhk/newsweb/na/nd-20260921de51561"
+        "https://news.web.nhk/newsweb/na/nd-20260921de51488"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2609-apple-airtag-ai-pin-development-suspended/",
