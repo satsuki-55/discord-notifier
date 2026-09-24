@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/cm158y74n5vxo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260925de52292",
+        "https://news.web.nhk/newsweb/na/nd-20260925de52293",
         "https://news.web.nhk/newsweb/na/nd-20260925de52286",
         "https://news.web.nhk/newsweb/na/nd-20260924de52211",
         "https://news.web.nhk/newsweb/na/nd-20260925de52280",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260921de51730",
         "https://news.web.nhk/newsweb/na/nd-20260921de51726",
         "https://news.web.nhk/newsweb/na/nd-20260921de51724",
-        "https://news.web.nhk/newsweb/na/nd-20260921de51710",
-        "https://news.web.nhk/newsweb/na/nd-20260921de51721",
-        "https://news.web.nhk/newsweb/na/nd-20260918de51097"
+        "https://news.web.nhk/newsweb/na/nd-20260921de51710"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2609-hydrogen-fuel-engine-large-ships/",
