@@ -2,6 +2,8 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "1XM9d58r_ew",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "cIhoBeO7huI",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c9rk3rdp644mo#0",
+        "https://www.bbc.co.uk/news/articles/cq62j13gnyrko#0",
         "https://www.bbc.co.uk/news/articles/cq2e0lr39dv7o#0",
         "https://www.bbc.co.uk/news/articles/cw05rym38gdqo#0",
         "https://www.bbc.co.uk/news/articles/c3y0z7kxlegdo#0",
@@ -199,9 +201,7 @@
         "https://www.bbc.co.uk/news/articles/cq8e32p07gnyo#1",
         "https://www.bbc.co.uk/news/articles/cqgk52ln68xvo#1",
         "https://www.bbc.co.uk/news/articles/cm158y74n5vxo#1",
-        "https://www.bbc.co.uk/news/articles/c9rk3rdp644mo#1",
-        "https://www.bbc.co.uk/news/videos/cjp306113l0wo#1",
-        "https://www.bbc.co.uk/news/articles/c9rk3rdp644mo#0"
+        "https://www.bbc.co.uk/news/articles/c9rk3rdp644mo#1"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20260925de52286",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260918de51097"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2609-hydrogen-fuel-engine-large-ships/",
         "https://www.gizmodo.jp/article/cyclemode2026-smachari-zxw/",
         "https://www.gizmodo.jp/article/2609-meta-muse-charm/",
         "https://www.gizmodo.jp/article/apple-watch-reboot-bug-fix/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/iphoneduo-edge/",
         "https://www.gizmodo.jp/article/2609-tgs2026-square-enix-retro-goods/",
         "https://www.gizmodo.jp/article/dunlop_gaming-muscle_tgs2026/",
-        "https://www.gizmodo.jp/article/pixio_monitor-decoration_tgs2026/",
-        "https://www.gizmodo.jp/article/2609-tecno-pova-8-pro-tonino-lamborghini/"
+        "https://www.gizmodo.jp/article/pixio_monitor-decoration_tgs2026/"
     ]
 }
