@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/weather/articles/cmvgy4nv9d62o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260924de52107",
         "https://news.web.nhk/newsweb/na/nd-20260924de52100",
         "https://news.web.nhk/newsweb/na/nd-20260828de47012",
         "https://news.web.nhk/newsweb/na/nd-20260924de52101",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260921de51495",
         "https://news.web.nhk/newsweb/na/nd-20260921de51459",
         "https://news.web.nhk/newsweb/na/nd-20260921de51497",
-        "https://news.web.nhk/newsweb/na/nd-20260921de51502",
-        "https://news.web.nhk/newsweb/na/nd-20260921de51500"
+        "https://news.web.nhk/newsweb/na/nd-20260921de51502"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/alleged-20th-anniversary-iphone-screen-sizes-have-leaked/",
         "https://www.gizmodo.jp/article/2609-meta-glasses-lisa-collaboration/",
         "https://www.gizmodo.jp/article/new-meta-glasses/",
         "https://www.gizmodo.jp/article/meta-vr-glasses_news/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/2609-samsung-galaxy-buds-on-clip-earphones/",
         "https://www.gizmodo.jp/article/lite-way-trinket-whistle-orc/",
         "https://www.gizmodo.jp/article/torras-ostand-q3-air-pro/",
-        "https://www.gizmodo.jp/article/174ebbc5-5bc1-4953-aa08-45e05257ebe1/",
-        "https://www.gizmodo.jp/article/2609-samsung-galaxy-z-trifold-2-release/"
+        "https://www.gizmodo.jp/article/174ebbc5-5bc1-4953-aa08-45e05257ebe1/"
     ]
 }
