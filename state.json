@@ -2,6 +2,12 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "1XM9d58r_ew",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "FKjYIC7NGgE",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cv1j4yr6j2p0o#0",
+        "https://www.bbc.co.uk/news/articles/cmp30r1klk37o#0",
+        "https://www.bbc.co.uk/news/articles/cqm2mg34x2v7o#0",
+        "https://www.bbc.co.uk/news/articles/cwlyke0mm0x3o#1",
+        "https://www.bbc.co.uk/news/articles/c6vgy55lm8z1o#1",
+        "https://www.bbc.co.uk/news/articles/cqkgw68yjg29o#1",
         "https://www.bbc.co.uk/news/articles/cmp30r1klk37o#1",
         "https://www.bbc.co.uk/news/articles/cmpwle47zxgyo#0",
         "https://www.bbc.co.uk/news/articles/ck87v27vdn1po#1",
@@ -195,15 +201,11 @@
         "https://www.bbc.co.uk/news/videos/cr209jz45vn4o#0",
         "https://www.bbc.co.uk/news/articles/ckn9w4y37gw1o#1",
         "https://www.bbc.co.uk/news/videos/cxly57mv4767o#1",
-        "https://www.bbc.co.uk/news/articles/c6dj4k98107do#0",
-        "https://www.bbc.co.uk/news/articles/cwjdvgx77n0zo#1",
-        "https://www.bbc.co.uk/news/articles/cqzjz8dk4wddo#1",
-        "https://www.bbc.co.uk/news/articles/c9dr74g32g8go#1",
-        "https://www.bbc.co.uk/news/articles/c9dr74g32g8go#0",
-        "https://www.bbc.co.uk/news/articles/cwjdvgx77n0zo#0",
-        "https://www.bbc.co.uk/sport/cycling/articles/c63eqyvdndwdo#1"
+        "https://www.bbc.co.uk/news/articles/c6dj4k98107do#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260924de52242",
+        "https://news.web.nhk/newsweb/na/nd-20260918de51056",
         "https://news.web.nhk/newsweb/na/nd-20260924de52237",
         "https://news.web.nhk/newsweb/na/nd-20260924de52245",
         "https://news.web.nhk/newsweb/na/nd-20260924de52210",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260918de51067",
         "https://news.web.nhk/newsweb/na/nd-20260918de50967",
         "https://news.web.nhk/newsweb/na/nd-20260921de51654",
-        "https://news.web.nhk/newsweb/na/nd-20260916de50592",
-        "https://news.web.nhk/newsweb/na/nd-20260921de51643",
-        "https://news.web.nhk/newsweb/na/nd-20260918de51057"
+        "https://news.web.nhk/newsweb/na/nd-20260916de50592"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2609-meta-vr-glasses-hands-on/",
