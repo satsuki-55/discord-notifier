@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cklyjz20pd22o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260924de52261",
         "https://news.web.nhk/newsweb/na/nd-20260924de52230",
         "https://news.web.nhk/newsweb/na/nd-20260924de52255",
         "https://news.web.nhk/newsweb/na/nd-20260924de52233",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260921de51678",
         "https://news.web.nhk/newsweb/na/nd-20260921de51668",
         "https://news.web.nhk/newsweb/na/nd-20260921de51682",
-        "https://news.web.nhk/newsweb/na/nd-20260921de51670",
-        "https://news.web.nhk/newsweb/na/nd-20260921de51669"
+        "https://news.web.nhk/newsweb/na/nd-20260921de51670"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/apple-watch-reboot-bug-fix/",
         "https://www.gizmodo.jp/article/2609-meta-ray-ban-display-features-and-update/",
         "https://www.gizmodo.jp/article/meta-introduces-audio-only-smart-glasses-to-avoid-the-perv-problem/",
         "https://www.gizmodo.jp/article/2609-moft-dynamic-folio-iphone-duo/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/pixio_monitor-decoration_tgs2026/",
         "https://www.gizmodo.jp/article/2609-tecno-pova-8-pro-tonino-lamborghini/",
         "https://www.gizmodo.jp/article/fostex_t50rp-bt_tgs2026/",
-        "https://www.gizmodo.jp/article/evotop_zuiki_tgs2026/",
-        "https://www.gizmodo.jp/article/casio_aq240-retro-digiana-watch/"
+        "https://www.gizmodo.jp/article/evotop_zuiki_tgs2026/"
     ]
 }
