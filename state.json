@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cj62e1wrpx73o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260924de52218",
         "https://news.web.nhk/newsweb/na/nd-20260924de52227",
         "https://news.web.nhk/newsweb/na/nd-20260924de52226",
         "https://news.web.nhk/newsweb/na/nd-20260924de52215",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260918de51056",
         "https://news.web.nhk/newsweb/na/nd-20260921de51637",
         "https://news.web.nhk/newsweb/na/nd-20260921de51631",
-        "https://news.web.nhk/newsweb/na/nd-20260921de51627",
-        "https://news.web.nhk/newsweb/na/nd-20260921de51630"
+        "https://news.web.nhk/newsweb/na/nd-20260921de51627"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2609-m6-mac-mini-amazon-sale/",
         "https://www.gizmodo.jp/article/2609-razer-pompompurin-gaming-headset/",
         "https://www.gizmodo.jp/article/c4c5bec4-773d-419b-adf9-0d51004b716e/",
         "https://www.gizmodo.jp/article/2609-apple-airtag-ai-pin-development-suspended/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/axisray-lab_bash_controller_tgs2026/",
         "https://www.gizmodo.jp/article/my-play-watch_tgs2026/",
         "https://www.gizmodo.jp/article/panasonic-coricoran-tgs2026/",
-        "https://www.gizmodo.jp/article/neogio-aes-plus_tgs2026/",
-        "https://www.gizmodo.jp/article/rog_xbox_ally_x20/"
+        "https://www.gizmodo.jp/article/neogio-aes-plus_tgs2026/"
     ]
 }
