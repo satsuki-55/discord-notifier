@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "1XM9d58r_ew",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "FKjYIC7NGgE",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c6eq8e98wnr7o#1",
         "https://www.bbc.co.uk/news/articles/cm207yn1124zo#0",
         "https://www.bbc.co.uk/news/articles/cr15819w3vllo#0",
         "https://www.bbc.co.uk/news/articles/cqzjzl3d1409o#0",
@@ -200,10 +201,10 @@
         "https://www.bbc.co.uk/news/articles/cmew9q277kpvo#1",
         "https://www.bbc.co.uk/news/articles/c50m3glzppgpo#0",
         "https://www.bbc.co.uk/news/articles/cw8042y1zejlo#1",
-        "https://www.bbc.co.uk/news/articles/cvj64gz74ky4o#0",
-        "https://www.bbc.co.uk/news/articles/cm4gvyw80dp2o#0"
+        "https://www.bbc.co.uk/news/articles/cvj64gz74ky4o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260924de52197",
         "https://news.web.nhk/newsweb/na/nd-20260924de52207",
         "https://news.web.nhk/newsweb/na/nd-20260924de52167",
         "https://news.web.nhk/newsweb/na/nd-20260924de52092",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260921de51580",
         "https://news.web.nhk/newsweb/na/nd-20260921de51488",
         "https://news.web.nhk/newsweb/na/nd-20260921de51561",
-        "https://news.web.nhk/newsweb/na/nd-20260921de51556",
-        "https://news.web.nhk/newsweb/na/nd-20260921de51552"
+        "https://news.web.nhk/newsweb/na/nd-20260921de51556"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2609-apple-airtag-ai-pin-development-suspended/",
