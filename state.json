@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cmvgyzpy6g43o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260924de52115",
         "https://news.web.nhk/newsweb/na/nd-20260924de52163",
         "https://news.web.nhk/newsweb/na/nd-20260924de52154",
         "https://news.web.nhk/newsweb/na/nd-20260924de52142",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260921de51542",
         "https://news.web.nhk/newsweb/na/nd-20260921de51540",
         "https://news.web.nhk/newsweb/na/nd-20260921de51536",
-        "https://news.web.nhk/newsweb/na/nd-20260921de51516",
-        "https://news.web.nhk/newsweb/na/nd-20260921de51530"
+        "https://news.web.nhk/newsweb/na/nd-20260921de51516"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2609-yamaha-gigmii/",
