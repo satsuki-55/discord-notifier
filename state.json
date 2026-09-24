@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "1XM9d58r_ew",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "FKjYIC7NGgE",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cmpwle47zxgyo#1",
         "https://www.bbc.co.uk/news/articles/cqgmrk7187lzo#0",
         "https://www.bbc.co.uk/news/articles/ckddvje77m2zo#1",
         "https://www.bbc.co.uk/news/articles/c9n74574elljo#0",
@@ -200,10 +201,10 @@
         "https://www.bbc.co.uk/news/articles/c79g0j3d4q9o#0",
         "https://www.bbc.co.uk/news/articles/cwyvz0yvqre8o#0",
         "https://www.bbc.co.uk/news/articles/c6j9xpg19x43o#1",
-        "https://www.bbc.co.uk/news/articles/cq07ly8xzvn4o#1",
-        "https://www.bbc.co.uk/news/articles/cj62e1wrpx73o#1"
+        "https://www.bbc.co.uk/news/articles/cq07ly8xzvn4o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260924de52184",
         "https://news.web.nhk/newsweb/na/nd-20260924de52218",
         "https://news.web.nhk/newsweb/na/nd-20260924de52227",
         "https://news.web.nhk/newsweb/na/nd-20260924de52226",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260918de51057",
         "https://news.web.nhk/newsweb/na/nd-20260918de51056",
         "https://news.web.nhk/newsweb/na/nd-20260921de51637",
-        "https://news.web.nhk/newsweb/na/nd-20260921de51631",
-        "https://news.web.nhk/newsweb/na/nd-20260921de51627"
+        "https://news.web.nhk/newsweb/na/nd-20260921de51631"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2609-m6-mac-mini-amazon-sale/",
