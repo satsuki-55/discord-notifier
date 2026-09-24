@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "Z8YLfjJNRj8",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "FKjYIC7NGgE",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cm207yn1124zo#0",
         "https://www.bbc.co.uk/news/articles/cr15819w3vllo#0",
         "https://www.bbc.co.uk/news/articles/cqzjzl3d1409o#0",
         "https://www.bbc.co.uk/news/articles/ck0e3y7qzv1ro#1",
@@ -200,10 +201,10 @@
         "https://www.bbc.co.uk/news/articles/c50m3glzppgpo#0",
         "https://www.bbc.co.uk/news/articles/cw8042y1zejlo#1",
         "https://www.bbc.co.uk/news/articles/cvj64gz74ky4o#0",
-        "https://www.bbc.co.uk/news/articles/cm4gvyw80dp2o#0",
-        "https://www.bbc.co.uk/news/articles/crn45d8dd2wdo#0"
+        "https://www.bbc.co.uk/news/articles/cm4gvyw80dp2o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260924de52196",
         "https://news.web.nhk/newsweb/na/nd-20260924de52177",
         "https://news.web.nhk/newsweb/na/nd-20260924de52165",
         "https://news.web.nhk/newsweb/na/nd-20260924de52168",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260921de51552",
         "https://news.web.nhk/newsweb/na/nd-20260921de51550",
         "https://news.web.nhk/newsweb/na/nd-20260921de51541",
-        "https://news.web.nhk/newsweb/na/nd-20260921de51547",
-        "https://news.web.nhk/newsweb/na/nd-20260921de51542"
+        "https://news.web.nhk/newsweb/na/nd-20260921de51547"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2609-iphone-18-pro-duo-career-release-price2/",
         "https://www.gizmodo.jp/article/2609-ray-ban-meta-gen-3-review/",
         "https://www.gizmodo.jp/article/2609-keyboard-smartphone-clicks-communicator/",
         "https://www.gizmodo.jp/article/2609-keyboard-stand-with-storage/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/rog_xbox_ally_x20/",
         "https://www.gizmodo.jp/article/2609-cio-magnetic-usb-c-cable/",
         "https://www.gizmodo.jp/article/gifu-plastic-gamebox-sound-absorbing-booth/",
-        "https://www.gizmodo.jp/article/2609-toyota-c-hr-review-rnw/",
-        "https://www.gizmodo.jp/article/valkey-orb-tgs/"
+        "https://www.gizmodo.jp/article/2609-toyota-c-hr-review-rnw/"
     ]
 }
