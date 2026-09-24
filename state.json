@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cmew9q277kpvo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260924de52154",
         "https://news.web.nhk/newsweb/na/nd-20260924de52142",
         "https://news.web.nhk/newsweb/na/nd-20260924de52138",
         "https://news.web.nhk/newsweb/na/nd-20260924de52128",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260921de51536",
         "https://news.web.nhk/newsweb/na/nd-20260921de51516",
         "https://news.web.nhk/newsweb/na/nd-20260921de51530",
-        "https://news.web.nhk/newsweb/na/nd-20260921de51458",
-        "https://news.web.nhk/newsweb/na/nd-20260920de51378"
+        "https://news.web.nhk/newsweb/na/nd-20260921de51458"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/handful-of-reported-layoffs-at-apple-could-mean-a-more-robust-health-app-coming-soon/",
