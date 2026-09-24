@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/cqy7z275yx65o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260828de47012",
+        "https://news.web.nhk/newsweb/na/nd-20260924de52101",
         "https://news.web.nhk/newsweb/na/nd-20260924de52093",
         "https://news.web.nhk/newsweb/na/nd-20260924de52094",
         "https://news.web.nhk/newsweb/na/nd-20260924de52091",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260921de51497",
         "https://news.web.nhk/newsweb/na/nd-20260921de51502",
         "https://news.web.nhk/newsweb/na/nd-20260921de51500",
-        "https://news.web.nhk/newsweb/na/nd-20260921de51479",
-        "https://news.web.nhk/newsweb/na/nd-20260921de51477",
-        "https://news.web.nhk/newsweb/na/nd-20260921de51492"
+        "https://news.web.nhk/newsweb/na/nd-20260921de51479"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2609-meta-glasses-lisa-collaboration/",
