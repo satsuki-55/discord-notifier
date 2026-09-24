@@ -2,6 +2,8 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "1XM9d58r_ew",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "cIhoBeO7huI",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cqrk356kjx8no#0",
+        "https://www.bbc.co.uk/news/articles/cwr50jjmllv5o#0",
         "https://www.bbc.co.uk/news/articles/crkgwe3egpzgo#1",
         "https://www.bbc.co.uk/news/articles/cd68nq0q4n9o#1",
         "https://www.bbc.co.uk/news/articles/cw99d8g48873o#0",
@@ -199,11 +201,10 @@
         "https://www.bbc.co.uk/news/articles/cq62j13gnyrko#0",
         "https://www.bbc.co.uk/news/articles/cqy4z9pv4w0po#0",
         "https://www.bbc.co.uk/news/articles/cqj3dgy8x3vro#0",
-        "https://www.bbc.co.uk/news/videos/cq5y4zpn655ko#1",
-        "https://www.bbc.co.uk/news/articles/c6rerlq99w30o#1",
-        "https://www.bbc.co.uk/news/articles/c9j3dgxl8j58o#1"
+        "https://www.bbc.co.uk/news/videos/cq5y4zpn655ko#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260925de52281",
         "https://news.web.nhk/newsweb/na/nd-20260925de52274",
         "https://news.web.nhk/newsweb/na/nd-20260925de52282",
         "https://news.web.nhk/newsweb/na/nd-20260925de52275",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260918de51097",
         "https://news.web.nhk/newsweb/na/nd-20260921de51711",
         "https://news.web.nhk/newsweb/na/nd-20260921de51708",
-        "https://news.web.nhk/newsweb/na/nd-20260921de51687",
-        "https://news.web.nhk/newsweb/na/nd-20260921de51692"
+        "https://news.web.nhk/newsweb/na/nd-20260921de51687"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/cyclemode2026-smachari-zxw/",
