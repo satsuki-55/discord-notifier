@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260921de51458"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2609-yamaha-gigmii/",
         "https://www.gizmodo.jp/article/handful-of-reported-layoffs-at-apple-could-mean-a-more-robust-health-app-coming-soon/",
         "https://www.gizmodo.jp/article/sam-altman-says-smart-glasses-uncomfortable-camera/",
         "https://www.gizmodo.jp/article/dolphins-use-seashells-to-scoop-up-fish-and-eat-them-in-rare-hunting-behavior/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/valkey-orb-tgs/",
         "https://www.gizmodo.jp/article/movie_satoko_ashizawa-akiko_interview/",
         "https://www.gizmodo.jp/article/2609-orbital-works-modular-mouse-tgs2026/",
-        "https://www.gizmodo.jp/article/2609-tgs2026-pokemon-go-gps-spoofing-tool/",
-        "https://www.gizmodo.jp/article/keychron-nape-pro-special-edition-tgs2026/"
+        "https://www.gizmodo.jp/article/2609-tgs2026-pokemon-go-gps-spoofing-tool/"
     ]
 }
