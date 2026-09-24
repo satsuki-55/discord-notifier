@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260921de51631"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2609-meta-vr-glasses-hands-on/",
         "https://www.gizmodo.jp/article/2609-realforce-rs1-keyboard-split/",
         "https://www.gizmodo.jp/article/2609-m6-mac-mini-amazon-sale/",
         "https://www.gizmodo.jp/article/2609-razer-pompompurin-gaming-headset/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/hypeshop_nooir-klavier-2-k2_tgs2026/",
         "https://www.gizmodo.jp/article/biccamera-private-pc/",
         "https://www.gizmodo.jp/article/axisray-lab_bash_controller_tgs2026/",
-        "https://www.gizmodo.jp/article/my-play-watch_tgs2026/",
-        "https://www.gizmodo.jp/article/panasonic-coricoran-tgs2026/"
+        "https://www.gizmodo.jp/article/my-play-watch_tgs2026/"
     ]
 }
