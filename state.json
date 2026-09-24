@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "1XM9d58r_ew",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "FKjYIC7NGgE",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c6eq8egl3wd2o#0",
         "https://www.bbc.co.uk/news/videos/cwe8ekyzdjvlo#1",
         "https://www.bbc.co.uk/news/articles/crx2zlqqpn2do#1",
         "https://www.bbc.co.uk/news/articles/cd68nq0q4n9o#0",
@@ -200,10 +201,10 @@
         "https://www.bbc.co.uk/sport/cycling/articles/c63eqyvdndwdo#1",
         "https://www.bbc.co.uk/news/articles/cjr4v72y6p4eo#0",
         "https://www.bbc.co.uk/news/articles/cv2dwylkl7weo#0",
-        "https://www.bbc.co.uk/news/articles/cj62e1wrpx73o#0",
-        "https://www.bbc.co.uk/news/articles/c79g0j3d4q9o#0"
+        "https://www.bbc.co.uk/news/articles/cj62e1wrpx73o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260924de52210",
         "https://news.web.nhk/newsweb/na/nd-20260924de52184",
         "https://news.web.nhk/newsweb/na/nd-20260924de52218",
         "https://news.web.nhk/newsweb/na/nd-20260924de52227",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260921de51643",
         "https://news.web.nhk/newsweb/na/nd-20260918de51057",
         "https://news.web.nhk/newsweb/na/nd-20260918de51056",
-        "https://news.web.nhk/newsweb/na/nd-20260921de51637",
-        "https://news.web.nhk/newsweb/na/nd-20260921de51631"
+        "https://news.web.nhk/newsweb/na/nd-20260921de51637"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2609-meta-vr-glasses-hands-on/",
