@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260921de51641"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2609-ray-ban-meta-audio/",
         "https://www.gizmodo.jp/article/2609-a16z-horowitz-andreessen-academy-university/",
         "https://www.gizmodo.jp/article/2609-meta-vr-glasses-hands-on/",
         "https://www.gizmodo.jp/article/2609-realforce-rs1-keyboard-split/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/casio_aq240-retro-digiana-watch/",
         "https://www.gizmodo.jp/article/2609-realforce-gx1-steins-gate-tgs2026/",
         "https://www.gizmodo.jp/article/hypeshop_nooir-klavier-2-k2_tgs2026/",
-        "https://www.gizmodo.jp/article/biccamera-private-pc/",
-        "https://www.gizmodo.jp/article/axisray-lab_bash_controller_tgs2026/"
+        "https://www.gizmodo.jp/article/biccamera-private-pc/"
     ]
 }
