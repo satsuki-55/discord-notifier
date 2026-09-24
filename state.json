@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "1XM9d58r_ew",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "FKjYIC7NGgE",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cv1j4yr6j2p0o#1",
         "https://www.bbc.co.uk/news/articles/cv1j4yr6j2p0o#0",
         "https://www.bbc.co.uk/news/articles/cmp30r1klk37o#0",
         "https://www.bbc.co.uk/news/articles/cqm2mg34x2v7o#0",
@@ -200,8 +201,7 @@
         "https://www.bbc.co.uk/news/articles/cklyjz20pd22o#1",
         "https://www.bbc.co.uk/news/videos/cr209jz45vn4o#0",
         "https://www.bbc.co.uk/news/articles/ckn9w4y37gw1o#1",
-        "https://www.bbc.co.uk/news/videos/cxly57mv4767o#1",
-        "https://www.bbc.co.uk/news/articles/c6dj4k98107do#0"
+        "https://www.bbc.co.uk/news/videos/cxly57mv4767o#1"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20260924de52233",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260918de51067"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2609-a16z-horowitz-andreessen-academy-university/",
         "https://www.gizmodo.jp/article/2609-meta-vr-glasses-hands-on/",
         "https://www.gizmodo.jp/article/2609-realforce-rs1-keyboard-split/",
         "https://www.gizmodo.jp/article/2609-m6-mac-mini-amazon-sale/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/2609-realforce-gx1-steins-gate-tgs2026/",
         "https://www.gizmodo.jp/article/hypeshop_nooir-klavier-2-k2_tgs2026/",
         "https://www.gizmodo.jp/article/biccamera-private-pc/",
-        "https://www.gizmodo.jp/article/axisray-lab_bash_controller_tgs2026/",
-        "https://www.gizmodo.jp/article/my-play-watch_tgs2026/"
+        "https://www.gizmodo.jp/article/axisray-lab_bash_controller_tgs2026/"
     ]
 }
