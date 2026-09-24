@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "1XM9d58r_ew",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "FKjYIC7NGgE",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cmp30r1klk37o#1",
         "https://www.bbc.co.uk/news/articles/cmpwle47zxgyo#0",
         "https://www.bbc.co.uk/news/articles/ck87v27vdn1po#1",
         "https://www.bbc.co.uk/news/articles/c6eq8egl3wd2o#0",
@@ -200,10 +201,11 @@
         "https://www.bbc.co.uk/news/articles/c9dr74g32g8go#1",
         "https://www.bbc.co.uk/news/articles/c9dr74g32g8go#0",
         "https://www.bbc.co.uk/news/articles/cwjdvgx77n0zo#0",
-        "https://www.bbc.co.uk/sport/cycling/articles/c63eqyvdndwdo#1",
-        "https://www.bbc.co.uk/news/articles/cjr4v72y6p4eo#0"
+        "https://www.bbc.co.uk/sport/cycling/articles/c63eqyvdndwdo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260924de52237",
+        "https://news.web.nhk/newsweb/na/nd-20260924de52245",
         "https://news.web.nhk/newsweb/na/nd-20260924de52210",
         "https://news.web.nhk/newsweb/na/nd-20260924de52184",
         "https://news.web.nhk/newsweb/na/nd-20260924de52218",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260921de51654",
         "https://news.web.nhk/newsweb/na/nd-20260916de50592",
         "https://news.web.nhk/newsweb/na/nd-20260921de51643",
-        "https://news.web.nhk/newsweb/na/nd-20260918de51057",
-        "https://news.web.nhk/newsweb/na/nd-20260918de51056",
-        "https://news.web.nhk/newsweb/na/nd-20260921de51637"
+        "https://news.web.nhk/newsweb/na/nd-20260918de51057"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2609-meta-vr-glasses-hands-on/",
