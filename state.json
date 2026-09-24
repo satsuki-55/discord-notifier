@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/videos/cwe8ejvv0leno#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260925de52277",
         "https://news.web.nhk/newsweb/na/nd-20260925de52272",
         "https://news.web.nhk/newsweb/na/nd-20260828de47013",
         "https://news.web.nhk/newsweb/na/nd-20260924de52234",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260921de51692",
         "https://news.web.nhk/newsweb/na/nd-20260921de51703",
         "https://news.web.nhk/newsweb/na/nd-20260921de51698",
-        "https://news.web.nhk/newsweb/na/nd-20260918de51089",
-        "https://news.web.nhk/newsweb/na/nd-20260918de51072"
+        "https://news.web.nhk/newsweb/na/nd-20260918de51089"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/cyclemode2026-smachari-zxw/",
