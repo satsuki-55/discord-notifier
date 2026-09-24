@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/crn45d8dd2wdo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260924de52177",
         "https://news.web.nhk/newsweb/na/nd-20260924de52165",
         "https://news.web.nhk/newsweb/na/nd-20260924de52168",
         "https://news.web.nhk/newsweb/na/nd-20260924de52115",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260921de51550",
         "https://news.web.nhk/newsweb/na/nd-20260921de51541",
         "https://news.web.nhk/newsweb/na/nd-20260921de51547",
-        "https://news.web.nhk/newsweb/na/nd-20260921de51542",
-        "https://news.web.nhk/newsweb/na/nd-20260921de51540"
+        "https://news.web.nhk/newsweb/na/nd-20260921de51542"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2609-ray-ban-meta-gen-3-review/",
         "https://www.gizmodo.jp/article/2609-keyboard-smartphone-clicks-communicator/",
         "https://www.gizmodo.jp/article/2609-keyboard-stand-with-storage/",
         "https://www.gizmodo.jp/article/2609-yamaha-gigmii/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/2609-cio-magnetic-usb-c-cable/",
         "https://www.gizmodo.jp/article/gifu-plastic-gamebox-sound-absorbing-booth/",
         "https://www.gizmodo.jp/article/2609-toyota-c-hr-review-rnw/",
-        "https://www.gizmodo.jp/article/valkey-orb-tgs/",
-        "https://www.gizmodo.jp/article/movie_satoko_ashizawa-akiko_interview/"
+        "https://www.gizmodo.jp/article/valkey-orb-tgs/"
     ]
 }
