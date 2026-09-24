@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/weather/articles/cmvgy4nv9d62o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260924de52110",
         "https://news.web.nhk/newsweb/na/nd-20260924de52107",
         "https://news.web.nhk/newsweb/na/nd-20260924de52100",
         "https://news.web.nhk/newsweb/na/nd-20260828de47012",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260921de51478",
         "https://news.web.nhk/newsweb/na/nd-20260921de51495",
         "https://news.web.nhk/newsweb/na/nd-20260921de51459",
-        "https://news.web.nhk/newsweb/na/nd-20260921de51497",
-        "https://news.web.nhk/newsweb/na/nd-20260921de51502"
+        "https://news.web.nhk/newsweb/na/nd-20260921de51497"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/alleged-20th-anniversary-iphone-screen-sizes-have-leaked/",
