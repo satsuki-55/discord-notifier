@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cwyvz0yvqre8o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260925de52452",
         "https://news.web.nhk/newsweb/na/nd-20260925de52439",
         "https://news.web.nhk/newsweb/na/nd-20260925de52429",
         "https://news.web.nhk/newsweb/na/nd-20260925de52447",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260923de51935",
         "https://news.web.nhk/newsweb/na/nd-20260922de51927",
         "https://news.web.nhk/newsweb/na/nd-20260919de51225",
-        "https://news.web.nhk/newsweb/na/nd-20260923de51930",
-        "https://news.web.nhk/newsweb/na/nd-20260922de51902"
+        "https://news.web.nhk/newsweb/na/nd-20260923de51930"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/mizuno-hyperwarp-96/",
         "https://www.gizmodo.jp/article/googles-project-suncatcher-is-sending-ai-chips-into-space-next-week/",
         "https://www.gizmodo.jp/article/2609-refusing-data-center-offer-farm/",
         "https://www.gizmodo.jp/article/pink-noise-csf-flow-mit/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/2609-digital-paper-camera-diy/",
         "https://www.gizmodo.jp/article/2604-lht-iflytek-ainote2-jgl/",
         "https://www.gizmodo.jp/article/iphone-18-pro_burgundy_review/",
-        "https://www.gizmodo.jp/article/2609-3coins-suitcase-iphone-holder/",
-        "https://www.gizmodo.jp/article/iphone-18-pro_dynamic-island/"
+        "https://www.gizmodo.jp/article/2609-3coins-suitcase-iphone-holder/"
     ]
 }
