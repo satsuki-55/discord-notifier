@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "1XM9d58r_ew",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "cIhoBeO7huI",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cjvgy7qd20wgo#0",
         "https://www.bbc.co.uk/news/articles/c3zxzqyj24xeo#0",
         "https://www.bbc.co.uk/news/articles/cm93e2gz8y41o#1",
         "https://www.bbc.co.uk/sport/football/articles/ckwyzjny99vjo#1",
@@ -200,10 +201,11 @@
         "https://www.bbc.co.uk/news/articles/cq0lry248y2zo#0",
         "https://www.bbc.co.uk/news/articles/cmkg7560epw0o#1",
         "https://www.bbc.co.uk/news/articles/cj207y30wp0lo#1",
-        "https://www.bbc.co.uk/news/videos/ckjrxpqxx2v3o#0",
-        "https://www.bbc.co.uk/news/articles/c94gm7dp40y0o#0"
+        "https://www.bbc.co.uk/news/videos/ckjrxpqxx2v3o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260919de51165",
+        "https://news.web.nhk/newsweb/na/nd-20260925de52378",
         "https://news.web.nhk/newsweb/na/nd-20260925de52370",
         "https://news.web.nhk/newsweb/na/nd-20260922de51793",
         "https://news.web.nhk/newsweb/na/nd-20260925de52377",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260919de51202",
         "https://news.web.nhk/newsweb/na/nd-20260922de51804",
         "https://news.web.nhk/newsweb/na/nd-20260921de51718",
-        "https://news.web.nhk/newsweb/na/nd-20260922de51790",
-        "https://news.web.nhk/newsweb/na/nd-20260918de51142",
-        "https://news.web.nhk/newsweb/na/nd-20260919de51165"
+        "https://news.web.nhk/newsweb/na/nd-20260922de51790"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/salad-spinner-water-drainage-tips/",
