@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c6eq8dw3dlyqo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260925de52331",
         "https://news.web.nhk/newsweb/na/nd-20260925de52328",
         "https://news.web.nhk/newsweb/na/nd-20260925de52322",
         "https://news.web.nhk/newsweb/na/nd-20260925de52326",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260922de51763",
         "https://news.web.nhk/newsweb/na/nd-20260921de51761",
         "https://news.web.nhk/newsweb/na/nd-20260921de51758",
-        "https://news.web.nhk/newsweb/na/nd-20260921de51748",
-        "https://news.web.nhk/newsweb/na/nd-20260921de51750"
+        "https://news.web.nhk/newsweb/na/nd-20260921de51748"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/mendori_movie_palfi-gyorgy_interview/",
         "https://www.gizmodo.jp/article/realforce-rs1/",
         "https://www.gizmodo.jp/article/demystifying-the-iphone-18-pros-variable-aperture/",
         "https://www.gizmodo.jp/article/2609-beats-360-wireless-headphones/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/iphone18pro-new-camera-feature/",
         "https://www.gizmodo.jp/article/iphone18pro-box-open/",
         "https://www.gizmodo.jp/article/detachable-kitchen-shears/",
-        "https://www.gizmodo.jp/article/2609-instax-pal-2/",
-        "https://www.gizmodo.jp/article/newbalance_higt-grade-rebounting-insole-dfe-rqg/"
+        "https://www.gizmodo.jp/article/2609-instax-pal-2/"
     ]
 }
