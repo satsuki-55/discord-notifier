@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/videos/ckjrxpqxx2v3o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260925de52375",
         "https://news.web.nhk/newsweb/na/nd-20260919de51165",
         "https://news.web.nhk/newsweb/na/nd-20260925de52378",
         "https://news.web.nhk/newsweb/na/nd-20260925de52370",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260919de51203",
         "https://news.web.nhk/newsweb/na/nd-20260919de51202",
         "https://news.web.nhk/newsweb/na/nd-20260922de51804",
-        "https://news.web.nhk/newsweb/na/nd-20260921de51718",
-        "https://news.web.nhk/newsweb/na/nd-20260922de51790"
+        "https://news.web.nhk/newsweb/na/nd-20260921de51718"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/salad-spinner-water-drainage-tips/",
