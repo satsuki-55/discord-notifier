@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cmkg7560epw0o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260925de52413",
         "https://news.web.nhk/newsweb/na/nd-20260925de52397",
         "https://news.web.nhk/newsweb/na/nd-20260925de52387",
         "https://news.web.nhk/newsweb/na/nd-20260925de52402",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260922de51835",
         "https://news.web.nhk/newsweb/na/nd-20260922de51828",
         "https://news.web.nhk/newsweb/na/nd-20260922de51819",
-        "https://news.web.nhk/newsweb/na/nd-20260922de51808",
-        "https://news.web.nhk/newsweb/na/nd-20260919de51203"
+        "https://news.web.nhk/newsweb/na/nd-20260922de51808"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2609-meta-muse-charm-release/",
