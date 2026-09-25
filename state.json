@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "RrosFjCHyHg",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "MxZzeOJmwNI",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/ckvgyzjpy2eno#0",
         "https://www.bbc.co.uk/news/articles/cw62jje658dlo#1",
         "https://www.bbc.co.uk/news/articles/cw62jje658dlo#0",
         "https://www.bbc.co.uk/news/articles/cm5ydvww0erdo#0",
@@ -200,10 +201,10 @@
         "https://www.bbc.co.uk/news/articles/cmvgy4237gq9o#0",
         "https://www.bbc.co.uk/news/articles/cmvgy4237gq9o#1",
         "https://www.bbc.co.uk/news/articles/c920vy2jxle8o#1",
-        "https://www.bbc.co.uk/news/articles/cjly4rv0q3l0o#0",
-        "https://www.bbc.co.uk/news/articles/cjly4rv0q3l0o#1"
+        "https://www.bbc.co.uk/news/articles/cjly4rv0q3l0o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260926de52522",
         "https://news.web.nhk/newsweb/na/nd-20260926de52520",
         "https://news.web.nhk/newsweb/na/nd-20260926de52533",
         "https://news.web.nhk/newsweb/na/nd-20260926de52536",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260923de51986",
         "https://news.web.nhk/newsweb/na/nd-20260923de51994",
         "https://news.web.nhk/newsweb/na/nd-20260923de51980",
-        "https://news.web.nhk/newsweb/na/nd-20260923de51981",
-        "https://news.web.nhk/newsweb/na/nd-20260923de51978"
+        "https://news.web.nhk/newsweb/na/nd-20260923de51981"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2609-iphone-18-pro-reboot-issue-fix/",
