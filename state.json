@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cmvgy4yydj1do#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260925de52508",
         "https://news.web.nhk/newsweb/na/nd-20260925de52488",
         "https://news.web.nhk/newsweb/na/nd-20260925de52482",
         "https://news.web.nhk/newsweb/na/nd-20260925de52316",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260923de51931",
         "https://news.web.nhk/newsweb/na/nd-20260923de51941",
         "https://news.web.nhk/newsweb/na/nd-20260923de51939",
-        "https://news.web.nhk/newsweb/na/nd-20260923de51936",
-        "https://news.web.nhk/newsweb/na/nd-20260923de51940"
+        "https://news.web.nhk/newsweb/na/nd-20260923de51936"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/purplesaver-cyn/",
