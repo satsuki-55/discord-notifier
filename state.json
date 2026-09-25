@@ -1,5 +1,5 @@
 {
-    "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "1XM9d58r_ew",
+    "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "RrosFjCHyHg",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "cIhoBeO7huI",
     "rss:bbc": [
         "https://www.bbc.co.uk/news/articles/c6vgywjxv14po#1",
@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/cqn745px55nno#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260925de52418",
+        "https://news.web.nhk/newsweb/na/nd-20260925de52421",
         "https://news.web.nhk/newsweb/na/nd-20260922de51837",
         "https://news.web.nhk/newsweb/na/nd-20260925de52390",
         "https://news.web.nhk/newsweb/na/nd-20260925de52362",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260922de51877",
         "https://news.web.nhk/newsweb/na/nd-20260922de51872",
         "https://news.web.nhk/newsweb/na/nd-20260922de51870",
-        "https://news.web.nhk/newsweb/na/nd-20260922de51867",
-        "https://news.web.nhk/newsweb/na/nd-20260922de51851",
-        "https://news.web.nhk/newsweb/na/nd-20260922de51863"
+        "https://news.web.nhk/newsweb/na/nd-20260922de51867"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/pink-noise-csf-flow-mit/",
