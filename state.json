@@ -2,6 +2,9 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "RrosFjCHyHg",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "cIhoBeO7huI",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cm4g53547wygo#0",
+        "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o#0",
+        "https://www.bbc.co.uk/news/articles/c3zxzqyj24xeo#1",
         "https://www.bbc.co.uk/news/articles/cq0lr5r46z5jo#1",
         "https://www.bbc.co.uk/news/videos/c3qjkxk58y02o#0",
         "https://www.bbc.co.uk/news/articles/cwr50jjmllv5o#1",
@@ -198,12 +201,11 @@
         "https://www.bbc.co.uk/news/articles/c6vgy55lm8z1o#0",
         "https://www.bbc.co.uk/news/articles/ck4gj4gn91xpo#0",
         "https://www.bbc.co.uk/news/articles/cwyvz0yvqre8o#1",
-        "https://www.bbc.co.uk/news/articles/cq62j13gnyrko#1",
-        "https://www.bbc.co.uk/news/articles/c90kly26d7pzo#1",
-        "https://www.bbc.co.uk/news/articles/c670lydl5wg5o#1",
-        "https://www.bbc.co.uk/news/articles/c670lydl5wg5o#0"
+        "https://www.bbc.co.uk/news/articles/cq62j13gnyrko#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260925de52439",
+        "https://news.web.nhk/newsweb/na/nd-20260925de52429",
         "https://news.web.nhk/newsweb/na/nd-20260925de52447",
         "https://news.web.nhk/newsweb/na/nd-20260925de52440",
         "https://news.web.nhk/newsweb/na/nd-20260925de52420",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260922de51927",
         "https://news.web.nhk/newsweb/na/nd-20260919de51225",
         "https://news.web.nhk/newsweb/na/nd-20260923de51930",
-        "https://news.web.nhk/newsweb/na/nd-20260922de51902",
-        "https://news.web.nhk/newsweb/na/nd-20260922de51928",
-        "https://news.web.nhk/newsweb/na/nd-20260922de51923"
+        "https://news.web.nhk/newsweb/na/nd-20260922de51902"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/googles-project-suncatcher-is-sending-ai-chips-into-space-next-week/",
