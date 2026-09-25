@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c3kg80ve7x0no#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260925de52450",
         "https://news.web.nhk/newsweb/na/nd-20260925de52451",
         "https://news.web.nhk/newsweb/na/nd-20260925de52433",
         "https://news.web.nhk/newsweb/na/nd-20260925de52445",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260919de51229",
         "https://news.web.nhk/newsweb/na/nd-20260919de51228",
         "https://news.web.nhk/newsweb/na/nd-20260922de51897",
-        "https://news.web.nhk/newsweb/na/nd-20260922de51889",
-        "https://news.web.nhk/newsweb/na/nd-20260922de51887"
+        "https://news.web.nhk/newsweb/na/nd-20260922de51889"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2609-refusing-data-center-offer-farm/",
