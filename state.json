@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cq2dwy1w9kpdo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260925de52342",
         "https://news.web.nhk/newsweb/na/nd-20260925de52365",
         "https://news.web.nhk/newsweb/na/nd-20260925de52372",
         "https://news.web.nhk/newsweb/na/nd-20260925de52336",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260922de51787",
         "https://news.web.nhk/newsweb/na/nd-20260919de51169",
         "https://news.web.nhk/newsweb/na/nd-20260922de51786",
-        "https://news.web.nhk/newsweb/na/nd-20260922de51800",
-        "https://news.web.nhk/newsweb/na/nd-20260922de51782"
+        "https://news.web.nhk/newsweb/na/nd-20260922de51800"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2609-logicool-g-pro-x3-superstrike/",
