@@ -2,6 +2,13 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "RrosFjCHyHg",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "MxZzeOJmwNI",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cjly4rv0q3l0o#0",
+        "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko#0",
+        "https://www.bbc.co.uk/news/articles/cm2l8qv7zppko#0",
+        "https://www.bbc.co.uk/news/articles/cm4gjjlgzdjgo#0",
+        "https://www.bbc.co.uk/news/articles/cwp933nzpp9ro#0",
+        "https://www.bbc.co.uk/news/articles/cwddvv44091vo#1",
+        "https://www.bbc.co.uk/news/articles/ck05rrj3jeylo#1",
         "https://www.bbc.co.uk/news/articles/ckvgyzjpy2eno#0",
         "https://www.bbc.co.uk/news/articles/cw62jje658dlo#1",
         "https://www.bbc.co.uk/news/articles/cw62jje658dlo#0",
@@ -194,16 +201,10 @@
         "https://www.bbc.co.uk/news/articles/ck5ywzl5vd5po#0",
         "https://www.bbc.co.uk/news/articles/c674kyg43d3lo#1",
         "https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo#0",
-        "https://www.bbc.co.uk/news/articles/cqlymw74g20ro#0",
-        "https://www.bbc.co.uk/news/articles/cm5y7qj54klpo#0",
-        "https://www.bbc.co.uk/news/articles/cqrm90m2g1dzo#0",
-        "https://www.bbc.co.uk/news/articles/c6rerl41evw5o#1",
-        "https://www.bbc.co.uk/news/articles/cmvgy4237gq9o#0",
-        "https://www.bbc.co.uk/news/articles/cmvgy4237gq9o#1",
-        "https://www.bbc.co.uk/news/articles/c920vy2jxle8o#1",
-        "https://www.bbc.co.uk/news/articles/cjly4rv0q3l0o#0"
+        "https://www.bbc.co.uk/news/articles/cqlymw74g20ro#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260926de52537",
         "https://news.web.nhk/newsweb/na/nd-20260926de52522",
         "https://news.web.nhk/newsweb/na/nd-20260926de52520",
         "https://news.web.nhk/newsweb/na/nd-20260926de52533",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260923de51995",
         "https://news.web.nhk/newsweb/na/nd-20260923de51986",
         "https://news.web.nhk/newsweb/na/nd-20260923de51994",
-        "https://news.web.nhk/newsweb/na/nd-20260923de51980",
-        "https://news.web.nhk/newsweb/na/nd-20260923de51981"
+        "https://news.web.nhk/newsweb/na/nd-20260923de51980"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2609-iphone-18-pro-reboot-issue-fix/",
