@@ -2,6 +2,8 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "1XM9d58r_ew",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "cIhoBeO7huI",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cv2dwk3z7x5eo#0",
+        "https://www.bbc.co.uk/news/articles/cq2e0lr39dv7o#1",
         "https://www.bbc.co.uk/news/articles/cmj643pd4e11o#0",
         "https://www.bbc.co.uk/news/articles/cqrk356kjx8no#1",
         "https://www.bbc.co.uk/news/articles/c6eq8dw3dlyqo#0",
@@ -199,11 +201,10 @@
         "https://www.bbc.co.uk/news/articles/c8r4v7n6py97o#1",
         "https://www.bbc.co.uk/weather/articles/cmvgy4nv9d62o#1",
         "https://www.bbc.co.uk/news/articles/c3pwlejxrd7do#0",
-        "https://www.bbc.co.uk/news/articles/cq2dwy1w9kpdo#1",
-        "https://www.bbc.co.uk/news/articles/cmwyz2pvw058o#1",
-        "https://www.bbc.co.uk/news/articles/cq2dwy1w9kpdo#0"
+        "https://www.bbc.co.uk/news/articles/cq2dwy1w9kpdo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260925de52363",
         "https://news.web.nhk/newsweb/na/nd-20260925de52361",
         "https://news.web.nhk/newsweb/na/nd-20260925de52342",
         "https://news.web.nhk/newsweb/na/nd-20260925de52365",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260922de51788",
         "https://news.web.nhk/newsweb/na/nd-20260922de51793",
         "https://news.web.nhk/newsweb/na/nd-20260922de51787",
-        "https://news.web.nhk/newsweb/na/nd-20260919de51169",
-        "https://news.web.nhk/newsweb/na/nd-20260922de51786"
+        "https://news.web.nhk/newsweb/na/nd-20260919de51169"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2609-logicool-g-pro-x3-superstrike/",
