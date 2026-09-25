@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/c6eq8dw3dlyqo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260925de52340",
+        "https://news.web.nhk/newsweb/na/nd-20260925de52325",
         "https://news.web.nhk/newsweb/na/nd-20260925de52331",
         "https://news.web.nhk/newsweb/na/nd-20260925de52328",
         "https://news.web.nhk/newsweb/na/nd-20260925de52322",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260922de51784",
         "https://news.web.nhk/newsweb/na/nd-20260918de51152",
         "https://news.web.nhk/newsweb/na/nd-20260922de51763",
-        "https://news.web.nhk/newsweb/na/nd-20260921de51761",
-        "https://news.web.nhk/newsweb/na/nd-20260921de51758",
-        "https://news.web.nhk/newsweb/na/nd-20260921de51748"
+        "https://news.web.nhk/newsweb/na/nd-20260921de51761"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/mendori_movie_palfi-gyorgy_interview/",
