@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "RrosFjCHyHg",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "MxZzeOJmwNI",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cm5ydvww0erdo#0",
         "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko#1",
         "https://www.bbc.co.uk/news/articles/cwp933nzpp9ro#1",
         "https://www.bbc.co.uk/sport/football/articles/cw7v44ezry5go#0",
@@ -200,10 +201,10 @@
         "https://www.bbc.co.uk/news/articles/cjly4rv0q3l0o#0",
         "https://www.bbc.co.uk/news/articles/cjly4rv0q3l0o#1",
         "https://www.bbc.co.uk/news/articles/c933ky0nknxko#1",
-        "https://www.bbc.co.uk/news/articles/cwlyke0mm0x3o#0",
-        "https://www.bbc.co.uk/news/articles/c699d2dn9z0mo#1"
+        "https://www.bbc.co.uk/news/articles/cwlyke0mm0x3o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260926de52536",
         "https://news.web.nhk/newsweb/na/nd-20260925de52484",
         "https://news.web.nhk/newsweb/na/nd-20260926de52523",
         "https://news.web.nhk/newsweb/na/nd-20260926de52529",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260923de51981",
         "https://news.web.nhk/newsweb/na/nd-20260923de51978",
         "https://news.web.nhk/newsweb/na/nd-20260923de51975",
-        "https://news.web.nhk/newsweb/na/nd-20260923de51965",
-        "https://news.web.nhk/newsweb/na/nd-20260923de51968"
+        "https://news.web.nhk/newsweb/na/nd-20260923de51965"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/zipstring-arcana_gizmart/",
