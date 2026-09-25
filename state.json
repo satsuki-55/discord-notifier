@@ -2,6 +2,8 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "1XM9d58r_ew",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "cIhoBeO7huI",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c6eq8dw3dlyqo#0",
+        "https://www.bbc.co.uk/news/articles/cmj643pd4e11o#1",
         "https://www.bbc.co.uk/news/articles/cr93e4x7kdjjo#0",
         "https://www.bbc.co.uk/news/articles/c607lrvm41l3o#1",
         "https://www.bbc.co.uk/news/articles/cwp8476m06pyo#1",
@@ -199,9 +201,7 @@
         "https://www.bbc.co.uk/news/articles/cmwyz2pvw058o#1",
         "https://www.bbc.co.uk/news/articles/cq2dwy1w9kpdo#0",
         "https://www.bbc.co.uk/news/articles/ck0e3y7qzv1ro#0",
-        "https://www.bbc.co.uk/news/articles/ckwyz06qg983o#1",
-        "https://www.bbc.co.uk/news/articles/cmzxz2pe5vd0o#1",
-        "https://www.bbc.co.uk/news/articles/c6eq8dw3dlyqo#0"
+        "https://www.bbc.co.uk/news/articles/ckwyz06qg983o#1"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20260925de52338",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260918de51152"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2609-motorola-signature-27/",
         "https://www.gizmodo.jp/article/mendori_movie_palfi-gyorgy_interview/",
         "https://www.gizmodo.jp/article/realforce-rs1/",
         "https://www.gizmodo.jp/article/demystifying-the-iphone-18-pros-variable-aperture/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/ugreen-ainas-idx6011/",
         "https://www.gizmodo.jp/article/iphone18pro-new-camera-feature/",
         "https://www.gizmodo.jp/article/iphone18pro-box-open/",
-        "https://www.gizmodo.jp/article/detachable-kitchen-shears/",
-        "https://www.gizmodo.jp/article/2609-instax-pal-2/"
+        "https://www.gizmodo.jp/article/detachable-kitchen-shears/"
     ]
 }
