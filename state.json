@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c607ly09y7rlo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260925de52314",
         "https://news.web.nhk/newsweb/na/nd-20260925de52300",
         "https://news.web.nhk/newsweb/na/nd-20260925de52297",
         "https://news.web.nhk/newsweb/na/nd-20260925de52292",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260921de51734",
         "https://news.web.nhk/newsweb/na/nd-20260921de51733",
         "https://news.web.nhk/newsweb/na/nd-20260918de51118",
-        "https://news.web.nhk/newsweb/na/nd-20260921de51730",
-        "https://news.web.nhk/newsweb/na/nd-20260921de51726"
+        "https://news.web.nhk/newsweb/na/nd-20260921de51730"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2609-hyperkin-shockline-retro-game-usb-c/",
         "https://www.gizmodo.jp/article/2609-smart-glasses-banned-in-hamburg/",
         "https://www.gizmodo.jp/article/2609-nothing-cmf-india/",
         "https://www.gizmodo.jp/article/openai-releases-new-gpt-6-sol-and-luna-models-sells-them-as-mini-astras/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/akko_bun-wonderland-key-cap_tgs2026/",
         "https://www.gizmodo.jp/article/playvital_cover_tgs2026/",
         "https://www.gizmodo.jp/article/eweadn_keyboard_tgs2026/",
-        "https://www.gizmodo.jp/article/2609-iphone-17-pro-max-1-year-review-njb/",
-        "https://www.gizmodo.jp/article/2609-elroy-air-chaparral-cargo-drone-flight-test/"
+        "https://www.gizmodo.jp/article/2609-iphone-17-pro-max-1-year-review-njb/"
     ]
 }
