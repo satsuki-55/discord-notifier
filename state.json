@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c607ly09y7rlo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260925de52305",
         "https://news.web.nhk/newsweb/na/nd-20260925de52308",
         "https://news.web.nhk/newsweb/na/nd-20260925de52307",
         "https://news.web.nhk/newsweb/na/nd-20260925de52306",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260921de51739",
         "https://news.web.nhk/newsweb/na/nd-20260918de51120",
         "https://news.web.nhk/newsweb/na/nd-20260921de51725",
-        "https://news.web.nhk/newsweb/na/nd-20260921de51731",
-        "https://news.web.nhk/newsweb/na/nd-20260921de51734"
+        "https://news.web.nhk/newsweb/na/nd-20260921de51731"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/canon-asian-games/",
