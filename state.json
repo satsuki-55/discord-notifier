@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c8dx5p7gd4e9o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260925de52488",
         "https://news.web.nhk/newsweb/na/nd-20260925de52482",
         "https://news.web.nhk/newsweb/na/nd-20260925de52316",
         "https://news.web.nhk/newsweb/na/nd-20260919de51243",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260923de51941",
         "https://news.web.nhk/newsweb/na/nd-20260923de51939",
         "https://news.web.nhk/newsweb/na/nd-20260923de51936",
-        "https://news.web.nhk/newsweb/na/nd-20260923de51940",
-        "https://news.web.nhk/newsweb/na/nd-20260922de51892"
+        "https://news.web.nhk/newsweb/na/nd-20260923de51940"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/elekit-tokyo-keyboard-expo-2026/",
