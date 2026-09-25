@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "RrosFjCHyHg",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "MxZzeOJmwNI",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cw62me2vlj07o#1",
         "https://www.bbc.co.uk/news/articles/cw62me2vlj07o#0",
         "https://www.bbc.co.uk/news/articles/cr0j3ldnzlngo#0",
         "https://www.bbc.co.uk/news/articles/cm780g0ep3n8o#1",
@@ -200,8 +201,7 @@
         "https://www.bbc.co.uk/news/articles/cmvgy4yydj1do#0",
         "https://www.bbc.co.uk/news/articles/ck4gj4gn91xpo#1",
         "https://www.bbc.co.uk/news/videos/c962j1jgx884o#0",
-        "https://www.bbc.co.uk/news/articles/c699d2dn9z0mo#0",
-        "https://www.bbc.co.uk/news/videos/c6wyz0zlx10qo#1"
+        "https://www.bbc.co.uk/news/articles/c699d2dn9z0mo#0"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20260925de52488",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260923de51940"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/purplesaver-cyn/",
         "https://www.gizmodo.jp/article/2609-smart-lockout-survival-tokyo/",
         "https://www.gizmodo.jp/article/elekit-tokyo-keyboard-expo-2026/",
         "https://www.gizmodo.jp/article/2609-surface-laptop-minos-rtx-spark/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/moimate_blocpad/",
         "https://www.gizmodo.jp/article/tgs2026_fluffy-matome/",
         "https://www.gizmodo.jp/article/game-in-thailand-is-fire_tgs2026/",
-        "https://www.gizmodo.jp/article/smart-ring-soxai-ring-2/",
-        "https://www.gizmodo.jp/article/grapht-the-special-mini-dac-horror-edition/"
+        "https://www.gizmodo.jp/article/smart-ring-soxai-ring-2/"
     ]
 }
