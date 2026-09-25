@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/c607ly09y7rlo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260925de52326",
+        "https://news.web.nhk/newsweb/na/nd-20260925de52321",
         "https://news.web.nhk/newsweb/na/nd-20260925de52317",
         "https://news.web.nhk/newsweb/na/nd-20260925de52305",
         "https://news.web.nhk/newsweb/na/nd-20260925de52308",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260921de51748",
         "https://news.web.nhk/newsweb/na/nd-20260921de51750",
         "https://news.web.nhk/newsweb/na/nd-20260918de51116",
-        "https://news.web.nhk/newsweb/na/nd-20260921de51739",
-        "https://news.web.nhk/newsweb/na/nd-20260918de51120",
-        "https://news.web.nhk/newsweb/na/nd-20260921de51725"
+        "https://news.web.nhk/newsweb/na/nd-20260921de51739"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2609-moft-iphone18-pro-case-review/",
