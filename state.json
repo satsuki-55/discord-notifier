@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "RrosFjCHyHg",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "cIhoBeO7huI",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cqgk54vg053po#1",
         "https://www.bbc.co.uk/news/articles/c8dx573qnlpwo#1",
         "https://www.bbc.co.uk/news/articles/c6vgywjxv14po#1",
         "https://www.bbc.co.uk/news/articles/c6z9z7lv41wgo#1",
@@ -200,10 +201,10 @@
         "https://www.bbc.co.uk/news/articles/cry8zwwq21pxo#0",
         "https://www.bbc.co.uk/news/articles/c3kg80ve7x0no#1",
         "https://www.bbc.co.uk/news/articles/c3rr48pxg54qo#1",
-        "https://www.bbc.co.uk/news/articles/ck1l6yyg52qvo#1",
-        "https://www.bbc.co.uk/news/articles/cqn745px55nno#1"
+        "https://www.bbc.co.uk/news/articles/ck1l6yyg52qvo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260925de52433",
         "https://news.web.nhk/newsweb/na/nd-20260925de52445",
         "https://news.web.nhk/newsweb/na/nd-20260925de52427",
         "https://news.web.nhk/newsweb/na/nd-20260925de52430",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260922de51897",
         "https://news.web.nhk/newsweb/na/nd-20260922de51889",
         "https://news.web.nhk/newsweb/na/nd-20260922de51887",
-        "https://news.web.nhk/newsweb/na/nd-20260922de51883",
-        "https://news.web.nhk/newsweb/na/nd-20260922de51877"
+        "https://news.web.nhk/newsweb/na/nd-20260922de51883"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/pink-noise-csf-flow-mit/",
