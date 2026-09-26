@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "mYHK1JNOAiM",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "XUIfpEesb2Q",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cvp8d0nezkeko#0",
         "https://www.bbc.co.uk/news/articles/cv1j4yr6j2p0o#0",
         "https://www.bbc.co.uk/news/articles/ckjrxx22wqgdo#1",
         "https://www.bbc.co.uk/news/articles/cq4gmmdl52rgo#0",
@@ -200,8 +201,7 @@
         "https://www.bbc.co.uk/news/articles/cqevwm09w4xmo#0",
         "https://www.bbc.co.uk/news/articles/cwz0z597m471o#1",
         "https://www.bbc.co.uk/sport/football/articles/c6grv7x544qro#1",
-        "https://www.bbc.co.uk/news/articles/c6z0z5dz884lo#0",
-        "https://www.bbc.co.uk/sport/boxing/articles/c89n188d53no#1"
+        "https://www.bbc.co.uk/news/articles/c6z0z5dz884lo#0"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20260927de52652",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260924de52130"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2609-insta360-luna-ultra-telephoto/",
         "https://www.gizmodo.jp/article/2609-fire-resistant-a4-gadget-case/",
         "https://www.gizmodo.jp/article/found-gold-during-a-walk-lbu/",
         "https://www.gizmodo.jp/article/montbell_pouch_best_selection/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/2609-gpt-6-astra-agi-openai/",
         "https://www.gizmodo.jp/article/2609-apple-watch-series-12-vs-11/",
         "https://www.gizmodo.jp/article/electra-mit-ohio-aircraft-factory/",
-        "https://www.gizmodo.jp/article/did-google-glass-wearers-actually-get-punched-in-the-face/",
-        "https://www.gizmodo.jp/article/iphone18pro-camera-nightview/"
+        "https://www.gizmodo.jp/article/did-google-glass-wearers-actually-get-punched-in-the-face/"
     ]
 }
