@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c65ymznkr291o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260926de52545",
         "https://news.web.nhk/newsweb/na/nd-20260926de52548",
         "https://news.web.nhk/newsweb/na/nd-20260919de51276",
         "https://news.web.nhk/newsweb/na/nd-20260923de51980",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260923de52002",
         "https://news.web.nhk/newsweb/na/nd-20260923de52001",
         "https://news.web.nhk/newsweb/na/nd-20260923de52004",
-        "https://news.web.nhk/newsweb/na/nd-20260923de51999",
-        "https://news.web.nhk/newsweb/na/nd-20260828de47011"
+        "https://news.web.nhk/newsweb/na/nd-20260923de51999"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2609-snapdragon-sound-elite-gen-2/",
