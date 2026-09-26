@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cm93e2gz8y41o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260926de52565",
         "https://news.web.nhk/newsweb/na/nd-20260926de52564",
         "https://news.web.nhk/newsweb/na/nd-20260926de52568",
         "https://news.web.nhk/newsweb/na/nd-20260926de52569",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260923de52042",
         "https://news.web.nhk/newsweb/na/nd-20260923de52037",
         "https://news.web.nhk/newsweb/na/nd-20260923de51963",
-        "https://news.web.nhk/newsweb/na/nd-20260923de52030",
-        "https://news.web.nhk/newsweb/na/nd-20260923de51938"
+        "https://news.web.nhk/newsweb/na/nd-20260923de52030"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2609-recent-solar-power-evolution/",
