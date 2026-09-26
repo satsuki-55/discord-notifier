@@ -2,6 +2,8 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "mYHK1JNOAiM",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "XUIfpEesb2Q",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c9n74574elljo#0",
+        "https://www.bbc.co.uk/sport/football/articles/ckddvv5dn4eyo#1",
         "https://www.bbc.co.uk/news/articles/cm4gjjwvvlzro#1",
         "https://www.bbc.co.uk/news/articles/cm4gjjwvvlzro#0",
         "https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o#1",
@@ -199,11 +201,10 @@
         "https://www.bbc.co.uk/news/articles/crx2zlqqpn2do#1",
         "https://www.bbc.co.uk/news/articles/cd68nq0q4n9o#0",
         "https://www.bbc.co.uk/news/articles/cmpwle47zxgyo#1",
-        "https://www.bbc.co.uk/news/articles/cqgmrk7187lzo#0",
-        "https://www.bbc.co.uk/news/articles/ckddvje77m2zo#1",
-        "https://www.bbc.co.uk/news/articles/c9n74574elljo#0"
+        "https://www.bbc.co.uk/news/articles/cqgmrk7187lzo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260926de52624",
         "https://news.web.nhk/newsweb/na/nd-20260926de52614",
         "https://news.web.nhk/newsweb/na/nd-20260926de52623",
         "https://news.web.nhk/newsweb/na/nd-20260926de52615",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260924de52088",
         "https://news.web.nhk/newsweb/na/nd-20260923de52044",
         "https://news.web.nhk/newsweb/na/nd-20260924de52084",
-        "https://news.web.nhk/newsweb/na/nd-20260923de52064",
-        "https://news.web.nhk/newsweb/na/nd-20260923de52050"
+        "https://news.web.nhk/newsweb/na/nd-20260923de52064"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/montbell_pouch_best_selection/",
         "https://www.gizmodo.jp/article/2609-honda-onitsuka-tiger-mid-sports-concept/",
         "https://www.gizmodo.jp/article/2609-lenovo-googlebook-15-jp-release/",
         "https://www.gizmodo.jp/article/2609-sonos-ace-ultra-review/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/did-google-glass-wearers-actually-get-punched-in-the-face/",
         "https://www.gizmodo.jp/article/iphone18pro-camera-nightview/",
         "https://www.gizmodo.jp/article/the-lucas-museum-is-here-the-good-the-bad-and-the-incredible/",
-        "https://www.gizmodo.jp/article/2609-ugreen-magflow-pro-liquid-cooled-power-bank/",
-        "https://www.gizmodo.jp/article/iphone-18-pro_clearcase/"
+        "https://www.gizmodo.jp/article/2609-ugreen-magflow-pro-liquid-cooled-power-bank/"
     ]
 }
