@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/weather/articles/cmvgy4nv9d62o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260926de52595",
         "https://news.web.nhk/newsweb/na/nd-20260926de52590",
         "https://news.web.nhk/newsweb/na/nd-20260926de52587",
         "https://news.web.nhk/newsweb/na/nd-20260926de52586",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260923de52070",
         "https://news.web.nhk/newsweb/na/nd-20260923de52067",
         "https://news.web.nhk/newsweb/na/nd-20260923de52071",
-        "https://news.web.nhk/newsweb/na/nd-20260923de52066",
-        "https://news.web.nhk/newsweb/na/nd-20260923de52038"
+        "https://news.web.nhk/newsweb/na/nd-20260923de52066"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/tokyo-toy-show-2026_toys/",
         "https://www.gizmodo.jp/article/2609-makerphone-2-diy-cyber-phone/",
         "https://www.gizmodo.jp/article/2609-ugreen-45w-display-charger/",
         "https://www.gizmodo.jp/article/2609-msi-crosshair-16-hx-review/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/2609-iphone18-pro-faceid-screen-protector-issue/",
         "https://www.gizmodo.jp/article/iphone-18-pro-review/",
         "https://www.gizmodo.jp/article/2609-iphone-18-pro-max-center-of-gravity/",
-        "https://www.gizmodo.jp/article/tgs2026_matome/",
-        "https://www.gizmodo.jp/article/2609-anker-solix-s2000-portable-power-station-review/"
+        "https://www.gizmodo.jp/article/tgs2026_matome/"
     ]
 }
