@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cm93e2gz8y41o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260926de52577",
         "https://news.web.nhk/newsweb/na/nd-20260926de52565",
         "https://news.web.nhk/newsweb/na/nd-20260926de52564",
         "https://news.web.nhk/newsweb/na/nd-20260926de52568",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260917de50866",
         "https://news.web.nhk/newsweb/na/nd-20260923de52042",
         "https://news.web.nhk/newsweb/na/nd-20260923de52037",
-        "https://news.web.nhk/newsweb/na/nd-20260923de51963",
-        "https://news.web.nhk/newsweb/na/nd-20260923de52030"
+        "https://news.web.nhk/newsweb/na/nd-20260923de51963"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2609-msi-crosshair-16-hx-review/",
         "https://www.gizmodo.jp/article/2609-muji-folding-whiteboard-review/",
         "https://www.gizmodo.jp/article/2609-recent-solar-power-evolution/",
         "https://www.gizmodo.jp/article/tkx2026/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/tgs2026_matome/",
         "https://www.gizmodo.jp/article/2609-anker-solix-s2000-portable-power-station-review/",
         "https://www.gizmodo.jp/article/apple-wrist-strap/",
-        "https://www.gizmodo.jp/article/iphone-daiso-goods/",
-        "https://www.gizmodo.jp/article/2609-googlebook-preorder-2026-september/"
+        "https://www.gizmodo.jp/article/iphone-daiso-goods/"
     ]
 }
