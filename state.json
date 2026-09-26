@@ -2,6 +2,8 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "mYHK1JNOAiM",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "XUIfpEesb2Q",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cq4gmmdl52rgo#0",
+        "https://www.bbc.co.uk/news/articles/ck1wxx8n2x3zo#1",
         "https://www.bbc.co.uk/sport/football/articles/ckddvv5dn4eyo#0",
         "https://www.bbc.co.uk/news/articles/cq4g55r76d9lo#1",
         "https://www.bbc.co.uk/news/articles/cq4gmmdl52rgo#1",
@@ -199,11 +201,10 @@
         "https://www.bbc.co.uk/news/articles/c6z0z5dz884lo#0",
         "https://www.bbc.co.uk/sport/boxing/articles/c89n188d53no#1",
         "https://www.bbc.co.uk/news/articles/cv1j4yr6j2p0o#1",
-        "https://www.bbc.co.uk/news/articles/cv1j4yr6j2p0o#0",
-        "https://www.bbc.co.uk/news/articles/cmp30r1klk37o#0",
-        "https://www.bbc.co.uk/news/articles/cqm2mg34x2v7o#0"
+        "https://www.bbc.co.uk/news/articles/cv1j4yr6j2p0o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260927de52649",
         "https://news.web.nhk/newsweb/na/nd-20260927de52638",
         "https://news.web.nhk/newsweb/na/nd-20260927de52640",
         "https://news.web.nhk/newsweb/na/nd-20260927de52644",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260924de52122",
         "https://news.web.nhk/newsweb/na/nd-20260924de52121",
         "https://news.web.nhk/newsweb/na/nd-20260924de52118",
-        "https://news.web.nhk/newsweb/na/nd-20260924de52110",
-        "https://news.web.nhk/newsweb/na/nd-20260924de52107"
+        "https://news.web.nhk/newsweb/na/nd-20260924de52110"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/found-gold-during-a-walk-lbu/",
