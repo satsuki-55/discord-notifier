@@ -2,6 +2,12 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "mYHK1JNOAiM",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "XUIfpEesb2Q",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo#1",
+        "https://www.bbc.co.uk/news/articles/cw24jm9rryy3o#0",
+        "https://www.bbc.co.uk/news/articles/cv5yjzz803edo#2",
+        "https://www.bbc.co.uk/news/articles/cqn4knlj9v81o#2",
+        "https://www.bbc.co.uk/news/articles/c6pwl9g9ne1lo#2",
+        "https://www.bbc.co.uk/news/articles/cq70dgdndr46o#2",
         "https://www.bbc.co.uk/news/articles/cklye5e40531o#1",
         "https://www.bbc.co.uk/news/articles/cvp8d0nezkeko#0",
         "https://www.bbc.co.uk/news/articles/cv1j4yr6j2p0o#0",
@@ -195,15 +201,10 @@
         "https://www.bbc.co.uk/news/articles/cw24jm9rryy3o#1",
         "https://www.bbc.co.uk/news/articles/cqzjzl3d1409o#1",
         "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo#0",
-        "https://www.bbc.co.uk/news/articles/cwzrzjy3pynvo#0",
-        "https://www.bbc.co.uk/news/articles/cwzrzjy3pynvo#1",
-        "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo#1",
-        "https://www.bbc.co.uk/news/articles/cw24jm9rryy3o#0",
-        "https://www.bbc.co.uk/news/articles/cqevwm09w4xmo#0",
-        "https://www.bbc.co.uk/news/articles/cwz0z597m471o#1",
-        "https://www.bbc.co.uk/sport/football/articles/c6grv7x544qro#1"
+        "https://www.bbc.co.uk/news/articles/cwzrzjy3pynvo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260927de52651",
         "https://news.web.nhk/newsweb/na/nd-20260927de52652",
         "https://news.web.nhk/newsweb/na/nd-20260927de52647",
         "https://news.web.nhk/newsweb/na/nd-20260927de52648",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260924de52138",
         "https://news.web.nhk/newsweb/na/nd-20260924de52128",
         "https://news.web.nhk/newsweb/na/nd-20260924de52108",
-        "https://news.web.nhk/newsweb/na/nd-20260924de52125",
-        "https://news.web.nhk/newsweb/na/nd-20260924de52130"
+        "https://news.web.nhk/newsweb/na/nd-20260924de52125"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2609-insta360-luna-ultra-telephoto/",
