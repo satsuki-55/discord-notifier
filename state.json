@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c60qxywdx4vvo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260926de52590",
         "https://news.web.nhk/newsweb/na/nd-20260926de52587",
         "https://news.web.nhk/newsweb/na/nd-20260926de52586",
         "https://news.web.nhk/newsweb/na/nd-20260926de52585",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260923de52067",
         "https://news.web.nhk/newsweb/na/nd-20260923de52071",
         "https://news.web.nhk/newsweb/na/nd-20260923de52066",
-        "https://news.web.nhk/newsweb/na/nd-20260923de52038",
-        "https://news.web.nhk/newsweb/na/nd-20260923de52054"
+        "https://news.web.nhk/newsweb/na/nd-20260923de52038"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2609-makerphone-2-diy-cyber-phone/",
