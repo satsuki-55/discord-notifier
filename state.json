@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "mYHK1JNOAiM",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "MxZzeOJmwNI",
     "rss:bbc": [
+        "https://www.bbc.co.uk/sport/football/articles/c962jjl18g3ro#1",
         "https://www.bbc.co.uk/news/articles/ckg7q33gnwro#2",
         "https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o#0",
         "https://www.bbc.co.uk/news/articles/cmx2zz035q99o#1",
@@ -200,10 +201,10 @@
         "https://www.bbc.co.uk/news/articles/cm207yn1124zo#0",
         "https://www.bbc.co.uk/news/articles/cr15819w3vllo#0",
         "https://www.bbc.co.uk/news/articles/cqzjzl3d1409o#0",
-        "https://www.bbc.co.uk/news/articles/ck0e3y7qzv1ro#1",
-        "https://www.bbc.co.uk/news/articles/ck5ywzl5vd5po#1"
+        "https://www.bbc.co.uk/news/articles/ck0e3y7qzv1ro#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260926de52604",
         "https://news.web.nhk/newsweb/na/nd-20260926de52588",
         "https://news.web.nhk/newsweb/na/nd-20260926de52602",
         "https://news.web.nhk/newsweb/na/nd-20260926de52598",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260924de52081",
         "https://news.web.nhk/newsweb/na/nd-20260924de52083",
         "https://news.web.nhk/newsweb/na/nd-20260923de52072",
-        "https://news.web.nhk/newsweb/na/nd-20260924de52079",
-        "https://news.web.nhk/newsweb/na/nd-20260923de52073"
+        "https://news.web.nhk/newsweb/na/nd-20260924de52079"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2609-sonos-ace-ultra-review/",
