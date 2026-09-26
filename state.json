@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cqkgw68yjg29o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260927de52642",
         "https://news.web.nhk/newsweb/na/nd-20260927de52637",
         "https://news.web.nhk/newsweb/na/nd-20260926de52608",
         "https://news.web.nhk/newsweb/na/nd-20260927de52636",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260828de47012",
         "https://news.web.nhk/newsweb/na/nd-20260924de52101",
         "https://news.web.nhk/newsweb/na/nd-20260924de52093",
-        "https://news.web.nhk/newsweb/na/nd-20260924de52094",
-        "https://news.web.nhk/newsweb/na/nd-20260924de52091"
+        "https://news.web.nhk/newsweb/na/nd-20260924de52094"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/found-gold-during-a-walk-lbu/",
