@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c65ymznkr291o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260926de52549",
         "https://news.web.nhk/newsweb/na/nd-20260926de52550",
         "https://news.web.nhk/newsweb/na/nd-20260926de52545",
         "https://news.web.nhk/newsweb/na/nd-20260926de52548",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260923de52009",
         "https://news.web.nhk/newsweb/na/nd-20260923de52007",
         "https://news.web.nhk/newsweb/na/nd-20260923de52002",
-        "https://news.web.nhk/newsweb/na/nd-20260923de52001",
-        "https://news.web.nhk/newsweb/na/nd-20260923de52004"
+        "https://news.web.nhk/newsweb/na/nd-20260923de52001"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/your-screen-protector-is-not-all-it-s-cracked-up-to-be-wgn/",
