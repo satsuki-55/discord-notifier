@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c9n74574elljo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260926de52615",
         "https://news.web.nhk/newsweb/na/nd-20260926de52606",
         "https://news.web.nhk/newsweb/na/nd-20260926de52605",
         "https://news.web.nhk/newsweb/na/nd-20260926de52604",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260923de52064",
         "https://news.web.nhk/newsweb/na/nd-20260923de52050",
         "https://news.web.nhk/newsweb/na/nd-20260923de52068",
-        "https://news.web.nhk/newsweb/na/nd-20260924de52081",
-        "https://news.web.nhk/newsweb/na/nd-20260924de52083"
+        "https://news.web.nhk/newsweb/na/nd-20260924de52081"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2609-lenovo-googlebook-15-jp-release/",
