@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/c6p3kxpp8lezo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260926de52602",
+        "https://news.web.nhk/newsweb/na/nd-20260926de52598",
         "https://news.web.nhk/newsweb/na/nd-20260926de52601",
         "https://news.web.nhk/newsweb/na/nd-20260926de52591",
         "https://news.web.nhk/newsweb/na/nd-20260926de52593",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260923de52072",
         "https://news.web.nhk/newsweb/na/nd-20260924de52079",
         "https://news.web.nhk/newsweb/na/nd-20260923de52073",
-        "https://news.web.nhk/newsweb/na/nd-20260924de52076",
-        "https://news.web.nhk/newsweb/na/nd-20260923de52069",
-        "https://news.web.nhk/newsweb/na/nd-20260923de52070"
+        "https://news.web.nhk/newsweb/na/nd-20260924de52076"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2609-sonos-ace-ultra-review/",
