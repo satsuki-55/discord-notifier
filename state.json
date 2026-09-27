@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260924de52163",
+        "https://news.web.nhk/newsweb/na/nd-20260927de52675",
         "https://news.web.nhk/newsweb/na/nd-20260927de52673",
         "https://news.web.nhk/newsweb/na/nd-20260927de52671",
         "https://news.web.nhk/newsweb/na/nd-20260927de52664",
@@ -401,11 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260924de52196",
         "https://news.web.nhk/newsweb/na/nd-20260924de52177",
         "https://news.web.nhk/newsweb/na/nd-20260924de52165",
-        "https://news.web.nhk/newsweb/na/nd-20260924de52168",
-        "https://news.web.nhk/newsweb/na/nd-20260924de52115",
-        "https://news.web.nhk/newsweb/na/nd-20260924de52163"
+        "https://news.web.nhk/newsweb/na/nd-20260924de52168"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2609-meta-jolly-ai-spyware/",
         "https://www.gizmodo.jp/article/utamaro-gpm/",
         "https://www.gizmodo.jp/article/2609-beads-cushion-refill-review/",
         "https://www.gizmodo.jp/article/2609-iphone-battery-replacement-guide/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/canon-eos-r10/",
         "https://www.gizmodo.jp/article/iphone-18-pro-camera-features/",
         "https://www.gizmodo.jp/article/2609-tcl-nxtpaper-amoled-p80-pro-ultra/",
-        "https://www.gizmodo.jp/article/2609-truck-bus-simulator/",
-        "https://www.gizmodo.jp/article/sensor-light-ball-type-daiso-f7p/"
+        "https://www.gizmodo.jp/article/2609-truck-bus-simulator/"
     ]
 }
