@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cwzrzjy3pynvo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260927de52664",
         "https://news.web.nhk/newsweb/na/nd-20260927de52659",
         "https://news.web.nhk/newsweb/na/nd-20260927de52658",
         "https://news.web.nhk/newsweb/na/nd-20260927de52650",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260924de52115",
         "https://news.web.nhk/newsweb/na/nd-20260924de52163",
         "https://news.web.nhk/newsweb/na/nd-20260924de52154",
-        "https://news.web.nhk/newsweb/na/nd-20260924de52142",
-        "https://news.web.nhk/newsweb/na/nd-20260924de52138"
+        "https://news.web.nhk/newsweb/na/nd-20260924de52142"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2609-trozk-t3-module-power-bank/",
