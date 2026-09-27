@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c8xkvzlz0x4o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260927de52700",
         "https://news.web.nhk/newsweb/na/nd-20260924de52199",
         "https://news.web.nhk/newsweb/na/nd-20260927de52694",
         "https://news.web.nhk/newsweb/na/nd-20260927de52698",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260924de52220",
         "https://news.web.nhk/newsweb/na/nd-20260924de52216",
         "https://news.web.nhk/newsweb/na/nd-20260924de52206",
-        "https://news.web.nhk/newsweb/na/nd-20260924de52204",
-        "https://news.web.nhk/newsweb/na/nd-20260924de52202"
+        "https://news.web.nhk/newsweb/na/nd-20260924de52204"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2609-ancient-china-nose-amputation-evidence/",
