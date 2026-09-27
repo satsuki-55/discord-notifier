@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cw24jm9rryy3o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260828de47015",
         "https://news.web.nhk/newsweb/na/nd-20260828de47014",
         "https://news.web.nhk/newsweb/na/nd-20260927de52674",
         "https://news.web.nhk/newsweb/na/nd-20260927de52676",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260924de52199",
         "https://news.web.nhk/newsweb/na/nd-20260924de52197",
         "https://news.web.nhk/newsweb/na/nd-20260924de52207",
-        "https://news.web.nhk/newsweb/na/nd-20260924de52167",
-        "https://news.web.nhk/newsweb/na/nd-20260924de52092"
+        "https://news.web.nhk/newsweb/na/nd-20260924de52167"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2609-cio-polaris-cube-desk/",
