@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260924de52163"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/utamaro-gpm/",
         "https://www.gizmodo.jp/article/2609-beads-cushion-refill-review/",
         "https://www.gizmodo.jp/article/2609-iphone-battery-replacement-guide/",
         "https://www.gizmodo.jp/article/2609-trozk-t3-module-power-bank/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/iphone-18-pro-camera-features/",
         "https://www.gizmodo.jp/article/2609-tcl-nxtpaper-amoled-p80-pro-ultra/",
         "https://www.gizmodo.jp/article/2609-truck-bus-simulator/",
-        "https://www.gizmodo.jp/article/sensor-light-ball-type-daiso-f7p/",
-        "https://www.gizmodo.jp/article/2609-gpt-6-astra-agi-openai/"
+        "https://www.gizmodo.jp/article/sensor-light-ball-type-daiso-f7p/"
     ]
 }
