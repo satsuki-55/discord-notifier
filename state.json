@@ -2,6 +2,8 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "mYHK1JNOAiM",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "XUIfpEesb2Q",
     "rss:bbc": [
+        "https://www.bbc.co.uk/sport/football/articles/cqx2zz6d5716o#2",
+        "https://www.bbc.co.uk/sport/football/articles/c6d944ylqkkeo#3",
         "https://www.bbc.co.uk/news/articles/cmqjkk55qg25o#0",
         "https://www.bbc.co.uk/news/articles/cmqjkk55qg25o#1",
         "https://www.bbc.co.uk/news/articles/cmvgyyw2jeego#0",
@@ -199,11 +201,10 @@
         "https://www.bbc.co.uk/news/articles/cqde0wrl9d5do#0",
         "https://www.bbc.co.uk/news/articles/c62kw7pqjw0zo#1",
         "https://www.bbc.co.uk/news/articles/cqzjzlve8jg7o#1",
-        "https://www.bbc.co.uk/news/articles/cr3eqk15ld14o#0",
-        "https://www.bbc.co.uk/news/articles/cm20ldvx9xlxo#1",
-        "https://www.bbc.co.uk/news/articles/cm5ydvp14y6xo#1"
+        "https://www.bbc.co.uk/news/articles/cr3eqk15ld14o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260927de52698",
         "https://news.web.nhk/newsweb/na/nd-20260924de52167",
         "https://news.web.nhk/newsweb/na/nd-20260927de52686",
         "https://news.web.nhk/newsweb/na/nd-20260828de47015",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260924de52204",
         "https://news.web.nhk/newsweb/na/nd-20260924de52202",
         "https://news.web.nhk/newsweb/na/nd-20260924de52200",
-        "https://news.web.nhk/newsweb/na/nd-20260924de52199",
-        "https://news.web.nhk/newsweb/na/nd-20260924de52197"
+        "https://news.web.nhk/newsweb/na/nd-20260924de52199"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2609-ancient-china-nose-amputation-evidence/",
