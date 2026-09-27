@@ -2,6 +2,8 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "7dzqsHGsi2g",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "XUIfpEesb2Q",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o#1",
+        "https://www.bbc.co.uk/news/articles/cklye5e40531o#3",
         "https://www.bbc.co.uk/news/articles/cq39me84zrkdo#2",
         "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o#3",
         "https://www.bbc.co.uk/news/articles/cqgk52ln68xvo#0",
@@ -199,11 +201,10 @@
         "https://www.bbc.co.uk/news/articles/c3y0z7kxlegdo#1",
         "https://www.bbc.co.uk/news/articles/cqrk356kjx8no#0",
         "https://www.bbc.co.uk/news/articles/cwr50jjmllv5o#0",
-        "https://www.bbc.co.uk/news/articles/crkgwe3egpzgo#1",
-        "https://www.bbc.co.uk/news/articles/cd68nq0q4n9o#1",
-        "https://www.bbc.co.uk/news/articles/cw99d8g48873o#0"
+        "https://www.bbc.co.uk/news/articles/crkgwe3egpzgo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260927de52709",
         "https://news.web.nhk/newsweb/na/nd-20260924de52204",
         "https://news.web.nhk/newsweb/na/nd-20260927de52703",
         "https://news.web.nhk/newsweb/na/nd-20260927de52700",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260924de52226",
         "https://news.web.nhk/newsweb/na/nd-20260924de52215",
         "https://news.web.nhk/newsweb/na/nd-20260924de52212",
-        "https://news.web.nhk/newsweb/na/nd-20260924de52220",
-        "https://news.web.nhk/newsweb/na/nd-20260924de52216"
+        "https://news.web.nhk/newsweb/na/nd-20260924de52220"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2609-smartphone-with-physical-keyboard/",
