@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cn4klprmr0go#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261001de53503",
         "https://news.web.nhk/newsweb/na/nd-20261001de53499",
         "https://news.web.nhk/newsweb/na/nd-20260930de53495",
         "https://news.web.nhk/newsweb/na/nd-20260930de53488",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260919de51243",
         "https://news.web.nhk/newsweb/na/nd-20260925de52485",
         "https://news.web.nhk/newsweb/na/nd-20260925de52486",
-        "https://news.web.nhk/newsweb/na/nd-20260925de52459",
-        "https://news.web.nhk/newsweb/na/nd-20260925de52425"
+        "https://news.web.nhk/newsweb/na/nd-20260925de52459"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/nitori-oil-pot-gin/",
