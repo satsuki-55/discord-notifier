@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cjly4rv0q3l0o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260930de53478",
         "https://news.web.nhk/newsweb/na/nd-20260930de53420",
         "https://news.web.nhk/newsweb/na/nd-20260930de53461",
         "https://news.web.nhk/newsweb/na/nd-20260930de53480",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260925de52439",
         "https://news.web.nhk/newsweb/na/nd-20260925de52429",
         "https://news.web.nhk/newsweb/na/nd-20260925de52447",
-        "https://news.web.nhk/newsweb/na/nd-20260925de52440",
-        "https://news.web.nhk/newsweb/na/nd-20260925de52420"
+        "https://news.web.nhk/newsweb/na/nd-20260925de52440"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2609-pillow-speaker-audible-review/",
         "https://www.gizmodo.jp/article/wall-mounted-dryer-holder/",
         "https://www.gizmodo.jp/article/2609-sanders-military-derby/",
         "https://www.gizmodo.jp/article/2609-climate-resilient-cities-chicago-japan/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/2609-jitrainno-ai-e-paper-frame/",
         "https://www.gizmodo.jp/article/2609-foldable-emergency-toilet/",
         "https://www.gizmodo.jp/article/dyson-new-release/",
-        "https://www.gizmodo.jp/article/2609-trump-phone-silent-price-increase/",
-        "https://www.gizmodo.jp/article/ai-defeats-enigma-2q7-3sk/"
+        "https://www.gizmodo.jp/article/2609-trump-phone-silent-price-increase/"
     ]
 }
