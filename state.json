@@ -2,6 +2,12 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "t8tlXuUwyck",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "AJ9zlGdXeEA",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cw98070pq999o#0",
+        "https://www.bbc.co.uk/news/articles/cv62kp9enz08o#0",
+        "https://www.bbc.co.uk/news/articles/cqde01j1p3gxo#0",
+        "https://www.bbc.co.uk/news/videos/crkgwvqjk0g7o#1",
+        "https://www.bbc.co.uk/news/articles/cm750pyz5r0eo#1",
+        "https://www.bbc.co.uk/news/articles/c6grvpppvw5eo#1",
         "https://www.bbc.co.uk/news/articles/c9zrz5jz86kjo#0",
         "https://www.bbc.co.uk/news/articles/cky9z31yj8ggo#1",
         "https://www.bbc.co.uk/sport/athletics/articles/cm36lgdk9g33o#1",
@@ -195,13 +201,7 @@
         "https://www.bbc.co.uk/news/articles/ckvgyzjpy2eno#0",
         "https://www.bbc.co.uk/news/articles/cw62jje658dlo#1",
         "https://www.bbc.co.uk/news/articles/cw62jje658dlo#0",
-        "https://www.bbc.co.uk/news/articles/cm5ydvww0erdo#0",
-        "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko#1",
-        "https://www.bbc.co.uk/news/articles/cwp933nzpp9ro#1",
-        "https://www.bbc.co.uk/sport/football/articles/cw7v44ezry5go#0",
-        "https://www.bbc.co.uk/news/articles/cjvgy7qd20wgo#1",
-        "https://www.bbc.co.uk/news/articles/ckzdzeedmqm4o#0",
-        "https://www.bbc.co.uk/news/videos/cm93v2zz4w7qo#0"
+        "https://www.bbc.co.uk/news/articles/cm5ydvww0erdo#0"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20260930de53471",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260925de52450"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2609-climate-resilient-cities-chicago-japan/",
         "https://www.gizmodo.jp/article/2609-air-battler-wifi-monster-game/",
         "https://www.gizmodo.jp/article/2609-iwatani-marudan-plus-stove/",
         "https://www.gizmodo.jp/article/2609-akumocandle-super-led-light/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/2609-trump-phone-silent-price-increase/",
         "https://www.gizmodo.jp/article/ai-defeats-enigma-2q7-3sk/",
         "https://www.gizmodo.jp/article/maingear-zero-2026-review-pc-gaming-bliss-with-a-price-tag-to-make-you-cry/",
-        "https://www.gizmodo.jp/article/the-boox-palma-3-upgrades-to-aluminum-and-android-16/",
-        "https://www.gizmodo.jp/article/2609-gta6-miami-vice-city-collab-controversy/"
+        "https://www.gizmodo.jp/article/the-boox-palma-3-upgrades-to-aluminum-and-android-16/"
     ]
 }
