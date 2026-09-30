@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c84gkwgk7d06o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260930de53456",
         "https://news.web.nhk/newsweb/na/nd-20260930de53446",
         "https://news.web.nhk/newsweb/na/nd-20260930de53465",
         "https://news.web.nhk/newsweb/na/nd-20260930de53466",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260925de52451",
         "https://news.web.nhk/newsweb/na/nd-20260925de52433",
         "https://news.web.nhk/newsweb/na/nd-20260925de52445",
-        "https://news.web.nhk/newsweb/na/nd-20260925de52427",
-        "https://news.web.nhk/newsweb/na/nd-20260925de52430"
+        "https://news.web.nhk/newsweb/na/nd-20260925de52427"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2609-iwatani-marudan-plus-stove/",
