@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cm9w4042yklko#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260930de53426",
         "https://news.web.nhk/newsweb/na/nd-20260930de53425",
         "https://news.web.nhk/newsweb/na/nd-20260930de53373",
         "https://news.web.nhk/newsweb/na/nd-20260930de53437",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260925de52412",
         "https://news.web.nhk/newsweb/na/nd-20260925de52388",
         "https://news.web.nhk/newsweb/na/nd-20260925de52309",
-        "https://news.web.nhk/newsweb/na/nd-20260925de52413",
-        "https://news.web.nhk/newsweb/na/nd-20260925de52397"
+        "https://news.web.nhk/newsweb/na/nd-20260925de52413"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2609-apple-vision-pro-next-gen-uncertain/",
         "https://www.gizmodo.jp/article/montbell-od-compact-dripper/",
         "https://www.gizmodo.jp/article/water-battery-30-years-enervenue/",
         "https://www.gizmodo.jp/article/matador-earplugs/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/2609-gta6-miami-vice-city-collab-controversy/",
         "https://www.gizmodo.jp/article/2609-timex-t80-ring-watch/",
         "https://www.gizmodo.jp/article/the-foundation-of-an-artificial-island-in-scotland-lying-at-thebottomof-a-lake-dates-back-more-than-5000-years-qra/",
-        "https://www.gizmodo.jp/article/2609-jbl-pulse-6-speaker-lantern/",
-        "https://www.gizmodo.jp/article/434c69ed-408e-49ad-bfce-e057723ded13/"
+        "https://www.gizmodo.jp/article/2609-jbl-pulse-6-speaker-lantern/"
     ]
 }
