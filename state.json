@@ -2,6 +2,9 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "t8tlXuUwyck",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "AJ9zlGdXeEA",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cm7802ylq973o#0",
+        "https://www.bbc.co.uk/news/articles/cwp93d078j8no#1",
+        "https://www.bbc.co.uk/news/articles/cm7802ylq973o#1",
         "https://www.bbc.co.uk/news/articles/c3x2z9k1zdn4o#0",
         "https://www.bbc.co.uk/news/articles/cq7702rr830lo#1",
         "https://www.bbc.co.uk/news/articles/cq7832kn4252o#1",
@@ -198,12 +201,10 @@
         "https://www.bbc.co.uk/news/articles/ck05rrj3jeylo#0",
         "https://www.bbc.co.uk/news/articles/cqpvewv3mpgko#0",
         "https://www.bbc.co.uk/news/articles/ckd79wlg2wl8o#0",
-        "https://www.bbc.co.uk/news/articles/cqwyzz79mdgjo#1",
-        "https://www.bbc.co.uk/news/articles/cxnvlnve52qdo#0",
-        "https://www.bbc.co.uk/news/articles/crkgww5j0yzwo#0",
-        "https://www.bbc.co.uk/news/videos/cq14d142p08do#1"
+        "https://www.bbc.co.uk/news/articles/cqwyzz79mdgjo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260930de53421",
         "https://news.web.nhk/newsweb/na/nd-20260930de53303",
         "https://news.web.nhk/newsweb/na/nd-20260930de53411",
         "https://news.web.nhk/newsweb/na/nd-20260930de53396",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260919de51165",
         "https://news.web.nhk/newsweb/na/nd-20260925de52378",
         "https://news.web.nhk/newsweb/na/nd-20260925de52370",
-        "https://news.web.nhk/newsweb/na/nd-20260922de51793",
-        "https://news.web.nhk/newsweb/na/nd-20260925de52377"
+        "https://news.web.nhk/newsweb/na/nd-20260922de51793"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/go-waymo-nihonkotsu/",
         "https://www.gizmodo.jp/article/ecovacs-deebot-x12s-pro-omni/",
         "https://www.gizmodo.jp/article/2609-meta-ai-glasses-privacy-rayban/",
         "https://www.gizmodo.jp/article/adlens_do-lifeone_eyewear/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/434c69ed-408e-49ad-bfce-e057723ded13/",
         "https://www.gizmodo.jp/article/2609-tcl-a1-nxtpaper-tablet/",
         "https://www.gizmodo.jp/article/zipstring-aracna-introduction/",
-        "https://www.gizmodo.jp/article/oppo-find-x10-series-september-22-launch/",
-        "https://www.gizmodo.jp/article/apple-photographic-styles-3/"
+        "https://www.gizmodo.jp/article/oppo-find-x10-series-september-22-launch/"
     ]
 }
