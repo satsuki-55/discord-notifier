@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "t8tlXuUwyck",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "AJ9zlGdXeEA",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cxm2qmpy57ggo#1",
         "https://www.bbc.co.uk/news/articles/cq7702gvzyrxo#1",
         "https://www.bbc.co.uk/news/articles/ckjw5jx2l393o#0",
         "https://www.bbc.co.uk/news/articles/c65ym1dyn92mo#0",
@@ -200,10 +201,11 @@
         "https://www.bbc.co.uk/news/videos/cm93v2zz4w7qo#0",
         "https://www.bbc.co.uk/sport/football/articles/cw7v44ezry5go#1",
         "https://www.bbc.co.uk/news/articles/cq0lrr8kxy0lo#0",
-        "https://www.bbc.co.uk/news/articles/c84gkwgk7d06o#0",
-        "https://www.bbc.co.uk/news/articles/cm0reew1591zo#1"
+        "https://www.bbc.co.uk/news/articles/c84gkwgk7d06o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260930de53446",
+        "https://news.web.nhk/newsweb/na/nd-20260930de53465",
         "https://news.web.nhk/newsweb/na/nd-20260930de53466",
         "https://news.web.nhk/newsweb/na/nd-20260930de53457",
         "https://news.web.nhk/newsweb/na/nd-20260930de53430",
@@ -401,11 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260925de52433",
         "https://news.web.nhk/newsweb/na/nd-20260925de52445",
         "https://news.web.nhk/newsweb/na/nd-20260925de52427",
-        "https://news.web.nhk/newsweb/na/nd-20260925de52430",
-        "https://news.web.nhk/newsweb/na/nd-20260925de52418",
-        "https://news.web.nhk/newsweb/na/nd-20260925de52421"
+        "https://news.web.nhk/newsweb/na/nd-20260925de52430"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2609-iwatani-marudan-plus-stove/",
         "https://www.gizmodo.jp/article/2609-akumocandle-super-led-light/",
         "https://www.gizmodo.jp/article/2609-apple-vision-pro-next-gen-uncertain/",
         "https://www.gizmodo.jp/article/montbell-od-compact-dripper/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/maingear-zero-2026-review-pc-gaming-bliss-with-a-price-tag-to-make-you-cry/",
         "https://www.gizmodo.jp/article/the-boox-palma-3-upgrades-to-aluminum-and-android-16/",
         "https://www.gizmodo.jp/article/2609-gta6-miami-vice-city-collab-controversy/",
-        "https://www.gizmodo.jp/article/2609-timex-t80-ring-watch/",
-        "https://www.gizmodo.jp/article/the-foundation-of-an-artificial-island-in-scotland-lying-at-thebottomof-a-lake-dates-back-more-than-5000-years-qra/"
+        "https://www.gizmodo.jp/article/2609-timex-t80-ring-watch/"
     ]
 }
