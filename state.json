@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "t8tlXuUwyck",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "wzae9UilS9M",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cq7832kn4252o#1",
         "https://www.bbc.co.uk/news/articles/cwe879654mj7o#0",
         "https://www.bbc.co.uk/news/articles/cmkg8dpwy25po#1",
         "https://www.bbc.co.uk/news/articles/cmkg8dpwy25po#0",
@@ -200,10 +201,11 @@
         "https://www.bbc.co.uk/news/articles/crkgww5j0yzwo#0",
         "https://www.bbc.co.uk/news/videos/cq14d142p08do#1",
         "https://www.bbc.co.uk/news/articles/cm0reew1591zo#0",
-        "https://www.bbc.co.uk/sport/football/videos/cj62ee3zydxlo#1",
-        "https://www.bbc.co.uk/news/articles/ck7900wl7nxyo#1"
+        "https://www.bbc.co.uk/sport/football/videos/cj62ee3zydxlo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260930de53303",
+        "https://news.web.nhk/newsweb/na/nd-20260930de53411",
         "https://news.web.nhk/newsweb/na/nd-20260930de53396",
         "https://news.web.nhk/newsweb/na/nd-20260930de53266",
         "https://news.web.nhk/newsweb/na/nd-20260930de53369",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260925de52378",
         "https://news.web.nhk/newsweb/na/nd-20260925de52370",
         "https://news.web.nhk/newsweb/na/nd-20260922de51793",
-        "https://news.web.nhk/newsweb/na/nd-20260925de52377",
-        "https://news.web.nhk/newsweb/na/nd-20260925de52373",
-        "https://news.web.nhk/newsweb/na/nd-20260925de52358"
+        "https://news.web.nhk/newsweb/na/nd-20260925de52377"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/ecovacs-deebot-x12s-pro-omni/",
