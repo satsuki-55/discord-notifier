@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c5dj401d88l3o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260930de53266",
         "https://news.web.nhk/newsweb/na/nd-20260930de53369",
         "https://news.web.nhk/newsweb/na/nd-20260930de53401",
         "https://news.web.nhk/newsweb/na/nd-20260828de47018",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260925de52377",
         "https://news.web.nhk/newsweb/na/nd-20260925de52373",
         "https://news.web.nhk/newsweb/na/nd-20260925de52358",
-        "https://news.web.nhk/newsweb/na/nd-20260925de52363",
-        "https://news.web.nhk/newsweb/na/nd-20260925de52361"
+        "https://news.web.nhk/newsweb/na/nd-20260925de52363"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/ecovacs-deebot-x12s-pro-omni/",
