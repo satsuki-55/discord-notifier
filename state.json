@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cm4gjjlgzdjgo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260930de53443",
         "https://news.web.nhk/newsweb/na/nd-20260930de53440",
         "https://news.web.nhk/newsweb/na/nd-20260930de53471",
         "https://news.web.nhk/newsweb/na/nd-20260930de53472",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260925de52420",
         "https://news.web.nhk/newsweb/na/nd-20260925de52364",
         "https://news.web.nhk/newsweb/na/nd-20260925de52457",
-        "https://news.web.nhk/newsweb/na/nd-20260925de52455",
-        "https://news.web.nhk/newsweb/na/nd-20260925de52403"
+        "https://news.web.nhk/newsweb/na/nd-20260925de52455"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/wall-mounted-dryer-holder/",
         "https://www.gizmodo.jp/article/2609-sanders-military-derby/",
         "https://www.gizmodo.jp/article/2609-climate-resilient-cities-chicago-japan/",
         "https://www.gizmodo.jp/article/2609-air-battler-wifi-monster-game/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/2609-foldable-emergency-toilet/",
         "https://www.gizmodo.jp/article/dyson-new-release/",
         "https://www.gizmodo.jp/article/2609-trump-phone-silent-price-increase/",
-        "https://www.gizmodo.jp/article/ai-defeats-enigma-2q7-3sk/",
-        "https://www.gizmodo.jp/article/maingear-zero-2026-review-pc-gaming-bliss-with-a-price-tag-to-make-you-cry/"
+        "https://www.gizmodo.jp/article/ai-defeats-enigma-2q7-3sk/"
     ]
 }
