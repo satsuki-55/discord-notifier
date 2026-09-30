@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "t8tlXuUwyck",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "AJ9zlGdXeEA",
     "rss:bbc": [
+        "https://www.bbc.co.uk/sport/football/articles/ckrerg4n2v82o#1",
         "https://www.bbc.co.uk/news/articles/c3x2z9k1zdn4o#1",
         "https://www.bbc.co.uk/news/articles/cm986x65we88o#0",
         "https://www.bbc.co.uk/news/articles/c9zrz5jz86kjo#1",
@@ -200,10 +201,10 @@
         "https://www.bbc.co.uk/news/articles/cm2l8qv7zppko#1",
         "https://www.bbc.co.uk/news/articles/cmx2zlqeje9zo#1",
         "https://www.bbc.co.uk/news/articles/cjly4rv0q3l0o#0",
-        "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko#0",
-        "https://www.bbc.co.uk/news/articles/cm2l8qv7zppko#0"
+        "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260930de53461",
         "https://news.web.nhk/newsweb/na/nd-20260930de53480",
         "https://news.web.nhk/newsweb/na/nd-20260930de53443",
         "https://news.web.nhk/newsweb/na/nd-20260930de53440",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260925de52447",
         "https://news.web.nhk/newsweb/na/nd-20260925de52440",
         "https://news.web.nhk/newsweb/na/nd-20260925de52420",
-        "https://news.web.nhk/newsweb/na/nd-20260925de52364",
-        "https://news.web.nhk/newsweb/na/nd-20260925de52457"
+        "https://news.web.nhk/newsweb/na/nd-20260925de52364"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/wall-mounted-dryer-holder/",
