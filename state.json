@@ -2,6 +2,9 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "t8tlXuUwyck",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "AJ9zlGdXeEA",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/ckjw5jx2l393o#0",
+        "https://www.bbc.co.uk/news/articles/c65ym1dyn92mo#0",
+        "https://www.bbc.co.uk/news/articles/cwj3dkvpm4e7o#1",
         "https://www.bbc.co.uk/news/articles/c65ym1dyn92mo#1",
         "https://www.bbc.co.uk/news/articles/c5j9xmgz8eero#1",
         "https://www.bbc.co.uk/news/articles/cw0kl62zn0p7o#1",
@@ -198,12 +201,10 @@
         "https://www.bbc.co.uk/news/articles/cq0lrr8kxy0lo#0",
         "https://www.bbc.co.uk/news/articles/c84gkwgk7d06o#0",
         "https://www.bbc.co.uk/news/articles/cm0reew1591zo#1",
-        "https://www.bbc.co.uk/weather/articles/cmp8dr34rz0yo#0",
-        "https://www.bbc.co.uk/news/articles/cm5yeed6dzgyo#1",
-        "https://www.bbc.co.uk/news/articles/cq0lrr8kxy0lo#1",
-        "https://www.bbc.co.uk/news/articles/c84gkwgk7d06o#1"
+        "https://www.bbc.co.uk/weather/articles/cmp8dr34rz0yo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260930de53457",
         "https://news.web.nhk/newsweb/na/nd-20260930de53430",
         "https://news.web.nhk/newsweb/na/nd-20260930de53464",
         "https://news.web.nhk/newsweb/na/nd-20260930de53463",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260925de52430",
         "https://news.web.nhk/newsweb/na/nd-20260925de52418",
         "https://news.web.nhk/newsweb/na/nd-20260925de52421",
-        "https://news.web.nhk/newsweb/na/nd-20260922de51837",
-        "https://news.web.nhk/newsweb/na/nd-20260925de52390"
+        "https://news.web.nhk/newsweb/na/nd-20260922de51837"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2609-akumocandle-super-led-light/",
