@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cm0reew1591zo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260930de53466",
         "https://news.web.nhk/newsweb/na/nd-20260930de53457",
         "https://news.web.nhk/newsweb/na/nd-20260930de53430",
         "https://news.web.nhk/newsweb/na/nd-20260930de53464",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260925de52427",
         "https://news.web.nhk/newsweb/na/nd-20260925de52430",
         "https://news.web.nhk/newsweb/na/nd-20260925de52418",
-        "https://news.web.nhk/newsweb/na/nd-20260925de52421",
-        "https://news.web.nhk/newsweb/na/nd-20260922de51837"
+        "https://news.web.nhk/newsweb/na/nd-20260925de52421"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2609-akumocandle-super-led-light/",
