@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "t8tlXuUwyck",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "wzae9UilS9M",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/videos/ck1e5w239epjo#1",
         "https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno#0",
         "https://www.bbc.co.uk/news/articles/c862epne7glyo#1",
         "https://www.bbc.co.uk/news/articles/c9kgvm275ev8o#1",
@@ -200,10 +201,10 @@
         "https://www.bbc.co.uk/news/articles/ck7900wl7nxyo#1",
         "https://www.bbc.co.uk/news/articles/ck7900wl7nxyo#0",
         "https://www.bbc.co.uk/news/articles/cq0m373ee0v0o#1",
-        "https://www.bbc.co.uk/news/articles/c5dj401d88l3o#0",
-        "https://www.bbc.co.uk/news/articles/cqp8dxxg325no#1"
+        "https://www.bbc.co.uk/news/articles/c5dj401d88l3o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260930de53369",
         "https://news.web.nhk/newsweb/na/nd-20260930de53401",
         "https://news.web.nhk/newsweb/na/nd-20260828de47018",
         "https://news.web.nhk/newsweb/na/nd-20260930de53347",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260925de52373",
         "https://news.web.nhk/newsweb/na/nd-20260925de52358",
         "https://news.web.nhk/newsweb/na/nd-20260925de52363",
-        "https://news.web.nhk/newsweb/na/nd-20260925de52361",
-        "https://news.web.nhk/newsweb/na/nd-20260925de52342"
+        "https://news.web.nhk/newsweb/na/nd-20260925de52361"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2609-meta-ai-glasses-privacy-rayban/",
