@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "t8tlXuUwyck",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "AJ9zlGdXeEA",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/videos/cmn8e8736wjyo#1",
         "https://www.bbc.co.uk/sport/football/articles/cm9dw7ddwgzwo#1",
         "https://www.bbc.co.uk/news/videos/c6rered722j5o#1",
         "https://www.bbc.co.uk/news/articles/cwp93d9r034xo#1",
@@ -200,10 +201,11 @@
         "https://www.bbc.co.uk/news/articles/cm207yn1124zo#0",
         "https://www.bbc.co.uk/news/articles/cm5yww993n10o#1",
         "https://www.bbc.co.uk/news/articles/cwn8mn0rzkzlo#1",
-        "https://www.bbc.co.uk/news/articles/c60m334grx9vo#1",
-        "https://www.bbc.co.uk/sport/football/articles/c6d944ylqkkeo#1"
+        "https://www.bbc.co.uk/news/articles/c60m334grx9vo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261001de53516",
+        "https://news.web.nhk/newsweb/na/nd-20261001de53497",
         "https://news.web.nhk/newsweb/na/nd-20261001de53512",
         "https://news.web.nhk/newsweb/na/nd-20261001de53513",
         "https://news.web.nhk/newsweb/na/nd-20261001de53505",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260926de52529",
         "https://news.web.nhk/newsweb/na/nd-20260926de52515",
         "https://news.web.nhk/newsweb/na/nd-20260925de52513",
-        "https://news.web.nhk/newsweb/na/nd-20260926de52519",
-        "https://news.web.nhk/newsweb/na/nd-20260926de52518",
-        "https://news.web.nhk/newsweb/na/nd-20260926de52517"
+        "https://news.web.nhk/newsweb/na/nd-20260926de52519"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/nitori-oil-pot-gin/",
