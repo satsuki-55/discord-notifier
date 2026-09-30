@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cjly4rv0q3l0o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260930de53487",
         "https://news.web.nhk/newsweb/na/nd-20260930de53478",
         "https://news.web.nhk/newsweb/na/nd-20260930de53420",
         "https://news.web.nhk/newsweb/na/nd-20260930de53461",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260925de52452",
         "https://news.web.nhk/newsweb/na/nd-20260925de52439",
         "https://news.web.nhk/newsweb/na/nd-20260925de52429",
-        "https://news.web.nhk/newsweb/na/nd-20260925de52447",
-        "https://news.web.nhk/newsweb/na/nd-20260925de52440"
+        "https://news.web.nhk/newsweb/na/nd-20260925de52447"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2609-pillow-speaker-audible-review/",
