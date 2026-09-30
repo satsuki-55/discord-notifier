@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/cqwyzz79mdgjo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260930de53423",
+        "https://news.web.nhk/newsweb/na/nd-20260930de53415",
         "https://news.web.nhk/newsweb/na/nd-20260930de53416",
         "https://news.web.nhk/newsweb/na/nd-20260930de53379",
         "https://news.web.nhk/newsweb/na/nd-20260930de53421",
@@ -401,11 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260925de52397",
         "https://news.web.nhk/newsweb/na/nd-20260925de52387",
         "https://news.web.nhk/newsweb/na/nd-20260925de52402",
-        "https://news.web.nhk/newsweb/na/nd-20260925de52375",
-        "https://news.web.nhk/newsweb/na/nd-20260919de51165",
-        "https://news.web.nhk/newsweb/na/nd-20260925de52378"
+        "https://news.web.nhk/newsweb/na/nd-20260925de52375"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/matador-earplugs/",
         "https://www.gizmodo.jp/article/go-waymo-nihonkotsu/",
         "https://www.gizmodo.jp/article/ecovacs-deebot-x12s-pro-omni/",
         "https://www.gizmodo.jp/article/2609-meta-ai-glasses-privacy-rayban/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/2609-jbl-pulse-6-speaker-lantern/",
         "https://www.gizmodo.jp/article/434c69ed-408e-49ad-bfce-e057723ded13/",
         "https://www.gizmodo.jp/article/2609-tcl-a1-nxtpaper-tablet/",
-        "https://www.gizmodo.jp/article/zipstring-aracna-introduction/",
-        "https://www.gizmodo.jp/article/oppo-find-x10-series-september-22-launch/"
+        "https://www.gizmodo.jp/article/zipstring-aracna-introduction/"
     ]
 }
