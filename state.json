@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cmrergq3j7lgo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261001de53734",
         "https://news.web.nhk/newsweb/na/nd-20261001de53728",
         "https://news.web.nhk/newsweb/na/nd-20261001de53731",
         "https://news.web.nhk/newsweb/na/nd-20261001de53721",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260927de52659",
         "https://news.web.nhk/newsweb/na/nd-20260927de52658",
         "https://news.web.nhk/newsweb/na/nd-20260927de52650",
-        "https://news.web.nhk/newsweb/na/nd-20260927de52651",
-        "https://news.web.nhk/newsweb/na/nd-20260927de52652"
+        "https://news.web.nhk/newsweb/na/nd-20260927de52651"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-inmo-air-3-recall/",
