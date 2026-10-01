@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cw24jm9rryy3o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261001de53594",
         "https://news.web.nhk/newsweb/na/nd-20261001de53606",
         "https://news.web.nhk/newsweb/na/nd-20261001de53589",
         "https://news.web.nhk/newsweb/na/nd-20261001de53598",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260926de52583",
         "https://news.web.nhk/newsweb/na/nd-20260923de52037",
         "https://news.web.nhk/newsweb/na/nd-20260926de52582",
-        "https://news.web.nhk/newsweb/na/nd-20260926de52579",
-        "https://news.web.nhk/newsweb/na/nd-20260926de52577"
+        "https://news.web.nhk/newsweb/na/nd-20260926de52579"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2610-samsung-smarttag3/",
         "https://www.gizmodo.jp/article/2610-galaxy-tab-s12-series-announced/",
         "https://www.gizmodo.jp/article/2610-ai-job-loss-global-survey/",
         "https://www.gizmodo.jp/article/2610-sanwa-supply-portable-battery-btl-rdc46/",
@@ -604,8 +605,7 @@
         "https://www.gizmodo.jp/article/asahidenkikasei_battery-adapter/",
         "https://www.gizmodo.jp/article/2609-xiaomi-18-pro-rear-display/",
         "https://www.gizmodo.jp/article/apple-reference-image-iphone18pro/",
-        "https://www.gizmodo.jp/article/claude-powered-agent-apparently-deletes-company-database-debases-itself-further-in-confession-gbq/",
-        "https://www.gizmodo.jp/article/2609-one-handed-apple-watch-operation/"
+        "https://www.gizmodo.jp/article/claude-powered-agent-apparently-deletes-company-database-debases-itself-further-in-confession-gbq/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": "Ih1O3vIgcmA"
 }
