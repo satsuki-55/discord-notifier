@@ -2,6 +2,9 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "t8tlXuUwyck",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "AJ9zlGdXeEA",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cqx2z23xj555o#0",
+        "https://www.bbc.co.uk/news/articles/ckge4eql4q7eo#1",
+        "https://www.bbc.co.uk/news/videos/cxnvlvm2r85zo#1",
         "https://www.bbc.co.uk/news/articles/c3vgygpqky9zo#1",
         "https://www.bbc.co.uk/news/articles/c93429dg425o#0",
         "https://www.bbc.co.uk/news/articles/c93429dg425o#1",
@@ -198,12 +201,10 @@
         "https://www.bbc.co.uk/news/articles/c6ge43qx83eno#1",
         "https://www.bbc.co.uk/news/articles/cmvgyyw2jeego#3",
         "https://www.bbc.co.uk/news/videos/c6ge4lyy9x0no#1",
-        "https://www.bbc.co.uk/news/videos/c6ge4lyy9x0no#0",
-        "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o#1",
-        "https://www.bbc.co.uk/news/articles/cklye5e40531o#3",
-        "https://www.bbc.co.uk/news/articles/cq39me84zrkdo#2"
+        "https://www.bbc.co.uk/news/videos/c6ge4lyy9x0no#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261001de53714",
         "https://news.web.nhk/newsweb/na/nd-20261001de53712",
         "https://news.web.nhk/newsweb/na/nd-20261001de53710",
         "https://news.web.nhk/newsweb/na/nd-20261001de53708",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260927de52652",
         "https://news.web.nhk/newsweb/na/nd-20260927de52647",
         "https://news.web.nhk/newsweb/na/nd-20260927de52648",
-        "https://news.web.nhk/newsweb/na/nd-20260926de52607",
-        "https://news.web.nhk/newsweb/na/nd-20260927de52649"
+        "https://news.web.nhk/newsweb/na/nd-20260926de52607"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/jumping-jacks-gadget-71/",
