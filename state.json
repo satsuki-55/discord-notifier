@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cwe879654mj7o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261001de53747",
         "https://news.web.nhk/newsweb/na/nd-20261001de53745",
         "https://news.web.nhk/newsweb/na/nd-20261001de53703",
         "https://news.web.nhk/newsweb/na/nd-20261001de53729",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260927de52676",
         "https://news.web.nhk/newsweb/na/nd-20260927de52639",
         "https://news.web.nhk/newsweb/na/nd-20260924de52163",
-        "https://news.web.nhk/newsweb/na/nd-20260927de52675",
-        "https://news.web.nhk/newsweb/na/nd-20260927de52673"
+        "https://news.web.nhk/newsweb/na/nd-20260927de52675"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/qwenbook-ai-laptop-snapdragon-summit/",
