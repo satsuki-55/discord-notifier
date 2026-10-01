@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cv5yjgrj4ello#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260929de53192",
         "https://news.web.nhk/newsweb/na/nd-20261002de53765",
         "https://news.web.nhk/newsweb/na/nd-20261002de53764",
         "https://news.web.nhk/newsweb/na/nd-20261001de53705",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260924de52167",
         "https://news.web.nhk/newsweb/na/nd-20260927de52686",
         "https://news.web.nhk/newsweb/na/nd-20260828de47015",
-        "https://news.web.nhk/newsweb/na/nd-20260828de47014",
-        "https://news.web.nhk/newsweb/na/nd-20260927de52674"
+        "https://news.web.nhk/newsweb/na/nd-20260828de47014"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-humanoid-robot-disposal-terminator-method/",
