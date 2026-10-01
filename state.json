@@ -2,6 +2,8 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "6c-4elVTGYE",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "AJ9zlGdXeEA",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c68xk0ndqz8jo#0",
+        "https://www.bbc.co.uk/news/articles/ckrerylrlg9vo#0",
         "https://www.bbc.co.uk/news/articles/c5kg0gwwpyx8o#1",
         "https://www.bbc.co.uk/news/videos/cwd080ryxd42o#1",
         "https://www.bbc.co.uk/news/articles/c6je85jzk9y7o#1",
@@ -199,9 +201,7 @@
         "https://www.bbc.co.uk/news/articles/c9kgvm275ev8o#1",
         "https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno#1",
         "https://www.bbc.co.uk/news/articles/cjr4v9g14vygo#0",
-        "https://www.bbc.co.uk/news/articles/c68048k1d3ppo#0",
-        "https://www.bbc.co.uk/news/articles/cj207qk472zpo#0",
-        "https://www.bbc.co.uk/news/videos/crkgwvqjk0g7o#0"
+        "https://www.bbc.co.uk/news/articles/c68048k1d3ppo#0"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20261002de53766",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260927de52703"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/honor-magic9-pro-max/",
         "https://www.gizmodo.jp/article/2610-humanoid-robot-disposal-terminator-method/",
         "https://www.gizmodo.jp/article/standardtoilet-unique-patent-dpo/",
         "https://www.gizmodo.jp/article/qwenbook-ai-laptop-snapdragon-summit/",
@@ -604,8 +605,7 @@
         "https://www.gizmodo.jp/article/syncere-lume/",
         "https://www.gizmodo.jp/article/oddly-satisfying-just-right-feeling/",
         "https://www.gizmodo.jp/article/ai-datacenter-ewaste-wave/",
-        "https://www.gizmodo.jp/article/2609-sp500-10000-points-outlook-2027/",
-        "https://www.gizmodo.jp/article/2609-oppo-find-x10-pro-max-global/"
+        "https://www.gizmodo.jp/article/2609-sp500-10000-points-outlook-2027/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": "8JJ36OM0a5I"
 }
