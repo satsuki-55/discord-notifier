@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/crkgww5j0yzwo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261001de53672",
+        "https://news.web.nhk/newsweb/na/nd-20261001de53677",
         "https://news.web.nhk/newsweb/na/nd-20261001de53665",
         "https://news.web.nhk/newsweb/na/nd-20261001de53661",
         "https://news.web.nhk/newsweb/na/nd-20260930de53263",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260926de52625",
         "https://news.web.nhk/newsweb/na/nd-20260926de52624",
         "https://news.web.nhk/newsweb/na/nd-20260926de52614",
-        "https://news.web.nhk/newsweb/na/nd-20260926de52623",
-        "https://news.web.nhk/newsweb/na/nd-20260926de52615",
-        "https://news.web.nhk/newsweb/na/nd-20260926de52606"
+        "https://news.web.nhk/newsweb/na/nd-20260926de52623"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/mammut_junya-watanabe_frgmt_collaboration/",
