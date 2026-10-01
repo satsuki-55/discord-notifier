@@ -2,6 +2,8 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "t8tlXuUwyck",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "AJ9zlGdXeEA",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/ckge4eql4q7eo#0",
+        "https://www.bbc.co.uk/news/articles/cm74k417wpjxo#1",
         "https://www.bbc.co.uk/news/articles/cxr50yln55rgo#1",
         "https://www.bbc.co.uk/news/articles/cm74k417wpjxo#0",
         "https://www.bbc.co.uk/news/articles/cqkgvgd2jrgmo#0",
@@ -199,9 +201,7 @@
         "https://www.bbc.co.uk/news/articles/cwz0zvj4m1myo#1",
         "https://www.bbc.co.uk/news/videos/c8n5d0e0n6wdo#1",
         "https://www.bbc.co.uk/sport/football/articles/c9lyk46gekkeo#1",
-        "https://www.bbc.co.uk/news/articles/c674evx4p1x1o#1",
-        "https://www.bbc.co.uk/news/articles/c9gk54r61yldo#1",
-        "https://www.bbc.co.uk/news/articles/c920v3y1gjgpo#1"
+        "https://www.bbc.co.uk/news/articles/c674evx4p1x1o#1"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20261001de53735",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260927de52659"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2610-meta-ai-agent-shares-home-address/",
         "https://www.gizmodo.jp/article/noctua-jouleforce-air-cooling/",
         "https://www.gizmodo.jp/article/2610-inmo-air-3-recall/",
         "https://www.gizmodo.jp/article/jumping-jacks-gadget-71/",
@@ -604,8 +605,7 @@
         "https://www.gizmodo.jp/article/2609-oppo-find-x10-pro-max-global/",
         "https://www.gizmodo.jp/article/2609-iphone-18-pro-face-id-fix/",
         "https://www.gizmodo.jp/article/mujilabo-smooth-jersey-longsleeve-pullover/",
-        "https://www.gizmodo.jp/article/tire-particles-carp-anemia/",
-        "https://www.gizmodo.jp/article/2609-audio-technica-ath-al5nc/"
+        "https://www.gizmodo.jp/article/tire-particles-carp-anemia/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": "Ih1O3vIgcmA"
 }
