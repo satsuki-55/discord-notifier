@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "t8tlXuUwyck",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "AJ9zlGdXeEA",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c6y8z8kr5mk8o#0",
         "https://www.bbc.co.uk/news/articles/cwz0zvj4m1myo#1",
         "https://www.bbc.co.uk/news/articles/c6d949ydnw3po#1",
         "https://www.bbc.co.uk/news/articles/cxq636mpn19yo#1",
@@ -200,8 +201,7 @@
         "https://www.bbc.co.uk/news/articles/c6je85n2vyleo#0",
         "https://www.bbc.co.uk/news/articles/cve8x724e9ezo#1",
         "https://www.bbc.co.uk/news/articles/ck9qr8jy8ynyo#1",
-        "https://www.bbc.co.uk/news/articles/ck8d3vl9mj13o#1",
-        "https://www.bbc.co.uk/news/articles/cwe879654mj7o#1"
+        "https://www.bbc.co.uk/news/articles/ck8d3vl9mj13o#1"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20261001de53747",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260927de52675"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/standardtoilet-unique-patent-dpo/",
         "https://www.gizmodo.jp/article/qwenbook-ai-laptop-snapdragon-summit/",
         "https://www.gizmodo.jp/article/2610-meta-ai-agent-shares-home-address/",
         "https://www.gizmodo.jp/article/noctua-jouleforce-air-cooling/",
@@ -604,8 +605,7 @@
         "https://www.gizmodo.jp/article/ai-datacenter-ewaste-wave/",
         "https://www.gizmodo.jp/article/2609-sp500-10000-points-outlook-2027/",
         "https://www.gizmodo.jp/article/2609-oppo-find-x10-pro-max-global/",
-        "https://www.gizmodo.jp/article/2609-iphone-18-pro-face-id-fix/",
-        "https://www.gizmodo.jp/article/mujilabo-smooth-jersey-longsleeve-pullover/"
+        "https://www.gizmodo.jp/article/2609-iphone-18-pro-face-id-fix/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": "Ih1O3vIgcmA"
 }
