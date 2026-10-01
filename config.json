@@ -13,6 +13,12 @@
       "webhook": "magurohead"
     },
     {
+      "type": "youtube",
+      "name": "NON STYLEチャンネル",
+      "channel_id": "UCJcyQ-N0sbvwjYpDNXP9tsw",
+      "webhook": "nonstyle"
+    },
+    {
       "type": "rss",
       "name": "BBC Top Stories",
       "url": "https://feeds.bbci.co.uk/news/rss.xml",
