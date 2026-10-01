@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "t8tlXuUwyck",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "AJ9zlGdXeEA",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cvrl6g6rl081o#0",
         "https://www.bbc.co.uk/news/articles/crkgwglz4dd5o#1",
         "https://www.bbc.co.uk/news/articles/c6y8z8xeg8j1o#0",
         "https://www.bbc.co.uk/news/articles/cjn5d52d3lk5o#1",
@@ -200,10 +201,10 @@
         "https://www.bbc.co.uk/news/articles/cq39me84zrkdo#2",
         "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o#3",
         "https://www.bbc.co.uk/news/articles/cqgk52ln68xvo#0",
-        "https://www.bbc.co.uk/news/articles/cmwyz2p41ezvo#0",
-        "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o#0"
+        "https://www.bbc.co.uk/news/articles/cmwyz2p41ezvo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261001de53681",
         "https://news.web.nhk/newsweb/na/nd-20261001de53688",
         "https://news.web.nhk/newsweb/na/nd-20261001de53685",
         "https://news.web.nhk/newsweb/na/nd-20261001de53648",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260926de52608",
         "https://news.web.nhk/newsweb/na/nd-20260927de52636",
         "https://news.web.nhk/newsweb/na/nd-20260927de52631",
-        "https://news.web.nhk/newsweb/na/nd-20260927de52632",
-        "https://news.web.nhk/newsweb/na/nd-20260926de52625"
+        "https://news.web.nhk/newsweb/na/nd-20260927de52632"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2610-hello-kitty-smart-tag/",
         "https://www.gizmodo.jp/article/2610-pixel-10a-price-increase/",
         "https://www.gizmodo.jp/article/mammut_junya-watanabe_frgmt_collaboration/",
         "https://www.gizmodo.jp/article/2610-wici-one-wireless-rtx-5060-ti-egpu/",
@@ -604,8 +605,7 @@
         "https://www.gizmodo.jp/article/japan-summer-2026-extreme-weather/",
         "https://www.gizmodo.jp/article/2609-mediatek-dimensity-9600-pro-2nm-chip/",
         "https://www.gizmodo.jp/article/vixion2-har/",
-        "https://www.gizmodo.jp/article/save-smartphone-storage-space-with-pcloud/",
-        "https://www.gizmodo.jp/article/94c8e5cb-c4f0-4ea7-ae18-eadecf38aa5e/"
+        "https://www.gizmodo.jp/article/save-smartphone-storage-space-with-pcloud/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": "Ih1O3vIgcmA"
 }
