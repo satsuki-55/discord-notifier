@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cqn4knlj9v81o#2"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260930de53274",
         "https://news.web.nhk/newsweb/na/nd-20261001de53573",
         "https://news.web.nhk/newsweb/na/nd-20261001de53572",
         "https://news.web.nhk/newsweb/na/nd-20261001de53564",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260926de52568",
         "https://news.web.nhk/newsweb/na/nd-20260926de52569",
         "https://news.web.nhk/newsweb/na/nd-20260920de51339",
-        "https://news.web.nhk/newsweb/na/nd-20260926de52563",
-        "https://news.web.nhk/newsweb/na/nd-20260926de52560"
+        "https://news.web.nhk/newsweb/na/nd-20260926de52563"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-sanwa-supply-portable-battery-btl-rdc46/",
