@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cqn4knlj9v81o#2"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261001de53556",
         "https://news.web.nhk/newsweb/na/nd-20261001de53555",
         "https://news.web.nhk/newsweb/na/nd-20261001de53557",
         "https://news.web.nhk/newsweb/na/nd-20260930de53459",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260926de52546",
         "https://news.web.nhk/newsweb/na/nd-20260923de52004",
         "https://news.web.nhk/newsweb/na/nd-20260926de52549",
-        "https://news.web.nhk/newsweb/na/nd-20260926de52550",
-        "https://news.web.nhk/newsweb/na/nd-20260926de52545"
+        "https://news.web.nhk/newsweb/na/nd-20260926de52550"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/ace-tokyo-2026/",
