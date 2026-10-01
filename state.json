@@ -2,6 +2,8 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "t8tlXuUwyck",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "AJ9zlGdXeEA",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c6rm9mnn0w3eo#1",
+        "https://www.bbc.co.uk/news/articles/c3gr5ynd5p1o#1",
         "https://www.bbc.co.uk/news/articles/cr89j4g7v05wo#1",
         "https://www.bbc.co.uk/news/articles/c6n9w0ypjwl9o#1",
         "https://www.bbc.co.uk/news/articles/ckqxvnpy7e49o#1",
@@ -199,9 +201,7 @@
         "https://www.bbc.co.uk/news/articles/cv5yjzz803edo#2",
         "https://www.bbc.co.uk/news/articles/cqn4knlj9v81o#2",
         "https://www.bbc.co.uk/news/articles/c6pwl9g9ne1lo#2",
-        "https://www.bbc.co.uk/news/articles/cq70dgdndr46o#2",
-        "https://www.bbc.co.uk/news/articles/cklye5e40531o#1",
-        "https://www.bbc.co.uk/news/articles/cvp8d0nezkeko#0"
+        "https://www.bbc.co.uk/news/articles/cq70dgdndr46o#2"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20261001de53536",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260926de52535"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2610-anthropic-sonnet-5-5-release/",
         "https://www.gizmodo.jp/article/e52ffa0a-e0fa-4189-88da-b4032501d23b/",
         "https://www.gizmodo.jp/article/nitori-oil-pot-gin/",
         "https://www.gizmodo.jp/article/2609-pillow-speaker-audible-review/",
@@ -604,7 +605,6 @@
         "https://www.gizmodo.jp/article/2609-tokyo-game-show-2026-cancelled/",
         "https://www.gizmodo.jp/article/2609-ios27-new-features/",
         "https://www.gizmodo.jp/article/2609-huawei-pura-x-wide-android-phone/",
-        "https://www.gizmodo.jp/article/2609-jitrainno-ai-e-paper-frame/",
-        "https://www.gizmodo.jp/article/2609-foldable-emergency-toilet/"
+        "https://www.gizmodo.jp/article/2609-jitrainno-ai-e-paper-frame/"
     ]
 }
