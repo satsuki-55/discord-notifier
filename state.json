@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cr3eqk15ld14o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261001de53656",
         "https://news.web.nhk/newsweb/na/nd-20261001de53615",
         "https://news.web.nhk/newsweb/na/nd-20261001de53647",
         "https://news.web.nhk/newsweb/na/nd-20261001de53651",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260926de52605",
         "https://news.web.nhk/newsweb/na/nd-20260926de52604",
         "https://news.web.nhk/newsweb/na/nd-20260926de52588",
-        "https://news.web.nhk/newsweb/na/nd-20260926de52602",
-        "https://news.web.nhk/newsweb/na/nd-20260926de52598"
+        "https://news.web.nhk/newsweb/na/nd-20260926de52602"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-wici-one-wireless-rtx-5060-ti-egpu/",
