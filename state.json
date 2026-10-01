@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "iAaz7oDoK7Y",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "AJ9zlGdXeEA",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cv8e30enrkxyo#0",
         "https://www.bbc.co.uk/news/articles/cqgmrm7xd8wyo#0",
         "https://www.bbc.co.uk/news/articles/cqgmrm7xd8wyo#1",
         "https://www.bbc.co.uk/news/articles/c6rm9mnn0w3eo#1",
@@ -200,10 +201,10 @@
         "https://www.bbc.co.uk/news/articles/cmvgyyw2jeego#1",
         "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo#1",
         "https://www.bbc.co.uk/news/articles/cw24jm9rryy3o#0",
-        "https://www.bbc.co.uk/news/articles/cv5yjzz803edo#2",
-        "https://www.bbc.co.uk/news/articles/cqn4knlj9v81o#2"
+        "https://www.bbc.co.uk/news/articles/cv5yjzz803edo#2"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261001de53581",
         "https://news.web.nhk/newsweb/na/nd-20261001de53558",
         "https://news.web.nhk/newsweb/na/nd-20261001de53579",
         "https://news.web.nhk/newsweb/na/nd-20260930de53274",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260926de52577",
         "https://news.web.nhk/newsweb/na/nd-20260926de52565",
         "https://news.web.nhk/newsweb/na/nd-20260926de52564",
-        "https://news.web.nhk/newsweb/na/nd-20260926de52568",
-        "https://news.web.nhk/newsweb/na/nd-20260926de52569"
+        "https://news.web.nhk/newsweb/na/nd-20260926de52568"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-sanwa-supply-portable-battery-btl-rdc46/",
