@@ -62,9 +62,11 @@ def fetch_youtube_latest(channel_id):
     )
 
     try:
-        with urllib.request.urlopen(request) as response:
+        with urllib.request.urlopen(request, timeout=30) as response:
             xml_data = response.read()
     except urllib.error.HTTPError as error:
+        if error.code == 404:
+            return fetch_youtube_latest_from_page(channel_id)
         raise RuntimeError(f"YouTube RSS fetch failed: {error.code} {error.reason} ({rss_url})") from error
 
     root = ET.fromstring(xml_data)
@@ -88,6 +90,38 @@ def fetch_youtube_latest(channel_id):
         "title": title,
         "link": link,
     }
+
+
+def fetch_youtube_latest_from_page(channel_id):
+    url = f"https://www.youtube.com/channel/{channel_id}/videos"
+    request = urllib.request.Request(url, headers=REQUEST_HEADERS)
+    with urllib.request.urlopen(request, timeout=30) as response:
+        page = response.read().decode("utf-8")
+    match = re.search(r"(?:var\s+)?ytInitialData\s*=\s*", page)
+    if match is None:
+        raise RuntimeError("YouTube video list data not found")
+    data, _ = json.JSONDecoder().raw_decode(page[match.end():])
+    tabs = data.get("contents", {}).get("twoColumnBrowseResultsRenderer", {}).get("tabs", [])
+    for tab in tabs:
+        renderer = tab.get("tabRenderer", {})
+        if not renderer.get("selected"):
+            continue
+        items = renderer.get("content", {}).get("richGridRenderer", {}).get("contents", [])
+        for item in items:
+            content = item.get("richItemRenderer", {}).get("content", {})
+            video = content.get("videoRenderer", {})
+            video_id = video.get("videoId")
+            title_data = video.get("title", {})
+            title = title_data.get("simpleText") or "".join(
+                run.get("text", "") for run in title_data.get("runs", [])
+            )
+            lockup = content.get("lockupViewModel", {})
+            if lockup.get("contentType") == "LOCKUP_CONTENT_TYPE_VIDEO":
+                video_id = lockup.get("contentId")
+                title = lockup.get("metadata", {}).get("lockupMetadataViewModel", {}).get("title", {}).get("content")
+            if video_id and title:
+                return {"id": video_id, "title": title, "link": f"https://youtu.be/{video_id}"}
+    raise RuntimeError("YouTube video list contains no readable videos")
 
 
 def strip_html(text):
