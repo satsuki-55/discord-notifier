@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cv5yjzz803edo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261001de53617",
         "https://news.web.nhk/newsweb/na/nd-20261001de53618",
         "https://news.web.nhk/newsweb/na/nd-20261001de53607",
         "https://news.web.nhk/newsweb/na/nd-20261001de53613",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260926de52595",
         "https://news.web.nhk/newsweb/na/nd-20260926de52590",
         "https://news.web.nhk/newsweb/na/nd-20260926de52587",
-        "https://news.web.nhk/newsweb/na/nd-20260926de52586",
-        "https://news.web.nhk/newsweb/na/nd-20260926de52585"
+        "https://news.web.nhk/newsweb/na/nd-20260926de52586"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-fire-tv-stick-4k-new-model/",
