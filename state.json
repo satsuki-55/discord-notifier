@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cw24jm9rryy3o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261001de53613",
         "https://news.web.nhk/newsweb/na/nd-20261001de53590",
         "https://news.web.nhk/newsweb/na/nd-20261001de53594",
         "https://news.web.nhk/newsweb/na/nd-20261001de53606",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260926de52586",
         "https://news.web.nhk/newsweb/na/nd-20260926de52585",
         "https://news.web.nhk/newsweb/na/nd-20260926de52583",
-        "https://news.web.nhk/newsweb/na/nd-20260923de52037",
-        "https://news.web.nhk/newsweb/na/nd-20260926de52582"
+        "https://news.web.nhk/newsweb/na/nd-20260923de52037"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-samsung-smarttag3/",
