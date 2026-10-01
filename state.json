@@ -2,6 +2,8 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "t8tlXuUwyck",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "AJ9zlGdXeEA",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cwz0zvj4m1myo#1",
+        "https://www.bbc.co.uk/news/articles/c6d949ydnw3po#1",
         "https://www.bbc.co.uk/news/articles/cxq636mpn19yo#1",
         "https://www.bbc.co.uk/news/articles/c6d949ydnw3po#0",
         "https://www.bbc.co.uk/news/articles/cq20v0exmv2eo#0",
@@ -199,11 +201,10 @@
         "https://www.bbc.co.uk/news/articles/cve8x724e9ezo#1",
         "https://www.bbc.co.uk/news/articles/ck9qr8jy8ynyo#1",
         "https://www.bbc.co.uk/news/articles/ck8d3vl9mj13o#1",
-        "https://www.bbc.co.uk/news/articles/cwe879654mj7o#1",
-        "https://www.bbc.co.uk/news/articles/cqn8m342rgk9o#1",
-        "https://www.bbc.co.uk/news/articles/cwz0zvj4m1myo#1"
+        "https://www.bbc.co.uk/news/articles/cwe879654mj7o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261001de53745",
         "https://news.web.nhk/newsweb/na/nd-20261001de53703",
         "https://news.web.nhk/newsweb/na/nd-20261001de53729",
         "https://news.web.nhk/newsweb/na/nd-20261001de53735",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260927de52639",
         "https://news.web.nhk/newsweb/na/nd-20260924de52163",
         "https://news.web.nhk/newsweb/na/nd-20260927de52675",
-        "https://news.web.nhk/newsweb/na/nd-20260927de52673",
-        "https://news.web.nhk/newsweb/na/nd-20260927de52671"
+        "https://news.web.nhk/newsweb/na/nd-20260927de52673"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/qwenbook-ai-laptop-snapdragon-summit/",
