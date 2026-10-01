@@ -54,6 +54,25 @@ def save_json(path, data):
 
 
 def fetch_youtube_latest(channel_id):
+    try:
+        return fetch_youtube_latest_from_rss(channel_id)
+    except (urllib.error.URLError, TimeoutError, OSError, ET.ParseError, ValueError) as error:
+        if isinstance(error, urllib.error.HTTPError):
+            reason = f"HTTP {error.code} {error.reason}"
+        else:
+            reason = f"{type(error).__name__}: {error}"
+        print(f"[YouTube:{channel_id}] RSS failed ({reason}); trying official video list.")
+        try:
+            latest = fetch_youtube_latest_from_page(channel_id)
+        except (urllib.error.URLError, TimeoutError, OSError, ValueError, RuntimeError) as page_error:
+            raise RuntimeError(
+                f"YouTube RSS failed ({reason}); official video list also failed: {page_error}"
+            ) from page_error
+        print(f"[YouTube:{channel_id}] Official video list fetch succeeded.")
+        return latest
+
+
+def fetch_youtube_latest_from_rss(channel_id):
     rss_url = f"https://www.youtube.com/feeds/videos.xml?channel_id={channel_id}"
 
     request = urllib.request.Request(
@@ -61,13 +80,8 @@ def fetch_youtube_latest(channel_id):
         headers=REQUEST_HEADERS,
     )
 
-    try:
-        with urllib.request.urlopen(request, timeout=30) as response:
-            xml_data = response.read()
-    except urllib.error.HTTPError as error:
-        if error.code == 404:
-            return fetch_youtube_latest_from_page(channel_id)
-        raise RuntimeError(f"YouTube RSS fetch failed: {error.code} {error.reason} ({rss_url})") from error
+    with urllib.request.urlopen(request, timeout=30) as response:
+        xml_data = response.read()
 
     root = ET.fromstring(xml_data)
 
@@ -81,8 +95,10 @@ def fetch_youtube_latest(channel_id):
     if entry is None:
         return None
 
-    video_id = entry.find("yt:videoId", ns).text
-    title = entry.find("atom:title", ns).text
+    video_id = entry.findtext("yt:videoId", namespaces=ns)
+    title = entry.findtext("atom:title", namespaces=ns)
+    if not video_id or not title:
+        raise ValueError("YouTube RSS entry is missing video ID or title")
     link = f"https://youtu.be/{video_id}"
 
     return {
