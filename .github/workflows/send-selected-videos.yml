@@ -1,0 +1,30 @@
+name: Send selected NON STYLE videos
+
+on:
+  workflow_dispatch:
+    inputs:
+      video_ids:
+        description: 'YouTube video IDs as a JSON array, in sending order (max 25)'
+        required: true
+        type: string
+
+permissions:
+  contents: read
+
+concurrency:
+  group: send-selected-nonstyle-videos
+  cancel-in-progress: false
+
+jobs:
+  send:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Send selected videos
+        run: python3 send_selected_videos.py
+        env:
+          SELECTED_VIDEO_IDS: ${{ inputs.video_ids }}
+          DISCORD_WEBHOOK_NONSTYLE: ${{ secrets.DISCORD_WEBHOOK_NONSTYLE }}
