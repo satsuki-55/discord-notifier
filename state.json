@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "t8tlXuUwyck",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "AJ9zlGdXeEA",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c90klkz8j06vo#0",
         "https://www.bbc.co.uk/news/videos/c6ge4lyy9x0no#0",
         "https://www.bbc.co.uk/news/articles/cqx2z23xj555o#1",
         "https://www.bbc.co.uk/news/articles/cqx2z23xj555o#0",
@@ -200,10 +201,10 @@
         "https://www.bbc.co.uk/news/articles/c920v3y1gjgpo#1",
         "https://www.bbc.co.uk/news/articles/cmrergq3j7lgo#1",
         "https://www.bbc.co.uk/news/articles/cjkg7k6z9296o#1",
-        "https://www.bbc.co.uk/news/articles/c6ge43qx83eno#1",
-        "https://www.bbc.co.uk/news/articles/cmvgyyw2jeego#3"
+        "https://www.bbc.co.uk/news/articles/c6ge43qx83eno#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261001de53728",
         "https://news.web.nhk/newsweb/na/nd-20261001de53731",
         "https://news.web.nhk/newsweb/na/nd-20261001de53721",
         "https://news.web.nhk/newsweb/na/nd-20261001de53714",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260927de52658",
         "https://news.web.nhk/newsweb/na/nd-20260927de52650",
         "https://news.web.nhk/newsweb/na/nd-20260927de52651",
-        "https://news.web.nhk/newsweb/na/nd-20260927de52652",
-        "https://news.web.nhk/newsweb/na/nd-20260927de52647"
+        "https://news.web.nhk/newsweb/na/nd-20260927de52652"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/jumping-jacks-gadget-71/",
