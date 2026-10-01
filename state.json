@@ -2,6 +2,8 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "t8tlXuUwyck",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "AJ9zlGdXeEA",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c93429dg425o#0",
+        "https://www.bbc.co.uk/news/articles/c93429dg425o#1",
         "https://www.bbc.co.uk/news/articles/cvrl6g6rl081o#0",
         "https://www.bbc.co.uk/news/articles/crkgwglz4dd5o#1",
         "https://www.bbc.co.uk/news/articles/c6y8z8xeg8j1o#0",
@@ -199,11 +201,10 @@
         "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o#1",
         "https://www.bbc.co.uk/news/articles/cklye5e40531o#3",
         "https://www.bbc.co.uk/news/articles/cq39me84zrkdo#2",
-        "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o#3",
-        "https://www.bbc.co.uk/news/articles/cqgk52ln68xvo#0",
-        "https://www.bbc.co.uk/news/articles/cmwyz2p41ezvo#0"
+        "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o#3"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261001de53694",
         "https://news.web.nhk/newsweb/na/nd-20261001de53693",
         "https://news.web.nhk/newsweb/na/nd-20261001de53695",
         "https://news.web.nhk/newsweb/na/nd-20261001de53691",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260927de52641",
         "https://news.web.nhk/newsweb/na/nd-20260927de52643",
         "https://news.web.nhk/newsweb/na/nd-20260927de52642",
-        "https://news.web.nhk/newsweb/na/nd-20260927de52637",
-        "https://news.web.nhk/newsweb/na/nd-20260926de52608"
+        "https://news.web.nhk/newsweb/na/nd-20260927de52637"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-hello-kitty-smart-tag/",
