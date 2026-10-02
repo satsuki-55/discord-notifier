@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cvzez7k0pn40o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261002de53829",
         "https://news.web.nhk/newsweb/na/nd-20261002de53869",
         "https://news.web.nhk/newsweb/na/nd-20261002de53873",
         "https://news.web.nhk/newsweb/na/nd-20261002de53870",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260928de52929",
         "https://news.web.nhk/newsweb/na/nd-20260930de53264",
         "https://news.web.nhk/newsweb/na/nd-20260929de53102",
-        "https://news.web.nhk/newsweb/na/nd-20260928de52927",
-        "https://news.web.nhk/newsweb/na/nd-20260928de52895"
+        "https://news.web.nhk/newsweb/na/nd-20260928de52927"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-compact-clamp-power-strip/",
