@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cmlyewr0lnj3o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261002de53870",
         "https://news.web.nhk/newsweb/na/nd-20261002de53867",
         "https://news.web.nhk/newsweb/na/nd-20261002de53858",
         "https://news.web.nhk/newsweb/na/nd-20261002de53840",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260928de52927",
         "https://news.web.nhk/newsweb/na/nd-20260928de52895",
         "https://news.web.nhk/newsweb/na/nd-20260928de52850",
-        "https://news.web.nhk/newsweb/na/nd-20260930de53235",
-        "https://news.web.nhk/newsweb/na/nd-20260929de53221"
+        "https://news.web.nhk/newsweb/na/nd-20260930de53235"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2610-compact-clamp-power-strip/",
         "https://www.gizmodo.jp/article/2610-sp500-negative-returns-equal-weight-bofa/",
         "https://www.gizmodo.jp/article/2610-fairphone-fairbuds-2-leak/",
         "https://www.gizmodo.jp/article/2610-sony-hello-kitty-headphone-collaboration/",
@@ -604,8 +605,7 @@
         "https://www.gizmodo.jp/article/mitsuoka-la1-opencar/",
         "https://www.gizmodo.jp/article/leap-seconds-were-a-headache-now-timekeepers-are-considering-a-leap-hour-vqz/",
         "https://www.gizmodo.jp/article/mizuno_wave-rider-30-2/",
-        "https://www.gizmodo.jp/article/musk-wants-a-self-growing-moon-city-in-10-years-heres-when-the-water-runs-out/",
-        "https://www.gizmodo.jp/article/google-may-finally-release-laptops-you-cant-just-ignore/"
+        "https://www.gizmodo.jp/article/musk-wants-a-self-growing-moon-city-in-10-years-heres-when-the-water-runs-out/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": "8JJ36OM0a5I"
 }
