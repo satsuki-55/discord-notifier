@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "qYwQQ7Fxq-8",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "AJ9zlGdXeEA",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/crn8e86y5n0zo#0",
         "https://www.bbc.co.uk/news/articles/cm0e3ed1er1yo#0",
         "https://www.bbc.co.uk/news/articles/cm0e3ed1er1yo#1",
         "https://www.bbc.co.uk/news/articles/c933k3gk72x6o#1",
@@ -200,10 +201,10 @@
         "https://www.bbc.co.uk/news/articles/cw98070pq999o#0",
         "https://www.bbc.co.uk/news/articles/cv62kp9enz08o#0",
         "https://www.bbc.co.uk/news/articles/cqde01j1p3gxo#0",
-        "https://www.bbc.co.uk/news/videos/crkgwvqjk0g7o#1",
-        "https://www.bbc.co.uk/news/articles/cm750pyz5r0eo#1"
+        "https://www.bbc.co.uk/news/videos/crkgwvqjk0g7o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261002de53951",
         "https://news.web.nhk/newsweb/na/nd-20261002de53868",
         "https://news.web.nhk/newsweb/na/nd-20261002de53939",
         "https://news.web.nhk/newsweb/na/nd-20261002de53932",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260930de53347",
         "https://news.web.nhk/newsweb/na/nd-20260930de53327",
         "https://news.web.nhk/newsweb/na/nd-20260930de53273",
-        "https://news.web.nhk/newsweb/na/nd-20260930de53258",
-        "https://news.web.nhk/newsweb/na/nd-20260930de53259"
+        "https://news.web.nhk/newsweb/na/nd-20260930de53258"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-polaroid-mod-camera/",
