@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/c9zrz5jz86kjo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261002de53984",
         "https://news.web.nhk/newsweb/na/nd-20260930de53426",
         "https://news.web.nhk/newsweb/na/nd-20261002de53971",
         "https://news.web.nhk/newsweb/na/nd-20260930de53373",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260930de53457",
         "https://news.web.nhk/newsweb/na/nd-20260930de53430",
         "https://news.web.nhk/newsweb/na/nd-20260930de53464",
-        "https://news.web.nhk/newsweb/na/nd-20260930de53463",
-        "https://news.web.nhk/newsweb/na/nd-20260930de53460"
+        "https://news.web.nhk/newsweb/na/nd-20260930de53463"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/3d_printed_fabric_power_generation/",
         "https://www.gizmodo.jp/article/2610-ram-shortage-2028/",
         "https://www.gizmodo.jp/article/2610-fosi-audio-disc-nano-cd-player/",
         "https://www.gizmodo.jp/article/2610-astrotoo-divoom-pixel-art-speaker/",
@@ -604,8 +605,7 @@
         "https://www.gizmodo.jp/article/rimowa-faber-castell_artist_case/",
         "https://www.gizmodo.jp/article/2609-gemini-security-incident-may/",
         "https://www.gizmodo.jp/article/heres-everything-you-need-to-know-about-the-first-googlebooks/",
-        "https://www.gizmodo.jp/article/2609-realme-harry-potter-edition-smartphone/",
-        "https://www.gizmodo.jp/article/2609-iphone-duo-wallpapers-download/"
+        "https://www.gizmodo.jp/article/2609-realme-harry-potter-edition-smartphone/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": "8JJ36OM0a5I"
 }
