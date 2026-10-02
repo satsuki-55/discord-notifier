@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/videos/crkgwvqjk0g7o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260930de53303",
+        "https://news.web.nhk/newsweb/na/nd-20261002de53970",
         "https://news.web.nhk/newsweb/na/nd-20261002de53966",
         "https://news.web.nhk/newsweb/na/nd-20260930de53266",
         "https://news.web.nhk/newsweb/na/nd-20261002de53960",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260930de53373",
         "https://news.web.nhk/newsweb/na/nd-20260930de53437",
         "https://news.web.nhk/newsweb/na/nd-20260930de53423",
-        "https://news.web.nhk/newsweb/na/nd-20260930de53415",
-        "https://news.web.nhk/newsweb/na/nd-20260930de53416",
-        "https://news.web.nhk/newsweb/na/nd-20260930de53379"
+        "https://news.web.nhk/newsweb/na/nd-20260930de53415"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-astrotoo-divoom-pixel-art-speaker/",
