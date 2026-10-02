@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cmkg8dpwy25po#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260930de53277",
         "https://news.web.nhk/newsweb/na/nd-20261002de53795",
         "https://news.web.nhk/newsweb/na/nd-20260930de53229",
         "https://news.web.nhk/newsweb/na/nd-20261002de53794",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260930de53389",
         "https://news.web.nhk/newsweb/na/nd-20260930de53296",
         "https://news.web.nhk/newsweb/na/nd-20260930de53287",
-        "https://news.web.nhk/newsweb/na/nd-20260930de53280",
-        "https://news.web.nhk/newsweb/na/nd-20260930de53278"
+        "https://news.web.nhk/newsweb/na/nd-20260930de53280"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-google-gemini-4-argon-release/",
