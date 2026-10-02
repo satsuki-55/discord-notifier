@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cqx2ze420kpyo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261003de54013",
         "https://news.web.nhk/newsweb/na/nd-20261002de53962",
         "https://news.web.nhk/newsweb/na/nd-20261003de54012",
         "https://news.web.nhk/newsweb/na/nd-20261003de54011",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261001de53511",
         "https://news.web.nhk/newsweb/na/nd-20261001de53508",
         "https://news.web.nhk/newsweb/na/nd-20261001de53507",
-        "https://news.web.nhk/newsweb/na/nd-20260930de53490",
-        "https://news.web.nhk/newsweb/na/nd-20261001de53502"
+        "https://news.web.nhk/newsweb/na/nd-20260930de53490"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/save-data-on-youtube-cloud-u2i/",
