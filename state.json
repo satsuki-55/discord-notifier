@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cmkg8dpwy25po#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261002de53802",
         "https://news.web.nhk/newsweb/na/nd-20260930de53277",
         "https://news.web.nhk/newsweb/na/nd-20261002de53795",
         "https://news.web.nhk/newsweb/na/nd-20260930de53229",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260930de53395",
         "https://news.web.nhk/newsweb/na/nd-20260930de53389",
         "https://news.web.nhk/newsweb/na/nd-20260930de53296",
-        "https://news.web.nhk/newsweb/na/nd-20260930de53287",
-        "https://news.web.nhk/newsweb/na/nd-20260930de53280"
+        "https://news.web.nhk/newsweb/na/nd-20260930de53287"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/dig-energy-ground-source-heat/",
         "https://www.gizmodo.jp/article/2610-google-gemini-4-argon-release/",
         "https://www.gizmodo.jp/article/honor-magic9-pro-max/",
         "https://www.gizmodo.jp/article/2610-humanoid-robot-disposal-terminator-method/",
@@ -604,8 +605,7 @@
         "https://www.gizmodo.jp/article/smart-glasses-privacy-zuckoff/",
         "https://www.gizmodo.jp/article/camp-snap-110d-camera/",
         "https://www.gizmodo.jp/article/syncere-lume/",
-        "https://www.gizmodo.jp/article/oddly-satisfying-just-right-feeling/",
-        "https://www.gizmodo.jp/article/ai-datacenter-ewaste-wave/"
+        "https://www.gizmodo.jp/article/oddly-satisfying-just-right-feeling/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": "8JJ36OM0a5I"
 }
