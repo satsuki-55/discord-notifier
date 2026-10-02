@@ -204,6 +204,8 @@
         "https://www.bbc.co.uk/news/articles/c65ym1dyn92mo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261002de53799",
+        "https://news.web.nhk/newsweb/na/nd-20261002de53820",
         "https://news.web.nhk/newsweb/na/nd-20261002de53922",
         "https://news.web.nhk/newsweb/na/nd-20261002de53908",
         "https://news.web.nhk/newsweb/na/nd-20261002de53904",
@@ -401,9 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260930de53257",
         "https://news.web.nhk/newsweb/na/nd-20260929de53224",
         "https://news.web.nhk/newsweb/na/nd-20260930de53227",
-        "https://news.web.nhk/newsweb/na/nd-20260930de53370",
-        "https://news.web.nhk/newsweb/na/nd-20260930de53372",
-        "https://news.web.nhk/newsweb/na/nd-20260930de53366"
+        "https://news.web.nhk/newsweb/na/nd-20260930de53370"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/gaming_keyboard_stability_over_speed/",
