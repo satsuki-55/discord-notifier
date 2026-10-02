@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/cmkg8dpwy25po#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261002de53783",
         "https://news.web.nhk/newsweb/na/nd-20261002de53802",
         "https://news.web.nhk/newsweb/na/nd-20260930de53277",
         "https://news.web.nhk/newsweb/na/nd-20261002de53795",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260928de52896",
         "https://news.web.nhk/newsweb/na/nd-20260930de53395",
         "https://news.web.nhk/newsweb/na/nd-20260930de53389",
-        "https://news.web.nhk/newsweb/na/nd-20260930de53296",
-        "https://news.web.nhk/newsweb/na/nd-20260930de53287"
+        "https://news.web.nhk/newsweb/na/nd-20260930de53296"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/dig-energy-ground-source-heat/",
