@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "6c-4elVTGYE",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "AJ9zlGdXeEA",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c6y9z9r4ejzwo#0",
         "https://www.bbc.co.uk/news/articles/cqn747k6pem0o#0",
         "https://www.bbc.co.uk/news/articles/c6vgyg824m02o#1",
         "https://www.bbc.co.uk/news/articles/cjr4v9g14vygo#0",
@@ -200,8 +201,7 @@
         "https://www.bbc.co.uk/news/articles/cwe879654mj7o#0",
         "https://www.bbc.co.uk/news/articles/cmkg8dpwy25po#1",
         "https://www.bbc.co.uk/news/articles/cmkg8dpwy25po#0",
-        "https://www.bbc.co.uk/news/videos/ck1e5w239epjo#1",
-        "https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno#0"
+        "https://www.bbc.co.uk/news/videos/ck1e5w239epjo#1"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20261002de53786",
@@ -406,6 +406,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260930de53237"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2610-google-gemini-4-argon-release/",
         "https://www.gizmodo.jp/article/honor-magic9-pro-max/",
         "https://www.gizmodo.jp/article/2610-humanoid-robot-disposal-terminator-method/",
         "https://www.gizmodo.jp/article/standardtoilet-unique-patent-dpo/",
@@ -604,8 +605,7 @@
         "https://www.gizmodo.jp/article/camp-snap-110d-camera/",
         "https://www.gizmodo.jp/article/syncere-lume/",
         "https://www.gizmodo.jp/article/oddly-satisfying-just-right-feeling/",
-        "https://www.gizmodo.jp/article/ai-datacenter-ewaste-wave/",
-        "https://www.gizmodo.jp/article/2609-sp500-10000-points-outlook-2027/"
+        "https://www.gizmodo.jp/article/ai-datacenter-ewaste-wave/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": "8JJ36OM0a5I"
 }
