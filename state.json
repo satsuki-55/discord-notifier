@@ -2,6 +2,8 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "qYwQQ7Fxq-8",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "AJ9zlGdXeEA",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/videos/cwd080ryxd42o#0",
+        "https://www.bbc.co.uk/news/articles/cqkgvgd2jrgmo#1",
         "https://www.bbc.co.uk/sport/football/articles/cvwyz0jx3znyo#1",
         "https://www.bbc.co.uk/news/articles/crpd0d0jl0y0o#1",
         "https://www.bbc.co.uk/news/articles/cr1585y0y90go#1",
@@ -199,11 +201,10 @@
         "https://www.bbc.co.uk/news/articles/c65ym1dyn92mo#1",
         "https://www.bbc.co.uk/news/articles/c5j9xmgz8eero#1",
         "https://www.bbc.co.uk/news/articles/cw0kl62zn0p7o#1",
-        "https://www.bbc.co.uk/news/articles/cvzez7k0pn40o#0",
-        "https://www.bbc.co.uk/news/articles/cmwyz5v5zdpdo#1",
-        "https://www.bbc.co.uk/news/articles/cvzez7k0pn40o#1"
+        "https://www.bbc.co.uk/news/articles/cvzez7k0pn40o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261002de53872",
         "https://news.web.nhk/newsweb/na/nd-20261002de53874",
         "https://news.web.nhk/newsweb/na/nd-20261002de53829",
         "https://news.web.nhk/newsweb/na/nd-20261002de53869",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260929de53022",
         "https://news.web.nhk/newsweb/na/nd-20260929de52969",
         "https://news.web.nhk/newsweb/na/nd-20260928de52929",
-        "https://news.web.nhk/newsweb/na/nd-20260930de53264",
-        "https://news.web.nhk/newsweb/na/nd-20260929de53102"
+        "https://news.web.nhk/newsweb/na/nd-20260930de53264"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-compact-clamp-power-strip/",
