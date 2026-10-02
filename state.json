@@ -2,6 +2,9 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "XZ_uZZmR6X0",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "AJ9zlGdXeEA",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c5398kkx27ewo#0",
+        "https://www.bbc.co.uk/news/articles/cq4grggz2en4o#1",
+        "https://www.bbc.co.uk/news/articles/cwr7d778ez2go#1",
         "https://www.bbc.co.uk/news/articles/cv62kp9enz08o#0",
         "https://www.bbc.co.uk/news/videos/c914d43gg2zdo#1",
         "https://www.bbc.co.uk/news/articles/c68xk0ndqz8jo#2",
@@ -198,12 +201,10 @@
         "https://www.bbc.co.uk/news/articles/cm986x65we88o#0",
         "https://www.bbc.co.uk/news/articles/c9zrz5jz86kjo#1",
         "https://www.bbc.co.uk/news/articles/ckvgyzjpy2eno#0",
-        "https://www.bbc.co.uk/news/articles/ck7v424j7l0no#0",
-        "https://www.bbc.co.uk/news/articles/cw62jje658dlo#0",
-        "https://www.bbc.co.uk/news/videos/c6n4ken4n7n7o#1",
-        "https://www.bbc.co.uk/news/videos/c6eq84800zlzo#1"
+        "https://www.bbc.co.uk/news/articles/ck7v424j7l0no#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260930de53373",
         "https://news.web.nhk/newsweb/na/nd-20261002de53972",
         "https://news.web.nhk/newsweb/na/nd-20260930de53423",
         "https://news.web.nhk/newsweb/na/nd-20261002de53976",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260930de53463",
         "https://news.web.nhk/newsweb/na/nd-20260930de53460",
         "https://news.web.nhk/newsweb/na/nd-20260930de53453",
-        "https://news.web.nhk/newsweb/na/nd-20260930de53426",
-        "https://news.web.nhk/newsweb/na/nd-20260930de53425"
+        "https://news.web.nhk/newsweb/na/nd-20260930de53426"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-fosi-audio-disc-nano-cd-player/",
