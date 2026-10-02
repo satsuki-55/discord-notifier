@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "qYwQQ7Fxq-8",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "AJ9zlGdXeEA",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c6y9z9r4ejzwo#1",
         "https://www.bbc.co.uk/news/articles/cmwyzye21463o#1",
         "https://www.bbc.co.uk/sport/football/articles/cqn7470513n0o#1",
         "https://www.bbc.co.uk/news/videos/c914d43y7xn4o#1",
@@ -200,10 +201,10 @@
         "https://www.bbc.co.uk/news/articles/c6grvpppvw5eo#1",
         "https://www.bbc.co.uk/news/articles/c9zrz5jz86kjo#0",
         "https://www.bbc.co.uk/news/articles/cky9z31yj8ggo#1",
-        "https://www.bbc.co.uk/sport/athletics/articles/cm36lgdk9g33o#1",
-        "https://www.bbc.co.uk/news/articles/cxm2qmpy57ggo#1"
+        "https://www.bbc.co.uk/sport/athletics/articles/cm36lgdk9g33o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261002de53932",
         "https://news.web.nhk/newsweb/na/nd-20261002de53930",
         "https://news.web.nhk/newsweb/na/nd-20261002de53905",
         "https://news.web.nhk/newsweb/na/nd-20261002de53926",
@@ -402,10 +403,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260930de53258",
         "https://news.web.nhk/newsweb/na/nd-20260930de53259",
         "https://news.web.nhk/newsweb/na/nd-20260930de53398",
-        "https://news.web.nhk/newsweb/na/nd-20260930de53385",
-        "https://news.web.nhk/newsweb/na/nd-20260930de53330"
+        "https://news.web.nhk/newsweb/na/nd-20260930de53385"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/the-motel-ai-music-controversy/",
         "https://www.gizmodo.jp/article/2610-foldable-mini-washing-machine-review/",
         "https://www.gizmodo.jp/article/gaming_keyboard_stability_over_speed/",
         "https://www.gizmodo.jp/article/2610-poteto-animal-mist-panda-humidifier/",
@@ -604,8 +605,7 @@
         "https://www.gizmodo.jp/article/unique_smartphones-ruu/",
         "https://www.gizmodo.jp/article/2609-steam-frame-review/",
         "https://www.gizmodo.jp/article/2609-apple-tech-woven-case-1-year-review/",
-        "https://www.gizmodo.jp/article/2609-we-are-rewind-eq-002-headphone/",
-        "https://www.gizmodo.jp/article/mitsuoka-la1-opencar/"
+        "https://www.gizmodo.jp/article/2609-we-are-rewind-eq-002-headphone/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": "8JJ36OM0a5I"
 }
