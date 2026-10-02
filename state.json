@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/articles/ck7v424j7l0no#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261002de53971",
         "https://news.web.nhk/newsweb/na/nd-20260930de53373",
         "https://news.web.nhk/newsweb/na/nd-20261002de53972",
         "https://news.web.nhk/newsweb/na/nd-20260930de53423",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260930de53464",
         "https://news.web.nhk/newsweb/na/nd-20260930de53463",
         "https://news.web.nhk/newsweb/na/nd-20260930de53460",
-        "https://news.web.nhk/newsweb/na/nd-20260930de53453",
-        "https://news.web.nhk/newsweb/na/nd-20260930de53426"
+        "https://news.web.nhk/newsweb/na/nd-20260930de53453"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-fosi-audio-disc-nano-cd-player/",
