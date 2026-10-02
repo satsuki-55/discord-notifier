@@ -2,6 +2,7 @@
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "6c-4elVTGYE",
     "youtube:UCjJmYy279ehSYSwR1A3fXtA": "AJ9zlGdXeEA",
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/ck24j46424veo#1",
         "https://www.bbc.co.uk/news/articles/c6y9z9r4ejzwo#0",
         "https://www.bbc.co.uk/news/articles/cqn747k6pem0o#0",
         "https://www.bbc.co.uk/news/articles/c6vgyg824m02o#1",
@@ -200,10 +201,10 @@
         "https://www.bbc.co.uk/news/articles/cq7832kn4252o#1",
         "https://www.bbc.co.uk/news/articles/cwe879654mj7o#0",
         "https://www.bbc.co.uk/news/articles/cmkg8dpwy25po#1",
-        "https://www.bbc.co.uk/news/articles/cmkg8dpwy25po#0",
-        "https://www.bbc.co.uk/news/videos/ck1e5w239epjo#1"
+        "https://www.bbc.co.uk/news/articles/cmkg8dpwy25po#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261002de53784",
         "https://news.web.nhk/newsweb/na/nd-20261002de53786",
         "https://news.web.nhk/newsweb/na/nd-20261002de53787",
         "https://news.web.nhk/newsweb/na/nd-20261002de53788",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260930de53278",
         "https://news.web.nhk/newsweb/na/nd-20260930de53277",
         "https://news.web.nhk/newsweb/na/nd-20260930de53376",
-        "https://news.web.nhk/newsweb/na/nd-20260930de53229",
-        "https://news.web.nhk/newsweb/na/nd-20260930de53237"
+        "https://news.web.nhk/newsweb/na/nd-20260930de53229"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-google-gemini-4-argon-release/",
