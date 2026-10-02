@@ -204,6 +204,7 @@
         "https://www.bbc.co.uk/news/videos/cv70d22kd34do#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261002de53989",
         "https://news.web.nhk/newsweb/na/nd-20261002de53980",
         "https://news.web.nhk/newsweb/na/nd-20261002de53968",
         "https://news.web.nhk/newsweb/na/nd-20261002de53984",
@@ -402,8 +403,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260930de53446",
         "https://news.web.nhk/newsweb/na/nd-20260930de53465",
         "https://news.web.nhk/newsweb/na/nd-20260930de53466",
-        "https://news.web.nhk/newsweb/na/nd-20260930de53457",
-        "https://news.web.nhk/newsweb/na/nd-20260930de53430"
+        "https://news.web.nhk/newsweb/na/nd-20260930de53457"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/3d_printed_fabric_power_generation/",
