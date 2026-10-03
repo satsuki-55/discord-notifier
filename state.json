@@ -221,6 +221,7 @@
         "https://www.bbc.co.uk/news/articles/cr2kwlw0p3v9o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261003de54056",
         "https://news.web.nhk/newsweb/na/nd-20261003de54053",
         "https://news.web.nhk/newsweb/na/nd-20261003de54049",
         "https://news.web.nhk/newsweb/na/nd-20261003de54043",
@@ -419,8 +420,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261001de53500",
         "https://news.web.nhk/newsweb/na/nd-20261001de53536",
         "https://news.web.nhk/newsweb/na/nd-20261001de53533",
-        "https://news.web.nhk/newsweb/na/nd-20261001de53527",
-        "https://news.web.nhk/newsweb/na/nd-20261001de53530"
+        "https://news.web.nhk/newsweb/na/nd-20261001de53527"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-energizer-slim-led-lantern/",
