@@ -221,6 +221,7 @@
         "https://www.bbc.co.uk/news/articles/c6n9w0ypjwl9o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261003de54031",
         "https://news.web.nhk/newsweb/na/nd-20261003de54032",
         "https://news.web.nhk/newsweb/na/nd-20261003de54030",
         "https://news.web.nhk/newsweb/na/nd-20261003de54027",
@@ -419,8 +420,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260930de53441",
         "https://news.web.nhk/newsweb/na/nd-20261001de53498",
         "https://news.web.nhk/newsweb/na/nd-20261001de53516",
-        "https://news.web.nhk/newsweb/na/nd-20261001de53497",
-        "https://news.web.nhk/newsweb/na/nd-20261001de53512"
+        "https://news.web.nhk/newsweb/na/nd-20261001de53497"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/apple-new-smart-home-devices/",
