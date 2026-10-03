@@ -46,5 +46,50 @@ class YouTubeFallbackTests(unittest.TestCase):
             send.assert_not_called()
 
 
+class YouTubeHistoryTests(unittest.TestCase):
+    source = {"name": "Test", "channel_id": "channel", "webhook": "test"}
+
+    def handle(self, state, video_id, failure=None):
+        with patch("notify.fetch_youtube_latest", return_value={
+            "id": video_id, "title": "Title", "link": "mock"
+        }), patch("notify.get_webhook_url", return_value="mock"), patch(
+            "notify.send_discord", side_effect=failure
+        ) as send:
+            notify.handle_youtube_source(self.source, state)
+            return send.call_count
+
+    def test_alternating_videos_survive_state_reload(self):
+        state = {"youtube:channel": "A"}
+        self.assertEqual(self.handle(state, "B"), 1)
+        state = notify.json.loads(notify.json.dumps(state))
+        self.assertEqual(self.handle(state, "A"), 0)
+        self.assertEqual(self.handle(state, "B"), 0)
+        self.assertEqual(self.handle(state, "C"), 1)
+        self.assertEqual(state["youtube:channel"], ["C", "B", "A"])
+
+    def test_legacy_name_key_migrates_without_resending(self):
+        for previous in ("A", ["A", "B"]):
+            with self.subTest(previous=previous):
+                state = {"youtube:Test": previous}
+                self.assertEqual(self.handle(state, "A"), 0)
+                self.assertNotIn("youtube:Test", state)
+                self.assertIsInstance(state["youtube:channel"], list)
+
+    def test_send_failure_does_not_record_video(self):
+        for previous in ("A", ["A"]):
+            with self.subTest(previous=previous):
+                state = {"youtube:channel": previous}
+                with self.assertRaises(RuntimeError):
+                    self.handle(state, "B", RuntimeError("send failed"))
+                self.assertEqual(state, {"youtube:channel": previous})
+
+    def test_history_is_limited_to_200(self):
+        state = {"youtube:channel": [str(i) for i in range(200)]}
+        self.assertEqual(self.handle(state, "new"), 1)
+        self.assertEqual(len(state["youtube:channel"]), 200)
+        self.assertEqual(state["youtube:channel"][0], "new")
+        self.assertNotIn("199", state["youtube:channel"])
+
+
 if __name__ == "__main__":
     unittest.main()

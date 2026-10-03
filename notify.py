@@ -270,14 +270,18 @@ def handle_youtube_source(source, state):
 
     state_key = f"youtube:{channel_id}"
     old_state_key = f"youtube:{name}"
-    last_seen_id = state.get(state_key)
+    sent_ids = state.get(state_key)
 
-    if last_seen_id is None and old_state_key in state:
-        last_seen_id = state[old_state_key]
-        state[state_key] = last_seen_id
-        del state[old_state_key]
+    if sent_ids is None:
+        sent_ids = state.get(old_state_key, [])
+    # Migrate the previous single-video record to a notification history.
+    if isinstance(sent_ids, str):
+        sent_ids = [sent_ids]
+    sent_ids = list(sent_ids)
 
-    if latest["id"] == last_seen_id:
+    if latest["id"] in sent_ids:
+        state[state_key] = sent_ids[:200]
+        state.pop(old_state_key, None)
         print(f"[{name}] No new video.")
         print(f"[{name}] Took {time.perf_counter() - start_time:.2f}s")
         return
@@ -296,7 +300,9 @@ def handle_youtube_source(source, state):
 
     send_discord(webhook_url, content)
 
-    state[state_key] = latest["id"]
+    sent_ids.insert(0, latest["id"])
+    state[state_key] = sent_ids[:200]
+    state.pop(old_state_key, None)
 
     print(f"[{name}] Sent: {latest['title']}")
     print(f"[{name}] Took {time.perf_counter() - start_time:.2f}s")

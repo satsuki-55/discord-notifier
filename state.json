@@ -1,6 +1,23 @@
 {
-    "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": "iAaz7oDoK7Y",
-    "youtube:UCjJmYy279ehSYSwR1A3fXtA": "AJ9zlGdXeEA",
+    "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": [
+        "iAaz7oDoK7Y",
+        "XZ_uZZmR6X0",
+        "qYwQQ7Fxq-8",
+        "B0aubdyPCs4",
+        "6c-4elVTGYE",
+        "t8tlXuUwyck",
+        "7dzqsHGsi2g",
+        "mYHK1JNOAiM",
+        "1ZDkbQzG4vA",
+        "H_mB26TfwtQ",
+        "RrosFjCHyHg"
+    ],
+    "youtube:UCjJmYy279ehSYSwR1A3fXtA": [
+        "AJ9zlGdXeEA",
+        "wzae9UilS9M",
+        "XUIfpEesb2Q",
+        "MxZzeOJmwNI"
+    ],
     "rss:bbc": [
         "https://www.bbc.co.uk/news/articles/c6ly0ljypzrdo#0",
         "https://www.bbc.co.uk/news/articles/cwgkvygg5nzvo#0",
@@ -607,5 +624,8 @@
         "https://www.gizmodo.jp/article/2609-gemini-security-incident-may/",
         "https://www.gizmodo.jp/article/heres-everything-you-need-to-know-about-the-first-googlebooks/"
     ],
-    "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": "8JJ36OM0a5I"
+    "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
+        "8JJ36OM0a5I",
+        "Ih1O3vIgcmA"
+    ]
 }
