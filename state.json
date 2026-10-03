@@ -223,6 +223,7 @@
         "https://www.bbc.co.uk/news/articles/ckge4eql4q7eo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261004de54174",
         "https://news.web.nhk/newsweb/na/nd-20261004de54163",
         "https://news.web.nhk/newsweb/na/nd-20261004de54164",
         "https://news.web.nhk/newsweb/na/nd-20261003de54071",
@@ -421,8 +422,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261001de53648",
         "https://news.web.nhk/newsweb/na/nd-20261001de53672",
         "https://news.web.nhk/newsweb/na/nd-20261001de53677",
-        "https://news.web.nhk/newsweb/na/nd-20261001de53665",
-        "https://news.web.nhk/newsweb/na/nd-20261001de53661"
+        "https://news.web.nhk/newsweb/na/nd-20261001de53665"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/apples-new-ceo-looking-to-cut-jobs-and-push-for-faster-product-launches/",
