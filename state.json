@@ -221,6 +221,7 @@
         "https://www.bbc.co.uk/news/articles/cw07l44l1dg8o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261003de54079",
         "https://news.web.nhk/newsweb/na/nd-20261003de54063",
         "https://news.web.nhk/newsweb/na/nd-20261003de54064",
         "https://news.web.nhk/newsweb/na/nd-20261003de54069",
@@ -419,8 +420,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261001de53564",
         "https://news.web.nhk/newsweb/na/nd-20261001de53542",
         "https://news.web.nhk/newsweb/na/nd-20261001de53565",
-        "https://news.web.nhk/newsweb/na/nd-20261001de53561",
-        "https://news.web.nhk/newsweb/na/nd-20261001de53556"
+        "https://news.web.nhk/newsweb/na/nd-20261001de53561"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/nothing-headphone-1-pro-review/",
