@@ -221,6 +221,8 @@
         "https://www.bbc.co.uk/news/articles/cr89j4g7v05wo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261003de54037",
+        "https://news.web.nhk/newsweb/na/nd-20261003de54036",
         "https://news.web.nhk/newsweb/na/nd-20261003de54031",
         "https://news.web.nhk/newsweb/na/nd-20261003de54032",
         "https://news.web.nhk/newsweb/na/nd-20261003de54030",
@@ -418,9 +420,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261001de53519",
         "https://news.web.nhk/newsweb/na/nd-20261001de53517",
         "https://news.web.nhk/newsweb/na/nd-20260930de53441",
-        "https://news.web.nhk/newsweb/na/nd-20261001de53498",
-        "https://news.web.nhk/newsweb/na/nd-20261001de53516",
-        "https://news.web.nhk/newsweb/na/nd-20261001de53497"
+        "https://news.web.nhk/newsweb/na/nd-20261001de53498"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/clean-my-scattered-room-using-chatgpt-loi/",
