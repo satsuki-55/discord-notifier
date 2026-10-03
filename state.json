@@ -222,6 +222,7 @@
         "https://www.bbc.co.uk/news/articles/crpd0wdnlgxno#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261003de54093",
         "https://news.web.nhk/newsweb/na/nd-20261003de54086",
         "https://news.web.nhk/newsweb/na/nd-20261003de54084",
         "https://news.web.nhk/newsweb/na/nd-20261003de54085",
@@ -420,8 +421,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261001de53598",
         "https://news.web.nhk/newsweb/na/nd-20261001de53581",
         "https://news.web.nhk/newsweb/na/nd-20261001de53558",
-        "https://news.web.nhk/newsweb/na/nd-20261001de53579",
-        "https://news.web.nhk/newsweb/na/nd-20260930de53274"
+        "https://news.web.nhk/newsweb/na/nd-20261001de53579"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-g-shock-blue-sapphire-11million-yen/",
