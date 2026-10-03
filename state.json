@@ -19,6 +19,8 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c6ly7mgm0rd9o#0",
+        "https://www.bbc.co.uk/news/articles/cvrl6l0klw1go#1",
         "https://www.bbc.co.uk/news/articles/c61wv7lgex13o#1",
         "https://www.bbc.co.uk/news/articles/c61wv7lgex13o#0",
         "https://www.bbc.co.uk/weather/articles/cwgkvyyg8115o#1",
@@ -216,11 +218,10 @@
         "https://www.bbc.co.uk/news/videos/cq5ymyl1y29ko#1",
         "https://www.bbc.co.uk/news/articles/cm3wjwxg3e74o#1",
         "https://www.bbc.co.uk/news/articles/ckqxvnpy7e49o#0",
-        "https://www.bbc.co.uk/news/articles/cr89j4g7v05wo#0",
-        "https://www.bbc.co.uk/news/articles/cw07l44l1dg8o#0",
-        "https://www.bbc.co.uk/news/articles/ck7v424j7l0no#1"
+        "https://www.bbc.co.uk/news/articles/cr89j4g7v05wo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261003de54060",
         "https://news.web.nhk/newsweb/na/nd-20261003de54056",
         "https://news.web.nhk/newsweb/na/nd-20261003de54053",
         "https://news.web.nhk/newsweb/na/nd-20261003de54049",
@@ -419,10 +420,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260930de53459",
         "https://news.web.nhk/newsweb/na/nd-20261001de53500",
         "https://news.web.nhk/newsweb/na/nd-20261001de53536",
-        "https://news.web.nhk/newsweb/na/nd-20261001de53533",
-        "https://news.web.nhk/newsweb/na/nd-20261001de53527"
+        "https://news.web.nhk/newsweb/na/nd-20261001de53533"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/lego-dragon-ball-shenron-goku/",
         "https://www.gizmodo.jp/article/cessna_autonomous_us_cross_country_flight/",
         "https://www.gizmodo.jp/article/2610-energizer-slim-led-lantern/",
         "https://www.gizmodo.jp/article/2610-muji-tarpaulin-storage-case/",
@@ -621,8 +622,7 @@
         "https://www.gizmodo.jp/article/2609-childrens-future-predictions-50-years-ago-and-today/",
         "https://www.gizmodo.jp/article/asics_blast_series_comparison/",
         "https://www.gizmodo.jp/article/apple-bobborchers-interview/",
-        "https://www.gizmodo.jp/article/2609-mediatek-googlebook-chip/",
-        "https://www.gizmodo.jp/article/2609-m6-pro-benchmark-fake/"
+        "https://www.gizmodo.jp/article/2609-mediatek-googlebook-chip/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "8JJ36OM0a5I",
