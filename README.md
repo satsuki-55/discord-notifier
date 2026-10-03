@@ -51,6 +51,8 @@ DISCORD_WEBHOOK_NONSTYLE=...
 
 `config.json` で `"webhook": "bbc"` と書いた場合、スクリプトは `DISCORD_WEBHOOK_BBC` を探します。
 
+QuizKnock、GameKnack、QuizKnockと学ぼうの動画は、すべて既存の `DISCORD_WEBHOOK_QUIZKNOCK` の送信先に通知します。
+
 NON STYLEチャンネルの通知先は `DISCORD_WEBHOOK_NONSTYLE` で指定します。GitHub Actionsで実行する場合は、同名のRepository secretにもDiscord webhook URLを設定してください。
 
 ## 設定例

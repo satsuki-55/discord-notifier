@@ -8,6 +8,18 @@
     },
     {
       "type": "youtube",
+      "name": "GameKnack",
+      "channel_id": "UCnR9krDzeZ5vE8cQgeMdV6Q",
+      "webhook": "quizknock"
+    },
+    {
+      "type": "youtube",
+      "name": "QuizKnockと学ぼう",
+      "channel_id": "UCuG5vlhQYE5VE-pTTxINi3g",
+      "webhook": "quizknock"
+    },
+    {
+      "type": "youtube",
       "name": "マグロヘッド",
       "channel_id": "UCjJmYy279ehSYSwR1A3fXtA",
       "webhook": "magurohead"
