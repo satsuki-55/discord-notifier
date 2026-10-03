@@ -19,6 +19,9 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cmqjkk55qg25o#0",
+        "https://www.bbc.co.uk/news/articles/c6d095ygggv1o#1",
+        "https://www.bbc.co.uk/news/articles/cmn8e887716vo#1",
         "https://www.bbc.co.uk/news/articles/cr62y3enq62zo#1",
         "https://www.bbc.co.uk/news/articles/cq0ld88kzxw8o#0",
         "https://www.bbc.co.uk/sport/golf/articles/cmy0rn425k4xo#0",
@@ -215,12 +218,10 @@
         "https://www.bbc.co.uk/news/articles/crpd0wdnlgxno#1",
         "https://www.bbc.co.uk/news/articles/c3gr5ynd5p1o#0",
         "https://www.bbc.co.uk/news/articles/cw07l44l1dg8o#1",
-        "https://www.bbc.co.uk/news/articles/cqm2rgmn74pro#1",
-        "https://www.bbc.co.uk/news/articles/cr4gvg0yenl4o#1",
-        "https://www.bbc.co.uk/news/articles/cm3wjwxg3e74o#0",
-        "https://www.bbc.co.uk/news/articles/cmqjkk55qg25o#0"
+        "https://www.bbc.co.uk/news/articles/cqm2rgmn74pro#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261003de54063",
         "https://news.web.nhk/newsweb/na/nd-20261003de54064",
         "https://news.web.nhk/newsweb/na/nd-20261003de54069",
         "https://news.web.nhk/newsweb/na/nd-20261003de54065",
@@ -419,8 +420,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261001de53542",
         "https://news.web.nhk/newsweb/na/nd-20261001de53565",
         "https://news.web.nhk/newsweb/na/nd-20261001de53561",
-        "https://news.web.nhk/newsweb/na/nd-20261001de53556",
-        "https://news.web.nhk/newsweb/na/nd-20261001de53555"
+        "https://news.web.nhk/newsweb/na/nd-20261001de53556"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/nothing-headphone-1-pro-review/",
