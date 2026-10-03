@@ -221,6 +221,7 @@
         "https://www.bbc.co.uk/news/articles/c6rm9mnn0w3eo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261003de54044",
         "https://news.web.nhk/newsweb/na/nd-20261003de54041",
         "https://news.web.nhk/newsweb/na/nd-20261003de54033",
         "https://news.web.nhk/newsweb/na/nd-20261003de54039",
@@ -419,8 +420,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261001de53530",
         "https://news.web.nhk/newsweb/na/nd-20261001de53529",
         "https://news.web.nhk/newsweb/na/nd-20261001de53522",
-        "https://news.web.nhk/newsweb/na/nd-20261001de53514",
-        "https://news.web.nhk/newsweb/na/nd-20261001de53519"
+        "https://news.web.nhk/newsweb/na/nd-20261001de53514"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/colorful-headphones-y2k-trend/",
