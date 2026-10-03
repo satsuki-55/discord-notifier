@@ -223,6 +223,7 @@
         "https://www.bbc.co.uk/news/articles/cm74k417wpjxo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261003de54129",
         "https://news.web.nhk/newsweb/na/nd-20261004de54157",
         "https://news.web.nhk/newsweb/na/nd-20261003de54104",
         "https://news.web.nhk/newsweb/na/nd-20261004de54144",
@@ -421,8 +422,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261001de53647",
         "https://news.web.nhk/newsweb/na/nd-20261001de53651",
         "https://news.web.nhk/newsweb/na/nd-20261001de53643",
-        "https://news.web.nhk/newsweb/na/nd-20261001de53630",
-        "https://news.web.nhk/newsweb/na/nd-20261001de53642"
+        "https://news.web.nhk/newsweb/na/nd-20261001de53630"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/biology-matome-2023-may-1v9/",
