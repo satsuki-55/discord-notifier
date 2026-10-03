@@ -20,6 +20,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cr20w7j8jd21o#0",
         "https://www.bbc.co.uk/news/articles/cm2kej47095no#1",
         "https://www.bbc.co.uk/news/articles/cm2kej47095no#0",
         "https://www.bbc.co.uk/news/articles/c6d095ygggv1o#0",
@@ -218,10 +219,10 @@
         "https://www.bbc.co.uk/news/articles/cvrl6g6rl081o#0",
         "https://www.bbc.co.uk/news/articles/crkgwglz4dd5o#1",
         "https://www.bbc.co.uk/news/articles/c6y8z8xeg8j1o#0",
-        "https://www.bbc.co.uk/news/articles/cjn5d52d3lk5o#1",
-        "https://www.bbc.co.uk/news/articles/crpd0wdnlgxno#1"
+        "https://www.bbc.co.uk/news/articles/cjn5d52d3lk5o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261003de54083",
         "https://news.web.nhk/newsweb/na/nd-20261003de54094",
         "https://news.web.nhk/newsweb/na/nd-20261001de53558",
         "https://news.web.nhk/newsweb/na/nd-20261003de54080",
@@ -420,8 +421,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261001de53613",
         "https://news.web.nhk/newsweb/na/nd-20261001de53590",
         "https://news.web.nhk/newsweb/na/nd-20261001de53594",
-        "https://news.web.nhk/newsweb/na/nd-20261001de53606",
-        "https://news.web.nhk/newsweb/na/nd-20261001de53589"
+        "https://news.web.nhk/newsweb/na/nd-20261001de53606"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/body_heat_powered_wearables/",
