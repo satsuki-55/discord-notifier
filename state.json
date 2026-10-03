@@ -19,6 +19,10 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cv8e30enrkxyo#0",
+        "https://www.bbc.co.uk/news/articles/c3y0zx822wlzo#2",
+        "https://www.bbc.co.uk/news/articles/cq62j2l2lx4lo#2",
+        "https://www.bbc.co.uk/news/articles/c3y0zdj8jlxeo#2",
         "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko#0",
         "https://www.bbc.co.uk/news/articles/cwgkvygg5nzvo#1",
         "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko#1",
@@ -214,13 +218,10 @@
         "https://www.bbc.co.uk/news/articles/ck7v424j7l0no#1",
         "https://www.bbc.co.uk/news/articles/cq7702p0pkv5o#0",
         "https://www.bbc.co.uk/news/articles/cjn5d52d3lk5o#0",
-        "https://www.bbc.co.uk/news/articles/cr2kwlw0p3v9o#0",
-        "https://www.bbc.co.uk/news/articles/cme30dz5vkzko#1",
-        "https://www.bbc.co.uk/news/videos/cwm2r2v42vdeo#1",
-        "https://www.bbc.co.uk/news/articles/cv8e30enrkxyo#1",
-        "https://www.bbc.co.uk/news/articles/cv8e30enrkxyo#0"
+        "https://www.bbc.co.uk/news/articles/cr2kwlw0p3v9o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261003de54053",
         "https://news.web.nhk/newsweb/na/nd-20261003de54049",
         "https://news.web.nhk/newsweb/na/nd-20261003de54043",
         "https://news.web.nhk/newsweb/na/nd-20261003de54044",
@@ -419,8 +420,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261001de53536",
         "https://news.web.nhk/newsweb/na/nd-20261001de53533",
         "https://news.web.nhk/newsweb/na/nd-20261001de53527",
-        "https://news.web.nhk/newsweb/na/nd-20261001de53530",
-        "https://news.web.nhk/newsweb/na/nd-20261001de53529"
+        "https://news.web.nhk/newsweb/na/nd-20261001de53530"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-energizer-slim-led-lantern/",
