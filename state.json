@@ -224,6 +224,7 @@
         "https://www.bbc.co.uk/news/articles/cm4gl1yllg6po#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261004de54373",
         "https://news.web.nhk/newsweb/na/nd-20261004de54366",
         "https://news.web.nhk/newsweb/na/nd-20261004de54361",
         "https://news.web.nhk/newsweb/na/nd-20261004de54192",
@@ -422,8 +423,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261001de53729",
         "https://news.web.nhk/newsweb/na/nd-20261001de53735",
         "https://news.web.nhk/newsweb/na/nd-20261001de53737",
-        "https://news.web.nhk/newsweb/na/nd-20261001de53739",
-        "https://news.web.nhk/newsweb/na/nd-20261001de53734"
+        "https://news.web.nhk/newsweb/na/nd-20261001de53739"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/stronger_than_steel-mtp/",
