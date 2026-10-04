@@ -21,6 +21,8 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/videos/c5rm9mdperemo#0",
+        "https://www.bbc.co.uk/news/articles/cm2kej47095no#3",
         "https://www.bbc.co.uk/news/articles/cq8jzll3w4lvo#0",
         "https://www.bbc.co.uk/news/articles/cxly4nym57q9o#1",
         "https://www.bbc.co.uk/news/articles/cve8x724e9ezo#0",
@@ -218,9 +220,7 @@
         "https://www.bbc.co.uk/news/articles/crm4rygl4m3o#1",
         "https://www.bbc.co.uk/news/videos/cmkg8gkpd9vko#1",
         "https://www.bbc.co.uk/news/articles/cme30dz5vkzko#0",
-        "https://www.bbc.co.uk/news/articles/cmdx5xw36492o#1",
-        "https://www.bbc.co.uk/news/articles/cwly7y5gvxlmo#0",
-        "https://www.bbc.co.uk/news/articles/c6d080d1e3l4o#1"
+        "https://www.bbc.co.uk/news/articles/cmdx5xw36492o#1"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20261004de54232",
@@ -425,6 +425,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261001de53695"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/the-best-case-scenario-for-climate-change-just-got-a-whole-lot-worse/",
         "https://www.gizmodo.jp/article/4a125983-a3d0-4d8a-af18-dd984de84de9/",
         "https://www.gizmodo.jp/article/2610-yamazaki-hanging-umbrella-stand/",
         "https://www.gizmodo.jp/article/this-startup-wants-to-build-a-better-microwave-beep/",
@@ -623,8 +624,7 @@
         "https://www.gizmodo.jp/article/in-a-warming-world-air-conditioning-is-a-necessary-evil-or-is-it/",
         "https://www.gizmodo.jp/article/iphone18-pro-carriers-reservation-guide/",
         "https://www.gizmodo.jp/article/bank-of-england-governor-warns-ai-represents-threat-to-the-global-economy/",
-        "https://www.gizmodo.jp/article/5c944072-6e7e-45a3-84ac-03d9f1d1b705/",
-        "https://www.gizmodo.jp/article/cigarette_butt_repost/"
+        "https://www.gizmodo.jp/article/5c944072-6e7e-45a3-84ac-03d9f1d1b705/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "8JJ36OM0a5I",
