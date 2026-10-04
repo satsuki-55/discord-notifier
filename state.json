@@ -223,6 +223,7 @@
         "https://www.bbc.co.uk/news/articles/crje8edqyej9o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261004de54216",
         "https://news.web.nhk/newsweb/na/nd-20261001de53648",
         "https://news.web.nhk/newsweb/na/nd-20261004de54194",
         "https://news.web.nhk/newsweb/na/nd-20261004de54195",
@@ -421,8 +422,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261001de53693",
         "https://news.web.nhk/newsweb/na/nd-20261001de53695",
         "https://news.web.nhk/newsweb/na/nd-20261001de53691",
-        "https://news.web.nhk/newsweb/na/nd-20261001de53681",
-        "https://news.web.nhk/newsweb/na/nd-20261001de53688"
+        "https://news.web.nhk/newsweb/na/nd-20261001de53681"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/this-startup-wants-to-build-a-better-microwave-beep/",
