@@ -21,6 +21,9 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cme30dz5vkzko#0",
+        "https://www.bbc.co.uk/news/articles/c6wyz0r2n0djo#0",
+        "https://www.bbc.co.uk/news/articles/cwjdmk479mr1o#3",
         "https://www.bbc.co.uk/news/videos/c5rm9mdperemo#0",
         "https://www.bbc.co.uk/news/articles/cm2kej47095no#3",
         "https://www.bbc.co.uk/news/articles/cq8jzll3w4lvo#0",
@@ -217,12 +220,10 @@
         "https://www.bbc.co.uk/news/articles/cq7702p0pkv5o#1",
         "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo#1",
         "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo#0",
-        "https://www.bbc.co.uk/news/articles/crm4rygl4m3o#1",
-        "https://www.bbc.co.uk/news/videos/cmkg8gkpd9vko#1",
-        "https://www.bbc.co.uk/news/articles/cme30dz5vkzko#0",
-        "https://www.bbc.co.uk/news/articles/cmdx5xw36492o#1"
+        "https://www.bbc.co.uk/news/articles/crm4rygl4m3o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261004de54277",
         "https://news.web.nhk/newsweb/na/nd-20261004de54232",
         "https://news.web.nhk/newsweb/na/nd-20261004de54215",
         "https://news.web.nhk/newsweb/na/nd-20261004de54216",
@@ -421,8 +422,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261001de53699",
         "https://news.web.nhk/newsweb/na/nd-20261001de53698",
         "https://news.web.nhk/newsweb/na/nd-20261001de53694",
-        "https://news.web.nhk/newsweb/na/nd-20261001de53693",
-        "https://news.web.nhk/newsweb/na/nd-20261001de53695"
+        "https://news.web.nhk/newsweb/na/nd-20261001de53693"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/the-best-case-scenario-for-climate-change-just-got-a-whole-lot-worse/",
