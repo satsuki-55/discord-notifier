@@ -22,6 +22,9 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cq8jzll3w4lvo#1",
+        "https://www.bbc.co.uk/news/articles/c8ly40r9v95no#1",
+        "https://www.bbc.co.uk/news/articles/cwddvddgqv9ro#1",
         "https://www.bbc.co.uk/news/articles/cwvgrle6dx2lo#0",
         "https://www.bbc.co.uk/news/articles/cwvgrle6dx2lo#1",
         "https://www.bbc.co.uk/news/articles/cqm249v07j4xo#0",
@@ -218,10 +221,7 @@
         "https://www.bbc.co.uk/news/articles/c6je85jzk9y7o#1",
         "https://www.bbc.co.uk/news/articles/cwe9eyj4gpgzo#0",
         "https://www.bbc.co.uk/news/articles/cm4gl1yllg6po#0",
-        "https://www.bbc.co.uk/news/articles/cvwyzykel653o#0",
-        "https://www.bbc.co.uk/news/articles/crlyqg2q3p10o#0",
-        "https://www.bbc.co.uk/news/articles/cvwyzykel653o#1",
-        "https://www.bbc.co.uk/news/articles/c6je85jzk9y7o#0"
+        "https://www.bbc.co.uk/news/articles/cvwyzykel653o#0"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20261004de54361",
@@ -426,6 +426,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261001de53728"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/stronger_than_steel-mtp/",
         "https://www.gizmodo.jp/article/framework-desktop-amd-ryzen-ai-max/",
         "https://www.gizmodo.jp/article/meet-the-man-building-the-worlds-weirdest-3d-printed-instruments/",
         "https://www.gizmodo.jp/article/b1184b35-8c78-418c-8911-fa195e92ea11/",
@@ -624,8 +625,7 @@
         "https://www.gizmodo.jp/article/2609-m6-mac-mini-review/",
         "https://www.gizmodo.jp/article/tokyo-keyboard-expo-2026-valkey-orb/",
         "https://www.gizmodo.jp/article/ec990399-1842-4a77-af6c-ac6e00f18a44/",
-        "https://www.gizmodo.jp/article/iris-oyama_portable-fridge_review/",
-        "https://www.gizmodo.jp/article/china-earth-ct-airborne-scan/"
+        "https://www.gizmodo.jp/article/iris-oyama_portable-fridge_review/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "8JJ36OM0a5I",
