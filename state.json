@@ -223,6 +223,7 @@
         "https://www.bbc.co.uk/news/articles/c6evwvdwggrlo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261004de54195",
         "https://news.web.nhk/newsweb/na/nd-20260930de53292",
         "https://news.web.nhk/newsweb/na/nd-20261004de54185",
         "https://news.web.nhk/newsweb/na/nd-20261004de54174",
@@ -421,8 +422,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261001de53681",
         "https://news.web.nhk/newsweb/na/nd-20261001de53688",
         "https://news.web.nhk/newsweb/na/nd-20261001de53685",
-        "https://news.web.nhk/newsweb/na/nd-20261001de53648",
-        "https://news.web.nhk/newsweb/na/nd-20261001de53672"
+        "https://news.web.nhk/newsweb/na/nd-20261001de53648"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-galaxy-buds-on-release/",
