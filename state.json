@@ -22,6 +22,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c6qxv55882z1o#0",
         "https://www.bbc.co.uk/news/videos/c83vqk2k2k20o#1",
         "https://www.bbc.co.uk/news/articles/cmj47xdq5nz9o#1",
         "https://www.bbc.co.uk/news/articles/cwgkv70gg1j3o#0",
@@ -220,8 +221,7 @@
         "https://www.bbc.co.uk/news/articles/cmx239469krpo#1",
         "https://www.bbc.co.uk/news/articles/c6wyv44y4ywjo#0",
         "https://www.bbc.co.uk/news/articles/cwp8gn13lmygo#2",
-        "https://www.bbc.co.uk/news/articles/c6d949gq47x9o#1",
-        "https://www.bbc.co.uk/news/articles/cr0j3jdj64x7o#1"
+        "https://www.bbc.co.uk/news/articles/c6d949gq47x9o#1"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20261005de54707",
@@ -426,6 +426,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261002de53866"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/5d06b518-0c48-4bf2-8fd1-f633a2021f95/",
         "https://www.gizmodo.jp/article/nothing-early-access-review-program/",
         "https://www.gizmodo.jp/article/meta-smart-glasses-privacy/",
         "https://www.gizmodo.jp/article/zelda-switch-2-40th-anniversary-edition-hands-on/",
@@ -624,8 +625,7 @@
         "https://www.gizmodo.jp/article/2609-yamaha-gigmii/",
         "https://www.gizmodo.jp/article/handful-of-reported-layoffs-at-apple-could-mean-a-more-robust-health-app-coming-soon/",
         "https://www.gizmodo.jp/article/sam-altman-says-smart-glasses-uncomfortable-camera/",
-        "https://www.gizmodo.jp/article/dolphins-use-seashells-to-scoop-up-fish-and-eat-them-in-rare-hunting-behavior/",
-        "https://www.gizmodo.jp/article/2609-meta-vr-glasses-vs-quest/"
+        "https://www.gizmodo.jp/article/dolphins-use-seashells-to-scoop-up-fish-and-eat-them-in-rare-hunting-behavior/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "8JJ36OM0a5I",
