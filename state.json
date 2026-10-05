@@ -224,6 +224,7 @@
         "https://www.bbc.co.uk/news/articles/cmx239469krpo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261002de53897",
         "https://news.web.nhk/newsweb/na/nd-20261005de54848",
         "https://news.web.nhk/newsweb/na/nd-20261005de54845",
         "https://news.web.nhk/newsweb/na/nd-20261005de54806",
@@ -422,8 +423,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261002de53924",
         "https://news.web.nhk/newsweb/na/nd-20261001de53709",
         "https://news.web.nhk/newsweb/na/nd-20260929de53200",
-        "https://news.web.nhk/newsweb/na/nd-20261002de53895",
-        "https://news.web.nhk/newsweb/na/nd-20261002de53894"
+        "https://news.web.nhk/newsweb/na/nd-20261002de53895"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/5d06b518-0c48-4bf2-8fd1-f633a2021f95/",
