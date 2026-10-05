@@ -24,6 +24,8 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/ckj0l401dvpgo#1",
+        "https://www.bbc.co.uk/news/articles/cv5yn3nwp5n5o#1",
         "https://www.bbc.co.uk/news/articles/cv8e30enrkxyo#0",
         "https://www.bbc.co.uk/news/articles/cwj3413e5m1lo#0",
         "https://www.bbc.co.uk/news/articles/ck5yn81qqde0o#0",
@@ -221,11 +223,13 @@
         "https://www.bbc.co.uk/news/articles/c6d095ygggv1o#1",
         "https://www.bbc.co.uk/news/articles/cmn8e887716vo#1",
         "https://www.bbc.co.uk/news/articles/cr62y3enq62zo#1",
-        "https://www.bbc.co.uk/news/articles/cq0ld88kzxw8o#0",
-        "https://www.bbc.co.uk/sport/golf/articles/cmy0rn425k4xo#0",
-        "https://www.bbc.co.uk/news/articles/c6ly0ljypzrdo#1"
+        "https://www.bbc.co.uk/news/articles/cq0ld88kzxw8o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261005de54668",
+        "https://news.web.nhk/newsweb/na/nd-20261006de54928",
+        "https://news.web.nhk/newsweb/na/nd-20261006de54956",
+        "https://news.web.nhk/newsweb/na/nd-20261006de54946",
         "https://news.web.nhk/newsweb/na/nd-20261006de54943",
         "https://news.web.nhk/newsweb/na/nd-20261006de54940",
         "https://news.web.nhk/newsweb/na/nd-20261006de54947",
@@ -421,11 +425,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261002de53966",
         "https://news.web.nhk/newsweb/na/nd-20260930de53266",
         "https://news.web.nhk/newsweb/na/nd-20261002de53960",
-        "https://news.web.nhk/newsweb/na/nd-20261002de53961",
-        "https://news.web.nhk/newsweb/na/nd-20261002de53967",
-        "https://news.web.nhk/newsweb/na/nd-20261002de53965",
-        "https://news.web.nhk/newsweb/na/nd-20261002de53956",
-        "https://news.web.nhk/newsweb/na/nd-20261002de53958"
+        "https://news.web.nhk/newsweb/na/nd-20261002de53961"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/beautiful-photos-from-our-solar-system-kmf/",
