@@ -22,6 +22,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c8r4yxpry5e9o#0",
         "https://www.bbc.co.uk/news/articles/c689zl5eljdzo#1",
         "https://www.bbc.co.uk/news/articles/cvze4g06526ro#0",
         "https://www.bbc.co.uk/news/articles/cm2d6gg0642yo#1",
@@ -220,10 +221,10 @@
         "https://www.bbc.co.uk/news/articles/cw8d3ddpz8dlo#0",
         "https://www.bbc.co.uk/news/articles/c6d949gq47x9o#0",
         "https://www.bbc.co.uk/news/articles/cr0qxq7jwg9go#1",
-        "https://www.bbc.co.uk/news/articles/c90klkz8j06vo#1",
-        "https://www.bbc.co.uk/news/articles/cw8d3ddpz8dlo#1"
+        "https://www.bbc.co.uk/news/articles/c90klkz8j06vo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261005de54760",
         "https://news.web.nhk/newsweb/na/nd-20261005de54744",
         "https://news.web.nhk/newsweb/na/nd-20261005de54755",
         "https://news.web.nhk/newsweb/na/nd-20261005de54694",
@@ -422,10 +423,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261002de53829",
         "https://news.web.nhk/newsweb/na/nd-20261002de53869",
         "https://news.web.nhk/newsweb/na/nd-20261002de53873",
-        "https://news.web.nhk/newsweb/na/nd-20261002de53870",
-        "https://news.web.nhk/newsweb/na/nd-20261002de53867"
+        "https://news.web.nhk/newsweb/na/nd-20261002de53870"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/nothing-early-access-review-program/",
         "https://www.gizmodo.jp/article/meta-smart-glasses-privacy/",
         "https://www.gizmodo.jp/article/zelda-switch-2-40th-anniversary-edition-hands-on/",
         "https://www.gizmodo.jp/article/2610-neurable-one-eeg-headphone/",
@@ -624,8 +625,7 @@
         "https://www.gizmodo.jp/article/handful-of-reported-layoffs-at-apple-could-mean-a-more-robust-health-app-coming-soon/",
         "https://www.gizmodo.jp/article/sam-altman-says-smart-glasses-uncomfortable-camera/",
         "https://www.gizmodo.jp/article/dolphins-use-seashells-to-scoop-up-fish-and-eat-them-in-rare-hunting-behavior/",
-        "https://www.gizmodo.jp/article/2609-meta-vr-glasses-vs-quest/",
-        "https://www.gizmodo.jp/article/f21e7fac-10e4-495c-85fe-decda2c674fd-bew/"
+        "https://www.gizmodo.jp/article/2609-meta-vr-glasses-vs-quest/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "8JJ36OM0a5I",
