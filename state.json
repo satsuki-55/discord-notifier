@@ -224,6 +224,7 @@
         "https://www.bbc.co.uk/news/articles/c6y9z9r4ejzwo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261005de54452",
         "https://news.web.nhk/newsweb/na/nd-20261005de54437",
         "https://news.web.nhk/newsweb/na/nd-20261005de54416",
         "https://news.web.nhk/newsweb/na/nd-20261005de54415",
@@ -422,10 +423,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261001de53744",
         "https://news.web.nhk/newsweb/na/nd-20260930de53290",
         "https://news.web.nhk/newsweb/na/nd-20261002de53774",
-        "https://news.web.nhk/newsweb/na/nd-20261002de53766",
-        "https://news.web.nhk/newsweb/na/nd-20261002de53778"
+        "https://news.web.nhk/newsweb/na/nd-20261002de53766"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/multitask-5screen-display-system/",
         "https://www.gizmodo.jp/article/snapdragon-c-windows-pc-under-50000-yen/",
         "https://www.gizmodo.jp/article/the-himalayas-are-melting-faster-than-ever-scientists-worry-nepals-floods-are-just-the-beginning/",
         "https://www.gizmodo.jp/article/2610-samsung-android-xr-smart-glasses-november-release/",
@@ -624,8 +625,7 @@
         "https://www.gizmodo.jp/article/surf-wec-hawaii-wave-energy/",
         "https://www.gizmodo.jp/article/climate-change-is-supercharging-el-nino-1000-years-of-coral-data-shows/",
         "https://www.gizmodo.jp/article/2609-failed-company-customer-data-for-ai-training/",
-        "https://www.gizmodo.jp/article/the-cutest-framework-laptop-12-is-getting-a-smorgasbord-of-upgrades/",
-        "https://www.gizmodo.jp/article/2609-m6-mac-mini-review/"
+        "https://www.gizmodo.jp/article/the-cutest-framework-laptop-12-is-getting-a-smorgasbord-of-upgrades/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "8JJ36OM0a5I",
