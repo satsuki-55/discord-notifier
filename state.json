@@ -224,6 +224,7 @@
         "https://www.bbc.co.uk/news/articles/c933k3gk72x6o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261005de54503",
         "https://news.web.nhk/newsweb/na/nd-20261005de54440",
         "https://news.web.nhk/newsweb/na/nd-20261005de54429",
         "https://news.web.nhk/newsweb/na/nd-20261005de54452",
@@ -422,10 +423,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261002de53787",
         "https://news.web.nhk/newsweb/na/nd-20261002de53788",
         "https://news.web.nhk/newsweb/na/nd-20261002de53785",
-        "https://news.web.nhk/newsweb/na/nd-20261001de53744",
-        "https://news.web.nhk/newsweb/na/nd-20260930de53290"
+        "https://news.web.nhk/newsweb/na/nd-20261001de53744"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2610-apple-homepad-color-leaks/",
         "https://www.gizmodo.jp/article/interview-with-extropic-ai-guillaume-verdon-eyl/",
         "https://www.gizmodo.jp/article/multitask-5screen-display-system/",
         "https://www.gizmodo.jp/article/snapdragon-c-windows-pc-under-50000-yen/",
@@ -624,8 +625,7 @@
         "https://www.gizmodo.jp/article/2609-us-space-control-weapons/",
         "https://www.gizmodo.jp/article/dragonberry-weed-could-help-scientists-extract-rare-earth-metals-from-polluted-soil-uyu/",
         "https://www.gizmodo.jp/article/surf-wec-hawaii-wave-energy/",
-        "https://www.gizmodo.jp/article/climate-change-is-supercharging-el-nino-1000-years-of-coral-data-shows/",
-        "https://www.gizmodo.jp/article/2609-failed-company-customer-data-for-ai-training/"
+        "https://www.gizmodo.jp/article/climate-change-is-supercharging-el-nino-1000-years-of-coral-data-shows/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "8JJ36OM0a5I",
