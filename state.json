@@ -24,6 +24,12 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cv8e30enrkxyo#0",
+        "https://www.bbc.co.uk/news/articles/cwj3413e5m1lo#0",
+        "https://www.bbc.co.uk/news/articles/ck5yn81qqde0o#0",
+        "https://www.bbc.co.uk/news/articles/cv5yn3nwp5n5o#0",
+        "https://www.bbc.co.uk/news/articles/cwj3413e5m1lo#1",
+        "https://www.bbc.co.uk/news/articles/ck5yn81qqde0o#1",
         "https://www.bbc.co.uk/news/articles/ck87z09xe82qo#1",
         "https://www.bbc.co.uk/news/articles/c5398lm30pwwo#1",
         "https://www.bbc.co.uk/news/articles/c9ly0l028d1go#1",
@@ -217,15 +223,10 @@
         "https://www.bbc.co.uk/news/articles/cr62y3enq62zo#1",
         "https://www.bbc.co.uk/news/articles/cq0ld88kzxw8o#0",
         "https://www.bbc.co.uk/sport/golf/articles/cmy0rn425k4xo#0",
-        "https://www.bbc.co.uk/news/articles/c6ly0ljypzrdo#1",
-        "https://www.bbc.co.uk/news/articles/c6ly7mgm0rd9o#0",
-        "https://www.bbc.co.uk/news/articles/cvrl6l0klw1go#1",
-        "https://www.bbc.co.uk/news/articles/c61wv7lgex13o#1",
-        "https://www.bbc.co.uk/news/articles/c61wv7lgex13o#0",
-        "https://www.bbc.co.uk/weather/articles/cwgkvyyg8115o#1",
-        "https://www.bbc.co.uk/news/articles/cv8e30enrkxyo#0"
+        "https://www.bbc.co.uk/news/articles/c6ly0ljypzrdo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261005de54912",
         "https://news.web.nhk/newsweb/na/nd-20261002de53868",
         "https://news.web.nhk/newsweb/na/nd-20261006de54944",
         "https://news.web.nhk/newsweb/na/nd-20261005de54856",
@@ -424,8 +425,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261002de53958",
         "https://news.web.nhk/newsweb/na/nd-20261002de53928",
         "https://news.web.nhk/newsweb/na/nd-20261002de53950",
-        "https://news.web.nhk/newsweb/na/nd-20261002de53849",
-        "https://news.web.nhk/newsweb/na/nd-20261002de53805"
+        "https://news.web.nhk/newsweb/na/nd-20261002de53849"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/beautiful-photos-from-our-solar-system-kmf/",
