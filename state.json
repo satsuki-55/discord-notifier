@@ -24,6 +24,8 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cm3691y79xp5o#0",
+        "https://www.bbc.co.uk/news/articles/cmze4g8r6nr9o#1",
         "https://www.bbc.co.uk/news/articles/cm3691y79xp5o#1",
         "https://www.bbc.co.uk/news/articles/c5pve834grpno#1",
         "https://www.bbc.co.uk/news/articles/cmdx39k49xw0o#0",
@@ -221,11 +223,10 @@
         "https://www.bbc.co.uk/news/articles/c6wyv44y4ywjo#1",
         "https://www.bbc.co.uk/news/articles/c623dlk4y75mo#1",
         "https://www.bbc.co.uk/news/articles/c623dlk4y75mo#0",
-        "https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo#1",
-        "https://www.bbc.co.uk/news/videos/cr5ynddn318eo#1",
-        "https://www.bbc.co.uk/news/articles/cwr5ynnvpj2go#1"
+        "https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261005de54888",
         "https://news.web.nhk/newsweb/na/nd-20261005de54885",
         "https://news.web.nhk/newsweb/na/nd-20261005de54865",
         "https://news.web.nhk/newsweb/na/nd-20261005de54853",
@@ -424,8 +425,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261002de53799",
         "https://news.web.nhk/newsweb/na/nd-20261002de53820",
         "https://news.web.nhk/newsweb/na/nd-20261002de53922",
-        "https://news.web.nhk/newsweb/na/nd-20261002de53908",
-        "https://news.web.nhk/newsweb/na/nd-20261002de53904"
+        "https://news.web.nhk/newsweb/na/nd-20261002de53908"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-moonwalkers-dusk-electric-skates/",
