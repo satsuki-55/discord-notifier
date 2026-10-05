@@ -24,6 +24,8 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cme3r9eq2w0lo#0",
+        "https://www.bbc.co.uk/news/articles/crn8e86y5n0zo#1",
         "https://www.bbc.co.uk/news/articles/cxvgdl5npl86o#1",
         "https://www.bbc.co.uk/news/articles/cjy56yxxwy3po#1",
         "https://www.bbc.co.uk/news/articles/cq0ldwr166ggo#1",
@@ -221,11 +223,10 @@
         "https://www.bbc.co.uk/news/articles/c8zxl62yzxzxo#1",
         "https://www.bbc.co.uk/sport/golf/articles/cmy0rn425k4xo#1",
         "https://www.bbc.co.uk/news/articles/cme3x85013llo#0",
-        "https://www.bbc.co.uk/news/articles/c6lyeg1r9xe9o#0",
-        "https://www.bbc.co.uk/news/articles/cv62kp9enz08o#1",
-        "https://www.bbc.co.uk/news/videos/c3eweld0nddeo#0"
+        "https://www.bbc.co.uk/news/articles/c6lyeg1r9xe9o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261006de54965",
         "https://news.web.nhk/newsweb/na/nd-20261006de54962",
         "https://news.web.nhk/newsweb/na/nd-20261005de54873",
         "https://news.web.nhk/newsweb/na/nd-20261006de54961",
@@ -424,8 +425,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261002de53972",
         "https://news.web.nhk/newsweb/na/nd-20260930de53423",
         "https://news.web.nhk/newsweb/na/nd-20261002de53976",
-        "https://news.web.nhk/newsweb/na/nd-20261002de53957",
-        "https://news.web.nhk/newsweb/na/nd-20260930de53303"
+        "https://news.web.nhk/newsweb/na/nd-20261002de53957"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-georgia-cafe-water-black/",
