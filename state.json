@@ -226,6 +226,9 @@
         "https://www.bbc.co.uk/news/articles/c6ly0ljypzrdo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261006de54943",
+        "https://news.web.nhk/newsweb/na/nd-20261006de54940",
+        "https://news.web.nhk/newsweb/na/nd-20261006de54947",
         "https://news.web.nhk/newsweb/na/nd-20261005de54912",
         "https://news.web.nhk/newsweb/na/nd-20261002de53868",
         "https://news.web.nhk/newsweb/na/nd-20261006de54944",
@@ -422,10 +425,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261002de53967",
         "https://news.web.nhk/newsweb/na/nd-20261002de53965",
         "https://news.web.nhk/newsweb/na/nd-20261002de53956",
-        "https://news.web.nhk/newsweb/na/nd-20261002de53958",
-        "https://news.web.nhk/newsweb/na/nd-20261002de53928",
-        "https://news.web.nhk/newsweb/na/nd-20261002de53950",
-        "https://news.web.nhk/newsweb/na/nd-20261002de53849"
+        "https://news.web.nhk/newsweb/na/nd-20261002de53958"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/beautiful-photos-from-our-solar-system-kmf/",
