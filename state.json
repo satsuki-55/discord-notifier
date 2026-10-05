@@ -226,6 +226,7 @@
         "https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261005de54890",
         "https://news.web.nhk/newsweb/na/nd-20261005de54888",
         "https://news.web.nhk/newsweb/na/nd-20261005de54885",
         "https://news.web.nhk/newsweb/na/nd-20261005de54865",
@@ -424,10 +425,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261002de53925",
         "https://news.web.nhk/newsweb/na/nd-20261002de53799",
         "https://news.web.nhk/newsweb/na/nd-20261002de53820",
-        "https://news.web.nhk/newsweb/na/nd-20261002de53922",
-        "https://news.web.nhk/newsweb/na/nd-20261002de53908"
+        "https://news.web.nhk/newsweb/na/nd-20261002de53922"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/touch-screen-macbook-rumors/",
         "https://www.gizmodo.jp/article/2610-moonwalkers-dusk-electric-skates/",
         "https://www.gizmodo.jp/article/5d06b518-0c48-4bf2-8fd1-f633a2021f95/",
         "https://www.gizmodo.jp/article/nothing-early-access-review-program/",
@@ -626,8 +627,7 @@
         "https://www.gizmodo.jp/article/2609-keyboard-smartphone-clicks-communicator/",
         "https://www.gizmodo.jp/article/2609-keyboard-stand-with-storage/",
         "https://www.gizmodo.jp/article/2609-yamaha-gigmii/",
-        "https://www.gizmodo.jp/article/handful-of-reported-layoffs-at-apple-could-mean-a-more-robust-health-app-coming-soon/",
-        "https://www.gizmodo.jp/article/sam-altman-says-smart-glasses-uncomfortable-camera/"
+        "https://www.gizmodo.jp/article/handful-of-reported-layoffs-at-apple-could-mean-a-more-robust-health-app-coming-soon/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "8JJ36OM0a5I",
