@@ -224,6 +224,7 @@
         "https://www.bbc.co.uk/news/articles/c6y9z9r4ejzwo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261005de54429",
         "https://news.web.nhk/newsweb/na/nd-20261005de54452",
         "https://news.web.nhk/newsweb/na/nd-20261005de54437",
         "https://news.web.nhk/newsweb/na/nd-20261005de54416",
@@ -422,8 +423,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261002de53785",
         "https://news.web.nhk/newsweb/na/nd-20261001de53744",
         "https://news.web.nhk/newsweb/na/nd-20260930de53290",
-        "https://news.web.nhk/newsweb/na/nd-20261002de53774",
-        "https://news.web.nhk/newsweb/na/nd-20261002de53766"
+        "https://news.web.nhk/newsweb/na/nd-20261002de53774"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/multitask-5screen-display-system/",
