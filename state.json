@@ -224,6 +224,7 @@
         "https://www.bbc.co.uk/news/articles/cw8d3ddpz8dlo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261005de54755",
         "https://news.web.nhk/newsweb/na/nd-20261005de54694",
         "https://news.web.nhk/newsweb/na/nd-20260930de53293",
         "https://news.web.nhk/newsweb/na/nd-20261005de54586",
@@ -422,10 +423,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261002de53873",
         "https://news.web.nhk/newsweb/na/nd-20261002de53870",
         "https://news.web.nhk/newsweb/na/nd-20261002de53867",
-        "https://news.web.nhk/newsweb/na/nd-20261002de53858",
-        "https://news.web.nhk/newsweb/na/nd-20261002de53840"
+        "https://news.web.nhk/newsweb/na/nd-20261002de53858"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/meta-smart-glasses-privacy/",
         "https://www.gizmodo.jp/article/zelda-switch-2-40th-anniversary-edition-hands-on/",
         "https://www.gizmodo.jp/article/2610-neurable-one-eeg-headphone/",
         "https://www.gizmodo.jp/article/2610-ps5-free-qssr-ai-upscaling/",
@@ -624,8 +625,7 @@
         "https://www.gizmodo.jp/article/sam-altman-says-smart-glasses-uncomfortable-camera/",
         "https://www.gizmodo.jp/article/dolphins-use-seashells-to-scoop-up-fish-and-eat-them-in-rare-hunting-behavior/",
         "https://www.gizmodo.jp/article/2609-meta-vr-glasses-vs-quest/",
-        "https://www.gizmodo.jp/article/f21e7fac-10e4-495c-85fe-decda2c674fd-bew/",
-        "https://www.gizmodo.jp/article/sanwa-fire-prevention-tap/"
+        "https://www.gizmodo.jp/article/f21e7fac-10e4-495c-85fe-decda2c674fd-bew/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "8JJ36OM0a5I",
