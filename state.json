@@ -22,6 +22,8 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c933k3gk72x6o#0",
+        "https://www.bbc.co.uk/news/articles/ck4glnl2v9p5o#1",
         "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo#1",
         "https://www.bbc.co.uk/news/articles/c5pve834grpno#0",
         "https://www.bbc.co.uk/news/articles/c68xk0ndqz8jo#1",
@@ -219,11 +221,10 @@
         "https://www.bbc.co.uk/news/articles/cmz98wwklwz7o#1",
         "https://www.bbc.co.uk/news/articles/crn8e86y5n0zo#0",
         "https://www.bbc.co.uk/news/articles/cm0e3ed1er1yo#0",
-        "https://www.bbc.co.uk/news/articles/cm0e3ed1er1yo#1",
-        "https://www.bbc.co.uk/news/articles/c933k3gk72x6o#1",
-        "https://www.bbc.co.uk/news/articles/c933k3gk72x6o#0"
+        "https://www.bbc.co.uk/news/articles/cm0e3ed1er1yo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261005de54553",
         "https://news.web.nhk/newsweb/na/nd-20261005de54529",
         "https://news.web.nhk/newsweb/na/nd-20261002de53842",
         "https://news.web.nhk/newsweb/na/nd-20261005de54431",
@@ -422,8 +423,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260930de53229",
         "https://news.web.nhk/newsweb/na/nd-20261002de53794",
         "https://news.web.nhk/newsweb/na/nd-20261002de53784",
-        "https://news.web.nhk/newsweb/na/nd-20261002de53786",
-        "https://news.web.nhk/newsweb/na/nd-20261002de53787"
+        "https://news.web.nhk/newsweb/na/nd-20261002de53786"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/circulars-ring-3-series-beats-oura-to-adding-contactless-payments/",
