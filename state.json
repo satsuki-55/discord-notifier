@@ -24,6 +24,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/videos/cv62yd93z906o#1",
         "https://www.bbc.co.uk/news/articles/cjrvl8n82wvo#0",
         "https://www.bbc.co.uk/news/articles/cjrvl8n82wvo#1",
         "https://www.bbc.co.uk/news/articles/c63r5l04nejwo#1",
@@ -222,10 +223,10 @@
         "https://www.bbc.co.uk/news/articles/cgk53dkmyxko#0",
         "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo#1",
         "https://www.bbc.co.uk/news/articles/c3kgqw7zvz47o#1",
-        "https://www.bbc.co.uk/news/articles/c607l4l3vn0eo#0",
-        "https://www.bbc.co.uk/news/articles/cv1j3lgrl6gko#1"
+        "https://www.bbc.co.uk/news/articles/c607l4l3vn0eo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261002de53905",
         "https://news.web.nhk/newsweb/na/nd-20261005de54878",
         "https://news.web.nhk/newsweb/na/nd-20261005de54896",
         "https://news.web.nhk/newsweb/na/nd-20261005de54898",
@@ -424,8 +425,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261002de53951",
         "https://news.web.nhk/newsweb/na/nd-20261002de53868",
         "https://news.web.nhk/newsweb/na/nd-20261002de53939",
-        "https://news.web.nhk/newsweb/na/nd-20261002de53932",
-        "https://news.web.nhk/newsweb/na/nd-20261002de53930"
+        "https://news.web.nhk/newsweb/na/nd-20261002de53932"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/apple-watch-ultra-4-review/",
