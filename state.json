@@ -224,6 +224,7 @@
         "https://www.bbc.co.uk/news/articles/cm0e3ed1er1yo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261002de53786",
         "https://news.web.nhk/newsweb/na/nd-20261005de54433",
         "https://news.web.nhk/newsweb/na/nd-20261005de54553",
         "https://news.web.nhk/newsweb/na/nd-20261005de54529",
@@ -422,10 +423,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260930de53277",
         "https://news.web.nhk/newsweb/na/nd-20261002de53795",
         "https://news.web.nhk/newsweb/na/nd-20260930de53229",
-        "https://news.web.nhk/newsweb/na/nd-20261002de53794",
-        "https://news.web.nhk/newsweb/na/nd-20261002de53784"
+        "https://news.web.nhk/newsweb/na/nd-20261002de53794"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2610-nothing-headphone-pro-1-case/",
         "https://www.gizmodo.jp/article/circulars-ring-3-series-beats-oura-to-adding-contactless-payments/",
         "https://www.gizmodo.jp/article/2610-apple-homepad-color-leaks/",
         "https://www.gizmodo.jp/article/interview-with-extropic-ai-guillaume-verdon-eyl/",
@@ -624,8 +625,7 @@
         "https://www.gizmodo.jp/article/meta-vr-glasses_news/",
         "https://www.gizmodo.jp/article/2609-junk-food-cognitive-decline/",
         "https://www.gizmodo.jp/article/2609-us-space-control-weapons/",
-        "https://www.gizmodo.jp/article/dragonberry-weed-could-help-scientists-extract-rare-earth-metals-from-polluted-soil-uyu/",
-        "https://www.gizmodo.jp/article/surf-wec-hawaii-wave-energy/"
+        "https://www.gizmodo.jp/article/dragonberry-weed-could-help-scientists-extract-rare-earth-metals-from-polluted-soil-uyu/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "8JJ36OM0a5I",
