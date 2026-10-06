@@ -227,6 +227,8 @@
         "https://www.bbc.co.uk/news/articles/cm4gl1yllg6po#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261006de55504",
+        "https://news.web.nhk/newsweb/na/nd-20261006de55532",
         "https://news.web.nhk/newsweb/na/nd-20261006de55526",
         "https://news.web.nhk/newsweb/na/nd-20261006de55531",
         "https://news.web.nhk/newsweb/na/nd-20261006de55501",
@@ -424,9 +426,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261003de54085",
         "https://news.web.nhk/newsweb/na/nd-20261003de54076",
         "https://news.web.nhk/newsweb/na/nd-20261003de54073",
-        "https://news.web.nhk/newsweb/na/nd-20261003de54074",
-        "https://news.web.nhk/newsweb/na/nd-20261003de54079",
-        "https://news.web.nhk/newsweb/na/nd-20261003de54063"
+        "https://news.web.nhk/newsweb/na/nd-20261003de54074"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-oled-macbook-pro-lightweight/",
