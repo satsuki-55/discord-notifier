@@ -226,6 +226,7 @@
         "https://www.bbc.co.uk/news/articles/ckly0leelnz4o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261006de55062",
         "https://news.web.nhk/newsweb/na/nd-20261006de55059",
         "https://news.web.nhk/newsweb/na/nd-20261002de53982",
         "https://news.web.nhk/newsweb/na/nd-20261006de55019",
@@ -424,10 +425,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261003de54003",
         "https://news.web.nhk/newsweb/na/nd-20261003de53999",
         "https://news.web.nhk/newsweb/na/nd-20261003de53995",
-        "https://news.web.nhk/newsweb/na/nd-20261003de53994",
-        "https://news.web.nhk/newsweb/na/nd-20261002de53993"
+        "https://news.web.nhk/newsweb/na/nd-20261003de53994"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/tickey-color-e-paper-badge/",
         "https://www.gizmodo.jp/article/boston-dynamics-atlas-four-finger-hand/",
         "https://www.gizmodo.jp/article/work-using-starlink-kwc/",
         "https://www.gizmodo.jp/article/2610-anker-usb-c-hub-display/",
@@ -626,8 +627,7 @@
         "https://www.gizmodo.jp/article/2609-moft-dynamic-folio-iphone-duo/",
         "https://www.gizmodo.jp/article/2609-ray-ban-meta-audio/",
         "https://www.gizmodo.jp/article/2609-a16z-horowitz-andreessen-academy-university/",
-        "https://www.gizmodo.jp/article/2609-meta-vr-glasses-hands-on/",
-        "https://www.gizmodo.jp/article/2609-realforce-rs1-keyboard-split/"
+        "https://www.gizmodo.jp/article/2609-meta-vr-glasses-hands-on/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "8JJ36OM0a5I",
