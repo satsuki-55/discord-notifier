@@ -26,6 +26,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c32l4nqx5wvko#0",
         "https://www.bbc.co.uk/news/articles/cq9868z88rexo#0",
         "https://www.bbc.co.uk/news/videos/c914d43gg2zdo#0",
         "https://www.bbc.co.uk/news/articles/c6zxjrekg29zo#0",
@@ -224,8 +225,7 @@
         "https://www.bbc.co.uk/news/articles/c689zl5eljdzo#1",
         "https://www.bbc.co.uk/news/articles/cvze4g06526ro#0",
         "https://www.bbc.co.uk/news/articles/cm2d6gg0642yo#1",
-        "https://www.bbc.co.uk/news/articles/cvze4g06526ro#1",
-        "https://www.bbc.co.uk/news/articles/c5398kkx27ewo#1"
+        "https://www.bbc.co.uk/news/articles/cvze4g06526ro#1"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20261007de55633",
@@ -430,6 +430,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261004de54216"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2610-chrome-extension-poper-blocker/",
         "https://www.gizmodo.jp/article/alarming-study-finds-new-evidence-that-the-sun-can-produce-catastrophic-superflares/",
         "https://www.gizmodo.jp/article/solarpanel-attachment-ajv/",
         "https://www.gizmodo.jp/article/2610-alexa-creepy-humming-bug/",
@@ -628,8 +629,7 @@
         "https://www.gizmodo.jp/article/daiso-usb-shoes-dryer-evo/",
         "https://www.gizmodo.jp/article/canon-asian-games/",
         "https://www.gizmodo.jp/article/2609-hyperkin-shockline-retro-game-usb-c/",
-        "https://www.gizmodo.jp/article/2609-smart-glasses-banned-in-hamburg/",
-        "https://www.gizmodo.jp/article/2609-nothing-cmf-india/"
+        "https://www.gizmodo.jp/article/2609-smart-glasses-banned-in-hamburg/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "8JJ36OM0a5I",
