@@ -24,6 +24,9 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c83v4qe70r0ko#0",
+        "https://www.bbc.co.uk/news/articles/cm1j4j9lxp49o#0",
+        "https://www.bbc.co.uk/news/articles/cglg04dd4nko#1",
         "https://www.bbc.co.uk/news/articles/c670pzpv9gk4o#1",
         "https://www.bbc.co.uk/news/articles/c862ylle91k7o#1",
         "https://www.bbc.co.uk/news/articles/cq20v0e7vjkgo#0",
@@ -220,12 +223,10 @@
         "https://www.bbc.co.uk/news/articles/cq8jzll3w4lvo#0",
         "https://www.bbc.co.uk/news/articles/cxly4nym57q9o#1",
         "https://www.bbc.co.uk/news/articles/cve8x724e9ezo#0",
-        "https://www.bbc.co.uk/news/articles/cxly4nym57q9o#0",
-        "https://www.bbc.co.uk/news/articles/cklyje46xnpgo#0",
-        "https://www.bbc.co.uk/news/articles/c83v4qe70r0ko#0",
-        "https://www.bbc.co.uk/news/articles/cm1j4j9lxp49o#0"
+        "https://www.bbc.co.uk/news/articles/cxly4nym57q9o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261006de55136",
         "https://news.web.nhk/newsweb/na/nd-20261006de55283",
         "https://news.web.nhk/newsweb/na/nd-20261006de55277",
         "https://news.web.nhk/newsweb/na/nd-20261006de55244",
@@ -424,8 +425,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261003de54030",
         "https://news.web.nhk/newsweb/na/nd-20261003de54027",
         "https://news.web.nhk/newsweb/na/nd-20261003de54021",
-        "https://news.web.nhk/newsweb/na/nd-20260930de53291",
-        "https://news.web.nhk/newsweb/na/nd-20261003de54022"
+        "https://news.web.nhk/newsweb/na/nd-20260930de53291"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-immurok-ik-1-touch-id-device/",
