@@ -226,6 +226,7 @@
         "https://www.bbc.co.uk/news/articles/cqx2z23xj555o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260930de53373",
         "https://news.web.nhk/newsweb/na/nd-20261006de54999",
         "https://news.web.nhk/newsweb/na/nd-20261006de55007",
         "https://news.web.nhk/newsweb/na/nd-20261006de54980",
@@ -424,10 +425,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261002de53989",
         "https://news.web.nhk/newsweb/na/nd-20261002de53980",
         "https://news.web.nhk/newsweb/na/nd-20261002de53968",
-        "https://news.web.nhk/newsweb/na/nd-20261002de53984",
-        "https://news.web.nhk/newsweb/na/nd-20260930de53426"
+        "https://news.web.nhk/newsweb/na/nd-20261002de53984"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2610-anker-usb-c-hub-display/",
         "https://www.gizmodo.jp/article/43025319-741d-436a-94d1-a1d7c844df12/",
         "https://www.gizmodo.jp/article/2610-openai-textgrain-watermark/",
         "https://www.gizmodo.jp/article/moondrop-evo2-wireless-adapter/",
@@ -626,8 +627,7 @@
         "https://www.gizmodo.jp/article/2609-meta-vr-glasses-hands-on/",
         "https://www.gizmodo.jp/article/2609-realforce-rs1-keyboard-split/",
         "https://www.gizmodo.jp/article/2609-m6-mac-mini-amazon-sale/",
-        "https://www.gizmodo.jp/article/2609-razer-pompompurin-gaming-headset/",
-        "https://www.gizmodo.jp/article/c4c5bec4-773d-419b-adf9-0d51004b716e/"
+        "https://www.gizmodo.jp/article/2609-razer-pompompurin-gaming-headset/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "8JJ36OM0a5I",
