@@ -226,6 +226,7 @@
         "https://www.bbc.co.uk/news/articles/c6wyz0r2n0djo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261006de55277",
         "https://news.web.nhk/newsweb/na/nd-20261006de55244",
         "https://news.web.nhk/newsweb/na/nd-20261003de54011",
         "https://news.web.nhk/newsweb/na/nd-20260930de53488",
@@ -424,8 +425,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261003de54021",
         "https://news.web.nhk/newsweb/na/nd-20260930de53291",
         "https://news.web.nhk/newsweb/na/nd-20261003de54022",
-        "https://news.web.nhk/newsweb/na/nd-20261003de54019",
-        "https://news.web.nhk/newsweb/na/nd-20261003de54014"
+        "https://news.web.nhk/newsweb/na/nd-20261003de54019"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-toshiba-ai-hdd-expansion/",
