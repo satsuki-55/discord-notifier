@@ -228,6 +228,7 @@
         "https://www.bbc.co.uk/news/articles/cmkg79z04w4zo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261007de55633",
         "https://news.web.nhk/newsweb/na/nd-20261007de55605",
         "https://news.web.nhk/newsweb/na/nd-20261007de55615",
         "https://news.web.nhk/newsweb/na/nd-20261007de55634",
@@ -426,8 +427,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261004de54277",
         "https://news.web.nhk/newsweb/na/nd-20261004de54232",
         "https://news.web.nhk/newsweb/na/nd-20261004de54215",
-        "https://news.web.nhk/newsweb/na/nd-20261004de54216",
-        "https://news.web.nhk/newsweb/na/nd-20261001de53648"
+        "https://news.web.nhk/newsweb/na/nd-20261004de54216"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/alarming-study-finds-new-evidence-that-the-sun-can-produce-catastrophic-superflares/",
