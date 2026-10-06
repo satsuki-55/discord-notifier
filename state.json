@@ -226,6 +226,7 @@
         "https://www.bbc.co.uk/news/articles/ckly0leelnz4o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261006de55105",
         "https://news.web.nhk/newsweb/na/nd-20261006de55062",
         "https://news.web.nhk/newsweb/na/nd-20261006de55059",
         "https://news.web.nhk/newsweb/na/nd-20261002de53982",
@@ -424,8 +425,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261003de54004",
         "https://news.web.nhk/newsweb/na/nd-20261003de54003",
         "https://news.web.nhk/newsweb/na/nd-20261003de53999",
-        "https://news.web.nhk/newsweb/na/nd-20261003de53995",
-        "https://news.web.nhk/newsweb/na/nd-20261003de53994"
+        "https://news.web.nhk/newsweb/na/nd-20261003de53995"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/tickey-color-e-paper-badge/",
