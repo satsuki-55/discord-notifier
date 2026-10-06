@@ -226,6 +226,10 @@
         "https://www.bbc.co.uk/news/articles/ckly0leelnz4o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261006de55059",
+        "https://news.web.nhk/newsweb/na/nd-20261002de53982",
+        "https://news.web.nhk/newsweb/na/nd-20261006de55019",
+        "https://news.web.nhk/newsweb/na/nd-20261006de55099",
         "https://news.web.nhk/newsweb/na/nd-20261006de55068",
         "https://news.web.nhk/newsweb/na/nd-20261006de55001",
         "https://news.web.nhk/newsweb/na/nd-20261006de55017",
@@ -421,11 +425,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261003de53999",
         "https://news.web.nhk/newsweb/na/nd-20261003de53995",
         "https://news.web.nhk/newsweb/na/nd-20261003de53994",
-        "https://news.web.nhk/newsweb/na/nd-20261002de53993",
-        "https://news.web.nhk/newsweb/na/nd-20261002de53988",
-        "https://news.web.nhk/newsweb/na/nd-20261002de53987",
-        "https://news.web.nhk/newsweb/na/nd-20261002de53982",
-        "https://news.web.nhk/newsweb/na/nd-20261002de53986"
+        "https://news.web.nhk/newsweb/na/nd-20261002de53993"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/boston-dynamics-atlas-four-finger-hand/",
