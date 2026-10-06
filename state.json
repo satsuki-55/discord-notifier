@@ -226,6 +226,7 @@
         "https://www.bbc.co.uk/news/articles/c8zxl62yzxzxo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261006de54974",
         "https://news.web.nhk/newsweb/na/nd-20260930de53294",
         "https://news.web.nhk/newsweb/na/nd-20261006de54965",
         "https://news.web.nhk/newsweb/na/nd-20261006de54962",
@@ -424,8 +425,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261002de53971",
         "https://news.web.nhk/newsweb/na/nd-20260930de53373",
         "https://news.web.nhk/newsweb/na/nd-20261002de53972",
-        "https://news.web.nhk/newsweb/na/nd-20260930de53423",
-        "https://news.web.nhk/newsweb/na/nd-20261002de53976"
+        "https://news.web.nhk/newsweb/na/nd-20260930de53423"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-openai-textgrain-watermark/",
