@@ -228,6 +228,7 @@
         "https://www.bbc.co.uk/news/videos/cwp9g54v9xjlo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261006de55584",
         "https://news.web.nhk/newsweb/na/nd-20261006de55581",
         "https://news.web.nhk/newsweb/na/nd-20261006de55579",
         "https://news.web.nhk/newsweb/na/nd-20261007de55607",
@@ -426,8 +427,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261004de54163",
         "https://news.web.nhk/newsweb/na/nd-20261004de54164",
         "https://news.web.nhk/newsweb/na/nd-20261003de54071",
-        "https://news.web.nhk/newsweb/na/nd-20261004de54158",
-        "https://news.web.nhk/newsweb/na/nd-20261004de54156"
+        "https://news.web.nhk/newsweb/na/nd-20261004de54158"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/solarpanel-attachment-ajv/",
