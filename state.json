@@ -226,6 +226,8 @@
         "https://www.bbc.co.uk/news/articles/cve8x724e9ezo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261003de54021",
+        "https://news.web.nhk/newsweb/na/nd-20261006de55037",
         "https://news.web.nhk/newsweb/na/nd-20261006de55287",
         "https://news.web.nhk/newsweb/na/nd-20261006de55136",
         "https://news.web.nhk/newsweb/na/nd-20261006de55283",
@@ -423,9 +425,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261003de54036",
         "https://news.web.nhk/newsweb/na/nd-20261003de54031",
         "https://news.web.nhk/newsweb/na/nd-20261003de54032",
-        "https://news.web.nhk/newsweb/na/nd-20261003de54030",
-        "https://news.web.nhk/newsweb/na/nd-20261003de54027",
-        "https://news.web.nhk/newsweb/na/nd-20261003de54021"
+        "https://news.web.nhk/newsweb/na/nd-20261003de54030"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-immurok-ik-1-touch-id-device/",
