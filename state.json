@@ -227,6 +227,7 @@
         "https://www.bbc.co.uk/news/articles/cqm249v07j4xo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261006de55560",
         "https://news.web.nhk/newsweb/na/nd-20261006de55557",
         "https://news.web.nhk/newsweb/na/nd-20261006de55543",
         "https://news.web.nhk/newsweb/na/nd-20261003de54074",
@@ -425,8 +426,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261003de54080",
         "https://news.web.nhk/newsweb/na/nd-20261003de54054",
         "https://news.web.nhk/newsweb/na/nd-20261003de54093",
-        "https://news.web.nhk/newsweb/na/nd-20261003de54086",
-        "https://news.web.nhk/newsweb/na/nd-20261003de54084"
+        "https://news.web.nhk/newsweb/na/nd-20261003de54086"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-alexa-creepy-humming-bug/",
