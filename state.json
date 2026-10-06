@@ -226,6 +226,7 @@
         "https://www.bbc.co.uk/news/articles/crq5nd9dgz68o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261006de55207",
         "https://news.web.nhk/newsweb/na/nd-20261006de55203",
         "https://news.web.nhk/newsweb/na/nd-20261006de55198",
         "https://news.web.nhk/newsweb/na/nd-20261006de55179",
@@ -424,8 +425,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261002de53962",
         "https://news.web.nhk/newsweb/na/nd-20261003de54012",
         "https://news.web.nhk/newsweb/na/nd-20261003de54011",
-        "https://news.web.nhk/newsweb/na/nd-20260930de53488",
-        "https://news.web.nhk/newsweb/na/nd-20261003de54009"
+        "https://news.web.nhk/newsweb/na/nd-20260930de53488"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2609-lht-kensington-slim-blade-lts/",
