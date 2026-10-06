@@ -226,6 +226,7 @@
         "https://www.bbc.co.uk/news/articles/cqx2z23xj555o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261006de55017",
         "https://news.web.nhk/newsweb/na/nd-20261006de55039",
         "https://news.web.nhk/newsweb/na/nd-20260930de53426",
         "https://news.web.nhk/newsweb/na/nd-20260930de53373",
@@ -424,8 +425,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261002de53982",
         "https://news.web.nhk/newsweb/na/nd-20261002de53986",
         "https://news.web.nhk/newsweb/na/nd-20261002de53985",
-        "https://news.web.nhk/newsweb/na/nd-20261002de53989",
-        "https://news.web.nhk/newsweb/na/nd-20261002de53980"
+        "https://news.web.nhk/newsweb/na/nd-20261002de53989"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/work-using-starlink-kwc/",
