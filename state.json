@@ -25,6 +25,8 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cwe8ldgzj277o#0",
+        "https://www.bbc.co.uk/news/articles/cq203mymlvkeo#0",
         "https://www.bbc.co.uk/news/articles/cj62ylzpr6d3o#1",
         "https://www.bbc.co.uk/news/videos/c5rm9mdperemo#0",
         "https://www.bbc.co.uk/news/articles/cj62ylzpr6d3o#0",
@@ -222,11 +224,10 @@
         "https://www.bbc.co.uk/news/articles/c6lyeg1r9xe9o#1",
         "https://www.bbc.co.uk/news/articles/cmpd0wev8v38o#1",
         "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo#0",
-        "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo#1",
-        "https://www.bbc.co.uk/news/articles/c6qjnlk4r2jjo#1",
-        "https://www.bbc.co.uk/news/articles/cme30dz5vkzko#0"
+        "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261006de55161",
         "https://news.web.nhk/newsweb/na/nd-20261006de55481",
         "https://news.web.nhk/newsweb/na/nd-20261006de55355",
         "https://news.web.nhk/newsweb/na/nd-20261006de55188",
@@ -425,8 +426,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261003de54060",
         "https://news.web.nhk/newsweb/na/nd-20261003de54056",
         "https://news.web.nhk/newsweb/na/nd-20261003de54053",
-        "https://news.web.nhk/newsweb/na/nd-20261003de54049",
-        "https://news.web.nhk/newsweb/na/nd-20261003de54043"
+        "https://news.web.nhk/newsweb/na/nd-20261003de54049"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-ugreen-finetrack-mini-2-item-tracker/",
