@@ -25,6 +25,8 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c6eq84eygz0qo#0",
+        "https://www.bbc.co.uk/news/articles/cm62ep294qxlo#0",
         "https://www.bbc.co.uk/news/articles/cxj0604d33qzo#0",
         "https://www.bbc.co.uk/news/articles/cwp9g5p1gy7yo#1",
         "https://www.bbc.co.uk/news/articles/cxj0604d33qzo#1",
@@ -222,9 +224,7 @@
         "https://www.bbc.co.uk/news/articles/c9e8lvm6nrr3o#1",
         "https://www.bbc.co.uk/news/articles/c6y9z9r4ejzwo#0",
         "https://www.bbc.co.uk/news/articles/cqn747k6pem0o#0",
-        "https://www.bbc.co.uk/news/articles/c6eq84eygz0qo#1",
-        "https://www.bbc.co.uk/news/articles/cjr4v9g14vygo#0",
-        "https://www.bbc.co.uk/news/articles/c6eq84eygz0qo#0"
+        "https://www.bbc.co.uk/news/articles/c6eq84eygz0qo#1"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20261003de54074",
@@ -429,6 +429,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261003de54076"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2610-alexa-creepy-humming-bug/",
         "https://www.gizmodo.jp/article/2610-silent-candy/",
         "https://www.gizmodo.jp/article/sound-summit-2026/",
         "https://www.gizmodo.jp/article/2610-oled-macbook-pro-lightweight/",
@@ -627,8 +628,7 @@
         "https://www.gizmodo.jp/article/2609-smart-glasses-banned-in-hamburg/",
         "https://www.gizmodo.jp/article/2609-nothing-cmf-india/",
         "https://www.gizmodo.jp/article/openai-releases-new-gpt-6-sol-and-luna-models-sells-them-as-mini-astras/",
-        "https://www.gizmodo.jp/article/gizmart-nape-pro-re/",
-        "https://www.gizmodo.jp/article/2609-hydrogen-fuel-engine-large-ships/"
+        "https://www.gizmodo.jp/article/gizmart-nape-pro-re/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "8JJ36OM0a5I",
