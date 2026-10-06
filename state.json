@@ -25,6 +25,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c8ly0v5r602eo#0",
         "https://www.bbc.co.uk/news/articles/cme8r9267dpko#1",
         "https://www.bbc.co.uk/news/videos/c6reyz98gz2no#1",
         "https://www.bbc.co.uk/news/articles/cwe8ldgzj277o#1",
@@ -223,8 +224,7 @@
         "https://www.bbc.co.uk/news/articles/c8ly40r9v95no#1",
         "https://www.bbc.co.uk/news/articles/cwddvddgqv9ro#1",
         "https://www.bbc.co.uk/news/articles/cwvgrle6dx2lo#0",
-        "https://www.bbc.co.uk/news/articles/cwvgrle6dx2lo#1",
-        "https://www.bbc.co.uk/news/articles/cqm249v07j4xo#0"
+        "https://www.bbc.co.uk/news/articles/cwvgrle6dx2lo#1"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20261006de55492",
@@ -429,6 +429,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261003de54056"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2610-solar-multi-radio-light-review/",
         "https://www.gizmodo.jp/article/2610-ugreen-finetrack-mini-2-item-tracker/",
         "https://www.gizmodo.jp/article/2610-immurok-ik-1-touch-id-device/",
         "https://www.gizmodo.jp/article/2610-macos-touch-code-discovered/",
@@ -627,8 +628,7 @@
         "https://www.gizmodo.jp/article/2609-hydrogen-fuel-engine-large-ships/",
         "https://www.gizmodo.jp/article/cyclemode2026-smachari-zxw/",
         "https://www.gizmodo.jp/article/2609-meta-muse-charm/",
-        "https://www.gizmodo.jp/article/apple-watch-reboot-bug-fix/",
-        "https://www.gizmodo.jp/article/2609-meta-ray-ban-display-features-and-update/"
+        "https://www.gizmodo.jp/article/apple-watch-reboot-bug-fix/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "8JJ36OM0a5I",
