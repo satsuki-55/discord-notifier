@@ -24,6 +24,9 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cq20v0exmv2eo#0",
+        "https://www.bbc.co.uk/news/videos/cmkg7dx8wpygo#1",
+        "https://www.bbc.co.uk/news/articles/c52e9k3998e7o#1",
         "https://www.bbc.co.uk/news/videos/c6ge4lyy9x0no#0",
         "https://www.bbc.co.uk/news/articles/c6q8jly114j8o#0",
         "https://www.bbc.co.uk/news/articles/cqx2z23xj555o#0",
@@ -220,12 +223,10 @@
         "https://www.bbc.co.uk/news/articles/cqkgx895g9vzo#2",
         "https://www.bbc.co.uk/news/articles/cv4g5267jk8yo#2",
         "https://www.bbc.co.uk/weather/articles/c6e3x8zg7wklo#1",
-        "https://www.bbc.co.uk/news/articles/c9m2mjj3yvg4o#2",
-        "https://www.bbc.co.uk/news/videos/c3eweld0nddeo#2",
-        "https://www.bbc.co.uk/news/articles/cq20v0exmv2eo#0",
-        "https://www.bbc.co.uk/news/articles/ckly0leelnz4o#0"
+        "https://www.bbc.co.uk/news/articles/c9m2mjj3yvg4o#2"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261006de55009",
         "https://news.web.nhk/newsweb/na/nd-20261006de55117",
         "https://news.web.nhk/newsweb/na/nd-20261006de55111",
         "https://news.web.nhk/newsweb/na/nd-20261006de55105",
@@ -424,8 +425,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261002de53991",
         "https://news.web.nhk/newsweb/na/nd-20261003de54001",
         "https://news.web.nhk/newsweb/na/nd-20261003de54002",
-        "https://news.web.nhk/newsweb/na/nd-20261003de54004",
-        "https://news.web.nhk/newsweb/na/nd-20261003de54003"
+        "https://news.web.nhk/newsweb/na/nd-20261003de54004"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/tickey-color-e-paper-badge/",
