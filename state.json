@@ -27,6 +27,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cj62ylxqz173o#0",
         "https://www.bbc.co.uk/news/videos/c5398nwe9lzlo#1",
         "https://www.bbc.co.uk/news/videos/crgj97n2x1j4o#2",
         "https://www.bbc.co.uk/news/videos/cwm26078pkepo#1",
@@ -225,8 +226,7 @@
         "https://www.bbc.co.uk/news/articles/c5ev3ypmzly8o#1",
         "https://www.bbc.co.uk/news/articles/c5ev3ypmzly8o#0",
         "https://www.bbc.co.uk/news/articles/c6qxv55882z1o#0",
-        "https://www.bbc.co.uk/news/videos/c83vqk2k2k20o#1",
-        "https://www.bbc.co.uk/news/articles/cmj47xdq5nz9o#1"
+        "https://www.bbc.co.uk/news/videos/c83vqk2k2k20o#1"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20261007de55773",
@@ -431,6 +431,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261004de54280"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2610-cassettone-mini-poor-mans-mellotron/",
         "https://www.gizmodo.jp/article/2610-thrustmaster-t-gt-3-gt7-direct-drive-wheel/",
         "https://www.gizmodo.jp/article/2610-switch2-microsd-express-512gb/",
         "https://www.gizmodo.jp/article/nasa-struggling-open-asteroid-sample-container-jpn-qic/",
@@ -629,8 +630,7 @@
         "https://www.gizmodo.jp/article/157af9f9-43c2-401d-aea4-8eb820c6cd27/",
         "https://www.gizmodo.jp/article/2609-motorola-signature-27/",
         "https://www.gizmodo.jp/article/mendori_movie_palfi-gyorgy_interview/",
-        "https://www.gizmodo.jp/article/realforce-rs1/",
-        "https://www.gizmodo.jp/article/demystifying-the-iphone-18-pros-variable-aperture/"
+        "https://www.gizmodo.jp/article/realforce-rs1/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "8JJ36OM0a5I",
