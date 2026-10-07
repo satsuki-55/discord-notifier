@@ -229,6 +229,7 @@
         "https://www.bbc.co.uk/news/articles/cw14682n8v03o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261007de55926",
         "https://news.web.nhk/newsweb/na/nd-20261007de55924",
         "https://news.web.nhk/newsweb/na/nd-20261007de55829",
         "https://news.web.nhk/newsweb/na/nd-20260930de53295",
@@ -427,8 +428,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261004de54348",
         "https://news.web.nhk/newsweb/na/nd-20261004de54374",
         "https://news.web.nhk/newsweb/na/nd-20261005de54399",
-        "https://news.web.nhk/newsweb/na/nd-20261005de54401",
-        "https://news.web.nhk/newsweb/na/nd-20261005de54384"
+        "https://news.web.nhk/newsweb/na/nd-20261005de54401"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-apple-new-products-october/",
