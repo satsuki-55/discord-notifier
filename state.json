@@ -229,6 +229,7 @@
         "https://www.bbc.co.uk/news/articles/cmj47xdq5nz9o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261007de55773",
         "https://news.web.nhk/newsweb/na/nd-20261007de55732",
         "https://news.web.nhk/newsweb/na/nd-20261007de55717",
         "https://news.web.nhk/newsweb/na/nd-20261007de55698",
@@ -427,8 +428,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261004de54342",
         "https://news.web.nhk/newsweb/na/nd-20261004de54320",
         "https://news.web.nhk/newsweb/na/nd-20261004de54343",
-        "https://news.web.nhk/newsweb/na/nd-20261004de54280",
-        "https://news.web.nhk/newsweb/na/nd-20260930de53274"
+        "https://news.web.nhk/newsweb/na/nd-20261004de54280"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-thrustmaster-t-gt-3-gt7-direct-drive-wheel/",
