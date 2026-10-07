@@ -228,6 +228,7 @@
         "https://www.bbc.co.uk/news/articles/c8r4yxpry5e9o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261007de55717",
         "https://news.web.nhk/newsweb/na/nd-20261007de55698",
         "https://news.web.nhk/newsweb/na/nd-20261007de55664",
         "https://news.web.nhk/newsweb/na/nd-20261007de55636",
@@ -426,10 +427,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261004de54343",
         "https://news.web.nhk/newsweb/na/nd-20261004de54280",
         "https://news.web.nhk/newsweb/na/nd-20260930de53274",
-        "https://news.web.nhk/newsweb/na/nd-20261004de54266",
-        "https://news.web.nhk/newsweb/na/nd-20261004de54271"
+        "https://news.web.nhk/newsweb/na/nd-20261004de54266"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2610-switch2-microsd-express-512gb/",
         "https://www.gizmodo.jp/article/nasa-struggling-open-asteroid-sample-container-jpn-qic/",
         "https://www.gizmodo.jp/article/2610-apple-watch-series12-ultra4-handwash-timer/",
         "https://www.gizmodo.jp/article/denon-dp-500bt/",
@@ -628,8 +629,7 @@
         "https://www.gizmodo.jp/article/mendori_movie_palfi-gyorgy_interview/",
         "https://www.gizmodo.jp/article/realforce-rs1/",
         "https://www.gizmodo.jp/article/demystifying-the-iphone-18-pros-variable-aperture/",
-        "https://www.gizmodo.jp/article/2609-beats-360-wireless-headphones/",
-        "https://www.gizmodo.jp/article/2609-moft-iphone18-pro-case-review/"
+        "https://www.gizmodo.jp/article/2609-beats-360-wireless-headphones/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "8JJ36OM0a5I",
