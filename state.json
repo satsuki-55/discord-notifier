@@ -230,6 +230,7 @@
         "https://www.bbc.co.uk/news/articles/c63r5l04nejwo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261007de56073",
         "https://news.web.nhk/newsweb/na/nd-20261007de56048",
         "https://news.web.nhk/newsweb/na/nd-20261007de55662",
         "https://news.web.nhk/newsweb/na/nd-20261007de56022",
@@ -428,10 +429,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261002de53842",
         "https://news.web.nhk/newsweb/na/nd-20261005de54431",
         "https://news.web.nhk/newsweb/na/nd-20261005de54503",
-        "https://news.web.nhk/newsweb/na/nd-20261005de54440",
-        "https://news.web.nhk/newsweb/na/nd-20261005de54429"
+        "https://news.web.nhk/newsweb/na/nd-20261005de54440"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2610-sony-meta-xr-patents/",
         "https://www.gizmodo.jp/article/2610-fitbit-edge-specs-price-leak/",
         "https://www.gizmodo.jp/article/retro-ambient-audio-system/",
         "https://www.gizmodo.jp/article/2610-apple-new-products-october/",
@@ -630,8 +631,7 @@
         "https://www.gizmodo.jp/article/pink-noise-csf-flow-mit/",
         "https://www.gizmodo.jp/article/2609-meganeichiba-linse-display-ai-smart-glasses/",
         "https://www.gizmodo.jp/article/alienware-aw3926qw-ultrawide-gaming-monitor-review/",
-        "https://www.gizmodo.jp/article/2609-meta-muse-charm-release/",
-        "https://www.gizmodo.jp/article/salad-spinner-water-drainage-tips/"
+        "https://www.gizmodo.jp/article/2609-meta-muse-charm-release/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "8JJ36OM0a5I",
