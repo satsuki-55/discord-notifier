@@ -230,6 +230,7 @@
         "https://www.bbc.co.uk/news/articles/ck5yn81qqde0o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261005de54630",
         "https://news.web.nhk/newsweb/na/nd-20261007de56144",
         "https://news.web.nhk/newsweb/na/nd-20261007de56145",
         "https://news.web.nhk/newsweb/na/nd-20261007de56148",
@@ -428,8 +429,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261005de54694",
         "https://news.web.nhk/newsweb/na/nd-20260930de53293",
         "https://news.web.nhk/newsweb/na/nd-20261005de54586",
-        "https://news.web.nhk/newsweb/na/nd-20261005de54633",
-        "https://news.web.nhk/newsweb/na/nd-20261005de54426"
+        "https://news.web.nhk/newsweb/na/nd-20261005de54633"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/something-deep-inside-earth-keeps-messing-with-the-length-of-our-days/",
