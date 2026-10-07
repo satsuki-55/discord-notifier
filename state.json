@@ -28,6 +28,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/ckx2d4ddjn2eo#0",
         "https://www.bbc.co.uk/news/videos/cw99zxxx891yo#1",
         "https://www.bbc.co.uk/news/articles/cmwyq34qexdzo#1",
         "https://www.bbc.co.uk/news/articles/cq62j2lzlnm8o#1",
@@ -226,10 +227,10 @@
         "https://www.bbc.co.uk/news/articles/cq8jzyey8e2ro#0",
         "https://www.bbc.co.uk/news/articles/cqzrd7v1j163o#0",
         "https://www.bbc.co.uk/news/articles/cve8x724e9ezo#0",
-        "https://www.bbc.co.uk/news/articles/c65yn5djx1pko#1",
-        "https://www.bbc.co.uk/news/articles/cklyje46xnpgo#0"
+        "https://www.bbc.co.uk/news/articles/c65yn5djx1pko#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261008de56245",
         "https://news.web.nhk/newsweb/na/nd-20261008de56242",
         "https://news.web.nhk/newsweb/na/nd-20261008de56244",
         "https://news.web.nhk/newsweb/na/nd-20261008de56238",
@@ -428,8 +429,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261005de54910",
         "https://news.web.nhk/newsweb/na/nd-20261002de53905",
         "https://news.web.nhk/newsweb/na/nd-20261005de54878",
-        "https://news.web.nhk/newsweb/na/nd-20261005de54896",
-        "https://news.web.nhk/newsweb/na/nd-20261005de54898"
+        "https://news.web.nhk/newsweb/na/nd-20261005de54896"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-chatgpt-audio-transcription-update/",
