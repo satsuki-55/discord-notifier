@@ -27,6 +27,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cmwyzyldv1yeo#1",
         "https://www.bbc.co.uk/news/articles/cqze43ky1xgdo#0",
         "https://www.bbc.co.uk/news/articles/c9x28lrzg427o#1",
         "https://www.bbc.co.uk/news/articles/cmy56le7wr6zo#0",
@@ -225,10 +226,12 @@
         "https://www.bbc.co.uk/news/articles/c9zrdmxp4vy6o#1",
         "https://www.bbc.co.uk/news/articles/c6e9lj5r3ej7o#1",
         "https://www.bbc.co.uk/news/articles/cw14682n8v03o#0",
-        "https://www.bbc.co.uk/news/articles/cmy56yvv1kxxo#0",
-        "https://www.bbc.co.uk/news/articles/cmy56yvv1kxxo#1"
+        "https://www.bbc.co.uk/news/articles/cmy56yvv1kxxo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260930de53295",
+        "https://news.web.nhk/newsweb/na/nd-20261004de54368",
+        "https://news.web.nhk/newsweb/na/nd-20261007de55905",
         "https://news.web.nhk/newsweb/na/nd-20261007de55893",
         "https://news.web.nhk/newsweb/na/nd-20261007de55881",
         "https://news.web.nhk/newsweb/na/nd-20261007de55869",
@@ -425,10 +428,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261005de54401",
         "https://news.web.nhk/newsweb/na/nd-20261005de54384",
         "https://news.web.nhk/newsweb/na/nd-20261005de54402",
-        "https://news.web.nhk/newsweb/na/nd-20261004de54222",
-        "https://news.web.nhk/newsweb/na/nd-20261005de54396",
-        "https://news.web.nhk/newsweb/na/nd-20261004de54360",
-        "https://news.web.nhk/newsweb/na/nd-20261005de54388"
+        "https://news.web.nhk/newsweb/na/nd-20261004de54222"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-fire-resistant-mobile-battery-pouch/",
