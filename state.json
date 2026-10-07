@@ -229,6 +229,7 @@
         "https://www.bbc.co.uk/news/articles/c9zrdmxp4vy6o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261007de55979",
         "https://news.web.nhk/newsweb/na/nd-20261007de55876",
         "https://news.web.nhk/newsweb/na/nd-20261007de55926",
         "https://news.web.nhk/newsweb/na/nd-20261007de55924",
@@ -427,10 +428,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261004de54367",
         "https://news.web.nhk/newsweb/na/nd-20261005de54400",
         "https://news.web.nhk/newsweb/na/nd-20261004de54348",
-        "https://news.web.nhk/newsweb/na/nd-20261004de54374",
-        "https://news.web.nhk/newsweb/na/nd-20261005de54399"
+        "https://news.web.nhk/newsweb/na/nd-20261004de54374"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/retro-ambient-audio-system/",
         "https://www.gizmodo.jp/article/2610-apple-new-products-october/",
         "https://www.gizmodo.jp/article/wall-climbing-hovercraft-rc-car/",
         "https://www.gizmodo.jp/article/2610-fire-resistant-mobile-battery-pouch/",
@@ -629,8 +630,7 @@
         "https://www.gizmodo.jp/article/alienware-aw3926qw-ultrawide-gaming-monitor-review/",
         "https://www.gizmodo.jp/article/2609-meta-muse-charm-release/",
         "https://www.gizmodo.jp/article/salad-spinner-water-drainage-tips/",
-        "https://www.gizmodo.jp/article/2609-augment-360-foldable-moped/",
-        "https://www.gizmodo.jp/article/2609-reuses-for-old-iphone-ipad/"
+        "https://www.gizmodo.jp/article/2609-augment-360-foldable-moped/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "8JJ36OM0a5I",
