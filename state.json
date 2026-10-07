@@ -228,6 +228,7 @@
         "https://www.bbc.co.uk/news/articles/c8r4yxpry5e9o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261007de55698",
         "https://news.web.nhk/newsweb/na/nd-20261007de55664",
         "https://news.web.nhk/newsweb/na/nd-20261007de55636",
         "https://news.web.nhk/newsweb/na/nd-20261007de55641",
@@ -426,8 +427,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261004de54280",
         "https://news.web.nhk/newsweb/na/nd-20260930de53274",
         "https://news.web.nhk/newsweb/na/nd-20261004de54266",
-        "https://news.web.nhk/newsweb/na/nd-20261004de54271",
-        "https://news.web.nhk/newsweb/na/nd-20261004de54249"
+        "https://news.web.nhk/newsweb/na/nd-20261004de54271"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/nasa-struggling-open-asteroid-sample-container-jpn-qic/",
