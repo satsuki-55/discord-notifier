@@ -229,6 +229,8 @@
         "https://www.bbc.co.uk/news/articles/c9zrdmxp4vy6o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261007de55987",
+        "https://news.web.nhk/newsweb/na/nd-20261007de55974",
         "https://news.web.nhk/newsweb/na/nd-20261007de55965",
         "https://news.web.nhk/newsweb/na/nd-20261007de55983",
         "https://news.web.nhk/newsweb/na/nd-20261007de55979",
@@ -426,11 +428,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261005de54437",
         "https://news.web.nhk/newsweb/na/nd-20261005de54416",
         "https://news.web.nhk/newsweb/na/nd-20261005de54415",
-        "https://news.web.nhk/newsweb/na/nd-20261005de54411",
-        "https://news.web.nhk/newsweb/na/nd-20261004de54367",
-        "https://news.web.nhk/newsweb/na/nd-20261005de54400"
+        "https://news.web.nhk/newsweb/na/nd-20261005de54411"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2610-fitbit-edge-specs-price-leak/",
         "https://www.gizmodo.jp/article/retro-ambient-audio-system/",
         "https://www.gizmodo.jp/article/2610-apple-new-products-october/",
         "https://www.gizmodo.jp/article/wall-climbing-hovercraft-rc-car/",
@@ -629,8 +630,7 @@
         "https://www.gizmodo.jp/article/2609-meganeichiba-linse-display-ai-smart-glasses/",
         "https://www.gizmodo.jp/article/alienware-aw3926qw-ultrawide-gaming-monitor-review/",
         "https://www.gizmodo.jp/article/2609-meta-muse-charm-release/",
-        "https://www.gizmodo.jp/article/salad-spinner-water-drainage-tips/",
-        "https://www.gizmodo.jp/article/2609-augment-360-foldable-moped/"
+        "https://www.gizmodo.jp/article/salad-spinner-water-drainage-tips/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "8JJ36OM0a5I",
