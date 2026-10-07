@@ -229,6 +229,7 @@
         "https://www.bbc.co.uk/news/articles/c9zrdmxp4vy6o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261007de55983",
         "https://news.web.nhk/newsweb/na/nd-20261007de55979",
         "https://news.web.nhk/newsweb/na/nd-20261007de55876",
         "https://news.web.nhk/newsweb/na/nd-20261007de55926",
@@ -427,8 +428,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261005de54411",
         "https://news.web.nhk/newsweb/na/nd-20261004de54367",
         "https://news.web.nhk/newsweb/na/nd-20261005de54400",
-        "https://news.web.nhk/newsweb/na/nd-20261004de54348",
-        "https://news.web.nhk/newsweb/na/nd-20261004de54374"
+        "https://news.web.nhk/newsweb/na/nd-20261004de54348"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/retro-ambient-audio-system/",
