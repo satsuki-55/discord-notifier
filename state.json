@@ -230,6 +230,7 @@
         "https://www.bbc.co.uk/news/articles/c63r5l04nejwo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261007de55662",
         "https://news.web.nhk/newsweb/na/nd-20261007de56022",
         "https://news.web.nhk/newsweb/na/nd-20261007de56006",
         "https://news.web.nhk/newsweb/na/nd-20261007de55973",
@@ -428,8 +429,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261005de54503",
         "https://news.web.nhk/newsweb/na/nd-20261005de54440",
         "https://news.web.nhk/newsweb/na/nd-20261005de54429",
-        "https://news.web.nhk/newsweb/na/nd-20261005de54452",
-        "https://news.web.nhk/newsweb/na/nd-20261005de54437"
+        "https://news.web.nhk/newsweb/na/nd-20261005de54452"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-fitbit-edge-specs-price-leak/",
