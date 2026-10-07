@@ -28,6 +28,10 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/ckjrw4xvvglgo#0",
+        "https://www.bbc.co.uk/news/articles/cwn73mzly7v4o#1",
+        "https://www.bbc.co.uk/news/articles/crx23dvnp8vxo#0",
+        "https://www.bbc.co.uk/news/articles/cr3wvq965dngo#1",
         "https://www.bbc.co.uk/news/articles/cm5yn3592xk9o#0",
         "https://www.bbc.co.uk/news/articles/cqd09g77mygko#1",
         "https://www.bbc.co.uk/news/articles/c6jdv4vp3rl3o#1",
@@ -223,13 +227,10 @@
         "https://www.bbc.co.uk/news/articles/crd6dy4xepgyo#0",
         "https://www.bbc.co.uk/news/articles/cm20w6dlqgj3o#1",
         "https://www.bbc.co.uk/news/articles/cgk53dkmyxko#0",
-        "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo#1",
-        "https://www.bbc.co.uk/news/articles/cqwy79l7d78yo#0",
-        "https://www.bbc.co.uk/news/articles/cqkgx895g9vzo#1",
-        "https://www.bbc.co.uk/news/articles/c6gqw8jg7k3go#0",
-        "https://www.bbc.co.uk/news/videos/cv62yd93z906o#1"
+        "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261007de56090",
         "https://news.web.nhk/newsweb/na/nd-20261007de56073",
         "https://news.web.nhk/newsweb/na/nd-20261007de56048",
         "https://news.web.nhk/newsweb/na/nd-20261007de55662",
@@ -428,10 +429,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261005de54529",
         "https://news.web.nhk/newsweb/na/nd-20261002de53842",
         "https://news.web.nhk/newsweb/na/nd-20261005de54431",
-        "https://news.web.nhk/newsweb/na/nd-20261005de54503",
-        "https://news.web.nhk/newsweb/na/nd-20261005de54440"
+        "https://news.web.nhk/newsweb/na/nd-20261005de54503"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2610-garmin-enduro-4-release/",
         "https://www.gizmodo.jp/article/2610-sony-meta-xr-patents/",
         "https://www.gizmodo.jp/article/2610-fitbit-edge-specs-price-leak/",
         "https://www.gizmodo.jp/article/retro-ambient-audio-system/",
@@ -630,8 +631,7 @@
         "https://www.gizmodo.jp/article/2609-refusing-data-center-offer-farm/",
         "https://www.gizmodo.jp/article/pink-noise-csf-flow-mit/",
         "https://www.gizmodo.jp/article/2609-meganeichiba-linse-display-ai-smart-glasses/",
-        "https://www.gizmodo.jp/article/alienware-aw3926qw-ultrawide-gaming-monitor-review/",
-        "https://www.gizmodo.jp/article/2609-meta-muse-charm-release/"
+        "https://www.gizmodo.jp/article/alienware-aw3926qw-ultrawide-gaming-monitor-review/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "8JJ36OM0a5I",
