@@ -228,6 +228,7 @@
         "https://www.bbc.co.uk/news/articles/c8r4yxpry5e9o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261007de55732",
         "https://news.web.nhk/newsweb/na/nd-20261007de55717",
         "https://news.web.nhk/newsweb/na/nd-20261007de55698",
         "https://news.web.nhk/newsweb/na/nd-20261007de55664",
@@ -426,8 +427,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261004de54320",
         "https://news.web.nhk/newsweb/na/nd-20261004de54343",
         "https://news.web.nhk/newsweb/na/nd-20261004de54280",
-        "https://news.web.nhk/newsweb/na/nd-20260930de53274",
-        "https://news.web.nhk/newsweb/na/nd-20261004de54266"
+        "https://news.web.nhk/newsweb/na/nd-20260930de53274"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-switch2-microsd-express-512gb/",
