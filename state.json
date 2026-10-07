@@ -28,6 +28,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cwz0vrmxkvy4o#0",
         "https://www.bbc.co.uk/news/articles/cqwy7495yey4o#1",
         "https://www.bbc.co.uk/news/articles/ckr5ym098vdeo#1",
         "https://www.bbc.co.uk/news/articles/c6e3x21ev9wwo#1",
@@ -226,10 +227,10 @@
         "https://www.bbc.co.uk/news/articles/c52e9k3998e7o#1",
         "https://www.bbc.co.uk/news/videos/c6ge4lyy9x0no#0",
         "https://www.bbc.co.uk/news/articles/c6q8jly114j8o#0",
-        "https://www.bbc.co.uk/news/articles/cqx2z23xj555o#0",
-        "https://www.bbc.co.uk/news/articles/cq14d438vx24o#0"
+        "https://www.bbc.co.uk/news/articles/cqx2z23xj555o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261008de56217",
         "https://news.web.nhk/newsweb/na/nd-20261005de54707",
         "https://news.web.nhk/newsweb/na/nd-20261008de56220",
         "https://news.web.nhk/newsweb/na/nd-20261008de56216",
@@ -428,8 +429,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261002de53897",
         "https://news.web.nhk/newsweb/na/nd-20261005de54848",
         "https://news.web.nhk/newsweb/na/nd-20261005de54845",
-        "https://news.web.nhk/newsweb/na/nd-20261005de54806",
-        "https://news.web.nhk/newsweb/na/nd-20261005de54843"
+        "https://news.web.nhk/newsweb/na/nd-20261005de54806"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/astronauts-lost-item-yke/",
