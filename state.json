@@ -28,6 +28,10 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/crd6dy4xepgyo#0",
+        "https://www.bbc.co.uk/news/articles/cx98ze08n3dlo#1",
+        "https://www.bbc.co.uk/news/articles/cwvgdld13e3eo#1",
+        "https://www.bbc.co.uk/news/articles/cqgm0vrl3xp7o#1",
         "https://www.bbc.co.uk/news/articles/cxm237q5y9z1o#0",
         "https://www.bbc.co.uk/news/articles/cwvgdld13e3eo#0",
         "https://www.bbc.co.uk/news/articles/ckjrw4xvvglgo#0",
@@ -223,11 +227,7 @@
         "https://www.bbc.co.uk/weather/articles/cwgkvyyg8115o#0",
         "https://www.bbc.co.uk/news/articles/cr0j0w3p8453o#0",
         "https://www.bbc.co.uk/news/articles/c6gqw8jg7k3go#1",
-        "https://www.bbc.co.uk/news/articles/ck4gjn1yzprno#0",
-        "https://www.bbc.co.uk/news/articles/cw8rzd6lp0xpo#1",
-        "https://www.bbc.co.uk/news/articles/cxvgd3j2qqnmo#1",
-        "https://www.bbc.co.uk/news/articles/crd6dy4xepgyo#0",
-        "https://www.bbc.co.uk/news/articles/cm20w6dlqgj3o#1"
+        "https://www.bbc.co.uk/news/articles/ck4gjn1yzprno#0"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20261007de56092",
@@ -432,6 +432,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261005de54431"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2610-ipad-mini-waterproof-rumor/",
         "https://www.gizmodo.jp/article/2610-garmin-enduro-4-release/",
         "https://www.gizmodo.jp/article/2610-sony-meta-xr-patents/",
         "https://www.gizmodo.jp/article/2610-fitbit-edge-specs-price-leak/",
@@ -630,8 +631,7 @@
         "https://www.gizmodo.jp/article/googles-project-suncatcher-is-sending-ai-chips-into-space-next-week/",
         "https://www.gizmodo.jp/article/2609-refusing-data-center-offer-farm/",
         "https://www.gizmodo.jp/article/pink-noise-csf-flow-mit/",
-        "https://www.gizmodo.jp/article/2609-meganeichiba-linse-display-ai-smart-glasses/",
-        "https://www.gizmodo.jp/article/alienware-aw3926qw-ultrawide-gaming-monitor-review/"
+        "https://www.gizmodo.jp/article/2609-meganeichiba-linse-display-ai-smart-glasses/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "8JJ36OM0a5I",
