@@ -28,6 +28,8 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/ckge4eql4q7eo#1",
+        "https://www.bbc.co.uk/news/articles/ckj0lj6v3g9vo#1",
         "https://www.bbc.co.uk/news/articles/cmn9wr84v1qno#0",
         "https://www.bbc.co.uk/news/articles/c5j9x9pr0240o#0",
         "https://www.bbc.co.uk/news/articles/cqzjx7z2r4gko#0",
@@ -225,11 +227,10 @@
         "https://www.bbc.co.uk/news/articles/ck87z09xe82qo#1",
         "https://www.bbc.co.uk/news/articles/c5398lm30pwwo#1",
         "https://www.bbc.co.uk/news/articles/c9ly0l028d1go#1",
-        "https://www.bbc.co.uk/news/articles/cmdx395grzzko#1",
-        "https://www.bbc.co.uk/news/articles/ckm2q20nqdnqo#0",
-        "https://www.bbc.co.uk/news/articles/cq0ld88kzxw8o#1"
+        "https://www.bbc.co.uk/news/articles/cmdx395grzzko#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261007de56044",
         "https://news.web.nhk/newsweb/na/nd-20261002de53842",
         "https://news.web.nhk/newsweb/na/nd-20261007de56097",
         "https://news.web.nhk/newsweb/na/nd-20261007de56103",
@@ -428,8 +429,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261005de54568",
         "https://news.web.nhk/newsweb/na/nd-20261005de54430",
         "https://news.web.nhk/newsweb/na/nd-20261002de53786",
-        "https://news.web.nhk/newsweb/na/nd-20261005de54433",
-        "https://news.web.nhk/newsweb/na/nd-20261005de54553"
+        "https://news.web.nhk/newsweb/na/nd-20261005de54433"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-ipad-mini-waterproof-rumor/",
