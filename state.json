@@ -229,6 +229,7 @@
         "https://www.bbc.co.uk/news/articles/cmy56yvv1kxxo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261007de55829",
         "https://news.web.nhk/newsweb/na/nd-20260930de53295",
         "https://news.web.nhk/newsweb/na/nd-20261004de54368",
         "https://news.web.nhk/newsweb/na/nd-20261007de55905",
@@ -427,10 +428,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261005de54399",
         "https://news.web.nhk/newsweb/na/nd-20261005de54401",
         "https://news.web.nhk/newsweb/na/nd-20261005de54384",
-        "https://news.web.nhk/newsweb/na/nd-20261005de54402",
-        "https://news.web.nhk/newsweb/na/nd-20261004de54222"
+        "https://news.web.nhk/newsweb/na/nd-20261005de54402"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/wall-climbing-hovercraft-rc-car/",
         "https://www.gizmodo.jp/article/2610-fire-resistant-mobile-battery-pouch/",
         "https://www.gizmodo.jp/article/2610-renault-r8-gordini-ev-revival/",
         "https://www.gizmodo.jp/article/2610-best-sleep-earbuds-duva-one/",
@@ -629,8 +630,7 @@
         "https://www.gizmodo.jp/article/salad-spinner-water-drainage-tips/",
         "https://www.gizmodo.jp/article/2609-augment-360-foldable-moped/",
         "https://www.gizmodo.jp/article/2609-reuses-for-old-iphone-ipad/",
-        "https://www.gizmodo.jp/article/2609-logicool-g-pro-x3-superstrike/",
-        "https://www.gizmodo.jp/article/157af9f9-43c2-401d-aea4-8eb820c6cd27/"
+        "https://www.gizmodo.jp/article/2609-logicool-g-pro-x3-superstrike/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "8JJ36OM0a5I",
