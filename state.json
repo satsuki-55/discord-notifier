@@ -229,6 +229,7 @@
         "https://www.bbc.co.uk/news/articles/c5pve834grpno#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261007de55816",
         "https://news.web.nhk/newsweb/na/nd-20261007de55830",
         "https://news.web.nhk/newsweb/na/nd-20261007de55780",
         "https://news.web.nhk/newsweb/na/nd-20261007de55653",
@@ -427,8 +428,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261004de54361",
         "https://news.web.nhk/newsweb/na/nd-20261004de54192",
         "https://news.web.nhk/newsweb/na/nd-20261004de54345",
-        "https://news.web.nhk/newsweb/na/nd-20261004de54358",
-        "https://news.web.nhk/newsweb/na/nd-20261004de54342"
+        "https://news.web.nhk/newsweb/na/nd-20261004de54358"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-renault-r8-gordini-ev-revival/",
