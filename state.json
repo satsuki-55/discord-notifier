@@ -230,6 +230,7 @@
         "https://www.bbc.co.uk/news/articles/cwj3413e5m1lo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261007de56163",
         "https://news.web.nhk/newsweb/na/nd-20261007de56154",
         "https://news.web.nhk/newsweb/na/nd-20261005de54630",
         "https://news.web.nhk/newsweb/na/nd-20261007de56144",
@@ -428,10 +429,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261005de54744",
         "https://news.web.nhk/newsweb/na/nd-20261005de54755",
         "https://news.web.nhk/newsweb/na/nd-20261005de54694",
-        "https://news.web.nhk/newsweb/na/nd-20260930de53293",
-        "https://news.web.nhk/newsweb/na/nd-20261005de54586"
+        "https://news.web.nhk/newsweb/na/nd-20260930de53293"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2610-panasonic-nanocare-eh-nb70/",
         "https://www.gizmodo.jp/article/digger_movie_press_conference_tom-cruise_inarritu/",
         "https://www.gizmodo.jp/article/something-deep-inside-earth-keeps-messing-with-the-length-of-our-days/",
         "https://www.gizmodo.jp/article/2610-tesla-optimus-production-issues-hand/",
@@ -630,8 +631,7 @@
         "https://www.gizmodo.jp/article/elekit-tokyo-keyboard-expo-2026/",
         "https://www.gizmodo.jp/article/2609-surface-laptop-minos-rtx-spark/",
         "https://www.gizmodo.jp/article/pika-outdoors_backwoods-bidet/",
-        "https://www.gizmodo.jp/article/mizuno-hyperwarp-96/",
-        "https://www.gizmodo.jp/article/googles-project-suncatcher-is-sending-ai-chips-into-space-next-week/"
+        "https://www.gizmodo.jp/article/mizuno-hyperwarp-96/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "8JJ36OM0a5I",
