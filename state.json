@@ -28,6 +28,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/sport/football/articles/cx2lggyz2wgo#1",
         "https://www.bbc.co.uk/news/articles/ckx2d4ddjn2eo#1",
         "https://www.bbc.co.uk/news/articles/cw203n6emde8o#1",
         "https://www.bbc.co.uk/news/articles/cw33xd6vegnno#0",
@@ -226,10 +227,10 @@
         "https://www.bbc.co.uk/news/articles/cq14d438vx24o#1",
         "https://www.bbc.co.uk/news/videos/c8e36y796enno#1",
         "https://www.bbc.co.uk/news/articles/c65yn3g53dkqo#1",
-        "https://www.bbc.co.uk/news/articles/cqn747k6pem0o#0",
-        "https://www.bbc.co.uk/news/articles/c6y9z9r4ejzwo#0"
+        "https://www.bbc.co.uk/news/articles/cqn747k6pem0o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261008de56607",
         "https://news.web.nhk/newsweb/na/nd-20261008de56603",
         "https://news.web.nhk/newsweb/na/nd-20261008de56596",
         "https://news.web.nhk/newsweb/na/nd-20261008de56583",
@@ -428,8 +429,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261006de55099",
         "https://news.web.nhk/newsweb/na/nd-20261006de55068",
         "https://news.web.nhk/newsweb/na/nd-20261006de55001",
-        "https://news.web.nhk/newsweb/na/nd-20261006de55017",
-        "https://news.web.nhk/newsweb/na/nd-20261006de55039"
+        "https://news.web.nhk/newsweb/na/nd-20261006de55017"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-steam-deck-2-gainsborough-codenam/",
