@@ -230,6 +230,7 @@
         "https://www.bbc.co.uk/news/articles/ck9qrq1d19w4o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261008de56796",
         "https://news.web.nhk/newsweb/na/nd-20261008de56492",
         "https://news.web.nhk/newsweb/na/nd-20261008de56827",
         "https://news.web.nhk/newsweb/na/nd-20261008de56606",
@@ -428,8 +429,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261006de55242",
         "https://news.web.nhk/newsweb/na/nd-20261006de55207",
         "https://news.web.nhk/newsweb/na/nd-20261006de55203",
-        "https://news.web.nhk/newsweb/na/nd-20261006de55198",
-        "https://news.web.nhk/newsweb/na/nd-20261006de55179"
+        "https://news.web.nhk/newsweb/na/nd-20261006de55198"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/stanley-kubricks-estate-will-soon-auction-some-beyond-iconic-items/",
