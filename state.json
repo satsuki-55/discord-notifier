@@ -28,6 +28,8 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c81dldewl5gwo#1",
+        "https://www.bbc.co.uk/news/articles/c5rmyzgdjzkwo#1",
         "https://www.bbc.co.uk/news/articles/c5rmyzgdjzkwo#0",
         "https://www.bbc.co.uk/news/articles/cx5yn46j41zpo#0",
         "https://www.bbc.co.uk/news/articles/cqdjvg3xww2go#0",
@@ -225,11 +227,10 @@
         "https://www.bbc.co.uk/news/articles/c58jzyer1kr0o#0",
         "https://www.bbc.co.uk/news/articles/crpdgvx82831o#1",
         "https://www.bbc.co.uk/news/articles/cr9dzljq56ejo#1",
-        "https://www.bbc.co.uk/news/articles/cm86z9npj5deo#1",
-        "https://www.bbc.co.uk/news/articles/c8ly0v5r602eo#0",
-        "https://www.bbc.co.uk/news/articles/cme8r9267dpko#1"
+        "https://www.bbc.co.uk/news/articles/cm86z9npj5deo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261008de56506",
         "https://news.web.nhk/newsweb/na/nd-20261008de56500",
         "https://news.web.nhk/newsweb/na/nd-20261008de56490",
         "https://news.web.nhk/newsweb/na/nd-20261008de56486",
@@ -428,10 +429,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261006de54999",
         "https://news.web.nhk/newsweb/na/nd-20261006de55007",
         "https://news.web.nhk/newsweb/na/nd-20261006de54980",
-        "https://news.web.nhk/newsweb/na/nd-20261006de54967",
-        "https://news.web.nhk/newsweb/na/nd-20261006de54974"
+        "https://news.web.nhk/newsweb/na/nd-20261006de54967"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2610-googlebook-intel-vs-snapdragon/",
         "https://www.gizmodo.jp/article/2610-nature-remo-aircon-control-guarantee/",
         "https://www.gizmodo.jp/article/2610-apple-smart-home-privacy-security/",
         "https://www.gizmodo.jp/article/2610-elecom-left-hand-device-hub/",
@@ -630,8 +631,7 @@
         "https://www.gizmodo.jp/article/2609-muji-folding-whiteboard-review/",
         "https://www.gizmodo.jp/article/2609-recent-solar-power-evolution/",
         "https://www.gizmodo.jp/article/tkx2026/",
-        "https://www.gizmodo.jp/article/your-screen-protector-is-not-all-it-s-cracked-up-to-be-wgn/",
-        "https://www.gizmodo.jp/article/2609-snapdragon-sound-elite-gen-2/"
+        "https://www.gizmodo.jp/article/your-screen-protector-is-not-all-it-s-cracked-up-to-be-wgn/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "8JJ36OM0a5I",
