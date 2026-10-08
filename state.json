@@ -28,6 +28,9 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o#0",
+        "https://www.bbc.co.uk/news/articles/c9p8gn55433jo#1",
+        "https://www.bbc.co.uk/news/articles/ckgel9r341gdo#1",
         "https://www.bbc.co.uk/news/articles/cmx28wd59j4zo#0",
         "https://www.bbc.co.uk/news/articles/c6j47vj4xeego#1",
         "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o#1",
@@ -224,12 +227,10 @@
         "https://www.bbc.co.uk/news/articles/crd6dy4xepgyo#0",
         "https://www.bbc.co.uk/news/articles/cx98ze08n3dlo#1",
         "https://www.bbc.co.uk/news/articles/cwvgdld13e3eo#1",
-        "https://www.bbc.co.uk/news/articles/cqgm0vrl3xp7o#1",
-        "https://www.bbc.co.uk/news/articles/cxm237q5y9z1o#0",
-        "https://www.bbc.co.uk/news/articles/cwvgdld13e3eo#0",
-        "https://www.bbc.co.uk/news/articles/ckjrw4xvvglgo#0"
+        "https://www.bbc.co.uk/news/articles/cqgm0vrl3xp7o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261009de56946",
         "https://news.web.nhk/newsweb/na/nd-20261009de56948",
         "https://news.web.nhk/newsweb/na/nd-20261008de56856",
         "https://news.web.nhk/newsweb/na/nd-20261009de56944",
@@ -428,10 +429,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261006de55543",
         "https://news.web.nhk/newsweb/na/nd-20261003de54074",
         "https://news.web.nhk/newsweb/na/nd-20261006de55552",
-        "https://news.web.nhk/newsweb/na/nd-20261006de55504",
-        "https://news.web.nhk/newsweb/na/nd-20261006de55532"
+        "https://news.web.nhk/newsweb/na/nd-20261006de55504"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/space-force-just-retired-the-satellites-that-watched-for-world-war-iii/",
         "https://www.gizmodo.jp/article/2610-apple-welcome-home-event-october-2026/",
         "https://www.gizmodo.jp/article/new-battery-harvests-energy-from-radioactive-nuclear-waste-md9/",
         "https://www.gizmodo.jp/article/thing-2-0-this-creepy-cute-robot-walks-on-its-fingers/",
@@ -630,8 +631,7 @@
         "https://www.gizmodo.jp/article/2609-meta-jolly-ai-spyware/",
         "https://www.gizmodo.jp/article/utamaro-gpm/",
         "https://www.gizmodo.jp/article/2609-beads-cushion-refill-review/",
-        "https://www.gizmodo.jp/article/2609-iphone-battery-replacement-guide/",
-        "https://www.gizmodo.jp/article/2609-trozk-t3-module-power-bank/"
+        "https://www.gizmodo.jp/article/2609-iphone-battery-replacement-guide/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "5koLraN_4Kk",
