@@ -28,6 +28,10 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cm9dzl7wx2qyo#0",
+        "https://www.bbc.co.uk/news/articles/cmj6jz0yjer2o#1",
+        "https://www.bbc.co.uk/news/articles/cdr7n610rmzo#0",
+        "https://www.bbc.co.uk/news/articles/crkg7n1ypj24o#1",
         "https://www.bbc.co.uk/news/articles/crkg7n1ypj24o#0",
         "https://www.bbc.co.uk/weather/articles/c6pqg9j7d2w7o#0",
         "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o#0",
@@ -223,13 +227,10 @@
         "https://www.bbc.co.uk/news/articles/cq9868z88rexo#1",
         "https://www.bbc.co.uk/weather/articles/cwgkvyyg8115o#0",
         "https://www.bbc.co.uk/news/articles/c6ly038jg0d4o#1",
-        "https://www.bbc.co.uk/news/articles/cqzjx7z2r4gko#1",
-        "https://www.bbc.co.uk/news/articles/cr3wvp34v460o#1",
-        "https://www.bbc.co.uk/news/articles/c6ly038jg0d4o#0",
-        "https://www.bbc.co.uk/news/articles/crd6dy4xepgyo#0",
-        "https://www.bbc.co.uk/news/articles/cx98ze08n3dlo#1"
+        "https://www.bbc.co.uk/news/articles/cqzjx7z2r4gko#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261009de56951",
         "https://news.web.nhk/newsweb/na/nd-20261009de56942",
         "https://news.web.nhk/newsweb/na/nd-20261009de56946",
         "https://news.web.nhk/newsweb/na/nd-20261009de56948",
@@ -428,8 +429,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261006de55560",
         "https://news.web.nhk/newsweb/na/nd-20261006de55557",
         "https://news.web.nhk/newsweb/na/nd-20261006de55543",
-        "https://news.web.nhk/newsweb/na/nd-20261003de54074",
-        "https://news.web.nhk/newsweb/na/nd-20261006de55552"
+        "https://news.web.nhk/newsweb/na/nd-20261003de54074"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/space-force-just-retired-the-satellites-that-watched-for-world-war-iii/",
