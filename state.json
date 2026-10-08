@@ -28,6 +28,9 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/ckn9rg24drw1o#0",
+        "https://www.bbc.co.uk/news/articles/c50mezp822peo#1",
+        "https://www.bbc.co.uk/sport/football/articles/c6y93qq5175wo#1",
         "https://www.bbc.co.uk/news/articles/cwvgrx5ner6go#1",
         "https://www.bbc.co.uk/news/articles/c3zxjdw5ywgpo#1",
         "https://www.bbc.co.uk/news/articles/c3zxjdw5ywgpo#0",
@@ -224,12 +227,10 @@
         "https://www.bbc.co.uk/news/articles/cvj6jkx6g1r0o#0",
         "https://www.bbc.co.uk/news/articles/ckqxnwev78dro#0",
         "https://www.bbc.co.uk/news/articles/ck9qrq1d19w4o#1",
-        "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo#0",
-        "https://www.bbc.co.uk/weather/articles/c64gr18jrvx3o#0",
-        "https://www.bbc.co.uk/news/articles/c9x28ljj34lxo#1",
-        "https://www.bbc.co.uk/news/articles/cm62ep294qxlo#1"
+        "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261008de56606",
         "https://news.web.nhk/newsweb/na/nd-20261008de56806",
         "https://news.web.nhk/newsweb/na/nd-20261008de56278",
         "https://news.web.nhk/newsweb/na/nd-20261008de56752",
@@ -428,8 +429,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261006de55198",
         "https://news.web.nhk/newsweb/na/nd-20261006de55179",
         "https://news.web.nhk/newsweb/na/nd-20261006de55168",
-        "https://news.web.nhk/newsweb/na/nd-20261006de55167",
-        "https://news.web.nhk/newsweb/na/nd-20261006de55116"
+        "https://news.web.nhk/newsweb/na/nd-20261006de55167"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/gopro-mission-1-ils-review/",
