@@ -28,6 +28,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cmg47lx1pqlko#0",
         "https://www.bbc.co.uk/news/articles/ckgel9044vqeo#0",
         "https://www.bbc.co.uk/news/articles/c5pvgn7xvxpzo#1",
         "https://www.bbc.co.uk/news/articles/cq8rzjv8g7ejo#0",
@@ -226,10 +227,10 @@
         "https://www.bbc.co.uk/news/articles/cj3vqxldglepo#1",
         "https://www.bbc.co.uk/news/articles/cm5yn3592xk9o#1",
         "https://www.bbc.co.uk/news/articles/ckge4eql4q7eo#1",
-        "https://www.bbc.co.uk/news/articles/ckj0lj6v3g9vo#1",
-        "https://www.bbc.co.uk/news/articles/cmn9wr84v1qno#0"
+        "https://www.bbc.co.uk/news/articles/ckj0lj6v3g9vo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261009de56954",
         "https://news.web.nhk/newsweb/na/nd-20261009de56951",
         "https://news.web.nhk/newsweb/na/nd-20261009de56942",
         "https://news.web.nhk/newsweb/na/nd-20261009de56946",
@@ -428,8 +429,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261006de55562",
         "https://news.web.nhk/newsweb/na/nd-20261006de55560",
         "https://news.web.nhk/newsweb/na/nd-20261006de55557",
-        "https://news.web.nhk/newsweb/na/nd-20261006de55543",
-        "https://news.web.nhk/newsweb/na/nd-20261003de54074"
+        "https://news.web.nhk/newsweb/na/nd-20261006de55543"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-sony-inzone-new-colors/",
