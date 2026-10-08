@@ -28,6 +28,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cm9dzl7wx2qyo#1",
         "https://www.bbc.co.uk/news/articles/cm9dzl7wx2qyo#0",
         "https://www.bbc.co.uk/news/articles/cmj6jz0yjer2o#1",
         "https://www.bbc.co.uk/news/articles/cdr7n610rmzo#0",
@@ -226,8 +227,7 @@
         "https://www.bbc.co.uk/news/articles/crx23dvnp8vxo#1",
         "https://www.bbc.co.uk/news/articles/cq9868z88rexo#1",
         "https://www.bbc.co.uk/weather/articles/cwgkvyyg8115o#0",
-        "https://www.bbc.co.uk/news/articles/c6ly038jg0d4o#1",
-        "https://www.bbc.co.uk/news/articles/cqzjx7z2r4gko#1"
+        "https://www.bbc.co.uk/news/articles/c6ly038jg0d4o#1"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20261009de56951",
@@ -432,6 +432,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261003de54074"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2610-sony-inzone-new-colors/",
         "https://www.gizmodo.jp/article/space-force-just-retired-the-satellites-that-watched-for-world-war-iii/",
         "https://www.gizmodo.jp/article/2610-apple-welcome-home-event-october-2026/",
         "https://www.gizmodo.jp/article/new-battery-harvests-energy-from-radioactive-nuclear-waste-md9/",
@@ -630,8 +631,7 @@
         "https://www.gizmodo.jp/article/2609-copilot-plus-pc-quietly-ends/",
         "https://www.gizmodo.jp/article/2609-meta-jolly-ai-spyware/",
         "https://www.gizmodo.jp/article/utamaro-gpm/",
-        "https://www.gizmodo.jp/article/2609-beads-cushion-refill-review/",
-        "https://www.gizmodo.jp/article/2609-iphone-battery-replacement-guide/"
+        "https://www.gizmodo.jp/article/2609-beads-cushion-refill-review/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "5koLraN_4Kk",
