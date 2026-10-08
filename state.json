@@ -28,6 +28,13 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cwe8ldgzj277o#0",
+        "https://www.bbc.co.uk/news/articles/cq203mymlvkeo#0",
+        "https://www.bbc.co.uk/news/articles/cj62ylzpr6d3o#0",
+        "https://www.bbc.co.uk/news/articles/cq8jzyey8e2ro#0",
+        "https://www.bbc.co.uk/news/articles/cw4g1j2z5zvzo#0",
+        "https://www.bbc.co.uk/news/articles/c9gkvxjvl7v3o#0",
+        "https://www.bbc.co.uk/news/articles/cx62y37r1p8eo#0",
         "https://www.bbc.co.uk/news/articles/c9gkvxjvl7v3o#1",
         "https://www.bbc.co.uk/news/articles/c687z8127302o#1",
         "https://www.bbc.co.uk/news/articles/c687z8127302o#0",
@@ -220,16 +227,10 @@
         "https://www.bbc.co.uk/news/articles/cqzrd7v1j163o#1",
         "https://www.bbc.co.uk/news/articles/ck1wvjer20qqo#1",
         "https://www.bbc.co.uk/news/articles/crly09gz7ew4o#1",
-        "https://www.bbc.co.uk/news/articles/cq203mymlvkeo#1",
-        "https://www.bbc.co.uk/news/articles/c58jzyer1kr0o#1",
-        "https://www.bbc.co.uk/news/articles/cwe8ldgzj277o#0",
-        "https://www.bbc.co.uk/news/articles/cq203mymlvkeo#0",
-        "https://www.bbc.co.uk/news/articles/cj62ylzpr6d3o#1",
-        "https://www.bbc.co.uk/news/videos/c5rm9mdperemo#0",
-        "https://www.bbc.co.uk/news/articles/cj62ylzpr6d3o#0",
-        "https://www.bbc.co.uk/news/articles/cq8jzyey8e2ro#0"
+        "https://www.bbc.co.uk/news/articles/cq203mymlvkeo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261008de56269",
         "https://news.web.nhk/newsweb/na/nd-20261008de56393",
         "https://news.web.nhk/newsweb/na/nd-20261008de56428",
         "https://news.web.nhk/newsweb/na/nd-20261008de56371",
@@ -428,8 +429,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261005de54873",
         "https://news.web.nhk/newsweb/na/nd-20261006de54961",
         "https://news.web.nhk/newsweb/na/nd-20261006de54963",
-        "https://news.web.nhk/newsweb/na/nd-20261006de54955",
-        "https://news.web.nhk/newsweb/na/nd-20261005de54668"
+        "https://news.web.nhk/newsweb/na/nd-20261006de54955"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-elecom-left-hand-device-hub/",
