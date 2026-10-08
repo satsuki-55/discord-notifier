@@ -28,6 +28,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cx5yn46j41zpo#1",
         "https://www.bbc.co.uk/news/articles/cmx2qlz7qrd4o#1",
         "https://www.bbc.co.uk/news/articles/c81dldewl5gwo#1",
         "https://www.bbc.co.uk/news/articles/c5rmyzgdjzkwo#1",
@@ -226,10 +227,10 @@
         "https://www.bbc.co.uk/news/articles/cq146lxg0e3lo#0",
         "https://www.bbc.co.uk/news/articles/ckly0g1ljq2yo#0",
         "https://www.bbc.co.uk/news/articles/c58jzyer1kr0o#0",
-        "https://www.bbc.co.uk/news/articles/crpdgvx82831o#1",
-        "https://www.bbc.co.uk/news/articles/cr9dzljq56ejo#1"
+        "https://www.bbc.co.uk/news/articles/crpdgvx82831o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261008de56512",
         "https://news.web.nhk/newsweb/na/nd-20261008de56506",
         "https://news.web.nhk/newsweb/na/nd-20261008de56500",
         "https://news.web.nhk/newsweb/na/nd-20261008de56490",
@@ -428,8 +429,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260930de53373",
         "https://news.web.nhk/newsweb/na/nd-20261006de54999",
         "https://news.web.nhk/newsweb/na/nd-20261006de55007",
-        "https://news.web.nhk/newsweb/na/nd-20261006de54980",
-        "https://news.web.nhk/newsweb/na/nd-20261006de54967"
+        "https://news.web.nhk/newsweb/na/nd-20261006de54980"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-googlebook-intel-vs-snapdragon/",
