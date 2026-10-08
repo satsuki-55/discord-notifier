@@ -230,6 +230,7 @@
         "https://www.bbc.co.uk/news/articles/c65yn5djx1pko#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261008de56248",
         "https://news.web.nhk/newsweb/na/nd-20261008de56251",
         "https://news.web.nhk/newsweb/na/nd-20261008de56259",
         "https://news.web.nhk/newsweb/na/nd-20261008de56246",
@@ -428,8 +429,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261006de54947",
         "https://news.web.nhk/newsweb/na/nd-20261005de54912",
         "https://news.web.nhk/newsweb/na/nd-20261002de53868",
-        "https://news.web.nhk/newsweb/na/nd-20261006de54944",
-        "https://news.web.nhk/newsweb/na/nd-20261005de54856"
+        "https://news.web.nhk/newsweb/na/nd-20261006de54944"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/openai-is-adding-text-watermarks-in-the-eu-because-regulation-works/",
