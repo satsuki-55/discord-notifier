@@ -28,6 +28,9 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cmx28wd59j4zo#0",
+        "https://www.bbc.co.uk/news/articles/c6j47vj4xeego#1",
+        "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o#1",
         "https://www.bbc.co.uk/news/articles/c60mevxzen3lo#0",
         "https://www.bbc.co.uk/news/articles/ckwy4xygw1rxo#1",
         "https://www.bbc.co.uk/news/articles/cmj6jz0yjer2o#0",
@@ -224,12 +227,10 @@
         "https://www.bbc.co.uk/news/articles/cqgm0vrl3xp7o#1",
         "https://www.bbc.co.uk/news/articles/cxm237q5y9z1o#0",
         "https://www.bbc.co.uk/news/articles/cwvgdld13e3eo#0",
-        "https://www.bbc.co.uk/news/articles/ckjrw4xvvglgo#0",
-        "https://www.bbc.co.uk/news/articles/cwn73mzly7v4o#1",
-        "https://www.bbc.co.uk/news/articles/crx23dvnp8vxo#0",
-        "https://www.bbc.co.uk/news/articles/cr3wvq965dngo#1"
+        "https://www.bbc.co.uk/news/articles/ckjrw4xvvglgo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261009de56948",
         "https://news.web.nhk/newsweb/na/nd-20261008de56856",
         "https://news.web.nhk/newsweb/na/nd-20261009de56944",
         "https://news.web.nhk/newsweb/na/nd-20261009de56918",
@@ -428,8 +429,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261003de54074",
         "https://news.web.nhk/newsweb/na/nd-20261006de55552",
         "https://news.web.nhk/newsweb/na/nd-20261006de55504",
-        "https://news.web.nhk/newsweb/na/nd-20261006de55532",
-        "https://news.web.nhk/newsweb/na/nd-20261006de55526"
+        "https://news.web.nhk/newsweb/na/nd-20261006de55532"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-apple-welcome-home-event-october-2026/",
