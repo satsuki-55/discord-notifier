@@ -230,6 +230,7 @@
         "https://www.bbc.co.uk/news/articles/cm93z74e0n9zo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261009de56908",
         "https://news.web.nhk/newsweb/na/nd-20261008de56885",
         "https://news.web.nhk/newsweb/na/nd-20261008de56888",
         "https://news.web.nhk/newsweb/na/nd-20261008de56869",
@@ -428,8 +429,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261003de54027",
         "https://news.web.nhk/newsweb/na/nd-20261006de55163",
         "https://news.web.nhk/newsweb/na/nd-20261003de54021",
-        "https://news.web.nhk/newsweb/na/nd-20261006de55037",
-        "https://news.web.nhk/newsweb/na/nd-20261006de55287"
+        "https://news.web.nhk/newsweb/na/nd-20261006de55037"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/new-battery-harvests-energy-from-radioactive-nuclear-waste-md9/",
