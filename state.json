@@ -230,6 +230,8 @@
         "https://www.bbc.co.uk/news/articles/cqzrd7v1j163o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261008de56421",
+        "https://news.web.nhk/newsweb/na/nd-20261008de56405",
         "https://news.web.nhk/newsweb/na/nd-20261008de56275",
         "https://news.web.nhk/newsweb/na/nd-20261008de56277",
         "https://news.web.nhk/newsweb/na/nd-20261008de56250",
@@ -427,9 +429,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261006de54928",
         "https://news.web.nhk/newsweb/na/nd-20261006de54956",
         "https://news.web.nhk/newsweb/na/nd-20261006de54946",
-        "https://news.web.nhk/newsweb/na/nd-20261006de54943",
-        "https://news.web.nhk/newsweb/na/nd-20261006de54940",
-        "https://news.web.nhk/newsweb/na/nd-20261006de54947"
+        "https://news.web.nhk/newsweb/na/nd-20261006de54943"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/ecoflow-power-hat-review-mhh/",
