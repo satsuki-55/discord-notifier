@@ -230,6 +230,7 @@
         "https://www.bbc.co.uk/news/articles/c58jzyer1kr0o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261008de56488",
         "https://news.web.nhk/newsweb/na/nd-20261008de56512",
         "https://news.web.nhk/newsweb/na/nd-20261008de56506",
         "https://news.web.nhk/newsweb/na/nd-20261008de56500",
@@ -428,10 +429,10 @@
         "https://news.web.nhk/newsweb/na/nd-20260930de53426",
         "https://news.web.nhk/newsweb/na/nd-20260930de53373",
         "https://news.web.nhk/newsweb/na/nd-20261006de54999",
-        "https://news.web.nhk/newsweb/na/nd-20261006de55007",
-        "https://news.web.nhk/newsweb/na/nd-20261006de54980"
+        "https://news.web.nhk/newsweb/na/nd-20261006de55007"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2610-michael-burry-warns-openai-anthropic-ipo/",
         "https://www.gizmodo.jp/article/2610-googlebook-intel-vs-snapdragon/",
         "https://www.gizmodo.jp/article/2610-nature-remo-aircon-control-guarantee/",
         "https://www.gizmodo.jp/article/2610-apple-smart-home-privacy-security/",
@@ -630,8 +631,7 @@
         "https://www.gizmodo.jp/article/2609-msi-crosshair-16-hx-review/",
         "https://www.gizmodo.jp/article/2609-muji-folding-whiteboard-review/",
         "https://www.gizmodo.jp/article/2609-recent-solar-power-evolution/",
-        "https://www.gizmodo.jp/article/tkx2026/",
-        "https://www.gizmodo.jp/article/your-screen-protector-is-not-all-it-s-cracked-up-to-be-wgn/"
+        "https://www.gizmodo.jp/article/tkx2026/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "8JJ36OM0a5I",
