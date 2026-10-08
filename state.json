@@ -230,6 +230,8 @@
         "https://www.bbc.co.uk/news/videos/cwzd650e2jqdo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261008de56768",
+        "https://news.web.nhk/newsweb/na/nd-20261008de56779",
         "https://news.web.nhk/newsweb/na/nd-20261008de56679",
         "https://news.web.nhk/newsweb/na/nd-20261008de56713",
         "https://news.web.nhk/newsweb/na/nd-20261008de56677",
@@ -427,9 +429,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261006de55165",
         "https://news.web.nhk/newsweb/na/nd-20261006de55009",
         "https://news.web.nhk/newsweb/na/nd-20261006de55117",
-        "https://news.web.nhk/newsweb/na/nd-20261006de55111",
-        "https://news.web.nhk/newsweb/na/nd-20261006de55105",
-        "https://news.web.nhk/newsweb/na/nd-20261006de55062"
+        "https://news.web.nhk/newsweb/na/nd-20261006de55111"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/gopro-mission-1-ils-review/",
