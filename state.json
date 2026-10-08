@@ -230,6 +230,7 @@
         "https://www.bbc.co.uk/news/articles/cmp3k32k778ko#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261008de56876",
         "https://news.web.nhk/newsweb/na/nd-20261008de56864",
         "https://news.web.nhk/newsweb/na/nd-20261008de56852",
         "https://news.web.nhk/newsweb/na/nd-20261008de56508",
@@ -428,10 +429,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261006de55136",
         "https://news.web.nhk/newsweb/na/nd-20261006de55283",
         "https://news.web.nhk/newsweb/na/nd-20261006de55277",
-        "https://news.web.nhk/newsweb/na/nd-20261006de55244",
-        "https://news.web.nhk/newsweb/na/nd-20261003de54011"
+        "https://news.web.nhk/newsweb/na/nd-20261006de55244"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/jbl-cove-wifi-speakers/",
         "https://www.gizmodo.jp/article/new-humanoid-worker-bot-seems-to-cower-when-it-encounters-humans/",
         "https://www.gizmodo.jp/article/2610-future-iphone-full-surround-display/",
         "https://www.gizmodo.jp/article/this-kinetic-sculptors-machines-are-pointless-and-thats-the-point/",
@@ -630,8 +631,7 @@
         "https://www.gizmodo.jp/article/2609-trozk-t3-module-power-bank/",
         "https://www.gizmodo.jp/article/2609-insta360-luna-ultra-telephoto/",
         "https://www.gizmodo.jp/article/2609-fire-resistant-a4-gadget-case/",
-        "https://www.gizmodo.jp/article/found-gold-during-a-walk-lbu/",
-        "https://www.gizmodo.jp/article/montbell_pouch_best_selection/"
+        "https://www.gizmodo.jp/article/found-gold-during-a-walk-lbu/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "8JJ36OM0a5I",
