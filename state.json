@@ -230,6 +230,8 @@
         "https://www.bbc.co.uk/news/articles/c65yn5djx1pko#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261008de56246",
+        "https://news.web.nhk/newsweb/na/nd-20261008de56247",
         "https://news.web.nhk/newsweb/na/nd-20261008de56245",
         "https://news.web.nhk/newsweb/na/nd-20261008de56242",
         "https://news.web.nhk/newsweb/na/nd-20261008de56244",
@@ -427,9 +429,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261006de54944",
         "https://news.web.nhk/newsweb/na/nd-20261005de54856",
         "https://news.web.nhk/newsweb/na/nd-20261005de54910",
-        "https://news.web.nhk/newsweb/na/nd-20261002de53905",
-        "https://news.web.nhk/newsweb/na/nd-20261005de54878",
-        "https://news.web.nhk/newsweb/na/nd-20261005de54896"
+        "https://news.web.nhk/newsweb/na/nd-20261002de53905"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-chatgpt-audio-transcription-update/",
