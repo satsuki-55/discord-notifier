@@ -28,6 +28,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c687z8127302o#1",
         "https://www.bbc.co.uk/news/articles/c687z8127302o#0",
         "https://www.bbc.co.uk/news/articles/ckx2d4ddjn2eo#0",
         "https://www.bbc.co.uk/news/videos/cw99zxxx891yo#1",
@@ -226,10 +227,10 @@
         "https://www.bbc.co.uk/news/videos/c5rm9mdperemo#0",
         "https://www.bbc.co.uk/news/articles/cj62ylzpr6d3o#0",
         "https://www.bbc.co.uk/news/articles/cq8jzyey8e2ro#0",
-        "https://www.bbc.co.uk/news/articles/cqzrd7v1j163o#0",
-        "https://www.bbc.co.uk/news/articles/cve8x724e9ezo#0"
+        "https://www.bbc.co.uk/news/articles/cqzrd7v1j163o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261008de56277",
         "https://news.web.nhk/newsweb/na/nd-20261008de56250",
         "https://news.web.nhk/newsweb/na/nd-20261008de56248",
         "https://news.web.nhk/newsweb/na/nd-20261008de56251",
@@ -428,8 +429,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261006de54943",
         "https://news.web.nhk/newsweb/na/nd-20261006de54940",
         "https://news.web.nhk/newsweb/na/nd-20261006de54947",
-        "https://news.web.nhk/newsweb/na/nd-20261005de54912",
-        "https://news.web.nhk/newsweb/na/nd-20261002de53868"
+        "https://news.web.nhk/newsweb/na/nd-20261005de54912"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-pimax-crystal-pro-wireless-vr/",
