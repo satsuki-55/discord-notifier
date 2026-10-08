@@ -28,6 +28,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cx5yn46j41zpo#0",
         "https://www.bbc.co.uk/news/articles/cqdjvg3xww2go#0",
         "https://www.bbc.co.uk/news/articles/cqdjvg3xww2go#1",
         "https://www.bbc.co.uk/news/articles/cmgqwydpd4xwo#1",
@@ -226,10 +227,10 @@
         "https://www.bbc.co.uk/news/articles/cm86z9npj5deo#1",
         "https://www.bbc.co.uk/news/articles/c8ly0v5r602eo#0",
         "https://www.bbc.co.uk/news/articles/cme8r9267dpko#1",
-        "https://www.bbc.co.uk/news/videos/c6reyz98gz2no#1",
-        "https://www.bbc.co.uk/news/articles/cwe8ldgzj277o#1"
+        "https://www.bbc.co.uk/news/videos/c6reyz98gz2no#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261008de56500",
         "https://news.web.nhk/newsweb/na/nd-20261008de56490",
         "https://news.web.nhk/newsweb/na/nd-20261008de56486",
         "https://news.web.nhk/newsweb/na/nd-20261008de56480",
@@ -428,8 +429,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261006de55007",
         "https://news.web.nhk/newsweb/na/nd-20261006de54980",
         "https://news.web.nhk/newsweb/na/nd-20261006de54967",
-        "https://news.web.nhk/newsweb/na/nd-20261006de54974",
-        "https://news.web.nhk/newsweb/na/nd-20260930de53294"
+        "https://news.web.nhk/newsweb/na/nd-20261006de54974"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-nature-remo-aircon-control-guarantee/",
