@@ -230,6 +230,7 @@
         "https://www.bbc.co.uk/news/articles/cqzrd7v1j163o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261008de56393",
         "https://news.web.nhk/newsweb/na/nd-20261008de56428",
         "https://news.web.nhk/newsweb/na/nd-20261008de56371",
         "https://news.web.nhk/newsweb/na/nd-20261008de56280",
@@ -428,8 +429,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261006de54961",
         "https://news.web.nhk/newsweb/na/nd-20261006de54963",
         "https://news.web.nhk/newsweb/na/nd-20261006de54955",
-        "https://news.web.nhk/newsweb/na/nd-20261005de54668",
-        "https://news.web.nhk/newsweb/na/nd-20261006de54928"
+        "https://news.web.nhk/newsweb/na/nd-20261005de54668"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-elecom-left-hand-device-hub/",
