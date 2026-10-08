@@ -230,6 +230,7 @@
         "https://www.bbc.co.uk/news/videos/cwzd650e2jqdo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261008de56679",
         "https://news.web.nhk/newsweb/na/nd-20261008de56713",
         "https://news.web.nhk/newsweb/na/nd-20261008de56677",
         "https://news.web.nhk/newsweb/na/nd-20261008de56691",
@@ -428,10 +429,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261006de55117",
         "https://news.web.nhk/newsweb/na/nd-20261006de55111",
         "https://news.web.nhk/newsweb/na/nd-20261006de55105",
-        "https://news.web.nhk/newsweb/na/nd-20261006de55062",
-        "https://news.web.nhk/newsweb/na/nd-20261006de55059"
+        "https://news.web.nhk/newsweb/na/nd-20261006de55062"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/gopro-mission-1-ils-review/",
         "https://www.gizmodo.jp/article/2610-shanling-q2-ipod-style-audio-player/",
         "https://www.gizmodo.jp/article/ffc574df-bc37-44c7-aca7-38134fe3df03/",
         "https://www.gizmodo.jp/article/playstation-portal-new-model-on-wifi-alliance/",
@@ -630,8 +631,7 @@
         "https://www.gizmodo.jp/article/2609-lenovo-googlebook-15-jp-release/",
         "https://www.gizmodo.jp/article/2609-sonos-ace-ultra-review/",
         "https://www.gizmodo.jp/article/2609-iphone-to-windows-copy-paste/",
-        "https://www.gizmodo.jp/article/tokyo-toy-show-2026_toys/",
-        "https://www.gizmodo.jp/article/2609-makerphone-2-diy-cyber-phone/"
+        "https://www.gizmodo.jp/article/tokyo-toy-show-2026_toys/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "8JJ36OM0a5I",
