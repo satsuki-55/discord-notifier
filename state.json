@@ -230,6 +230,7 @@
         "https://www.bbc.co.uk/news/articles/cqgm0vrl3xp7o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261009de56942",
         "https://news.web.nhk/newsweb/na/nd-20261009de56946",
         "https://news.web.nhk/newsweb/na/nd-20261009de56948",
         "https://news.web.nhk/newsweb/na/nd-20261008de56856",
@@ -428,8 +429,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261006de55557",
         "https://news.web.nhk/newsweb/na/nd-20261006de55543",
         "https://news.web.nhk/newsweb/na/nd-20261003de54074",
-        "https://news.web.nhk/newsweb/na/nd-20261006de55552",
-        "https://news.web.nhk/newsweb/na/nd-20261006de55504"
+        "https://news.web.nhk/newsweb/na/nd-20261006de55552"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/space-force-just-retired-the-satellites-that-watched-for-world-war-iii/",
