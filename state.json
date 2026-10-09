@@ -231,6 +231,7 @@
         "https://www.bbc.co.uk/news/articles/cq62j2lzlnm8o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261009de57493",
         "https://news.web.nhk/newsweb/na/nd-20261009de57498",
         "https://news.web.nhk/newsweb/na/nd-20261009de57464",
         "https://news.web.nhk/newsweb/na/nd-20261009de57456",
@@ -429,8 +430,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261007de56048",
         "https://news.web.nhk/newsweb/na/nd-20261007de55662",
         "https://news.web.nhk/newsweb/na/nd-20261007de56022",
-        "https://news.web.nhk/newsweb/na/nd-20261007de56006",
-        "https://news.web.nhk/newsweb/na/nd-20261007de55973"
+        "https://news.web.nhk/newsweb/na/nd-20261007de56006"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-apple-october-event-smart-home-2026/",
