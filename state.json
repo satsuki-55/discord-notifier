@@ -230,6 +230,7 @@
         "https://www.bbc.co.uk/news/articles/cm5yn3592xk9o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261009de57110",
         "https://news.web.nhk/newsweb/na/nd-20261009de57014",
         "https://news.web.nhk/newsweb/na/nd-20261009de57107",
         "https://news.web.nhk/newsweb/na/nd-20261009de57108",
@@ -428,8 +429,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261006de55581",
         "https://news.web.nhk/newsweb/na/nd-20261006de55579",
         "https://news.web.nhk/newsweb/na/nd-20261007de55607",
-        "https://news.web.nhk/newsweb/na/nd-20261007de55611",
-        "https://news.web.nhk/newsweb/na/nd-20261006de55098"
+        "https://news.web.nhk/newsweb/na/nd-20261007de55611"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/jbl-partybox-ultimate-2/",
