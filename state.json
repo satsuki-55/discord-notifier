@@ -231,6 +231,7 @@
         "https://www.bbc.co.uk/news/articles/cq20v0e7vjkgo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261009de57464",
         "https://news.web.nhk/newsweb/na/nd-20261009de57456",
         "https://news.web.nhk/newsweb/na/nd-20261009de57477",
         "https://news.web.nhk/newsweb/na/nd-20261009de57482",
@@ -429,8 +430,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261007de56022",
         "https://news.web.nhk/newsweb/na/nd-20261007de56006",
         "https://news.web.nhk/newsweb/na/nd-20261007de55973",
-        "https://news.web.nhk/newsweb/na/nd-20261007de55987",
-        "https://news.web.nhk/newsweb/na/nd-20261007de55974"
+        "https://news.web.nhk/newsweb/na/nd-20261007de55987"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/googlebook-features-and-smartphone-integration/",
