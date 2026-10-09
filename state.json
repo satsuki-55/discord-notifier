@@ -230,6 +230,7 @@
         "https://www.bbc.co.uk/news/articles/ckge4eql4q7eo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261009de56985",
         "https://news.web.nhk/newsweb/na/nd-20261009de56967",
         "https://news.web.nhk/newsweb/na/nd-20261009de56969",
         "https://news.web.nhk/newsweb/na/nd-20261009de56970",
@@ -428,8 +429,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261006de55569",
         "https://news.web.nhk/newsweb/na/nd-20261006de55567",
         "https://news.web.nhk/newsweb/na/nd-20261006de55575",
-        "https://news.web.nhk/newsweb/na/nd-20261001de53558",
-        "https://news.web.nhk/newsweb/na/nd-20261006de55572"
+        "https://news.web.nhk/newsweb/na/nd-20261001de53558"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/openai-and-anthropic-have-a-new-threat-to-worry-about-and-it-isnt-china/",
