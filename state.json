@@ -29,6 +29,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cqgkvj10k6lno#0",
         "https://www.bbc.co.uk/news/articles/c687z8127302o#0",
         "https://www.bbc.co.uk/news/articles/ckx2d4ddjn2eo#0",
         "https://www.bbc.co.uk/news/articles/cw4g13j4mdxjo#1",
@@ -227,10 +228,10 @@
         "https://www.bbc.co.uk/news/articles/cj62ylzpr6d3o#0",
         "https://www.bbc.co.uk/news/articles/cq8jzyey8e2ro#0",
         "https://www.bbc.co.uk/news/articles/cw4g1j2z5zvzo#0",
-        "https://www.bbc.co.uk/news/articles/c9gkvxjvl7v3o#0",
-        "https://www.bbc.co.uk/news/articles/cx62y37r1p8eo#0"
+        "https://www.bbc.co.uk/news/articles/c9gkvxjvl7v3o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261009de57527",
         "https://news.web.nhk/newsweb/na/nd-20261009de57499",
         "https://news.web.nhk/newsweb/na/nd-20261009de57511",
         "https://news.web.nhk/newsweb/na/nd-20261009de57493",
@@ -429,8 +430,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261007de56092",
         "https://news.web.nhk/newsweb/na/nd-20261007de56090",
         "https://news.web.nhk/newsweb/na/nd-20261007de56073",
-        "https://news.web.nhk/newsweb/na/nd-20261007de56048",
-        "https://news.web.nhk/newsweb/na/nd-20261007de55662"
+        "https://news.web.nhk/newsweb/na/nd-20261007de56048"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-light-flip-phone-digital-detox/",
