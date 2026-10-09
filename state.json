@@ -28,6 +28,8 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c6vg0mngjvljo#0",
+        "https://www.bbc.co.uk/news/articles/cmx28wd59j4zo#1",
         "https://www.bbc.co.uk/news/articles/cm70p821d6w4o#1",
         "https://www.bbc.co.uk/news/articles/cq98zdp612pko#0",
         "https://www.bbc.co.uk/news/articles/c6zjx7jexz1do#1",
@@ -225,11 +227,12 @@
         "https://www.bbc.co.uk/news/articles/cqe8r9811n9jo#1",
         "https://www.bbc.co.uk/news/articles/cq99zrem2j0go#1",
         "https://www.bbc.co.uk/weather/articles/cw146l6pnvx0o#0",
-        "https://www.bbc.co.uk/news/articles/c6eq3x3v11d5o#1",
-        "https://www.bbc.co.uk/news/articles/cm4g175e8163o#1",
-        "https://www.bbc.co.uk/news/articles/cm4g175e8163o#0"
+        "https://www.bbc.co.uk/news/articles/c6eq3x3v11d5o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260930de53298",
+        "https://news.web.nhk/newsweb/na/nd-20261009de57169",
+        "https://news.web.nhk/newsweb/na/nd-20261009de57141",
         "https://news.web.nhk/newsweb/na/nd-20260930de53297",
         "https://news.web.nhk/newsweb/na/nd-20261009de57146",
         "https://news.web.nhk/newsweb/na/nd-20261009de57136",
@@ -426,12 +429,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261007de55605",
         "https://news.web.nhk/newsweb/na/nd-20261007de55615",
         "https://news.web.nhk/newsweb/na/nd-20261007de55634",
-        "https://news.web.nhk/newsweb/na/nd-20261007de55612",
-        "https://news.web.nhk/newsweb/na/nd-20261007de55603",
-        "https://news.web.nhk/newsweb/na/nd-20261007de55625",
-        "https://news.web.nhk/newsweb/na/nd-20261007de55632"
+        "https://news.web.nhk/newsweb/na/nd-20261007de55612"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2609-lht-google-pixel-9a-nud/",
         "https://www.gizmodo.jp/article/2610-oled-macbook-pro-ipad-mini-oct-27/",
         "https://www.gizmodo.jp/article/2610-creative-pebble-pc-speaker/",
         "https://www.gizmodo.jp/article/amazon-alexa-tablet-12-pro-hands-on/",
@@ -630,8 +631,7 @@
         "https://www.gizmodo.jp/article/2609-trump-renames-ai-to-super-intelligence-si/",
         "https://www.gizmodo.jp/article/b1cb02a2-a54e-443e-8b29-089e356e2f91/",
         "https://www.gizmodo.jp/article/2609-windows11-movable-taskbar-update/",
-        "https://www.gizmodo.jp/article/2609-googlebook-wait-for-updates/",
-        "https://www.gizmodo.jp/article/2609-acer-vero-16-repairable-laptop/"
+        "https://www.gizmodo.jp/article/2609-googlebook-wait-for-updates/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "5koLraN_4Kk",
