@@ -29,6 +29,8 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c6j9k1l72wkgo#0",
+        "https://www.bbc.co.uk/news/articles/c8040nl9q24do#1",
         "https://www.bbc.co.uk/news/articles/crn8wyl4n42yo#0",
         "https://www.bbc.co.uk/news/articles/cwkg50v1vn07o#0",
         "https://www.bbc.co.uk/news/videos/c6qjnv07q452o#1",
@@ -226,9 +228,7 @@
         "https://www.bbc.co.uk/news/articles/cq62j2lzlnm8o#1",
         "https://www.bbc.co.uk/news/articles/cwe8ld517ry3o#1",
         "https://www.bbc.co.uk/news/articles/cq20v0e7vjkgo#0",
-        "https://www.bbc.co.uk/news/articles/cy745jznvxpo#0",
-        "https://www.bbc.co.uk/news/articles/c5rm9mdm79neo#1",
-        "https://www.bbc.co.uk/news/articles/cm86z9npj5deo#0"
+        "https://www.bbc.co.uk/news/articles/cy745jznvxpo#0"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20261009de57456",
@@ -433,6 +433,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261007de55974"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/googlebook-features-and-smartphone-integration/",
         "https://www.gizmodo.jp/article/2610-iphone-air-2-thinner/",
         "https://www.gizmodo.jp/article/2610-retroid-pocket-duo-lite-plus/",
         "https://www.gizmodo.jp/article/2610-kawasaki-home-leo-robot/",
@@ -631,8 +632,7 @@
         "https://www.gizmodo.jp/article/water-battery-30-years-enervenue/",
         "https://www.gizmodo.jp/article/matador-earplugs/",
         "https://www.gizmodo.jp/article/go-waymo-nihonkotsu/",
-        "https://www.gizmodo.jp/article/ecovacs-deebot-x12s-pro-omni/",
-        "https://www.gizmodo.jp/article/2609-meta-ai-glasses-privacy-rayban/"
+        "https://www.gizmodo.jp/article/ecovacs-deebot-x12s-pro-omni/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "5koLraN_4Kk",
