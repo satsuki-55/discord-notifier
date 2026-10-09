@@ -230,6 +230,7 @@
         "https://www.bbc.co.uk/news/articles/cwx28l8dp2lxo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261009de57258",
         "https://news.web.nhk/newsweb/na/nd-20261009de57223",
         "https://news.web.nhk/newsweb/na/nd-20261009de57229",
         "https://news.web.nhk/newsweb/na/nd-20261009de57221",
@@ -428,8 +429,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261007de55822",
         "https://news.web.nhk/newsweb/na/nd-20261007de55816",
         "https://news.web.nhk/newsweb/na/nd-20261007de55830",
-        "https://news.web.nhk/newsweb/na/nd-20261007de55780",
-        "https://news.web.nhk/newsweb/na/nd-20261007de55653"
+        "https://news.web.nhk/newsweb/na/nd-20261007de55780"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/freckl-ai-smartphone-for-kids/",
