@@ -230,6 +230,7 @@
         "https://www.bbc.co.uk/news/articles/c6398n8x13zyo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261009de57256",
         "https://news.web.nhk/newsweb/na/nd-20261009de57123",
         "https://news.web.nhk/newsweb/na/nd-20261009de57258",
         "https://news.web.nhk/newsweb/na/nd-20261009de57223",
@@ -428,8 +429,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261007de55847",
         "https://news.web.nhk/newsweb/na/nd-20261004de54358",
         "https://news.web.nhk/newsweb/na/nd-20261007de55822",
-        "https://news.web.nhk/newsweb/na/nd-20261007de55816",
-        "https://news.web.nhk/newsweb/na/nd-20261007de55830"
+        "https://news.web.nhk/newsweb/na/nd-20261007de55816"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2609-kokuyo-ingcloud-work-chair/",
