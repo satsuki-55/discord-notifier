@@ -230,6 +230,8 @@
         "https://www.bbc.co.uk/news/articles/ckly020edl45o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261009de57145",
+        "https://news.web.nhk/newsweb/na/nd-20261009de56984",
         "https://news.web.nhk/newsweb/na/nd-20261009de57120",
         "https://news.web.nhk/newsweb/na/nd-20261009de57110",
         "https://news.web.nhk/newsweb/na/nd-20261009de57014",
@@ -427,9 +429,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261006de55534",
         "https://news.web.nhk/newsweb/na/nd-20261007de55630",
         "https://news.web.nhk/newsweb/na/nd-20261006de55584",
-        "https://news.web.nhk/newsweb/na/nd-20261006de55581",
-        "https://news.web.nhk/newsweb/na/nd-20261006de55579",
-        "https://news.web.nhk/newsweb/na/nd-20261007de55607"
+        "https://news.web.nhk/newsweb/na/nd-20261006de55581"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-creative-pebble-pc-speaker/",
