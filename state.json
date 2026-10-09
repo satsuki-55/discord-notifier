@@ -29,6 +29,8 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cwkg50v1vn07o#0",
+        "https://www.bbc.co.uk/news/videos/c6qjnv07q452o#1",
         "https://www.bbc.co.uk/news/videos/c95yn70e678po#1",
         "https://www.bbc.co.uk/news/articles/cxm234pzj952o#0",
         "https://www.bbc.co.uk/news/articles/cmwy47lzd1vyo#1",
@@ -226,9 +228,7 @@
         "https://www.bbc.co.uk/news/articles/cy745jznvxpo#0",
         "https://www.bbc.co.uk/news/articles/c5rm9mdm79neo#1",
         "https://www.bbc.co.uk/news/articles/cm86z9npj5deo#0",
-        "https://www.bbc.co.uk/news/articles/cmgqwydpd4xwo#0",
-        "https://www.bbc.co.uk/news/articles/cwe8ld517ry3o#0",
-        "https://www.bbc.co.uk/news/articles/cq62j2lzlnm8o#0"
+        "https://www.bbc.co.uk/news/articles/cmgqwydpd4xwo#0"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20261009de57456",
@@ -433,6 +433,8 @@
         "https://news.web.nhk/newsweb/na/nd-20261007de55974"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2610-iphone-air-2-thinner/",
+        "https://www.gizmodo.jp/article/2610-retroid-pocket-duo-lite-plus/",
         "https://www.gizmodo.jp/article/2610-kawasaki-home-leo-robot/",
         "https://www.gizmodo.jp/article/pocketbook-verta-color-e-reader/",
         "https://www.gizmodo.jp/article/nike-apex_supershoe/",
@@ -630,9 +632,7 @@
         "https://www.gizmodo.jp/article/matador-earplugs/",
         "https://www.gizmodo.jp/article/go-waymo-nihonkotsu/",
         "https://www.gizmodo.jp/article/ecovacs-deebot-x12s-pro-omni/",
-        "https://www.gizmodo.jp/article/2609-meta-ai-glasses-privacy-rayban/",
-        "https://www.gizmodo.jp/article/adlens_do-lifeone_eyewear/",
-        "https://www.gizmodo.jp/article/h-concept_canary-whistle_review/"
+        "https://www.gizmodo.jp/article/2609-meta-ai-glasses-privacy-rayban/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "5koLraN_4Kk",
