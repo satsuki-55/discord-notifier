@@ -230,6 +230,8 @@
         "https://www.bbc.co.uk/news/articles/cr9dzy24g2l7o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261009de57175",
+        "https://news.web.nhk/newsweb/na/nd-20261009de57176",
         "https://news.web.nhk/newsweb/na/nd-20261009de57195",
         "https://news.web.nhk/newsweb/na/nd-20261009de57177",
         "https://news.web.nhk/newsweb/na/nd-20261009de57153",
@@ -427,9 +429,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261007de55698",
         "https://news.web.nhk/newsweb/na/nd-20261007de55664",
         "https://news.web.nhk/newsweb/na/nd-20261007de55636",
-        "https://news.web.nhk/newsweb/na/nd-20261007de55641",
-        "https://news.web.nhk/newsweb/na/nd-20261006de55521",
-        "https://news.web.nhk/newsweb/na/nd-20261007de55633"
+        "https://news.web.nhk/newsweb/na/nd-20261007de55641"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/daytona-hot-grip-wrap-heat/",
