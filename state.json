@@ -230,6 +230,7 @@
         "https://www.bbc.co.uk/news/articles/ckge4eql4q7eo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261009de57103",
         "https://news.web.nhk/newsweb/na/nd-20261009de56982",
         "https://news.web.nhk/newsweb/na/nd-20261009de57046",
         "https://news.web.nhk/newsweb/na/nd-20261009de56973",
@@ -428,8 +429,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261006de55098",
         "https://news.web.nhk/newsweb/na/nd-20261006de55582",
         "https://news.web.nhk/newsweb/na/nd-20261007de55598",
-        "https://news.web.nhk/newsweb/na/nd-20261007de55592",
-        "https://news.web.nhk/newsweb/na/nd-20261006de55577"
+        "https://news.web.nhk/newsweb/na/nd-20261007de55592"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-xreal-aura-price-japan/",
