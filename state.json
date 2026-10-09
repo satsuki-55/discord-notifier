@@ -230,6 +230,8 @@
         "https://www.bbc.co.uk/news/articles/cmewexlqyj2zo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261009de57448",
+        "https://news.web.nhk/newsweb/na/nd-20261009de57425",
         "https://news.web.nhk/newsweb/na/nd-20261009de57441",
         "https://news.web.nhk/newsweb/na/nd-20261009de57427",
         "https://news.web.nhk/newsweb/na/nd-20261009de57424",
@@ -427,9 +429,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261007de55829",
         "https://news.web.nhk/newsweb/na/nd-20260930de53295",
         "https://news.web.nhk/newsweb/na/nd-20261004de54368",
-        "https://news.web.nhk/newsweb/na/nd-20261007de55905",
-        "https://news.web.nhk/newsweb/na/nd-20261007de55893",
-        "https://news.web.nhk/newsweb/na/nd-20261007de55881"
+        "https://news.web.nhk/newsweb/na/nd-20261007de55905"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/nike-apex_supershoe/",
