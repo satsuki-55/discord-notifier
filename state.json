@@ -230,6 +230,7 @@
         "https://www.bbc.co.uk/news/articles/c6398n8x13zyo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261009de57123",
         "https://news.web.nhk/newsweb/na/nd-20261009de57258",
         "https://news.web.nhk/newsweb/na/nd-20261009de57223",
         "https://news.web.nhk/newsweb/na/nd-20261009de57229",
@@ -428,10 +429,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261004de54358",
         "https://news.web.nhk/newsweb/na/nd-20261007de55822",
         "https://news.web.nhk/newsweb/na/nd-20261007de55816",
-        "https://news.web.nhk/newsweb/na/nd-20261007de55830",
-        "https://news.web.nhk/newsweb/na/nd-20261007de55780"
+        "https://news.web.nhk/newsweb/na/nd-20261007de55830"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2609-kokuyo-ingcloud-work-chair/",
         "https://www.gizmodo.jp/article/freckl-ai-smartphone-for-kids/",
         "https://www.gizmodo.jp/article/daytona-hot-grip-wrap-heat/",
         "https://www.gizmodo.jp/article/2609-lht-google-pixel-9a-nud/",
@@ -630,8 +631,7 @@
         "https://www.gizmodo.jp/article/2609-eneloop-usb-c-charger/",
         "https://www.gizmodo.jp/article/mit-edible-battery-capsule/",
         "https://www.gizmodo.jp/article/202609-openai-token-spend-ai-coding-researchers--gzg/",
-        "https://www.gizmodo.jp/article/2609-trump-renames-ai-to-super-intelligence-si/",
-        "https://www.gizmodo.jp/article/b1cb02a2-a54e-443e-8b29-089e356e2f91/"
+        "https://www.gizmodo.jp/article/2609-trump-renames-ai-to-super-intelligence-si/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "5koLraN_4Kk",
