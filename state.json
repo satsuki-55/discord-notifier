@@ -230,6 +230,7 @@
         "https://www.bbc.co.uk/news/articles/ckge4eql4q7eo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261009de57046",
         "https://news.web.nhk/newsweb/na/nd-20261009de56973",
         "https://news.web.nhk/newsweb/na/nd-20261009de56980",
         "https://news.web.nhk/newsweb/na/nd-20261009de56979",
@@ -428,10 +429,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261007de55598",
         "https://news.web.nhk/newsweb/na/nd-20261007de55592",
         "https://news.web.nhk/newsweb/na/nd-20261006de55577",
-        "https://news.web.nhk/newsweb/na/nd-20261006de55566",
-        "https://news.web.nhk/newsweb/na/nd-20261006de55569"
+        "https://news.web.nhk/newsweb/na/nd-20261006de55566"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2610-xreal-aura-price-japan/",
         "https://www.gizmodo.jp/article/2610-fitbit-cheating-detection-at-4am/",
         "https://www.gizmodo.jp/article/openai-and-anthropic-have-a-new-threat-to-worry-about-and-it-isnt-china/",
         "https://www.gizmodo.jp/article/2610-korg-nutube-effector-od-kit/",
@@ -630,8 +631,7 @@
         "https://www.gizmodo.jp/article/2609-katzenberg-ai-creative-industry/",
         "https://www.gizmodo.jp/article/2609-ancient-china-nose-amputation-evidence/",
         "https://www.gizmodo.jp/article/2609-uk-pubs-banning-smart-glasses/",
-        "https://www.gizmodo.jp/article/2609-cio-polaris-cube-desk/",
-        "https://www.gizmodo.jp/article/2609-copilot-plus-pc-quietly-ends/"
+        "https://www.gizmodo.jp/article/2609-cio-polaris-cube-desk/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "5koLraN_4Kk",
