@@ -231,6 +231,7 @@
         "https://www.bbc.co.uk/news/articles/c617kdle01k9o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261009de57468",
         "https://news.web.nhk/newsweb/na/nd-20261009de57467",
         "https://news.web.nhk/newsweb/na/nd-20261009de57462",
         "https://news.web.nhk/newsweb/na/nd-20261009de57453",
@@ -429,8 +430,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261007de55983",
         "https://news.web.nhk/newsweb/na/nd-20261007de55979",
         "https://news.web.nhk/newsweb/na/nd-20261007de55876",
-        "https://news.web.nhk/newsweb/na/nd-20261007de55926",
-        "https://news.web.nhk/newsweb/na/nd-20261007de55924"
+        "https://news.web.nhk/newsweb/na/nd-20261007de55926"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-kawasaki-home-leo-robot/",
