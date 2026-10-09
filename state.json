@@ -230,6 +230,8 @@
         "https://www.bbc.co.uk/news/articles/ckly020edl45o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260930de53297",
+        "https://news.web.nhk/newsweb/na/nd-20261009de57146",
         "https://news.web.nhk/newsweb/na/nd-20261009de57136",
         "https://news.web.nhk/newsweb/na/nd-20261009de57143",
         "https://news.web.nhk/newsweb/na/nd-20261009de57145",
@@ -427,11 +429,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261007de55612",
         "https://news.web.nhk/newsweb/na/nd-20261007de55603",
         "https://news.web.nhk/newsweb/na/nd-20261007de55625",
-        "https://news.web.nhk/newsweb/na/nd-20261007de55632",
-        "https://news.web.nhk/newsweb/na/nd-20261006de55534",
-        "https://news.web.nhk/newsweb/na/nd-20261007de55630"
+        "https://news.web.nhk/newsweb/na/nd-20261007de55632"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2610-oled-macbook-pro-ipad-mini-oct-27/",
         "https://www.gizmodo.jp/article/2610-creative-pebble-pc-speaker/",
         "https://www.gizmodo.jp/article/amazon-alexa-tablet-12-pro-hands-on/",
         "https://www.gizmodo.jp/article/2610-monster-cable-power-strip/",
@@ -630,8 +631,7 @@
         "https://www.gizmodo.jp/article/b1cb02a2-a54e-443e-8b29-089e356e2f91/",
         "https://www.gizmodo.jp/article/2609-windows11-movable-taskbar-update/",
         "https://www.gizmodo.jp/article/2609-googlebook-wait-for-updates/",
-        "https://www.gizmodo.jp/article/2609-acer-vero-16-repairable-laptop/",
-        "https://www.gizmodo.jp/article/2609-smartphone-with-physical-keyboard/"
+        "https://www.gizmodo.jp/article/2609-acer-vero-16-repairable-laptop/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "5koLraN_4Kk",
