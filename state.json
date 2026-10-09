@@ -230,6 +230,8 @@
         "https://www.bbc.co.uk/news/articles/cwx28l8dp2lxo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261009de57223",
+        "https://news.web.nhk/newsweb/na/nd-20261009de57229",
         "https://news.web.nhk/newsweb/na/nd-20261009de57221",
         "https://news.web.nhk/newsweb/na/nd-20261009de57243",
         "https://news.web.nhk/newsweb/na/nd-20261009de56975",
@@ -427,11 +429,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261007de55816",
         "https://news.web.nhk/newsweb/na/nd-20261007de55830",
         "https://news.web.nhk/newsweb/na/nd-20261007de55780",
-        "https://news.web.nhk/newsweb/na/nd-20261007de55653",
-        "https://news.web.nhk/newsweb/na/nd-20261007de55773",
-        "https://news.web.nhk/newsweb/na/nd-20261007de55732"
+        "https://news.web.nhk/newsweb/na/nd-20261007de55653"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/freckl-ai-smartphone-for-kids/",
         "https://www.gizmodo.jp/article/daytona-hot-grip-wrap-heat/",
         "https://www.gizmodo.jp/article/2609-lht-google-pixel-9a-nud/",
         "https://www.gizmodo.jp/article/2610-oled-macbook-pro-ipad-mini-oct-27/",
@@ -630,8 +631,7 @@
         "https://www.gizmodo.jp/article/mit-edible-battery-capsule/",
         "https://www.gizmodo.jp/article/202609-openai-token-spend-ai-coding-researchers--gzg/",
         "https://www.gizmodo.jp/article/2609-trump-renames-ai-to-super-intelligence-si/",
-        "https://www.gizmodo.jp/article/b1cb02a2-a54e-443e-8b29-089e356e2f91/",
-        "https://www.gizmodo.jp/article/2609-windows11-movable-taskbar-update/"
+        "https://www.gizmodo.jp/article/b1cb02a2-a54e-443e-8b29-089e356e2f91/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "5koLraN_4Kk",
