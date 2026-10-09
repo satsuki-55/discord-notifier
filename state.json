@@ -29,6 +29,9 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cxm234pzj952o#0",
+        "https://www.bbc.co.uk/news/articles/cmwy47lzd1vyo#1",
+        "https://www.bbc.co.uk/news/articles/cme3xl8ln2vko#1",
         "https://www.bbc.co.uk/news/articles/c6vg98lw017po#0",
         "https://www.bbc.co.uk/news/articles/c6vg98lw017po#1",
         "https://www.bbc.co.uk/news/articles/cq5yn75pgyjjo#1",
@@ -225,12 +228,11 @@
         "https://www.bbc.co.uk/news/articles/cmgqwydpd4xwo#0",
         "https://www.bbc.co.uk/news/articles/cwe8ld517ry3o#0",
         "https://www.bbc.co.uk/news/articles/cq62j2lzlnm8o#0",
-        "https://www.bbc.co.uk/news/articles/c64g15v2jqy8o#0",
-        "https://www.bbc.co.uk/news/articles/cmn5vw05l0q3o#0",
-        "https://www.bbc.co.uk/news/articles/c5zjx7xx3487o#1",
-        "https://www.bbc.co.uk/news/articles/cxm234pzj952o#0"
+        "https://www.bbc.co.uk/news/articles/c64g15v2jqy8o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261009de57477",
+        "https://news.web.nhk/newsweb/na/nd-20261009de57482",
         "https://news.web.nhk/newsweb/na/nd-20261009de57481",
         "https://news.web.nhk/newsweb/na/nd-20261009de57475",
         "https://news.web.nhk/newsweb/na/nd-20261009de57468",
@@ -428,9 +430,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261007de55973",
         "https://news.web.nhk/newsweb/na/nd-20261007de55987",
         "https://news.web.nhk/newsweb/na/nd-20261007de55974",
-        "https://news.web.nhk/newsweb/na/nd-20261007de55965",
-        "https://news.web.nhk/newsweb/na/nd-20261007de55983",
-        "https://news.web.nhk/newsweb/na/nd-20261007de55979"
+        "https://news.web.nhk/newsweb/na/nd-20261007de55965"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-kawasaki-home-leo-robot/",
