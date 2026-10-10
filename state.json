@@ -32,6 +32,9 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c623dv9n93evo#0",
+        "https://www.bbc.co.uk/news/articles/ck5yngl2y4gpo#0",
+        "https://www.bbc.co.uk/news/articles/c6y43mmke7ygo#1",
         "https://www.bbc.co.uk/news/articles/cw33x4y8k82no#1",
         "https://www.bbc.co.uk/news/articles/c9rkyey458xdo#1",
         "https://www.bbc.co.uk/news/articles/cmje5x80yg70o#1",
@@ -228,10 +231,7 @@
         "https://www.bbc.co.uk/news/articles/crvg904yw397o#0",
         "https://www.bbc.co.uk/news/videos/ckz65l2gne1po#0",
         "https://www.bbc.co.uk/news/articles/c9e8ld448km8o#0",
-        "https://www.bbc.co.uk/news/articles/ck8dzq095lj3o#1",
-        "https://www.bbc.co.uk/news/articles/c3j4790elkx7o#0",
-        "https://www.bbc.co.uk/news/articles/c623dv9n93evo#0",
-        "https://www.bbc.co.uk/news/articles/ck5yngl2y4gpo#0"
+        "https://www.bbc.co.uk/news/articles/ck8dzq095lj3o#1"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20261010de57622",
@@ -436,6 +436,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261008de56405"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/uniball_zento-3color-pen_review/",
         "https://www.gizmodo.jp/article/2610-kuma-qper-anti-bear-ball/",
         "https://www.gizmodo.jp/article/2610-google-chrome-gemini-nano-4gb-model/",
         "https://www.gizmodo.jp/article/2610-elfmio-cross-style/",
@@ -634,8 +635,7 @@
         "https://www.gizmodo.jp/article/2610-sanwa-supply-portable-battery-btl-rdc46/",
         "https://www.gizmodo.jp/article/2610-minecraft-new-dimension-the-sift/",
         "https://www.gizmodo.jp/article/the-dam-slows-down-the-earths-rotation-urm/",
-        "https://www.gizmodo.jp/article/ace-tokyo-2026/",
-        "https://www.gizmodo.jp/article/2610-galaxy-tab-s12-photoshop/"
+        "https://www.gizmodo.jp/article/ace-tokyo-2026/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "5koLraN_4Kk",
