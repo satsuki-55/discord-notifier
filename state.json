@@ -233,6 +233,7 @@
         "https://www.bbc.co.uk/news/articles/c689zxd8w87lo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261010de57670",
         "https://news.web.nhk/newsweb/na/nd-20261010de57655",
         "https://news.web.nhk/newsweb/na/nd-20261010de57651",
         "https://news.web.nhk/newsweb/na/nd-20261010de57631",
@@ -431,10 +432,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261008de56201",
         "https://news.web.nhk/newsweb/na/nd-20261008de56192",
         "https://news.web.nhk/newsweb/na/nd-20261008de56219",
-        "https://news.web.nhk/newsweb/na/nd-20261008de56217",
-        "https://news.web.nhk/newsweb/na/nd-20261005de54707"
+        "https://news.web.nhk/newsweb/na/nd-20261008de56217"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/offroad-125cc-mini-truck/",
         "https://www.gizmodo.jp/article/2610-water-and-air-activated-battery-disaster-prevention/",
         "https://www.gizmodo.jp/article/2610-chiikawa-amazon-kids-tablet/",
         "https://www.gizmodo.jp/article/2610-aimedia-bathroom-high-pressure-gun/",
@@ -633,8 +634,7 @@
         "https://www.gizmodo.jp/article/2609-pillow-speaker-audible-review/",
         "https://www.gizmodo.jp/article/wall-mounted-dryer-holder/",
         "https://www.gizmodo.jp/article/2609-sanders-military-derby/",
-        "https://www.gizmodo.jp/article/2609-climate-resilient-cities-chicago-japan/",
-        "https://www.gizmodo.jp/article/2609-air-battler-wifi-monster-game/"
+        "https://www.gizmodo.jp/article/2609-climate-resilient-cities-chicago-japan/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "5koLraN_4Kk",
