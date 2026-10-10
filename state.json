@@ -32,6 +32,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo#1",
         "https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo#0",
         "https://www.bbc.co.uk/news/articles/c54g19pgy48yo#1",
         "https://www.bbc.co.uk/news/articles/cjx23yxwe73qo#1",
@@ -230,10 +231,10 @@
         "https://www.bbc.co.uk/news/articles/c6zxjdw8rdl5o#0",
         "https://www.bbc.co.uk/news/articles/cq8jz9p2ln9zo#1",
         "https://www.bbc.co.uk/news/articles/ck5yn8jn677vo#1",
-        "https://www.bbc.co.uk/news/articles/ck5yn8jn677vo#0",
-        "https://www.bbc.co.uk/news/articles/cwp8g197m5z8o#0"
+        "https://www.bbc.co.uk/news/articles/ck5yn8jn677vo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261009de57504",
         "https://news.web.nhk/newsweb/na/nd-20261008de56487",
         "https://news.web.nhk/newsweb/na/nd-20261010de57716",
         "https://news.web.nhk/newsweb/na/nd-20261010de57725",
@@ -432,8 +433,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261008de56238",
         "https://news.web.nhk/newsweb/na/nd-20261005de54888",
         "https://news.web.nhk/newsweb/na/nd-20261008de56237",
-        "https://news.web.nhk/newsweb/na/nd-20261008de56230",
-        "https://news.web.nhk/newsweb/na/nd-20261007de56012"
+        "https://news.web.nhk/newsweb/na/nd-20261008de56230"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-panasonic-straight-iron-nanocare/",
