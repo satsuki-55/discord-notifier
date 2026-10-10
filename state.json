@@ -234,6 +234,7 @@
         "https://www.bbc.co.uk/news/articles/ckp8g189zgmyo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261010de57711",
         "https://news.web.nhk/newsweb/na/nd-20261010de57687",
         "https://news.web.nhk/newsweb/na/nd-20261010de57697",
         "https://news.web.nhk/newsweb/na/nd-20261010de57680",
@@ -432,8 +433,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261008de56224",
         "https://news.web.nhk/newsweb/na/nd-20261008de56215",
         "https://news.web.nhk/newsweb/na/nd-20261007de55972",
-        "https://news.web.nhk/newsweb/na/nd-20261008de56189",
-        "https://news.web.nhk/newsweb/na/nd-20261008de56201"
+        "https://news.web.nhk/newsweb/na/nd-20261008de56189"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-e-paper-gadgets/",
