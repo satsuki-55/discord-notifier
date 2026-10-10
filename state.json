@@ -30,6 +30,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c3vgx4450v2lo#0",
         "https://www.bbc.co.uk/news/articles/cxe8ry571z9eo#0",
         "https://www.bbc.co.uk/news/articles/cm2d6xd2g4w2o#0",
         "https://www.bbc.co.uk/news/articles/cmdxwn9dr42yo#1",
@@ -228,10 +229,10 @@
         "https://www.bbc.co.uk/news/articles/cmlyknj8wj30o#0",
         "https://www.bbc.co.uk/news/articles/ckqxnw01z4n3o#1",
         "https://www.bbc.co.uk/news/articles/c60rln74yzvxo#1",
-        "https://www.bbc.co.uk/news/articles/c60rln74yzvxo#0",
-        "https://www.bbc.co.uk/news/articles/c6n9rgg80z94o#1"
+        "https://www.bbc.co.uk/news/articles/c60rln74yzvxo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261010de57573",
         "https://news.web.nhk/newsweb/na/nd-20261010de57567",
         "https://news.web.nhk/newsweb/na/nd-20261010de57531",
         "https://news.web.nhk/newsweb/na/nd-20261010de57552",
@@ -430,8 +431,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261007de56174",
         "https://news.web.nhk/newsweb/na/nd-20261007de56177",
         "https://news.web.nhk/newsweb/na/nd-20261007de56108",
-        "https://news.web.nhk/newsweb/na/nd-20261007de56163",
-        "https://news.web.nhk/newsweb/na/nd-20261007de56154"
+        "https://news.web.nhk/newsweb/na/nd-20261007de56163"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/windows-11-26h2-memory-reduction/",
