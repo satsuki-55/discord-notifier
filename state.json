@@ -234,6 +234,7 @@
         "https://www.bbc.co.uk/news/articles/cm3wve9l057vo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261010de57774",
         "https://news.web.nhk/newsweb/na/nd-20261010de57704",
         "https://news.web.nhk/newsweb/na/nd-20261010de57744",
         "https://news.web.nhk/newsweb/na/nd-20261010de57761",
@@ -432,8 +433,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261008de56246",
         "https://news.web.nhk/newsweb/na/nd-20261008de56247",
         "https://news.web.nhk/newsweb/na/nd-20261008de56245",
-        "https://news.web.nhk/newsweb/na/nd-20261008de56242",
-        "https://news.web.nhk/newsweb/na/nd-20261008de56244"
+        "https://news.web.nhk/newsweb/na/nd-20261008de56242"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-elfmio-cross-style/",
