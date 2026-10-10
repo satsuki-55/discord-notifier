@@ -234,6 +234,7 @@
         "https://www.bbc.co.uk/news/articles/cq4g1j54nepyo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261010de57716",
         "https://news.web.nhk/newsweb/na/nd-20261010de57725",
         "https://news.web.nhk/newsweb/na/nd-20261010de57667",
         "https://news.web.nhk/newsweb/na/nd-20261010de57711",
@@ -432,10 +433,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261008de56237",
         "https://news.web.nhk/newsweb/na/nd-20261008de56230",
         "https://news.web.nhk/newsweb/na/nd-20261007de56012",
-        "https://news.web.nhk/newsweb/na/nd-20261008de56224",
-        "https://news.web.nhk/newsweb/na/nd-20261008de56215"
+        "https://news.web.nhk/newsweb/na/nd-20261008de56224"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2610-panasonic-straight-iron-nanocare/",
         "https://www.gizmodo.jp/article/2610-e-paper-gadgets/",
         "https://www.gizmodo.jp/article/0991f25b-56ac-497d-8a74-b65eac2b998f/",
         "https://www.gizmodo.jp/article/offroad-125cc-mini-truck/",
@@ -634,8 +635,7 @@
         "https://www.gizmodo.jp/article/2610-anthropic-sonnet-5-5-release/",
         "https://www.gizmodo.jp/article/e52ffa0a-e0fa-4189-88da-b4032501d23b/",
         "https://www.gizmodo.jp/article/nitori-oil-pot-gin/",
-        "https://www.gizmodo.jp/article/2609-pillow-speaker-audible-review/",
-        "https://www.gizmodo.jp/article/wall-mounted-dryer-holder/"
+        "https://www.gizmodo.jp/article/2609-pillow-speaker-audible-review/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "5koLraN_4Kk",
