@@ -234,6 +234,7 @@
         "https://www.bbc.co.uk/news/articles/ckp8g189zgmyo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261010de57697",
         "https://news.web.nhk/newsweb/na/nd-20261010de57680",
         "https://news.web.nhk/newsweb/na/nd-20261010de57670",
         "https://news.web.nhk/newsweb/na/nd-20261010de57655",
@@ -432,10 +433,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261007de55972",
         "https://news.web.nhk/newsweb/na/nd-20261008de56189",
         "https://news.web.nhk/newsweb/na/nd-20261008de56201",
-        "https://news.web.nhk/newsweb/na/nd-20261008de56192",
-        "https://news.web.nhk/newsweb/na/nd-20261008de56219"
+        "https://news.web.nhk/newsweb/na/nd-20261008de56192"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/0991f25b-56ac-497d-8a74-b65eac2b998f/",
         "https://www.gizmodo.jp/article/offroad-125cc-mini-truck/",
         "https://www.gizmodo.jp/article/2610-water-and-air-activated-battery-disaster-prevention/",
         "https://www.gizmodo.jp/article/2610-chiikawa-amazon-kids-tablet/",
@@ -634,8 +635,7 @@
         "https://www.gizmodo.jp/article/nitori-oil-pot-gin/",
         "https://www.gizmodo.jp/article/2609-pillow-speaker-audible-review/",
         "https://www.gizmodo.jp/article/wall-mounted-dryer-holder/",
-        "https://www.gizmodo.jp/article/2609-sanders-military-derby/",
-        "https://www.gizmodo.jp/article/2609-climate-resilient-cities-chicago-japan/"
+        "https://www.gizmodo.jp/article/2609-sanders-military-derby/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "5koLraN_4Kk",
