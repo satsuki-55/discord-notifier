@@ -234,6 +234,9 @@
         "https://www.bbc.co.uk/news/articles/c623dv9n93evo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261011de57808",
+        "https://news.web.nhk/newsweb/na/nd-20261011de57812",
+        "https://news.web.nhk/newsweb/na/nd-20261010de57727",
         "https://news.web.nhk/newsweb/na/nd-20261011de57809",
         "https://news.web.nhk/newsweb/na/nd-20261010de57789",
         "https://news.web.nhk/newsweb/na/nd-20261010de57783",
@@ -430,10 +433,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261008de56275",
         "https://news.web.nhk/newsweb/na/nd-20261008de56277",
         "https://news.web.nhk/newsweb/na/nd-20261008de56250",
-        "https://news.web.nhk/newsweb/na/nd-20261008de56248",
-        "https://news.web.nhk/newsweb/na/nd-20261008de56251",
-        "https://news.web.nhk/newsweb/na/nd-20261008de56259",
-        "https://news.web.nhk/newsweb/na/nd-20261008de56246"
+        "https://news.web.nhk/newsweb/na/nd-20261008de56248"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-google-chrome-gemini-nano-4gb-model/",
