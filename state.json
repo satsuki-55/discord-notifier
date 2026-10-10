@@ -233,6 +233,7 @@
         "https://www.bbc.co.uk/news/articles/c50mezp822peo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261010de57626",
         "https://news.web.nhk/newsweb/na/nd-20261010de57618",
         "https://news.web.nhk/newsweb/na/nd-20261010de57615",
         "https://news.web.nhk/newsweb/na/nd-20261007de56177",
@@ -431,8 +432,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261008de56220",
         "https://news.web.nhk/newsweb/na/nd-20261008de56216",
         "https://news.web.nhk/newsweb/na/nd-20261008de56218",
-        "https://news.web.nhk/newsweb/na/nd-20261003de54047",
-        "https://news.web.nhk/newsweb/na/nd-20261008de56204"
+        "https://news.web.nhk/newsweb/na/nd-20261003de54047"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/best-wireless-earbuds-right-now-2026/",
