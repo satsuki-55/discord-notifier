@@ -32,6 +32,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c8040n4v7126o#1",
         "https://www.bbc.co.uk/news/articles/cjzxl56q30k7o#0",
         "https://www.bbc.co.uk/news/articles/cwkg50v1vn07o#1",
         "https://www.bbc.co.uk/news/articles/crvg904yw397o#0",
@@ -230,10 +231,10 @@
         "https://www.bbc.co.uk/news/articles/ckgel9r341gdo#1",
         "https://www.bbc.co.uk/news/articles/cmx28wd59j4zo#0",
         "https://www.bbc.co.uk/news/articles/c6j47vj4xeego#1",
-        "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o#1",
-        "https://www.bbc.co.uk/news/articles/c60mevxzen3lo#0"
+        "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261011de57828",
         "https://news.web.nhk/newsweb/na/nd-20261010de57622",
         "https://news.web.nhk/newsweb/na/nd-20261011de57814",
         "https://news.web.nhk/newsweb/na/nd-20261011de57816",
@@ -432,8 +433,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261008de56428",
         "https://news.web.nhk/newsweb/na/nd-20261008de56371",
         "https://news.web.nhk/newsweb/na/nd-20261008de56280",
-        "https://news.web.nhk/newsweb/na/nd-20261008de56421",
-        "https://news.web.nhk/newsweb/na/nd-20261008de56405"
+        "https://news.web.nhk/newsweb/na/nd-20261008de56421"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/uniball_zento-3color-pen_review/",
