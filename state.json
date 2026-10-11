@@ -235,6 +235,7 @@
         "https://www.bbc.co.uk/weather/articles/c6pqg9j7d2w7o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261011de57938",
         "https://news.web.nhk/newsweb/na/nd-20261011de57931",
         "https://news.web.nhk/newsweb/na/nd-20261011de57929",
         "https://news.web.nhk/newsweb/na/nd-20261011de57845",
@@ -433,8 +434,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261008de56603",
         "https://news.web.nhk/newsweb/na/nd-20261008de56596",
         "https://news.web.nhk/newsweb/na/nd-20261008de56583",
-        "https://news.web.nhk/newsweb/na/nd-20261008de56547",
-        "https://news.web.nhk/newsweb/na/nd-20261008de56488"
+        "https://news.web.nhk/newsweb/na/nd-20261008de56547"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-montbell-packable-gear/",
