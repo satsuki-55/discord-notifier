@@ -235,6 +235,8 @@
         "https://www.bbc.co.uk/news/articles/cm9dzl7wx2qyo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261011de58003",
+        "https://news.web.nhk/newsweb/na/nd-20261011de57998",
         "https://news.web.nhk/newsweb/na/nd-20261011de58000",
         "https://news.web.nhk/newsweb/na/nd-20261011de57841",
         "https://news.web.nhk/newsweb/na/nd-20261008de56643",
@@ -432,9 +434,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261008de56555",
         "https://news.web.nhk/newsweb/na/nd-20261008de56768",
         "https://news.web.nhk/newsweb/na/nd-20261008de56779",
-        "https://news.web.nhk/newsweb/na/nd-20261008de56679",
-        "https://news.web.nhk/newsweb/na/nd-20261008de56713",
-        "https://news.web.nhk/newsweb/na/nd-20261008de56677"
+        "https://news.web.nhk/newsweb/na/nd-20261008de56679"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-heat-driven-cooling-technology/",
