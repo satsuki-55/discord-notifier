@@ -234,6 +234,7 @@
         "https://www.bbc.co.uk/news/articles/c6j47vj4xeego#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261011de57843",
         "https://news.web.nhk/newsweb/na/nd-20261011de57836",
         "https://news.web.nhk/newsweb/na/nd-20261011de57837",
         "https://news.web.nhk/newsweb/na/nd-20261011de57828",
@@ -432,8 +433,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261008de56463",
         "https://news.web.nhk/newsweb/na/nd-20261008de56269",
         "https://news.web.nhk/newsweb/na/nd-20261008de56393",
-        "https://news.web.nhk/newsweb/na/nd-20261008de56428",
-        "https://news.web.nhk/newsweb/na/nd-20261008de56371"
+        "https://news.web.nhk/newsweb/na/nd-20261008de56428"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-smart-band-and-ring-healthcare/",
