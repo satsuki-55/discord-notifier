@@ -1,4 +1,4 @@
-"""Send explicitly selected official NON STYLE videos, independently of feed state."""
+"""Send selected NON STYLE videos from their own or Yoshimoto's official channel."""
 import json
 import os
 import re
@@ -29,11 +29,18 @@ def main():
         )
         with urllib.request.urlopen(url, timeout=30) as response:
             data = json.load(response)
-        if data.get("author_url", "").rstrip("/") not in (
+        author_url = data.get("author_url", "").rstrip("/")
+        nonstyle_channel = author_url in (
             "https://www.youtube.com/@nonstyle4271",
             "https://www.youtube.com/channel/UCJcyQ-N0sbvwjYpDNXP9tsw",
-        ):
-            raise ValueError(f"Video {vid} is not from the official NON STYLE channel")
+        )
+        yoshimoto_nonstyle_video = author_url in (
+            "https://www.youtube.com/@yoshimotokogyo",
+            "https://www.youtube.com/user/yoshimotokogyo",
+            "https://www.youtube.com/channel/UCfhfIBo7PhDzpK_Yuyk2OXg",
+        ) and re.search(r"NON\s*STYLE", data.get("title", ""), re.IGNORECASE)
+        if not (nonstyle_channel or yoshimoto_nonstyle_video):
+            raise ValueError(f"Video {vid} is not an official NON STYLE video")
         videos.append((vid, data["title"]))
 
     for vid, title in videos:
