@@ -33,6 +33,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c65yn92nj423o#1",
         "https://www.bbc.co.uk/news/articles/cdr7n610rmzo#0",
         "https://www.bbc.co.uk/news/articles/crkg7n1ypj24o#0",
         "https://www.bbc.co.uk/news/articles/c6m2dnngvw8xo#0",
@@ -231,10 +232,10 @@
         "https://www.bbc.co.uk/news/articles/cqd09g4l2k9yo#1",
         "https://www.bbc.co.uk/news/articles/ckgel9044vqeo#1",
         "https://www.bbc.co.uk/news/articles/cq8rzjv8g7ejo#1",
-        "https://www.bbc.co.uk/news/articles/cm9dzl7wx2qyo#1",
-        "https://www.bbc.co.uk/news/articles/cm9dzl7wx2qyo#0"
+        "https://www.bbc.co.uk/news/articles/cm9dzl7wx2qyo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261011de58000",
         "https://news.web.nhk/newsweb/na/nd-20261011de57841",
         "https://news.web.nhk/newsweb/na/nd-20261008de56643",
         "https://news.web.nhk/newsweb/na/nd-20261011de57993",
@@ -433,10 +434,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261008de56779",
         "https://news.web.nhk/newsweb/na/nd-20261008de56679",
         "https://news.web.nhk/newsweb/na/nd-20261008de56713",
-        "https://news.web.nhk/newsweb/na/nd-20261008de56677",
-        "https://news.web.nhk/newsweb/na/nd-20261008de56691"
+        "https://news.web.nhk/newsweb/na/nd-20261008de56677"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2610-heat-driven-cooling-technology/",
         "https://www.gizmodo.jp/article/2610-montbell-packable-gear/",
         "https://www.gizmodo.jp/article/2610-gshock-sushi-collection/",
         "https://www.gizmodo.jp/article/2610-marna-kitchen-squeegee/",
@@ -635,8 +636,7 @@
         "https://www.gizmodo.jp/article/2610-pixel-10a-price-increase/",
         "https://www.gizmodo.jp/article/mammut_junya-watanabe_frgmt_collaboration/",
         "https://www.gizmodo.jp/article/2610-wici-one-wireless-rtx-5060-ti-egpu/",
-        "https://www.gizmodo.jp/article/2610-fire-tv-stick-4k-new-model/",
-        "https://www.gizmodo.jp/article/2610-samsung-smarttag3/"
+        "https://www.gizmodo.jp/article/2610-fire-tv-stick-4k-new-model/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "5koLraN_4Kk",
