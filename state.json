@@ -34,6 +34,8 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cq0k0jmepn4eo#1",
+        "https://www.bbc.co.uk/news/articles/cqy43vrk8wv8o#1",
         "https://www.bbc.co.uk/weather/articles/c9e8lmmevd70o#1",
         "https://www.bbc.co.uk/news/articles/c6j9k1l72wkgo#0",
         "https://www.bbc.co.uk/sport/football/articles/cmy0rd4pex7no#1",
@@ -231,11 +233,10 @@
         "https://www.bbc.co.uk/news/articles/cw4g13j4mdxjo#1",
         "https://www.bbc.co.uk/sport/football/articles/cmzxjdvv784xo#1",
         "https://www.bbc.co.uk/news/videos/cw073kg2dgr9o#0",
-        "https://www.bbc.co.uk/news/articles/c65ynvw250y1o#0",
-        "https://www.bbc.co.uk/sport/boxing/articles/cwp9gxzyplk4o#1",
-        "https://www.bbc.co.uk/news/articles/cqn8d5gj8jd3o#0"
+        "https://www.bbc.co.uk/news/articles/c65ynvw250y1o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261012de58176",
         "https://news.web.nhk/newsweb/na/nd-20261012de58180",
         "https://news.web.nhk/newsweb/na/nd-20261012de58170",
         "https://news.web.nhk/newsweb/na/nd-20261012de58151",
@@ -434,8 +435,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261009de56932",
         "https://news.web.nhk/newsweb/na/nd-20261009de56922",
         "https://news.web.nhk/newsweb/na/nd-20261009de56940",
-        "https://news.web.nhk/newsweb/na/nd-20261009de56934",
-        "https://news.web.nhk/newsweb/na/nd-20261009de56929"
+        "https://news.web.nhk/newsweb/na/nd-20261009de56934"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/metas-muse-is-collecting-information-on-everyone-in-your-life/",
