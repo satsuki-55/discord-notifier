@@ -34,6 +34,8 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c64g1l5389kvo#0",
+        "https://www.bbc.co.uk/news/articles/ck86zppejjw3o#1",
         "https://www.bbc.co.uk/news/articles/cq5yn75pgyjjo#0",
         "https://www.bbc.co.uk/news/articles/cm5yne8k6zw8o#1",
         "https://www.bbc.co.uk/news/articles/c64g1l5389kvo#1",
@@ -231,11 +233,10 @@
         "https://www.bbc.co.uk/news/videos/c6qjnv07q452o#1",
         "https://www.bbc.co.uk/news/videos/c95yn70e678po#1",
         "https://www.bbc.co.uk/news/articles/cxm234pzj952o#0",
-        "https://www.bbc.co.uk/news/articles/cmwy47lzd1vyo#1",
-        "https://www.bbc.co.uk/news/articles/cme3xl8ln2vko#1",
-        "https://www.bbc.co.uk/news/articles/c6vg98lw017po#0"
+        "https://www.bbc.co.uk/news/articles/cmwy47lzd1vyo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261012de58142",
         "https://news.web.nhk/newsweb/na/nd-20261002de53933",
         "https://news.web.nhk/newsweb/na/nd-20261012de58125",
         "https://news.web.nhk/newsweb/na/nd-20261012de58112",
@@ -434,8 +435,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261009de56929",
         "https://news.web.nhk/newsweb/na/nd-20261009de56915",
         "https://news.web.nhk/newsweb/na/nd-20261003de54027",
-        "https://news.web.nhk/newsweb/na/nd-20261009de56905",
-        "https://news.web.nhk/newsweb/na/nd-20261003de54021"
+        "https://news.web.nhk/newsweb/na/nd-20261009de56905"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-rivian-ghostbusters-mode/",
