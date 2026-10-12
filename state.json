@@ -236,6 +236,7 @@
         "https://www.bbc.co.uk/news/articles/cw3dj5n538jpo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261013de58310",
         "https://news.web.nhk/newsweb/na/nd-20261013de58295",
         "https://news.web.nhk/newsweb/na/nd-20261012de58239",
         "https://news.web.nhk/newsweb/na/nd-20261012de58173",
@@ -434,8 +435,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261008de56856",
         "https://news.web.nhk/newsweb/na/nd-20261009de56944",
         "https://news.web.nhk/newsweb/na/nd-20261009de56918",
-        "https://news.web.nhk/newsweb/na/nd-20261007de55783",
-        "https://news.web.nhk/newsweb/na/nd-20261008de56901"
+        "https://news.web.nhk/newsweb/na/nd-20261007de55783"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-ugreen-5-port-usb-charger-review/",
