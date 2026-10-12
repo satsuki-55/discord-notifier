@@ -236,6 +236,7 @@
         "https://www.bbc.co.uk/news/articles/cqn8d5gj8jd3o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261012de58180",
         "https://news.web.nhk/newsweb/na/nd-20261012de58170",
         "https://news.web.nhk/newsweb/na/nd-20261012de58151",
         "https://news.web.nhk/newsweb/na/nd-20261012de58142",
@@ -434,8 +435,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261009de56922",
         "https://news.web.nhk/newsweb/na/nd-20261009de56940",
         "https://news.web.nhk/newsweb/na/nd-20261009de56934",
-        "https://news.web.nhk/newsweb/na/nd-20261009de56929",
-        "https://news.web.nhk/newsweb/na/nd-20261009de56915"
+        "https://news.web.nhk/newsweb/na/nd-20261009de56929"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/metas-muse-is-collecting-information-on-everyone-in-your-life/",
