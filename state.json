@@ -34,6 +34,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c6pvgryp8yv0o#0",
         "https://www.bbc.co.uk/news/articles/cmn045en7d88o#0",
         "https://www.bbc.co.uk/news/articles/cj62ykqw9pz1o#1",
         "https://www.bbc.co.uk/news/articles/cr62yzypnw7no#1",
@@ -232,10 +233,10 @@
         "https://www.bbc.co.uk/news/articles/c54g19pgy48yo#1",
         "https://www.bbc.co.uk/news/articles/cjx23yxwe73qo#1",
         "https://www.bbc.co.uk/news/articles/cwm24n9v8rdeo#0",
-        "https://www.bbc.co.uk/news/articles/cx30en32gd39o#0",
-        "https://www.bbc.co.uk/news/articles/c6kgq7rqdql7o#2"
+        "https://www.bbc.co.uk/news/articles/cx30en32gd39o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261012de58230",
         "https://news.web.nhk/newsweb/na/nd-20261009de56954",
         "https://news.web.nhk/newsweb/na/nd-20261013de58326",
         "https://news.web.nhk/newsweb/na/nd-20261013de58308",
@@ -434,10 +435,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261009de56969",
         "https://news.web.nhk/newsweb/na/nd-20261009de56970",
         "https://news.web.nhk/newsweb/na/nd-20261009de56956",
-        "https://news.web.nhk/newsweb/na/nd-20261009de56958",
-        "https://news.web.nhk/newsweb/na/nd-20261009de56952"
+        "https://news.web.nhk/newsweb/na/nd-20261009de56958"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2610-razer-niu-ev-scooter/",
         "https://www.gizmodo.jp/article/2610-ugreen-5-port-usb-charger-review/",
         "https://www.gizmodo.jp/article/irobot-roomba-max-775-review-a-respectable-roomba-redux/",
         "https://www.gizmodo.jp/article/iris-ohyama-kararie-fk-w3-sleep-mode/",
@@ -636,8 +637,7 @@
         "https://www.gizmodo.jp/article/2610-sony-hello-kitty-headphone-collaboration/",
         "https://www.gizmodo.jp/article/2610-galaxy-s26-price-increase/",
         "https://www.gizmodo.jp/article/2610-kindle-series-refresh-2024/",
-        "https://www.gizmodo.jp/article/2610-keychron-k8-he-all-wood/",
-        "https://www.gizmodo.jp/article/2610-honor-magic9-cinema-camera-smartphone/"
+        "https://www.gizmodo.jp/article/2610-keychron-k8-he-all-wood/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "5koLraN_4Kk",
