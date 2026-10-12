@@ -235,6 +235,7 @@
         "https://www.bbc.co.uk/news/articles/cwz0vrmxkvy4o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261012de58077",
         "https://news.web.nhk/newsweb/na/nd-20261011de58022",
         "https://news.web.nhk/newsweb/na/nd-20261012de58066",
         "https://news.web.nhk/newsweb/na/nd-20261011de58008",
@@ -433,8 +434,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261009de56908",
         "https://news.web.nhk/newsweb/na/nd-20261008de56885",
         "https://news.web.nhk/newsweb/na/nd-20261008de56888",
-        "https://news.web.nhk/newsweb/na/nd-20261008de56869",
-        "https://news.web.nhk/newsweb/na/nd-20261008de56829"
+        "https://news.web.nhk/newsweb/na/nd-20261008de56869"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-mujuryoku-tray-fruit/",
