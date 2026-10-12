@@ -34,6 +34,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/crn8wyl4n42yo#0",
         "https://www.bbc.co.uk/news/articles/cmn5d92423vyo#0",
         "https://www.bbc.co.uk/news/articles/cwp9gy7710veo#0",
         "https://www.bbc.co.uk/news/articles/ckeq3jgrv4dxo#1",
@@ -232,8 +233,7 @@
         "https://www.bbc.co.uk/news/articles/cqn8d5gj8jd3o#0",
         "https://www.bbc.co.uk/news/articles/c63r5wx8z8wzo#0",
         "https://www.bbc.co.uk/news/articles/c6j9k1l72wkgo#1",
-        "https://www.bbc.co.uk/news/articles/c6j9k1l72wkgo#0",
-        "https://www.bbc.co.uk/news/articles/c8040nl9q24do#1"
+        "https://www.bbc.co.uk/news/articles/c6j9k1l72wkgo#0"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20261012de58142",
@@ -438,6 +438,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261009de56905"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2610-yamazaki-door-hanger-review/",
         "https://www.gizmodo.jp/article/2610-rivian-ghostbusters-mode/",
         "https://www.gizmodo.jp/article/2610-lenovo-legion-5i-gen-11-review/",
         "https://www.gizmodo.jp/article/2610-astroscale-space-debris-removal/",
@@ -636,8 +637,7 @@
         "https://www.gizmodo.jp/article/2610-google-gemini-4-argon-release/",
         "https://www.gizmodo.jp/article/honor-magic9-pro-max/",
         "https://www.gizmodo.jp/article/2610-humanoid-robot-disposal-terminator-method/",
-        "https://www.gizmodo.jp/article/standardtoilet-unique-patent-dpo/",
-        "https://www.gizmodo.jp/article/qwenbook-ai-laptop-snapdragon-summit/"
+        "https://www.gizmodo.jp/article/standardtoilet-unique-patent-dpo/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "5koLraN_4Kk",
