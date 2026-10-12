@@ -236,6 +236,7 @@
         "https://www.bbc.co.uk/news/articles/cwz0vrmxkvy4o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261012de58125",
         "https://news.web.nhk/newsweb/na/nd-20261012de58112",
         "https://news.web.nhk/newsweb/na/nd-20261012de58117",
         "https://news.web.nhk/newsweb/na/nd-20261012de58100",
@@ -434,10 +435,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261003de54027",
         "https://news.web.nhk/newsweb/na/nd-20261009de56905",
         "https://news.web.nhk/newsweb/na/nd-20261003de54021",
-        "https://news.web.nhk/newsweb/na/nd-20261008de56893",
-        "https://news.web.nhk/newsweb/na/nd-20261008de56898"
+        "https://news.web.nhk/newsweb/na/nd-20261008de56893"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2610-rivian-ghostbusters-mode/",
         "https://www.gizmodo.jp/article/2610-lenovo-legion-5i-gen-11-review/",
         "https://www.gizmodo.jp/article/2610-astroscale-space-debris-removal/",
         "https://www.gizmodo.jp/article/sanwa-vesa-mount-mr-vesa7/",
@@ -636,8 +637,7 @@
         "https://www.gizmodo.jp/article/honor-magic9-pro-max/",
         "https://www.gizmodo.jp/article/2610-humanoid-robot-disposal-terminator-method/",
         "https://www.gizmodo.jp/article/standardtoilet-unique-patent-dpo/",
-        "https://www.gizmodo.jp/article/qwenbook-ai-laptop-snapdragon-summit/",
-        "https://www.gizmodo.jp/article/2610-meta-ai-agent-shares-home-address/"
+        "https://www.gizmodo.jp/article/qwenbook-ai-laptop-snapdragon-summit/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "5koLraN_4Kk",
