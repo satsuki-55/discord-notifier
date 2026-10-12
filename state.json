@@ -34,6 +34,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c962y4ld1d7do#0",
         "https://www.bbc.co.uk/news/videos/cj4g17wz7gv0o#1",
         "https://www.bbc.co.uk/news/articles/cqgm09xvlvjeo#1",
         "https://www.bbc.co.uk/news/articles/c68jz0282re9o#1",
@@ -232,8 +233,7 @@
         "https://www.bbc.co.uk/news/articles/c6rmy7287njko#1",
         "https://www.bbc.co.uk/news/articles/cr86z33pdy9vo#0",
         "https://www.bbc.co.uk/news/articles/cm9wz5kng0x1o#1",
-        "https://www.bbc.co.uk/news/articles/cm9wz5kng0x1o#0",
-        "https://www.bbc.co.uk/news/articles/cmkgknz19z7po#1"
+        "https://www.bbc.co.uk/news/articles/cm9wz5kng0x1o#0"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20261012de58202",
@@ -438,6 +438,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261008de56892"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2610-ai-companies-buying-used-books/",
         "https://www.gizmodo.jp/article/wide-festiva-diy/",
         "https://www.gizmodo.jp/article/2610-fruit-cushion-petal-packaging/",
         "https://www.gizmodo.jp/article/metas-muse-is-collecting-information-on-everyone-in-your-life/",
@@ -636,8 +637,7 @@
         "https://www.gizmodo.jp/article/2610-honor-magic9-cinema-camera-smartphone/",
         "https://www.gizmodo.jp/article/nike-one-of-one-speed-suit/",
         "https://www.gizmodo.jp/article/restroom-smartphone-10min-3/",
-        "https://www.gizmodo.jp/article/dig-energy-ground-source-heat/",
-        "https://www.gizmodo.jp/article/2610-google-gemini-4-argon-release/"
+        "https://www.gizmodo.jp/article/dig-energy-ground-source-heat/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "5koLraN_4Kk",
