@@ -236,6 +236,7 @@
         "https://www.bbc.co.uk/news/articles/c687z8127302o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261012de58129",
         "https://news.web.nhk/newsweb/na/nd-20261012de58196",
         "https://news.web.nhk/newsweb/na/nd-20261012de58183",
         "https://news.web.nhk/newsweb/na/nd-20261012de58176",
@@ -434,8 +435,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261006de55487",
         "https://news.web.nhk/newsweb/na/nd-20261009de56931",
         "https://news.web.nhk/newsweb/na/nd-20261008de56892",
-        "https://news.web.nhk/newsweb/na/nd-20261009de56932",
-        "https://news.web.nhk/newsweb/na/nd-20261009de56922"
+        "https://news.web.nhk/newsweb/na/nd-20261009de56932"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-fruit-cushion-petal-packaging/",
