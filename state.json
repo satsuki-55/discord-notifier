@@ -35,6 +35,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cw5y4nv05rp8o#0",
         "https://www.bbc.co.uk/news/articles/c1wxdjx27ypo#0",
         "https://www.bbc.co.uk/news/articles/cm5ynp0vz3p7o#0",
         "https://www.bbc.co.uk/news/articles/c623dnkn8pkyo#0",
@@ -233,10 +234,10 @@
         "https://www.bbc.co.uk/news/articles/cwm237z77dgyo#0",
         "https://www.bbc.co.uk/news/articles/cvlydn8d3lkjo#0",
         "https://www.bbc.co.uk/news/articles/cqy43vrk8wv8o#0",
-        "https://www.bbc.co.uk/news/articles/cwnv0zmjld51o#1",
-        "https://www.bbc.co.uk/news/articles/cm4g1pqyqzqwo#0"
+        "https://www.bbc.co.uk/news/articles/cwnv0zmjld51o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261014de58957",
         "https://news.web.nhk/newsweb/na/nd-20261013de58890",
         "https://news.web.nhk/newsweb/na/nd-20261014de58941",
         "https://news.web.nhk/newsweb/na/nd-20261014de58936",
@@ -435,8 +436,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261010de57567",
         "https://news.web.nhk/newsweb/na/nd-20261010de57531",
         "https://news.web.nhk/newsweb/na/nd-20261010de57552",
-        "https://news.web.nhk/newsweb/na/nd-20261010de57551",
-        "https://news.web.nhk/newsweb/na/nd-20261009de57476"
+        "https://news.web.nhk/newsweb/na/nd-20261010de57551"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/karcher-oc-handy-compact-re-26-oct/",
