@@ -35,6 +35,8 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cmly05l1g15yo#0",
+        "https://www.bbc.co.uk/news/articles/c60rl5vwpk02o#1",
         "https://www.bbc.co.uk/news/articles/cvj6j812dg4no#0",
         "https://www.bbc.co.uk/news/articles/cqj9k23rynnpo#1",
         "https://www.bbc.co.uk/news/articles/cj1dwrxq1wndo#1",
@@ -232,9 +234,7 @@
         "https://www.bbc.co.uk/news/articles/c6m2dnngvw8xo#1",
         "https://www.bbc.co.uk/news/videos/cwzrdnljedx0o#1",
         "https://www.bbc.co.uk/news/articles/c84g179n2393o#1",
-        "https://www.bbc.co.uk/news/articles/c9vgregzk6gro#0",
-        "https://www.bbc.co.uk/news/articles/ck3rer7e4rngo#2",
-        "https://www.bbc.co.uk/sport/football/articles/cvy0rp14xz7lo#2"
+        "https://www.bbc.co.uk/news/articles/c9vgregzk6gro#0"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20261013de58849",
@@ -439,6 +439,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261009de57454"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2610-anker-soundcore-space-one-pro-sale/",
         "https://www.gizmodo.jp/article/2610-teenage-engineering-stop-making-synths/",
         "https://www.gizmodo.jp/article/2610-galaxy-studio-headphone-rumor/",
         "https://www.gizmodo.jp/article/2610-asus-vivobook-15-buying-guide-69800-yen/",
@@ -637,8 +638,7 @@
         "https://www.gizmodo.jp/article/2610-energizer-slim-led-lantern/",
         "https://www.gizmodo.jp/article/2610-muji-tarpaulin-storage-case/",
         "https://www.gizmodo.jp/article/colorful-headphones-y2k-trend/",
-        "https://www.gizmodo.jp/article/clean-my-scattered-room-using-chatgpt-loi/",
-        "https://www.gizmodo.jp/article/apple-new-smart-home-devices/"
+        "https://www.gizmodo.jp/article/clean-my-scattered-room-using-chatgpt-loi/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "5koLraN_4Kk",
