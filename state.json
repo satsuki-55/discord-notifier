@@ -237,6 +237,8 @@
         "https://www.bbc.co.uk/news/articles/cv8ezd246z1wo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261013de58800",
+        "https://news.web.nhk/newsweb/na/nd-20261013de58789",
         "https://news.web.nhk/newsweb/na/nd-20261013de58781",
         "https://news.web.nhk/newsweb/na/nd-20261013de58806",
         "https://news.web.nhk/newsweb/na/nd-20261013de58803",
@@ -434,9 +436,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261009de57427",
         "https://news.web.nhk/newsweb/na/nd-20261009de57424",
         "https://news.web.nhk/newsweb/na/nd-20261009de57407",
-        "https://news.web.nhk/newsweb/na/nd-20261009de57327",
-        "https://news.web.nhk/newsweb/na/nd-20261009de57336",
-        "https://news.web.nhk/newsweb/na/nd-20261009de57294"
+        "https://news.web.nhk/newsweb/na/nd-20261009de57327"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-asus-vivobook-15-buying-guide-69800-yen/",
