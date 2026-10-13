@@ -237,6 +237,7 @@
         "https://www.bbc.co.uk/news/articles/cm79pd2zzl59o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261013de58351",
         "https://news.web.nhk/newsweb/na/nd-20261014de58933",
         "https://news.web.nhk/newsweb/na/nd-20261013de58917",
         "https://news.web.nhk/newsweb/na/nd-20261013de58907",
@@ -435,8 +436,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261010de57543",
         "https://news.web.nhk/newsweb/na/nd-20261010de57536",
         "https://news.web.nhk/newsweb/na/nd-20261009de57525",
-        "https://news.web.nhk/newsweb/na/nd-20261009de57527",
-        "https://news.web.nhk/newsweb/na/nd-20261009de57499"
+        "https://news.web.nhk/newsweb/na/nd-20261009de57527"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-ai-laser-bird-repeller/",
