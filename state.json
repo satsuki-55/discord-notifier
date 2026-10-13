@@ -237,6 +237,7 @@
         "https://www.bbc.co.uk/news/articles/cjzxl56q30k7o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261013de58849",
         "https://news.web.nhk/newsweb/na/nd-20261013de58830",
         "https://news.web.nhk/newsweb/na/nd-20261013de58690",
         "https://news.web.nhk/newsweb/na/nd-20261013de58826",
@@ -435,10 +436,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261009de57467",
         "https://news.web.nhk/newsweb/na/nd-20261009de57462",
         "https://news.web.nhk/newsweb/na/nd-20261009de57453",
-        "https://news.web.nhk/newsweb/na/nd-20261009de57454",
-        "https://news.web.nhk/newsweb/na/nd-20261009de57448"
+        "https://news.web.nhk/newsweb/na/nd-20261009de57454"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2610-teenage-engineering-stop-making-synths/",
         "https://www.gizmodo.jp/article/2610-galaxy-studio-headphone-rumor/",
         "https://www.gizmodo.jp/article/2610-asus-vivobook-15-buying-guide-69800-yen/",
         "https://www.gizmodo.jp/article/2610-cmf-portable-speaker/",
@@ -637,8 +638,7 @@
         "https://www.gizmodo.jp/article/2610-muji-tarpaulin-storage-case/",
         "https://www.gizmodo.jp/article/colorful-headphones-y2k-trend/",
         "https://www.gizmodo.jp/article/clean-my-scattered-room-using-chatgpt-loi/",
-        "https://www.gizmodo.jp/article/apple-new-smart-home-devices/",
-        "https://www.gizmodo.jp/article/save-data-on-youtube-cloud-u2i/"
+        "https://www.gizmodo.jp/article/apple-new-smart-home-devices/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "5koLraN_4Kk",
