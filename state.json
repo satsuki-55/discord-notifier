@@ -236,6 +236,7 @@
         "https://www.bbc.co.uk/news/articles/c8vgx9ew571wo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261013de58518",
         "https://news.web.nhk/newsweb/na/nd-20261013de58513",
         "https://news.web.nhk/newsweb/na/nd-20261013de58510",
         "https://news.web.nhk/newsweb/na/nd-20261013de58502",
@@ -434,10 +435,11 @@
         "https://news.web.nhk/newsweb/na/nd-20261009de57169",
         "https://news.web.nhk/newsweb/na/nd-20261009de57141",
         "https://news.web.nhk/newsweb/na/nd-20260930de53297",
-        "https://news.web.nhk/newsweb/na/nd-20261009de57146",
-        "https://news.web.nhk/newsweb/na/nd-20261009de57136"
+        "https://news.web.nhk/newsweb/na/nd-20261009de57146"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/sauna-mother/",
+        "https://www.gizmodo.jp/article/2610-google-certified-refurbished-japan/",
         "https://www.gizmodo.jp/article/elecom-trackball-maintenance-kit/",
         "https://www.gizmodo.jp/article/2610-amazon-iphone-airpods-sale/",
         "https://www.gizmodo.jp/article/sugihara-sangyo-rubber-coated-magnet-wha/",
@@ -635,9 +637,7 @@
         "https://www.gizmodo.jp/article/2610-astrotoo-divoom-pixel-art-speaker/",
         "https://www.gizmodo.jp/article/2610-polaroid-mod-camera/",
         "https://www.gizmodo.jp/article/the-motel-ai-music-controversy/",
-        "https://www.gizmodo.jp/article/2610-foldable-mini-washing-machine-review/",
-        "https://www.gizmodo.jp/article/gaming_keyboard_stability_over_speed/",
-        "https://www.gizmodo.jp/article/2610-poteto-animal-mist-panda-humidifier/"
+        "https://www.gizmodo.jp/article/2610-foldable-mini-washing-machine-review/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "5koLraN_4Kk",
