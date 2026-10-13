@@ -34,6 +34,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/ckr5ydvvln0mo#1",
         "https://www.bbc.co.uk/news/articles/c623dv9n93evo#0",
         "https://www.bbc.co.uk/news/articles/ckr5ydvvln0mo#0",
         "https://www.bbc.co.uk/news/articles/cwly38gjkejko#1",
@@ -232,10 +233,10 @@
         "https://www.bbc.co.uk/news/articles/cwkg50v1vn07o#1",
         "https://www.bbc.co.uk/news/articles/crvg904yw397o#0",
         "https://www.bbc.co.uk/news/articles/c680zlny0gk4o#0",
-        "https://www.bbc.co.uk/news/articles/cv8ezd246z1wo#1",
-        "https://www.bbc.co.uk/news/articles/c9rk3k25vmxko#2"
+        "https://www.bbc.co.uk/news/articles/cv8ezd246z1wo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261013de58796",
         "https://news.web.nhk/newsweb/na/nd-20261013de58714",
         "https://news.web.nhk/newsweb/na/nd-20261013de58529",
         "https://news.web.nhk/newsweb/na/nd-20261013de58760",
@@ -434,8 +435,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261009de57258",
         "https://news.web.nhk/newsweb/na/nd-20261009de57223",
         "https://news.web.nhk/newsweb/na/nd-20261009de57229",
-        "https://news.web.nhk/newsweb/na/nd-20261009de57221",
-        "https://news.web.nhk/newsweb/na/nd-20261009de57243"
+        "https://news.web.nhk/newsweb/na/nd-20261009de57221"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-cmf-portable-speaker/",
