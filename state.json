@@ -237,6 +237,7 @@
         "https://www.bbc.co.uk/news/articles/cv8ezd246z1wo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261013de58781",
         "https://news.web.nhk/newsweb/na/nd-20261013de58806",
         "https://news.web.nhk/newsweb/na/nd-20261013de58803",
         "https://news.web.nhk/newsweb/na/nd-20261008de56824",
@@ -435,10 +436,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261009de57407",
         "https://news.web.nhk/newsweb/na/nd-20261009de57327",
         "https://news.web.nhk/newsweb/na/nd-20261009de57336",
-        "https://news.web.nhk/newsweb/na/nd-20261009de57294",
-        "https://news.web.nhk/newsweb/na/nd-20261009de57256"
+        "https://news.web.nhk/newsweb/na/nd-20261009de57294"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2610-asus-vivobook-15-buying-guide-69800-yen/",
         "https://www.gizmodo.jp/article/2610-cmf-portable-speaker/",
         "https://www.gizmodo.jp/article/2610-boston-dynamics-new-ceo-atlas-mass-production/",
         "https://www.gizmodo.jp/article/kokolo-sauna-hagoromo1s-chiller/",
@@ -637,8 +638,7 @@
         "https://www.gizmodo.jp/article/clean-my-scattered-room-using-chatgpt-loi/",
         "https://www.gizmodo.jp/article/apple-new-smart-home-devices/",
         "https://www.gizmodo.jp/article/save-data-on-youtube-cloud-u2i/",
-        "https://www.gizmodo.jp/article/3d_printed_fabric_power_generation/",
-        "https://www.gizmodo.jp/article/2610-ram-shortage-2028/"
+        "https://www.gizmodo.jp/article/3d_printed_fabric_power_generation/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "5koLraN_4Kk",
