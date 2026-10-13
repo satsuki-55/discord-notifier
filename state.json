@@ -237,6 +237,8 @@
         "https://www.bbc.co.uk/news/articles/cjzxl56q30k7o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261013de58830",
+        "https://news.web.nhk/newsweb/na/nd-20261013de58690",
         "https://news.web.nhk/newsweb/na/nd-20261013de58826",
         "https://news.web.nhk/newsweb/na/nd-20261013de58526",
         "https://news.web.nhk/newsweb/na/nd-20261013de58822",
@@ -434,9 +436,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261009de57462",
         "https://news.web.nhk/newsweb/na/nd-20261009de57453",
         "https://news.web.nhk/newsweb/na/nd-20261009de57454",
-        "https://news.web.nhk/newsweb/na/nd-20261009de57448",
-        "https://news.web.nhk/newsweb/na/nd-20261009de57425",
-        "https://news.web.nhk/newsweb/na/nd-20261009de57441"
+        "https://news.web.nhk/newsweb/na/nd-20261009de57448"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-galaxy-studio-headphone-rumor/",
