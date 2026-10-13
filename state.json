@@ -34,6 +34,8 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cxnv03e9nmp4o#0",
+        "https://www.bbc.co.uk/news/articles/cmglw0r21zexo#0",
         "https://www.bbc.co.uk/news/articles/cm9qzwjgnjxlo#0",
         "https://www.bbc.co.uk/news/articles/cxvgdql2y7zqo#1",
         "https://www.bbc.co.uk/news/articles/cwzrdnrrmgymo#1",
@@ -231,11 +233,10 @@
         "https://www.bbc.co.uk/news/videos/cqwy7p2y20gxo#1",
         "https://www.bbc.co.uk/news/articles/cm78pwq47vp1o#0",
         "https://www.bbc.co.uk/news/articles/cqdjvdpxmvn3o#1",
-        "https://www.bbc.co.uk/news/articles/cwy8lx1r2vrro#0",
-        "https://www.bbc.co.uk/news/articles/c65yn7xvde7vo#0",
-        "https://www.bbc.co.uk/news/articles/cxnv03e9nmp4o#0"
+        "https://www.bbc.co.uk/news/articles/cwy8lx1r2vrro#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261013de58372",
         "https://news.web.nhk/newsweb/na/nd-20261013de58366",
         "https://news.web.nhk/newsweb/na/nd-20261013de58352",
         "https://news.web.nhk/newsweb/na/nd-20261013de58335",
@@ -434,10 +435,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261009de57107",
         "https://news.web.nhk/newsweb/na/nd-20261009de57108",
         "https://news.web.nhk/newsweb/na/nd-20261009de57103",
-        "https://news.web.nhk/newsweb/na/nd-20261009de56982",
-        "https://news.web.nhk/newsweb/na/nd-20261009de57046"
+        "https://news.web.nhk/newsweb/na/nd-20261009de56982"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/belkin-iphone-18-pro-promax-cases-sale/",
         "https://www.gizmodo.jp/article/windows-10-security-update-extended/",
         "https://www.gizmodo.jp/article/2610-claude-abuse-policy-update/",
         "https://www.gizmodo.jp/article/2610-pebble-round-2-release-2026/",
@@ -636,8 +637,7 @@
         "https://www.gizmodo.jp/article/2610-poteto-animal-mist-panda-humidifier/",
         "https://www.gizmodo.jp/article/2610-compact-clamp-power-strip/",
         "https://www.gizmodo.jp/article/2610-sp500-negative-returns-equal-weight-bofa/",
-        "https://www.gizmodo.jp/article/2610-fairphone-fairbuds-2-leak/",
-        "https://www.gizmodo.jp/article/2610-sony-hello-kitty-headphone-collaboration/"
+        "https://www.gizmodo.jp/article/2610-fairphone-fairbuds-2-leak/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "5koLraN_4Kk",
