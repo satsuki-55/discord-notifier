@@ -236,6 +236,8 @@
         "https://www.bbc.co.uk/news/articles/ck5yngl2y4gpo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261013de58714",
+        "https://news.web.nhk/newsweb/na/nd-20261013de58529",
         "https://news.web.nhk/newsweb/na/nd-20261013de58760",
         "https://news.web.nhk/newsweb/na/nd-20261013de58704",
         "https://news.web.nhk/newsweb/na/nd-20261013de58699",
@@ -433,9 +435,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261009de57223",
         "https://news.web.nhk/newsweb/na/nd-20261009de57229",
         "https://news.web.nhk/newsweb/na/nd-20261009de57221",
-        "https://news.web.nhk/newsweb/na/nd-20261009de57243",
-        "https://news.web.nhk/newsweb/na/nd-20261009de56975",
-        "https://news.web.nhk/newsweb/na/nd-20261009de57196"
+        "https://news.web.nhk/newsweb/na/nd-20261009de57243"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-cmf-portable-speaker/",
