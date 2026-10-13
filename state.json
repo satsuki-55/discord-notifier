@@ -236,6 +236,7 @@
         "https://www.bbc.co.uk/news/articles/cmje5x80yg70o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261013de58699",
         "https://news.web.nhk/newsweb/na/nd-20261013de58647",
         "https://news.web.nhk/newsweb/na/nd-20261013de58640",
         "https://news.web.nhk/newsweb/na/nd-20261013de58643",
@@ -434,8 +435,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261009de56975",
         "https://news.web.nhk/newsweb/na/nd-20261009de57196",
         "https://news.web.nhk/newsweb/na/nd-20261009de57218",
-        "https://news.web.nhk/newsweb/na/nd-20261009de57175",
-        "https://news.web.nhk/newsweb/na/nd-20261009de57176"
+        "https://news.web.nhk/newsweb/na/nd-20261009de57175"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-boston-dynamics-new-ceo-atlas-mass-production/",
