@@ -34,6 +34,8 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cwly38gjkejko#0",
+        "https://www.bbc.co.uk/news/articles/cmn06w5x9g25o#1",
         "https://www.bbc.co.uk/news/articles/c8vgxpwlx9wko#0",
         "https://www.bbc.co.uk/news/articles/c54g1071n0ygo#1",
         "https://www.bbc.co.uk/news/articles/cmje5x80yg70o#0",
@@ -231,9 +233,7 @@
         "https://www.bbc.co.uk/news/articles/cjzxl56q30k7o#2",
         "https://www.bbc.co.uk/news/articles/c5vgjm3gk7rzo#2",
         "https://www.bbc.co.uk/news/articles/c623dv9n93evo#0",
-        "https://www.bbc.co.uk/news/articles/ck5yngl2y4gpo#0",
-        "https://www.bbc.co.uk/news/articles/c6y43mmke7ygo#1",
-        "https://www.bbc.co.uk/news/articles/cw33x4y8k82no#1"
+        "https://www.bbc.co.uk/news/articles/ck5yngl2y4gpo#0"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20261013de58760",
@@ -438,6 +438,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261009de57196"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2610-cmf-portable-speaker/",
         "https://www.gizmodo.jp/article/2610-boston-dynamics-new-ceo-atlas-mass-production/",
         "https://www.gizmodo.jp/article/kokolo-sauna-hagoromo1s-chiller/",
         "https://www.gizmodo.jp/article/2610-echo-show-5-sale/",
@@ -636,8 +637,7 @@
         "https://www.gizmodo.jp/article/apple-new-smart-home-devices/",
         "https://www.gizmodo.jp/article/save-data-on-youtube-cloud-u2i/",
         "https://www.gizmodo.jp/article/3d_printed_fabric_power_generation/",
-        "https://www.gizmodo.jp/article/2610-ram-shortage-2028/",
-        "https://www.gizmodo.jp/article/2610-fosi-audio-disc-nano-cd-player/"
+        "https://www.gizmodo.jp/article/2610-ram-shortage-2028/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "5koLraN_4Kk",
