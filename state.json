@@ -34,6 +34,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c9y7lgg2vdggo#1",
         "https://www.bbc.co.uk/news/articles/cm78pwq47vp1o#0",
         "https://www.bbc.co.uk/news/articles/crpdgzxz38nlo#0",
         "https://www.bbc.co.uk/news/articles/cm4g101nlp2no#1",
@@ -232,10 +233,10 @@
         "https://www.bbc.co.uk/news/articles/c6jrw8g1123vo#1",
         "https://www.bbc.co.uk/news/articles/c32l4nqx5wvko#0",
         "https://www.bbc.co.uk/news/articles/cv8ezd246z1wo#0",
-        "https://www.bbc.co.uk/news/articles/cwy8lx1r2vrro#1",
-        "https://www.bbc.co.uk/news/articles/c8vgx9ew571wo#1"
+        "https://www.bbc.co.uk/news/articles/cwy8lx1r2vrro#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261013de58517",
         "https://news.web.nhk/newsweb/na/nd-20261013de58518",
         "https://news.web.nhk/newsweb/na/nd-20261013de58513",
         "https://news.web.nhk/newsweb/na/nd-20261013de58510",
@@ -434,8 +435,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260930de53298",
         "https://news.web.nhk/newsweb/na/nd-20261009de57169",
         "https://news.web.nhk/newsweb/na/nd-20261009de57141",
-        "https://news.web.nhk/newsweb/na/nd-20260930de53297",
-        "https://news.web.nhk/newsweb/na/nd-20261009de57146"
+        "https://news.web.nhk/newsweb/na/nd-20260930de53297"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/sauna-mother/",
