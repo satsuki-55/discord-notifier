@@ -237,6 +237,7 @@
         "https://www.bbc.co.uk/news/articles/cry4xpyzl7qwo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261014de58945",
         "https://news.web.nhk/newsweb/na/nd-20261014de58934",
         "https://news.web.nhk/newsweb/na/nd-20261014de58942",
         "https://news.web.nhk/newsweb/na/nd-20261014de58921",
@@ -435,8 +436,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261010de57546",
         "https://news.web.nhk/newsweb/na/nd-20261010de57542",
         "https://news.web.nhk/newsweb/na/nd-20261010de57532",
-        "https://news.web.nhk/newsweb/na/nd-20261009de57496",
-        "https://news.web.nhk/newsweb/na/nd-20261010de57530"
+        "https://news.web.nhk/newsweb/na/nd-20261009de57496"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-gemini-4-argon-rollout/",
