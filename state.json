@@ -236,6 +236,7 @@
         "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261013de58337",
         "https://news.web.nhk/newsweb/na/nd-20261013de58344",
         "https://news.web.nhk/newsweb/na/nd-20261013de58340",
         "https://news.web.nhk/newsweb/na/nd-20261013de58333",
@@ -434,8 +435,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261009de56980",
         "https://news.web.nhk/newsweb/na/nd-20261009de56979",
         "https://news.web.nhk/newsweb/na/nd-20261009de56985",
-        "https://news.web.nhk/newsweb/na/nd-20261009de56967",
-        "https://news.web.nhk/newsweb/na/nd-20261009de56969"
+        "https://news.web.nhk/newsweb/na/nd-20261009de56967"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-claude-abuse-policy-update/",
