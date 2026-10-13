@@ -35,6 +35,8 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cwvgde0m2d73o#0",
+        "https://www.bbc.co.uk/news/articles/ck20r9qpw505o#1",
         "https://www.bbc.co.uk/news/articles/cxdd80z9yjpqo#0",
         "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo#1",
         "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo#0",
@@ -232,11 +234,10 @@
         "https://www.bbc.co.uk/news/articles/cm4g1pqyqzqwo#0",
         "https://www.bbc.co.uk/news/articles/cjzxz9yp1kq9o#0",
         "https://www.bbc.co.uk/sport/formula1/articles/c65yn9kn47eko#1",
-        "https://www.bbc.co.uk/news/articles/cwvgde0m2d73o#1",
-        "https://www.bbc.co.uk/news/articles/c6n9rvynl5p5o#1",
-        "https://www.bbc.co.uk/news/articles/cwvgde0m2d73o#0"
+        "https://www.bbc.co.uk/news/articles/cwvgde0m2d73o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261013de58890",
         "https://news.web.nhk/newsweb/na/nd-20261014de58941",
         "https://news.web.nhk/newsweb/na/nd-20261014de58936",
         "https://news.web.nhk/newsweb/na/nd-20261014de58935",
@@ -435,8 +436,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261010de57531",
         "https://news.web.nhk/newsweb/na/nd-20261010de57552",
         "https://news.web.nhk/newsweb/na/nd-20261010de57551",
-        "https://news.web.nhk/newsweb/na/nd-20261009de57476",
-        "https://news.web.nhk/newsweb/na/nd-20261010de57539"
+        "https://news.web.nhk/newsweb/na/nd-20261009de57476"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-ai-self-replication-research/",
