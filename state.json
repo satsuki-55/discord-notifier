@@ -237,6 +237,8 @@
         "https://www.bbc.co.uk/news/articles/c6m2dnngvw8xo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261013de58858",
+        "https://news.web.nhk/newsweb/na/nd-20261013de58875",
         "https://news.web.nhk/newsweb/na/nd-20261013de58867",
         "https://news.web.nhk/newsweb/na/nd-20261013de58873",
         "https://news.web.nhk/newsweb/na/nd-20261013de58881",
@@ -434,9 +436,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261009de57493",
         "https://news.web.nhk/newsweb/na/nd-20261009de57498",
         "https://news.web.nhk/newsweb/na/nd-20261009de57464",
-        "https://news.web.nhk/newsweb/na/nd-20261009de57456",
-        "https://news.web.nhk/newsweb/na/nd-20261009de57477",
-        "https://news.web.nhk/newsweb/na/nd-20261009de57482"
+        "https://news.web.nhk/newsweb/na/nd-20261009de57456"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-ai-voice-clone-scam/",
