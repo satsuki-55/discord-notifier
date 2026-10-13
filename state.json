@@ -34,6 +34,8 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c8vgxpwlx9wko#0",
+        "https://www.bbc.co.uk/news/articles/c54g1071n0ygo#1",
         "https://www.bbc.co.uk/news/articles/cmje5x80yg70o#0",
         "https://www.bbc.co.uk/news/articles/ck1exg6qjdz3o#0",
         "https://www.bbc.co.uk/news/articles/cmn06w5x9g25o#0",
@@ -231,11 +233,11 @@
         "https://www.bbc.co.uk/news/articles/c623dv9n93evo#0",
         "https://www.bbc.co.uk/news/articles/ck5yngl2y4gpo#0",
         "https://www.bbc.co.uk/news/articles/c6y43mmke7ygo#1",
-        "https://www.bbc.co.uk/news/articles/cw33x4y8k82no#1",
-        "https://www.bbc.co.uk/news/articles/c9rkyey458xdo#1",
-        "https://www.bbc.co.uk/news/articles/cmje5x80yg70o#1"
+        "https://www.bbc.co.uk/news/articles/cw33x4y8k82no#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261013de58760",
+        "https://news.web.nhk/newsweb/na/nd-20261013de58704",
         "https://news.web.nhk/newsweb/na/nd-20261013de58699",
         "https://news.web.nhk/newsweb/na/nd-20261013de58647",
         "https://news.web.nhk/newsweb/na/nd-20261013de58640",
@@ -433,9 +435,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261009de57221",
         "https://news.web.nhk/newsweb/na/nd-20261009de57243",
         "https://news.web.nhk/newsweb/na/nd-20261009de56975",
-        "https://news.web.nhk/newsweb/na/nd-20261009de57196",
-        "https://news.web.nhk/newsweb/na/nd-20261009de57218",
-        "https://news.web.nhk/newsweb/na/nd-20261009de57175"
+        "https://news.web.nhk/newsweb/na/nd-20261009de57196"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-boston-dynamics-new-ceo-atlas-mass-production/",
