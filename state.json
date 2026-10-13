@@ -35,6 +35,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cj1dwrxq1wndo#0",
         "https://www.bbc.co.uk/news/articles/cmly05l1g15yo#1",
         "https://www.bbc.co.uk/news/articles/cmly05l1g15yo#0",
         "https://www.bbc.co.uk/news/articles/c60rl5vwpk02o#1",
@@ -233,10 +234,11 @@
         "https://www.bbc.co.uk/news/articles/crkg7n1ypj24o#0",
         "https://www.bbc.co.uk/news/articles/c6m2dnngvw8xo#0",
         "https://www.bbc.co.uk/news/articles/c6m2dnngvw8xo#1",
-        "https://www.bbc.co.uk/news/videos/cwzrdnljedx0o#1",
-        "https://www.bbc.co.uk/news/articles/c84g179n2393o#1"
+        "https://www.bbc.co.uk/news/videos/cwzrdnljedx0o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261013de58861",
+        "https://news.web.nhk/newsweb/na/nd-20261013de58827",
         "https://news.web.nhk/newsweb/na/nd-20261013de58849",
         "https://news.web.nhk/newsweb/na/nd-20261013de58830",
         "https://news.web.nhk/newsweb/na/nd-20261013de58690",
@@ -434,9 +436,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261009de57475",
         "https://news.web.nhk/newsweb/na/nd-20261009de57468",
         "https://news.web.nhk/newsweb/na/nd-20261009de57467",
-        "https://news.web.nhk/newsweb/na/nd-20261009de57462",
-        "https://news.web.nhk/newsweb/na/nd-20261009de57453",
-        "https://news.web.nhk/newsweb/na/nd-20261009de57454"
+        "https://news.web.nhk/newsweb/na/nd-20261009de57462"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-anker-soundcore-space-one-pro-sale/",
