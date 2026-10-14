@@ -35,6 +35,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cwp9g1el7x9zo#1",
         "https://www.bbc.co.uk/news/articles/ck86zje2z4pwo#1",
         "https://www.bbc.co.uk/weather/articles/cxvgdq0jj8d2o#0",
         "https://www.bbc.co.uk/news/articles/c6d7q5z17gp5o#0",
@@ -233,10 +234,10 @@
         "https://www.bbc.co.uk/news/videos/c6073z5rvrk3o#1",
         "https://www.bbc.co.uk/news/articles/c680zyx8gkkjo#1",
         "https://www.bbc.co.uk/news/videos/c6073z5rvrk3o#0",
-        "https://www.bbc.co.uk/news/articles/cjn5v21py07vo#0",
-        "https://www.bbc.co.uk/news/articles/cm78pwdp3n5qo#0"
+        "https://www.bbc.co.uk/news/articles/cjn5v21py07vo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261014de59035",
         "https://news.web.nhk/newsweb/na/nd-20261014de59111",
         "https://news.web.nhk/newsweb/na/nd-20261014de59083",
         "https://news.web.nhk/newsweb/na/nd-20261014de59061",
@@ -435,10 +436,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261010de57655",
         "https://news.web.nhk/newsweb/na/nd-20261010de57651",
         "https://news.web.nhk/newsweb/na/nd-20261010de57631",
-        "https://news.web.nhk/newsweb/na/nd-20261010de57643",
-        "https://news.web.nhk/newsweb/na/nd-20261010de57626"
+        "https://news.web.nhk/newsweb/na/nd-20261010de57643"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/microsoft-datacenter-biomimicry-forest/",
         "https://www.gizmodo.jp/article/iphone-magsafe-accessories/",
         "https://www.gizmodo.jp/article/inarritu-kojima-digger-interview/",
         "https://www.gizmodo.jp/article/2610-sony-spatial-audio-mic-ecm-ax10/",
@@ -637,8 +638,7 @@
         "https://www.gizmodo.jp/article/stronger_than_steel-mtp/",
         "https://www.gizmodo.jp/article/framework-desktop-amd-ryzen-ai-max/",
         "https://www.gizmodo.jp/article/meet-the-man-building-the-worlds-weirdest-3d-printed-instruments/",
-        "https://www.gizmodo.jp/article/b1184b35-8c78-418c-8911-fa195e92ea11/",
-        "https://www.gizmodo.jp/article/2610-rainy-season-goods-summary/"
+        "https://www.gizmodo.jp/article/b1184b35-8c78-418c-8911-fa195e92ea11/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "5koLraN_4Kk",
