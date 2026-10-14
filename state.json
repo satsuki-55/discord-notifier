@@ -238,6 +238,7 @@
         "https://www.bbc.co.uk/news/articles/cr78pe09y05xo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261014de59486",
         "https://news.web.nhk/newsweb/na/nd-20261014de59468",
         "https://news.web.nhk/newsweb/na/nd-20261014de59458",
         "https://news.web.nhk/newsweb/na/nd-20261014de59475",
@@ -436,10 +437,11 @@
         "https://news.web.nhk/newsweb/na/nd-20261011de57836",
         "https://news.web.nhk/newsweb/na/nd-20261011de57837",
         "https://news.web.nhk/newsweb/na/nd-20261011de57828",
-        "https://news.web.nhk/newsweb/na/nd-20261010de57622",
-        "https://news.web.nhk/newsweb/na/nd-20261011de57814"
+        "https://news.web.nhk/newsweb/na/nd-20261010de57622"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/lost-baggage-tracking-with-airtag-uq5/",
+        "https://www.gizmodo.jp/article/lighting-in-gladsaxe-z51/",
         "https://www.gizmodo.jp/article/2610-smartcoby-ultra-slim-4-98mm/",
         "https://www.gizmodo.jp/article/2610-lrtk-iphone-survey-3d-ar/",
         "https://www.gizmodo.jp/article/58396771-41dd-43f1-879c-61fa2bd2b5da/",
@@ -637,9 +639,7 @@
         "https://www.gizmodo.jp/article/touch-screen-macbook-rumors/",
         "https://www.gizmodo.jp/article/2610-moonwalkers-dusk-electric-skates/",
         "https://www.gizmodo.jp/article/5d06b518-0c48-4bf2-8fd1-f633a2021f95/",
-        "https://www.gizmodo.jp/article/nothing-early-access-review-program/",
-        "https://www.gizmodo.jp/article/meta-smart-glasses-privacy/",
-        "https://www.gizmodo.jp/article/zelda-switch-2-40th-anniversary-edition-hands-on/"
+        "https://www.gizmodo.jp/article/nothing-early-access-review-program/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "5koLraN_4Kk",
