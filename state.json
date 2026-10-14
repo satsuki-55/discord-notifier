@@ -36,6 +36,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c94g1kvz006ko#0",
         "https://www.bbc.co.uk/news/articles/c3qjn45pepx1o#1",
         "https://www.bbc.co.uk/news/articles/cr78pe09y05xo#0",
         "https://www.bbc.co.uk/news/articles/c92031m6knljo#0",
@@ -234,10 +235,10 @@
         "https://www.bbc.co.uk/news/articles/cjzxl56q30k7o#1",
         "https://www.bbc.co.uk/news/articles/cwrkyn5dnekzo#1",
         "https://www.bbc.co.uk/news/articles/cr78pe09y05xo#1",
-        "https://www.bbc.co.uk/news/articles/cq0k0gl81yr2o#1",
-        "https://www.bbc.co.uk/news/articles/cq5ynr4kn3nmo#1"
+        "https://www.bbc.co.uk/news/articles/cq0k0gl81yr2o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261014de59468",
         "https://news.web.nhk/newsweb/na/nd-20261014de59458",
         "https://news.web.nhk/newsweb/na/nd-20261014de59475",
         "https://news.web.nhk/newsweb/na/nd-20261014de59476",
@@ -436,8 +437,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261011de57837",
         "https://news.web.nhk/newsweb/na/nd-20261011de57828",
         "https://news.web.nhk/newsweb/na/nd-20261010de57622",
-        "https://news.web.nhk/newsweb/na/nd-20261011de57814",
-        "https://news.web.nhk/newsweb/na/nd-20261011de57816"
+        "https://news.web.nhk/newsweb/na/nd-20261011de57814"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-smartcoby-ultra-slim-4-98mm/",
