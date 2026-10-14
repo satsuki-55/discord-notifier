@@ -35,6 +35,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c9m26xp4zp8jo#1",
         "https://www.bbc.co.uk/news/articles/c9m26xp4zp8jo#0",
         "https://www.bbc.co.uk/news/articles/cvj6j812dg4no#1",
         "https://www.bbc.co.uk/news/articles/c6gr80rk1yyko#1",
@@ -233,8 +234,7 @@
         "https://www.bbc.co.uk/news/articles/cq5yn75pgyjjo#1",
         "https://www.bbc.co.uk/news/articles/cqj9k23rynnpo#0",
         "https://www.bbc.co.uk/news/articles/cry4xpyzl7qwo#1",
-        "https://www.bbc.co.uk/news/articles/c64g1l5389kvo#0",
-        "https://www.bbc.co.uk/news/articles/ck86zppejjw3o#1"
+        "https://www.bbc.co.uk/news/articles/c64g1l5389kvo#0"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20261014de59173",
@@ -439,6 +439,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261010de57680"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/4e1dbbb2-fadb-4e55-80d6-bc1d7eb230e2/",
         "https://www.gizmodo.jp/article/imotec-robosenka-sorting-robot/",
         "https://www.gizmodo.jp/article/microsoft-datacenter-biomimicry-forest/",
         "https://www.gizmodo.jp/article/iphone-magsafe-accessories/",
@@ -637,8 +638,7 @@
         "https://www.gizmodo.jp/article/the-himalayas-are-melting-faster-than-ever-scientists-worry-nepals-floods-are-just-the-beginning/",
         "https://www.gizmodo.jp/article/2610-samsung-android-xr-smart-glasses-november-release/",
         "https://www.gizmodo.jp/article/stronger_than_steel-mtp/",
-        "https://www.gizmodo.jp/article/framework-desktop-amd-ryzen-ai-max/",
-        "https://www.gizmodo.jp/article/meet-the-man-building-the-worlds-weirdest-3d-printed-instruments/"
+        "https://www.gizmodo.jp/article/framework-desktop-amd-ryzen-ai-max/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "5koLraN_4Kk",
