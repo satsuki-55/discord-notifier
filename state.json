@@ -35,6 +35,10 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/weather/articles/cxvgdq0jj8d2o#0",
+        "https://www.bbc.co.uk/news/articles/c6d7q5z17gp5o#0",
+        "https://www.bbc.co.uk/news/articles/cq98z59xdny5o#1",
+        "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo#1",
         "https://www.bbc.co.uk/news/articles/c6rmy7zmvx3lo#0",
         "https://www.bbc.co.uk/news/articles/cwm237z77dgyo#0",
         "https://www.bbc.co.uk/news/articles/cm5ynp0vz3p7o#1",
@@ -230,11 +234,7 @@
         "https://www.bbc.co.uk/news/videos/c6073z5rvrk3o#0",
         "https://www.bbc.co.uk/news/articles/cjn5v21py07vo#0",
         "https://www.bbc.co.uk/news/articles/cm78pwdp3n5qo#0",
-        "https://www.bbc.co.uk/news/articles/c84g1xz1l9ddo#0",
-        "https://www.bbc.co.uk/news/articles/c6x29kydnzv0o#0",
-        "https://www.bbc.co.uk/news/articles/c63djxry8124o#1",
-        "https://www.bbc.co.uk/news/articles/c63r5wx8z8wzo#1",
-        "https://www.bbc.co.uk/news/articles/c6d7q5z17gp5o#0"
+        "https://www.bbc.co.uk/news/articles/c84g1xz1l9ddo#0"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20261014de58957",
