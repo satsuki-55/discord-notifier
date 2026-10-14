@@ -237,6 +237,7 @@
         "https://www.bbc.co.uk/weather/articles/c9e8lmmevd70o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261014de59211",
         "https://news.web.nhk/newsweb/na/nd-20261014de59181",
         "https://news.web.nhk/newsweb/na/nd-20260930de53320",
         "https://news.web.nhk/newsweb/na/nd-20261014de59173",
@@ -435,10 +436,11 @@
         "https://news.web.nhk/newsweb/na/nd-20261010de57716",
         "https://news.web.nhk/newsweb/na/nd-20261010de57725",
         "https://news.web.nhk/newsweb/na/nd-20261010de57667",
-        "https://news.web.nhk/newsweb/na/nd-20261010de57711",
-        "https://news.web.nhk/newsweb/na/nd-20261010de57687"
+        "https://news.web.nhk/newsweb/na/nd-20261010de57711"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2610-apple-homeview-smart-home-hub/",
+        "https://www.gizmodo.jp/article/2610-iphone-photo-storage-sd-card/",
         "https://www.gizmodo.jp/article/olight-oclip-pro-black-friday-re-26-oct/",
         "https://www.gizmodo.jp/article/4e1dbbb2-fadb-4e55-80d6-bc1d7eb230e2/",
         "https://www.gizmodo.jp/article/imotec-robosenka-sorting-robot/",
@@ -636,9 +638,7 @@
         "https://www.gizmodo.jp/article/interview-with-extropic-ai-guillaume-verdon-eyl/",
         "https://www.gizmodo.jp/article/multitask-5screen-display-system/",
         "https://www.gizmodo.jp/article/snapdragon-c-windows-pc-under-50000-yen/",
-        "https://www.gizmodo.jp/article/the-himalayas-are-melting-faster-than-ever-scientists-worry-nepals-floods-are-just-the-beginning/",
-        "https://www.gizmodo.jp/article/2610-samsung-android-xr-smart-glasses-november-release/",
-        "https://www.gizmodo.jp/article/stronger_than_steel-mtp/"
+        "https://www.gizmodo.jp/article/the-himalayas-are-melting-faster-than-ever-scientists-worry-nepals-floods-are-just-the-beginning/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "5koLraN_4Kk",
