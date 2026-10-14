@@ -36,6 +36,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c5djvyde0y1jo#0",
         "https://www.bbc.co.uk/news/articles/cw3dj458re1vo#1",
         "https://www.bbc.co.uk/news/articles/cxvgdneplgzeo#1",
         "https://www.bbc.co.uk/news/articles/c30rl1q1j200o#1",
@@ -234,10 +235,11 @@
         "https://www.bbc.co.uk/news/articles/cj62ykqw9pz1o#1",
         "https://www.bbc.co.uk/news/articles/cr62yzypnw7no#1",
         "https://www.bbc.co.uk/news/articles/cm4g101nlp2no#0",
-        "https://www.bbc.co.uk/news/articles/cwp9gy7710veo#1",
-        "https://www.bbc.co.uk/news/articles/cmn045en7d88o#1"
+        "https://www.bbc.co.uk/news/articles/cwp9gy7710veo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261015de59551",
+        "https://news.web.nhk/newsweb/na/nd-20261015de59550",
         "https://news.web.nhk/newsweb/na/nd-20261015de59547",
         "https://news.web.nhk/newsweb/na/nd-20261015de59537",
         "https://news.web.nhk/newsweb/na/nd-20261015de59531",
@@ -435,11 +437,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261011de58000",
         "https://news.web.nhk/newsweb/na/nd-20261011de57841",
         "https://news.web.nhk/newsweb/na/nd-20261008de56643",
-        "https://news.web.nhk/newsweb/na/nd-20261011de57993",
-        "https://news.web.nhk/newsweb/na/nd-20261011de57948",
-        "https://news.web.nhk/newsweb/na/nd-20261011de57965"
+        "https://news.web.nhk/newsweb/na/nd-20261011de57993"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2610-france-supermarket-cyber-attack/",
         "https://www.gizmodo.jp/article/a-rare-image-of-mars-at-dawn-reveals-captivating-beauty-of-its-ancient-cliffs/",
         "https://www.gizmodo.jp/article/lost-baggage-tracking-with-airtag-uq5/",
         "https://www.gizmodo.jp/article/lighting-in-gladsaxe-z51/",
@@ -638,8 +639,7 @@
         "https://www.gizmodo.jp/article/apple-watch-ultra-4-review/",
         "https://www.gizmodo.jp/article/2610-agility-robotics-digit-5/",
         "https://www.gizmodo.jp/article/touch-screen-macbook-rumors/",
-        "https://www.gizmodo.jp/article/2610-moonwalkers-dusk-electric-skates/",
-        "https://www.gizmodo.jp/article/5d06b518-0c48-4bf2-8fd1-f633a2021f95/"
+        "https://www.gizmodo.jp/article/2610-moonwalkers-dusk-electric-skates/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "5koLraN_4Kk",
