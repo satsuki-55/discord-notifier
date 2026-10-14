@@ -237,6 +237,7 @@
         "https://www.bbc.co.uk/news/articles/cm78pwdp3n5qo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261014de59111",
         "https://news.web.nhk/newsweb/na/nd-20261014de59083",
         "https://news.web.nhk/newsweb/na/nd-20261014de59061",
         "https://news.web.nhk/newsweb/na/nd-20261014de59116",
@@ -435,8 +436,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261010de57651",
         "https://news.web.nhk/newsweb/na/nd-20261010de57631",
         "https://news.web.nhk/newsweb/na/nd-20261010de57643",
-        "https://news.web.nhk/newsweb/na/nd-20261010de57626",
-        "https://news.web.nhk/newsweb/na/nd-20261010de57618"
+        "https://news.web.nhk/newsweb/na/nd-20261010de57626"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/iphone-magsafe-accessories/",
