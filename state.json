@@ -35,6 +35,8 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c9m26xp4zp8jo#0",
+        "https://www.bbc.co.uk/news/articles/cvj6j812dg4no#1",
         "https://www.bbc.co.uk/news/articles/c6gr80rk1yyko#1",
         "https://www.bbc.co.uk/news/articles/ckdd8egder5ro#0",
         "https://www.bbc.co.uk/news/articles/c6gr80rk1yyko#0",
@@ -232,11 +234,10 @@
         "https://www.bbc.co.uk/news/articles/cqj9k23rynnpo#0",
         "https://www.bbc.co.uk/news/articles/cry4xpyzl7qwo#1",
         "https://www.bbc.co.uk/news/articles/c64g1l5389kvo#0",
-        "https://www.bbc.co.uk/news/articles/ck86zppejjw3o#1",
-        "https://www.bbc.co.uk/news/articles/cq5yn75pgyjjo#0",
-        "https://www.bbc.co.uk/news/articles/cm5yne8k6zw8o#1"
+        "https://www.bbc.co.uk/news/articles/ck86zppejjw3o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261014de59167",
         "https://news.web.nhk/newsweb/na/nd-20261014de58977",
         "https://news.web.nhk/newsweb/na/nd-20261014de59081",
         "https://news.web.nhk/newsweb/na/nd-20261014de59124",
@@ -435,8 +436,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261010de57687",
         "https://news.web.nhk/newsweb/na/nd-20261010de57697",
         "https://news.web.nhk/newsweb/na/nd-20261010de57680",
-        "https://news.web.nhk/newsweb/na/nd-20261010de57670",
-        "https://news.web.nhk/newsweb/na/nd-20261010de57655"
+        "https://news.web.nhk/newsweb/na/nd-20261010de57670"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/imotec-robosenka-sorting-robot/",
