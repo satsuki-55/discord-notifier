@@ -36,6 +36,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cm4g1rnj5qweo#0",
         "https://www.bbc.co.uk/news/articles/cr86z33pdy9vo#0",
         "https://www.bbc.co.uk/news/articles/cqgkvdyx5d6jo#1",
         "https://www.bbc.co.uk/news/articles/crx23y3d970vo#1",
@@ -234,8 +235,7 @@
         "https://www.bbc.co.uk/news/articles/cjzxl7ee4e9xo#1",
         "https://www.bbc.co.uk/news/articles/cke8re5v1pgmo#1",
         "https://www.bbc.co.uk/news/articles/cke8re5v1pgmo#0",
-        "https://www.bbc.co.uk/news/articles/cm2keg7910gvo#0",
-        "https://www.bbc.co.uk/news/articles/cwr5y2lgr4gdo#0"
+        "https://www.bbc.co.uk/news/articles/cm2keg7910gvo#0"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20261014de59446",
@@ -440,6 +440,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261010de57727"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2610-lrtk-iphone-survey-3d-ar/",
         "https://www.gizmodo.jp/article/58396771-41dd-43f1-879c-61fa2bd2b5da/",
         "https://www.gizmodo.jp/article/e984e6e4-8f71-4088-b145-ddfe3f9a0b43/",
         "https://www.gizmodo.jp/article/2610-sennheiser-ie200-sale/",
@@ -638,8 +639,7 @@
         "https://www.gizmodo.jp/article/nothing-early-access-review-program/",
         "https://www.gizmodo.jp/article/meta-smart-glasses-privacy/",
         "https://www.gizmodo.jp/article/zelda-switch-2-40th-anniversary-edition-hands-on/",
-        "https://www.gizmodo.jp/article/2610-neurable-one-eeg-headphone/",
-        "https://www.gizmodo.jp/article/2610-ps5-free-qssr-ai-upscaling/"
+        "https://www.gizmodo.jp/article/2610-neurable-one-eeg-headphone/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "5koLraN_4Kk",
