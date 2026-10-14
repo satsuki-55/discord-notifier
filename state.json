@@ -237,6 +237,7 @@
         "https://www.bbc.co.uk/news/articles/cqy43vrk8wv8o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261014de59229",
         "https://news.web.nhk/newsweb/na/nd-20261014de59211",
         "https://news.web.nhk/newsweb/na/nd-20261014de59181",
         "https://news.web.nhk/newsweb/na/nd-20260930de53320",
@@ -435,8 +436,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261008de56487",
         "https://news.web.nhk/newsweb/na/nd-20261010de57716",
         "https://news.web.nhk/newsweb/na/nd-20261010de57725",
-        "https://news.web.nhk/newsweb/na/nd-20261010de57667",
-        "https://news.web.nhk/newsweb/na/nd-20261010de57711"
+        "https://news.web.nhk/newsweb/na/nd-20261010de57667"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-belkin-surefind-loop-cable-tag/",
