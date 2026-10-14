@@ -36,6 +36,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c83vq9vpwwr1o#1",
         "https://www.bbc.co.uk/news/videos/cmx280x092x7o#1",
         "https://www.bbc.co.uk/news/articles/cqx298e5rr3po#0",
         "https://www.bbc.co.uk/news/articles/cqx298e5rr3po#1",
@@ -234,10 +235,10 @@
         "https://www.bbc.co.uk/news/articles/cjly0zqq27e4o#1",
         "https://www.bbc.co.uk/sport/football/articles/cmd7qn1g0xrxo#1",
         "https://www.bbc.co.uk/news/articles/c962y4ld1d7do#0",
-        "https://www.bbc.co.uk/news/videos/cj4g17wz7gv0o#1",
-        "https://www.bbc.co.uk/news/articles/cqgm09xvlvjeo#1"
+        "https://www.bbc.co.uk/news/videos/cj4g17wz7gv0o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261014de59160",
         "https://news.web.nhk/newsweb/na/nd-20261014de59406",
         "https://news.web.nhk/newsweb/na/nd-20261014de59164",
         "https://news.web.nhk/newsweb/na/nd-20261014de59049",
@@ -436,8 +437,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261010de57783",
         "https://news.web.nhk/newsweb/na/nd-20261010de57774",
         "https://news.web.nhk/newsweb/na/nd-20261010de57704",
-        "https://news.web.nhk/newsweb/na/nd-20261010de57744",
-        "https://news.web.nhk/newsweb/na/nd-20261010de57761"
+        "https://news.web.nhk/newsweb/na/nd-20261010de57744"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/ai-agents-successfully-recreate-the-gender-pay-gap/",
