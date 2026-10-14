@@ -237,6 +237,7 @@
         "https://www.bbc.co.uk/news/videos/c6073z5rvrk3o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261014de59124",
         "https://news.web.nhk/newsweb/na/nd-20261014de59035",
         "https://news.web.nhk/newsweb/na/nd-20261014de59111",
         "https://news.web.nhk/newsweb/na/nd-20261014de59083",
@@ -435,8 +436,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261010de57670",
         "https://news.web.nhk/newsweb/na/nd-20261010de57655",
         "https://news.web.nhk/newsweb/na/nd-20261010de57651",
-        "https://news.web.nhk/newsweb/na/nd-20261010de57631",
-        "https://news.web.nhk/newsweb/na/nd-20261010de57643"
+        "https://news.web.nhk/newsweb/na/nd-20261010de57631"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/microsoft-datacenter-biomimicry-forest/",
