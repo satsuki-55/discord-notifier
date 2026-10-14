@@ -237,6 +237,8 @@
         "https://www.bbc.co.uk/news/articles/cm78pwdp3n5qo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261014de58993",
+        "https://news.web.nhk/newsweb/na/nd-20261014de59006",
         "https://news.web.nhk/newsweb/na/nd-20261014de58989",
         "https://news.web.nhk/newsweb/na/nd-20261014de58969",
         "https://news.web.nhk/newsweb/na/nd-20261014de58971",
@@ -434,9 +436,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261007de56177",
         "https://news.web.nhk/newsweb/na/nd-20261010de57574",
         "https://news.web.nhk/newsweb/na/nd-20261010de57585",
-        "https://news.web.nhk/newsweb/na/nd-20261010de57592",
-        "https://news.web.nhk/newsweb/na/nd-20261010de57591",
-        "https://news.web.nhk/newsweb/na/nd-20261010de57573"
+        "https://news.web.nhk/newsweb/na/nd-20261010de57592"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-claude-fake-police-report/",
