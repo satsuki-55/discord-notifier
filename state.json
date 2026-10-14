@@ -237,6 +237,7 @@
         "https://www.bbc.co.uk/news/articles/cm78pwdp3n5qo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261014de58969",
         "https://news.web.nhk/newsweb/na/nd-20261014de58971",
         "https://news.web.nhk/newsweb/na/nd-20261013de58876",
         "https://news.web.nhk/newsweb/na/nd-20261014de58957",
@@ -435,8 +436,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261010de57592",
         "https://news.web.nhk/newsweb/na/nd-20261010de57591",
         "https://news.web.nhk/newsweb/na/nd-20261010de57573",
-        "https://news.web.nhk/newsweb/na/nd-20261010de57567",
-        "https://news.web.nhk/newsweb/na/nd-20261010de57531"
+        "https://news.web.nhk/newsweb/na/nd-20261010de57567"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-bose-noise-cancelling-wired-earbuds/",
