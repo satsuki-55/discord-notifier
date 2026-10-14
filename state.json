@@ -237,6 +237,8 @@
         "https://www.bbc.co.uk/news/articles/cmqxn0lw25r3o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261014de59308",
+        "https://news.web.nhk/newsweb/na/nd-20261014de59353",
         "https://news.web.nhk/newsweb/na/nd-20261014de59291",
         "https://news.web.nhk/newsweb/na/nd-20261014de59229",
         "https://news.web.nhk/newsweb/na/nd-20261014de59211",
@@ -434,9 +436,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261010de57761",
         "https://news.web.nhk/newsweb/na/nd-20261010de57620",
         "https://news.web.nhk/newsweb/na/nd-20261009de57504",
-        "https://news.web.nhk/newsweb/na/nd-20261008de56487",
-        "https://news.web.nhk/newsweb/na/nd-20261010de57716",
-        "https://news.web.nhk/newsweb/na/nd-20261010de57725"
+        "https://news.web.nhk/newsweb/na/nd-20261008de56487"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/asics_yogiri-speed_review_sub4/",
