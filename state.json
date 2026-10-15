@@ -241,6 +241,8 @@
         "https://www.bbc.co.uk/news/articles/c1wxdjx27ypo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261016de60184",
+        "https://news.web.nhk/newsweb/na/nd-20261016de60195",
         "https://news.web.nhk/newsweb/na/nd-20261016de60190",
         "https://news.web.nhk/newsweb/na/nd-20261016de60181",
         "https://news.web.nhk/newsweb/na/nd-20261015de60036",
@@ -438,9 +440,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261013de58796",
         "https://news.web.nhk/newsweb/na/nd-20261013de58714",
         "https://news.web.nhk/newsweb/na/nd-20261013de58529",
-        "https://news.web.nhk/newsweb/na/nd-20261013de58760",
-        "https://news.web.nhk/newsweb/na/nd-20261013de58704",
-        "https://news.web.nhk/newsweb/na/nd-20261013de58699"
+        "https://news.web.nhk/newsweb/na/nd-20261013de58760"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-jev-1-14-release/",
