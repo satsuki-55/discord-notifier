@@ -240,6 +240,8 @@
         "https://www.bbc.co.uk/news/articles/ck1exg6qjdz3o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261015de60043",
+        "https://news.web.nhk/newsweb/na/nd-20261015de60029",
         "https://news.web.nhk/newsweb/na/nd-20261015de59932",
         "https://news.web.nhk/newsweb/na/nd-20261015de60014",
         "https://news.web.nhk/newsweb/na/nd-20261015de59778",
@@ -437,9 +439,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261012de58285",
         "https://news.web.nhk/newsweb/na/nd-20261012de58219",
         "https://news.web.nhk/newsweb/na/nd-20261013de58310",
-        "https://news.web.nhk/newsweb/na/nd-20261013de58295",
-        "https://news.web.nhk/newsweb/na/nd-20261012de58239",
-        "https://news.web.nhk/newsweb/na/nd-20261012de58173"
+        "https://news.web.nhk/newsweb/na/nd-20261013de58295"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-icloud-vs-ssd-cost-comparison/",
