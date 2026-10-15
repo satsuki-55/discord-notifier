@@ -241,6 +241,7 @@
         "https://www.bbc.co.uk/news/articles/c1wxdjx27ypo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261015de60061",
         "https://news.web.nhk/newsweb/na/nd-20261016de60184",
         "https://news.web.nhk/newsweb/na/nd-20261016de60195",
         "https://news.web.nhk/newsweb/na/nd-20261016de60190",
@@ -439,8 +440,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261013de58349",
         "https://news.web.nhk/newsweb/na/nd-20261013de58796",
         "https://news.web.nhk/newsweb/na/nd-20261013de58714",
-        "https://news.web.nhk/newsweb/na/nd-20261013de58529",
-        "https://news.web.nhk/newsweb/na/nd-20261013de58760"
+        "https://news.web.nhk/newsweb/na/nd-20261013de58529"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/g-shock_matome-re-26-oct/",
