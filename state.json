@@ -238,6 +238,7 @@
         "https://www.bbc.co.uk/news/articles/cqz0v11n2vj5o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261015de59833",
         "https://news.web.nhk/newsweb/na/nd-20261015de59860",
         "https://news.web.nhk/newsweb/na/nd-20261015de59885",
         "https://news.web.nhk/newsweb/na/nd-20261015de59926",
@@ -436,10 +437,11 @@
         "https://news.web.nhk/newsweb/na/nd-20261012de58183",
         "https://news.web.nhk/newsweb/na/nd-20261012de58176",
         "https://news.web.nhk/newsweb/na/nd-20261012de58180",
-        "https://news.web.nhk/newsweb/na/nd-20261012de58170",
-        "https://news.web.nhk/newsweb/na/nd-20261012de58151"
+        "https://news.web.nhk/newsweb/na/nd-20261012de58170"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2610-benjamin-tablet-controller-for-musicians/",
+        "https://www.gizmodo.jp/article/2610-microsoft-surface-mouse-haptic-feedback/",
         "https://www.gizmodo.jp/article/2610-solar-powered-item-tracker/",
         "https://www.gizmodo.jp/article/2610-starlink-mobile-carrier/",
         "https://www.gizmodo.jp/article/2610-yamazaki-lunch-bag/",
@@ -637,9 +639,7 @@
         "https://www.gizmodo.jp/article/2610-immurok-ik-1-touch-id-device/",
         "https://www.gizmodo.jp/article/2610-macos-touch-code-discovered/",
         "https://www.gizmodo.jp/article/2610-toshiba-ai-hdd-expansion/",
-        "https://www.gizmodo.jp/article/2609-lht-kensington-slim-blade-lts/",
-        "https://www.gizmodo.jp/article/tickey-color-e-paper-badge/",
-        "https://www.gizmodo.jp/article/boston-dynamics-atlas-four-finger-hand/"
+        "https://www.gizmodo.jp/article/2609-lht-kensington-slim-blade-lts/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "5koLraN_4Kk",
