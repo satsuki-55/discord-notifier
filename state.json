@@ -238,6 +238,7 @@
         "https://www.bbc.co.uk/news/articles/cqz0v11n2vj5o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261015de59790",
         "https://news.web.nhk/newsweb/na/nd-20261015de59833",
         "https://news.web.nhk/newsweb/na/nd-20261015de59860",
         "https://news.web.nhk/newsweb/na/nd-20261015de59885",
@@ -436,8 +437,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261012de58196",
         "https://news.web.nhk/newsweb/na/nd-20261012de58183",
         "https://news.web.nhk/newsweb/na/nd-20261012de58176",
-        "https://news.web.nhk/newsweb/na/nd-20261012de58180",
-        "https://news.web.nhk/newsweb/na/nd-20261012de58170"
+        "https://news.web.nhk/newsweb/na/nd-20261012de58180"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-benjamin-tablet-controller-for-musicians/",
