@@ -238,6 +238,7 @@
         "https://www.bbc.co.uk/news/videos/c80405zkgyqvo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261015de59792",
         "https://news.web.nhk/newsweb/na/nd-20261015de59854",
         "https://news.web.nhk/newsweb/na/nd-20261015de59844",
         "https://news.web.nhk/newsweb/na/nd-20261015de59812",
@@ -436,8 +437,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261012de58125",
         "https://news.web.nhk/newsweb/na/nd-20261012de58112",
         "https://news.web.nhk/newsweb/na/nd-20261012de58117",
-        "https://news.web.nhk/newsweb/na/nd-20261012de58100",
-        "https://news.web.nhk/newsweb/na/nd-20261009de57272"
+        "https://news.web.nhk/newsweb/na/nd-20261012de58100"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-starlink-mobile-carrier/",
