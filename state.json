@@ -238,6 +238,7 @@
         "https://www.bbc.co.uk/news/articles/cmn045en7d88o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261015de59577",
         "https://news.web.nhk/newsweb/na/nd-20261015de59560",
         "https://news.web.nhk/newsweb/na/nd-20261015de59557",
         "https://news.web.nhk/newsweb/na/nd-20260930de53321",
@@ -436,10 +437,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261011de58027",
         "https://news.web.nhk/newsweb/na/nd-20261011de58011",
         "https://news.web.nhk/newsweb/na/nd-20261011de57999",
-        "https://news.web.nhk/newsweb/na/nd-20261011de58016",
-        "https://news.web.nhk/newsweb/na/nd-20261011de58009"
+        "https://news.web.nhk/newsweb/na/nd-20261011de58016"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2610-cololight-chimera-gaming-chair-speaker/",
         "https://www.gizmodo.jp/article/2610-france-supermarket-cyber-attack/",
         "https://www.gizmodo.jp/article/a-rare-image-of-mars-at-dawn-reveals-captivating-beauty-of-its-ancient-cliffs/",
         "https://www.gizmodo.jp/article/lost-baggage-tracking-with-airtag-uq5/",
@@ -638,8 +639,7 @@
         "https://www.gizmodo.jp/article/beautiful-photos-from-our-solar-system-kmf/",
         "https://www.gizmodo.jp/article/apple-watch-ultra-4-review/",
         "https://www.gizmodo.jp/article/2610-agility-robotics-digit-5/",
-        "https://www.gizmodo.jp/article/touch-screen-macbook-rumors/",
-        "https://www.gizmodo.jp/article/2610-moonwalkers-dusk-electric-skates/"
+        "https://www.gizmodo.jp/article/touch-screen-macbook-rumors/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "5koLraN_4Kk",
