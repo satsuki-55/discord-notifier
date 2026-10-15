@@ -39,6 +39,8 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/crx23qlnj27qo#0",
+        "https://www.bbc.co.uk/news/articles/cmwy43pp08elo#1",
         "https://www.bbc.co.uk/news/articles/crkg7n1ypj24o#0",
         "https://www.bbc.co.uk/news/articles/c9q20djz4wno#0",
         "https://www.bbc.co.uk/news/articles/crx23qlnj27qo#1",
@@ -236,9 +238,7 @@
         "https://www.bbc.co.uk/sport/football/articles/c6vgx70pzq1jo#1",
         "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o#0",
         "https://www.bbc.co.uk/news/articles/cm8ezp4g7p6po#1",
-        "https://www.bbc.co.uk/news/articles/c6vg9nj4l322o#1",
-        "https://www.bbc.co.uk/weather/articles/cmlye0d7q7zno#1",
-        "https://www.bbc.co.uk/sport/football/articles/cjkge245n0gzo#1"
+        "https://www.bbc.co.uk/news/articles/c6vg9nj4l322o#1"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20261015de60111",
@@ -645,6 +645,7 @@
         "https://www.gizmodo.jp/article/2610-alexa-creepy-humming-bug/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
+        "FmVWaA-TMF0",
         "5koLraN_4Kk",
         "8JJ36OM0a5I",
         "Ih1O3vIgcmA"
