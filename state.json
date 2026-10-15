@@ -36,6 +36,10 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c32l4nqx5wvko#0",
+        "https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o#1",
+        "https://www.bbc.co.uk/sport/football/articles/cx30e8dqmnzgo#1",
+        "https://www.bbc.co.uk/news/videos/c6e3x9z8jpj1o#1",
         "https://www.bbc.co.uk/news/articles/c9j3dvezpdz0o#0",
         "https://www.bbc.co.uk/news/articles/ck8dz1me439no#1",
         "https://www.bbc.co.uk/news/articles/ck8dz1me439no#0",
@@ -231,13 +235,11 @@
         "https://www.bbc.co.uk/news/videos/c80405zkgyqvo#1",
         "https://www.bbc.co.uk/news/videos/cqpvgrkp0xpyo#1",
         "https://www.bbc.co.uk/news/articles/cme3xl7d18z2o#0",
-        "https://www.bbc.co.uk/news/articles/cqz0v11n2vj5o#0",
-        "https://www.bbc.co.uk/news/videos/cqx298yx4k48o#1",
-        "https://www.bbc.co.uk/news/articles/c32l4nqx5wvko#0",
-        "https://www.bbc.co.uk/news/articles/c6n4ejx8x1z7o#0",
-        "https://www.bbc.co.uk/news/articles/cqj6j7wlxd5eo#0"
+        "https://www.bbc.co.uk/news/articles/cqz0v11n2vj5o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261015de59885",
+        "https://news.web.nhk/newsweb/na/nd-20261015de59926",
         "https://news.web.nhk/newsweb/na/nd-20261015de59842",
         "https://news.web.nhk/newsweb/na/nd-20261015de59826",
         "https://news.web.nhk/newsweb/na/nd-20261015de59824",
@@ -435,9 +437,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261012de58180",
         "https://news.web.nhk/newsweb/na/nd-20261012de58170",
         "https://news.web.nhk/newsweb/na/nd-20261012de58151",
-        "https://news.web.nhk/newsweb/na/nd-20261012de58142",
-        "https://news.web.nhk/newsweb/na/nd-20261002de53933",
-        "https://news.web.nhk/newsweb/na/nd-20261012de58125"
+        "https://news.web.nhk/newsweb/na/nd-20261012de58142"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-solar-powered-item-tracker/",
