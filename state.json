@@ -241,6 +241,7 @@
         "https://www.bbc.co.uk/news/articles/cm8ezp4g7p6po#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261015de60103",
         "https://news.web.nhk/newsweb/na/nd-20261015de60102",
         "https://news.web.nhk/newsweb/na/nd-20261015de60078",
         "https://news.web.nhk/newsweb/na/nd-20261015de60075",
@@ -439,10 +440,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261013de58340",
         "https://news.web.nhk/newsweb/na/nd-20261013de58333",
         "https://news.web.nhk/newsweb/na/nd-20261012de58230",
-        "https://news.web.nhk/newsweb/na/nd-20261009de56954",
-        "https://news.web.nhk/newsweb/na/nd-20261013de58326"
+        "https://news.web.nhk/newsweb/na/nd-20261009de56954"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/syn-robotics-synrobo-weeding-robot/",
         "https://www.gizmodo.jp/article/descente-allterrain-81_n-hoolywood_collection/",
         "https://www.gizmodo.jp/article/2610-retinal-projection-smart-glasses-tdk/",
         "https://www.gizmodo.jp/article/2610-karcher-oc3-foldable-review/",
@@ -641,8 +642,7 @@
         "https://www.gizmodo.jp/article/solarpanel-attachment-ajv/",
         "https://www.gizmodo.jp/article/2610-alexa-creepy-humming-bug/",
         "https://www.gizmodo.jp/article/2610-silent-candy/",
-        "https://www.gizmodo.jp/article/sound-summit-2026/",
-        "https://www.gizmodo.jp/article/2610-oled-macbook-pro-lightweight/"
+        "https://www.gizmodo.jp/article/sound-summit-2026/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "5koLraN_4Kk",
