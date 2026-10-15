@@ -39,6 +39,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cm79pe5yej7no#1",
         "https://www.bbc.co.uk/news/articles/cwdr8grnykrlo#1",
         "https://www.bbc.co.uk/news/articles/cm79pe5yej7no#0",
         "https://www.bbc.co.uk/news/articles/cwy7ldzl7j4po#1",
@@ -237,10 +238,10 @@
         "https://www.bbc.co.uk/news/articles/crkg7n1ypj24o#0",
         "https://www.bbc.co.uk/news/articles/c6vg9nj4l322o#0",
         "https://www.bbc.co.uk/news/articles/c8y56re7ldqyo#1",
-        "https://www.bbc.co.uk/news/articles/cm8ezp4g7p6po#0",
-        "https://www.bbc.co.uk/news/articles/c3ewegny45jvo#1"
+        "https://www.bbc.co.uk/news/articles/cm8ezp4g7p6po#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261015de60102",
         "https://news.web.nhk/newsweb/na/nd-20261015de60078",
         "https://news.web.nhk/newsweb/na/nd-20261015de60075",
         "https://news.web.nhk/newsweb/na/nd-20261015de60060",
@@ -439,8 +440,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261013de58333",
         "https://news.web.nhk/newsweb/na/nd-20261012de58230",
         "https://news.web.nhk/newsweb/na/nd-20261009de56954",
-        "https://news.web.nhk/newsweb/na/nd-20261013de58326",
-        "https://news.web.nhk/newsweb/na/nd-20261013de58308"
+        "https://news.web.nhk/newsweb/na/nd-20261013de58326"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/descente-allterrain-81_n-hoolywood_collection/",
