@@ -36,6 +36,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cqzjx448vxkgo#0",
         "https://www.bbc.co.uk/news/articles/cvwy761zyx7eo#1",
         "https://www.bbc.co.uk/news/articles/cvwy761zyx7eo#0",
         "https://www.bbc.co.uk/news/articles/cvy0rd1j2kzlo#0",
@@ -234,10 +235,10 @@
         "https://www.bbc.co.uk/news/articles/cwm24n9v8rdeo#0",
         "https://www.bbc.co.uk/news/articles/c84g12v3lk20o#0",
         "https://www.bbc.co.uk/news/articles/cxnv0z09r882o#0",
-        "https://www.bbc.co.uk/news/articles/c6pvgryp8yv0o#0",
-        "https://www.bbc.co.uk/news/articles/cmn045en7d88o#0"
+        "https://www.bbc.co.uk/news/articles/c6pvgryp8yv0o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261015de59561",
         "https://news.web.nhk/newsweb/na/nd-20261015de59577",
         "https://news.web.nhk/newsweb/na/nd-20261015de59560",
         "https://news.web.nhk/newsweb/na/nd-20261015de59557",
@@ -436,8 +437,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261012de58057",
         "https://news.web.nhk/newsweb/na/nd-20261011de58027",
         "https://news.web.nhk/newsweb/na/nd-20261011de58011",
-        "https://news.web.nhk/newsweb/na/nd-20261011de57999",
-        "https://news.web.nhk/newsweb/na/nd-20261011de58016"
+        "https://news.web.nhk/newsweb/na/nd-20261011de57999"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-cololight-chimera-gaming-chair-speaker/",
