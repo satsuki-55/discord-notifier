@@ -238,6 +238,7 @@
         "https://www.bbc.co.uk/news/articles/cm78pwq47vp1o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261015de59737",
         "https://news.web.nhk/newsweb/na/nd-20261015de59735",
         "https://news.web.nhk/newsweb/na/nd-20261011de58036",
         "https://news.web.nhk/newsweb/na/nd-20261015de59718",
@@ -436,8 +437,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261011de58008",
         "https://news.web.nhk/newsweb/na/nd-20261012de58065",
         "https://news.web.nhk/newsweb/na/nd-20261011de58040",
-        "https://news.web.nhk/newsweb/na/nd-20261011de58043",
-        "https://news.web.nhk/newsweb/na/nd-20261012de58051"
+        "https://news.web.nhk/newsweb/na/nd-20261011de58043"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/retro-song-bird-game-boy-speaker/",
