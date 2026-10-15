@@ -38,6 +38,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/videos/cxnv01gylmvjo#1",
         "https://www.bbc.co.uk/news/articles/crvg904yw397o#0",
         "https://www.bbc.co.uk/weather/articles/cmlye0d7q7zno#0",
         "https://www.bbc.co.uk/news/videos/cme8r0eexr3yo#1",
@@ -236,10 +237,10 @@
         "https://www.bbc.co.uk/news/articles/cmly05l1g15yo#0",
         "https://www.bbc.co.uk/news/articles/c60rl5vwpk02o#1",
         "https://www.bbc.co.uk/news/articles/cvj6j812dg4no#0",
-        "https://www.bbc.co.uk/news/articles/cqj9k23rynnpo#1",
-        "https://www.bbc.co.uk/news/articles/cj1dwrxq1wndo#1"
+        "https://www.bbc.co.uk/news/articles/cqj9k23rynnpo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261015de60075",
         "https://news.web.nhk/newsweb/na/nd-20261015de60060",
         "https://news.web.nhk/newsweb/na/nd-20261015de60071",
         "https://news.web.nhk/newsweb/na/nd-20261015de60066",
@@ -438,8 +439,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261009de56954",
         "https://news.web.nhk/newsweb/na/nd-20261013de58326",
         "https://news.web.nhk/newsweb/na/nd-20261013de58308",
-        "https://news.web.nhk/newsweb/na/nd-20261013de58317",
-        "https://news.web.nhk/newsweb/na/nd-20261013de58321"
+        "https://news.web.nhk/newsweb/na/nd-20261013de58317"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-ray-ban-meta-gen3-review/",
