@@ -36,6 +36,8 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo#0",
+        "https://www.bbc.co.uk/news/articles/cmp3gnngv3e9o#1",
         "https://www.bbc.co.uk/news/videos/c63dj4p4k5dlo#0",
         "https://www.bbc.co.uk/news/articles/ckqxne2evqreo#1",
         "https://www.bbc.co.uk/news/articles/cm74pn052j2vo#1",
@@ -233,9 +235,7 @@
         "https://www.bbc.co.uk/news/articles/cm9qzwjgnjxlo#0",
         "https://www.bbc.co.uk/news/articles/cxvgdql2y7zqo#1",
         "https://www.bbc.co.uk/news/articles/cwzrdnrrmgymo#1",
-        "https://www.bbc.co.uk/news/articles/ck5yn0n14r8do#0",
-        "https://www.bbc.co.uk/news/articles/c6x29kydnzv0o#1",
-        "https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo#0"
+        "https://www.bbc.co.uk/news/articles/ck5yn0n14r8do#0"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20261015de59683",
@@ -440,6 +440,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261012de58057"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2610-iphone-duo-additional-production/",
         "https://www.gizmodo.jp/article/2610-insta360-go-ultra-review/",
         "https://www.gizmodo.jp/article/2610-meta-muse-ai-agent-review/",
         "https://www.gizmodo.jp/article/crime-prevention_tv_simulator_-atj/",
@@ -638,8 +639,7 @@
         "https://www.gizmodo.jp/article/43025319-741d-436a-94d1-a1d7c844df12/",
         "https://www.gizmodo.jp/article/2610-openai-textgrain-watermark/",
         "https://www.gizmodo.jp/article/moondrop-evo2-wireless-adapter/",
-        "https://www.gizmodo.jp/article/2610-georgia-cafe-water-black/",
-        "https://www.gizmodo.jp/article/beautiful-photos-from-our-solar-system-kmf/"
+        "https://www.gizmodo.jp/article/2610-georgia-cafe-water-black/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "5koLraN_4Kk",
