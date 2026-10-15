@@ -238,6 +238,7 @@
         "https://www.bbc.co.uk/news/videos/c80405zkgyqvo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261015de59803",
         "https://news.web.nhk/newsweb/na/nd-20261015de59780",
         "https://news.web.nhk/newsweb/na/nd-20261015de59731",
         "https://news.web.nhk/newsweb/na/nd-20261015de59578",
@@ -436,10 +437,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261009de57272",
         "https://news.web.nhk/newsweb/na/nd-20261012de58077",
         "https://news.web.nhk/newsweb/na/nd-20261011de58022",
-        "https://news.web.nhk/newsweb/na/nd-20261012de58066",
-        "https://news.web.nhk/newsweb/na/nd-20261011de58008"
+        "https://news.web.nhk/newsweb/na/nd-20261012de58066"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2610-yamazaki-lunch-bag/",
         "https://www.gizmodo.jp/article/rorry-auradock-m2-10000/",
         "https://www.gizmodo.jp/article/retro-song-bird-game-boy-speaker/",
         "https://www.gizmodo.jp/article/cheerplay-air-mouse/",
@@ -638,8 +639,7 @@
         "https://www.gizmodo.jp/article/tickey-color-e-paper-badge/",
         "https://www.gizmodo.jp/article/boston-dynamics-atlas-four-finger-hand/",
         "https://www.gizmodo.jp/article/work-using-starlink-kwc/",
-        "https://www.gizmodo.jp/article/2610-anker-usb-c-hub-display/",
-        "https://www.gizmodo.jp/article/43025319-741d-436a-94d1-a1d7c844df12/"
+        "https://www.gizmodo.jp/article/2610-anker-usb-c-hub-display/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "5koLraN_4Kk",
