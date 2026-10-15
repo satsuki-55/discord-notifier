@@ -238,6 +238,7 @@
         "https://www.bbc.co.uk/news/articles/cxnv03e9nmp4o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261015de59695",
         "https://news.web.nhk/newsweb/na/nd-20261015de59683",
         "https://news.web.nhk/newsweb/na/nd-20261015de59586",
         "https://news.web.nhk/newsweb/na/nd-20261015de59583",
@@ -436,10 +437,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261011de58041",
         "https://news.web.nhk/newsweb/na/nd-20261011de58038",
         "https://news.web.nhk/newsweb/na/nd-20261011de58036",
-        "https://news.web.nhk/newsweb/na/nd-20261011de58042",
-        "https://news.web.nhk/newsweb/na/nd-20261012de58057"
+        "https://news.web.nhk/newsweb/na/nd-20261011de58042"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/cheerplay-air-mouse/",
         "https://www.gizmodo.jp/article/2610-iphone-duo-additional-production/",
         "https://www.gizmodo.jp/article/2610-insta360-go-ultra-review/",
         "https://www.gizmodo.jp/article/2610-meta-muse-ai-agent-review/",
@@ -638,8 +639,7 @@
         "https://www.gizmodo.jp/article/2610-anker-usb-c-hub-display/",
         "https://www.gizmodo.jp/article/43025319-741d-436a-94d1-a1d7c844df12/",
         "https://www.gizmodo.jp/article/2610-openai-textgrain-watermark/",
-        "https://www.gizmodo.jp/article/moondrop-evo2-wireless-adapter/",
-        "https://www.gizmodo.jp/article/2610-georgia-cafe-water-black/"
+        "https://www.gizmodo.jp/article/moondrop-evo2-wireless-adapter/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "5koLraN_4Kk",
