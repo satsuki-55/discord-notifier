@@ -238,6 +238,7 @@
         "https://www.bbc.co.uk/news/articles/cm4g101nlp2no#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261015de59715",
         "https://news.web.nhk/newsweb/na/nd-20261015de59695",
         "https://news.web.nhk/newsweb/na/nd-20261015de59683",
         "https://news.web.nhk/newsweb/na/nd-20261015de59586",
@@ -436,8 +437,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261012de58051",
         "https://news.web.nhk/newsweb/na/nd-20261011de58041",
         "https://news.web.nhk/newsweb/na/nd-20261011de58038",
-        "https://news.web.nhk/newsweb/na/nd-20261011de58036",
-        "https://news.web.nhk/newsweb/na/nd-20261011de58042"
+        "https://news.web.nhk/newsweb/na/nd-20261011de58036"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/cheerplay-air-mouse/",
