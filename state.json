@@ -238,6 +238,7 @@
         "https://www.bbc.co.uk/news/videos/c80405zkgyqvo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261015de59824",
         "https://news.web.nhk/newsweb/na/nd-20261015de59792",
         "https://news.web.nhk/newsweb/na/nd-20261015de59854",
         "https://news.web.nhk/newsweb/na/nd-20261015de59844",
@@ -436,10 +437,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261002de53933",
         "https://news.web.nhk/newsweb/na/nd-20261012de58125",
         "https://news.web.nhk/newsweb/na/nd-20261012de58112",
-        "https://news.web.nhk/newsweb/na/nd-20261012de58117",
-        "https://news.web.nhk/newsweb/na/nd-20261012de58100"
+        "https://news.web.nhk/newsweb/na/nd-20261012de58117"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2610-solar-powered-item-tracker/",
         "https://www.gizmodo.jp/article/2610-starlink-mobile-carrier/",
         "https://www.gizmodo.jp/article/2610-yamazaki-lunch-bag/",
         "https://www.gizmodo.jp/article/rorry-auradock-m2-10000/",
@@ -638,8 +639,7 @@
         "https://www.gizmodo.jp/article/2610-toshiba-ai-hdd-expansion/",
         "https://www.gizmodo.jp/article/2609-lht-kensington-slim-blade-lts/",
         "https://www.gizmodo.jp/article/tickey-color-e-paper-badge/",
-        "https://www.gizmodo.jp/article/boston-dynamics-atlas-four-finger-hand/",
-        "https://www.gizmodo.jp/article/work-using-starlink-kwc/"
+        "https://www.gizmodo.jp/article/boston-dynamics-atlas-four-finger-hand/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "5koLraN_4Kk",
