@@ -240,6 +240,7 @@
         "https://www.bbc.co.uk/news/videos/cqpvgrkp0xpyo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261015de59932",
         "https://news.web.nhk/newsweb/na/nd-20261015de60014",
         "https://news.web.nhk/newsweb/na/nd-20261015de59778",
         "https://news.web.nhk/newsweb/na/nd-20261015de60015",
@@ -438,8 +439,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261013de58310",
         "https://news.web.nhk/newsweb/na/nd-20261013de58295",
         "https://news.web.nhk/newsweb/na/nd-20261012de58239",
-        "https://news.web.nhk/newsweb/na/nd-20261012de58173",
-        "https://news.web.nhk/newsweb/na/nd-20261012de58223"
+        "https://news.web.nhk/newsweb/na/nd-20261012de58173"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/mizuno_hyper-warp-2_review/",
