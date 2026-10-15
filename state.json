@@ -36,6 +36,8 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cy7e8mpdxpro#0",
+        "https://www.bbc.co.uk/news/articles/cx30eq0vyed4o#1",
         "https://www.bbc.co.uk/news/videos/ck78pj2qy42po#1",
         "https://www.bbc.co.uk/news/articles/ck1exgw3j115o#1",
         "https://www.bbc.co.uk/news/articles/c574e228vlygo#1",
@@ -233,9 +235,7 @@
         "https://www.bbc.co.uk/news/articles/cqj6j7wlxd5eo#0",
         "https://www.bbc.co.uk/news/videos/c80405zkgyqvo#0",
         "https://www.bbc.co.uk/news/articles/c8wy9d940pyko#1",
-        "https://www.bbc.co.uk/news/articles/cm9qzwjgnjxlo#1",
-        "https://www.bbc.co.uk/news/articles/c6n4ejx8x1z7o#1",
-        "https://www.bbc.co.uk/news/articles/c9y7lgg2vdggo#0"
+        "https://www.bbc.co.uk/news/articles/cm9qzwjgnjxlo#1"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20261015de59578",
@@ -440,6 +440,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261011de58040"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/rorry-auradock-m2-10000/",
         "https://www.gizmodo.jp/article/retro-song-bird-game-boy-speaker/",
         "https://www.gizmodo.jp/article/cheerplay-air-mouse/",
         "https://www.gizmodo.jp/article/2610-iphone-duo-additional-production/",
@@ -638,8 +639,7 @@
         "https://www.gizmodo.jp/article/boston-dynamics-atlas-four-finger-hand/",
         "https://www.gizmodo.jp/article/work-using-starlink-kwc/",
         "https://www.gizmodo.jp/article/2610-anker-usb-c-hub-display/",
-        "https://www.gizmodo.jp/article/43025319-741d-436a-94d1-a1d7c844df12/",
-        "https://www.gizmodo.jp/article/2610-openai-textgrain-watermark/"
+        "https://www.gizmodo.jp/article/43025319-741d-436a-94d1-a1d7c844df12/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "5koLraN_4Kk",
