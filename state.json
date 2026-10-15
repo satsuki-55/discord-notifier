@@ -241,6 +241,7 @@
         "https://www.bbc.co.uk/news/articles/c1wxdjx27ypo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261016de60180",
         "https://news.web.nhk/newsweb/na/nd-20261016de60174",
         "https://news.web.nhk/newsweb/na/nd-20261016de60165",
         "https://news.web.nhk/newsweb/na/nd-20261016de60166",
@@ -439,8 +440,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261013de58699",
         "https://news.web.nhk/newsweb/na/nd-20261013de58647",
         "https://news.web.nhk/newsweb/na/nd-20261013de58640",
-        "https://news.web.nhk/newsweb/na/nd-20261013de58643",
-        "https://news.web.nhk/newsweb/na/nd-20261013de58380"
+        "https://news.web.nhk/newsweb/na/nd-20261013de58643"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/microsoft-predicts-these-jobs-are-safe-from-ai-znx/",
