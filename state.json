@@ -241,6 +241,7 @@
         "https://www.bbc.co.uk/news/articles/c8y56re7ldqyo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261015de60111",
         "https://news.web.nhk/newsweb/na/nd-20261015de60104",
         "https://news.web.nhk/newsweb/na/nd-20261015de60105",
         "https://news.web.nhk/newsweb/na/nd-20261015de60099",
@@ -439,8 +440,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261009de56967",
         "https://news.web.nhk/newsweb/na/nd-20261013de58347",
         "https://news.web.nhk/newsweb/na/nd-20261013de58337",
-        "https://news.web.nhk/newsweb/na/nd-20261013de58344",
-        "https://news.web.nhk/newsweb/na/nd-20261013de58340"
+        "https://news.web.nhk/newsweb/na/nd-20261013de58344"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/scaj2026-tasting/",
