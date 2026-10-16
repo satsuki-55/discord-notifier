@@ -40,6 +40,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/videos/cjy56wl6l90ro#1",
         "https://www.bbc.co.uk/news/articles/cqkg53v29005o#1",
         "https://www.bbc.co.uk/news/articles/c58jz174w89ro#0",
         "https://www.bbc.co.uk/news/articles/cq1j3wdxy48ro#0",
@@ -238,10 +239,10 @@
         "https://www.bbc.co.uk/news/articles/ckj0lzeen8z3o#1",
         "https://www.bbc.co.uk/news/articles/cm2d6e62p49do#1",
         "https://www.bbc.co.uk/news/articles/c6x2v0vn7r1do#1",
-        "https://www.bbc.co.uk/news/articles/crn8wyl4n42yo#0",
-        "https://www.bbc.co.uk/news/articles/ck20r9qpw505o#0"
+        "https://www.bbc.co.uk/news/articles/crn8wyl4n42yo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261016de60636",
         "https://news.web.nhk/newsweb/na/nd-20261016de60623",
         "https://news.web.nhk/newsweb/na/nd-20261016de60531",
         "https://news.web.nhk/newsweb/na/nd-20261016de60602",
@@ -440,10 +441,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261014de59061",
         "https://news.web.nhk/newsweb/na/nd-20261014de59116",
         "https://news.web.nhk/newsweb/na/nd-20260929de53076",
-        "https://news.web.nhk/newsweb/na/nd-20261014de59000",
-        "https://news.web.nhk/newsweb/na/nd-20261014de58993"
+        "https://news.web.nhk/newsweb/na/nd-20261014de59000"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/nextorage-microsd-express-1tb-amazon-sale/",
         "https://www.gizmodo.jp/article/iphone-18-tilta-khronos-case/",
         "https://www.gizmodo.jp/article/google-maps-mclaren-f1-car/",
         "https://www.gizmodo.jp/article/comu-action-pro/",
@@ -642,8 +643,7 @@
         "https://www.gizmodo.jp/article/openai-is-adding-text-watermarks-in-the-eu-because-regulation-works/",
         "https://www.gizmodo.jp/article/2610-chatgpt-audio-transcription-update/",
         "https://www.gizmodo.jp/article/astronauts-lost-item-yke/",
-        "https://www.gizmodo.jp/article/2610-panasonic-nanocare-eh-nb70/",
-        "https://www.gizmodo.jp/article/digger_movie_press_conference_tom-cruise_inarritu/"
+        "https://www.gizmodo.jp/article/2610-panasonic-nanocare-eh-nb70/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "FmVWaA-TMF0",
