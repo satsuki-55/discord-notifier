@@ -40,6 +40,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/ck8dz6m1d2n6o#1",
         "https://www.bbc.co.uk/news/articles/ck8dz6m1d2n6o#0",
         "https://www.bbc.co.uk/news/articles/cw8rzpl1ldkdo#1",
         "https://www.bbc.co.uk/news/articles/cq0ld4g0309go#1",
@@ -238,8 +239,7 @@
         "https://www.bbc.co.uk/news/articles/cky93v98x7jjo#1",
         "https://www.bbc.co.uk/news/articles/c83vq9vpwwr1o#1",
         "https://www.bbc.co.uk/news/videos/cmx280x092x7o#1",
-        "https://www.bbc.co.uk/news/articles/cqx298e5rr3po#0",
-        "https://www.bbc.co.uk/news/articles/cqx298e5rr3po#1"
+        "https://www.bbc.co.uk/news/articles/cqx298e5rr3po#0"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20261016de60707",
@@ -444,6 +444,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260930de53320"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/deb5b5f7-9dd1-4f6c-a1f8-24a77c92c42e/",
         "https://www.gizmodo.jp/article/iphone-18-18pro-rumors-summary/",
         "https://www.gizmodo.jp/article/2610-fujifilm-instax-square-2/",
         "https://www.gizmodo.jp/article/garmin_marq-gen-3/",
@@ -642,8 +643,7 @@
         "https://www.gizmodo.jp/article/2610-elecom-left-hand-device-hub/",
         "https://www.gizmodo.jp/article/ecoflow-power-hat-review-mhh/",
         "https://www.gizmodo.jp/article/brabus-dab-motors-fragment-ev-bike/",
-        "https://www.gizmodo.jp/article/2610-pimax-crystal-pro-wireless-vr/",
-        "https://www.gizmodo.jp/article/openai-is-adding-text-watermarks-in-the-eu-because-regulation-works/"
+        "https://www.gizmodo.jp/article/2610-pimax-crystal-pro-wireless-vr/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "FmVWaA-TMF0",
