@@ -40,6 +40,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cq2d6e56n85go#1",
         "https://www.bbc.co.uk/news/articles/cq8jzgl7zz9po#0",
         "https://www.bbc.co.uk/news/articles/c6zxj47vwrdno#1",
         "https://www.bbc.co.uk/news/articles/cqze4l9l2eywo#1",
@@ -238,10 +239,10 @@
         "https://www.bbc.co.uk/news/articles/ck86zje2z4pwo#0",
         "https://www.bbc.co.uk/news/articles/cm4g1rekpgnjo#0",
         "https://www.bbc.co.uk/news/articles/ck5yng9nl9mro#1",
-        "https://www.bbc.co.uk/news/articles/crpdgzxz38nlo#1",
-        "https://www.bbc.co.uk/news/articles/c9m26xp4zp8jo#1"
+        "https://www.bbc.co.uk/news/articles/crpdgzxz38nlo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261016de60484",
         "https://news.web.nhk/newsweb/na/nd-20261016de60468",
         "https://news.web.nhk/newsweb/na/nd-20261016de60463",
         "https://news.web.nhk/newsweb/na/nd-20261016de60437",
@@ -440,8 +441,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261013de58876",
         "https://news.web.nhk/newsweb/na/nd-20261014de58957",
         "https://news.web.nhk/newsweb/na/nd-20261013de58890",
-        "https://news.web.nhk/newsweb/na/nd-20261014de58941",
-        "https://news.web.nhk/newsweb/na/nd-20261014de58936"
+        "https://news.web.nhk/newsweb/na/nd-20261014de58941"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/tesla-flying-roadster-spacex/",
