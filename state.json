@@ -242,6 +242,7 @@
         "https://www.bbc.co.uk/news/articles/c8vgxpwlx9wko#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261016de60707",
         "https://news.web.nhk/newsweb/na/nd-20261016de60397",
         "https://news.web.nhk/newsweb/na/nd-20261016de60674",
         "https://news.web.nhk/newsweb/na/nd-20261016de60669",
@@ -440,8 +441,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261014de59229",
         "https://news.web.nhk/newsweb/na/nd-20261014de59211",
         "https://news.web.nhk/newsweb/na/nd-20261014de59181",
-        "https://news.web.nhk/newsweb/na/nd-20260930de53320",
-        "https://news.web.nhk/newsweb/na/nd-20261014de59173"
+        "https://news.web.nhk/newsweb/na/nd-20260930de53320"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/iphone-18-18pro-rumors-summary/",
