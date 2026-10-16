@@ -242,6 +242,8 @@
         "https://www.bbc.co.uk/news/articles/crx23y3d970vo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261016de60623",
+        "https://news.web.nhk/newsweb/na/nd-20261016de60531",
         "https://news.web.nhk/newsweb/na/nd-20261016de60602",
         "https://news.web.nhk/newsweb/na/nd-20261016de60600",
         "https://news.web.nhk/newsweb/na/nd-20261016de60556",
@@ -439,9 +441,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261014de59116",
         "https://news.web.nhk/newsweb/na/nd-20260929de53076",
         "https://news.web.nhk/newsweb/na/nd-20261014de59000",
-        "https://news.web.nhk/newsweb/na/nd-20261014de58993",
-        "https://news.web.nhk/newsweb/na/nd-20261014de59006",
-        "https://news.web.nhk/newsweb/na/nd-20261014de58989"
+        "https://news.web.nhk/newsweb/na/nd-20261014de58993"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/iphone-18-tilta-khronos-case/",
@@ -652,6 +652,7 @@
         "Ih1O3vIgcmA"
     ],
     "youtube:UCuG5vlhQYE5VE-pTTxINi3g": [
+        "NvHQS1obeBQ",
         "s8n2mooCTVY",
         "dZQLLFxF1j0",
         "jzI1UDpar1U",
