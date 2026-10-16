@@ -242,6 +242,7 @@
         "https://www.bbc.co.uk/news/videos/cmx280x092x7o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261016de60742",
         "https://news.web.nhk/newsweb/na/nd-20261016de60688",
         "https://news.web.nhk/newsweb/na/nd-20261016de60707",
         "https://news.web.nhk/newsweb/na/nd-20261016de60397",
@@ -440,8 +441,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261014de59353",
         "https://news.web.nhk/newsweb/na/nd-20261014de59291",
         "https://news.web.nhk/newsweb/na/nd-20261014de59229",
-        "https://news.web.nhk/newsweb/na/nd-20261014de59211",
-        "https://news.web.nhk/newsweb/na/nd-20261014de59181"
+        "https://news.web.nhk/newsweb/na/nd-20261014de59211"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-resident-evil-movie-review/",
