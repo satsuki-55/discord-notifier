@@ -242,6 +242,7 @@
         "https://www.bbc.co.uk/news/articles/crx23y3d970vo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261016de60772",
         "https://news.web.nhk/newsweb/na/nd-20261016de60773",
         "https://news.web.nhk/newsweb/na/nd-20261016de60764",
         "https://news.web.nhk/newsweb/na/nd-20261016de60691",
@@ -440,8 +441,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261014de59416",
         "https://news.web.nhk/newsweb/na/nd-20261014de59388",
         "https://news.web.nhk/newsweb/na/nd-20261014de59160",
-        "https://news.web.nhk/newsweb/na/nd-20261014de59406",
-        "https://news.web.nhk/newsweb/na/nd-20261014de59164"
+        "https://news.web.nhk/newsweb/na/nd-20261014de59406"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-hanes-sweats-kuro-crewneck-sweatshirt/",
