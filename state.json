@@ -241,6 +241,7 @@
         "https://www.bbc.co.uk/news/videos/c6073z5rvrk3o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261016de60303",
         "https://news.web.nhk/newsweb/na/nd-20261016de60286",
         "https://news.web.nhk/newsweb/na/nd-20261016de60274",
         "https://news.web.nhk/newsweb/na/nd-20261016de60253",
@@ -439,10 +440,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261013de58690",
         "https://news.web.nhk/newsweb/na/nd-20261013de58826",
         "https://news.web.nhk/newsweb/na/nd-20261013de58526",
-        "https://news.web.nhk/newsweb/na/nd-20261013de58822",
-        "https://news.web.nhk/newsweb/na/nd-20261013de58808"
+        "https://news.web.nhk/newsweb/na/nd-20261013de58822"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2610-cup-noodle-pro-prime-thanksgiving/",
         "https://www.gizmodo.jp/article/population-capacity-xhw/",
         "https://www.gizmodo.jp/article/2610-laser-rifle-scope-hud/",
         "https://www.gizmodo.jp/article/how-to-change-copilot-key/",
@@ -641,8 +642,7 @@
         "https://www.gizmodo.jp/article/2610-renault-r8-gordini-ev-revival/",
         "https://www.gizmodo.jp/article/2610-best-sleep-earbuds-duva-one/",
         "https://www.gizmodo.jp/article/2610-cassettone-mini-poor-mans-mellotron/",
-        "https://www.gizmodo.jp/article/2610-thrustmaster-t-gt-3-gt7-direct-drive-wheel/",
-        "https://www.gizmodo.jp/article/2610-switch2-microsd-express-512gb/"
+        "https://www.gizmodo.jp/article/2610-thrustmaster-t-gt-3-gt7-direct-drive-wheel/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "FmVWaA-TMF0",
