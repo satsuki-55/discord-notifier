@@ -241,6 +241,7 @@
         "https://www.bbc.co.uk/news/articles/cqpvgyz30zepo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261016de60253",
         "https://news.web.nhk/newsweb/na/nd-20261016de60214",
         "https://news.web.nhk/newsweb/na/nd-20261016de60210",
         "https://news.web.nhk/newsweb/na/nd-20261016de60209",
@@ -439,8 +440,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261013de58822",
         "https://news.web.nhk/newsweb/na/nd-20261013de58808",
         "https://news.web.nhk/newsweb/na/nd-20261013de58800",
-        "https://news.web.nhk/newsweb/na/nd-20261013de58789",
-        "https://news.web.nhk/newsweb/na/nd-20261013de58781"
+        "https://news.web.nhk/newsweb/na/nd-20261013de58789"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-laser-rifle-scope-hud/",
