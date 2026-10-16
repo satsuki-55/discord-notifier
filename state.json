@@ -242,6 +242,7 @@
         "https://www.bbc.co.uk/news/articles/c6gr80rk1yyko#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261016de60234",
         "https://news.web.nhk/newsweb/na/nd-20261016de60395",
         "https://news.web.nhk/newsweb/na/nd-20261016de60353",
         "https://news.web.nhk/newsweb/na/nd-20261016de60330",
@@ -440,8 +441,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261013de58351",
         "https://news.web.nhk/newsweb/na/nd-20261014de58933",
         "https://news.web.nhk/newsweb/na/nd-20261013de58917",
-        "https://news.web.nhk/newsweb/na/nd-20261013de58907",
-        "https://news.web.nhk/newsweb/na/nd-20261013de58896"
+        "https://news.web.nhk/newsweb/na/nd-20261013de58907"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/ai-companies-are-preparing-to-shape-the-rules-after-everything-goes-wrong/",
