@@ -242,6 +242,7 @@
         "https://www.bbc.co.uk/news/articles/c6gr80rk1yyko#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261016de60258",
         "https://news.web.nhk/newsweb/na/nd-20261016de60340",
         "https://news.web.nhk/newsweb/na/nd-20261016de60305",
         "https://news.web.nhk/newsweb/na/nd-20261016de60344",
@@ -440,8 +441,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261013de58755",
         "https://news.web.nhk/newsweb/na/nd-20261013de58858",
         "https://news.web.nhk/newsweb/na/nd-20261013de58875",
-        "https://news.web.nhk/newsweb/na/nd-20261013de58867",
-        "https://news.web.nhk/newsweb/na/nd-20261013de58873"
+        "https://news.web.nhk/newsweb/na/nd-20261013de58867"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-gta-6-amazon-discount-preorder/",
