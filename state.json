@@ -242,6 +242,7 @@
         "https://www.bbc.co.uk/news/articles/c9m26xp4zp8jo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261016de60468",
         "https://news.web.nhk/newsweb/na/nd-20261016de60463",
         "https://news.web.nhk/newsweb/na/nd-20261016de60437",
         "https://news.web.nhk/newsweb/na/nd-20261016de60432",
@@ -440,8 +441,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261014de58957",
         "https://news.web.nhk/newsweb/na/nd-20261013de58890",
         "https://news.web.nhk/newsweb/na/nd-20261014de58941",
-        "https://news.web.nhk/newsweb/na/nd-20261014de58936",
-        "https://news.web.nhk/newsweb/na/nd-20261014de58935"
+        "https://news.web.nhk/newsweb/na/nd-20261014de58936"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/ceatec-yamagata-university/",
