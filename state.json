@@ -40,6 +40,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cmde8dpg8g0no#0",
         "https://www.bbc.co.uk/news/videos/c32l4kqg2q4ro#1",
         "https://www.bbc.co.uk/news/articles/cm89zp48k4kzo#1",
         "https://www.bbc.co.uk/news/articles/cm89zp48k4kzo#0",
@@ -238,10 +239,10 @@
         "https://www.bbc.co.uk/news/articles/c9m26xp4zp8jo#0",
         "https://www.bbc.co.uk/news/articles/cvj6j812dg4no#1",
         "https://www.bbc.co.uk/news/articles/c6gr80rk1yyko#1",
-        "https://www.bbc.co.uk/news/articles/ckdd8egder5ro#0",
-        "https://www.bbc.co.uk/news/articles/c6gr80rk1yyko#0"
+        "https://www.bbc.co.uk/news/articles/ckdd8egder5ro#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261016de60357",
         "https://news.web.nhk/newsweb/na/nd-20261016de60258",
         "https://news.web.nhk/newsweb/na/nd-20261016de60340",
         "https://news.web.nhk/newsweb/na/nd-20261016de60305",
@@ -440,8 +441,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261013de58896",
         "https://news.web.nhk/newsweb/na/nd-20261013de58755",
         "https://news.web.nhk/newsweb/na/nd-20261013de58858",
-        "https://news.web.nhk/newsweb/na/nd-20261013de58875",
-        "https://news.web.nhk/newsweb/na/nd-20261013de58867"
+        "https://news.web.nhk/newsweb/na/nd-20261013de58875"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-gta-6-amazon-discount-preorder/",
