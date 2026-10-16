@@ -242,6 +242,7 @@
         "https://www.bbc.co.uk/news/articles/crkg7q97z078o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261017de60814",
         "https://news.web.nhk/newsweb/na/nd-20261017de60817",
         "https://news.web.nhk/newsweb/na/nd-20261017de60815",
         "https://news.web.nhk/newsweb/na/nd-20261016de60703",
@@ -440,8 +441,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261014de59178",
         "https://news.web.nhk/newsweb/na/nd-20261014de59277",
         "https://news.web.nhk/newsweb/na/nd-20261015de59540",
-        "https://news.web.nhk/newsweb/na/nd-20261015de59538",
-        "https://news.web.nhk/newsweb/na/nd-20261015de59536"
+        "https://news.web.nhk/newsweb/na/nd-20261015de59538"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/iphone-duo-repair-cost/",
