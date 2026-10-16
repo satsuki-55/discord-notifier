@@ -242,6 +242,8 @@
         "https://www.bbc.co.uk/news/articles/crn8wyl4n42yo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261016de60516",
+        "https://news.web.nhk/newsweb/na/nd-20261016de60616",
         "https://news.web.nhk/newsweb/na/nd-20261016de60636",
         "https://news.web.nhk/newsweb/na/nd-20261016de60623",
         "https://news.web.nhk/newsweb/na/nd-20261016de60531",
@@ -439,11 +441,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261014de59111",
         "https://news.web.nhk/newsweb/na/nd-20261014de59083",
         "https://news.web.nhk/newsweb/na/nd-20261014de59061",
-        "https://news.web.nhk/newsweb/na/nd-20261014de59116",
-        "https://news.web.nhk/newsweb/na/nd-20260929de53076",
-        "https://news.web.nhk/newsweb/na/nd-20261014de59000"
+        "https://news.web.nhk/newsweb/na/nd-20261014de59116"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/garmin_marq-gen-3/",
         "https://www.gizmodo.jp/article/nextorage-microsd-express-1tb-amazon-sale/",
         "https://www.gizmodo.jp/article/iphone-18-tilta-khronos-case/",
         "https://www.gizmodo.jp/article/google-maps-mclaren-f1-car/",
@@ -642,8 +643,7 @@
         "https://www.gizmodo.jp/article/2610-pimax-crystal-pro-wireless-vr/",
         "https://www.gizmodo.jp/article/openai-is-adding-text-watermarks-in-the-eu-because-regulation-works/",
         "https://www.gizmodo.jp/article/2610-chatgpt-audio-transcription-update/",
-        "https://www.gizmodo.jp/article/astronauts-lost-item-yke/",
-        "https://www.gizmodo.jp/article/2610-panasonic-nanocare-eh-nb70/"
+        "https://www.gizmodo.jp/article/astronauts-lost-item-yke/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "FmVWaA-TMF0",
