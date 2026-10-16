@@ -242,6 +242,8 @@
         "https://www.bbc.co.uk/news/articles/cvj6j812dg4no#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261016de60417",
+        "https://news.web.nhk/newsweb/na/nd-20261016de60409",
         "https://news.web.nhk/newsweb/na/nd-20261016de60420",
         "https://news.web.nhk/newsweb/na/nd-20261016de60405",
         "https://news.web.nhk/newsweb/na/nd-20261016de60234",
@@ -439,9 +441,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261014de58921",
         "https://news.web.nhk/newsweb/na/nd-20261014de58939",
         "https://news.web.nhk/newsweb/na/nd-20261014de58937",
-        "https://news.web.nhk/newsweb/na/nd-20261014de58923",
-        "https://news.web.nhk/newsweb/na/nd-20261013de58351",
-        "https://news.web.nhk/newsweb/na/nd-20261014de58933"
+        "https://news.web.nhk/newsweb/na/nd-20261014de58923"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-ceatec_murata-fat-sensor-patch/",
