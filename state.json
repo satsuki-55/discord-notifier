@@ -40,6 +40,8 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cq33xd6j1dv5o#0",
+        "https://www.bbc.co.uk/news/articles/cwg7x1prldedo#1",
         "https://www.bbc.co.uk/news/articles/cq2d6e56n85go#1",
         "https://www.bbc.co.uk/news/articles/cq8jzgl7zz9po#0",
         "https://www.bbc.co.uk/news/articles/c6zxj47vwrdno#1",
@@ -237,9 +239,7 @@
         "https://www.bbc.co.uk/weather/articles/cxvgdq0jj8d2o#1",
         "https://www.bbc.co.uk/news/articles/c8040531w45eo#0",
         "https://www.bbc.co.uk/news/articles/ck86zje2z4pwo#0",
-        "https://www.bbc.co.uk/news/articles/cm4g1rekpgnjo#0",
-        "https://www.bbc.co.uk/news/articles/ck5yng9nl9mro#1",
-        "https://www.bbc.co.uk/news/articles/crpdgzxz38nlo#1"
+        "https://www.bbc.co.uk/news/articles/cm4g1rekpgnjo#0"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20261016de60515",
@@ -444,6 +444,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261013de58890"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/google-maps-mclaren-f1-car/",
         "https://www.gizmodo.jp/article/comu-action-pro/",
         "https://www.gizmodo.jp/article/tesla-flying-roadster-spacex/",
         "https://www.gizmodo.jp/article/2610-ugreen-revodok-pro-209-dock/",
@@ -642,8 +643,7 @@
         "https://www.gizmodo.jp/article/astronauts-lost-item-yke/",
         "https://www.gizmodo.jp/article/2610-panasonic-nanocare-eh-nb70/",
         "https://www.gizmodo.jp/article/digger_movie_press_conference_tom-cruise_inarritu/",
-        "https://www.gizmodo.jp/article/something-deep-inside-earth-keeps-messing-with-the-length-of-our-days/",
-        "https://www.gizmodo.jp/article/2610-tesla-optimus-production-issues-hand/"
+        "https://www.gizmodo.jp/article/something-deep-inside-earth-keeps-messing-with-the-length-of-our-days/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "FmVWaA-TMF0",
