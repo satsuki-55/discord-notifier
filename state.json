@@ -242,6 +242,7 @@
         "https://www.bbc.co.uk/news/articles/cm4g1rekpgnjo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261016de60239",
         "https://news.web.nhk/newsweb/na/nd-20261016de60543",
         "https://news.web.nhk/newsweb/na/nd-20261016de60515",
         "https://news.web.nhk/newsweb/na/nd-20261016de60484",
@@ -440,8 +441,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261014de58989",
         "https://news.web.nhk/newsweb/na/nd-20261014de58969",
         "https://news.web.nhk/newsweb/na/nd-20261014de58971",
-        "https://news.web.nhk/newsweb/na/nd-20261013de58876",
-        "https://news.web.nhk/newsweb/na/nd-20261014de58957"
+        "https://news.web.nhk/newsweb/na/nd-20261013de58876"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/google-maps-mclaren-f1-car/",
