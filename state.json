@@ -241,6 +241,7 @@
         "https://www.bbc.co.uk/news/videos/c6073z5rvrk3o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261016de60350",
         "https://news.web.nhk/newsweb/na/nd-20261016de60299",
         "https://news.web.nhk/newsweb/na/nd-20261016de60289",
         "https://news.web.nhk/newsweb/na/nd-20261016de60212",
@@ -439,8 +440,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261013de58861",
         "https://news.web.nhk/newsweb/na/nd-20261013de58827",
         "https://news.web.nhk/newsweb/na/nd-20261013de58849",
-        "https://news.web.nhk/newsweb/na/nd-20261013de58830",
-        "https://news.web.nhk/newsweb/na/nd-20261013de58690"
+        "https://news.web.nhk/newsweb/na/nd-20261013de58830"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-cup-noodle-pro-prime-thanksgiving/",
