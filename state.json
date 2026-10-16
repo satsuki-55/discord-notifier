@@ -242,6 +242,7 @@
         "https://www.bbc.co.uk/news/articles/c80405r93w42o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261016de60764",
         "https://news.web.nhk/newsweb/na/nd-20261016de60691",
         "https://news.web.nhk/newsweb/na/nd-20261016de60399",
         "https://news.web.nhk/newsweb/na/nd-20261016de60749",
@@ -440,8 +441,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261014de59160",
         "https://news.web.nhk/newsweb/na/nd-20261014de59406",
         "https://news.web.nhk/newsweb/na/nd-20261014de59164",
-        "https://news.web.nhk/newsweb/na/nd-20261014de59049",
-        "https://news.web.nhk/newsweb/na/nd-20261014de59308"
+        "https://news.web.nhk/newsweb/na/nd-20261014de59049"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-dyson-hair-dryer-sale/",
