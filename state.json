@@ -40,6 +40,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cmlyl889jqzjo#1",
         "https://www.bbc.co.uk/news/videos/cm2ke1v8e4geo#1",
         "https://www.bbc.co.uk/news/articles/ckz65g34wyd8o#0",
         "https://www.bbc.co.uk/news/articles/c674pz3l0e73o#1",
@@ -238,10 +239,10 @@
         "https://www.bbc.co.uk/news/articles/cw5yn8rn04ljo#0",
         "https://www.bbc.co.uk/news/articles/c9rky2m7r62do#0",
         "https://www.bbc.co.uk/news/articles/c80405r93w42o#1",
-        "https://www.bbc.co.uk/news/articles/crkg7q97z078o#0",
-        "https://www.bbc.co.uk/news/articles/cx4g125d81djo#1"
+        "https://www.bbc.co.uk/news/articles/crkg7q97z078o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261017de60801",
         "https://news.web.nhk/newsweb/na/nd-20261017de60797",
         "https://news.web.nhk/newsweb/na/nd-20261017de60796",
         "https://news.web.nhk/newsweb/na/nd-20261017de60791",
@@ -440,8 +441,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261014de59486",
         "https://news.web.nhk/newsweb/na/nd-20261014de59468",
         "https://news.web.nhk/newsweb/na/nd-20261014de59458",
-        "https://news.web.nhk/newsweb/na/nd-20261014de59475",
-        "https://news.web.nhk/newsweb/na/nd-20261014de59476"
+        "https://news.web.nhk/newsweb/na/nd-20261014de59475"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-hanes-sweats-kuro-crewneck-sweatshirt/",
