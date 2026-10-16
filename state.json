@@ -40,6 +40,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c2l8jpzwv9jo#1",
         "https://www.bbc.co.uk/news/articles/cmde8dpg8g0no#0",
         "https://www.bbc.co.uk/news/videos/c32l4kqg2q4ro#1",
         "https://www.bbc.co.uk/news/articles/cm89zp48k4kzo#1",
@@ -238,10 +239,10 @@
         "https://www.bbc.co.uk/news/articles/c9m26xp4zp8jo#1",
         "https://www.bbc.co.uk/news/articles/c9m26xp4zp8jo#0",
         "https://www.bbc.co.uk/news/articles/cvj6j812dg4no#1",
-        "https://www.bbc.co.uk/news/articles/c6gr80rk1yyko#1",
-        "https://www.bbc.co.uk/news/articles/ckdd8egder5ro#0"
+        "https://www.bbc.co.uk/news/articles/c6gr80rk1yyko#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261016de60330",
         "https://news.web.nhk/newsweb/na/nd-20261016de60357",
         "https://news.web.nhk/newsweb/na/nd-20261016de60258",
         "https://news.web.nhk/newsweb/na/nd-20261016de60340",
@@ -440,10 +441,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261013de58907",
         "https://news.web.nhk/newsweb/na/nd-20261013de58896",
         "https://news.web.nhk/newsweb/na/nd-20261013de58755",
-        "https://news.web.nhk/newsweb/na/nd-20261013de58858",
-        "https://news.web.nhk/newsweb/na/nd-20261013de58875"
+        "https://news.web.nhk/newsweb/na/nd-20261013de58858"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2610-energizer-flat-led-lantern/",
         "https://www.gizmodo.jp/article/2610-gta-6-amazon-discount-preorder/",
         "https://www.gizmodo.jp/article/anker-nano-travel-adapter-review/",
         "https://www.gizmodo.jp/article/beats-pokemon-pill-speaker-pikachu-mimikyu/",
@@ -642,8 +643,7 @@
         "https://www.gizmodo.jp/article/2610-fitbit-edge-specs-price-leak/",
         "https://www.gizmodo.jp/article/retro-ambient-audio-system/",
         "https://www.gizmodo.jp/article/2610-apple-new-products-october/",
-        "https://www.gizmodo.jp/article/wall-climbing-hovercraft-rc-car/",
-        "https://www.gizmodo.jp/article/2610-fire-resistant-mobile-battery-pouch/"
+        "https://www.gizmodo.jp/article/wall-climbing-hovercraft-rc-car/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "FmVWaA-TMF0",
