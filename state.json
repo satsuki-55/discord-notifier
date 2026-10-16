@@ -242,6 +242,7 @@
         "https://www.bbc.co.uk/news/articles/ckj0lzeen8z3o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261016de60661",
         "https://news.web.nhk/newsweb/na/nd-20261016de60665",
         "https://news.web.nhk/newsweb/na/nd-20261016de60650",
         "https://news.web.nhk/newsweb/na/nd-20261016de60624",
@@ -440,8 +441,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261014de58977",
         "https://news.web.nhk/newsweb/na/nd-20261014de59081",
         "https://news.web.nhk/newsweb/na/nd-20261014de59124",
-        "https://news.web.nhk/newsweb/na/nd-20261014de59035",
-        "https://news.web.nhk/newsweb/na/nd-20261014de59111"
+        "https://news.web.nhk/newsweb/na/nd-20261014de59035"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-fujifilm-instax-square-2/",
