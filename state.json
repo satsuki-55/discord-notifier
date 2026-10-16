@@ -241,6 +241,7 @@
         "https://www.bbc.co.uk/news/articles/c6d7q5z17gp5o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261016de60206",
         "https://news.web.nhk/newsweb/na/nd-20261016de60202",
         "https://news.web.nhk/newsweb/na/nd-20261016de60203",
         "https://news.web.nhk/newsweb/na/nd-20261016de60200",
@@ -439,8 +440,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261013de58781",
         "https://news.web.nhk/newsweb/na/nd-20261013de58806",
         "https://news.web.nhk/newsweb/na/nd-20261013de58803",
-        "https://news.web.nhk/newsweb/na/nd-20261008de56824",
-        "https://news.web.nhk/newsweb/na/nd-20261013de58348"
+        "https://news.web.nhk/newsweb/na/nd-20261008de56824"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-amazon-roomba-sale-discount/",
