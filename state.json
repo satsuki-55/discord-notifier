@@ -242,6 +242,7 @@
         "https://www.bbc.co.uk/news/articles/cx30eq0vyed4o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261016de60691",
         "https://news.web.nhk/newsweb/na/nd-20261016de60399",
         "https://news.web.nhk/newsweb/na/nd-20261016de60749",
         "https://news.web.nhk/newsweb/na/nd-20261016de60740",
@@ -440,8 +441,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261014de59406",
         "https://news.web.nhk/newsweb/na/nd-20261014de59164",
         "https://news.web.nhk/newsweb/na/nd-20261014de59049",
-        "https://news.web.nhk/newsweb/na/nd-20261014de59308",
-        "https://news.web.nhk/newsweb/na/nd-20261014de59353"
+        "https://news.web.nhk/newsweb/na/nd-20261014de59308"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/barefoot-expo_notace_yama-t1_review/",
