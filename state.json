@@ -242,6 +242,7 @@
         "https://www.bbc.co.uk/news/videos/c6073z5rvrk3o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261016de60373",
         "https://news.web.nhk/newsweb/na/nd-20261016de60369",
         "https://news.web.nhk/newsweb/na/nd-20261016de60368",
         "https://news.web.nhk/newsweb/na/nd-20261016de60350",
@@ -440,8 +441,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261013de58881",
         "https://news.web.nhk/newsweb/na/nd-20261013de58864",
         "https://news.web.nhk/newsweb/na/nd-20261013de58868",
-        "https://news.web.nhk/newsweb/na/nd-20261013de58861",
-        "https://news.web.nhk/newsweb/na/nd-20261013de58827"
+        "https://news.web.nhk/newsweb/na/nd-20261013de58861"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/beats-pokemon-pill-speaker-pikachu-mimikyu/",
