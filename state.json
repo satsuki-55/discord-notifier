@@ -40,6 +40,8 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o#0",
+        "https://www.bbc.co.uk/news/articles/cwvgdn3d656vo#0",
         "https://www.bbc.co.uk/news/articles/cmlyl889jqzjo#1",
         "https://www.bbc.co.uk/news/videos/cm2ke1v8e4geo#1",
         "https://www.bbc.co.uk/news/articles/ckz65g34wyd8o#0",
@@ -237,11 +239,10 @@
         "https://www.bbc.co.uk/news/articles/cw5yn8rn04ljo#1",
         "https://www.bbc.co.uk/news/articles/cm04054ykqqqo#1",
         "https://www.bbc.co.uk/news/articles/cw5yn8rn04ljo#0",
-        "https://www.bbc.co.uk/news/articles/c9rky2m7r62do#0",
-        "https://www.bbc.co.uk/news/articles/c80405r93w42o#1",
-        "https://www.bbc.co.uk/news/articles/crkg7q97z078o#0"
+        "https://www.bbc.co.uk/news/articles/c9rky2m7r62do#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261017de60824",
         "https://news.web.nhk/newsweb/na/nd-20261017de60818",
         "https://news.web.nhk/newsweb/na/nd-20261017de60816",
         "https://news.web.nhk/newsweb/na/nd-20261017de60814",
@@ -440,8 +441,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261015de59529",
         "https://news.web.nhk/newsweb/na/nd-20261014de59421",
         "https://news.web.nhk/newsweb/na/nd-20261015de59525",
-        "https://news.web.nhk/newsweb/na/nd-20261014de59178",
-        "https://news.web.nhk/newsweb/na/nd-20261014de59277"
+        "https://news.web.nhk/newsweb/na/nd-20261014de59178"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-claude-official-hackathon-2026/",
