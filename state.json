@@ -243,6 +243,7 @@
         "https://www.bbc.co.uk/news/articles/cqzjx448vxkgo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261017de60916",
         "https://news.web.nhk/newsweb/na/nd-20261017de60929",
         "https://news.web.nhk/newsweb/na/nd-20261017de60926",
         "https://news.web.nhk/newsweb/na/nd-20261017de60905",
@@ -441,8 +442,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261015de59561",
         "https://news.web.nhk/newsweb/na/nd-20261015de59577",
         "https://news.web.nhk/newsweb/na/nd-20261015de59560",
-        "https://news.web.nhk/newsweb/na/nd-20261015de59557",
-        "https://news.web.nhk/newsweb/na/nd-20260930de53321"
+        "https://news.web.nhk/newsweb/na/nd-20261015de59557"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-ai-data-center-local-opposition/",
