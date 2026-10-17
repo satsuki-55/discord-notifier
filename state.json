@@ -41,6 +41,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c34g180knv91o#1",
         "https://www.bbc.co.uk/news/articles/c61m4zkx47vlo#0",
         "https://www.bbc.co.uk/news/articles/cwly3zd1r45ro#1",
         "https://www.bbc.co.uk/news/articles/cm3wvd7x01jqo#2",
@@ -239,8 +240,7 @@
         "https://www.bbc.co.uk/news/articles/ck1exgw3j115o#1",
         "https://www.bbc.co.uk/news/articles/c574e228vlygo#1",
         "https://www.bbc.co.uk/news/articles/cm62y89dpd4lo#1",
-        "https://www.bbc.co.uk/news/articles/cxnv03e9nmp4o#0",
-        "https://www.bbc.co.uk/weather/articles/c6d7qv73nldgo#1"
+        "https://www.bbc.co.uk/news/articles/cxnv03e9nmp4o#0"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20261017de61000",
@@ -445,6 +445,8 @@
         "https://news.web.nhk/newsweb/na/nd-20261015de59586"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2610-redmi-pad-2-fire-tablet-alternative/",
+        "https://www.gizmodo.jp/article/fold-iphone-rumor/",
         "https://www.gizmodo.jp/article/2610-loe-keyboard-desk-organizer/",
         "https://www.gizmodo.jp/article/monster-hunter-wilds-switch2-preorder/",
         "https://www.gizmodo.jp/article/2610-b11-pro-folding-keyboard/",
@@ -642,9 +644,7 @@
         "https://www.gizmodo.jp/article/freckl-ai-smartphone-for-kids/",
         "https://www.gizmodo.jp/article/daytona-hot-grip-wrap-heat/",
         "https://www.gizmodo.jp/article/2609-lht-google-pixel-9a-nud/",
-        "https://www.gizmodo.jp/article/2610-oled-macbook-pro-ipad-mini-oct-27/",
-        "https://www.gizmodo.jp/article/2610-creative-pebble-pc-speaker/",
-        "https://www.gizmodo.jp/article/amazon-alexa-tablet-12-pro-hands-on/"
+        "https://www.gizmodo.jp/article/2610-oled-macbook-pro-ipad-mini-oct-27/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "FmVWaA-TMF0",
