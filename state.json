@@ -41,6 +41,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cky83g11q46lo#1",
         "https://www.bbc.co.uk/news/articles/c6x2vk44dv1xo#1",
         "https://www.bbc.co.uk/news/articles/cwly3zd1r45ro#0",
         "https://www.bbc.co.uk/news/articles/cw98zj4jn6ryo#1",
@@ -239,10 +240,10 @@
         "https://www.bbc.co.uk/news/articles/cmp3gnngv3e9o#0",
         "https://www.bbc.co.uk/news/articles/ckqxne2evqreo#0",
         "https://www.bbc.co.uk/news/articles/cxvgdneplgzeo#0",
-        "https://www.bbc.co.uk/news/articles/cqzjx448vxkgo#1",
-        "https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo#0"
+        "https://www.bbc.co.uk/news/articles/cqzjx448vxkgo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261017de60929",
         "https://news.web.nhk/newsweb/na/nd-20261017de60926",
         "https://news.web.nhk/newsweb/na/nd-20261017de60905",
         "https://news.web.nhk/newsweb/na/nd-20261017de60903",
@@ -441,8 +442,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261015de59577",
         "https://news.web.nhk/newsweb/na/nd-20261015de59560",
         "https://news.web.nhk/newsweb/na/nd-20261015de59557",
-        "https://news.web.nhk/newsweb/na/nd-20260930de53321",
-        "https://news.web.nhk/newsweb/na/nd-20261015de59559"
+        "https://news.web.nhk/newsweb/na/nd-20260930de53321"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-ugreen-air-45w-charger/",
