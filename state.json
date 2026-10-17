@@ -243,6 +243,7 @@
         "https://www.bbc.co.uk/news/articles/c60qkgpp592yo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261017de61008",
         "https://news.web.nhk/newsweb/na/nd-20261018de61068",
         "https://news.web.nhk/newsweb/na/nd-20261018de61066",
         "https://news.web.nhk/newsweb/na/nd-20261018de61065",
@@ -441,8 +442,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261015de59885",
         "https://news.web.nhk/newsweb/na/nd-20261015de59926",
         "https://news.web.nhk/newsweb/na/nd-20261015de59842",
-        "https://news.web.nhk/newsweb/na/nd-20261015de59826",
-        "https://news.web.nhk/newsweb/na/nd-20261015de59824"
+        "https://news.web.nhk/newsweb/na/nd-20261015de59826"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/haisuiko_net_clean-sbl/",
