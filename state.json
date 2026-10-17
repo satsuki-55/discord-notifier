@@ -243,6 +243,7 @@
         "https://www.bbc.co.uk/news/articles/cx30eq0vyed4o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261017de61016",
         "https://news.web.nhk/newsweb/na/nd-20261017de61000",
         "https://news.web.nhk/newsweb/na/nd-20261017de60957",
         "https://news.web.nhk/newsweb/na/nd-20261017de60940",
@@ -441,8 +442,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261015de59718",
         "https://news.web.nhk/newsweb/na/nd-20261015de59715",
         "https://news.web.nhk/newsweb/na/nd-20261015de59695",
-        "https://news.web.nhk/newsweb/na/nd-20261015de59683",
-        "https://news.web.nhk/newsweb/na/nd-20261015de59586"
+        "https://news.web.nhk/newsweb/na/nd-20261015de59683"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-redmi-pad-2-fire-tablet-alternative/",
