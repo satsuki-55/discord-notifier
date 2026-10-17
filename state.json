@@ -242,6 +242,7 @@
         "https://www.bbc.co.uk/news/articles/c8wy9veedgygo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261017de60854",
         "https://news.web.nhk/newsweb/na/nd-20261017de60837",
         "https://news.web.nhk/newsweb/na/nd-20261017de60833",
         "https://news.web.nhk/newsweb/na/nd-20261017de60820",
@@ -440,8 +441,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261015de59550",
         "https://news.web.nhk/newsweb/na/nd-20261015de59547",
         "https://news.web.nhk/newsweb/na/nd-20261015de59537",
-        "https://news.web.nhk/newsweb/na/nd-20261015de59531",
-        "https://news.web.nhk/newsweb/na/nd-20261015de59529"
+        "https://news.web.nhk/newsweb/na/nd-20261015de59531"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-amazon-basics-aa-batteries-prime-sale-price/",
