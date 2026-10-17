@@ -243,6 +243,7 @@
         "https://www.bbc.co.uk/news/articles/cy7e8mpdxpro#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261017de61007",
         "https://news.web.nhk/newsweb/na/nd-20261017de61020",
         "https://news.web.nhk/newsweb/na/nd-20261017de61016",
         "https://news.web.nhk/newsweb/na/nd-20261017de61000",
@@ -441,8 +442,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261015de59735",
         "https://news.web.nhk/newsweb/na/nd-20261011de58036",
         "https://news.web.nhk/newsweb/na/nd-20261015de59718",
-        "https://news.web.nhk/newsweb/na/nd-20261015de59715",
-        "https://news.web.nhk/newsweb/na/nd-20261015de59695"
+        "https://news.web.nhk/newsweb/na/nd-20261015de59715"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/300052-2610-amazon-anker2in1usbcable-smi/",
