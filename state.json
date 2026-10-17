@@ -243,6 +243,7 @@
         "https://www.bbc.co.uk/news/articles/cqzjx448vxkgo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261017de60909",
         "https://news.web.nhk/newsweb/na/nd-20261017de60886",
         "https://news.web.nhk/newsweb/na/nd-20261017de60900",
         "https://news.web.nhk/newsweb/na/nd-20261017de60875",
@@ -441,8 +442,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261015de59559",
         "https://news.web.nhk/newsweb/na/nd-20261015de59563",
         "https://news.web.nhk/newsweb/na/nd-20261014de59485",
-        "https://news.web.nhk/newsweb/na/nd-20261015de59546",
-        "https://news.web.nhk/newsweb/na/nd-20261015de59528"
+        "https://news.web.nhk/newsweb/na/nd-20261015de59546"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/xiaomi-redmi-pad-2-amazon-sale/",
