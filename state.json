@@ -41,6 +41,9 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o#0",
+        "https://www.bbc.co.uk/news/articles/cwvgdn3d656vo#1",
+        "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o#1",
         "https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o#1",
         "https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o#0",
         "https://www.bbc.co.uk/news/videos/c6j47ewnn0vyo#1",
@@ -237,12 +240,10 @@
         "https://www.bbc.co.uk/news/articles/cvwy761zyx7eo#1",
         "https://www.bbc.co.uk/news/articles/cvwy761zyx7eo#0",
         "https://www.bbc.co.uk/news/articles/cvy0rd1j2kzlo#0",
-        "https://www.bbc.co.uk/news/articles/c0rezqpnekro#0",
-        "https://www.bbc.co.uk/news/articles/c5djvyde0y1jo#0",
-        "https://www.bbc.co.uk/news/articles/cw3dj458re1vo#1",
-        "https://www.bbc.co.uk/news/articles/cxvgdneplgzeo#1"
+        "https://www.bbc.co.uk/news/articles/c0rezqpnekro#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261017de60862",
         "https://news.web.nhk/newsweb/na/nd-20261017de60854",
         "https://news.web.nhk/newsweb/na/nd-20261017de60837",
         "https://news.web.nhk/newsweb/na/nd-20261017de60833",
@@ -441,8 +442,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261015de59551",
         "https://news.web.nhk/newsweb/na/nd-20261015de59550",
         "https://news.web.nhk/newsweb/na/nd-20261015de59547",
-        "https://news.web.nhk/newsweb/na/nd-20261015de59537",
-        "https://news.web.nhk/newsweb/na/nd-20261015de59531"
+        "https://news.web.nhk/newsweb/na/nd-20261015de59537"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/peelers_for_greenonions_repost/",
