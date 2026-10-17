@@ -243,6 +243,7 @@
         "https://www.bbc.co.uk/news/articles/c0rezqpnekro#2"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261017de61034",
         "https://news.web.nhk/newsweb/na/nd-20261017de61008",
         "https://news.web.nhk/newsweb/na/nd-20261018de61068",
         "https://news.web.nhk/newsweb/na/nd-20261018de61066",
@@ -441,8 +442,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261015de59860",
         "https://news.web.nhk/newsweb/na/nd-20261015de59885",
         "https://news.web.nhk/newsweb/na/nd-20261015de59926",
-        "https://news.web.nhk/newsweb/na/nd-20261015de59842",
-        "https://news.web.nhk/newsweb/na/nd-20261015de59826"
+        "https://news.web.nhk/newsweb/na/nd-20261015de59842"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-table-gatatsuki-t-balance/",
