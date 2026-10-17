@@ -41,6 +41,8 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/ck8dz1me439no#1",
+        "https://www.bbc.co.uk/news/articles/c8vgxwq4q5r2o#1",
         "https://www.bbc.co.uk/news/articles/cmd7q8ld3dd3o#1",
         "https://www.bbc.co.uk/news/articles/cwvgdn3d656vo#2",
         "https://www.bbc.co.uk/news/articles/cmze4y9rjepro#1",
@@ -238,11 +240,10 @@
         "https://www.bbc.co.uk/news/articles/c32l4nqx5wvko#0",
         "https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o#1",
         "https://www.bbc.co.uk/sport/football/articles/cx30e8dqmnzgo#1",
-        "https://www.bbc.co.uk/news/videos/c6e3x9z8jpj1o#1",
-        "https://www.bbc.co.uk/news/articles/c9j3dvezpdz0o#0",
-        "https://www.bbc.co.uk/news/articles/ck8dz1me439no#1"
+        "https://www.bbc.co.uk/news/videos/c6e3x9z8jpj1o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261017de61023",
         "https://news.web.nhk/newsweb/na/nd-20261017de61014",
         "https://news.web.nhk/newsweb/na/nd-20261017de61007",
         "https://news.web.nhk/newsweb/na/nd-20261017de61020",
@@ -441,8 +442,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261015de59578",
         "https://news.web.nhk/newsweb/na/nd-20261015de59737",
         "https://news.web.nhk/newsweb/na/nd-20261015de59735",
-        "https://news.web.nhk/newsweb/na/nd-20261011de58036",
-        "https://news.web.nhk/newsweb/na/nd-20261015de59718"
+        "https://news.web.nhk/newsweb/na/nd-20261011de58036"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-cross-media-tsundoku-holder/",
