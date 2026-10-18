@@ -244,6 +244,7 @@
         "https://www.bbc.co.uk/news/articles/cked326llddgo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261018de61089",
         "https://news.web.nhk/newsweb/na/nd-20261018de61121",
         "https://news.web.nhk/newsweb/na/nd-20261018de61090",
         "https://news.web.nhk/newsweb/na/nd-20261018de61079",
@@ -442,8 +443,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261015de59932",
         "https://news.web.nhk/newsweb/na/nd-20261015de60014",
         "https://news.web.nhk/newsweb/na/nd-20261015de59778",
-        "https://news.web.nhk/newsweb/na/nd-20261015de60015",
-        "https://news.web.nhk/newsweb/na/nd-20261015de59986"
+        "https://news.web.nhk/newsweb/na/nd-20261015de60015"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-amazon-prime-appreciation-sale-ryzen-9-9900x/",
