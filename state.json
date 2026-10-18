@@ -42,6 +42,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c574pdzl0k4no#1",
         "https://www.bbc.co.uk/news/articles/c574pdzl0k4no#0",
         "https://www.bbc.co.uk/news/articles/c6y8ln9831v3o#0",
         "https://www.bbc.co.uk/news/articles/c36lk280kd1o#1",
@@ -240,10 +241,11 @@
         "https://www.bbc.co.uk/news/articles/cq8jzgl7zz9po#1",
         "https://www.bbc.co.uk/news/articles/cq398x7j1lrwo#1",
         "https://www.bbc.co.uk/news/articles/c6jrwn3y3xe9o#1",
-        "https://www.bbc.co.uk/news/articles/cqwyrn1l74zro#0",
-        "https://www.bbc.co.uk/news/articles/c60qkgpp592yo#1"
+        "https://www.bbc.co.uk/news/articles/cqwyrn1l74zro#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261015de59772",
+        "https://news.web.nhk/newsweb/na/nd-20261018de61247",
         "https://news.web.nhk/newsweb/na/nd-20261018de61149",
         "https://news.web.nhk/newsweb/na/nd-20261018de61194",
         "https://news.web.nhk/newsweb/na/nd-20261018de61179",
@@ -441,9 +443,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261015de60105",
         "https://news.web.nhk/newsweb/na/nd-20261015de60099",
         "https://news.web.nhk/newsweb/na/nd-20261015de60103",
-        "https://news.web.nhk/newsweb/na/nd-20261015de60102",
-        "https://news.web.nhk/newsweb/na/nd-20261015de60078",
-        "https://news.web.nhk/newsweb/na/nd-20261015de60075"
+        "https://news.web.nhk/newsweb/na/nd-20261015de60102"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-sensor-flashlight-hybrid-light/",
