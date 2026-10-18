@@ -244,6 +244,7 @@
         "https://www.bbc.co.uk/news/articles/c9rky2m7r62do#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261018de61184",
         "https://news.web.nhk/newsweb/na/nd-20261018de61183",
         "https://news.web.nhk/newsweb/na/nd-20261018de61185",
         "https://news.web.nhk/newsweb/na/nd-20261018de61167",
@@ -442,8 +443,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261015de60071",
         "https://news.web.nhk/newsweb/na/nd-20261015de60066",
         "https://news.web.nhk/newsweb/na/nd-20261015de60042",
-        "https://news.web.nhk/newsweb/na/nd-20261015de60031",
-        "https://news.web.nhk/newsweb/na/nd-20261015de60021"
+        "https://news.web.nhk/newsweb/na/nd-20261015de60031"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/oshi-no-mukuri-dakimakura/",
