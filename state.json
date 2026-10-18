@@ -244,6 +244,7 @@
         "https://www.bbc.co.uk/news/articles/cq1j3wdxy48ro#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261019de61346",
         "https://news.web.nhk/newsweb/na/nd-20261019de61344",
         "https://news.web.nhk/newsweb/na/nd-20261019de61342",
         "https://news.web.nhk/newsweb/na/nd-20261019de61338",
@@ -442,8 +443,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261016de60151",
         "https://news.web.nhk/newsweb/na/nd-20261015de60144",
         "https://news.web.nhk/newsweb/na/nd-20261016de60152",
-        "https://news.web.nhk/newsweb/na/nd-20261015de60117",
-        "https://news.web.nhk/newsweb/na/nd-20261016de60157"
+        "https://news.web.nhk/newsweb/na/nd-20261015de60117"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-chocolate-price-double/",
