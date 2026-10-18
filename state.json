@@ -42,6 +42,8 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cm2kezgd77qlo#1",
+        "https://www.bbc.co.uk/news/videos/cq8ez4jz1z04o#1",
         "https://www.bbc.co.uk/news/articles/cm2kezgd77qlo#0",
         "https://www.bbc.co.uk/news/articles/c9q20djz4wno#0",
         "https://www.bbc.co.uk/news/articles/cm79pe5yej7no#1",
@@ -239,11 +241,11 @@
         "https://www.bbc.co.uk/news/articles/c6gelgd1lxv2o#1",
         "https://www.bbc.co.uk/news/articles/cry83dyddv6no#0",
         "https://www.bbc.co.uk/news/articles/c6kgqr9n8082o#0",
-        "https://www.bbc.co.uk/news/articles/cry83dyddv6no#1",
-        "https://www.bbc.co.uk/news/articles/cmn0658znkxpo#1",
-        "https://www.bbc.co.uk/news/articles/crx23qlnj27qo#0"
+        "https://www.bbc.co.uk/news/articles/cry83dyddv6no#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261015de60014",
+        "https://news.web.nhk/newsweb/na/nd-20261018de61142",
         "https://news.web.nhk/newsweb/na/nd-20261018de61135",
         "https://news.web.nhk/newsweb/na/nd-20261018de61125",
         "https://news.web.nhk/newsweb/na/nd-20261018de61089",
@@ -441,9 +443,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261015de60021",
         "https://news.web.nhk/newsweb/na/nd-20261015de60025",
         "https://news.web.nhk/newsweb/na/nd-20261015de60043",
-        "https://news.web.nhk/newsweb/na/nd-20261015de60029",
-        "https://news.web.nhk/newsweb/na/nd-20261015de59932",
-        "https://news.web.nhk/newsweb/na/nd-20261015de60014"
+        "https://news.web.nhk/newsweb/na/nd-20261015de60029"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-ps5-digital-edition-amazon-sale/",
