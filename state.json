@@ -42,6 +42,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/videos/cmn5vey19q3go#1",
         "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno#0",
         "https://www.bbc.co.uk/news/articles/c32l4k2xdvrzo#1",
         "https://www.bbc.co.uk/news/articles/cmx23p5w7123o#1",
@@ -240,10 +241,10 @@
         "https://www.bbc.co.uk/news/articles/c6wyrnmgzn01o#1",
         "https://www.bbc.co.uk/news/articles/c6wyrnmgzn01o#0",
         "https://www.bbc.co.uk/news/articles/cxdd80z9yjpqo#0",
-        "https://www.bbc.co.uk/news/articles/cwvgdnjqpyvmo#1",
-        "https://www.bbc.co.uk/news/articles/cmq8n513x523o#1"
+        "https://www.bbc.co.uk/news/articles/cwvgdnjqpyvmo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261015de59773",
         "https://news.web.nhk/newsweb/na/nd-20261018de61151",
         "https://news.web.nhk/newsweb/na/nd-20261018de61254",
         "https://news.web.nhk/newsweb/na/nd-20261015de59772",
@@ -442,8 +443,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261015de60114",
         "https://news.web.nhk/newsweb/na/nd-20261015de60111",
         "https://news.web.nhk/newsweb/na/nd-20261015de60104",
-        "https://news.web.nhk/newsweb/na/nd-20261015de60105",
-        "https://news.web.nhk/newsweb/na/nd-20261015de60099"
+        "https://news.web.nhk/newsweb/na/nd-20261015de60105"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-nothing-ceo-carl-pei-iphone-duo-critique/",
