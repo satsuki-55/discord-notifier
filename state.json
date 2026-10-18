@@ -42,6 +42,10 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cq33xd6j1dv5o#0",
+        "https://www.bbc.co.uk/news/videos/c9dr8kem27zeo#0",
+        "https://www.bbc.co.uk/news/articles/cxj0ly1m3q81o#0",
+        "https://www.bbc.co.uk/news/articles/cv70pxe5j90eo#0",
         "https://www.bbc.co.uk/news/articles/c84g13z6xx4eo#0",
         "https://www.bbc.co.uk/news/articles/cwdd8z6gyy96o#0",
         "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno#1",
@@ -237,13 +241,11 @@
         "https://www.bbc.co.uk/news/videos/cjy56wl6l90ro#1",
         "https://www.bbc.co.uk/news/articles/cqkg53v29005o#1",
         "https://www.bbc.co.uk/news/articles/c58jz174w89ro#0",
-        "https://www.bbc.co.uk/news/articles/cq1j3wdxy48ro#0",
-        "https://www.bbc.co.uk/news/articles/c58jz174w89ro#1",
-        "https://www.bbc.co.uk/news/articles/cmde8dpg8g0no#1",
-        "https://www.bbc.co.uk/news/articles/cq33xd6j1dv5o#0",
-        "https://www.bbc.co.uk/news/articles/cwg7x1prldedo#1"
+        "https://www.bbc.co.uk/news/articles/cq1j3wdxy48ro#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261019de61344",
+        "https://news.web.nhk/newsweb/na/nd-20261019de61342",
         "https://news.web.nhk/newsweb/na/nd-20261019de61338",
         "https://news.web.nhk/newsweb/na/nd-20261018de61265",
         "https://news.web.nhk/newsweb/na/nd-20261019de61334",
@@ -441,9 +443,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261015de60144",
         "https://news.web.nhk/newsweb/na/nd-20261016de60152",
         "https://news.web.nhk/newsweb/na/nd-20261015de60117",
-        "https://news.web.nhk/newsweb/na/nd-20261016de60157",
-        "https://news.web.nhk/newsweb/na/nd-20261016de60162",
-        "https://news.web.nhk/newsweb/na/nd-20261015de60139"
+        "https://news.web.nhk/newsweb/na/nd-20261016de60157"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-chocolate-price-double/",
