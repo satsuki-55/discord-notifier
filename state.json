@@ -42,6 +42,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/weather/articles/c64gr18jrvx3o#0",
         "https://www.bbc.co.uk/news/articles/c32l4k2xdvrzo#0",
         "https://www.bbc.co.uk/news/articles/c8y56y6xg9n9o#0",
         "https://www.bbc.co.uk/news/articles/c63elzvjpgn2o#1",
@@ -240,10 +241,10 @@
         "https://www.bbc.co.uk/news/articles/c60qkgpp592yo#1",
         "https://www.bbc.co.uk/news/articles/cm62y6lp73zdo#0",
         "https://www.bbc.co.uk/news/articles/cwly0g2r4k3po#1",
-        "https://www.bbc.co.uk/news/articles/c6zxj47vwrdno#0",
-        "https://www.bbc.co.uk/news/articles/c9rky2m7r62do#1"
+        "https://www.bbc.co.uk/news/articles/c6zxj47vwrdno#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261018de61206",
         "https://news.web.nhk/newsweb/na/nd-20261018de61184",
         "https://news.web.nhk/newsweb/na/nd-20261018de61183",
         "https://news.web.nhk/newsweb/na/nd-20261018de61185",
@@ -442,8 +443,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261015de60060",
         "https://news.web.nhk/newsweb/na/nd-20261015de60071",
         "https://news.web.nhk/newsweb/na/nd-20261015de60066",
-        "https://news.web.nhk/newsweb/na/nd-20261015de60042",
-        "https://news.web.nhk/newsweb/na/nd-20261015de60031"
+        "https://news.web.nhk/newsweb/na/nd-20261015de60042"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/oshi-no-mukuri-dakimakura/",
