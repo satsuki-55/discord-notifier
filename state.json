@@ -244,6 +244,7 @@
         "https://www.bbc.co.uk/news/articles/cw5yn83m8gypo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261019de61330",
         "https://news.web.nhk/newsweb/na/nd-20261019de61331",
         "https://news.web.nhk/newsweb/na/nd-20261018de61305",
         "https://news.web.nhk/newsweb/na/nd-20261019de61320",
@@ -442,8 +443,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261015de60116",
         "https://news.web.nhk/newsweb/na/nd-20261015de60137",
         "https://news.web.nhk/newsweb/na/nd-20261015de60145",
-        "https://news.web.nhk/newsweb/na/nd-20261015de60118",
-        "https://news.web.nhk/newsweb/na/nd-20261015de60121"
+        "https://news.web.nhk/newsweb/na/nd-20261015de60118"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/nitori-projection-digital-clock-vzj/",
