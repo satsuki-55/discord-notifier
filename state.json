@@ -42,6 +42,8 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cq1m4zz9e44go#0",
+        "https://www.bbc.co.uk/news/articles/c9m26kl5y7epo#1",
         "https://www.bbc.co.uk/news/articles/c6j9kwxxmxydo#1",
         "https://www.bbc.co.uk/news/articles/cvgdd2yevd3o#1",
         "https://www.bbc.co.uk/news/articles/cqn7323p0dxyo#1",
@@ -239,11 +241,10 @@
         "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o#1",
         "https://www.bbc.co.uk/news/articles/c6e3xnjlz12do#1",
         "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o#0",
-        "https://www.bbc.co.uk/news/articles/cwvgdn3d656vo#0",
-        "https://www.bbc.co.uk/news/articles/cmlyl889jqzjo#1",
-        "https://www.bbc.co.uk/news/videos/cm2ke1v8e4geo#1"
+        "https://www.bbc.co.uk/news/articles/cwvgdn3d656vo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261019de61832",
         "https://news.web.nhk/newsweb/na/nd-20261019de61517",
         "https://news.web.nhk/newsweb/na/nd-20261019de61789",
         "https://news.web.nhk/newsweb/na/nd-20261019de61808",
@@ -442,8 +443,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261016de60405",
         "https://news.web.nhk/newsweb/na/nd-20261016de60234",
         "https://news.web.nhk/newsweb/na/nd-20261016de60395",
-        "https://news.web.nhk/newsweb/na/nd-20261016de60353",
-        "https://news.web.nhk/newsweb/na/nd-20261016de60330"
+        "https://news.web.nhk/newsweb/na/nd-20261016de60353"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/32gb-ram-standard-era/",
