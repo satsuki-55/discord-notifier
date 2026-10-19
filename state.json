@@ -42,6 +42,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cx30ez03djyqo#1",
         "https://www.bbc.co.uk/news/articles/c5x2vkddrkrko#0",
         "https://www.bbc.co.uk/news/articles/c6pwgzkj8zzgo#2",
         "https://www.bbc.co.uk/news/articles/cmj47yx572z5o#1",
@@ -240,8 +241,7 @@
         "https://www.bbc.co.uk/news/videos/c8040dk1rnq4o#3",
         "https://www.bbc.co.uk/news/articles/ck8dz1me439no#1",
         "https://www.bbc.co.uk/news/articles/c8vgxwq4q5r2o#1",
-        "https://www.bbc.co.uk/news/articles/cmd7q8ld3dd3o#1",
-        "https://www.bbc.co.uk/news/articles/cwvgdn3d656vo#2"
+        "https://www.bbc.co.uk/news/articles/cmd7q8ld3dd3o#1"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20261020de61904",
@@ -446,6 +446,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261016de60636"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2610-oled-macbook-pro-apple-event-2026/",
         "https://www.gizmodo.jp/article/how-to-remove-pfas-vwb/",
         "https://www.gizmodo.jp/article/2610-sunday-weekend-mellow-drop-toilet-aroma/",
         "https://www.gizmodo.jp/article/gochess-wizard-alive/",
@@ -644,8 +645,7 @@
         "https://www.gizmodo.jp/article/kokolo-sauna-hagoromo1s-chiller/",
         "https://www.gizmodo.jp/article/2610-echo-show-5-sale/",
         "https://www.gizmodo.jp/article/fitbit-edge/",
-        "https://www.gizmodo.jp/article/sauna-mother/",
-        "https://www.gizmodo.jp/article/2610-google-certified-refurbished-japan/"
+        "https://www.gizmodo.jp/article/sauna-mother/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "FmVWaA-TMF0",
