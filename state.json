@@ -42,6 +42,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/ckd7qy12j148o#0",
         "https://www.bbc.co.uk/news/videos/cqd097z3epvno#1",
         "https://www.bbc.co.uk/news/videos/cwr7y0e57r50o#1",
         "https://www.bbc.co.uk/news/articles/ck87ze7wl4qno#1",
@@ -240,10 +241,10 @@
         "https://www.bbc.co.uk/news/articles/crwydey50xeno#0",
         "https://www.bbc.co.uk/news/articles/c61m4zkx47vlo#1",
         "https://www.bbc.co.uk/news/articles/crwydey50xeno#1",
-        "https://www.bbc.co.uk/news/articles/cv8ez40yz950o#0",
-        "https://www.bbc.co.uk/sport/football/articles/c6rryqq00yp4o#1"
+        "https://www.bbc.co.uk/news/articles/cv8ez40yz950o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261019de61784",
         "https://news.web.nhk/newsweb/na/nd-20261020de61912",
         "https://news.web.nhk/newsweb/na/nd-20261020de61908",
         "https://news.web.nhk/newsweb/na/nd-20261019de61704",
@@ -442,8 +443,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261016de60669",
         "https://news.web.nhk/newsweb/na/nd-20261016de60673",
         "https://news.web.nhk/newsweb/na/nd-20261016de60670",
-        "https://news.web.nhk/newsweb/na/nd-20261016de60661",
-        "https://news.web.nhk/newsweb/na/nd-20261016de60665"
+        "https://news.web.nhk/newsweb/na/nd-20261016de60661"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/work-controller-joystick-combox/",
