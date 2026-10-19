@@ -244,6 +244,7 @@
         "https://www.bbc.co.uk/news/articles/crn8wyl4n42yo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261019de61352",
         "https://news.web.nhk/newsweb/na/nd-20261019de61347",
         "https://news.web.nhk/newsweb/na/nd-20261019de61346",
         "https://news.web.nhk/newsweb/na/nd-20261019de61344",
@@ -442,8 +443,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261016de60160",
         "https://news.web.nhk/newsweb/na/nd-20261016de60159",
         "https://news.web.nhk/newsweb/na/nd-20261016de60151",
-        "https://news.web.nhk/newsweb/na/nd-20261015de60144",
-        "https://news.web.nhk/newsweb/na/nd-20261016de60152"
+        "https://news.web.nhk/newsweb/na/nd-20261015de60144"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/huawei-health-lab-tour/",
