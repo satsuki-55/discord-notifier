@@ -244,6 +244,7 @@
         "https://www.bbc.co.uk/news/articles/cm9qzx43rlzjo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261019de61734",
         "https://news.web.nhk/newsweb/na/nd-20261016de60212",
         "https://news.web.nhk/newsweb/na/nd-20261019de61687",
         "https://news.web.nhk/newsweb/na/nd-20261019de61594",
@@ -442,10 +443,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261016de60373",
         "https://news.web.nhk/newsweb/na/nd-20261016de60369",
         "https://news.web.nhk/newsweb/na/nd-20261016de60368",
-        "https://news.web.nhk/newsweb/na/nd-20261016de60350",
-        "https://news.web.nhk/newsweb/na/nd-20261016de60299"
+        "https://news.web.nhk/newsweb/na/nd-20261016de60350"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/rune-energy-relic-solar-datacenter/",
         "https://www.gizmodo.jp/article/2610-nvidia-rtx-spark-n1x/",
         "https://www.gizmodo.jp/article/2610-keychron-k0-max-tenkey-sale/",
         "https://www.gizmodo.jp/article/2610-pc-cpu-price-increase-tsmc-intel-amd/",
@@ -644,8 +645,7 @@
         "https://www.gizmodo.jp/article/2610-razer-niu-ev-scooter/",
         "https://www.gizmodo.jp/article/2610-ugreen-5-port-usb-charger-review/",
         "https://www.gizmodo.jp/article/irobot-roomba-max-775-review-a-respectable-roomba-redux/",
-        "https://www.gizmodo.jp/article/iris-ohyama-kararie-fk-w3-sleep-mode/",
-        "https://www.gizmodo.jp/article/2610-ai-companies-buying-used-books/"
+        "https://www.gizmodo.jp/article/iris-ohyama-kararie-fk-w3-sleep-mode/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "FmVWaA-TMF0",
