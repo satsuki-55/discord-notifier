@@ -42,6 +42,10 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/ck8dz6m1d2n6o#0",
+        "https://www.bbc.co.uk/news/articles/cm5yn098xz8lo#0",
+        "https://www.bbc.co.uk/news/articles/c6jdmy872r7vo#0",
+        "https://www.bbc.co.uk/news/articles/cmpdgj8z8v2do#1",
         "https://www.bbc.co.uk/news/videos/cm9wzye55j4xo#0",
         "https://www.bbc.co.uk/news/articles/cq0melgpre23o#1",
         "https://www.bbc.co.uk/news/videos/cwd09vlv78rvo#1",
@@ -237,13 +241,11 @@
         "https://www.bbc.co.uk/news/articles/cmlykv9pey7go#1",
         "https://www.bbc.co.uk/news/articles/cq398zl8jmvdo#0",
         "https://www.bbc.co.uk/news/articles/cmly0n4nzq5qo#1",
-        "https://www.bbc.co.uk/news/videos/cqn06zx2r15jo#1",
-        "https://www.bbc.co.uk/news/articles/ck8dz6m1d2n6o#1",
-        "https://www.bbc.co.uk/news/articles/ck8dz6m1d2n6o#0",
-        "https://www.bbc.co.uk/news/articles/cw8rzpl1ldkdo#1",
-        "https://www.bbc.co.uk/news/articles/cq0ld4g0309go#1"
+        "https://www.bbc.co.uk/news/videos/cqn06zx2r15jo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261019de61387",
+        "https://news.web.nhk/newsweb/na/nd-20261019de61389",
         "https://news.web.nhk/newsweb/na/nd-20261019de61364",
         "https://news.web.nhk/newsweb/na/nd-20261016de60152",
         "https://news.web.nhk/newsweb/na/nd-20261019de61352",
@@ -441,11 +443,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261016de60169",
         "https://news.web.nhk/newsweb/na/nd-20261016de60178",
         "https://news.web.nhk/newsweb/na/nd-20261016de60164",
-        "https://news.web.nhk/newsweb/na/nd-20261016de60163",
-        "https://news.web.nhk/newsweb/na/nd-20261016de60160",
-        "https://news.web.nhk/newsweb/na/nd-20261016de60159"
+        "https://news.web.nhk/newsweb/na/nd-20261016de60163"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/g-shock-assari-smartwatch-a9k-re-26-oct/",
         "https://www.gizmodo.jp/article/7e51c534-6a5a-492b-873c-2f20f35655f2/",
         "https://www.gizmodo.jp/article/huawei-health-lab-tour/",
         "https://www.gizmodo.jp/article/2610-chocolate-price-double/",
@@ -644,8 +645,7 @@
         "https://www.gizmodo.jp/article/d1-milano-tetris-watch/",
         "https://www.gizmodo.jp/article/thanko-onaka-pokapoka-pokke/",
         "https://www.gizmodo.jp/article/2610-google-playground-ai-game-maker/",
-        "https://www.gizmodo.jp/article/2610-heat-driven-cooling-technology/",
-        "https://www.gizmodo.jp/article/2610-montbell-packable-gear/"
+        "https://www.gizmodo.jp/article/2610-heat-driven-cooling-technology/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "FmVWaA-TMF0",
