@@ -244,6 +244,7 @@
         "https://www.bbc.co.uk/news/articles/c92031m6knljo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261019de61601",
         "https://news.web.nhk/newsweb/na/nd-20261019de61537",
         "https://news.web.nhk/newsweb/na/nd-20261019de61602",
         "https://news.web.nhk/newsweb/na/nd-20260930de53325",
@@ -442,8 +443,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261016de60299",
         "https://news.web.nhk/newsweb/na/nd-20261016de60289",
         "https://news.web.nhk/newsweb/na/nd-20261016de60212",
-        "https://news.web.nhk/newsweb/na/nd-20261016de60303",
-        "https://news.web.nhk/newsweb/na/nd-20261016de60286"
+        "https://news.web.nhk/newsweb/na/nd-20261016de60303"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-amazon-prime-appreciation-sale-asus-chromebook-cm14/",
