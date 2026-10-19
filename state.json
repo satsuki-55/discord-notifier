@@ -244,6 +244,7 @@
         "https://www.bbc.co.uk/news/articles/c6e3xnjlz12do#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261019de61843",
         "https://news.web.nhk/newsweb/na/nd-20261019de61832",
         "https://news.web.nhk/newsweb/na/nd-20261019de61517",
         "https://news.web.nhk/newsweb/na/nd-20261019de61789",
@@ -442,10 +443,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261016de60420",
         "https://news.web.nhk/newsweb/na/nd-20261016de60405",
         "https://news.web.nhk/newsweb/na/nd-20261016de60234",
-        "https://news.web.nhk/newsweb/na/nd-20261016de60395",
-        "https://news.web.nhk/newsweb/na/nd-20261016de60353"
+        "https://news.web.nhk/newsweb/na/nd-20261016de60395"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/00dd8d65-1c72-42c3-bcd7-91d2bf66bdaf/",
         "https://www.gizmodo.jp/article/32gb-ram-standard-era/",
         "https://www.gizmodo.jp/article/2610-north-korean-laptop-farm-fbi/",
         "https://www.gizmodo.jp/article/corsair_xeneon-edge-14-5-lcd-touch-screen/",
@@ -644,8 +645,7 @@
         "https://www.gizmodo.jp/article/2610-amazon-iphone-airpods-sale/",
         "https://www.gizmodo.jp/article/sugihara-sangyo-rubber-coated-magnet-wha/",
         "https://www.gizmodo.jp/article/belkin-iphone-18-pro-promax-cases-sale/",
-        "https://www.gizmodo.jp/article/windows-10-security-update-extended/",
-        "https://www.gizmodo.jp/article/2610-claude-abuse-policy-update/"
+        "https://www.gizmodo.jp/article/windows-10-security-update-extended/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "FmVWaA-TMF0",
