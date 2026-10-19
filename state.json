@@ -42,6 +42,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cvp8gzg4e143o#0",
         "https://www.bbc.co.uk/news/videos/ckzd60dy746qo#1",
         "https://www.bbc.co.uk/weather/articles/ck5yn68mj88vo#0",
         "https://www.bbc.co.uk/news/articles/cq70pre80gwko#1",
@@ -240,10 +241,10 @@
         "https://www.bbc.co.uk/news/articles/cwvgdn3d656vo#1",
         "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o#1",
         "https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o#1",
-        "https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o#0",
-        "https://www.bbc.co.uk/news/videos/c6j47ewnn0vyo#1"
+        "https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261019de61864",
         "https://news.web.nhk/newsweb/na/nd-20261019de61855",
         "https://news.web.nhk/newsweb/na/nd-20261019de61845",
         "https://news.web.nhk/newsweb/na/nd-20261016de60405",
@@ -442,8 +443,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261016de60432",
         "https://news.web.nhk/newsweb/na/nd-20261016de60406",
         "https://news.web.nhk/newsweb/na/nd-20261016de60404",
-        "https://news.web.nhk/newsweb/na/nd-20261016de60419",
-        "https://news.web.nhk/newsweb/na/nd-20261016de60448"
+        "https://news.web.nhk/newsweb/na/nd-20261016de60419"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/how-to-remove-pfas-vwb/",
