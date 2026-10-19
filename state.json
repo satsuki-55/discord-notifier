@@ -244,6 +244,7 @@
         "https://www.bbc.co.uk/news/videos/ckly4mj1g3n9o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261016de60174",
         "https://news.web.nhk/newsweb/na/nd-20261019de61430",
         "https://news.web.nhk/newsweb/na/nd-20261019de61375",
         "https://news.web.nhk/newsweb/na/nd-20261016de60169",
@@ -442,8 +443,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261016de60195",
         "https://news.web.nhk/newsweb/na/nd-20261016de60190",
         "https://news.web.nhk/newsweb/na/nd-20261016de60181",
-        "https://news.web.nhk/newsweb/na/nd-20261015de60036",
-        "https://news.web.nhk/newsweb/na/nd-20261016de60180"
+        "https://news.web.nhk/newsweb/na/nd-20261015de60036"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-iphone-duo-shipping-delay/",
