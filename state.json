@@ -42,6 +42,10 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c3pwgqd4gz9xo#0",
+        "https://www.bbc.co.uk/news/articles/cm79plrvpl4vo#0",
+        "https://www.bbc.co.uk/news/articles/c6jdmy872r7vo#1",
+        "https://www.bbc.co.uk/news/articles/cm79plrvpl4vo#1",
         "https://www.bbc.co.uk/news/articles/crwyd02yz22vo#1",
         "https://www.bbc.co.uk/news/articles/cw146ej00yn7o#0",
         "https://www.bbc.co.uk/news/articles/cm62y80yxw9vo#1",
@@ -237,13 +241,10 @@
         "https://www.bbc.co.uk/news/articles/c92031m6knljo#0",
         "https://www.bbc.co.uk/news/articles/cvx284w16z1po#0",
         "https://www.bbc.co.uk/news/articles/c875prd12vkqo#1",
-        "https://www.bbc.co.uk/news/articles/c9vgr61kml3mo#0",
-        "https://www.bbc.co.uk/news/articles/cmx237n1y9lzo#0",
-        "https://www.bbc.co.uk/news/articles/c3pwgqd4gz9xo#0",
-        "https://www.bbc.co.uk/news/articles/c65ynk7212vqo#1",
-        "https://www.bbc.co.uk/news/articles/cw146ej00yn7o#1"
+        "https://www.bbc.co.uk/news/articles/c9vgr61kml3mo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261019de61556",
         "https://news.web.nhk/newsweb/na/nd-20261019de61561",
         "https://news.web.nhk/newsweb/na/nd-20261019de61550",
         "https://news.web.nhk/newsweb/na/nd-20261019de61514",
@@ -442,10 +443,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261016de60214",
         "https://news.web.nhk/newsweb/na/nd-20261016de60210",
         "https://news.web.nhk/newsweb/na/nd-20261016de60209",
-        "https://news.web.nhk/newsweb/na/nd-20261016de60206",
-        "https://news.web.nhk/newsweb/na/nd-20261016de60202"
+        "https://news.web.nhk/newsweb/na/nd-20261016de60206"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2610-gizmodo-amazon-primesale-bought-items/",
         "https://www.gizmodo.jp/article/2609-big-short-michael-burry-ai-bubble-stock-market-outlook-2027-2026-9-aui/",
         "https://www.gizmodo.jp/article/2610-motorola-foldable-smartphone-discount/",
         "https://www.gizmodo.jp/article/2610-gullwing-keitruck-cooler/",
@@ -644,8 +645,7 @@
         "https://www.gizmodo.jp/article/wide-festiva-diy/",
         "https://www.gizmodo.jp/article/2610-fruit-cushion-petal-packaging/",
         "https://www.gizmodo.jp/article/metas-muse-is-collecting-information-on-everyone-in-your-life/",
-        "https://www.gizmodo.jp/article/2610-yamazaki-door-hanger-review/",
-        "https://www.gizmodo.jp/article/2610-rivian-ghostbusters-mode/"
+        "https://www.gizmodo.jp/article/2610-yamazaki-door-hanger-review/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "FmVWaA-TMF0",
