@@ -244,6 +244,8 @@
         "https://www.bbc.co.uk/news/videos/ckly4mj1g3n9o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261019de61359",
+        "https://news.web.nhk/newsweb/na/nd-20261019de61434",
         "https://news.web.nhk/newsweb/na/nd-20261016de60174",
         "https://news.web.nhk/newsweb/na/nd-20261019de61430",
         "https://news.web.nhk/newsweb/na/nd-20261019de61375",
@@ -441,11 +443,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261015de60061",
         "https://news.web.nhk/newsweb/na/nd-20261016de60184",
         "https://news.web.nhk/newsweb/na/nd-20261016de60195",
-        "https://news.web.nhk/newsweb/na/nd-20261016de60190",
-        "https://news.web.nhk/newsweb/na/nd-20261016de60181",
-        "https://news.web.nhk/newsweb/na/nd-20261015de60036"
+        "https://news.web.nhk/newsweb/na/nd-20261016de60190"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2610-touch-macbook-release-date-rumor/",
         "https://www.gizmodo.jp/article/2610-iphone-duo-shipping-delay/",
         "https://www.gizmodo.jp/article/2610-redmi-pad-2-pro-review/",
         "https://www.gizmodo.jp/article/some_windows_users_decide_to_change_linux-9zt/",
@@ -644,8 +645,7 @@
         "https://www.gizmodo.jp/article/sanwa-vesa-mount-mr-vesa7/",
         "https://www.gizmodo.jp/article/2610-crypto-hardware-wallet-spyware-incident/",
         "https://www.gizmodo.jp/article/2610-mujuryoku-tray-fruit/",
-        "https://www.gizmodo.jp/article/2610-flipper-one-new-model/",
-        "https://www.gizmodo.jp/article/d1-milano-tetris-watch/"
+        "https://www.gizmodo.jp/article/2610-flipper-one-new-model/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "FmVWaA-TMF0",
