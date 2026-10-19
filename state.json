@@ -244,6 +244,7 @@
         "https://www.bbc.co.uk/news/articles/cj040z4ngnz1o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261019de61526",
         "https://news.web.nhk/newsweb/na/nd-20261019de61745",
         "https://news.web.nhk/newsweb/na/nd-20261019de61781",
         "https://news.web.nhk/newsweb/na/nd-20261019de61777",
@@ -442,8 +443,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261016de60357",
         "https://news.web.nhk/newsweb/na/nd-20261016de60258",
         "https://news.web.nhk/newsweb/na/nd-20261016de60340",
-        "https://news.web.nhk/newsweb/na/nd-20261016de60305",
-        "https://news.web.nhk/newsweb/na/nd-20261016de60344"
+        "https://news.web.nhk/newsweb/na/nd-20261016de60305"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-north-korean-laptop-farm-fbi/",
