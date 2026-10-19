@@ -42,6 +42,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/crwyd02yz22vo#1",
         "https://www.bbc.co.uk/news/articles/cw146ej00yn7o#0",
         "https://www.bbc.co.uk/news/articles/cm62y80yxw9vo#1",
         "https://www.bbc.co.uk/news/articles/cm040rgv7wz4o#0",
@@ -240,10 +241,10 @@
         "https://www.bbc.co.uk/news/articles/cmx237n1y9lzo#0",
         "https://www.bbc.co.uk/news/articles/c3pwgqd4gz9xo#0",
         "https://www.bbc.co.uk/news/articles/c65ynk7212vqo#1",
-        "https://www.bbc.co.uk/news/articles/cw146ej00yn7o#1",
-        "https://www.bbc.co.uk/news/articles/c65ynk7212vqo#0"
+        "https://www.bbc.co.uk/news/articles/cw146ej00yn7o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261019de61538",
         "https://news.web.nhk/newsweb/na/nd-20261016de60195",
         "https://news.web.nhk/newsweb/na/nd-20261019de61515",
         "https://news.web.nhk/newsweb/na/nd-20261019de61495",
@@ -442,8 +443,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261016de60202",
         "https://news.web.nhk/newsweb/na/nd-20261016de60203",
         "https://news.web.nhk/newsweb/na/nd-20261016de60200",
-        "https://news.web.nhk/newsweb/na/nd-20261016de60199",
-        "https://news.web.nhk/newsweb/na/nd-20261015de60061"
+        "https://news.web.nhk/newsweb/na/nd-20261016de60199"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-motorola-foldable-smartphone-discount/",
