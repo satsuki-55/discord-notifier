@@ -244,6 +244,8 @@
         "https://www.bbc.co.uk/news/articles/ck8dz1me439no#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261016de60636",
+        "https://news.web.nhk/newsweb/na/nd-20261019de61878",
         "https://news.web.nhk/newsweb/na/nd-20261020de61904",
         "https://news.web.nhk/newsweb/na/nd-20261019de61884",
         "https://news.web.nhk/newsweb/na/nd-20261020de61899",
@@ -441,9 +443,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261016de60665",
         "https://news.web.nhk/newsweb/na/nd-20261016de60650",
         "https://news.web.nhk/newsweb/na/nd-20261016de60624",
-        "https://news.web.nhk/newsweb/na/nd-20261016de60516",
-        "https://news.web.nhk/newsweb/na/nd-20261016de60616",
-        "https://news.web.nhk/newsweb/na/nd-20261016de60636"
+        "https://news.web.nhk/newsweb/na/nd-20261016de60516"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-oled-macbook-pro-apple-event-2026/",
