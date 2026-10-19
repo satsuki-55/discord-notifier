@@ -244,6 +244,7 @@
         "https://www.bbc.co.uk/news/articles/cq398zl8jmvdo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261016de60178",
         "https://news.web.nhk/newsweb/na/nd-20261019de61442",
         "https://news.web.nhk/newsweb/na/nd-20261019de61377",
         "https://news.web.nhk/newsweb/na/nd-20261019de61378",
@@ -442,8 +443,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261016de60180",
         "https://news.web.nhk/newsweb/na/nd-20261016de60174",
         "https://news.web.nhk/newsweb/na/nd-20261016de60165",
-        "https://news.web.nhk/newsweb/na/nd-20261016de60166",
-        "https://news.web.nhk/newsweb/na/nd-20261016de60169"
+        "https://news.web.nhk/newsweb/na/nd-20261016de60166"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/some_windows_users_decide_to_change_linux-9zt/",
