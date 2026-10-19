@@ -244,6 +244,8 @@
         "https://www.bbc.co.uk/news/articles/c64g18ljjd8do#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261019de61849",
+        "https://news.web.nhk/newsweb/na/nd-20261019de61850",
         "https://news.web.nhk/newsweb/na/nd-20261019de61843",
         "https://news.web.nhk/newsweb/na/nd-20261019de61832",
         "https://news.web.nhk/newsweb/na/nd-20261019de61517",
@@ -441,9 +443,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261016de60417",
         "https://news.web.nhk/newsweb/na/nd-20261016de60409",
         "https://news.web.nhk/newsweb/na/nd-20261016de60420",
-        "https://news.web.nhk/newsweb/na/nd-20261016de60405",
-        "https://news.web.nhk/newsweb/na/nd-20261016de60234",
-        "https://news.web.nhk/newsweb/na/nd-20261016de60395"
+        "https://news.web.nhk/newsweb/na/nd-20261016de60405"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-zero-modular-power-bank/",
