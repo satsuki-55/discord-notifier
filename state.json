@@ -244,6 +244,8 @@
         "https://www.bbc.co.uk/news/articles/c65ynk7212vqo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261016de60195",
+        "https://news.web.nhk/newsweb/na/nd-20261019de61515",
         "https://news.web.nhk/newsweb/na/nd-20261019de61495",
         "https://news.web.nhk/newsweb/na/nd-20261019de61359",
         "https://news.web.nhk/newsweb/na/nd-20261019de61434",
@@ -441,9 +443,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261016de60203",
         "https://news.web.nhk/newsweb/na/nd-20261016de60200",
         "https://news.web.nhk/newsweb/na/nd-20261016de60199",
-        "https://news.web.nhk/newsweb/na/nd-20261015de60061",
-        "https://news.web.nhk/newsweb/na/nd-20261016de60184",
-        "https://news.web.nhk/newsweb/na/nd-20261016de60195"
+        "https://news.web.nhk/newsweb/na/nd-20261015de60061"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-motorola-foldable-smartphone-discount/",
