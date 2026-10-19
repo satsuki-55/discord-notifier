@@ -244,6 +244,8 @@
         "https://www.bbc.co.uk/news/articles/c64g18ljjd8do#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261016de60405",
+        "https://news.web.nhk/newsweb/na/nd-20261019de61848",
         "https://news.web.nhk/newsweb/na/nd-20261019de61821",
         "https://news.web.nhk/newsweb/na/nd-20261019de61849",
         "https://news.web.nhk/newsweb/na/nd-20261019de61850",
@@ -441,11 +443,11 @@
         "https://news.web.nhk/newsweb/na/nd-20261016de60419",
         "https://news.web.nhk/newsweb/na/nd-20261016de60448",
         "https://news.web.nhk/newsweb/na/nd-20260930de53322",
-        "https://news.web.nhk/newsweb/na/nd-20261016de60417",
-        "https://news.web.nhk/newsweb/na/nd-20261016de60409",
-        "https://news.web.nhk/newsweb/na/nd-20261016de60420"
+        "https://news.web.nhk/newsweb/na/nd-20261016de60417"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/gochess-wizard-alive/",
+        "https://www.gizmodo.jp/article/305668-2610-amazon-ugreenpencil-ano/",
         "https://www.gizmodo.jp/article/2610-zero-modular-power-bank/",
         "https://www.gizmodo.jp/article/00dd8d65-1c72-42c3-bcd7-91d2bf66bdaf/",
         "https://www.gizmodo.jp/article/32gb-ram-standard-era/",
@@ -643,9 +645,7 @@
         "https://www.gizmodo.jp/article/sauna-mother/",
         "https://www.gizmodo.jp/article/2610-google-certified-refurbished-japan/",
         "https://www.gizmodo.jp/article/elecom-trackball-maintenance-kit/",
-        "https://www.gizmodo.jp/article/2610-amazon-iphone-airpods-sale/",
-        "https://www.gizmodo.jp/article/sugihara-sangyo-rubber-coated-magnet-wha/",
-        "https://www.gizmodo.jp/article/belkin-iphone-18-pro-promax-cases-sale/"
+        "https://www.gizmodo.jp/article/2610-amazon-iphone-airpods-sale/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "FmVWaA-TMF0",
