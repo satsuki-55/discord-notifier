@@ -42,6 +42,8 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/videos/cwr7y0e57r50o#1",
+        "https://www.bbc.co.uk/news/articles/ck87ze7wl4qno#1",
         "https://www.bbc.co.uk/news/articles/ck87ze7wl4qno#0",
         "https://www.bbc.co.uk/news/articles/cq1m4zz9e44go#1",
         "https://www.bbc.co.uk/news/articles/cm5yn098xz8lo#1",
@@ -239,11 +241,11 @@
         "https://www.bbc.co.uk/news/articles/crwydey50xeno#1",
         "https://www.bbc.co.uk/news/articles/cv8ez40yz950o#0",
         "https://www.bbc.co.uk/sport/football/articles/c6rryqq00yp4o#1",
-        "https://www.bbc.co.uk/news/articles/cx5yn9n7v5zeo#1",
-        "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo#1",
-        "https://www.bbc.co.uk/news/articles/c9j3dvezpdz0o#0"
+        "https://www.bbc.co.uk/news/articles/cx5yn9n7v5zeo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261020de61908",
+        "https://news.web.nhk/newsweb/na/nd-20261019de61704",
         "https://news.web.nhk/newsweb/na/nd-20261016de60636",
         "https://news.web.nhk/newsweb/na/nd-20261019de61878",
         "https://news.web.nhk/newsweb/na/nd-20261020de61904",
@@ -441,9 +443,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261016de60670",
         "https://news.web.nhk/newsweb/na/nd-20261016de60661",
         "https://news.web.nhk/newsweb/na/nd-20261016de60665",
-        "https://news.web.nhk/newsweb/na/nd-20261016de60650",
-        "https://news.web.nhk/newsweb/na/nd-20261016de60624",
-        "https://news.web.nhk/newsweb/na/nd-20261016de60516"
+        "https://news.web.nhk/newsweb/na/nd-20261016de60650"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-oled-macbook-pro-apple-event-2026/",
