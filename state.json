@@ -42,6 +42,8 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c59vz78kvgv9o#0",
+        "https://www.bbc.co.uk/news/articles/cm8xz5kxkkkqo#1",
         "https://www.bbc.co.uk/news/articles/crx23nxk8733o#0",
         "https://www.bbc.co.uk/news/articles/c5rmy4yxj8p3o#1",
         "https://www.bbc.co.uk/news/articles/cw5yn5e8mezvo#0",
@@ -239,11 +241,10 @@
         "https://www.bbc.co.uk/news/articles/c9j3dvezpdz0o#1",
         "https://www.bbc.co.uk/news/articles/cm79pe5yej7no#0",
         "https://www.bbc.co.uk/news/articles/cmx2wvyv5j17o#0",
-        "https://www.bbc.co.uk/news/articles/c820vwq7qg2ko#1",
-        "https://www.bbc.co.uk/news/articles/cmx2wvyv5j17o#1",
-        "https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo#1"
+        "https://www.bbc.co.uk/news/articles/c820vwq7qg2ko#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261020de62200",
         "https://news.web.nhk/newsweb/na/nd-20261019de61879",
         "https://news.web.nhk/newsweb/na/nd-20261020de62192",
         "https://news.web.nhk/newsweb/na/nd-20260930de53326",
@@ -442,8 +443,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261017de60798",
         "https://news.web.nhk/newsweb/na/nd-20261017de60803",
         "https://news.web.nhk/newsweb/na/nd-20261017de60781",
-        "https://news.web.nhk/newsweb/na/nd-20261017de60800",
-        "https://news.web.nhk/newsweb/na/nd-20261016de60765"
+        "https://news.web.nhk/newsweb/na/nd-20261017de60800"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-moft-card-case-stand-for-iphone-duo/",
