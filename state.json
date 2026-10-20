@@ -244,6 +244,8 @@
         "https://www.bbc.co.uk/news/articles/cqrky2rkd5n1o#2"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260930de53326",
+        "https://news.web.nhk/newsweb/na/nd-20261020de62127",
         "https://news.web.nhk/newsweb/na/nd-20261020de62116",
         "https://news.web.nhk/newsweb/na/nd-20261020de62107",
         "https://news.web.nhk/newsweb/na/nd-20261020de62102",
@@ -441,9 +443,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261017de60800",
         "https://news.web.nhk/newsweb/na/nd-20261016de60765",
         "https://news.web.nhk/newsweb/na/nd-20261017de60784",
-        "https://news.web.nhk/newsweb/na/nd-20261017de60805",
-        "https://news.web.nhk/newsweb/na/nd-20261017de60801",
-        "https://news.web.nhk/newsweb/na/nd-20261017de60797"
+        "https://news.web.nhk/newsweb/na/nd-20261017de60805"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-why-accenture-consulting-stocks-thrive-ai-trade-needs-human-touch-yqk/",
