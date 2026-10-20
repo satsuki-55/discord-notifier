@@ -43,6 +43,9 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cqx2v800nnr2o#0",
+        "https://www.bbc.co.uk/news/articles/c8vgxnp5w6vzo#0",
+        "https://www.bbc.co.uk/news/articles/cqx2v800nnr2o#1",
         "https://www.bbc.co.uk/news/articles/cm5ynkk570pno#1",
         "https://www.bbc.co.uk/news/articles/cmvg6qv1jdydo#0",
         "https://www.bbc.co.uk/news/articles/cmy4xjlpqgd3o#1",
@@ -239,10 +242,7 @@
         "https://www.bbc.co.uk/news/articles/cw240zl08dm5o#0",
         "https://www.bbc.co.uk/news/articles/cmgelrq8x92do#0",
         "https://www.bbc.co.uk/news/articles/cmgelrq8x92do#1",
-        "https://www.bbc.co.uk/news/articles/c623dnkn8pkyo#0",
-        "https://www.bbc.co.uk/news/articles/c3eweygrjzd7o#1",
-        "https://www.bbc.co.uk/news/articles/cv70pxe5j90eo#1",
-        "https://www.bbc.co.uk/news/articles/c8vgxnp5w6vzo#0"
+        "https://www.bbc.co.uk/news/articles/c623dnkn8pkyo#0"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20261020de62489",
@@ -447,6 +447,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261017de60916"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2610-sony-walkman-nw-wm1zm3-650000-yen/",
         "https://www.gizmodo.jp/article/dainichi_coffee-roaster_mr-svf60b/",
         "https://www.gizmodo.jp/article/microsoft-yam-store-phishing-network/",
         "https://www.gizmodo.jp/article/analogue-super-nt-plus-mega-sg-plus/",
@@ -645,8 +646,7 @@
         "https://www.gizmodo.jp/article/inarritu-kojima-digger-interview/",
         "https://www.gizmodo.jp/article/2610-sony-spatial-audio-mic-ecm-ax10/",
         "https://www.gizmodo.jp/article/2610-bell-scissors-review/",
-        "https://www.gizmodo.jp/article/msi-pro-mp2412-review-nvn/",
-        "https://www.gizmodo.jp/article/2610-claude-fake-police-report/"
+        "https://www.gizmodo.jp/article/msi-pro-mp2412-review-nvn/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "FmVWaA-TMF0",
