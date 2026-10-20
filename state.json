@@ -245,6 +245,8 @@
         "https://www.bbc.co.uk/news/articles/cmwy4qnyjg4zo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261020de62412",
+        "https://news.web.nhk/newsweb/na/nd-20261020de62389",
         "https://news.web.nhk/newsweb/na/nd-20261020de62397",
         "https://news.web.nhk/newsweb/na/nd-20261020de62345",
         "https://news.web.nhk/newsweb/na/nd-20261020de62376",
@@ -442,9 +444,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261017de60862",
         "https://news.web.nhk/newsweb/na/nd-20261017de60854",
         "https://news.web.nhk/newsweb/na/nd-20261017de60837",
-        "https://news.web.nhk/newsweb/na/nd-20261017de60833",
-        "https://news.web.nhk/newsweb/na/nd-20261017de60820",
-        "https://news.web.nhk/newsweb/na/nd-20261017de60824"
+        "https://news.web.nhk/newsweb/na/nd-20261017de60833"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-ai-deleted-tv-show-data-postponed/",
