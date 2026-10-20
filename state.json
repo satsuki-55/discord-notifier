@@ -42,6 +42,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c50me4w4x1vyo#0",
         "https://www.bbc.co.uk/news/articles/c6m2dmdxgz2xo#1",
         "https://www.bbc.co.uk/news/articles/c50me4w4x1vyo#1",
         "https://www.bbc.co.uk/news/articles/cv62yzddy6dpo#1",
@@ -240,8 +241,7 @@
         "https://www.bbc.co.uk/news/articles/cmy4xnyyg1lyo#0",
         "https://www.bbc.co.uk/news/articles/c6d937wedj7jo#1",
         "https://www.bbc.co.uk/news/videos/cwz0vy770gpzo#1",
-        "https://www.bbc.co.uk/news/articles/c820vwq7qg2ko#0",
-        "https://www.bbc.co.uk/news/articles/cqe9lx54g7x9o#1"
+        "https://www.bbc.co.uk/news/articles/c820vwq7qg2ko#0"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20261020de62116",
@@ -446,6 +446,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261017de60797"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2610-kyocera-duraforce-ex2-battery-swap/",
         "https://www.gizmodo.jp/article/apples-homeviews-reportedly-collected-dust-in-warehouses-for-the-better-part-of-a-year/",
         "https://www.gizmodo.jp/article/2610-bmw-tum-intersection-blind-spot-tech/",
         "https://www.gizmodo.jp/article/iphone-duo-battery-capacity/",
@@ -644,8 +645,7 @@
         "https://www.gizmodo.jp/article/2610-gemini-4-argon-rollout/",
         "https://www.gizmodo.jp/article/2610-ai-laser-bird-repeller/",
         "https://www.gizmodo.jp/article/45c9b4eb-04c2-4ea5-bc24-1861fac6734c/",
-        "https://www.gizmodo.jp/article/yibooom-amazon-black-friday-2025-quy-re-26-oct/",
-        "https://www.gizmodo.jp/article/2610-windows-natural-language-search-update/"
+        "https://www.gizmodo.jp/article/yibooom-amazon-black-friday-2025-quy-re-26-oct/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "FmVWaA-TMF0",
