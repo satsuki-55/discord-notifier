@@ -244,6 +244,7 @@
         "https://www.bbc.co.uk/news/articles/cq398x7j1lrwo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261020de61930",
         "https://news.web.nhk/newsweb/na/nd-20261020de61922",
         "https://news.web.nhk/newsweb/na/nd-20261019de61784",
         "https://news.web.nhk/newsweb/na/nd-20261020de61912",
@@ -442,10 +443,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261016de60397",
         "https://news.web.nhk/newsweb/na/nd-20261016de60674",
         "https://news.web.nhk/newsweb/na/nd-20261016de60669",
-        "https://news.web.nhk/newsweb/na/nd-20261016de60673",
-        "https://news.web.nhk/newsweb/na/nd-20261016de60670"
+        "https://news.web.nhk/newsweb/na/nd-20261016de60673"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2610-new-ipad-mini-display-refresh-rate/",
         "https://www.gizmodo.jp/article/nvidia-acquiring-open-source-ai-startups/",
         "https://www.gizmodo.jp/article/work-controller-joystick-combox/",
         "https://www.gizmodo.jp/article/2610-oled-macbook-pro-apple-event-2026/",
@@ -644,8 +645,7 @@
         "https://www.gizmodo.jp/article/2610-asus-vivobook-15-buying-guide-69800-yen/",
         "https://www.gizmodo.jp/article/2610-cmf-portable-speaker/",
         "https://www.gizmodo.jp/article/2610-boston-dynamics-new-ceo-atlas-mass-production/",
-        "https://www.gizmodo.jp/article/kokolo-sauna-hagoromo1s-chiller/",
-        "https://www.gizmodo.jp/article/2610-echo-show-5-sale/"
+        "https://www.gizmodo.jp/article/kokolo-sauna-hagoromo1s-chiller/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "FmVWaA-TMF0",
