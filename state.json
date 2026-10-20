@@ -245,6 +245,8 @@
         "https://www.bbc.co.uk/news/articles/crk661074ejo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261020de62455",
+        "https://news.web.nhk/newsweb/na/nd-20261020de62452",
         "https://news.web.nhk/newsweb/na/nd-20261020de62435",
         "https://news.web.nhk/newsweb/na/nd-20261020de62439",
         "https://news.web.nhk/newsweb/na/nd-20261020de62451",
@@ -442,9 +444,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261017de60929",
         "https://news.web.nhk/newsweb/na/nd-20261017de60926",
         "https://news.web.nhk/newsweb/na/nd-20261017de60905",
-        "https://news.web.nhk/newsweb/na/nd-20261017de60903",
-        "https://news.web.nhk/newsweb/na/nd-20261017de60909",
-        "https://news.web.nhk/newsweb/na/nd-20261017de60886"
+        "https://news.web.nhk/newsweb/na/nd-20261017de60903"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/flat_tire_emergency_repairkit_mistake/",
