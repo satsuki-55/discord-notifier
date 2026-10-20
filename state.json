@@ -244,6 +244,7 @@
         "https://www.bbc.co.uk/news/articles/cmx2375zqwwwo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261020de62265",
         "https://news.web.nhk/newsweb/na/nd-20261020de62258",
         "https://news.web.nhk/newsweb/na/nd-20261020de62219",
         "https://news.web.nhk/newsweb/na/nd-20261020de62261",
@@ -442,8 +443,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261017de60817",
         "https://news.web.nhk/newsweb/na/nd-20261017de60815",
         "https://news.web.nhk/newsweb/na/nd-20261016de60703",
-        "https://news.web.nhk/newsweb/na/nd-20261017de60808",
-        "https://news.web.nhk/newsweb/na/nd-20261017de60812"
+        "https://news.web.nhk/newsweb/na/nd-20261017de60808"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-sony-wf-1000xm5-sale/",
