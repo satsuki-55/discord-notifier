@@ -245,6 +245,7 @@
         "https://www.bbc.co.uk/news/articles/cq1kdndp83lmo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261020de62453",
         "https://news.web.nhk/newsweb/na/nd-20261020de62455",
         "https://news.web.nhk/newsweb/na/nd-20261020de62452",
         "https://news.web.nhk/newsweb/na/nd-20261020de62435",
@@ -443,10 +444,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261017de60916",
         "https://news.web.nhk/newsweb/na/nd-20261017de60929",
         "https://news.web.nhk/newsweb/na/nd-20261017de60926",
-        "https://news.web.nhk/newsweb/na/nd-20261017de60905",
-        "https://news.web.nhk/newsweb/na/nd-20261017de60903"
+        "https://news.web.nhk/newsweb/na/nd-20261017de60905"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/analogue-super-nt-plus-mega-sg-plus/",
         "https://www.gizmodo.jp/article/flat_tire_emergency_repairkit_mistake/",
         "https://www.gizmodo.jp/article/2610-zero-click-malvertising-spyware/",
         "https://www.gizmodo.jp/article/2610-ai-deleted-tv-show-data-postponed/",
@@ -645,8 +646,7 @@
         "https://www.gizmodo.jp/article/msi-pro-mp2412-review-nvn/",
         "https://www.gizmodo.jp/article/2610-claude-fake-police-report/",
         "https://www.gizmodo.jp/article/2610-bose-noise-cancelling-wired-earbuds/",
-        "https://www.gizmodo.jp/article/logicool-yeti-2-usb-microphone/",
-        "https://www.gizmodo.jp/article/msi-prestige-n16-flip-ai/"
+        "https://www.gizmodo.jp/article/logicool-yeti-2-usb-microphone/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "FmVWaA-TMF0",
