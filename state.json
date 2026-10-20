@@ -43,6 +43,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cmvg632xgndeo#0",
         "https://www.bbc.co.uk/news/articles/cv1j359360rdo#0",
         "https://www.bbc.co.uk/news/articles/cr86z4ldj1g5o#1",
         "https://www.bbc.co.uk/weather/articles/c9rkyjzgp6kdo#1",
@@ -241,10 +242,10 @@
         "https://www.bbc.co.uk/news/articles/crk661074ejo#0",
         "https://www.bbc.co.uk/news/articles/c6jrwn3y3xe9o#0",
         "https://www.bbc.co.uk/news/articles/cmd6dnq2j4v3o#0",
-        "https://www.bbc.co.uk/news/articles/cry83dyddv6no#0",
-        "https://www.bbc.co.uk/news/articles/c6kgqr9n8082o#0"
+        "https://www.bbc.co.uk/news/articles/cry83dyddv6no#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261020de62432",
         "https://news.web.nhk/newsweb/na/nd-20261020de62395",
         "https://news.web.nhk/newsweb/na/nd-20261020de62437",
         "https://news.web.nhk/newsweb/na/nd-20261020de62412",
@@ -443,8 +444,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261017de60900",
         "https://news.web.nhk/newsweb/na/nd-20261017de60875",
         "https://news.web.nhk/newsweb/na/nd-20261017de60838",
-        "https://news.web.nhk/newsweb/na/nd-20261017de60862",
-        "https://news.web.nhk/newsweb/na/nd-20261017de60854"
+        "https://news.web.nhk/newsweb/na/nd-20261017de60862"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-zero-click-malvertising-spyware/",
