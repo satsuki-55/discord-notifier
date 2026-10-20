@@ -43,6 +43,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c370pzdkw77jo#0",
         "https://www.bbc.co.uk/news/articles/c3x2wxnrpk78o#0",
         "https://www.bbc.co.uk/news/articles/cke8r0me3y9vo#1",
         "https://www.bbc.co.uk/news/articles/cm040rgv7wz4o#0",
@@ -241,10 +242,10 @@
         "https://www.bbc.co.uk/news/articles/c9vgr61kml3mo#0",
         "https://www.bbc.co.uk/news/articles/cm040rgv7wz4o#1",
         "https://www.bbc.co.uk/news/articles/c3pwgqd4gz9xo#0",
-        "https://www.bbc.co.uk/news/articles/cm79plrvpl4vo#0",
-        "https://www.bbc.co.uk/news/articles/c6jdmy872r7vo#1"
+        "https://www.bbc.co.uk/news/articles/cm79plrvpl4vo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261021de62565",
         "https://news.web.nhk/newsweb/na/nd-20261021de62564",
         "https://news.web.nhk/newsweb/na/nd-20261021de62531",
         "https://news.web.nhk/newsweb/na/nd-20261021de62530",
@@ -443,8 +444,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261017de61008",
         "https://news.web.nhk/newsweb/na/nd-20261018de61068",
         "https://news.web.nhk/newsweb/na/nd-20261018de61066",
-        "https://news.web.nhk/newsweb/na/nd-20261018de61065",
-        "https://news.web.nhk/newsweb/na/nd-20261018de61063"
+        "https://news.web.nhk/newsweb/na/nd-20261018de61065"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/final-porta-wireless-headphones/",
