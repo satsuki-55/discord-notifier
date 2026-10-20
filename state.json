@@ -245,6 +245,7 @@
         "https://www.bbc.co.uk/news/articles/c8vgxnp5w6vzo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261020de62489",
         "https://news.web.nhk/newsweb/na/nd-20261020de62468",
         "https://news.web.nhk/newsweb/na/nd-20261020de62467",
         "https://news.web.nhk/newsweb/na/nd-20261020de62453",
@@ -443,8 +444,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261017de60940",
         "https://news.web.nhk/newsweb/na/nd-20261017de60971",
         "https://news.web.nhk/newsweb/na/nd-20261017de60962",
-        "https://news.web.nhk/newsweb/na/nd-20261017de60916",
-        "https://news.web.nhk/newsweb/na/nd-20261017de60929"
+        "https://news.web.nhk/newsweb/na/nd-20261017de60916"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/dainichi_coffee-roaster_mr-svf60b/",
