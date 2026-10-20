@@ -244,6 +244,9 @@
         "https://www.bbc.co.uk/news/articles/cq4g18prn4l4o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261020de61954",
+        "https://news.web.nhk/newsweb/na/nd-20261020de61968",
+        "https://news.web.nhk/newsweb/na/nd-20261020de61985",
         "https://news.web.nhk/newsweb/na/nd-20261016de60773",
         "https://news.web.nhk/newsweb/na/nd-20261020de62018",
         "https://news.web.nhk/newsweb/na/nd-20261020de62014",
@@ -440,10 +443,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261017de60791",
         "https://news.web.nhk/newsweb/na/nd-20261016de60762",
         "https://news.web.nhk/newsweb/na/nd-20261017de60802",
-        "https://news.web.nhk/newsweb/na/nd-20261017de60779",
-        "https://news.web.nhk/newsweb/na/nd-20261017de60794",
-        "https://news.web.nhk/newsweb/na/nd-20261017de60782",
-        "https://news.web.nhk/newsweb/na/nd-20261017de60777"
+        "https://news.web.nhk/newsweb/na/nd-20261017de60779"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-denmark-data-leak-security-basics/",
