@@ -43,6 +43,9 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cr3wv555ew6lo#0",
+        "https://www.bbc.co.uk/news/articles/cmx2wqwxvyxlo#1",
+        "https://www.bbc.co.uk/news/articles/cvrlyzlzlwj0o#1",
         "https://www.bbc.co.uk/news/articles/cmvgxvkv54w1o#0",
         "https://www.bbc.co.uk/news/articles/c63eln34yle3o#0",
         "https://www.bbc.co.uk/news/articles/cxly435ym787o#1",
@@ -239,12 +242,10 @@
         "https://www.bbc.co.uk/news/articles/cwdd8z6gyy96o#0",
         "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno#1",
         "https://www.bbc.co.uk/news/articles/c8y56y6xg9n9o#1",
-        "https://www.bbc.co.uk/news/articles/c60rl1xvjv89o#0",
-        "https://www.bbc.co.uk/news/articles/c9m26kl5y7epo#0",
-        "https://www.bbc.co.uk/news/articles/c6y8ln9831v3o#1",
-        "https://www.bbc.co.uk/news/articles/cxj0ly1m3q81o#1"
+        "https://www.bbc.co.uk/news/articles/c60rl1xvjv89o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261021de62520",
         "https://news.web.nhk/newsweb/na/nd-20261020de62515",
         "https://news.web.nhk/newsweb/na/nd-20261020de62509",
         "https://news.web.nhk/newsweb/na/nd-20261020de62489",
@@ -443,8 +444,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261017de61016",
         "https://news.web.nhk/newsweb/na/nd-20261017de61000",
         "https://news.web.nhk/newsweb/na/nd-20261017de60957",
-        "https://news.web.nhk/newsweb/na/nd-20261017de60940",
-        "https://news.web.nhk/newsweb/na/nd-20261017de60971"
+        "https://news.web.nhk/newsweb/na/nd-20261017de60940"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/bose-ultra-open-earbuds-2nd-gen-review/",
