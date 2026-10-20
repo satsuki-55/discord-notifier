@@ -244,6 +244,7 @@
         "https://www.bbc.co.uk/news/articles/cq398x7j1lrwo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261020de61950",
         "https://news.web.nhk/newsweb/na/nd-20261020de61948",
         "https://news.web.nhk/newsweb/na/nd-20261020de61930",
         "https://news.web.nhk/newsweb/na/nd-20261020de61922",
@@ -442,8 +443,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261016de60688",
         "https://news.web.nhk/newsweb/na/nd-20261016de60707",
         "https://news.web.nhk/newsweb/na/nd-20261016de60397",
-        "https://news.web.nhk/newsweb/na/nd-20261016de60674",
-        "https://news.web.nhk/newsweb/na/nd-20261016de60669"
+        "https://news.web.nhk/newsweb/na/nd-20261016de60674"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/ceatec-2026-fujitsu/",
