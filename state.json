@@ -247,6 +247,7 @@
         "https://www.bbc.co.uk/news/articles/ck240rr10jdqo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261022de63294",
         "https://news.web.nhk/newsweb/na/nd-20261022de63309",
         "https://news.web.nhk/newsweb/na/nd-20261022de63278",
         "https://news.web.nhk/newsweb/na/nd-20261021de63042",
@@ -445,8 +446,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261019de61598",
         "https://news.web.nhk/newsweb/na/nd-20261019de61734",
         "https://news.web.nhk/newsweb/na/nd-20261016de60212",
-        "https://news.web.nhk/newsweb/na/nd-20261019de61687",
-        "https://news.web.nhk/newsweb/na/nd-20261019de61594"
+        "https://news.web.nhk/newsweb/na/nd-20261019de61687"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/nothing_phone-4b_review/",
