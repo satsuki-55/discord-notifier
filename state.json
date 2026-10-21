@@ -45,6 +45,8 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cqlye4v721nwo#1",
+        "https://www.bbc.co.uk/news/articles/cmde8rr2d6eno#1",
         "https://www.bbc.co.uk/news/articles/cm4g1zrl2nrqo#0",
         "https://www.bbc.co.uk/news/articles/c6n049gg75r4o#0",
         "https://www.bbc.co.uk/news/articles/cmzxj4e8w44vo#0",
@@ -242,11 +244,10 @@
         "https://www.bbc.co.uk/news/articles/c678pnn9mpgno#1",
         "https://www.bbc.co.uk/news/articles/ck9qzn193lrlo#1",
         "https://www.bbc.co.uk/news/articles/cv1j359360rdo#1",
-        "https://www.bbc.co.uk/news/articles/ckr5yqe1r1llo#1",
-        "https://www.bbc.co.uk/news/articles/ck240rr10jdqo#1",
-        "https://www.bbc.co.uk/news/articles/ck240rr10jdqo#0"
+        "https://www.bbc.co.uk/news/articles/ckr5yqe1r1llo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261022de63271",
         "https://news.web.nhk/newsweb/na/nd-20261022de63307",
         "https://news.web.nhk/newsweb/na/nd-20261022de63294",
         "https://news.web.nhk/newsweb/na/nd-20261022de63309",
@@ -445,8 +446,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261019de61777",
         "https://news.web.nhk/newsweb/na/nd-20261019de61741",
         "https://news.web.nhk/newsweb/na/nd-20261019de61598",
-        "https://news.web.nhk/newsweb/na/nd-20261019de61734",
-        "https://news.web.nhk/newsweb/na/nd-20261016de60212"
+        "https://news.web.nhk/newsweb/na/nd-20261019de61734"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-claude-duet-app/",
