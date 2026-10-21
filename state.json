@@ -44,6 +44,8 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c6m24l9v3745o#0",
+        "https://www.bbc.co.uk/news/articles/c6m24l9v3745o#1",
         "https://www.bbc.co.uk/weather/articles/c6m24ln2j43go#1",
         "https://www.bbc.co.uk/weather/articles/c6m24ln2j43go#0",
         "https://www.bbc.co.uk/news/articles/cmn8wx75l2n8o#1",
@@ -241,11 +243,11 @@
         "https://www.bbc.co.uk/news/articles/ckd7qy12j148o#1",
         "https://www.bbc.co.uk/news/articles/cvp8gzg4e143o#0",
         "https://www.bbc.co.uk/news/videos/ckzd60dy746qo#1",
-        "https://www.bbc.co.uk/weather/articles/ck5yn68mj88vo#0",
-        "https://www.bbc.co.uk/news/articles/cq70pre80gwko#1",
-        "https://www.bbc.co.uk/news/articles/cry83jz19v26o#1"
+        "https://www.bbc.co.uk/weather/articles/ck5yn68mj88vo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261021de63069",
+        "https://news.web.nhk/newsweb/na/nd-20261021de63065",
         "https://news.web.nhk/newsweb/na/nd-20261021de62752",
         "https://news.web.nhk/newsweb/na/nd-20261021de63036",
         "https://news.web.nhk/newsweb/na/nd-20261021de63054",
@@ -443,9 +445,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261018de61305",
         "https://news.web.nhk/newsweb/na/nd-20261019de61320",
         "https://news.web.nhk/newsweb/na/nd-20261018de61309",
-        "https://news.web.nhk/newsweb/na/nd-20261018de61293",
-        "https://news.web.nhk/newsweb/na/nd-20261018de61281",
-        "https://news.web.nhk/newsweb/na/nd-20261015de59773"
+        "https://news.web.nhk/newsweb/na/nd-20261018de61293"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/hikeman-shoesporch/",
@@ -656,6 +656,7 @@
         "Ih1O3vIgcmA"
     ],
     "youtube:UCuG5vlhQYE5VE-pTTxINi3g": [
+        "dYLNZolFZ4g",
         "64KXY2GmFqE",
         "8WgAdvtiR3g",
         "NvHQS1obeBQ",
