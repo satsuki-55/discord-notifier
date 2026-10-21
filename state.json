@@ -245,6 +245,7 @@
         "https://www.bbc.co.uk/news/articles/cq398dgkdg8xo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260930de53354",
         "https://news.web.nhk/newsweb/na/nd-20261021de62759",
         "https://news.web.nhk/newsweb/na/nd-20261021de62612",
         "https://news.web.nhk/newsweb/na/nd-20261021de62724",
@@ -443,10 +444,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261018de61135",
         "https://news.web.nhk/newsweb/na/nd-20261018de61125",
         "https://news.web.nhk/newsweb/na/nd-20261018de61089",
-        "https://news.web.nhk/newsweb/na/nd-20261018de61121",
-        "https://news.web.nhk/newsweb/na/nd-20261018de61090"
+        "https://news.web.nhk/newsweb/na/nd-20261018de61121"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2610-lht-logicool-mobi-fold-review-svt/",
         "https://www.gizmodo.jp/article/kyuusuiban/",
         "https://www.gizmodo.jp/article/after-muse-launch-u-s-banks-are-saying-hell-no-to-ai-agents-moving-money/",
         "https://www.gizmodo.jp/article/2610-jr-east-teppay-features-and-issues/",
@@ -645,8 +646,7 @@
         "https://www.gizmodo.jp/article/58396771-41dd-43f1-879c-61fa2bd2b5da/",
         "https://www.gizmodo.jp/article/e984e6e4-8f71-4088-b145-ddfe3f9a0b43/",
         "https://www.gizmodo.jp/article/2610-sennheiser-ie200-sale/",
-        "https://www.gizmodo.jp/article/ai-agents-successfully-recreate-the-gender-pay-gap/",
-        "https://www.gizmodo.jp/article/2610-fire-tv-stick-4k-sale/"
+        "https://www.gizmodo.jp/article/ai-agents-successfully-recreate-the-gender-pay-gap/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "FmVWaA-TMF0",
