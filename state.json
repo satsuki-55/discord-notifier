@@ -247,6 +247,7 @@
         "https://www.bbc.co.uk/news/articles/cwp9g43g2p07o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261021de63153",
         "https://news.web.nhk/newsweb/na/nd-20261021de63156",
         "https://news.web.nhk/newsweb/na/nd-20261021de63148",
         "https://news.web.nhk/newsweb/na/nd-20261021de63116",
@@ -445,10 +446,11 @@
         "https://news.web.nhk/newsweb/na/nd-20261019de61346",
         "https://news.web.nhk/newsweb/na/nd-20261019de61344",
         "https://news.web.nhk/newsweb/na/nd-20261019de61342",
-        "https://news.web.nhk/newsweb/na/nd-20261019de61338",
-        "https://news.web.nhk/newsweb/na/nd-20261018de61265"
+        "https://news.web.nhk/newsweb/na/nd-20261019de61338"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/rab_phantom-jacket/",
+        "https://www.gizmodo.jp/article/microsoft-surface-laptop-12-inch/",
         "https://www.gizmodo.jp/article/2610-meta-muse-ai-10m-downloads/",
         "https://www.gizmodo.jp/article/iphone-duo_same_day_sales/",
         "https://www.gizmodo.jp/article/2610-matech-powernano-watch-5000/",
@@ -646,9 +648,7 @@
         "https://www.gizmodo.jp/article/2610-insta360-go-ultra-review/",
         "https://www.gizmodo.jp/article/2610-meta-muse-ai-agent-review/",
         "https://www.gizmodo.jp/article/crime-prevention_tv_simulator_-atj/",
-        "https://www.gizmodo.jp/article/2610-cololight-chimera-gaming-chair-speaker/",
-        "https://www.gizmodo.jp/article/2610-france-supermarket-cyber-attack/",
-        "https://www.gizmodo.jp/article/a-rare-image-of-mars-at-dawn-reveals-captivating-beauty-of-its-ancient-cliffs/"
+        "https://www.gizmodo.jp/article/2610-cololight-chimera-gaming-chair-speaker/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "FmVWaA-TMF0",
