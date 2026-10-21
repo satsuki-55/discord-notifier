@@ -247,6 +247,8 @@
         "https://www.bbc.co.uk/news/articles/c6m24e1ln130o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261021de63106",
+        "https://news.web.nhk/newsweb/na/nd-20261021de63186",
         "https://news.web.nhk/newsweb/na/nd-20261021de63130",
         "https://news.web.nhk/newsweb/na/nd-20261021de63174",
         "https://news.web.nhk/newsweb/na/nd-20261021de63167",
@@ -444,11 +446,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261019de61387",
         "https://news.web.nhk/newsweb/na/nd-20261019de61389",
         "https://news.web.nhk/newsweb/na/nd-20261019de61364",
-        "https://news.web.nhk/newsweb/na/nd-20261016de60152",
-        "https://news.web.nhk/newsweb/na/nd-20261019de61352",
-        "https://news.web.nhk/newsweb/na/nd-20261019de61347"
+        "https://news.web.nhk/newsweb/na/nd-20261016de60152"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2610-ugreen-nexode-wavy-mobile-battery/",
         "https://www.gizmodo.jp/article/2610-plaud-one-review-ai-voice-recorder/",
         "https://www.gizmodo.jp/article/rab_phantom-jacket/",
         "https://www.gizmodo.jp/article/microsoft-surface-laptop-12-inch/",
@@ -647,8 +648,7 @@
         "https://www.gizmodo.jp/article/cheerplay-air-mouse/",
         "https://www.gizmodo.jp/article/2610-iphone-duo-additional-production/",
         "https://www.gizmodo.jp/article/2610-insta360-go-ultra-review/",
-        "https://www.gizmodo.jp/article/2610-meta-muse-ai-agent-review/",
-        "https://www.gizmodo.jp/article/crime-prevention_tv_simulator_-atj/"
+        "https://www.gizmodo.jp/article/2610-meta-muse-ai-agent-review/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "FmVWaA-TMF0",
