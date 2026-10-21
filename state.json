@@ -245,6 +245,7 @@
         "https://www.bbc.co.uk/news/articles/cwjdmy20yjmno#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261021de62637",
         "https://news.web.nhk/newsweb/na/nd-20261017de61034",
         "https://news.web.nhk/newsweb/na/nd-20261021de62694",
         "https://news.web.nhk/newsweb/na/nd-20261021de62656",
@@ -443,8 +444,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261018de61079",
         "https://news.web.nhk/newsweb/na/nd-20261018de61099",
         "https://news.web.nhk/newsweb/na/nd-20261018de61091",
-        "https://news.web.nhk/newsweb/na/nd-20261018de61075",
-        "https://news.web.nhk/newsweb/na/nd-20261018de61074"
+        "https://news.web.nhk/newsweb/na/nd-20261018de61075"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/nintendo-switch-2-physical-games/",
