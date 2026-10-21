@@ -45,6 +45,8 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cm0j0q9znzdlo#1",
+        "https://www.bbc.co.uk/news/articles/c6r7y03e9m3ro#1",
         "https://www.bbc.co.uk/news/articles/c6wyd53yg9n1o#0",
         "https://www.bbc.co.uk/sport/football/articles/cmx2302r04r4o#1",
         "https://www.bbc.co.uk/news/articles/cwe8lz018pe1o#0",
@@ -242,11 +244,10 @@
         "https://www.bbc.co.uk/news/articles/c5rmy4yxj8p3o#0",
         "https://www.bbc.co.uk/news/articles/crwyq75117z4o#1",
         "https://www.bbc.co.uk/news/articles/c6m24e1ln130o#0",
-        "https://www.bbc.co.uk/sport/football/articles/cq398rkpjljlo#1",
-        "https://www.bbc.co.uk/news/articles/cm8xzrljv72ro#0",
-        "https://www.bbc.co.uk/news/articles/cwp9g43g2p07o#0"
+        "https://www.bbc.co.uk/sport/football/articles/cq398rkpjljlo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261021de63165",
         "https://news.web.nhk/newsweb/na/nd-20261021de63153",
         "https://news.web.nhk/newsweb/na/nd-20261021de63156",
         "https://news.web.nhk/newsweb/na/nd-20261021de63148",
@@ -445,8 +446,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261019de61347",
         "https://news.web.nhk/newsweb/na/nd-20261019de61346",
         "https://news.web.nhk/newsweb/na/nd-20261019de61344",
-        "https://news.web.nhk/newsweb/na/nd-20261019de61342",
-        "https://news.web.nhk/newsweb/na/nd-20261019de61338"
+        "https://news.web.nhk/newsweb/na/nd-20261019de61342"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/rab_phantom-jacket/",
