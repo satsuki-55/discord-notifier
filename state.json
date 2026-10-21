@@ -45,6 +45,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/ckjrw044ggxgo#1",
         "https://www.bbc.co.uk/news/articles/ckx2qpw4rjd7o#0",
         "https://www.bbc.co.uk/news/articles/ckdd8m1z1z3yo#1",
         "https://www.bbc.co.uk/news/articles/c6lyexv93pkdo#0",
@@ -243,10 +244,10 @@
         "https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo#1",
         "https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo#0",
         "https://www.bbc.co.uk/news/videos/cqkglz3ljedyo#1",
-        "https://www.bbc.co.uk/news/articles/cm8xzrljv72ro#1",
-        "https://www.bbc.co.uk/news/articles/c6lyexv93pkdo#1"
+        "https://www.bbc.co.uk/news/articles/cm8xzrljv72ro#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261022de63248",
         "https://news.web.nhk/newsweb/na/nd-20261022de63246",
         "https://news.web.nhk/newsweb/na/nd-20261022de63238",
         "https://news.web.nhk/newsweb/na/nd-20261022de63256",
@@ -445,8 +446,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261019de61601",
         "https://news.web.nhk/newsweb/na/nd-20261019de61537",
         "https://news.web.nhk/newsweb/na/nd-20261019de61602",
-        "https://news.web.nhk/newsweb/na/nd-20260930de53325",
-        "https://news.web.nhk/newsweb/na/nd-20261019de61585"
+        "https://news.web.nhk/newsweb/na/nd-20260930de53325"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/iphone-duo_unboxing_video/",
