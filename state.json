@@ -45,6 +45,8 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c6wyd53yg9n1o#0",
+        "https://www.bbc.co.uk/sport/football/articles/cmx2302r04r4o#1",
         "https://www.bbc.co.uk/news/articles/cwe8lz018pe1o#0",
         "https://www.bbc.co.uk/news/articles/cky93njxlwjjo#1",
         "https://www.bbc.co.uk/news/articles/cm3wv9pdj33zo#0",
@@ -242,11 +244,10 @@
         "https://www.bbc.co.uk/news/articles/c6m24e1ln130o#0",
         "https://www.bbc.co.uk/sport/football/articles/cq398rkpjljlo#1",
         "https://www.bbc.co.uk/news/articles/cm8xzrljv72ro#0",
-        "https://www.bbc.co.uk/news/articles/cwp9g43g2p07o#0",
-        "https://www.bbc.co.uk/news/articles/c3lylj78777do#0",
-        "https://www.bbc.co.uk/news/articles/cvp8gzg4e143o#1"
+        "https://www.bbc.co.uk/news/articles/cwp9g43g2p07o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261021de63148",
         "https://news.web.nhk/newsweb/na/nd-20261021de63116",
         "https://news.web.nhk/newsweb/na/nd-20261021de63092",
         "https://news.web.nhk/newsweb/na/nd-20261021de63105",
@@ -445,8 +446,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261019de61342",
         "https://news.web.nhk/newsweb/na/nd-20261019de61338",
         "https://news.web.nhk/newsweb/na/nd-20261018de61265",
-        "https://news.web.nhk/newsweb/na/nd-20261019de61334",
-        "https://news.web.nhk/newsweb/na/nd-20261019de61332"
+        "https://news.web.nhk/newsweb/na/nd-20261019de61334"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-meta-muse-ai-10m-downloads/",
