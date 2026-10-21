@@ -45,6 +45,8 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo#0",
+        "https://www.bbc.co.uk/news/videos/c6n4e0vj018qo#1",
         "https://www.bbc.co.uk/news/articles/cmze4w63ly42o#1",
         "https://www.bbc.co.uk/news/articles/cmze4w63ly42o#0",
         "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o#0",
@@ -242,11 +244,11 @@
         "https://www.bbc.co.uk/news/articles/c83vqzkrr9zeo#0",
         "https://www.bbc.co.uk/news/articles/cr15jl7dd42vo#1",
         "https://www.bbc.co.uk/news/articles/ck98zlzyqle3o#1",
-        "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo#1",
-        "https://www.bbc.co.uk/news/articles/cv0ld6lrr2zeo#0",
-        "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo#0"
+        "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261021de63207",
+        "https://news.web.nhk/newsweb/na/nd-20261021de63203",
         "https://news.web.nhk/newsweb/na/nd-20261021de63199",
         "https://news.web.nhk/newsweb/na/nd-20261021de63191",
         "https://news.web.nhk/newsweb/na/nd-20261021de63106",
@@ -444,11 +446,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261016de60178",
         "https://news.web.nhk/newsweb/na/nd-20261019de61442",
         "https://news.web.nhk/newsweb/na/nd-20261019de61377",
-        "https://news.web.nhk/newsweb/na/nd-20261019de61378",
-        "https://news.web.nhk/newsweb/na/nd-20261019de61387",
-        "https://news.web.nhk/newsweb/na/nd-20261019de61389"
+        "https://news.web.nhk/newsweb/na/nd-20261019de61378"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/f7ad8c67-0d7d-434d-9cb4-5b815f280d7f/",
         "https://www.gizmodo.jp/article/mont-bell-stormcruiserjacket/",
         "https://www.gizmodo.jp/article/2610-xbox-official-buyback-program-series-x/",
         "https://www.gizmodo.jp/article/iphone-duo-1week-smallhands-review/",
@@ -647,8 +648,7 @@
         "https://www.gizmodo.jp/article/2610-microsoft-surface-mouse-haptic-feedback/",
         "https://www.gizmodo.jp/article/2610-solar-powered-item-tracker/",
         "https://www.gizmodo.jp/article/2610-starlink-mobile-carrier/",
-        "https://www.gizmodo.jp/article/2610-yamazaki-lunch-bag/",
-        "https://www.gizmodo.jp/article/rorry-auradock-m2-10000/"
+        "https://www.gizmodo.jp/article/2610-yamazaki-lunch-bag/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "FmVWaA-TMF0",
