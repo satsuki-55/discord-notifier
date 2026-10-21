@@ -245,6 +245,7 @@
         "https://www.bbc.co.uk/news/articles/cwjdmy20yjmno#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261021de62622",
         "https://news.web.nhk/newsweb/na/nd-20261021de62600",
         "https://news.web.nhk/newsweb/na/nd-20261021de62586",
         "https://news.web.nhk/newsweb/na/nd-20261021de62565",
@@ -443,10 +444,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261018de61074",
         "https://news.web.nhk/newsweb/na/nd-20261018de61073",
         "https://news.web.nhk/newsweb/na/nd-20261017de61034",
-        "https://news.web.nhk/newsweb/na/nd-20261017de61008",
-        "https://news.web.nhk/newsweb/na/nd-20261018de61068"
+        "https://news.web.nhk/newsweb/na/nd-20261017de61008"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2610-samsung-foldable-phones-six-models/",
         "https://www.gizmodo.jp/article/2610-iphone-duo-battery-capacity/",
         "https://www.gizmodo.jp/article/trump-admin-bans-deepseek-from-federal-agencies/",
         "https://www.gizmodo.jp/article/2610-distributed-ai-development-mac-minions/",
@@ -645,8 +646,7 @@
         "https://www.gizmodo.jp/article/2610-apple-homeview-smart-home-hub/",
         "https://www.gizmodo.jp/article/2610-iphone-photo-storage-sd-card/",
         "https://www.gizmodo.jp/article/olight-oclip-pro-black-friday-re-26-oct/",
-        "https://www.gizmodo.jp/article/4e1dbbb2-fadb-4e55-80d6-bc1d7eb230e2/",
-        "https://www.gizmodo.jp/article/imotec-robosenka-sorting-robot/"
+        "https://www.gizmodo.jp/article/4e1dbbb2-fadb-4e55-80d6-bc1d7eb230e2/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "FmVWaA-TMF0",
