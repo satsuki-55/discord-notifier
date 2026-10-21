@@ -247,6 +247,7 @@
         "https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261021de63092",
         "https://news.web.nhk/newsweb/na/nd-20261021de63105",
         "https://news.web.nhk/newsweb/na/nd-20261021de62788",
         "https://news.web.nhk/newsweb/na/nd-20261021de63099",
@@ -445,8 +446,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261018de61265",
         "https://news.web.nhk/newsweb/na/nd-20261019de61334",
         "https://news.web.nhk/newsweb/na/nd-20261019de61332",
-        "https://news.web.nhk/newsweb/na/nd-20261019de61330",
-        "https://news.web.nhk/newsweb/na/nd-20261019de61331"
+        "https://news.web.nhk/newsweb/na/nd-20261019de61330"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/hikeman-shoesporch/",
