@@ -247,6 +247,7 @@
         "https://www.bbc.co.uk/news/articles/c6lyexv93pkdo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261022de63246",
         "https://news.web.nhk/newsweb/na/nd-20261022de63238",
         "https://news.web.nhk/newsweb/na/nd-20261022de63256",
         "https://news.web.nhk/newsweb/na/nd-20261021de63222",
@@ -445,8 +446,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261019de61537",
         "https://news.web.nhk/newsweb/na/nd-20261019de61602",
         "https://news.web.nhk/newsweb/na/nd-20260930de53325",
-        "https://news.web.nhk/newsweb/na/nd-20261019de61585",
-        "https://news.web.nhk/newsweb/na/nd-20261019de61591"
+        "https://news.web.nhk/newsweb/na/nd-20261019de61585"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/iphone-duo_unboxing_video/",
