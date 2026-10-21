@@ -247,6 +247,7 @@
         "https://www.bbc.co.uk/news/articles/cjkgeq0k1wevo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261021de63212",
         "https://news.web.nhk/newsweb/na/nd-20261021de63209",
         "https://news.web.nhk/newsweb/na/nd-20261021de63175",
         "https://news.web.nhk/newsweb/na/nd-20261021de63207",
@@ -445,8 +446,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261019de61430",
         "https://news.web.nhk/newsweb/na/nd-20261019de61375",
         "https://news.web.nhk/newsweb/na/nd-20261016de60169",
-        "https://news.web.nhk/newsweb/na/nd-20261016de60178",
-        "https://news.web.nhk/newsweb/na/nd-20261019de61442"
+        "https://news.web.nhk/newsweb/na/nd-20261016de60178"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/iphone-duo_purchase_limit/",
