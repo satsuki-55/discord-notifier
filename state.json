@@ -247,6 +247,7 @@
         "https://www.bbc.co.uk/news/articles/cwp9g43g2p07o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261021de63116",
         "https://news.web.nhk/newsweb/na/nd-20261021de63092",
         "https://news.web.nhk/newsweb/na/nd-20261021de63105",
         "https://news.web.nhk/newsweb/na/nd-20261021de62788",
@@ -445,8 +446,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261019de61338",
         "https://news.web.nhk/newsweb/na/nd-20261018de61265",
         "https://news.web.nhk/newsweb/na/nd-20261019de61334",
-        "https://news.web.nhk/newsweb/na/nd-20261019de61332",
-        "https://news.web.nhk/newsweb/na/nd-20261019de61330"
+        "https://news.web.nhk/newsweb/na/nd-20261019de61332"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-matech-powernano-watch-5000/",
