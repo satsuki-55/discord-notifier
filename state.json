@@ -45,6 +45,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o#0",
         "https://www.bbc.co.uk/news/articles/cq4g13pplyzzo#0",
         "https://www.bbc.co.uk/news/articles/cmn8wx75l2n8o#0",
         "https://www.bbc.co.uk/news/articles/cmje5k3q9ello#1",
@@ -243,10 +244,10 @@
         "https://www.bbc.co.uk/news/articles/cv0ld6lrr2zeo#0",
         "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo#0",
         "https://www.bbc.co.uk/news/articles/cmvgxvkv54w1o#1",
-        "https://www.bbc.co.uk/news/articles/c9zrdpg7256yo#0",
-        "https://www.bbc.co.uk/news/articles/cmx2wqwxvyxlo#0"
+        "https://www.bbc.co.uk/news/articles/c9zrdpg7256yo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261021de63191",
         "https://news.web.nhk/newsweb/na/nd-20261021de63106",
         "https://news.web.nhk/newsweb/na/nd-20261021de63186",
         "https://news.web.nhk/newsweb/na/nd-20261021de63130",
@@ -445,10 +446,12 @@
         "https://news.web.nhk/newsweb/na/nd-20261019de61378",
         "https://news.web.nhk/newsweb/na/nd-20261019de61387",
         "https://news.web.nhk/newsweb/na/nd-20261019de61389",
-        "https://news.web.nhk/newsweb/na/nd-20261019de61364",
-        "https://news.web.nhk/newsweb/na/nd-20261016de60152"
+        "https://news.web.nhk/newsweb/na/nd-20261019de61364"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/iphone-duo-1week-smallhands-review/",
+        "https://www.gizmodo.jp/article/iphone-duo-1week-20-questions/",
+        "https://www.gizmodo.jp/article/iphone-duo-unbox-firstimpression/",
         "https://www.gizmodo.jp/article/2610-ugreen-nexode-wavy-mobile-battery/",
         "https://www.gizmodo.jp/article/2610-plaud-one-review-ai-voice-recorder/",
         "https://www.gizmodo.jp/article/rab_phantom-jacket/",
@@ -645,10 +648,7 @@
         "https://www.gizmodo.jp/article/2610-yamazaki-lunch-bag/",
         "https://www.gizmodo.jp/article/rorry-auradock-m2-10000/",
         "https://www.gizmodo.jp/article/retro-song-bird-game-boy-speaker/",
-        "https://www.gizmodo.jp/article/cheerplay-air-mouse/",
-        "https://www.gizmodo.jp/article/2610-iphone-duo-additional-production/",
-        "https://www.gizmodo.jp/article/2610-insta360-go-ultra-review/",
-        "https://www.gizmodo.jp/article/2610-meta-muse-ai-agent-review/"
+        "https://www.gizmodo.jp/article/cheerplay-air-mouse/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "FmVWaA-TMF0",
