@@ -246,6 +246,7 @@
         "https://www.bbc.co.uk/news/articles/c6vgjnk8nw2wo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261021de62921",
         "https://news.web.nhk/newsweb/na/nd-20261021de63018",
         "https://news.web.nhk/newsweb/na/nd-20261021de63014",
         "https://news.web.nhk/newsweb/na/nd-20261021de62983",
@@ -444,10 +445,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261018de61151",
         "https://news.web.nhk/newsweb/na/nd-20261018de61254",
         "https://news.web.nhk/newsweb/na/nd-20261015de59772",
-        "https://news.web.nhk/newsweb/na/nd-20261018de61247",
-        "https://news.web.nhk/newsweb/na/nd-20261018de61149"
+        "https://news.web.nhk/newsweb/na/nd-20261018de61247"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/hikeman-shoesporch/",
         "https://www.gizmodo.jp/article/sonic-lamb-beyond-headphones/",
         "https://www.gizmodo.jp/article/huawei-watch-6/",
         "https://www.gizmodo.jp/article/2610-chatgpt-advertising-targeting-explained/",
@@ -646,8 +647,7 @@
         "https://www.gizmodo.jp/article/a-rare-image-of-mars-at-dawn-reveals-captivating-beauty-of-its-ancient-cliffs/",
         "https://www.gizmodo.jp/article/lost-baggage-tracking-with-airtag-uq5/",
         "https://www.gizmodo.jp/article/lighting-in-gladsaxe-z51/",
-        "https://www.gizmodo.jp/article/2610-smartcoby-ultra-slim-4-98mm/",
-        "https://www.gizmodo.jp/article/2610-lrtk-iphone-survey-3d-ar/"
+        "https://www.gizmodo.jp/article/2610-smartcoby-ultra-slim-4-98mm/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "FmVWaA-TMF0",
