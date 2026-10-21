@@ -245,6 +245,7 @@
         "https://www.bbc.co.uk/news/articles/c6dxwg50pq8lo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261021de62759",
         "https://news.web.nhk/newsweb/na/nd-20261021de62612",
         "https://news.web.nhk/newsweb/na/nd-20261021de62724",
         "https://news.web.nhk/newsweb/na/nd-20261021de62714",
@@ -443,8 +444,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261018de61125",
         "https://news.web.nhk/newsweb/na/nd-20261018de61089",
         "https://news.web.nhk/newsweb/na/nd-20261018de61121",
-        "https://news.web.nhk/newsweb/na/nd-20261018de61090",
-        "https://news.web.nhk/newsweb/na/nd-20261018de61079"
+        "https://news.web.nhk/newsweb/na/nd-20261018de61090"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/after-muse-launch-u-s-banks-are-saying-hell-no-to-ai-agents-moving-money/",
