@@ -43,6 +43,8 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cv5ynp1j45x2o#0",
+        "https://www.bbc.co.uk/news/articles/c17rgd8e9gjo#0",
         "https://www.bbc.co.uk/news/articles/ckwyqdqxw6d0o#0",
         "https://www.bbc.co.uk/news/articles/ckwyqdqxw6d0o#1",
         "https://www.bbc.co.uk/news/articles/c60rl0vdr87eo#1",
@@ -240,11 +242,10 @@
         "https://www.bbc.co.uk/news/articles/c6vgjnk8nw2wo#0",
         "https://www.bbc.co.uk/news/articles/cw33x6gzgdm0o#1",
         "https://www.bbc.co.uk/news/articles/cw33x6gzgdm0o#0",
-        "https://www.bbc.co.uk/news/articles/cmd6dnq2j4v3o#1",
-        "https://www.bbc.co.uk/news/articles/c3lylj78777do#1",
-        "https://www.bbc.co.uk/news/articles/cv5ynp1j45x2o#0"
+        "https://www.bbc.co.uk/news/articles/cmd6dnq2j4v3o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261021de62983",
         "https://news.web.nhk/newsweb/na/nd-20261021de62955",
         "https://news.web.nhk/newsweb/na/nd-20261021de62966",
         "https://news.web.nhk/newsweb/na/nd-20261021de62902",
@@ -443,8 +444,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261018de61247",
         "https://news.web.nhk/newsweb/na/nd-20261018de61149",
         "https://news.web.nhk/newsweb/na/nd-20261018de61194",
-        "https://news.web.nhk/newsweb/na/nd-20261018de61179",
-        "https://news.web.nhk/newsweb/na/nd-20261018de61215"
+        "https://news.web.nhk/newsweb/na/nd-20261018de61179"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/huawei-watch-6/",
