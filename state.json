@@ -245,6 +245,9 @@
         "https://www.bbc.co.uk/news/articles/cwjdmy20yjmno#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261017de61034",
+        "https://news.web.nhk/newsweb/na/nd-20261021de62694",
+        "https://news.web.nhk/newsweb/na/nd-20261021de62656",
         "https://news.web.nhk/newsweb/na/nd-20261021de62622",
         "https://news.web.nhk/newsweb/na/nd-20261021de62600",
         "https://news.web.nhk/newsweb/na/nd-20261021de62586",
@@ -441,12 +444,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261018de61099",
         "https://news.web.nhk/newsweb/na/nd-20261018de61091",
         "https://news.web.nhk/newsweb/na/nd-20261018de61075",
-        "https://news.web.nhk/newsweb/na/nd-20261018de61074",
-        "https://news.web.nhk/newsweb/na/nd-20261018de61073",
-        "https://news.web.nhk/newsweb/na/nd-20261017de61034",
-        "https://news.web.nhk/newsweb/na/nd-20261017de61008"
+        "https://news.web.nhk/newsweb/na/nd-20261018de61074"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/nintendo-switch-2-physical-games/",
         "https://www.gizmodo.jp/article/2610-e-ink-kaleido-4/",
         "https://www.gizmodo.jp/article/ai_cunning_exams/",
         "https://www.gizmodo.jp/article/2026_local_llm_matome-bij/",
@@ -645,8 +646,7 @@
         "https://www.gizmodo.jp/article/asics_yogiri-speed_review_sub4/",
         "https://www.gizmodo.jp/article/a-guide-to-which-ai-ceos-now-say-super-intelligence-and-which-dont/",
         "https://www.gizmodo.jp/article/2610-godox-a2-iphone-strobe/",
-        "https://www.gizmodo.jp/article/dell-xps-13-event/",
-        "https://www.gizmodo.jp/article/2610-belkin-surefind-loop-cable-tag/"
+        "https://www.gizmodo.jp/article/dell-xps-13-event/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "FmVWaA-TMF0",
