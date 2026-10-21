@@ -247,6 +247,7 @@
         "https://www.bbc.co.uk/news/articles/cwp9g43g2p07o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261021de63156",
         "https://news.web.nhk/newsweb/na/nd-20261021de63148",
         "https://news.web.nhk/newsweb/na/nd-20261021de63116",
         "https://news.web.nhk/newsweb/na/nd-20261021de63092",
@@ -445,8 +446,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261019de61344",
         "https://news.web.nhk/newsweb/na/nd-20261019de61342",
         "https://news.web.nhk/newsweb/na/nd-20261019de61338",
-        "https://news.web.nhk/newsweb/na/nd-20261018de61265",
-        "https://news.web.nhk/newsweb/na/nd-20261019de61334"
+        "https://news.web.nhk/newsweb/na/nd-20261018de61265"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-meta-muse-ai-10m-downloads/",
