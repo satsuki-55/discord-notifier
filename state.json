@@ -46,6 +46,11 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cky83vwnyglno#0",
+        "https://www.bbc.co.uk/news/articles/cr93z1e87e0do#0",
+        "https://www.bbc.co.uk/news/articles/cr5ynl63v0pyo#0",
+        "https://www.bbc.co.uk/news/articles/ck5yn9z3vnego#0",
+        "https://www.bbc.co.uk/news/articles/cqwy71ww156ro#1",
         "https://www.bbc.co.uk/news/articles/cr5ynl63v0pyo#1",
         "https://www.bbc.co.uk/news/articles/c370pzdkw77jo#0",
         "https://www.bbc.co.uk/news/articles/c3x2wxnrpk78o#0",
@@ -240,14 +245,10 @@
         "https://www.bbc.co.uk/news/articles/cr93z1e87e0do#1",
         "https://www.bbc.co.uk/news/articles/cr5yn4pky527o#1",
         "https://www.bbc.co.uk/news/articles/cr5yn4pky527o#0",
-        "https://www.bbc.co.uk/news/articles/c6dxwg50pq8lo#0",
-        "https://www.bbc.co.uk/news/articles/cqzrdpkm3g84o#1",
-        "https://www.bbc.co.uk/news/videos/cq398rg0lnd1o#1",
-        "https://www.bbc.co.uk/news/articles/cr93z1e87e0do#0",
-        "https://www.bbc.co.uk/news/articles/cq0me4g9p970o#1",
-        "https://www.bbc.co.uk/news/articles/cq0me4g9p970o#0"
+        "https://www.bbc.co.uk/news/articles/c6dxwg50pq8lo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261023de63937",
         "https://news.web.nhk/newsweb/na/nd-20261023de63932",
         "https://news.web.nhk/newsweb/na/nd-20261022de63890",
         "https://news.web.nhk/newsweb/na/nd-20261022de63907",
@@ -446,8 +447,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261020de61985",
         "https://news.web.nhk/newsweb/na/nd-20261016de60773",
         "https://news.web.nhk/newsweb/na/nd-20261020de62018",
-        "https://news.web.nhk/newsweb/na/nd-20261020de62014",
-        "https://news.web.nhk/newsweb/na/nd-20261016de60399"
+        "https://news.web.nhk/newsweb/na/nd-20261020de62014"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/not-all-bioplastics-biodegrade-4u7/",
