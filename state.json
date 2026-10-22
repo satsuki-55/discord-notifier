@@ -46,6 +46,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c9e8lz4mrg88o#1",
         "https://www.bbc.co.uk/news/articles/c6reyx1d9ge9o#1",
         "https://www.bbc.co.uk/news/articles/c9e8lz4mrg88o#0",
         "https://www.bbc.co.uk/news/articles/cm9wzvj0v4q9o#1",
@@ -244,10 +245,11 @@
         "https://www.bbc.co.uk/news/articles/cvze4wx3elj1o#1",
         "https://www.bbc.co.uk/news/articles/c623d7z1rxg5o#1",
         "https://www.bbc.co.uk/news/articles/cvze4wx3elj1o#0",
-        "https://www.bbc.co.uk/news/articles/cj62y9dnd6pwo#1",
-        "https://www.bbc.co.uk/news/articles/cqlyel3wnxmxo#0"
+        "https://www.bbc.co.uk/news/articles/cj62y9dnd6pwo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261022de63845",
+        "https://news.web.nhk/newsweb/na/nd-20261022de63462",
         "https://news.web.nhk/newsweb/na/nd-20261022de63826",
         "https://news.web.nhk/newsweb/na/nd-20261022de63821",
         "https://news.web.nhk/newsweb/na/nd-20261022de63547",
@@ -445,9 +447,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261016de60674",
         "https://news.web.nhk/newsweb/na/nd-20261020de61966",
         "https://news.web.nhk/newsweb/na/nd-20261020de61950",
-        "https://news.web.nhk/newsweb/na/nd-20261020de61948",
-        "https://news.web.nhk/newsweb/na/nd-20261020de61930",
-        "https://news.web.nhk/newsweb/na/nd-20261020de61922"
+        "https://news.web.nhk/newsweb/na/nd-20261020de61948"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/dod-mitz-wakebukuuro/",
