@@ -247,6 +247,7 @@
         "https://www.bbc.co.uk/news/articles/cq398rjewd1jo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261022de63530",
         "https://news.web.nhk/newsweb/na/nd-20261022de63494",
         "https://news.web.nhk/newsweb/na/nd-20261019de61864",
         "https://news.web.nhk/newsweb/na/nd-20261019de61855",
@@ -445,8 +446,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261020de61888",
         "https://news.web.nhk/newsweb/na/nd-20261020de61898",
         "https://news.web.nhk/newsweb/na/nd-20261020de61895",
-        "https://news.web.nhk/newsweb/na/nd-20261020de61893",
-        "https://news.web.nhk/newsweb/na/nd-20261019de61814"
+        "https://news.web.nhk/newsweb/na/nd-20261020de61893"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/international_high-tech_festival_by_amazon/",
