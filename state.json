@@ -248,6 +248,8 @@
         "https://www.bbc.co.uk/news/articles/ckwyqdqxw6d0o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261023de63951",
+        "https://news.web.nhk/newsweb/na/nd-20261023de63971",
         "https://news.web.nhk/newsweb/na/nd-20261023de63956",
         "https://news.web.nhk/newsweb/na/nd-20261023de63931",
         "https://news.web.nhk/newsweb/na/nd-20261023de63954",
@@ -445,9 +447,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261020de62192",
         "https://news.web.nhk/newsweb/na/nd-20260930de53326",
         "https://news.web.nhk/newsweb/na/nd-20261020de62127",
-        "https://news.web.nhk/newsweb/na/nd-20261020de62116",
-        "https://news.web.nhk/newsweb/na/nd-20261020de62107",
-        "https://news.web.nhk/newsweb/na/nd-20261020de62102"
+        "https://news.web.nhk/newsweb/na/nd-20261020de62116"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/not-all-bioplastics-biodegrade-4u7/",
