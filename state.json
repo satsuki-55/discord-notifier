@@ -46,6 +46,8 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cqwy71ww156ro#0",
+        "https://www.bbc.co.uk/news/articles/cq8jzrxlkmwmo#1",
         "https://www.bbc.co.uk/news/articles/cx8dz75633vjo#1",
         "https://www.bbc.co.uk/news/articles/cr3wv99614deo#0",
         "https://www.bbc.co.uk/news/articles/cq62y0v7434yo#0",
@@ -243,11 +245,10 @@
         "https://www.bbc.co.uk/news/articles/cvrlyzlzlwj0o#1",
         "https://www.bbc.co.uk/news/articles/cmvgxvkv54w1o#0",
         "https://www.bbc.co.uk/news/articles/c63eln34yle3o#0",
-        "https://www.bbc.co.uk/news/articles/cxly435ym787o#1",
-        "https://www.bbc.co.uk/news/articles/cry4xj79zxd1o#1",
-        "https://www.bbc.co.uk/news/articles/cjly016320q1o#1"
+        "https://www.bbc.co.uk/news/articles/cxly435ym787o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261022de63534",
         "https://news.web.nhk/newsweb/na/nd-20261022de63746",
         "https://news.web.nhk/newsweb/na/nd-20261022de63703",
         "https://news.web.nhk/newsweb/na/nd-20261019de61846",
@@ -446,8 +447,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261020de61912",
         "https://news.web.nhk/newsweb/na/nd-20261020de61908",
         "https://news.web.nhk/newsweb/na/nd-20261019de61704",
-        "https://news.web.nhk/newsweb/na/nd-20261016de60636",
-        "https://news.web.nhk/newsweb/na/nd-20261019de61878"
+        "https://news.web.nhk/newsweb/na/nd-20261016de60636"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/montbell_roll-top-garbage-bag_review/",
