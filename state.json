@@ -247,6 +247,7 @@
         "https://www.bbc.co.uk/news/articles/ckq6n55l23rlo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260930de53355",
         "https://news.web.nhk/newsweb/na/nd-20261022de63524",
         "https://news.web.nhk/newsweb/na/nd-20261019de61814",
         "https://news.web.nhk/newsweb/na/nd-20261022de63530",
@@ -445,10 +446,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261016de60515",
         "https://news.web.nhk/newsweb/na/nd-20261020de61903",
         "https://news.web.nhk/newsweb/na/nd-20261019de61876",
-        "https://news.web.nhk/newsweb/na/nd-20261020de61888",
-        "https://news.web.nhk/newsweb/na/nd-20261020de61898"
+        "https://news.web.nhk/newsweb/na/nd-20261020de61888"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/php-vulnerability-incident-explained/",
         "https://www.gizmodo.jp/article/international_high-tech_festival_by_amazon/",
         "https://www.gizmodo.jp/article/2610-sanwa-clamp-power-strip/",
         "https://www.gizmodo.jp/article/jr-west-maintenance-robot/",
@@ -647,8 +648,7 @@
         "https://www.gizmodo.jp/article/population-capacity-xhw/",
         "https://www.gizmodo.jp/article/2610-laser-rifle-scope-hud/",
         "https://www.gizmodo.jp/article/how-to-change-copilot-key/",
-        "https://www.gizmodo.jp/article/2610-galaxy-z-fold8-samsung-market-share/",
-        "https://www.gizmodo.jp/article/2610-amazon-roomba-sale-discount/"
+        "https://www.gizmodo.jp/article/2610-galaxy-z-fold8-samsung-market-share/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "FmVWaA-TMF0",
