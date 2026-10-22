@@ -45,6 +45,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/videos/cxnv0emj06v1o#1",
         "https://www.bbc.co.uk/news/articles/cm9qzgg5z89no#0",
         "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o#1",
         "https://www.bbc.co.uk/news/articles/cx8dzrp768j8o#0",
@@ -243,10 +244,10 @@
         "https://www.bbc.co.uk/news/articles/cr3el70jz1nqo#0",
         "https://www.bbc.co.uk/news/articles/c6d7q2rxqxgxo#1",
         "https://www.bbc.co.uk/news/articles/cr3el70jz1nqo#1",
-        "https://www.bbc.co.uk/news/articles/ckq6n55l23rlo#1",
-        "https://www.bbc.co.uk/news/videos/cxly491v6p7yo#0"
+        "https://www.bbc.co.uk/news/articles/ckq6n55l23rlo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261022de63524",
         "https://news.web.nhk/newsweb/na/nd-20261019de61814",
         "https://news.web.nhk/newsweb/na/nd-20261022de63530",
         "https://news.web.nhk/newsweb/na/nd-20261022de63494",
@@ -445,8 +446,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261020de61903",
         "https://news.web.nhk/newsweb/na/nd-20261019de61876",
         "https://news.web.nhk/newsweb/na/nd-20261020de61888",
-        "https://news.web.nhk/newsweb/na/nd-20261020de61898",
-        "https://news.web.nhk/newsweb/na/nd-20261020de61895"
+        "https://news.web.nhk/newsweb/na/nd-20261020de61898"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/international_high-tech_festival_by_amazon/",
