@@ -247,6 +247,9 @@
         "https://www.bbc.co.uk/news/articles/ck9qzn193lrlo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261022de63386",
+        "https://news.web.nhk/newsweb/na/nd-20261019de61808",
+        "https://news.web.nhk/newsweb/na/nd-20261022de63377",
         "https://news.web.nhk/newsweb/na/nd-20261022de63353",
         "https://news.web.nhk/newsweb/na/nd-20261022de63324",
         "https://news.web.nhk/newsweb/na/nd-20261022de63349",
@@ -443,10 +446,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261019de61849",
         "https://news.web.nhk/newsweb/na/nd-20261019de61850",
         "https://news.web.nhk/newsweb/na/nd-20261019de61843",
-        "https://news.web.nhk/newsweb/na/nd-20261019de61832",
-        "https://news.web.nhk/newsweb/na/nd-20261019de61517",
-        "https://news.web.nhk/newsweb/na/nd-20261019de61789",
-        "https://news.web.nhk/newsweb/na/nd-20261019de61808"
+        "https://news.web.nhk/newsweb/na/nd-20261019de61832"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/waymo-reportedly-plans-to-put-20000-robotaxis-on-the-road-by-the-end-of-2027/",
