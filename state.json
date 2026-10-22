@@ -45,6 +45,10 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c6x2vpk93770o#0",
+        "https://www.bbc.co.uk/news/articles/ckzd6rjmlzvmo#1",
+        "https://www.bbc.co.uk/news/articles/cmn06g29522lo#1",
+        "https://www.bbc.co.uk/news/articles/cqx287g8714lo#1",
         "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o#0",
         "https://www.bbc.co.uk/news/articles/cmj471wgpky7o#1",
         "https://www.bbc.co.uk/news/articles/cm4g1zrl2nrqo#1",
@@ -240,13 +244,11 @@
         "https://www.bbc.co.uk/news/articles/crje5dke7vgqo#1",
         "https://www.bbc.co.uk/news/articles/c6m2dmdxgz2xo#2",
         "https://www.bbc.co.uk/news/articles/crje5dke7vgqo#0",
-        "https://www.bbc.co.uk/news/articles/cjr4yeygwdxvo#0",
-        "https://www.bbc.co.uk/news/articles/cmvg6qv1jdydo#1",
-        "https://www.bbc.co.uk/weather/articles/c64gr18jrvx3o#0",
-        "https://www.bbc.co.uk/news/articles/cqzrdpkm3g84o#0",
-        "https://www.bbc.co.uk/news/articles/c8y56y6xg9n9o#0"
+        "https://www.bbc.co.uk/news/articles/cjr4yeygwdxvo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261019de61849",
+        "https://news.web.nhk/newsweb/na/nd-20261022de63460",
         "https://news.web.nhk/newsweb/na/nd-20261022de63454",
         "https://news.web.nhk/newsweb/na/nd-20261022de63453",
         "https://news.web.nhk/newsweb/na/nd-20261022de63442",
@@ -444,9 +446,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261019de61855",
         "https://news.web.nhk/newsweb/na/nd-20261019de61845",
         "https://news.web.nhk/newsweb/na/nd-20261016de60405",
-        "https://news.web.nhk/newsweb/na/nd-20261019de61848",
-        "https://news.web.nhk/newsweb/na/nd-20261019de61821",
-        "https://news.web.nhk/newsweb/na/nd-20261019de61849"
+        "https://news.web.nhk/newsweb/na/nd-20261019de61848"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-google-gemini-guided-vision/",
