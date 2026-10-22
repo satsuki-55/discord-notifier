@@ -247,6 +247,7 @@
         "https://www.bbc.co.uk/news/articles/cqx2v800nnr2o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261022de63483",
         "https://news.web.nhk/newsweb/na/nd-20261022de63478",
         "https://news.web.nhk/newsweb/na/nd-20261022de63319",
         "https://news.web.nhk/newsweb/na/nd-20261019de61849",
@@ -445,8 +446,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261019de61822",
         "https://news.web.nhk/newsweb/na/nd-20261019de61865",
         "https://news.web.nhk/newsweb/na/nd-20261019de61864",
-        "https://news.web.nhk/newsweb/na/nd-20261019de61855",
-        "https://news.web.nhk/newsweb/na/nd-20261019de61845"
+        "https://news.web.nhk/newsweb/na/nd-20261019de61855"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/jr-west-maintenance-robot/",
