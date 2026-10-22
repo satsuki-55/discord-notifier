@@ -46,6 +46,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c30rlpkglkwpo#1",
         "https://www.bbc.co.uk/news/articles/c30rlpkglkwpo#0",
         "https://www.bbc.co.uk/news/videos/cmvg9v932z5vo#1",
         "https://www.bbc.co.uk/news/videos/c9146p1vx888o#1",
@@ -244,10 +245,10 @@
         "https://www.bbc.co.uk/news/articles/cmn8wx75l2n8o#1",
         "https://www.bbc.co.uk/news/videos/ckq6n56e5qrqo#1",
         "https://www.bbc.co.uk/news/articles/cv5ynp1j45x2o#0",
-        "https://www.bbc.co.uk/news/articles/c17rgd8e9gjo#0",
-        "https://www.bbc.co.uk/news/articles/ckwyqdqxw6d0o#0"
+        "https://www.bbc.co.uk/news/articles/c17rgd8e9gjo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261023de63966",
         "https://news.web.nhk/newsweb/na/nd-20261023de63951",
         "https://news.web.nhk/newsweb/na/nd-20261023de63971",
         "https://news.web.nhk/newsweb/na/nd-20261023de63956",
@@ -446,8 +447,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261019de61879",
         "https://news.web.nhk/newsweb/na/nd-20261020de62192",
         "https://news.web.nhk/newsweb/na/nd-20260930de53326",
-        "https://news.web.nhk/newsweb/na/nd-20261020de62127",
-        "https://news.web.nhk/newsweb/na/nd-20261020de62116"
+        "https://news.web.nhk/newsweb/na/nd-20261020de62127"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/not-all-bioplastics-biodegrade-4u7/",
