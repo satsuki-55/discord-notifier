@@ -46,6 +46,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cmy56q2n1veqo#0",
         "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o#1",
         "https://www.bbc.co.uk/news/articles/cmqxn3133rdwo#1",
         "https://www.bbc.co.uk/news/articles/cw073mj02v72o#0",
@@ -244,8 +245,7 @@
         "https://www.bbc.co.uk/news/articles/cky93njxlwjjo#1",
         "https://www.bbc.co.uk/news/articles/cm3wv9pdj33zo#0",
         "https://www.bbc.co.uk/news/articles/cm3wv9pn22e5o#0",
-        "https://www.bbc.co.uk/news/articles/cm9wzvj0v4q9o#0",
-        "https://www.bbc.co.uk/news/articles/cr3wv555ew6lo#1"
+        "https://www.bbc.co.uk/news/articles/cm9wzvj0v4q9o#0"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20261023de63980",
@@ -450,6 +450,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261020de62212"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2610-iphone-duo-magsafe-stand-issue/",
         "https://www.gizmodo.jp/article/not-all-bioplastics-biodegrade-4u7/",
         "https://www.gizmodo.jp/article/970f3660-5040-413c-8775-b13c57e70997/",
         "https://www.gizmodo.jp/article/bb81007d-abac-4e1f-97b5-529bfb2c3f3a/",
@@ -648,8 +649,7 @@
         "https://www.gizmodo.jp/article/tesla-flying-roadster-spacex/",
         "https://www.gizmodo.jp/article/2610-ugreen-revodok-pro-209-dock/",
         "https://www.gizmodo.jp/article/ceatec-yamagata-university/",
-        "https://www.gizmodo.jp/article/2610-ceatec_murata-fat-sensor-patch/",
-        "https://www.gizmodo.jp/article/ai-companies-are-preparing-to-shape-the-rules-after-everything-goes-wrong/"
+        "https://www.gizmodo.jp/article/2610-ceatec_murata-fat-sensor-patch/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "FmVWaA-TMF0",
