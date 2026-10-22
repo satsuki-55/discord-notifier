@@ -46,6 +46,8 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cq8jzrxlkmwmo#0",
+        "https://www.bbc.co.uk/news/articles/c6wyd53yg9n1o#1",
         "https://www.bbc.co.uk/news/articles/ck1l38z0v3v6o#0",
         "https://www.bbc.co.uk/news/articles/cry83vyw3y4lo#1",
         "https://www.bbc.co.uk/weather/articles/ckx2qpy2d13ro#1",
@@ -243,9 +245,7 @@
         "https://www.bbc.co.uk/news/articles/c83vqzkrr9zeo#1",
         "https://www.bbc.co.uk/news/articles/c5n49ll9l90wo#1",
         "https://www.bbc.co.uk/news/articles/cqm26z110vzko#1",
-        "https://www.bbc.co.uk/news/articles/cqx297pxg1djo#1",
-        "https://www.bbc.co.uk/news/articles/cxr5yqqd7nlpo#0",
-        "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno#1"
+        "https://www.bbc.co.uk/news/articles/cqx297pxg1djo#1"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20261022de63821",
@@ -450,6 +450,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261019de61784"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/dod-mitz-wakebukuuro/",
         "https://www.gizmodo.jp/article/pixel-10a-iphone-cost-review/",
         "https://www.gizmodo.jp/article/montbell_roll-top-garbage-bag_review/",
         "https://www.gizmodo.jp/article/2610-dentson-one-mouthpiece-toothbrush/",
@@ -648,8 +649,7 @@
         "https://www.gizmodo.jp/article/2610-energizer-flat-led-lantern/",
         "https://www.gizmodo.jp/article/2610-gta-6-amazon-discount-preorder/",
         "https://www.gizmodo.jp/article/anker-nano-travel-adapter-review/",
-        "https://www.gizmodo.jp/article/beats-pokemon-pill-speaker-pikachu-mimikyu/",
-        "https://www.gizmodo.jp/article/surface-laptop-ultra-hands-on/"
+        "https://www.gizmodo.jp/article/beats-pokemon-pill-speaker-pikachu-mimikyu/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "FmVWaA-TMF0",
