@@ -249,6 +249,7 @@
         "https://www.bbc.co.uk/news/articles/cq78pzl85nglo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261023de64596",
         "https://news.web.nhk/newsweb/na/nd-20261023de64591",
         "https://news.web.nhk/newsweb/na/nd-20261023de64594",
         "https://news.web.nhk/newsweb/na/nd-20261023de64585",
@@ -447,10 +448,11 @@
         "https://news.web.nhk/newsweb/na/nd-20261021de63105",
         "https://news.web.nhk/newsweb/na/nd-20261021de62788",
         "https://news.web.nhk/newsweb/na/nd-20261021de63099",
-        "https://news.web.nhk/newsweb/na/nd-20261021de63091",
-        "https://news.web.nhk/newsweb/na/nd-20261021de63069"
+        "https://news.web.nhk/newsweb/na/nd-20261021de63091"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/iphone-duo-booking-report/",
+        "https://www.gizmodo.jp/article/iphone-duo-best-fit-apps-review/",
         "https://www.gizmodo.jp/article/iphone-duo-complaints/",
         "https://www.gizmodo.jp/article/2610-sonos-beam-ultra-review/",
         "https://www.gizmodo.jp/article/2610-iphone-duo-review-romance/",
@@ -648,9 +650,7 @@
         "https://www.gizmodo.jp/article/2610-ai-data-center-local-opposition/",
         "https://www.gizmodo.jp/article/2610-ugreen-air-45w-charger/",
         "https://www.gizmodo.jp/article/2610-hakoake-amazon-cardboard-opener/",
-        "https://www.gizmodo.jp/article/xiaomi-redmi-pad-2-amazon-sale/",
-        "https://www.gizmodo.jp/article/2610-how-to-buy-ipad-air-cheap-amazon/",
-        "https://www.gizmodo.jp/article/07b3f71e-b9e5-41cf-865e-41f514367dfb/"
+        "https://www.gizmodo.jp/article/xiaomi-redmi-pad-2-amazon-sale/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "VJ93fOIjdXA",
