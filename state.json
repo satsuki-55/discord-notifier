@@ -248,6 +248,7 @@
         "https://www.bbc.co.uk/news/articles/cmje5k3q9ello#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261023de64024",
         "https://news.web.nhk/newsweb/na/nd-20261023de64015",
         "https://news.web.nhk/newsweb/na/nd-20261023de64007",
         "https://news.web.nhk/newsweb/na/nd-20261023de64008",
@@ -446,10 +447,11 @@
         "https://news.web.nhk/newsweb/na/nd-20261020de62437",
         "https://news.web.nhk/newsweb/na/nd-20261020de62412",
         "https://news.web.nhk/newsweb/na/nd-20261020de62389",
-        "https://news.web.nhk/newsweb/na/nd-20261020de62397",
-        "https://news.web.nhk/newsweb/na/nd-20261020de62345"
+        "https://news.web.nhk/newsweb/na/nd-20261020de62397"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/what-is-iphoneduo_news/",
+        "https://www.gizmodo.jp/article/xiaomi-redmi-k100/",
         "https://www.gizmodo.jp/article/2610-ai-replication-smart-appliances/",
         "https://www.gizmodo.jp/article/2610-iphone-duo-magsafe-stand-issue/",
         "https://www.gizmodo.jp/article/not-all-bioplastics-biodegrade-4u7/",
@@ -647,9 +649,7 @@
         "https://www.gizmodo.jp/article/iphone-18-tilta-khronos-case/",
         "https://www.gizmodo.jp/article/google-maps-mclaren-f1-car/",
         "https://www.gizmodo.jp/article/comu-action-pro/",
-        "https://www.gizmodo.jp/article/tesla-flying-roadster-spacex/",
-        "https://www.gizmodo.jp/article/2610-ugreen-revodok-pro-209-dock/",
-        "https://www.gizmodo.jp/article/ceatec-yamagata-university/"
+        "https://www.gizmodo.jp/article/tesla-flying-roadster-spacex/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "FmVWaA-TMF0",
