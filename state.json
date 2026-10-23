@@ -46,6 +46,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cw98zn304zg7o#0",
         "https://www.bbc.co.uk/news/videos/cmzxlgkyl3vpo#1",
         "https://www.bbc.co.uk/news/articles/cke8r6543gplo#1",
         "https://www.bbc.co.uk/news/videos/cmzxlgkyl3vpo#0",
@@ -244,10 +245,10 @@
         "https://www.bbc.co.uk/news/articles/cq39870ypgl7o#1",
         "https://www.bbc.co.uk/news/articles/cy4zdgk081eo#1",
         "https://www.bbc.co.uk/news/articles/cm5ynqkgwr69o#0",
-        "https://www.bbc.co.uk/news/articles/c63eln34yle3o#1",
-        "https://www.bbc.co.uk/news/articles/crgj9d4zgj5yo#1"
+        "https://www.bbc.co.uk/news/articles/c63eln34yle3o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261023de64339",
         "https://news.web.nhk/newsweb/na/nd-20261023de64338",
         "https://news.web.nhk/newsweb/na/nd-20261023de64298",
         "https://news.web.nhk/newsweb/na/nd-20261023de64213",
@@ -446,8 +447,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261021de62714",
         "https://news.web.nhk/newsweb/na/nd-20261021de62637",
         "https://news.web.nhk/newsweb/na/nd-20261017de61034",
-        "https://news.web.nhk/newsweb/na/nd-20261021de62694",
-        "https://news.web.nhk/newsweb/na/nd-20261021de62656"
+        "https://news.web.nhk/newsweb/na/nd-20261021de62694"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/hmny-casual_glasses-holder_review/",
