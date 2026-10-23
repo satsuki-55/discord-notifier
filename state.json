@@ -248,6 +248,7 @@
         "https://www.bbc.co.uk/news/articles/cmje5k3q9ello#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261023de64013",
         "https://news.web.nhk/newsweb/na/nd-20261020de62265",
         "https://news.web.nhk/newsweb/na/nd-20261023de64005",
         "https://news.web.nhk/newsweb/na/nd-20261023de63995",
@@ -446,10 +447,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261020de62345",
         "https://news.web.nhk/newsweb/na/nd-20261020de62376",
         "https://news.web.nhk/newsweb/na/nd-20261020de62347",
-        "https://news.web.nhk/newsweb/na/nd-20261020de61967",
-        "https://news.web.nhk/newsweb/na/nd-20261020de62294"
+        "https://news.web.nhk/newsweb/na/nd-20261020de61967"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2610-ai-replication-smart-appliances/",
         "https://www.gizmodo.jp/article/2610-iphone-duo-magsafe-stand-issue/",
         "https://www.gizmodo.jp/article/not-all-bioplastics-biodegrade-4u7/",
         "https://www.gizmodo.jp/article/970f3660-5040-413c-8775-b13c57e70997/",
@@ -648,8 +649,7 @@
         "https://www.gizmodo.jp/article/comu-action-pro/",
         "https://www.gizmodo.jp/article/tesla-flying-roadster-spacex/",
         "https://www.gizmodo.jp/article/2610-ugreen-revodok-pro-209-dock/",
-        "https://www.gizmodo.jp/article/ceatec-yamagata-university/",
-        "https://www.gizmodo.jp/article/2610-ceatec_murata-fat-sensor-patch/"
+        "https://www.gizmodo.jp/article/ceatec-yamagata-university/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "FmVWaA-TMF0",
