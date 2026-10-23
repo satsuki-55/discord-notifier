@@ -248,6 +248,7 @@
         "https://www.bbc.co.uk/news/articles/cmje5k3q9ello#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261023de63992",
         "https://news.web.nhk/newsweb/na/nd-20261023de63999",
         "https://news.web.nhk/newsweb/na/nd-20261023de63997",
         "https://news.web.nhk/newsweb/na/nd-20261023de63991",
@@ -446,8 +447,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261020de62294",
         "https://news.web.nhk/newsweb/na/nd-20261020de62303",
         "https://news.web.nhk/newsweb/na/nd-20261020de62265",
-        "https://news.web.nhk/newsweb/na/nd-20261020de62258",
-        "https://news.web.nhk/newsweb/na/nd-20261020de62219"
+        "https://news.web.nhk/newsweb/na/nd-20261020de62258"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-iphone-duo-magsafe-stand-issue/",
