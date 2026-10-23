@@ -48,6 +48,8 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cx7vpmn6qzmlo#0",
+        "https://www.bbc.co.uk/news/articles/c59vzjm118j1o#1",
         "https://www.bbc.co.uk/news/articles/c60qk573yzz8o#0",
         "https://www.bbc.co.uk/news/videos/c6q8nd7n91eyo#1",
         "https://www.bbc.co.uk/news/articles/cr5ynl415j79o#1",
@@ -245,11 +247,11 @@
         "https://www.bbc.co.uk/news/articles/cmn06g29522lo#1",
         "https://www.bbc.co.uk/news/articles/cqx287g8714lo#1",
         "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o#0",
-        "https://www.bbc.co.uk/news/articles/cmj471wgpky7o#1",
-        "https://www.bbc.co.uk/news/articles/cm4g1zrl2nrqo#1",
-        "https://www.bbc.co.uk/news/articles/cr74p0zkd4jjo#1"
+        "https://www.bbc.co.uk/news/articles/cmj471wgpky7o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261024de64642",
+        "https://news.web.nhk/newsweb/na/nd-20261024de64650",
         "https://news.web.nhk/newsweb/na/nd-20261024de64625",
         "https://news.web.nhk/newsweb/na/nd-20261024de64647",
         "https://news.web.nhk/newsweb/na/nd-20261024de64630",
@@ -447,9 +449,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261021de63207",
         "https://news.web.nhk/newsweb/na/nd-20261021de63203",
         "https://news.web.nhk/newsweb/na/nd-20261021de63199",
-        "https://news.web.nhk/newsweb/na/nd-20261021de63191",
-        "https://news.web.nhk/newsweb/na/nd-20261021de63106",
-        "https://news.web.nhk/newsweb/na/nd-20261021de63186"
+        "https://news.web.nhk/newsweb/na/nd-20261021de63191"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-what-to-do-if-password-is-leaked/",
