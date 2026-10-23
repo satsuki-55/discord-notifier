@@ -46,6 +46,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/videos/ck240lmvqjyjo#1",
         "https://www.bbc.co.uk/news/articles/cmqxn3133rdwo#0",
         "https://www.bbc.co.uk/news/articles/ck7vp8g38y7vo#1",
         "https://www.bbc.co.uk/news/articles/crpdg235g76no#0",
@@ -244,10 +245,10 @@
         "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o#1",
         "https://www.bbc.co.uk/news/videos/c6n9r7gvngx8o#0",
         "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno#0",
-        "https://www.bbc.co.uk/news/articles/ck20rver1j31o#0",
-        "https://www.bbc.co.uk/news/articles/cm2l4xw7xpjgo#1"
+        "https://www.bbc.co.uk/news/articles/ck20rver1j31o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260930de53356",
         "https://news.web.nhk/newsweb/na/nd-20261023de64171",
         "https://news.web.nhk/newsweb/na/nd-20261023de64183",
         "https://news.web.nhk/newsweb/na/nd-20261023de64178",
@@ -446,8 +447,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261021de62558",
         "https://news.web.nhk/newsweb/na/nd-20261021de62559",
         "https://news.web.nhk/newsweb/na/nd-20261020de62408",
-        "https://news.web.nhk/newsweb/na/nd-20261021de62527",
-        "https://news.web.nhk/newsweb/na/nd-20261021de62549"
+        "https://news.web.nhk/newsweb/na/nd-20261021de62527"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-yamazaki-cassette-stove-rack/",
