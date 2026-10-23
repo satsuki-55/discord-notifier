@@ -248,6 +248,7 @@
         "https://www.bbc.co.uk/news/articles/cmje5k3q9ello#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261023de64116",
         "https://news.web.nhk/newsweb/na/nd-20261023de64028",
         "https://news.web.nhk/newsweb/na/nd-20261023de64088",
         "https://news.web.nhk/newsweb/na/nd-20261023de64084",
@@ -446,10 +447,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261020de62509",
         "https://news.web.nhk/newsweb/na/nd-20261020de62489",
         "https://news.web.nhk/newsweb/na/nd-20261020de62468",
-        "https://news.web.nhk/newsweb/na/nd-20261020de62467",
-        "https://news.web.nhk/newsweb/na/nd-20261020de62453"
+        "https://news.web.nhk/newsweb/na/nd-20261020de62467"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/iphone-duo-review-2026/",
         "https://www.gizmodo.jp/article/iphone-air-2-rumors/",
         "https://www.gizmodo.jp/article/2610-most-significant-hacks-in-history/",
         "https://www.gizmodo.jp/article/what-is-iphoneduo_news/",
@@ -648,8 +649,7 @@
         "https://www.gizmodo.jp/article/2610-fujifilm-instax-square-2/",
         "https://www.gizmodo.jp/article/garmin_marq-gen-3/",
         "https://www.gizmodo.jp/article/nextorage-microsd-express-1tb-amazon-sale/",
-        "https://www.gizmodo.jp/article/iphone-18-tilta-khronos-case/",
-        "https://www.gizmodo.jp/article/google-maps-mclaren-f1-car/"
+        "https://www.gizmodo.jp/article/iphone-18-tilta-khronos-case/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "VJ93fOIjdXA",
