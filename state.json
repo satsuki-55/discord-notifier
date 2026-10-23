@@ -47,6 +47,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/weather/articles/cw4g19dll8jlo#0",
         "https://www.bbc.co.uk/news/articles/c59vzjm118j1o#0",
         "https://www.bbc.co.uk/news/articles/cxnv025d8qpmo#0",
         "https://www.bbc.co.uk/news/articles/ckr5yz2pqqppo#1",
@@ -245,10 +246,10 @@
         "https://www.bbc.co.uk/news/articles/c62kepvg2x9lo#1",
         "https://www.bbc.co.uk/weather/articles/cm17knj9kpv8o#0",
         "https://www.bbc.co.uk/news/articles/cwrkylee5px0o#0",
-        "https://www.bbc.co.uk/news/articles/c6m2dw39jx1do#1",
-        "https://www.bbc.co.uk/news/articles/c674p0xepljeo#1"
+        "https://www.bbc.co.uk/news/articles/c6m2dw39jx1do#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261023de64340",
         "https://news.web.nhk/newsweb/na/nd-20261023de64560",
         "https://news.web.nhk/newsweb/na/nd-20261021de62983",
         "https://news.web.nhk/newsweb/na/nd-20261023de64518",
@@ -447,10 +448,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261021de62752",
         "https://news.web.nhk/newsweb/na/nd-20261021de63036",
         "https://news.web.nhk/newsweb/na/nd-20261021de63054",
-        "https://news.web.nhk/newsweb/na/nd-20261021de63027",
-        "https://news.web.nhk/newsweb/na/nd-20261021de62921"
+        "https://news.web.nhk/newsweb/na/nd-20261021de63027"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2610-iphone-duo-tiny-computers-app/",
         "https://www.gizmodo.jp/article/iphone-duo_folio_case_review/",
         "https://www.gizmodo.jp/article/3ad2893b-5b9d-4172-a413-389a758f2974/",
         "https://www.gizmodo.jp/article/2610-cigarette-lighter-voltage-meter/",
@@ -649,8 +650,7 @@
         "https://www.gizmodo.jp/article/2610-amazon-prime-appreciation-sale-netnavigate-mobile-wifi/",
         "https://www.gizmodo.jp/article/2610-fake-banking-app-malware-hirudo/",
         "https://www.gizmodo.jp/article/ugreen-45w-gan-re-26-oct/",
-        "https://www.gizmodo.jp/article/peelers_for_greenonions_repost/",
-        "https://www.gizmodo.jp/article/2610-amazon-basics-aa-batteries-prime-sale-price/"
+        "https://www.gizmodo.jp/article/peelers_for_greenonions_repost/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "VJ93fOIjdXA",
