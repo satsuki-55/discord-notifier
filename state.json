@@ -248,6 +248,7 @@
         "https://www.bbc.co.uk/news/articles/cmje5k3q9ello#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261023de64007",
         "https://news.web.nhk/newsweb/na/nd-20261023de64008",
         "https://news.web.nhk/newsweb/na/nd-20261023de64013",
         "https://news.web.nhk/newsweb/na/nd-20261020de62265",
@@ -446,8 +447,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261020de62389",
         "https://news.web.nhk/newsweb/na/nd-20261020de62397",
         "https://news.web.nhk/newsweb/na/nd-20261020de62345",
-        "https://news.web.nhk/newsweb/na/nd-20261020de62376",
-        "https://news.web.nhk/newsweb/na/nd-20261020de62347"
+        "https://news.web.nhk/newsweb/na/nd-20261020de62376"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-ai-replication-smart-appliances/",
