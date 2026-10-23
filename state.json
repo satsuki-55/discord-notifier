@@ -47,6 +47,9 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/ck87zlpzny15o#0",
+        "https://www.bbc.co.uk/news/articles/cw98zn304zg7o#1",
+        "https://www.bbc.co.uk/news/articles/ck87zlpzny15o#1",
         "https://www.bbc.co.uk/weather/articles/cw4g19dll8jlo#0",
         "https://www.bbc.co.uk/news/articles/c59vzjm118j1o#0",
         "https://www.bbc.co.uk/news/articles/cxnv025d8qpmo#0",
@@ -243,10 +246,7 @@
         "https://www.bbc.co.uk/news/articles/cqrly2dg5xzzo#0",
         "https://www.bbc.co.uk/news/articles/cw0541p65dyzo#1",
         "https://www.bbc.co.uk/news/articles/cq78pzl85nglo#0",
-        "https://www.bbc.co.uk/news/articles/c62kepvg2x9lo#1",
-        "https://www.bbc.co.uk/weather/articles/cm17knj9kpv8o#0",
-        "https://www.bbc.co.uk/news/articles/cwrkylee5px0o#0",
-        "https://www.bbc.co.uk/news/articles/c6m2dw39jx1do#1"
+        "https://www.bbc.co.uk/news/articles/c62kepvg2x9lo#1"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20261023de64499",
@@ -451,6 +451,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261021de63054"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2610-iphone-duo-optimized-apps-badge/",
         "https://www.gizmodo.jp/article/2610-iphone-duo-apple-official-case-review/",
         "https://www.gizmodo.jp/article/php_vulnerability_delay_cause/",
         "https://www.gizmodo.jp/article/2610-iphone-duo-tiny-computers-app/",
@@ -649,8 +650,7 @@
         "https://www.gizmodo.jp/article/07b3f71e-b9e5-41cf-865e-41f514367dfb/",
         "https://www.gizmodo.jp/article/2610-protein-cost-performance-comparison/",
         "https://www.gizmodo.jp/article/2610-ai-urine-smell-cancer-detection/",
-        "https://www.gizmodo.jp/article/2610-amazon-prime-appreciation-sale-netnavigate-mobile-wifi/",
-        "https://www.gizmodo.jp/article/2610-fake-banking-app-malware-hirudo/"
+        "https://www.gizmodo.jp/article/2610-amazon-prime-appreciation-sale-netnavigate-mobile-wifi/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "VJ93fOIjdXA",
