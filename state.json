@@ -248,6 +248,9 @@
         "https://www.bbc.co.uk/news/articles/cmje5k3q9ello#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261023de64084",
+        "https://news.web.nhk/newsweb/na/nd-20261023de64070",
+        "https://news.web.nhk/newsweb/na/nd-20261023de64076",
         "https://news.web.nhk/newsweb/na/nd-20261023de64085",
         "https://news.web.nhk/newsweb/na/nd-20261023de64069",
         "https://news.web.nhk/newsweb/na/nd-20261023de64050",
@@ -444,10 +447,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261020de62467",
         "https://news.web.nhk/newsweb/na/nd-20261020de62453",
         "https://news.web.nhk/newsweb/na/nd-20261020de62455",
-        "https://news.web.nhk/newsweb/na/nd-20261020de62452",
-        "https://news.web.nhk/newsweb/na/nd-20261020de62435",
-        "https://news.web.nhk/newsweb/na/nd-20261020de62439",
-        "https://news.web.nhk/newsweb/na/nd-20261020de62451"
+        "https://news.web.nhk/newsweb/na/nd-20261020de62452"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-most-significant-hacks-in-history/",
