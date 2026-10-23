@@ -248,6 +248,7 @@
         "https://www.bbc.co.uk/news/articles/cmje5k3q9ello#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261023de64142",
         "https://news.web.nhk/newsweb/na/nd-20261023de64083",
         "https://news.web.nhk/newsweb/na/nd-20261023de64116",
         "https://news.web.nhk/newsweb/na/nd-20261023de64028",
@@ -446,10 +447,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261021de62520",
         "https://news.web.nhk/newsweb/na/nd-20261020de62515",
         "https://news.web.nhk/newsweb/na/nd-20261020de62509",
-        "https://news.web.nhk/newsweb/na/nd-20261020de62489",
-        "https://news.web.nhk/newsweb/na/nd-20261020de62468"
+        "https://news.web.nhk/newsweb/na/nd-20261020de62489"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2610-iphone-duo-apple-pencil-support/",
         "https://www.gizmodo.jp/article/copilot-plus-pc-hybrid-intelligence/",
         "https://www.gizmodo.jp/article/iphone-duo-review-2026/",
         "https://www.gizmodo.jp/article/iphone-air-2-rumors/",
@@ -648,8 +649,7 @@
         "https://www.gizmodo.jp/article/deb5b5f7-9dd1-4f6c-a1f8-24a77c92c42e/",
         "https://www.gizmodo.jp/article/iphone-18-18pro-rumors-summary/",
         "https://www.gizmodo.jp/article/2610-fujifilm-instax-square-2/",
-        "https://www.gizmodo.jp/article/garmin_marq-gen-3/",
-        "https://www.gizmodo.jp/article/nextorage-microsd-express-1tb-amazon-sale/"
+        "https://www.gizmodo.jp/article/garmin_marq-gen-3/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "VJ93fOIjdXA",
