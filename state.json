@@ -46,6 +46,8 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cmqxn3133rdwo#0",
+        "https://www.bbc.co.uk/news/articles/ck7vp8g38y7vo#1",
         "https://www.bbc.co.uk/news/articles/crpdg235g76no#0",
         "https://www.bbc.co.uk/news/videos/ck240lmvqjyjo#0",
         "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o#0",
@@ -243,9 +245,7 @@
         "https://www.bbc.co.uk/news/videos/c6n9r7gvngx8o#0",
         "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno#0",
         "https://www.bbc.co.uk/news/articles/ck20rver1j31o#0",
-        "https://www.bbc.co.uk/news/articles/cm2l4xw7xpjgo#1",
-        "https://www.bbc.co.uk/news/articles/ckrey51jrgnro#1",
-        "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo#0"
+        "https://www.bbc.co.uk/news/articles/cm2l4xw7xpjgo#1"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20261023de64171",
@@ -450,6 +450,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261021de62549"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2610-yamazaki-cassette-stove-rack/",
         "https://www.gizmodo.jp/article/documentary_film_naza/",
         "https://www.gizmodo.jp/article/2610-iphone-duo-nanotexture-film-removal/",
         "https://www.gizmodo.jp/article/nvidia-dsx-pod-ai-factory/",
@@ -648,8 +649,7 @@
         "https://www.gizmodo.jp/article/2610-amazon-yamazaki-monitorshitastand/",
         "https://www.gizmodo.jp/article/2610-dyson-hair-dryer-sale/",
         "https://www.gizmodo.jp/article/barefoot-expo_notace_yama-t1_review/",
-        "https://www.gizmodo.jp/article/2610-panasonic-lamdash-pro-review/",
-        "https://www.gizmodo.jp/article/2610-resident-evil-movie-review/"
+        "https://www.gizmodo.jp/article/2610-panasonic-lamdash-pro-review/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "VJ93fOIjdXA",
