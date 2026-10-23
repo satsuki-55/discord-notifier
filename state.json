@@ -248,6 +248,7 @@
         "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261023de64171",
         "https://news.web.nhk/newsweb/na/nd-20261023de64183",
         "https://news.web.nhk/newsweb/na/nd-20261023de64178",
         "https://news.web.nhk/newsweb/na/nd-20261020de62490",
@@ -446,8 +447,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261021de62559",
         "https://news.web.nhk/newsweb/na/nd-20261020de62408",
         "https://news.web.nhk/newsweb/na/nd-20261021de62527",
-        "https://news.web.nhk/newsweb/na/nd-20261021de62549",
-        "https://news.web.nhk/newsweb/na/nd-20261021de62550"
+        "https://news.web.nhk/newsweb/na/nd-20261021de62549"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/documentary_film_naza/",
