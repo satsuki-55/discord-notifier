@@ -248,6 +248,7 @@
         "https://www.bbc.co.uk/news/articles/ckjrw044ggxgo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261023de64258",
         "https://news.web.nhk/newsweb/na/nd-20261023de64250",
         "https://news.web.nhk/newsweb/na/nd-20261023de64285",
         "https://news.web.nhk/newsweb/na/nd-20261023de64208",
@@ -446,10 +447,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261021de62600",
         "https://news.web.nhk/newsweb/na/nd-20261021de62586",
         "https://news.web.nhk/newsweb/na/nd-20261021de62565",
-        "https://news.web.nhk/newsweb/na/nd-20261021de62564",
-        "https://news.web.nhk/newsweb/na/nd-20261021de62531"
+        "https://news.web.nhk/newsweb/na/nd-20261021de62564"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/chogokin-meishi-case/",
         "https://www.gizmodo.jp/article/zero-industries-space-power-funding/",
         "https://www.gizmodo.jp/article/2610-yamazaki-cassette-stove-rack/",
         "https://www.gizmodo.jp/article/documentary_film_naza/",
@@ -648,8 +649,7 @@
         "https://www.gizmodo.jp/article/elecom-usb-cable-hbt/",
         "https://www.gizmodo.jp/article/2610-windows-11-24h2-end-of-support/",
         "https://www.gizmodo.jp/article/2610-amazon-yamazaki-monitorshitastand/",
-        "https://www.gizmodo.jp/article/2610-dyson-hair-dryer-sale/",
-        "https://www.gizmodo.jp/article/barefoot-expo_notace_yama-t1_review/"
+        "https://www.gizmodo.jp/article/2610-dyson-hair-dryer-sale/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "VJ93fOIjdXA",
