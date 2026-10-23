@@ -46,6 +46,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/weather/articles/cq8ezy256e42o#1",
         "https://www.bbc.co.uk/weather/articles/cq8ezy256e42o#0",
         "https://www.bbc.co.uk/news/articles/cmy56q2n1veqo#1",
         "https://www.bbc.co.uk/news/articles/c54g1kxw4nvvo#1",
@@ -244,10 +245,10 @@
         "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o#0",
         "https://www.bbc.co.uk/news/articles/cq4g13pplyzzo#0",
         "https://www.bbc.co.uk/news/articles/cmn8wx75l2n8o#0",
-        "https://www.bbc.co.uk/news/articles/cmje5k3q9ello#1",
-        "https://www.bbc.co.uk/news/articles/cmje5k3q9ello#0"
+        "https://www.bbc.co.uk/news/articles/cmje5k3q9ello#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261023de63997",
         "https://news.web.nhk/newsweb/na/nd-20261023de63991",
         "https://news.web.nhk/newsweb/na/nd-20261023de63980",
         "https://news.web.nhk/newsweb/na/nd-20261023de63979",
@@ -446,8 +447,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261020de62265",
         "https://news.web.nhk/newsweb/na/nd-20261020de62258",
         "https://news.web.nhk/newsweb/na/nd-20261020de62219",
-        "https://news.web.nhk/newsweb/na/nd-20261020de62261",
-        "https://news.web.nhk/newsweb/na/nd-20261020de62252"
+        "https://news.web.nhk/newsweb/na/nd-20261020de62261"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-iphone-duo-magsafe-stand-issue/",
