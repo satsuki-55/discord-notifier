@@ -248,6 +248,7 @@
         "https://www.bbc.co.uk/news/articles/c17rgd8e9gjo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261023de64373",
         "https://news.web.nhk/newsweb/na/nd-20261023de64359",
         "https://news.web.nhk/newsweb/na/nd-20261023de64385",
         "https://news.web.nhk/newsweb/na/nd-20261023de64214",
@@ -446,10 +447,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261021de62966",
         "https://news.web.nhk/newsweb/na/nd-20261021de62902",
         "https://news.web.nhk/newsweb/na/nd-20261021de62880",
-        "https://news.web.nhk/newsweb/na/nd-20261021de62828",
-        "https://news.web.nhk/newsweb/na/nd-20261021de62856"
+        "https://news.web.nhk/newsweb/na/nd-20261021de62828"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/iphone-duo-no-yoyaku-nashi/",
         "https://www.gizmodo.jp/article/iphone-duo-galaxy-z-fold8-sumo/",
         "https://www.gizmodo.jp/article/nape-pro-se-gizmart/",
         "https://www.gizmodo.jp/article/2610-kindle-unlimited-to-kindle-plus/",
@@ -648,8 +649,7 @@
         "https://www.gizmodo.jp/article/2610-amazon-basics-aa-batteries-prime-sale-price/",
         "https://www.gizmodo.jp/article/2610-amazon-sale-gizmodo-must-haves/",
         "https://www.gizmodo.jp/article/good-design-award-2026-yamaha-ead50/",
-        "https://www.gizmodo.jp/article/2610-marvels-wolverine-review/",
-        "https://www.gizmodo.jp/article/smart_gears-re-26-oct/"
+        "https://www.gizmodo.jp/article/2610-marvels-wolverine-review/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "VJ93fOIjdXA",
