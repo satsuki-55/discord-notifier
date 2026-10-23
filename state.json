@@ -248,6 +248,8 @@
         "https://www.bbc.co.uk/news/articles/cmgr8q88r5eqo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261023de64521",
+        "https://news.web.nhk/newsweb/na/nd-20261021de62902",
         "https://news.web.nhk/newsweb/na/nd-20261023de64520",
         "https://news.web.nhk/newsweb/na/nd-20261023de64388",
         "https://news.web.nhk/newsweb/na/nd-20261023de64506",
@@ -445,9 +447,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261021de62921",
         "https://news.web.nhk/newsweb/na/nd-20261021de63018",
         "https://news.web.nhk/newsweb/na/nd-20261021de63014",
-        "https://news.web.nhk/newsweb/na/nd-20261021de62983",
-        "https://news.web.nhk/newsweb/na/nd-20261021de62955",
-        "https://news.web.nhk/newsweb/na/nd-20261021de62966"
+        "https://news.web.nhk/newsweb/na/nd-20261021de62983"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-cigarette-lighter-voltage-meter/",
