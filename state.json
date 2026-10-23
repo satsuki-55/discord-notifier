@@ -248,6 +248,8 @@
         "https://www.bbc.co.uk/news/articles/c94g1pjmxg0ko#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261023de64208",
+        "https://news.web.nhk/newsweb/na/nd-20261023de64236",
         "https://news.web.nhk/newsweb/na/nd-20261022de63354",
         "https://news.web.nhk/newsweb/na/nd-20261023de64237",
         "https://news.web.nhk/newsweb/na/nd-20260930de53356",
@@ -445,9 +447,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261021de62564",
         "https://news.web.nhk/newsweb/na/nd-20261021de62531",
         "https://news.web.nhk/newsweb/na/nd-20261021de62530",
-        "https://news.web.nhk/newsweb/na/nd-20261021de62563",
-        "https://news.web.nhk/newsweb/na/nd-20261021de62558",
-        "https://news.web.nhk/newsweb/na/nd-20261021de62559"
+        "https://news.web.nhk/newsweb/na/nd-20261021de62563"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/zero-industries-space-power-funding/",
