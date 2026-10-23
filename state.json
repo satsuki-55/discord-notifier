@@ -249,6 +249,7 @@
         "https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261023de64605",
         "https://news.web.nhk/newsweb/na/nd-20261023de64584",
         "https://news.web.nhk/newsweb/na/nd-20261023de64596",
         "https://news.web.nhk/newsweb/na/nd-20261023de64591",
@@ -447,8 +448,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261021de63116",
         "https://news.web.nhk/newsweb/na/nd-20261021de63092",
         "https://news.web.nhk/newsweb/na/nd-20261021de63105",
-        "https://news.web.nhk/newsweb/na/nd-20261021de62788",
-        "https://news.web.nhk/newsweb/na/nd-20261021de63099"
+        "https://news.web.nhk/newsweb/na/nd-20261021de62788"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-what-to-do-if-password-is-leaked/",
