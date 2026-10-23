@@ -46,6 +46,8 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c50mep10dek7o#0",
+        "https://www.bbc.co.uk/news/articles/c84g1zxeg9r4o#1",
         "https://www.bbc.co.uk/news/articles/cq4g1p974wxko#1",
         "https://www.bbc.co.uk/news/articles/cm369kkg92x6o#1",
         "https://www.bbc.co.uk/news/articles/cw98zn304zg7o#0",
@@ -243,11 +245,11 @@
         "https://www.bbc.co.uk/news/videos/cqvg0ke2v9njo#0",
         "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o#0",
         "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o#1",
-        "https://www.bbc.co.uk/news/articles/cmreyvepnv0po#1",
-        "https://www.bbc.co.uk/news/articles/cq39870ypgl7o#1",
-        "https://www.bbc.co.uk/news/articles/cy4zdgk081eo#1"
+        "https://www.bbc.co.uk/news/articles/cmreyvepnv0po#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261023de64474",
+        "https://news.web.nhk/newsweb/na/nd-20261021de62637",
         "https://news.web.nhk/newsweb/na/nd-20261023de64460",
         "https://news.web.nhk/newsweb/na/nd-20261023de64466",
         "https://news.web.nhk/newsweb/na/nd-20261023de64454",
@@ -445,9 +447,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261021de62792",
         "https://news.web.nhk/newsweb/na/nd-20260930de53354",
         "https://news.web.nhk/newsweb/na/nd-20261021de62759",
-        "https://news.web.nhk/newsweb/na/nd-20261021de62612",
-        "https://news.web.nhk/newsweb/na/nd-20261021de62724",
-        "https://news.web.nhk/newsweb/na/nd-20261021de62714"
+        "https://news.web.nhk/newsweb/na/nd-20261021de62612"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-iphone-duo-left-handed-review/",
