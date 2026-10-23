@@ -248,6 +248,7 @@
         "https://www.bbc.co.uk/news/articles/cy4zdgk081eo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261023de64460",
         "https://news.web.nhk/newsweb/na/nd-20261023de64466",
         "https://news.web.nhk/newsweb/na/nd-20261023de64454",
         "https://news.web.nhk/newsweb/na/nd-20261023de64339",
@@ -446,8 +447,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261021de62759",
         "https://news.web.nhk/newsweb/na/nd-20261021de62612",
         "https://news.web.nhk/newsweb/na/nd-20261021de62724",
-        "https://news.web.nhk/newsweb/na/nd-20261021de62714",
-        "https://news.web.nhk/newsweb/na/nd-20261021de62637"
+        "https://news.web.nhk/newsweb/na/nd-20261021de62714"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-iphone-duo-left-handed-review/",
