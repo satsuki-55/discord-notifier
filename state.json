@@ -248,6 +248,8 @@
         "https://www.bbc.co.uk/news/articles/cmje5k3q9ello#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261020de62490",
+        "https://news.web.nhk/newsweb/na/nd-20261023de64175",
         "https://news.web.nhk/newsweb/na/nd-20261023de64145",
         "https://news.web.nhk/newsweb/na/nd-20261023de64176",
         "https://news.web.nhk/newsweb/na/nd-20261023de64173",
@@ -445,9 +447,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261021de62549",
         "https://news.web.nhk/newsweb/na/nd-20261021de62550",
         "https://news.web.nhk/newsweb/na/nd-20261020de62512",
-        "https://news.web.nhk/newsweb/na/nd-20261021de62533",
-        "https://news.web.nhk/newsweb/na/nd-20261020de62516",
-        "https://news.web.nhk/newsweb/na/nd-20261020de62490"
+        "https://news.web.nhk/newsweb/na/nd-20261021de62533"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-iphone-duo-nanotexture-film-removal/",
