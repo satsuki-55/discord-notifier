@@ -46,6 +46,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c875p1yy90ryo#1",
         "https://www.bbc.co.uk/news/articles/c3x2wnk8ejq5o#0",
         "https://www.bbc.co.uk/news/articles/c50mep10dek7o#1",
         "https://www.bbc.co.uk/news/articles/c6x2wpgejjkjo#1",
@@ -244,10 +245,10 @@
         "https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo#0",
         "https://www.bbc.co.uk/news/articles/c17rgd8e9gjo#1",
         "https://www.bbc.co.uk/news/articles/cwrkylee5px0o#1",
-        "https://www.bbc.co.uk/news/articles/cw0541p65dyzo#0",
-        "https://www.bbc.co.uk/news/articles/crz981p0klvgo#0"
+        "https://www.bbc.co.uk/news/articles/cw0541p65dyzo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261023de64385",
         "https://news.web.nhk/newsweb/na/nd-20261023de64214",
         "https://news.web.nhk/newsweb/na/nd-20261023de64488",
         "https://news.web.nhk/newsweb/na/nd-20261023de64279",
@@ -446,10 +447,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261021de62880",
         "https://news.web.nhk/newsweb/na/nd-20261021de62828",
         "https://news.web.nhk/newsweb/na/nd-20261021de62856",
-        "https://news.web.nhk/newsweb/na/nd-20261021de62811",
-        "https://news.web.nhk/newsweb/na/nd-20261021de62803"
+        "https://news.web.nhk/newsweb/na/nd-20261021de62811"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/iphone-duo-galaxy-z-fold8-sumo/",
         "https://www.gizmodo.jp/article/nape-pro-se-gizmart/",
         "https://www.gizmodo.jp/article/2610-kindle-unlimited-to-kindle-plus/",
         "https://www.gizmodo.jp/article/2610-iphone-duo-left-handed-review/",
@@ -648,8 +649,7 @@
         "https://www.gizmodo.jp/article/2610-amazon-sale-gizmodo-must-haves/",
         "https://www.gizmodo.jp/article/good-design-award-2026-yamaha-ead50/",
         "https://www.gizmodo.jp/article/2610-marvels-wolverine-review/",
-        "https://www.gizmodo.jp/article/smart_gears-re-26-oct/",
-        "https://www.gizmodo.jp/article/2610-claude-official-hackathon-2026/"
+        "https://www.gizmodo.jp/article/smart_gears-re-26-oct/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "VJ93fOIjdXA",
