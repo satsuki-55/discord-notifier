@@ -46,6 +46,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cq0ld9g9e913o#0",
         "https://www.bbc.co.uk/news/articles/c63r5xpezz51o#0",
         "https://www.bbc.co.uk/news/articles/cm70pj51zdk4o#1",
         "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o#1",
@@ -244,10 +245,10 @@
         "https://www.bbc.co.uk/news/articles/c6x2vpn4xy0yo#0",
         "https://www.bbc.co.uk/news/articles/c6m2dw39jx1do#0",
         "https://www.bbc.co.uk/news/articles/cqlyel3wnxmxo#1",
-        "https://www.bbc.co.uk/news/articles/cwe8lz018pe1o#1",
-        "https://www.bbc.co.uk/news/articles/ckjrw044ggxgo#0"
+        "https://www.bbc.co.uk/news/articles/cwe8lz018pe1o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261023de64296",
         "https://news.web.nhk/newsweb/na/nd-20261023de64258",
         "https://news.web.nhk/newsweb/na/nd-20261023de64250",
         "https://news.web.nhk/newsweb/na/nd-20261023de64285",
@@ -446,8 +447,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261021de62622",
         "https://news.web.nhk/newsweb/na/nd-20261021de62600",
         "https://news.web.nhk/newsweb/na/nd-20261021de62586",
-        "https://news.web.nhk/newsweb/na/nd-20261021de62565",
-        "https://news.web.nhk/newsweb/na/nd-20261021de62564"
+        "https://news.web.nhk/newsweb/na/nd-20261021de62565"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/chogokin-meishi-case/",
