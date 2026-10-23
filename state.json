@@ -249,6 +249,7 @@
         "https://www.bbc.co.uk/news/articles/c62kepvg2x9lo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261023de64592",
         "https://news.web.nhk/newsweb/na/nd-20261023de64499",
         "https://news.web.nhk/newsweb/na/nd-20261023de64340",
         "https://news.web.nhk/newsweb/na/nd-20261023de64560",
@@ -447,8 +448,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261021de63069",
         "https://news.web.nhk/newsweb/na/nd-20261021de63065",
         "https://news.web.nhk/newsweb/na/nd-20261021de62752",
-        "https://news.web.nhk/newsweb/na/nd-20261021de63036",
-        "https://news.web.nhk/newsweb/na/nd-20261021de63054"
+        "https://news.web.nhk/newsweb/na/nd-20261021de63036"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-iphone-duo-optimized-apps-badge/",
