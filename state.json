@@ -250,6 +250,7 @@
         "https://www.bbc.co.uk/news/articles/cm5ynqkgwr69o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261024de64641",
         "https://news.web.nhk/newsweb/na/nd-20261024de64712",
         "https://news.web.nhk/newsweb/na/nd-20261024de64639",
         "https://news.web.nhk/newsweb/na/nd-20261024de64703",
@@ -448,10 +449,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261021de63228",
         "https://news.web.nhk/newsweb/na/nd-20261022de63267",
         "https://news.web.nhk/newsweb/na/nd-20261022de63274",
-        "https://news.web.nhk/newsweb/na/nd-20261022de63265",
-        "https://news.web.nhk/newsweb/na/nd-20261022de63270"
+        "https://news.web.nhk/newsweb/na/nd-20261022de63265"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2610-cotton-sweat-1700-yen/",
         "https://www.gizmodo.jp/article/2610-what-to-do-if-password-is-leaked/",
         "https://www.gizmodo.jp/article/iphone-duo-booking-report/",
         "https://www.gizmodo.jp/article/iphone-duo-best-fit-apps-review/",
@@ -650,8 +651,7 @@
         "https://www.gizmodo.jp/article/2610-b11-pro-folding-keyboard/",
         "https://www.gizmodo.jp/article/2610-amazon-bee-ai-gadgets/",
         "https://www.gizmodo.jp/article/2610-ai-data-center-local-opposition/",
-        "https://www.gizmodo.jp/article/2610-ugreen-air-45w-charger/",
-        "https://www.gizmodo.jp/article/2610-hakoake-amazon-cardboard-opener/"
+        "https://www.gizmodo.jp/article/2610-ugreen-air-45w-charger/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "VJ93fOIjdXA",
