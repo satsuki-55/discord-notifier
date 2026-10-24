@@ -49,6 +49,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c95ynd587ynzo#0",
         "https://www.bbc.co.uk/news/articles/c3x2wxnrpk78o#0",
         "https://www.bbc.co.uk/news/videos/cm89zqw9lx1do#1",
         "https://www.bbc.co.uk/news/articles/cqd09k1k7532o#0",
@@ -247,10 +248,10 @@
         "https://www.bbc.co.uk/news/articles/cr93z1e87e0do#0",
         "https://www.bbc.co.uk/news/articles/cr5ynl63v0pyo#0",
         "https://www.bbc.co.uk/news/articles/ck5yn9z3vnego#0",
-        "https://www.bbc.co.uk/news/articles/cqwy71ww156ro#1",
-        "https://www.bbc.co.uk/news/articles/cr5ynl63v0pyo#1"
+        "https://www.bbc.co.uk/news/articles/cqwy71ww156ro#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261025de64977",
         "https://news.web.nhk/newsweb/na/nd-20261025de64976",
         "https://news.web.nhk/newsweb/na/nd-20261025de64973",
         "https://news.web.nhk/newsweb/na/nd-20261024de64966",
@@ -449,8 +450,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261022de63478",
         "https://news.web.nhk/newsweb/na/nd-20261022de63319",
         "https://news.web.nhk/newsweb/na/nd-20261019de61849",
-        "https://news.web.nhk/newsweb/na/nd-20261022de63460",
-        "https://news.web.nhk/newsweb/na/nd-20261022de63454"
+        "https://news.web.nhk/newsweb/na/nd-20261022de63460"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-daiso-type-c-rechargeable-battery-review/",
