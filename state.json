@@ -251,6 +251,7 @@
         "https://www.bbc.co.uk/news/articles/cm75p1kxryl5o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261024de64937",
         "https://news.web.nhk/newsweb/na/nd-20261024de64888",
         "https://news.web.nhk/newsweb/na/nd-20261024de64880",
         "https://news.web.nhk/newsweb/na/nd-20261024de64864",
@@ -449,8 +450,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261022de63325",
         "https://news.web.nhk/newsweb/na/nd-20261022de63327",
         "https://news.web.nhk/newsweb/na/nd-20261022de63326",
-        "https://news.web.nhk/newsweb/na/nd-20261022de63305",
-        "https://news.web.nhk/newsweb/na/nd-20261022de63313"
+        "https://news.web.nhk/newsweb/na/nd-20261022de63305"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-orient-automatic-chain-shifting-gear/",
