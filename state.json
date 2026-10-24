@@ -251,6 +251,7 @@
         "https://www.bbc.co.uk/news/articles/cw98z6qlyvg3o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261024de64802",
         "https://news.web.nhk/newsweb/na/nd-20261024de64782",
         "https://news.web.nhk/newsweb/na/nd-20261024de64774",
         "https://news.web.nhk/newsweb/na/nd-20261024de64775",
@@ -449,8 +450,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261022de63278",
         "https://news.web.nhk/newsweb/na/nd-20261021de63042",
         "https://news.web.nhk/newsweb/na/nd-20261022de63277",
-        "https://news.web.nhk/newsweb/na/nd-20261022de63248",
-        "https://news.web.nhk/newsweb/na/nd-20261022de63246"
+        "https://news.web.nhk/newsweb/na/nd-20261022de63248"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-world-oldest-shipwreck-discovered-turkey/",
