@@ -251,6 +251,7 @@
         "https://www.bbc.co.uk/news/videos/cxnv0emj06v1o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261024de64880",
         "https://news.web.nhk/newsweb/na/nd-20261024de64864",
         "https://news.web.nhk/newsweb/na/nd-20261024de64791",
         "https://news.web.nhk/newsweb/na/nd-20261024de64835",
@@ -449,10 +450,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261022de63326",
         "https://news.web.nhk/newsweb/na/nd-20261022de63305",
         "https://news.web.nhk/newsweb/na/nd-20261022de63313",
-        "https://news.web.nhk/newsweb/na/nd-20261022de63271",
-        "https://news.web.nhk/newsweb/na/nd-20261022de63307"
+        "https://news.web.nhk/newsweb/na/nd-20261022de63271"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2610-interface-smart-ring/",
         "https://www.gizmodo.jp/article/2610-montbell-autumn-clothing/",
         "https://www.gizmodo.jp/article/kyocera_ceramug_coffee-bottle/",
         "https://www.gizmodo.jp/article/2610-ulanzi-magsafe-charging-stand/",
@@ -651,8 +652,7 @@
         "https://www.gizmodo.jp/article/2610-amazon-prime-kanshasai-ohora-nail/",
         "https://www.gizmodo.jp/article/amazon-prime-thanksgiving-anker-pouch-re-26-oct/",
         "https://www.gizmodo.jp/article/2610-table-gatatsuki-t-balance/",
-        "https://www.gizmodo.jp/article/haisuiko_net_clean-sbl/",
-        "https://www.gizmodo.jp/article/2610-cross-media-tsundoku-holder/"
+        "https://www.gizmodo.jp/article/haisuiko_net_clean-sbl/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "VJ93fOIjdXA",
