@@ -49,6 +49,8 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/videos/cm62y59zw8zko#1",
+        "https://www.bbc.co.uk/news/articles/cwj0leg7ng67o#2",
         "https://www.bbc.co.uk/news/videos/cm62y59zw8zko#2",
         "https://www.bbc.co.uk/news/articles/c317kxyknwp2o#1",
         "https://www.bbc.co.uk/news/articles/c6reyx1d9ge9o#0",
@@ -246,11 +248,10 @@
         "https://www.bbc.co.uk/news/articles/c83vqn2x54v1o#0",
         "https://www.bbc.co.uk/news/articles/c8x23dlqkl01o#1",
         "https://www.bbc.co.uk/sport/cricket/articles/cq99z35zpgzmo#1",
-        "https://www.bbc.co.uk/news/articles/cvp8gy1zwxxwo#1",
-        "https://www.bbc.co.uk/news/videos/cwdr8zm3r5gko#1",
-        "https://www.bbc.co.uk/news/videos/cxnv0emj06v1o#0"
+        "https://www.bbc.co.uk/news/articles/cvp8gy1zwxxwo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261024de64888",
         "https://news.web.nhk/newsweb/na/nd-20261024de64880",
         "https://news.web.nhk/newsweb/na/nd-20261024de64864",
         "https://news.web.nhk/newsweb/na/nd-20261024de64791",
@@ -449,8 +450,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261022de63327",
         "https://news.web.nhk/newsweb/na/nd-20261022de63326",
         "https://news.web.nhk/newsweb/na/nd-20261022de63305",
-        "https://news.web.nhk/newsweb/na/nd-20261022de63313",
-        "https://news.web.nhk/newsweb/na/nd-20261022de63271"
+        "https://news.web.nhk/newsweb/na/nd-20261022de63313"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-interface-smart-ring/",
