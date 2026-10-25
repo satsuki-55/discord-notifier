@@ -251,6 +251,8 @@
         "https://www.bbc.co.uk/news/articles/cky83vwnyglno#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261025de65036",
+        "https://news.web.nhk/newsweb/na/nd-20261025de65071",
         "https://news.web.nhk/newsweb/na/nd-20261022de63494",
         "https://news.web.nhk/newsweb/na/nd-20261025de65058",
         "https://news.web.nhk/newsweb/na/nd-20261025de65066",
@@ -448,11 +450,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261022de63572",
         "https://news.web.nhk/newsweb/na/nd-20261020de61888",
         "https://news.web.nhk/newsweb/na/nd-20261022de63525",
-        "https://news.web.nhk/newsweb/na/nd-20260930de53355",
-        "https://news.web.nhk/newsweb/na/nd-20261022de63524",
-        "https://news.web.nhk/newsweb/na/nd-20261019de61814"
+        "https://news.web.nhk/newsweb/na/nd-20260930de53355"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/iretrolab-the-time-planet/",
         "https://www.gizmodo.jp/article/2610-pyramid-found-during-road-construction-in-mexico/",
         "https://www.gizmodo.jp/article/2610-moodi-remote/",
         "https://www.gizmodo.jp/article/hitachi-gpu-cold-plate-cooling-power-reduction/",
@@ -651,8 +652,7 @@
         "https://www.gizmodo.jp/article/2610-amazon-prime-appreciation-sale-ryzen-9-9900x/",
         "https://www.gizmodo.jp/article/amazon-good-design-award-products/",
         "https://www.gizmodo.jp/article/2610-amazon-sale-gizmodo-wishes/",
-        "https://www.gizmodo.jp/article/ec990399-1842-4a77-af6c-ac6e00f18a44-re-26-oct/",
-        "https://www.gizmodo.jp/article/306495-jqq/"
+        "https://www.gizmodo.jp/article/ec990399-1842-4a77-af6c-ac6e00f18a44-re-26-oct/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "VJ93fOIjdXA",
