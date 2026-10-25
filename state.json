@@ -252,6 +252,7 @@
         "https://www.bbc.co.uk/news/articles/cmy56q2n1veqo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261025de65365",
         "https://news.web.nhk/newsweb/na/nd-20261025de65104",
         "https://news.web.nhk/newsweb/na/nd-20261025de65105",
         "https://news.web.nhk/newsweb/na/nd-20261025de65313",
@@ -450,8 +451,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261023de63937",
         "https://news.web.nhk/newsweb/na/nd-20261023de63932",
         "https://news.web.nhk/newsweb/na/nd-20261022de63890",
-        "https://news.web.nhk/newsweb/na/nd-20261022de63907",
-        "https://news.web.nhk/newsweb/na/nd-20261022de63910"
+        "https://news.web.nhk/newsweb/na/nd-20261022de63907"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-ios27-spoofing-risk-detection/",
