@@ -251,6 +251,7 @@
         "https://www.bbc.co.uk/news/articles/c6pwgve2lk5go#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261025de65051",
         "https://news.web.nhk/newsweb/na/nd-20261024de64916",
         "https://news.web.nhk/newsweb/na/nd-20261025de64981",
         "https://news.web.nhk/newsweb/na/nd-20261025de65011",
@@ -449,8 +450,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261022de63530",
         "https://news.web.nhk/newsweb/na/nd-20261022de63494",
         "https://news.web.nhk/newsweb/na/nd-20261019de61864",
-        "https://news.web.nhk/newsweb/na/nd-20261019de61855",
-        "https://news.web.nhk/newsweb/na/nd-20261022de63461"
+        "https://news.web.nhk/newsweb/na/nd-20261019de61855"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-moodi-remote/",
