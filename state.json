@@ -49,6 +49,8 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cw073mj02v72o#1",
+        "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo#0",
         "https://www.bbc.co.uk/news/articles/c84g10r00221o#0",
         "https://www.bbc.co.uk/news/articles/ck4g1jg4n9dno#0",
         "https://www.bbc.co.uk/news/articles/c6kg50nnj0x4o#2",
@@ -246,11 +248,10 @@
         "https://www.bbc.co.uk/news/articles/cmy56q2n1veqo#0",
         "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o#1",
         "https://www.bbc.co.uk/news/articles/cmqxn3133rdwo#1",
-        "https://www.bbc.co.uk/news/articles/cw073mj02v72o#0",
-        "https://www.bbc.co.uk/news/articles/cv36941yn1e9o#1",
-        "https://www.bbc.co.uk/news/articles/cw073mj02v72o#1"
+        "https://www.bbc.co.uk/news/articles/cw073mj02v72o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261025de65211",
         "https://news.web.nhk/newsweb/na/nd-20261025de65213",
         "https://news.web.nhk/newsweb/na/nd-20261025de65130",
         "https://news.web.nhk/newsweb/na/nd-20261025de65186",
@@ -449,8 +450,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261022de63547",
         "https://news.web.nhk/newsweb/na/nd-20261022de63790",
         "https://news.web.nhk/newsweb/na/nd-20261022de63809",
-        "https://news.web.nhk/newsweb/na/nd-20261022de63534",
-        "https://news.web.nhk/newsweb/na/nd-20261022de63746"
+        "https://news.web.nhk/newsweb/na/nd-20261022de63534"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/google-ai-minecraft-ender-dragon-defeat/",
