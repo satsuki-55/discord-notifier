@@ -251,6 +251,7 @@
         "https://www.bbc.co.uk/news/articles/c30rlpkglkwpo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261025de65186",
         "https://news.web.nhk/newsweb/na/nd-20261025de65139",
         "https://news.web.nhk/newsweb/na/nd-20261025de65155",
         "https://news.web.nhk/newsweb/na/nd-20261025de65141",
@@ -449,8 +450,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261022de63534",
         "https://news.web.nhk/newsweb/na/nd-20261022de63746",
         "https://news.web.nhk/newsweb/na/nd-20261022de63703",
-        "https://news.web.nhk/newsweb/na/nd-20261019de61846",
-        "https://news.web.nhk/newsweb/na/nd-20261022de63733"
+        "https://news.web.nhk/newsweb/na/nd-20261019de61846"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-street-fashion-safety-shoes/",
