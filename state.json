@@ -50,6 +50,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c623drpx31xzo#1",
         "https://www.bbc.co.uk/news/articles/ckpdg4pl7pgvo#0",
         "https://www.bbc.co.uk/news/videos/cmg47e2znpzpo#0",
         "https://www.bbc.co.uk/news/articles/ckzd6gvg1r2jo#1",
@@ -248,8 +249,7 @@
         "https://www.bbc.co.uk/news/videos/c3wyv7lr15nvo#1",
         "https://www.bbc.co.uk/news/articles/cm5ynpywq1e3o#1",
         "https://www.bbc.co.uk/weather/articles/cq8ezy256e42o#1",
-        "https://www.bbc.co.uk/weather/articles/cq8ezy256e42o#0",
-        "https://www.bbc.co.uk/news/articles/cmy56q2n1veqo#1"
+        "https://www.bbc.co.uk/weather/articles/cq8ezy256e42o#0"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20261025de65362",
@@ -454,6 +454,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261022de63890"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/wind-turbine-blade-recycling-shimizu/",
         "https://www.gizmodo.jp/article/2610-ios27-spoofing-risk-detection/",
         "https://www.gizmodo.jp/article/2610-apple-home-view-features/",
         "https://www.gizmodo.jp/article/2610-acer-googlebook-14-flip-laptop/",
@@ -652,8 +653,7 @@
         "https://www.gizmodo.jp/article/samsung-smart-glasses-leaked-specs/",
         "https://www.gizmodo.jp/article/2610-sensor-flashlight-hybrid-light/",
         "https://www.gizmodo.jp/article/2610-amazon-prime-appreciation-sale-iwatani-fore-winds/",
-        "https://www.gizmodo.jp/article/2610-toray-cool-next-sheet/",
-        "https://www.gizmodo.jp/article/oshi-no-mukuri-dakimakura/"
+        "https://www.gizmodo.jp/article/2610-toray-cool-next-sheet/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "VJ93fOIjdXA",
