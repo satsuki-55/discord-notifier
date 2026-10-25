@@ -251,6 +251,7 @@
         "https://www.bbc.co.uk/news/articles/cmqxn3133rdwo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261025de65227",
         "https://news.web.nhk/newsweb/na/nd-20261025de65238",
         "https://news.web.nhk/newsweb/na/nd-20261025de65211",
         "https://news.web.nhk/newsweb/na/nd-20261025de65213",
@@ -449,8 +450,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261022de63826",
         "https://news.web.nhk/newsweb/na/nd-20261022de63821",
         "https://news.web.nhk/newsweb/na/nd-20261022de63547",
-        "https://news.web.nhk/newsweb/na/nd-20261022de63790",
-        "https://news.web.nhk/newsweb/na/nd-20261022de63809"
+        "https://news.web.nhk/newsweb/na/nd-20261022de63790"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/windows-11-memory-management-update/",
