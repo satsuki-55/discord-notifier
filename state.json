@@ -252,6 +252,7 @@
         "https://www.bbc.co.uk/news/articles/cq0ld9g9e913o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261025de65369",
         "https://news.web.nhk/newsweb/na/nd-20261026de65415",
         "https://news.web.nhk/newsweb/na/nd-20261025de65387",
         "https://news.web.nhk/newsweb/na/nd-20261025de65338",
@@ -450,8 +451,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261023de63968",
         "https://news.web.nhk/newsweb/na/nd-20261023de63953",
         "https://news.web.nhk/newsweb/na/nd-20261023de63959",
-        "https://news.web.nhk/newsweb/na/nd-20261023de63949",
-        "https://news.web.nhk/newsweb/na/nd-20261023de63930"
+        "https://news.web.nhk/newsweb/na/nd-20261023de63949"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/dnsys-z1-deathstranding2-omt/",
