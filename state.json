@@ -50,6 +50,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cw33xpl5xl8mo#1",
         "https://www.bbc.co.uk/news/articles/cq2e9we7w2ejo#0",
         "https://www.bbc.co.uk/news/articles/c50mep10dek7o#1",
         "https://www.bbc.co.uk/news/articles/cw33xpl5xl8mo#0",
@@ -248,10 +249,10 @@
         "https://www.bbc.co.uk/news/articles/c6n8dex0zeg9o#1",
         "https://www.bbc.co.uk/news/articles/c9x28dgj2r0go#0",
         "https://www.bbc.co.uk/news/articles/c6n8dex0zeg9o#0",
-        "https://www.bbc.co.uk/news/articles/c875p1yy90ryo#0",
-        "https://www.bbc.co.uk/news/articles/ck5ynd1z6e83o#1"
+        "https://www.bbc.co.uk/news/articles/c875p1yy90ryo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261026de65452",
         "https://news.web.nhk/newsweb/na/nd-20261025de65309",
         "https://news.web.nhk/newsweb/na/nd-20261026de65416",
         "https://news.web.nhk/newsweb/na/nd-20261026de65417",
@@ -450,8 +451,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261023de63980",
         "https://news.web.nhk/newsweb/na/nd-20261023de63979",
         "https://news.web.nhk/newsweb/na/nd-20261022de63922",
-        "https://news.web.nhk/newsweb/na/nd-20261022de63667",
-        "https://news.web.nhk/newsweb/na/nd-20261023de63929"
+        "https://news.web.nhk/newsweb/na/nd-20261022de63667"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-android-security-advanced-protection/",
