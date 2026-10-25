@@ -251,6 +251,7 @@
         "https://www.bbc.co.uk/news/articles/c9j34zgmkxx1o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261025de65143",
         "https://news.web.nhk/newsweb/na/nd-20261025de65148",
         "https://news.web.nhk/newsweb/na/nd-20261025de65137",
         "https://news.web.nhk/newsweb/na/nd-20261025de65082",
@@ -449,8 +450,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261022de63733",
         "https://news.web.nhk/newsweb/na/nd-20261022de63712",
         "https://news.web.nhk/newsweb/na/nd-20261022de63664",
-        "https://news.web.nhk/newsweb/na/nd-20261022de63594",
-        "https://news.web.nhk/newsweb/na/nd-20261022de63572"
+        "https://news.web.nhk/newsweb/na/nd-20261022de63594"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-suunto-screenless-health-tracker/",
