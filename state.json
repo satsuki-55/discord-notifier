@@ -251,6 +251,7 @@
         "https://www.bbc.co.uk/news/articles/c6pwgve2lk5go#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261025de65066",
         "https://news.web.nhk/newsweb/na/nd-20261025de65049",
         "https://news.web.nhk/newsweb/na/nd-20261025de65051",
         "https://news.web.nhk/newsweb/na/nd-20261024de64916",
@@ -449,10 +450,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261022de63524",
         "https://news.web.nhk/newsweb/na/nd-20261019de61814",
         "https://news.web.nhk/newsweb/na/nd-20261022de63530",
-        "https://news.web.nhk/newsweb/na/nd-20261022de63494",
-        "https://news.web.nhk/newsweb/na/nd-20261019de61864"
+        "https://news.web.nhk/newsweb/na/nd-20261022de63494"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2610-pyramid-found-during-road-construction-in-mexico/",
         "https://www.gizmodo.jp/article/2610-moodi-remote/",
         "https://www.gizmodo.jp/article/hitachi-gpu-cold-plate-cooling-power-reduction/",
         "https://www.gizmodo.jp/article/2610-galaxy-watch-burn-reports/",
@@ -651,8 +652,7 @@
         "https://www.gizmodo.jp/article/amazon-good-design-award-products/",
         "https://www.gizmodo.jp/article/2610-amazon-sale-gizmodo-wishes/",
         "https://www.gizmodo.jp/article/ec990399-1842-4a77-af6c-ac6e00f18a44-re-26-oct/",
-        "https://www.gizmodo.jp/article/306495-jqq/",
-        "https://www.gizmodo.jp/article/2610-xbox-nano-controller/"
+        "https://www.gizmodo.jp/article/306495-jqq/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "VJ93fOIjdXA",
