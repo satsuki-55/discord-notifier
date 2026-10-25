@@ -50,6 +50,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cmewe8ndn1q4o#0",
         "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo#0",
         "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo#1",
         "https://www.bbc.co.uk/news/articles/cxdd8gr1vje0o#1",
@@ -248,10 +249,11 @@
         "https://www.bbc.co.uk/news/articles/cvglwgwpgrlpo#1",
         "https://www.bbc.co.uk/news/articles/c50mep10dek7o#0",
         "https://www.bbc.co.uk/news/articles/c84g1zxeg9r4o#1",
-        "https://www.bbc.co.uk/news/articles/cq4g1p974wxko#1",
-        "https://www.bbc.co.uk/news/articles/cm369kkg92x6o#1"
+        "https://www.bbc.co.uk/news/articles/cq4g1p974wxko#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261026de65413",
+        "https://news.web.nhk/newsweb/na/nd-20261025de65392",
         "https://news.web.nhk/newsweb/na/nd-20261025de65326",
         "https://news.web.nhk/newsweb/na/nd-20261025de65328",
         "https://news.web.nhk/newsweb/na/nd-20261025de65348",
@@ -449,9 +451,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261023de63929",
         "https://news.web.nhk/newsweb/na/nd-20261023de63973",
         "https://news.web.nhk/newsweb/na/nd-20261023de63966",
-        "https://news.web.nhk/newsweb/na/nd-20261023de63951",
-        "https://news.web.nhk/newsweb/na/nd-20261023de63971",
-        "https://news.web.nhk/newsweb/na/nd-20261023de63956"
+        "https://news.web.nhk/newsweb/na/nd-20261023de63951"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/dnsys-z1-deathstranding2-omt/",
