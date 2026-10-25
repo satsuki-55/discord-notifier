@@ -252,6 +252,8 @@
         "https://www.bbc.co.uk/news/articles/ck5ynd1z6e83o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261025de65104",
+        "https://news.web.nhk/newsweb/na/nd-20261025de65105",
         "https://news.web.nhk/newsweb/na/nd-20261025de65313",
         "https://news.web.nhk/newsweb/na/nd-20261025de65295",
         "https://news.web.nhk/newsweb/na/nd-20261025de65085",
@@ -449,9 +451,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261023de63932",
         "https://news.web.nhk/newsweb/na/nd-20261022de63890",
         "https://news.web.nhk/newsweb/na/nd-20261022de63907",
-        "https://news.web.nhk/newsweb/na/nd-20261022de63910",
-        "https://news.web.nhk/newsweb/na/nd-20261022de63908",
-        "https://news.web.nhk/newsweb/na/nd-20261022de63896"
+        "https://news.web.nhk/newsweb/na/nd-20261022de63910"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-acer-googlebook-14-flip-laptop/",
