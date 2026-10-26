@@ -51,6 +51,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c6rmyl0kxyxjo#1",
         "https://www.bbc.co.uk/news/articles/c8p3g73ep520o#1",
         "https://www.bbc.co.uk/news/articles/crwydxw0we8yo#0",
         "https://www.bbc.co.uk/news/articles/crwydxw0we8yo#1",
@@ -249,10 +250,10 @@
         "https://www.bbc.co.uk/news/videos/cm62y59zw8zko#1",
         "https://www.bbc.co.uk/news/articles/cwj0leg7ng67o#2",
         "https://www.bbc.co.uk/news/videos/cm62y59zw8zko#2",
-        "https://www.bbc.co.uk/news/articles/c317kxyknwp2o#1",
-        "https://www.bbc.co.uk/news/articles/c6reyx1d9ge9o#0"
+        "https://www.bbc.co.uk/news/articles/c317kxyknwp2o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260930de53360",
         "https://news.web.nhk/newsweb/na/nd-20261026de65958",
         "https://news.web.nhk/newsweb/na/nd-20261027de66052",
         "https://news.web.nhk/newsweb/na/nd-20261023de64340",
@@ -451,8 +452,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261023de64605",
         "https://news.web.nhk/newsweb/na/nd-20261023de64584",
         "https://news.web.nhk/newsweb/na/nd-20261023de64596",
-        "https://news.web.nhk/newsweb/na/nd-20261023de64591",
-        "https://news.web.nhk/newsweb/na/nd-20261023de64594"
+        "https://news.web.nhk/newsweb/na/nd-20261023de64591"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-openai-ai-containment/",
