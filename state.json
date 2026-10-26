@@ -252,6 +252,7 @@
         "https://www.bbc.co.uk/news/articles/cqlye4v721nwo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261026de65745",
         "https://news.web.nhk/newsweb/na/nd-20261026de65793",
         "https://news.web.nhk/newsweb/na/nd-20261026de65767",
         "https://news.web.nhk/newsweb/na/nd-20261026de65836",
@@ -450,10 +451,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261023de64167",
         "https://news.web.nhk/newsweb/na/nd-20261023de64134",
         "https://news.web.nhk/newsweb/na/nd-20261023de64142",
-        "https://news.web.nhk/newsweb/na/nd-20261023de64083",
-        "https://news.web.nhk/newsweb/na/nd-20261023de64116"
+        "https://news.web.nhk/newsweb/na/nd-20261023de64083"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/iphone-duo_popsockets-low-pro-grip-and-stand/",
         "https://www.gizmodo.jp/article/singapore-ai-crocodile-fake-image/",
         "https://www.gizmodo.jp/article/2610-anker-nano-charger-firmware-update-iphone/",
         "https://www.gizmodo.jp/article/2610-apple-homeview-highend-model/",
@@ -652,8 +653,7 @@
         "https://www.gizmodo.jp/article/2610-gullwing-keitruck-cooler/",
         "https://www.gizmodo.jp/article/2610-dungeon-meshi-mandrake-3d-print/",
         "https://www.gizmodo.jp/article/2610-delonghi-magnificastart/",
-        "https://www.gizmodo.jp/article/2610-ugreen-finetrack-slim-wallet-tag/",
-        "https://www.gizmodo.jp/article/2610-touch-macbook-release-date-rumor/"
+        "https://www.gizmodo.jp/article/2610-ugreen-finetrack-slim-wallet-tag/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "VJ93fOIjdXA",
