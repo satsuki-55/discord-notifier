@@ -252,6 +252,7 @@
         "https://www.bbc.co.uk/news/articles/ck87zlpzny15o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261026de65631",
         "https://news.web.nhk/newsweb/na/nd-20261023de64008",
         "https://news.web.nhk/newsweb/na/nd-20261026de65609",
         "https://news.web.nhk/newsweb/na/nd-20261026de65589",
@@ -450,10 +451,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261023de64020",
         "https://news.web.nhk/newsweb/na/nd-20261023de64058",
         "https://news.web.nhk/newsweb/na/nd-20261023de64034",
-        "https://news.web.nhk/newsweb/na/nd-20261023de64024",
-        "https://news.web.nhk/newsweb/na/nd-20261023de64015"
+        "https://news.web.nhk/newsweb/na/nd-20261023de64024"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2610-bill-gates-ai-jobs-to-keep/",
         "https://www.gizmodo.jp/article/2610-amazon-leo-satellite-internet/",
         "https://www.gizmodo.jp/article/2610-toyota-hybrid-strategy-us-sales/",
         "https://www.gizmodo.jp/article/6f009e06-09ff-4770-8f62-38a00a5865af-vaw/",
@@ -652,8 +653,7 @@
         "https://www.gizmodo.jp/article/huawei-health-lab-tour/",
         "https://www.gizmodo.jp/article/2610-chocolate-price-double/",
         "https://www.gizmodo.jp/article/2610-amazon-prime-appreciation-uber-gift-card/",
-        "https://www.gizmodo.jp/article/alibaba-qwen-glasses-n1/",
-        "https://www.gizmodo.jp/article/nitori-projection-digital-clock-vzj/"
+        "https://www.gizmodo.jp/article/alibaba-qwen-glasses-n1/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "VJ93fOIjdXA",
