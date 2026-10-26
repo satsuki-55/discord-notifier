@@ -51,6 +51,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/ck78px6glw3lo#0",
         "https://www.bbc.co.uk/news/articles/cmy4xwp22xyqo#1",
         "https://www.bbc.co.uk/news/articles/cv0ldjzg9xppo#0",
         "https://www.bbc.co.uk/news/articles/cw98z6qlyvg3o#0",
@@ -249,10 +250,11 @@
         "https://www.bbc.co.uk/news/articles/c6x2355448eyo#1",
         "https://www.bbc.co.uk/news/articles/c678pv4krx37o#1",
         "https://www.bbc.co.uk/news/articles/crgj9ndwvj9jo#0",
-        "https://www.bbc.co.uk/news/articles/ck20rery78lro#1",
-        "https://www.bbc.co.uk/news/articles/ck4g1jg4n9dno#2"
+        "https://www.bbc.co.uk/news/articles/ck20rery78lro#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261023de64488",
+        "https://news.web.nhk/newsweb/na/nd-20261027de66071",
         "https://news.web.nhk/newsweb/na/nd-20261027de66061",
         "https://news.web.nhk/newsweb/na/nd-20261027de66050",
         "https://news.web.nhk/newsweb/na/nd-20261027de66055",
@@ -450,9 +452,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261023de64506",
         "https://news.web.nhk/newsweb/na/nd-20261023de64373",
         "https://news.web.nhk/newsweb/na/nd-20261023de64359",
-        "https://news.web.nhk/newsweb/na/nd-20261023de64385",
-        "https://news.web.nhk/newsweb/na/nd-20261023de64214",
-        "https://news.web.nhk/newsweb/na/nd-20261023de64488"
+        "https://news.web.nhk/newsweb/na/nd-20261023de64385"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/cybertruck-tesla-egk/",
