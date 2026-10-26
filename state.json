@@ -252,6 +252,7 @@
         "https://www.bbc.co.uk/news/articles/cred3xnj0j0qo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261026de65672",
         "https://news.web.nhk/newsweb/na/nd-20261026de65662",
         "https://news.web.nhk/newsweb/na/nd-20260930de53359",
         "https://news.web.nhk/newsweb/na/nd-20261026de65501",
@@ -450,8 +451,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261023de64084",
         "https://news.web.nhk/newsweb/na/nd-20261023de64070",
         "https://news.web.nhk/newsweb/na/nd-20261023de64076",
-        "https://news.web.nhk/newsweb/na/nd-20261023de64085",
-        "https://news.web.nhk/newsweb/na/nd-20261023de64069"
+        "https://news.web.nhk/newsweb/na/nd-20261023de64085"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/thanko-3screen-rotatable-monitor/",
