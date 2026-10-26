@@ -252,6 +252,7 @@
         "https://www.bbc.co.uk/news/articles/ck87zlpzny15o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261026de65641",
         "https://news.web.nhk/newsweb/na/nd-20261023de64024",
         "https://news.web.nhk/newsweb/na/nd-20261026de65571",
         "https://news.web.nhk/newsweb/na/nd-20261026de65631",
@@ -450,8 +451,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261023de64069",
         "https://news.web.nhk/newsweb/na/nd-20261023de64050",
         "https://news.web.nhk/newsweb/na/nd-20261023de64035",
-        "https://news.web.nhk/newsweb/na/nd-20261023de64020",
-        "https://news.web.nhk/newsweb/na/nd-20261023de64058"
+        "https://news.web.nhk/newsweb/na/nd-20261023de64020"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-google-meet-realtime-voice-translation/",
