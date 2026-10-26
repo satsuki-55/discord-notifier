@@ -253,6 +253,7 @@
         "https://www.bbc.co.uk/news/articles/c6r7ylzp148eo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261026de65946",
         "https://news.web.nhk/newsweb/na/nd-20261026de65927",
         "https://news.web.nhk/newsweb/na/nd-20261026de65904",
         "https://news.web.nhk/newsweb/na/nd-20261026de65918",
@@ -451,8 +452,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261023de64178",
         "https://news.web.nhk/newsweb/na/nd-20261020de62490",
         "https://news.web.nhk/newsweb/na/nd-20261023de64175",
-        "https://news.web.nhk/newsweb/na/nd-20261023de64145",
-        "https://news.web.nhk/newsweb/na/nd-20261023de64176"
+        "https://news.web.nhk/newsweb/na/nd-20261023de64145"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-typair-air-keyboard/",
