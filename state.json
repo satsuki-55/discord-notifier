@@ -253,6 +253,7 @@
         "https://www.bbc.co.uk/news/videos/c6q8nd7n91eyo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261026de65961",
         "https://news.web.nhk/newsweb/na/nd-20261026de65948",
         "https://news.web.nhk/newsweb/na/nd-20261026de65957",
         "https://news.web.nhk/newsweb/na/nd-20261026de65955",
@@ -451,8 +452,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261022de63354",
         "https://news.web.nhk/newsweb/na/nd-20261023de64237",
         "https://news.web.nhk/newsweb/na/nd-20260930de53356",
-        "https://news.web.nhk/newsweb/na/nd-20261023de64171",
-        "https://news.web.nhk/newsweb/na/nd-20261023de64183"
+        "https://news.web.nhk/newsweb/na/nd-20261023de64171"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-tesla-roadster-flying-speculation/",
