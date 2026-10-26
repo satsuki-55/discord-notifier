@@ -50,6 +50,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/ck87z4ng2l03o#0",
         "https://www.bbc.co.uk/news/articles/cmvg7p001qj9o#1",
         "https://www.bbc.co.uk/news/articles/ck87z4ng2l03o#1",
         "https://www.bbc.co.uk/news/articles/cw80zk9k51j1o#0",
@@ -248,8 +249,7 @@
         "https://www.bbc.co.uk/news/articles/cxnv025d8qpmo#0",
         "https://www.bbc.co.uk/news/articles/ckr5yz2pqqppo#1",
         "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo#0",
-        "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo#1",
-        "https://www.bbc.co.uk/news/articles/c6n8dex0zeg9o#1"
+        "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo#1"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20261026de65458",
@@ -454,6 +454,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261023de63980"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/304f78e3-5ade-4121-8bb5-cc0bf2d92c22/",
         "https://www.gizmodo.jp/article/dell-14s/",
         "https://www.gizmodo.jp/article/2610-android-security-advanced-protection/",
         "https://www.gizmodo.jp/article/dnsys-z1-deathstranding2-omt/",
@@ -652,8 +653,7 @@
         "https://www.gizmodo.jp/article/elgato-wave-go/",
         "https://www.gizmodo.jp/article/2610-uuuk-pc-stand-sale/",
         "https://www.gizmodo.jp/article/2610-nothing-ceo-carl-pei-iphone-duo-critique/",
-        "https://www.gizmodo.jp/article/2610-anker-solix-everfrost-2-cooler/",
-        "https://www.gizmodo.jp/article/samsung-smart-glasses-leaked-specs/"
+        "https://www.gizmodo.jp/article/2610-anker-solix-everfrost-2-cooler/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "VJ93fOIjdXA",
