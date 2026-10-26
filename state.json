@@ -253,6 +253,7 @@
         "https://www.bbc.co.uk/news/articles/c60qk573yzz8o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261026de65963",
         "https://news.web.nhk/newsweb/na/nd-20261026de66004",
         "https://news.web.nhk/newsweb/na/nd-20261026de65966",
         "https://news.web.nhk/newsweb/na/nd-20261026de66000",
@@ -451,8 +452,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261023de64298",
         "https://news.web.nhk/newsweb/na/nd-20261023de64213",
         "https://news.web.nhk/newsweb/na/nd-20261023de64316",
-        "https://news.web.nhk/newsweb/na/nd-20261023de64296",
-        "https://news.web.nhk/newsweb/na/nd-20261023de64258"
+        "https://news.web.nhk/newsweb/na/nd-20261023de64296"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/creative-jobs-have-plummeted-amid-the-ai-boom/",
