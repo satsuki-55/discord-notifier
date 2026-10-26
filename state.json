@@ -253,6 +253,7 @@
         "https://www.bbc.co.uk/news/articles/cr5ynl415j79o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261026de65957",
         "https://news.web.nhk/newsweb/na/nd-20261026de65955",
         "https://news.web.nhk/newsweb/na/nd-20261026de65953",
         "https://news.web.nhk/newsweb/na/nd-20261026de65946",
@@ -451,8 +452,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260930de53356",
         "https://news.web.nhk/newsweb/na/nd-20261023de64171",
         "https://news.web.nhk/newsweb/na/nd-20261023de64183",
-        "https://news.web.nhk/newsweb/na/nd-20261023de64178",
-        "https://news.web.nhk/newsweb/na/nd-20261020de62490"
+        "https://news.web.nhk/newsweb/na/nd-20261023de64178"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/iphone-duo-live-stream-folding-test/",
