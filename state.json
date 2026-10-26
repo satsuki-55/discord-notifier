@@ -252,6 +252,7 @@
         "https://www.bbc.co.uk/news/articles/c875p1yy90ryo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261026de65458",
         "https://news.web.nhk/newsweb/na/nd-20261026de65466",
         "https://news.web.nhk/newsweb/na/nd-20261026de65459",
         "https://news.web.nhk/newsweb/na/nd-20261026de65452",
@@ -450,10 +451,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261023de63999",
         "https://news.web.nhk/newsweb/na/nd-20261023de63997",
         "https://news.web.nhk/newsweb/na/nd-20261023de63991",
-        "https://news.web.nhk/newsweb/na/nd-20261023de63980",
-        "https://news.web.nhk/newsweb/na/nd-20261023de63979"
+        "https://news.web.nhk/newsweb/na/nd-20261023de63980"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/dell-14s/",
         "https://www.gizmodo.jp/article/2610-android-security-advanced-protection/",
         "https://www.gizmodo.jp/article/dnsys-z1-deathstranding2-omt/",
         "https://www.gizmodo.jp/article/wind-turbine-blade-recycling-shimizu/",
@@ -652,8 +653,7 @@
         "https://www.gizmodo.jp/article/2610-uuuk-pc-stand-sale/",
         "https://www.gizmodo.jp/article/2610-nothing-ceo-carl-pei-iphone-duo-critique/",
         "https://www.gizmodo.jp/article/2610-anker-solix-everfrost-2-cooler/",
-        "https://www.gizmodo.jp/article/samsung-smart-glasses-leaked-specs/",
-        "https://www.gizmodo.jp/article/2610-sensor-flashlight-hybrid-light/"
+        "https://www.gizmodo.jp/article/samsung-smart-glasses-leaked-specs/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "VJ93fOIjdXA",
