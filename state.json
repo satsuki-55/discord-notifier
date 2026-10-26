@@ -252,6 +252,7 @@
         "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261026de65691",
         "https://news.web.nhk/newsweb/na/nd-20261026de65672",
         "https://news.web.nhk/newsweb/na/nd-20261026de65662",
         "https://news.web.nhk/newsweb/na/nd-20260930de53359",
@@ -450,8 +451,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261023de64088",
         "https://news.web.nhk/newsweb/na/nd-20261023de64084",
         "https://news.web.nhk/newsweb/na/nd-20261023de64070",
-        "https://news.web.nhk/newsweb/na/nd-20261023de64076",
-        "https://news.web.nhk/newsweb/na/nd-20261023de64085"
+        "https://news.web.nhk/newsweb/na/nd-20261023de64076"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-flight-entertainment-gadgets/",
