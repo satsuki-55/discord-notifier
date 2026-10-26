@@ -51,6 +51,8 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo#0",
+        "https://www.bbc.co.uk/news/articles/cq398p1wd1evo#1",
         "https://www.bbc.co.uk/news/articles/cq398p1wd1evo#0",
         "https://www.bbc.co.uk/news/articles/cqy8ljkle97ro#1",
         "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o#0",
@@ -248,9 +250,7 @@
         "https://www.bbc.co.uk/news/articles/cwj0leg7ng67o#0",
         "https://www.bbc.co.uk/news/articles/cqrkyly2p54xo#1",
         "https://www.bbc.co.uk/news/articles/c3gr84w85glyo#0",
-        "https://www.bbc.co.uk/news/articles/c63r5xpezz51o#1",
-        "https://www.bbc.co.uk/news/articles/c5zjxp1rjne8o#0",
-        "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo#0"
+        "https://www.bbc.co.uk/news/articles/c63r5xpezz51o#1"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20261026de65972",
@@ -455,6 +455,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261023de64338"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2610-apple-oled-ipad-mini-release/",
         "https://www.gizmodo.jp/article/nike_apex_running_kiplimo_interview/",
         "https://www.gizmodo.jp/article/2610-iphone-duo-durability-sand-test/",
         "https://www.gizmodo.jp/article/future-smart-mini/",
@@ -653,8 +654,7 @@
         "https://www.gizmodo.jp/article/2610-north-korean-laptop-farm-fbi/",
         "https://www.gizmodo.jp/article/corsair_xeneon-edge-14-5-lcd-touch-screen/",
         "https://www.gizmodo.jp/article/2610-orca-echo-monitor-evenet-recruitment/",
-        "https://www.gizmodo.jp/article/2610-momentum-4-wireless-sale/",
-        "https://www.gizmodo.jp/article/rune-energy-relic-solar-datacenter/"
+        "https://www.gizmodo.jp/article/2610-momentum-4-wireless-sale/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "VJ93fOIjdXA",
