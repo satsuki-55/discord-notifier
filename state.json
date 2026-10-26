@@ -253,6 +253,8 @@
         "https://www.bbc.co.uk/news/articles/c6reyx1d9ge9o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261023de64560",
+        "https://news.web.nhk/newsweb/na/nd-20261027de66072",
         "https://news.web.nhk/newsweb/na/nd-20261026de66022",
         "https://news.web.nhk/newsweb/na/nd-20261026de66032",
         "https://news.web.nhk/newsweb/na/nd-20261027de66076",
@@ -450,9 +452,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261023de64594",
         "https://news.web.nhk/newsweb/na/nd-20261023de64585",
         "https://news.web.nhk/newsweb/na/nd-20261023de64592",
-        "https://news.web.nhk/newsweb/na/nd-20261023de64499",
-        "https://news.web.nhk/newsweb/na/nd-20261023de64340",
-        "https://news.web.nhk/newsweb/na/nd-20261023de64560"
+        "https://news.web.nhk/newsweb/na/nd-20261023de64499"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-siri-ai-japanese-support/",
