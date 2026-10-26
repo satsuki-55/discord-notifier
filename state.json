@@ -252,6 +252,7 @@
         "https://www.bbc.co.uk/news/videos/c39wz712q0kzo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261026de65767",
         "https://news.web.nhk/newsweb/na/nd-20261026de65836",
         "https://news.web.nhk/newsweb/na/nd-20261026de65733",
         "https://news.web.nhk/newsweb/na/nd-20261026de65498",
@@ -450,8 +451,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261023de64142",
         "https://news.web.nhk/newsweb/na/nd-20261023de64083",
         "https://news.web.nhk/newsweb/na/nd-20261023de64116",
-        "https://news.web.nhk/newsweb/na/nd-20261023de64028",
-        "https://news.web.nhk/newsweb/na/nd-20261023de64088"
+        "https://news.web.nhk/newsweb/na/nd-20261023de64028"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/singapore-ai-crocodile-fake-image/",
