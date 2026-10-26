@@ -253,6 +253,7 @@
         "https://www.bbc.co.uk/news/videos/c6q8nd7n91eyo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261026de65997",
         "https://news.web.nhk/newsweb/na/nd-20261026de65961",
         "https://news.web.nhk/newsweb/na/nd-20261026de65948",
         "https://news.web.nhk/newsweb/na/nd-20261026de65957",
@@ -451,10 +452,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261023de64236",
         "https://news.web.nhk/newsweb/na/nd-20261022de63354",
         "https://news.web.nhk/newsweb/na/nd-20261023de64237",
-        "https://news.web.nhk/newsweb/na/nd-20260930de53356",
-        "https://news.web.nhk/newsweb/na/nd-20261023de64171"
+        "https://news.web.nhk/newsweb/na/nd-20260930de53356"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/iphone-duo-apple-pencil-hinge/",
         "https://www.gizmodo.jp/article/2610-tesla-roadster-flying-speculation/",
         "https://www.gizmodo.jp/article/teenage-engineering-ep-35-amp/",
         "https://www.gizmodo.jp/article/iphone-duo-live-stream-folding-test/",
@@ -653,8 +654,7 @@
         "https://www.gizmodo.jp/article/2610-pc-cpu-price-increase-tsmc-intel-amd/",
         "https://www.gizmodo.jp/article/2610-amazon-prime-appreciation-sale-asus-chromebook-cm14/",
         "https://www.gizmodo.jp/article/2610-gizmodo-amazon-primesale-bought-items/",
-        "https://www.gizmodo.jp/article/2609-big-short-michael-burry-ai-bubble-stock-market-outlook-2027-2026-9-aui/",
-        "https://www.gizmodo.jp/article/2610-motorola-foldable-smartphone-discount/"
+        "https://www.gizmodo.jp/article/2609-big-short-michael-burry-ai-bubble-stock-market-outlook-2027-2026-9-aui/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "VJ93fOIjdXA",
