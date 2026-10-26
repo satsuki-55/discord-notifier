@@ -51,6 +51,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c60qk5lw1z8wo#0",
         "https://www.bbc.co.uk/news/articles/cr5ynl415j79o#0",
         "https://www.bbc.co.uk/news/videos/c8040gkq5563o#0",
         "https://www.bbc.co.uk/news/articles/c69wzxw2pvv0o#1",
@@ -249,10 +250,10 @@
         "https://www.bbc.co.uk/news/articles/cx7vpmn6qzmlo#0",
         "https://www.bbc.co.uk/news/articles/c59vzjm118j1o#1",
         "https://www.bbc.co.uk/news/articles/c60qk573yzz8o#0",
-        "https://www.bbc.co.uk/news/videos/c6q8nd7n91eyo#1",
-        "https://www.bbc.co.uk/news/articles/cr5ynl415j79o#1"
+        "https://www.bbc.co.uk/news/videos/c6q8nd7n91eyo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261026de65948",
         "https://news.web.nhk/newsweb/na/nd-20261026de65957",
         "https://news.web.nhk/newsweb/na/nd-20261026de65955",
         "https://news.web.nhk/newsweb/na/nd-20261026de65953",
@@ -451,8 +452,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261023de64237",
         "https://news.web.nhk/newsweb/na/nd-20260930de53356",
         "https://news.web.nhk/newsweb/na/nd-20261023de64171",
-        "https://news.web.nhk/newsweb/na/nd-20261023de64183",
-        "https://news.web.nhk/newsweb/na/nd-20261023de64178"
+        "https://news.web.nhk/newsweb/na/nd-20261023de64183"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/teenage-engineering-ep-35-amp/",
