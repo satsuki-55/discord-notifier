@@ -1,5 +1,6 @@
 {
     "youtube:UCQ_MqAw18jFTlBB-f8BP7dw": [
+        "_CG1XRDBfIE",
         "Hm8ouhgWnjI",
         "Lv9INelT6cQ",
         "pB1gWT2mOAk",
@@ -50,6 +51,9 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/ck98zp7zeq65o#0",
+        "https://www.bbc.co.uk/news/articles/ck4g1jg4n9dno#1",
+        "https://www.bbc.co.uk/news/articles/ck98zp7zeq65o#1",
         "https://www.bbc.co.uk/news/articles/cwly3g0g371go#0",
         "https://www.bbc.co.uk/news/videos/cwgkv8kmly4zo#1",
         "https://www.bbc.co.uk/news/articles/cqlye4v721nwo#0",
@@ -246,10 +250,7 @@
         "https://www.bbc.co.uk/news/articles/cr5ynl415j79o#0",
         "https://www.bbc.co.uk/news/articles/cxj0l193y0l8o#1",
         "https://www.bbc.co.uk/news/articles/cm70p9r04r8wo#1",
-        "https://www.bbc.co.uk/news/articles/c6r7ylzp148eo#0",
-        "https://www.bbc.co.uk/news/articles/cqe8rgp8g1k2o#1",
-        "https://www.bbc.co.uk/sport/football/articles/ck3r5792en7go#1",
-        "https://www.bbc.co.uk/news/articles/cqj34j7dk771o#0"
+        "https://www.bbc.co.uk/news/articles/c6r7ylzp148eo#0"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20261026de65927",
@@ -454,6 +455,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261023de64176"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2610-typair-air-keyboard/",
         "https://www.gizmodo.jp/article/iphone-duo_popsockets-low-pro-grip-and-stand/",
         "https://www.gizmodo.jp/article/singapore-ai-crocodile-fake-image/",
         "https://www.gizmodo.jp/article/2610-anker-nano-charger-firmware-update-iphone/",
@@ -652,8 +654,7 @@
         "https://www.gizmodo.jp/article/2610-motorola-foldable-smartphone-discount/",
         "https://www.gizmodo.jp/article/2610-gullwing-keitruck-cooler/",
         "https://www.gizmodo.jp/article/2610-dungeon-meshi-mandrake-3d-print/",
-        "https://www.gizmodo.jp/article/2610-delonghi-magnificastart/",
-        "https://www.gizmodo.jp/article/2610-ugreen-finetrack-slim-wallet-tag/"
+        "https://www.gizmodo.jp/article/2610-delonghi-magnificastart/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "VJ93fOIjdXA",
