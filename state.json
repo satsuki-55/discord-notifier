@@ -252,6 +252,7 @@
         "https://www.bbc.co.uk/news/articles/c6lykzwjkj1eo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261026de65498",
         "https://news.web.nhk/newsweb/na/nd-20261026de65691",
         "https://news.web.nhk/newsweb/na/nd-20261026de65672",
         "https://news.web.nhk/newsweb/na/nd-20261026de65662",
@@ -450,8 +451,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261023de64028",
         "https://news.web.nhk/newsweb/na/nd-20261023de64088",
         "https://news.web.nhk/newsweb/na/nd-20261023de64084",
-        "https://news.web.nhk/newsweb/na/nd-20261023de64070",
-        "https://news.web.nhk/newsweb/na/nd-20261023de64076"
+        "https://news.web.nhk/newsweb/na/nd-20261023de64070"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/topologie_parachute-backpack_and_strap/",
