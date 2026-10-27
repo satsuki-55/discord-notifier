@@ -254,6 +254,7 @@
         "https://www.bbc.co.uk/news/articles/c30rlpkglkwpo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261027de66639",
         "https://news.web.nhk/newsweb/na/nd-20261027de66635",
         "https://news.web.nhk/newsweb/na/nd-20261027de66636",
         "https://news.web.nhk/newsweb/na/nd-20261027de66642",
@@ -452,10 +453,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261024de64966",
         "https://news.web.nhk/newsweb/na/nd-20261024de64624",
         "https://news.web.nhk/newsweb/na/nd-20261025de64972",
-        "https://news.web.nhk/newsweb/na/nd-20261024de64946",
-        "https://news.web.nhk/newsweb/na/nd-20261024de64932"
+        "https://news.web.nhk/newsweb/na/nd-20261024de64946"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/ipad-mini-nano-texture-glass-polishing-cloth/",
         "https://www.gizmodo.jp/article/2610-balcony-solar-power-japan/",
         "https://www.gizmodo.jp/article/windows-11-context-menu-customization/",
         "https://www.gizmodo.jp/article/20-years-of-gizmodojp-positron/",
@@ -654,8 +655,7 @@
         "https://www.gizmodo.jp/article/reelex-cart-belt-malfit/",
         "https://www.gizmodo.jp/article/2610-sony-wf-1000xm5-sale/",
         "https://www.gizmodo.jp/article/fairbuds-2-repairable-earphones/",
-        "https://www.gizmodo.jp/article/2610-moft-card-case-stand-for-iphone-duo/",
-        "https://www.gizmodo.jp/article/2610-why-accenture-consulting-stocks-thrive-ai-trade-needs-human-touch-yqk/"
+        "https://www.gizmodo.jp/article/2610-moft-card-case-stand-for-iphone-duo/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "VJ93fOIjdXA",
