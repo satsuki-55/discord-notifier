@@ -52,6 +52,8 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c699zj38k9ero#0",
+        "https://www.bbc.co.uk/news/articles/cqkgl82nm43po#1",
         "https://www.bbc.co.uk/news/articles/c3j47l4kdez4o#0",
         "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo#1",
         "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno#1",
@@ -249,11 +251,10 @@
         "https://www.bbc.co.uk/news/articles/c65yn9p55np2o#0",
         "https://www.bbc.co.uk/news/articles/c6lykzwjkj1eo#1",
         "https://www.bbc.co.uk/news/articles/c65yn9p55np2o#1",
-        "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o#1",
-        "https://www.bbc.co.uk/news/articles/cqm24j9y9zn7o#0",
-        "https://www.bbc.co.uk/news/articles/cqm24j9y9zn7o#1"
+        "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261027de66516",
         "https://news.web.nhk/newsweb/na/nd-20261027de66485",
         "https://news.web.nhk/newsweb/na/nd-20261027de66410",
         "https://news.web.nhk/newsweb/na/nd-20261027de66472",
@@ -452,8 +453,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261024de64819",
         "https://news.web.nhk/newsweb/na/nd-20261024de64810",
         "https://news.web.nhk/newsweb/na/nd-20261024de64802",
-        "https://news.web.nhk/newsweb/na/nd-20261024de64782",
-        "https://news.web.nhk/newsweb/na/nd-20261024de64774"
+        "https://news.web.nhk/newsweb/na/nd-20261024de64782"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-cats-owners-oxytocin-bond/",
