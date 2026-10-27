@@ -52,6 +52,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c5m2d83kmkkyo#1",
         "https://www.bbc.co.uk/news/articles/c6x2qgyqr79wo#0",
         "https://www.bbc.co.uk/news/articles/cmx28de233r2o#1",
         "https://www.bbc.co.uk/news/articles/cq0megg87n3po#0",
@@ -250,10 +251,10 @@
         "https://www.bbc.co.uk/news/articles/cm4g1pkwxdqwo#0",
         "https://www.bbc.co.uk/news/articles/c6kg50nnj0x4o#1",
         "https://www.bbc.co.uk/weather/articles/cwdd858z8ynlo#0",
-        "https://www.bbc.co.uk/news/videos/cm0e0del4jewo#1",
-        "https://www.bbc.co.uk/news/articles/c6n9rzde1n80o#0"
+        "https://www.bbc.co.uk/news/videos/cm0e0del4jewo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261027de66691",
         "https://news.web.nhk/newsweb/na/nd-20261027de66670",
         "https://news.web.nhk/newsweb/na/nd-20261027de66665",
         "https://news.web.nhk/newsweb/na/nd-20261027de66664",
@@ -452,8 +453,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261025de65049",
         "https://news.web.nhk/newsweb/na/nd-20261025de65051",
         "https://news.web.nhk/newsweb/na/nd-20261024de64916",
-        "https://news.web.nhk/newsweb/na/nd-20261025de64981",
-        "https://news.web.nhk/newsweb/na/nd-20261025de65011"
+        "https://news.web.nhk/newsweb/na/nd-20261025de64981"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/finger-massage-cht/",
