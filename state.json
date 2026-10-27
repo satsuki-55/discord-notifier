@@ -51,6 +51,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c3j47l4kdez4o#0",
         "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo#1",
         "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno#1",
         "https://www.bbc.co.uk/news/videos/cm9wznvx1l17o#1",
@@ -249,10 +250,11 @@
         "https://www.bbc.co.uk/news/articles/c65yn9p55np2o#1",
         "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o#1",
         "https://www.bbc.co.uk/news/articles/cqm24j9y9zn7o#0",
-        "https://www.bbc.co.uk/news/articles/cqm24j9y9zn7o#1",
-        "https://www.bbc.co.uk/news/articles/cqzjxg7l19yxo#1"
+        "https://www.bbc.co.uk/news/articles/cqm24j9y9zn7o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261027de66410",
+        "https://news.web.nhk/newsweb/na/nd-20261027de66472",
         "https://news.web.nhk/newsweb/na/nd-20261027de66431",
         "https://news.web.nhk/newsweb/na/nd-20261027de66416",
         "https://news.web.nhk/newsweb/na/nd-20261027de66432",
@@ -450,9 +452,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261024de64802",
         "https://news.web.nhk/newsweb/na/nd-20261024de64782",
         "https://news.web.nhk/newsweb/na/nd-20261024de64774",
-        "https://news.web.nhk/newsweb/na/nd-20261024de64775",
-        "https://news.web.nhk/newsweb/na/nd-20261024de64777",
-        "https://news.web.nhk/newsweb/na/nd-20261024de64758"
+        "https://news.web.nhk/newsweb/na/nd-20261024de64775"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-futondansouki-karalie-mini-turbo/",
