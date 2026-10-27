@@ -51,6 +51,10 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/ckly0xqjnlwvo#0",
+        "https://www.bbc.co.uk/news/articles/c8vgx3pvdeq1o#0",
+        "https://www.bbc.co.uk/news/articles/cjr4y5rq46p2o#1",
+        "https://www.bbc.co.uk/news/articles/c3vgxjex1z9wo#1",
         "https://www.bbc.co.uk/news/articles/c893zwlev2xpo#0",
         "https://www.bbc.co.uk/news/articles/cw8rz1d286v3o#1",
         "https://www.bbc.co.uk/news/articles/ck78px6glw3lo#1",
@@ -246,13 +250,10 @@
         "https://www.bbc.co.uk/news/articles/cmr4ydglq9r3o#1",
         "https://www.bbc.co.uk/news/articles/cw30ej25lvypo#0",
         "https://www.bbc.co.uk/news/articles/cqgkvnp0lkv5o#0",
-        "https://www.bbc.co.uk/news/articles/cm1dwz311476o#1",
-        "https://www.bbc.co.uk/news/articles/c3gr84w85glyo#2",
-        "https://www.bbc.co.uk/news/articles/cm1dwzvn6227o#0",
-        "https://www.bbc.co.uk/news/articles/cv0ld9571511o#0",
-        "https://www.bbc.co.uk/news/articles/cm1dwzvn6227o#1"
+        "https://www.bbc.co.uk/news/articles/cm1dwz311476o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261027de66122",
         "https://news.web.nhk/newsweb/na/nd-20261027de66125",
         "https://news.web.nhk/newsweb/na/nd-20261027de66116",
         "https://news.web.nhk/newsweb/na/nd-20261027de66127",
@@ -451,8 +452,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261024de64647",
         "https://news.web.nhk/newsweb/na/nd-20261024de64630",
         "https://news.web.nhk/newsweb/na/nd-20261024de64640",
-        "https://news.web.nhk/newsweb/na/nd-20261024de64636",
-        "https://news.web.nhk/newsweb/na/nd-20261023de64595"
+        "https://news.web.nhk/newsweb/na/nd-20261024de64636"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/iflytek-ai-translation-earbuds/",
