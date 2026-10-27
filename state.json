@@ -254,6 +254,8 @@
         "https://www.bbc.co.uk/news/articles/c6lykzwjkj1eo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261027de66564",
+        "https://news.web.nhk/newsweb/na/nd-20261027de66540",
         "https://news.web.nhk/newsweb/na/nd-20261027de66534",
         "https://news.web.nhk/newsweb/na/nd-20261027de66543",
         "https://news.web.nhk/newsweb/na/nd-20261027de66484",
@@ -451,9 +453,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261024de64888",
         "https://news.web.nhk/newsweb/na/nd-20261024de64880",
         "https://news.web.nhk/newsweb/na/nd-20261024de64864",
-        "https://news.web.nhk/newsweb/na/nd-20261024de64791",
-        "https://news.web.nhk/newsweb/na/nd-20261024de64835",
-        "https://news.web.nhk/newsweb/na/nd-20261024de64830"
+        "https://news.web.nhk/newsweb/na/nd-20261024de64791"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/gregory_raven12_running-bag/",
