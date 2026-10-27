@@ -52,6 +52,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo#1",
         "https://www.bbc.co.uk/news/articles/c62ke84qwl1vo#0",
         "https://www.bbc.co.uk/news/articles/cmr4y5dvlzneo#0",
         "https://www.bbc.co.uk/news/articles/c9j34zgmkxx1o#0",
@@ -250,10 +251,10 @@
         "https://www.bbc.co.uk/news/articles/ck4g1jg4n9dno#0",
         "https://www.bbc.co.uk/news/articles/c6kg50nnj0x4o#2",
         "https://www.bbc.co.uk/news/articles/c30rlpkglkwpo#1",
-        "https://www.bbc.co.uk/news/articles/c9zrdknlmpdlo#2",
-        "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o#0"
+        "https://www.bbc.co.uk/news/articles/c9zrdknlmpdlo#2"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261027de66642",
         "https://news.web.nhk/newsweb/na/nd-20261027de66621",
         "https://news.web.nhk/newsweb/na/nd-20261027de66616",
         "https://news.web.nhk/newsweb/na/nd-20261027de66611",
@@ -452,8 +453,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261024de64946",
         "https://news.web.nhk/newsweb/na/nd-20261024de64932",
         "https://news.web.nhk/newsweb/na/nd-20260930de53357",
-        "https://news.web.nhk/newsweb/na/nd-20261024de64785",
-        "https://news.web.nhk/newsweb/na/nd-20261024de64945"
+        "https://news.web.nhk/newsweb/na/nd-20261024de64785"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/windows-11-context-menu-customization/",
