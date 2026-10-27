@@ -253,6 +253,7 @@
         "https://www.bbc.co.uk/news/articles/c95ynd587ynzo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261027de66316",
         "https://news.web.nhk/newsweb/na/nd-20261027de66245",
         "https://news.web.nhk/newsweb/na/nd-20261027de66297",
         "https://news.web.nhk/newsweb/na/nd-20261027de66254",
@@ -451,8 +452,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261024de64681",
         "https://news.web.nhk/newsweb/na/nd-20261024de64628",
         "https://news.web.nhk/newsweb/na/nd-20261021de63207",
-        "https://news.web.nhk/newsweb/na/nd-20261023de64531",
-        "https://news.web.nhk/newsweb/na/nd-20261024de64660"
+        "https://news.web.nhk/newsweb/na/nd-20261023de64531"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/iphone-duo-hello-animation/",
