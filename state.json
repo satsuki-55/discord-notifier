@@ -253,6 +253,8 @@
         "https://www.bbc.co.uk/news/articles/c95ynd587ynzo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261027de66339",
+        "https://news.web.nhk/newsweb/na/nd-20261027de66188",
         "https://news.web.nhk/newsweb/na/nd-20261027de66321",
         "https://news.web.nhk/newsweb/na/nd-20261027de66260",
         "https://news.web.nhk/newsweb/na/nd-20261027de66278",
@@ -450,9 +452,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261024de64655",
         "https://news.web.nhk/newsweb/na/nd-20261024de64645",
         "https://news.web.nhk/newsweb/na/nd-20261024de64643",
-        "https://news.web.nhk/newsweb/na/nd-20261024de64631",
-        "https://news.web.nhk/newsweb/na/nd-20261024de64657",
-        "https://news.web.nhk/newsweb/na/nd-20261024de64681"
+        "https://news.web.nhk/newsweb/na/nd-20261024de64631"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/apple-music-hidden-ipod-easter-egg/",
