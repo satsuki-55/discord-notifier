@@ -254,6 +254,7 @@
         "https://www.bbc.co.uk/news/articles/c65yn9p55np2o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261027de66581",
         "https://news.web.nhk/newsweb/na/nd-20261027de66588",
         "https://news.web.nhk/newsweb/na/nd-20261027de66564",
         "https://news.web.nhk/newsweb/na/nd-20261027de66540",
@@ -452,8 +453,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261024de64954",
         "https://news.web.nhk/newsweb/na/nd-20261024de64937",
         "https://news.web.nhk/newsweb/na/nd-20261024de64888",
-        "https://news.web.nhk/newsweb/na/nd-20261024de64880",
-        "https://news.web.nhk/newsweb/na/nd-20261024de64864"
+        "https://news.web.nhk/newsweb/na/nd-20261024de64880"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-ios-security-update-darksword/",
