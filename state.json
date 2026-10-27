@@ -254,6 +254,7 @@
         "https://www.bbc.co.uk/news/articles/c64g14481n7qo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261028de66734",
         "https://news.web.nhk/newsweb/na/nd-20261027de66622",
         "https://news.web.nhk/newsweb/na/nd-20261028de66726",
         "https://news.web.nhk/newsweb/na/nd-20261028de66723",
@@ -452,8 +453,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261025de65086",
         "https://news.web.nhk/newsweb/na/nd-20261025de65231",
         "https://news.web.nhk/newsweb/na/nd-20261025de65227",
-        "https://news.web.nhk/newsweb/na/nd-20261025de65238",
-        "https://news.web.nhk/newsweb/na/nd-20261025de65211"
+        "https://news.web.nhk/newsweb/na/nd-20261025de65238"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/smart-glasses-hans-anders-privacy/",
