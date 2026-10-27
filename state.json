@@ -254,6 +254,7 @@
         "https://www.bbc.co.uk/news/articles/c65yn9p55np2o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261027de66588",
         "https://news.web.nhk/newsweb/na/nd-20261027de66564",
         "https://news.web.nhk/newsweb/na/nd-20261027de66540",
         "https://news.web.nhk/newsweb/na/nd-20261027de66534",
@@ -452,10 +453,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261024de64937",
         "https://news.web.nhk/newsweb/na/nd-20261024de64888",
         "https://news.web.nhk/newsweb/na/nd-20261024de64880",
-        "https://news.web.nhk/newsweb/na/nd-20261024de64864",
-        "https://news.web.nhk/newsweb/na/nd-20261024de64791"
+        "https://news.web.nhk/newsweb/na/nd-20261024de64864"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2610-ios-security-update-darksword/",
         "https://www.gizmodo.jp/article/gregory_raven12_running-bag/",
         "https://www.gizmodo.jp/article/2610-cats-owners-oxytocin-bond/",
         "https://www.gizmodo.jp/article/2610-futondansouki-karalie-mini-turbo/",
@@ -654,8 +655,7 @@
         "https://www.gizmodo.jp/article/2610-why-accenture-consulting-stocks-thrive-ai-trade-needs-human-touch-yqk/",
         "https://www.gizmodo.jp/article/2610-kyocera-duraforce-ex2-battery-swap/",
         "https://www.gizmodo.jp/article/apples-homeviews-reportedly-collected-dust-in-warehouses-for-the-better-part-of-a-year/",
-        "https://www.gizmodo.jp/article/2610-bmw-tum-intersection-blind-spot-tech/",
-        "https://www.gizmodo.jp/article/iphone-duo-battery-capacity/"
+        "https://www.gizmodo.jp/article/2610-bmw-tum-intersection-blind-spot-tech/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "VJ93fOIjdXA",
