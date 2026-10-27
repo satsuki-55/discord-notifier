@@ -51,6 +51,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c5rmy84np001o#1",
         "https://www.bbc.co.uk/news/articles/ck20wjnv3w0jo#1",
         "https://www.bbc.co.uk/news/articles/cq8ezg6dy6xlo#0",
         "https://www.bbc.co.uk/news/articles/cq8ezg4364epo#0",
@@ -249,10 +250,10 @@
         "https://www.bbc.co.uk/news/articles/cx62y9j1zyjvo#0",
         "https://www.bbc.co.uk/news/articles/c95ynd587ynzo#1",
         "https://www.bbc.co.uk/news/articles/c95ynd587ynzo#0",
-        "https://www.bbc.co.uk/news/articles/c3x2wxnrpk78o#0",
-        "https://www.bbc.co.uk/news/videos/cm89zqw9lx1do#1"
+        "https://www.bbc.co.uk/news/articles/c3x2wxnrpk78o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261027de66247",
         "https://news.web.nhk/newsweb/na/nd-20261027de66240",
         "https://news.web.nhk/newsweb/na/nd-20261027de66214",
         "https://news.web.nhk/newsweb/na/nd-20261027de66136",
@@ -451,8 +452,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261023de64611",
         "https://news.web.nhk/newsweb/na/nd-20261024de64642",
         "https://news.web.nhk/newsweb/na/nd-20261024de64650",
-        "https://news.web.nhk/newsweb/na/nd-20261024de64625",
-        "https://news.web.nhk/newsweb/na/nd-20261024de64647"
+        "https://news.web.nhk/newsweb/na/nd-20261024de64625"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/g-shock-gmc-2500-gac-2500/",
