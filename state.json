@@ -254,6 +254,8 @@
         "https://www.bbc.co.uk/news/articles/c6kg50nnj0x4o#2"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261027de66664",
+        "https://news.web.nhk/newsweb/na/nd-20261027de66666",
         "https://news.web.nhk/newsweb/na/nd-20261027de66660",
         "https://news.web.nhk/newsweb/na/nd-20261027de66652",
         "https://news.web.nhk/newsweb/na/nd-20261027de66647",
@@ -451,11 +453,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261025de64981",
         "https://news.web.nhk/newsweb/na/nd-20261025de65011",
         "https://news.web.nhk/newsweb/na/nd-20261025de64987",
-        "https://news.web.nhk/newsweb/na/nd-20261024de64930",
-        "https://news.web.nhk/newsweb/na/nd-20261025de64977",
-        "https://news.web.nhk/newsweb/na/nd-20261025de64976"
+        "https://news.web.nhk/newsweb/na/nd-20261024de64930"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/091738e6-31da-44f9-99ad-58e43ce35ba1/",
         "https://www.gizmodo.jp/article/2610-surface-laptop-ultra-review/",
         "https://www.gizmodo.jp/article/2610-wici-one-wireless-egpu/",
         "https://www.gizmodo.jp/article/ipad-mini-nano-texture-glass-polishing-cloth/",
@@ -654,8 +655,7 @@
         "https://www.gizmodo.jp/article/flat_tire_emergency_repairkit_mistake/",
         "https://www.gizmodo.jp/article/2610-zero-click-malvertising-spyware/",
         "https://www.gizmodo.jp/article/2610-ai-deleted-tv-show-data-postponed/",
-        "https://www.gizmodo.jp/article/reelex-cart-belt-malfit/",
-        "https://www.gizmodo.jp/article/2610-sony-wf-1000xm5-sale/"
+        "https://www.gizmodo.jp/article/reelex-cart-belt-malfit/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "VJ93fOIjdXA",
