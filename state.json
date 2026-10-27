@@ -253,6 +253,7 @@
         "https://www.bbc.co.uk/news/articles/c95ynd587ynzo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261027de66245",
         "https://news.web.nhk/newsweb/na/nd-20261027de66297",
         "https://news.web.nhk/newsweb/na/nd-20261027de66254",
         "https://news.web.nhk/newsweb/na/nd-20261027de66252",
@@ -451,10 +452,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261024de64628",
         "https://news.web.nhk/newsweb/na/nd-20261021de63207",
         "https://news.web.nhk/newsweb/na/nd-20261023de64531",
-        "https://news.web.nhk/newsweb/na/nd-20261024de64660",
-        "https://news.web.nhk/newsweb/na/nd-20261024de64652"
+        "https://news.web.nhk/newsweb/na/nd-20261024de64660"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/iphone-duo-hello-animation/",
         "https://www.gizmodo.jp/article/ef8757e5-f809-462d-a5e1-800fc5ca8fe6/",
         "https://www.gizmodo.jp/article/2610-smartphone-identity-verification-drivers-license-ic-chip/",
         "https://www.gizmodo.jp/article/g-shock-gmc-2500-gac-2500/",
@@ -653,8 +654,7 @@
         "https://www.gizmodo.jp/article/2610-denmark-data-leak-security-basics/",
         "https://www.gizmodo.jp/article/no-need-for-airplane-mode-ojk/",
         "https://www.gizmodo.jp/article/keychron-nape-pro-se-release/",
-        "https://www.gizmodo.jp/article/ceatec-2026-fujitsu/",
-        "https://www.gizmodo.jp/article/2610-new-ipad-mini-display-refresh-rate/"
+        "https://www.gizmodo.jp/article/ceatec-2026-fujitsu/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "VJ93fOIjdXA",
