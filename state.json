@@ -51,6 +51,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/ck20wjnv3w0jo#1",
         "https://www.bbc.co.uk/news/articles/cq8ezg6dy6xlo#0",
         "https://www.bbc.co.uk/news/articles/cq8ezg4364epo#0",
         "https://www.bbc.co.uk/news/articles/cq8ezg4364epo#1",
@@ -249,10 +250,10 @@
         "https://www.bbc.co.uk/news/articles/c95ynd587ynzo#1",
         "https://www.bbc.co.uk/news/articles/c95ynd587ynzo#0",
         "https://www.bbc.co.uk/news/articles/c3x2wxnrpk78o#0",
-        "https://www.bbc.co.uk/news/videos/cm89zqw9lx1do#1",
-        "https://www.bbc.co.uk/news/articles/cqd09k1k7532o#0"
+        "https://www.bbc.co.uk/news/videos/cm89zqw9lx1do#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261027de66214",
         "https://news.web.nhk/newsweb/na/nd-20261027de66136",
         "https://news.web.nhk/newsweb/na/nd-20261027de66122",
         "https://news.web.nhk/newsweb/na/nd-20261027de66125",
@@ -451,10 +452,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261024de64650",
         "https://news.web.nhk/newsweb/na/nd-20261024de64625",
         "https://news.web.nhk/newsweb/na/nd-20261024de64647",
-        "https://news.web.nhk/newsweb/na/nd-20261024de64630",
-        "https://news.web.nhk/newsweb/na/nd-20261024de64640"
+        "https://news.web.nhk/newsweb/na/nd-20261024de64630"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2610-murata-physical-ai-robot-glove/",
         "https://www.gizmodo.jp/article/2610-foldable-smartphone-insurance-essential/",
         "https://www.gizmodo.jp/article/workman_skill_inersocks-irs/",
         "https://www.gizmodo.jp/article/iflytek-ai-translation-earbuds/",
@@ -653,8 +654,7 @@
         "https://www.gizmodo.jp/article/nvidia-acquiring-open-source-ai-startups/",
         "https://www.gizmodo.jp/article/work-controller-joystick-combox/",
         "https://www.gizmodo.jp/article/2610-oled-macbook-pro-apple-event-2026/",
-        "https://www.gizmodo.jp/article/how-to-remove-pfas-vwb/",
-        "https://www.gizmodo.jp/article/2610-sunday-weekend-mellow-drop-toilet-aroma/"
+        "https://www.gizmodo.jp/article/how-to-remove-pfas-vwb/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "VJ93fOIjdXA",
