@@ -52,6 +52,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c6y43wkln1k2o#1",
         "https://www.bbc.co.uk/news/articles/crwyq90gwg8jo#0",
         "https://www.bbc.co.uk/news/articles/cwz0vg2j442lo#1",
         "https://www.bbc.co.uk/news/articles/crwyq90gwg8jo#1",
@@ -250,10 +251,14 @@
         "https://www.bbc.co.uk/news/articles/cxdd8gr1vje0o#0",
         "https://www.bbc.co.uk/news/videos/cmrlyeekzldpo#0",
         "https://www.bbc.co.uk/news/articles/c6jdmj1ej715o#1",
-        "https://www.bbc.co.uk/news/articles/c6e3xek2457wo#1",
-        "https://www.bbc.co.uk/news/articles/c2lkky9zngvo#3"
+        "https://www.bbc.co.uk/news/articles/c6e3xek2457wo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261027de66594",
+        "https://news.web.nhk/newsweb/na/nd-20261027de66669",
+        "https://news.web.nhk/newsweb/na/nd-20261028de66708",
+        "https://news.web.nhk/newsweb/na/nd-20261028de66709",
+        "https://news.web.nhk/newsweb/na/nd-20261028de66716",
         "https://news.web.nhk/newsweb/na/nd-20261027de66679",
         "https://news.web.nhk/newsweb/na/nd-20261028de66719",
         "https://news.web.nhk/newsweb/na/nd-20261028de66715",
@@ -448,12 +453,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261025de65186",
         "https://news.web.nhk/newsweb/na/nd-20261025de65139",
         "https://news.web.nhk/newsweb/na/nd-20261025de65155",
-        "https://news.web.nhk/newsweb/na/nd-20261025de65141",
-        "https://news.web.nhk/newsweb/na/nd-20261025de65143",
-        "https://news.web.nhk/newsweb/na/nd-20261025de65148",
-        "https://news.web.nhk/newsweb/na/nd-20261025de65137",
-        "https://news.web.nhk/newsweb/na/nd-20261025de65082",
-        "https://news.web.nhk/newsweb/na/nd-20261025de65036"
+        "https://news.web.nhk/newsweb/na/nd-20261025de65141"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/m6-macbook-pro-release/",
