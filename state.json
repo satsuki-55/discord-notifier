@@ -51,6 +51,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/ckly0xqjnlwvo#1",
         "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo#0",
         "https://www.bbc.co.uk/news/articles/cq2e9we7w2ejo#1",
         "https://www.bbc.co.uk/sport/football/articles/cqlye4jpzzxyo#1",
@@ -249,10 +250,10 @@
         "https://www.bbc.co.uk/news/articles/cm1dwzvn6227o#1",
         "https://www.bbc.co.uk/news/videos/cmqlnkq6p6y7o#0",
         "https://www.bbc.co.uk/news/articles/cv0ld9571511o#1",
-        "https://www.bbc.co.uk/news/articles/c39wz740e0nyo#1",
-        "https://www.bbc.co.uk/news/articles/cwkg5md14j8go#0"
+        "https://www.bbc.co.uk/news/articles/c39wz740e0nyo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261026de65556",
         "https://news.web.nhk/newsweb/na/nd-20261027de66088",
         "https://news.web.nhk/newsweb/na/nd-20261027de66082",
         "https://news.web.nhk/newsweb/na/nd-20261027de66090",
@@ -451,8 +452,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261024de64632",
         "https://news.web.nhk/newsweb/na/nd-20261023de64620",
         "https://news.web.nhk/newsweb/na/nd-20261023de64615",
-        "https://news.web.nhk/newsweb/na/nd-20261023de64536",
-        "https://news.web.nhk/newsweb/na/nd-20261023de64575"
+        "https://news.web.nhk/newsweb/na/nd-20261023de64536"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/ai-startup-wants-every-company-to-assign-you-your-own-personal-stalker/",
