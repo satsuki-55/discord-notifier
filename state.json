@@ -253,6 +253,7 @@
         "https://www.bbc.co.uk/news/articles/c95ynd587ynzo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261027de66260",
         "https://news.web.nhk/newsweb/na/nd-20261027de66278",
         "https://news.web.nhk/newsweb/na/nd-20261027de66316",
         "https://news.web.nhk/newsweb/na/nd-20261027de66245",
@@ -451,10 +452,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261024de64631",
         "https://news.web.nhk/newsweb/na/nd-20261024de64657",
         "https://news.web.nhk/newsweb/na/nd-20261024de64681",
-        "https://news.web.nhk/newsweb/na/nd-20261024de64628",
-        "https://news.web.nhk/newsweb/na/nd-20261021de63207"
+        "https://news.web.nhk/newsweb/na/nd-20261024de64628"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2610-montbell-wic-cardigan/",
         "https://www.gizmodo.jp/article/iphone-duo-hello-animation/",
         "https://www.gizmodo.jp/article/ef8757e5-f809-462d-a5e1-800fc5ca8fe6/",
         "https://www.gizmodo.jp/article/2610-smartphone-identity-verification-drivers-license-ic-chip/",
@@ -653,8 +654,7 @@
         "https://www.gizmodo.jp/article/ai-recommended-malware-software/",
         "https://www.gizmodo.jp/article/2610-denmark-data-leak-security-basics/",
         "https://www.gizmodo.jp/article/no-need-for-airplane-mode-ojk/",
-        "https://www.gizmodo.jp/article/keychron-nape-pro-se-release/",
-        "https://www.gizmodo.jp/article/ceatec-2026-fujitsu/"
+        "https://www.gizmodo.jp/article/keychron-nape-pro-se-release/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "VJ93fOIjdXA",
