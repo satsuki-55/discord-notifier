@@ -254,6 +254,9 @@
         "https://www.bbc.co.uk/news/articles/c30rlpkglkwpo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261027de66647",
+        "https://news.web.nhk/newsweb/na/nd-20261027de66644",
+        "https://news.web.nhk/newsweb/na/nd-20261027de66643",
         "https://news.web.nhk/newsweb/na/nd-20261027de66639",
         "https://news.web.nhk/newsweb/na/nd-20261027de66635",
         "https://news.web.nhk/newsweb/na/nd-20261027de66636",
@@ -450,10 +453,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261025de64977",
         "https://news.web.nhk/newsweb/na/nd-20261025de64976",
         "https://news.web.nhk/newsweb/na/nd-20261025de64973",
-        "https://news.web.nhk/newsweb/na/nd-20261024de64966",
-        "https://news.web.nhk/newsweb/na/nd-20261024de64624",
-        "https://news.web.nhk/newsweb/na/nd-20261025de64972",
-        "https://news.web.nhk/newsweb/na/nd-20261024de64946"
+        "https://news.web.nhk/newsweb/na/nd-20261024de64966"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/ipad-mini-nano-texture-glass-polishing-cloth/",
