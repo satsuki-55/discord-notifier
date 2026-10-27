@@ -253,6 +253,7 @@
         "https://www.bbc.co.uk/news/videos/cm89zqw9lx1do#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261027de66240",
         "https://news.web.nhk/newsweb/na/nd-20261027de66214",
         "https://news.web.nhk/newsweb/na/nd-20261027de66136",
         "https://news.web.nhk/newsweb/na/nd-20261027de66122",
@@ -451,10 +452,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261024de64642",
         "https://news.web.nhk/newsweb/na/nd-20261024de64650",
         "https://news.web.nhk/newsweb/na/nd-20261024de64625",
-        "https://news.web.nhk/newsweb/na/nd-20261024de64647",
-        "https://news.web.nhk/newsweb/na/nd-20261024de64630"
+        "https://news.web.nhk/newsweb/na/nd-20261024de64647"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/g-shock-gmc-2500-gac-2500/",
         "https://www.gizmodo.jp/article/2610-macbook-pro-oled-touch-2026/",
         "https://www.gizmodo.jp/article/2610-murata-physical-ai-robot-glove/",
         "https://www.gizmodo.jp/article/2610-foldable-smartphone-insurance-essential/",
@@ -653,8 +654,7 @@
         "https://www.gizmodo.jp/article/ceatec-2026-fujitsu/",
         "https://www.gizmodo.jp/article/2610-new-ipad-mini-display-refresh-rate/",
         "https://www.gizmodo.jp/article/nvidia-acquiring-open-source-ai-startups/",
-        "https://www.gizmodo.jp/article/work-controller-joystick-combox/",
-        "https://www.gizmodo.jp/article/2610-oled-macbook-pro-apple-event-2026/"
+        "https://www.gizmodo.jp/article/work-controller-joystick-combox/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "VJ93fOIjdXA",
