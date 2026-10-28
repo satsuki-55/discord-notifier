@@ -53,6 +53,10 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c69wzxw2pvv0o#0",
+        "https://www.bbc.co.uk/news/articles/ck5ynj4eeyj2o#0",
+        "https://www.bbc.co.uk/news/articles/c5m2dry2xwwvo#0",
+        "https://www.bbc.co.uk/news/articles/cmly073ql392o#0",
         "https://www.bbc.co.uk/news/articles/c6x2qggrdxqeo#0",
         "https://www.bbc.co.uk/news/articles/cwly3g0g371go#0",
         "https://www.bbc.co.uk/news/articles/cmq8nwvj92jdo#2",
@@ -248,13 +252,11 @@
         "https://www.bbc.co.uk/weather/articles/c6zjxgj83n80o#0",
         "https://www.bbc.co.uk/news/articles/c60qk5lw1z8wo#0",
         "https://www.bbc.co.uk/news/articles/cr5ynl415j79o#0",
-        "https://www.bbc.co.uk/news/videos/c8040gkq5563o#0",
-        "https://www.bbc.co.uk/news/articles/c69wzxw2pvv0o#1",
-        "https://www.bbc.co.uk/news/videos/c64g1wje3jjwo#2",
-        "https://www.bbc.co.uk/news/articles/c69wzxw2pvv0o#0",
-        "https://www.bbc.co.uk/news/articles/ck98zp7zeq65o#0"
+        "https://www.bbc.co.uk/news/videos/c8040gkq5563o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261028de67327",
+        "https://news.web.nhk/newsweb/na/nd-20261028de67321",
         "https://news.web.nhk/newsweb/na/nd-20261028de67297",
         "https://news.web.nhk/newsweb/na/nd-20261028de67318",
         "https://news.web.nhk/newsweb/na/nd-20261028de67365",
@@ -452,9 +454,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261026de65672",
         "https://news.web.nhk/newsweb/na/nd-20261026de65662",
         "https://news.web.nhk/newsweb/na/nd-20260930de53359",
-        "https://news.web.nhk/newsweb/na/nd-20261026de65501",
-        "https://news.web.nhk/newsweb/na/nd-20261026de65641",
-        "https://news.web.nhk/newsweb/na/nd-20261023de64024"
+        "https://news.web.nhk/newsweb/na/nd-20261026de65501"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/hackers-target-u-s-federal-election-commission-website/",
