@@ -255,6 +255,7 @@
         "https://www.bbc.co.uk/news/articles/cw98z6qlyvg3o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261029de67441",
         "https://news.web.nhk/newsweb/na/nd-20261029de67449",
         "https://news.web.nhk/newsweb/na/nd-20261029de67446",
         "https://news.web.nhk/newsweb/na/nd-20261028de67417",
@@ -453,8 +454,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261027de66047",
         "https://news.web.nhk/newsweb/na/nd-20261026de66045",
         "https://news.web.nhk/newsweb/na/nd-20261026de66041",
-        "https://news.web.nhk/newsweb/na/nd-20261026de66028",
-        "https://news.web.nhk/newsweb/na/nd-20261026de65972"
+        "https://news.web.nhk/newsweb/na/nd-20261026de66028"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/touch-macbook-pro-glow-logo/",
