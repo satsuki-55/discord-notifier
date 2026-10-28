@@ -255,6 +255,7 @@
         "https://www.bbc.co.uk/news/articles/ckly0xqjnlwvo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261029de67471",
         "https://news.web.nhk/newsweb/na/nd-20261029de67465",
         "https://news.web.nhk/newsweb/na/nd-20261028de67200",
         "https://news.web.nhk/newsweb/na/nd-20261029de67462",
@@ -453,8 +454,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261027de66071",
         "https://news.web.nhk/newsweb/na/nd-20261027de66061",
         "https://news.web.nhk/newsweb/na/nd-20261027de66050",
-        "https://news.web.nhk/newsweb/na/nd-20261027de66055",
-        "https://news.web.nhk/newsweb/na/nd-20261026de66026"
+        "https://news.web.nhk/newsweb/na/nd-20261027de66055"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-artificial-analysis-intelligence-index-v5/",
