@@ -254,6 +254,8 @@
         "https://www.bbc.co.uk/news/articles/cvwy7wz9x12go#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261028de67211",
+        "https://news.web.nhk/newsweb/na/nd-20261028de67231",
         "https://news.web.nhk/newsweb/na/nd-20261028de67229",
         "https://news.web.nhk/newsweb/na/nd-20261028de67215",
         "https://news.web.nhk/newsweb/na/nd-20261028de67179",
@@ -451,9 +453,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261023de63991",
         "https://news.web.nhk/newsweb/na/nd-20261026de65487",
         "https://news.web.nhk/newsweb/na/nd-20261026de65474",
-        "https://news.web.nhk/newsweb/na/nd-20261026de65458",
-        "https://news.web.nhk/newsweb/na/nd-20261026de65466",
-        "https://news.web.nhk/newsweb/na/nd-20261026de65459"
+        "https://news.web.nhk/newsweb/na/nd-20261026de65458"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-ipad-mini-oled-no-promotion/",
