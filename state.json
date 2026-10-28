@@ -254,6 +254,7 @@
         "https://www.bbc.co.uk/news/articles/cw80zk9k51j1o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261028de66761",
         "https://news.web.nhk/newsweb/na/nd-20261028de66946",
         "https://news.web.nhk/newsweb/na/nd-20261028de66876",
         "https://news.web.nhk/newsweb/na/nd-20261028de66894",
@@ -452,10 +453,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261025de65369",
         "https://news.web.nhk/newsweb/na/nd-20261026de65415",
         "https://news.web.nhk/newsweb/na/nd-20261025de65387",
-        "https://news.web.nhk/newsweb/na/nd-20261025de65338",
-        "https://news.web.nhk/newsweb/na/nd-20261025de65362"
+        "https://news.web.nhk/newsweb/na/nd-20261025de65338"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2610-cassette-tape-hdd-case/",
         "https://www.gizmodo.jp/article/2610-kinoko-no-yama-wireless-earphones-pro/",
         "https://www.gizmodo.jp/article/2610-touch-macbook-pro-cooling-lightweight/",
         "https://www.gizmodo.jp/article/instagram-features-long-video/",
@@ -654,8 +655,7 @@
         "https://www.gizmodo.jp/article/2610-lht-logicool-mobi-fold-review-svt/",
         "https://www.gizmodo.jp/article/kyuusuiban/",
         "https://www.gizmodo.jp/article/after-muse-launch-u-s-banks-are-saying-hell-no-to-ai-agents-moving-money/",
-        "https://www.gizmodo.jp/article/2610-jr-east-teppay-features-and-issues/",
-        "https://www.gizmodo.jp/article/monbel_crimaairlight-fleece/"
+        "https://www.gizmodo.jp/article/2610-jr-east-teppay-features-and-issues/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "VJ93fOIjdXA",
