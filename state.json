@@ -53,6 +53,9 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/videos/cv8ezjdkle59o#2",
+        "https://www.bbc.co.uk/news/articles/cm8xz7pkd0jjo#2",
+        "https://www.bbc.co.uk/news/articles/c6lykg0nkll0o#2",
         "https://www.bbc.co.uk/news/articles/cr5ynl415j79o#0",
         "https://www.bbc.co.uk/news/videos/c8040gkq5563o#0",
         "https://www.bbc.co.uk/news/articles/cr20w5vx39peo#2",
@@ -249,12 +252,11 @@
         "https://www.bbc.co.uk/news/articles/c6p3g9kle8pgo#1",
         "https://www.bbc.co.uk/sport/football/articles/cr3wvz20pglqo#1",
         "https://www.bbc.co.uk/news/articles/cq3dje4g4d5jo#0",
-        "https://www.bbc.co.uk/news/articles/cwj0leg7ng67o#1",
-        "https://www.bbc.co.uk/news/articles/cx240dpzv009o#1",
-        "https://www.bbc.co.uk/news/videos/c5pvg8y8lk2mo#1",
-        "https://www.bbc.co.uk/weather/articles/c6zjxgj83n80o#0"
+        "https://www.bbc.co.uk/news/articles/cwj0leg7ng67o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261028de67345",
+        "https://news.web.nhk/newsweb/na/nd-20261028dw67376",
         "https://news.web.nhk/newsweb/na/nd-20261028de67348",
         "https://news.web.nhk/newsweb/na/nd-20261028de67205",
         "https://news.web.nhk/newsweb/na/nd-20261028de67335",
@@ -452,9 +454,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261026de65918",
         "https://news.web.nhk/newsweb/na/nd-20261026de65880",
         "https://news.web.nhk/newsweb/na/nd-20261026de65847",
-        "https://news.web.nhk/newsweb/na/nd-20261026de65745",
-        "https://news.web.nhk/newsweb/na/nd-20261026de65793",
-        "https://news.web.nhk/newsweb/na/nd-20261026de65767"
+        "https://news.web.nhk/newsweb/na/nd-20261026de65745"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/adidas-adaptik-one-2way-watch/",
