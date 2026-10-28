@@ -53,6 +53,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c6lylxjkkp0vo#0",
         "https://www.bbc.co.uk/news/articles/c6lylxjkkp0vo#1",
         "https://www.bbc.co.uk/news/articles/c5m2dry2xwwvo#1",
         "https://www.bbc.co.uk/news/articles/c9x28350ly07o#0",
@@ -251,10 +252,10 @@
         "https://www.bbc.co.uk/news/articles/c60rlp8kkz1zo#1",
         "https://www.bbc.co.uk/news/articles/cm0rljq0dzvxo#0",
         "https://www.bbc.co.uk/news/articles/c6reyx1d9ge9o#0",
-        "https://www.bbc.co.uk/news/articles/cm0rljq0dzvxo#1",
-        "https://www.bbc.co.uk/news/articles/c6rmyl0kxyxjo#1"
+        "https://www.bbc.co.uk/news/articles/cm0rljq0dzvxo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261028de67200",
         "https://news.web.nhk/newsweb/na/nd-20261029de67462",
         "https://news.web.nhk/newsweb/na/nd-20261029de67457",
         "https://news.web.nhk/newsweb/na/nd-20261029de67438",
@@ -453,8 +454,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261027de66050",
         "https://news.web.nhk/newsweb/na/nd-20261027de66055",
         "https://news.web.nhk/newsweb/na/nd-20261026de66026",
-        "https://news.web.nhk/newsweb/na/nd-20261026de66039",
-        "https://news.web.nhk/newsweb/na/nd-20261026de66040"
+        "https://news.web.nhk/newsweb/na/nd-20261026de66039"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-artificial-analysis-intelligence-index-v5/",
