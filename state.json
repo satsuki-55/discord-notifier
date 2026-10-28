@@ -254,6 +254,7 @@
         "https://www.bbc.co.uk/news/articles/cw80zk9k51j1o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261028de66785",
         "https://news.web.nhk/newsweb/na/nd-20261028de66761",
         "https://news.web.nhk/newsweb/na/nd-20261028de66946",
         "https://news.web.nhk/newsweb/na/nd-20261028de66876",
@@ -452,8 +453,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261026de65418",
         "https://news.web.nhk/newsweb/na/nd-20261025de65369",
         "https://news.web.nhk/newsweb/na/nd-20261026de65415",
-        "https://news.web.nhk/newsweb/na/nd-20261025de65387",
-        "https://news.web.nhk/newsweb/na/nd-20261025de65338"
+        "https://news.web.nhk/newsweb/na/nd-20261025de65387"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/pixel-6-security-update-support-october-2026/",
