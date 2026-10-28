@@ -53,6 +53,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cr5ynl415j79o#0",
         "https://www.bbc.co.uk/news/videos/c8040gkq5563o#0",
         "https://www.bbc.co.uk/news/articles/cr20w5vx39peo#2",
         "https://www.bbc.co.uk/news/articles/c69wzxw2pvv0o#0",
@@ -251,10 +252,10 @@
         "https://www.bbc.co.uk/news/articles/cwj0leg7ng67o#1",
         "https://www.bbc.co.uk/news/articles/cx240dpzv009o#1",
         "https://www.bbc.co.uk/news/videos/c5pvg8y8lk2mo#1",
-        "https://www.bbc.co.uk/weather/articles/c6zjxgj83n80o#0",
-        "https://www.bbc.co.uk/news/articles/c60qk5lw1z8wo#0"
+        "https://www.bbc.co.uk/weather/articles/c6zjxgj83n80o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261028de67319",
         "https://news.web.nhk/newsweb/na/nd-20261028de67369",
         "https://news.web.nhk/newsweb/na/nd-20261028de67347",
         "https://news.web.nhk/newsweb/na/nd-20261028de67320",
@@ -453,8 +454,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261026de65836",
         "https://news.web.nhk/newsweb/na/nd-20261026de65733",
         "https://news.web.nhk/newsweb/na/nd-20261026de65498",
-        "https://news.web.nhk/newsweb/na/nd-20261026de65691",
-        "https://news.web.nhk/newsweb/na/nd-20261026de65672"
+        "https://news.web.nhk/newsweb/na/nd-20261026de65691"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/hackers-target-u-s-federal-election-commission-website/",
