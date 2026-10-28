@@ -53,6 +53,8 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cqe9l4px0yzxo#0",
+        "https://www.bbc.co.uk/news/articles/cy7e8mpdxpro#1",
         "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo#0",
         "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo#2",
         "https://www.bbc.co.uk/news/articles/cwvg039x08g2o#2",
@@ -250,9 +252,7 @@
         "https://www.bbc.co.uk/news/articles/c6zxj7dvxr5yo#0",
         "https://www.bbc.co.uk/news/articles/cwn8d7g29vd9o#0",
         "https://www.bbc.co.uk/news/articles/ckjwe90z56ewo#1",
-        "https://www.bbc.co.uk/news/articles/cwz0vg4v3ndeo#1",
-        "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo#1",
-        "https://www.bbc.co.uk/news/articles/ckpdg8vnv171o#1"
+        "https://www.bbc.co.uk/news/articles/cwz0vg4v3ndeo#1"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20261029de67446",
@@ -457,6 +457,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261026de66013"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/touch-macbook-pro-glow-logo/",
         "https://www.gizmodo.jp/article/apple-macbook-logo-glow-return/",
         "https://www.gizmodo.jp/article/289654-2/",
         "https://www.gizmodo.jp/article/ai-climbing-rescue/",
@@ -655,8 +656,7 @@
         "https://www.gizmodo.jp/article/iphone-duo_purchase_limit/",
         "https://www.gizmodo.jp/article/f7ad8c67-0d7d-434d-9cb4-5b815f280d7f/",
         "https://www.gizmodo.jp/article/mont-bell-stormcruiserjacket/",
-        "https://www.gizmodo.jp/article/2610-xbox-official-buyback-program-series-x/",
-        "https://www.gizmodo.jp/article/iphone-duo-1week-smallhands-review/"
+        "https://www.gizmodo.jp/article/2610-xbox-official-buyback-program-series-x/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "VJ93fOIjdXA",
