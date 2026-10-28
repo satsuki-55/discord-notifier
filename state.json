@@ -255,6 +255,7 @@
         "https://www.bbc.co.uk/news/articles/cq3dje4g4d5jo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261028dw67395",
         "https://news.web.nhk/newsweb/na/nd-20261028dw67396",
         "https://news.web.nhk/newsweb/na/nd-20261028de67015",
         "https://news.web.nhk/newsweb/na/nd-20261028dw67382",
@@ -453,8 +454,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261026de65957",
         "https://news.web.nhk/newsweb/na/nd-20261026de65955",
         "https://news.web.nhk/newsweb/na/nd-20261026de65953",
-        "https://news.web.nhk/newsweb/na/nd-20261026de65946",
-        "https://news.web.nhk/newsweb/na/nd-20261026de65927"
+        "https://news.web.nhk/newsweb/na/nd-20261026de65946"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/ai-climbing-rescue/",
