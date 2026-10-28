@@ -254,6 +254,8 @@
         "https://www.bbc.co.uk/news/articles/cvwy7wz9x12go#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261028de67291",
+        "https://news.web.nhk/newsweb/na/nd-20261028de67235",
         "https://news.web.nhk/newsweb/na/nd-20261028de67007",
         "https://news.web.nhk/newsweb/na/nd-20261028de67251",
         "https://news.web.nhk/newsweb/na/nd-20261028de67008",
@@ -451,11 +453,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261026de65566",
         "https://news.web.nhk/newsweb/na/nd-20261026de65565",
         "https://news.web.nhk/newsweb/na/nd-20261026de65587",
-        "https://news.web.nhk/newsweb/na/nd-20261026de65533",
-        "https://news.web.nhk/newsweb/na/nd-20261026de65470",
-        "https://news.web.nhk/newsweb/na/nd-20261023de63991"
+        "https://news.web.nhk/newsweb/na/nd-20261026de65533"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2610-keychron-c3-pro-trackball-gizmart/",
         "https://www.gizmodo.jp/article/2610-ipad-mini-oled-no-promotion/",
         "https://www.gizmodo.jp/article/2610-magsafe-ring-light-smartphone-photography/",
         "https://www.gizmodo.jp/article/2610-vortex-tech-sound-fire-extinguisher/",
@@ -654,8 +655,7 @@
         "https://www.gizmodo.jp/article/2610-matech-powernano-watch-5000/",
         "https://www.gizmodo.jp/article/hikeman-shoesporch/",
         "https://www.gizmodo.jp/article/sonic-lamb-beyond-headphones/",
-        "https://www.gizmodo.jp/article/huawei-watch-6/",
-        "https://www.gizmodo.jp/article/2610-chatgpt-advertising-targeting-explained/"
+        "https://www.gizmodo.jp/article/huawei-watch-6/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "VJ93fOIjdXA",
