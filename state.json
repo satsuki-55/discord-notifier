@@ -52,6 +52,10 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cm62ygw1e99xo#0",
+        "https://www.bbc.co.uk/news/articles/cqr7y3d0dvm5o#0",
+        "https://www.bbc.co.uk/news/articles/crq5n7e1jjjzo#1",
+        "https://www.bbc.co.uk/news/articles/crly0z4gpddwo#1",
         "https://www.bbc.co.uk/news/articles/ckeq3vezxlx1o#1",
         "https://www.bbc.co.uk/news/articles/cr20w5vx39peo#1",
         "https://www.bbc.co.uk/news/articles/c6y43wkln1k2o#2",
@@ -247,13 +251,10 @@
         "https://www.bbc.co.uk/news/articles/c6g7xn8p2n0ro#1",
         "https://www.bbc.co.uk/news/articles/cqrmyl1mljppo#1",
         "https://www.bbc.co.uk/news/articles/cxnv025d8qpmo#0",
-        "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno#0",
-        "https://www.bbc.co.uk/news/articles/c3gr84w85glyo#1",
-        "https://www.bbc.co.uk/news/articles/c6g7xn8p2n0ro#0",
-        "https://www.bbc.co.uk/news/articles/c6r7ylzp148eo#1",
-        "https://www.bbc.co.uk/news/articles/cmlykvpdx4x0o#0"
+        "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261028de67089",
         "https://news.web.nhk/newsweb/na/nd-20261028de66757",
         "https://news.web.nhk/newsweb/na/nd-20260930de53361",
         "https://news.web.nhk/newsweb/na/nd-20261028de66760",
@@ -452,8 +453,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261026de65416",
         "https://news.web.nhk/newsweb/na/nd-20261026de65417",
         "https://news.web.nhk/newsweb/na/nd-20261026de65413",
-        "https://news.web.nhk/newsweb/na/nd-20261025de65392",
-        "https://news.web.nhk/newsweb/na/nd-20261025de65326"
+        "https://news.web.nhk/newsweb/na/nd-20261025de65392"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-vortex-tech-sound-fire-extinguisher/",
