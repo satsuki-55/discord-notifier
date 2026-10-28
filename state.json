@@ -254,6 +254,7 @@
         "https://www.bbc.co.uk/news/articles/cw80zk9k51j1o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261028de67035",
         "https://news.web.nhk/newsweb/na/nd-20261028de67023",
         "https://news.web.nhk/newsweb/na/nd-20261028de67014",
         "https://news.web.nhk/newsweb/na/nd-20261028de66785",
@@ -452,8 +453,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261025de65348",
         "https://news.web.nhk/newsweb/na/nd-20261025de65353",
         "https://news.web.nhk/newsweb/na/nd-20261026de65420",
-        "https://news.web.nhk/newsweb/na/nd-20261026de65418",
-        "https://news.web.nhk/newsweb/na/nd-20261025de65369"
+        "https://news.web.nhk/newsweb/na/nd-20261026de65418"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-collage-d-soap-dry-skin/",
