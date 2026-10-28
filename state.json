@@ -255,6 +255,8 @@
         "https://www.bbc.co.uk/weather/articles/c6zjxgj83n80o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261028de67205",
+        "https://news.web.nhk/newsweb/na/nd-20261028de67335",
         "https://news.web.nhk/newsweb/na/nd-20261028de67338",
         "https://news.web.nhk/newsweb/na/nd-20261028de67319",
         "https://news.web.nhk/newsweb/na/nd-20261028de67369",
@@ -452,11 +454,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261026de65745",
         "https://news.web.nhk/newsweb/na/nd-20261026de65793",
         "https://news.web.nhk/newsweb/na/nd-20261026de65767",
-        "https://news.web.nhk/newsweb/na/nd-20261026de65836",
-        "https://news.web.nhk/newsweb/na/nd-20261026de65733",
-        "https://news.web.nhk/newsweb/na/nd-20261026de65498"
+        "https://news.web.nhk/newsweb/na/nd-20261026de65836"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/adidas-adaptik-one-2way-watch/",
         "https://www.gizmodo.jp/article/hackers-target-u-s-federal-election-commission-website/",
         "https://www.gizmodo.jp/article/2610-anker-eufy-omni-e35-review/",
         "https://www.gizmodo.jp/article/2610-google-genie-4/",
@@ -655,8 +656,7 @@
         "https://www.gizmodo.jp/article/iphone-duo-1week-20-questions/",
         "https://www.gizmodo.jp/article/iphone-duo-unbox-firstimpression/",
         "https://www.gizmodo.jp/article/2610-ugreen-nexode-wavy-mobile-battery/",
-        "https://www.gizmodo.jp/article/2610-plaud-one-review-ai-voice-recorder/",
-        "https://www.gizmodo.jp/article/rab_phantom-jacket/"
+        "https://www.gizmodo.jp/article/2610-plaud-one-review-ai-voice-recorder/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "VJ93fOIjdXA",
