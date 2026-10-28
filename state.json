@@ -255,6 +255,7 @@
         "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261028de67416",
         "https://news.web.nhk/newsweb/na/nd-20261028de67413",
         "https://news.web.nhk/newsweb/na/nd-20261028de67363",
         "https://news.web.nhk/newsweb/na/nd-20261026de65953",
@@ -453,8 +454,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261026de65825",
         "https://news.web.nhk/newsweb/na/nd-20261026de65951",
         "https://news.web.nhk/newsweb/na/nd-20261026de65960",
-        "https://news.web.nhk/newsweb/na/nd-20261026de65997",
-        "https://news.web.nhk/newsweb/na/nd-20261026de65961"
+        "https://news.web.nhk/newsweb/na/nd-20261026de65997"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/apple-macbook-logo-glow-return/",
