@@ -53,6 +53,8 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/videos/c8040gkq5563o#0",
+        "https://www.bbc.co.uk/news/articles/cr20w5vx39peo#2",
         "https://www.bbc.co.uk/news/articles/c69wzxw2pvv0o#0",
         "https://www.bbc.co.uk/news/articles/ck5ynj4eeyj2o#0",
         "https://www.bbc.co.uk/news/articles/c5m2dry2xwwvo#0",
@@ -250,11 +252,12 @@
         "https://www.bbc.co.uk/news/articles/cx240dpzv009o#1",
         "https://www.bbc.co.uk/news/videos/c5pvg8y8lk2mo#1",
         "https://www.bbc.co.uk/weather/articles/c6zjxgj83n80o#0",
-        "https://www.bbc.co.uk/news/articles/c60qk5lw1z8wo#0",
-        "https://www.bbc.co.uk/news/articles/cr5ynl415j79o#0",
-        "https://www.bbc.co.uk/news/videos/c8040gkq5563o#0"
+        "https://www.bbc.co.uk/news/articles/c60qk5lw1z8wo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261028de67369",
+        "https://news.web.nhk/newsweb/na/nd-20261028de67347",
+        "https://news.web.nhk/newsweb/na/nd-20261028de67320",
         "https://news.web.nhk/newsweb/na/nd-20261028de67327",
         "https://news.web.nhk/newsweb/na/nd-20261028de67321",
         "https://news.web.nhk/newsweb/na/nd-20261028de67297",
@@ -451,10 +454,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261026de65733",
         "https://news.web.nhk/newsweb/na/nd-20261026de65498",
         "https://news.web.nhk/newsweb/na/nd-20261026de65691",
-        "https://news.web.nhk/newsweb/na/nd-20261026de65672",
-        "https://news.web.nhk/newsweb/na/nd-20261026de65662",
-        "https://news.web.nhk/newsweb/na/nd-20260930de53359",
-        "https://news.web.nhk/newsweb/na/nd-20261026de65501"
+        "https://news.web.nhk/newsweb/na/nd-20261026de65672"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/hackers-target-u-s-federal-election-commission-website/",
