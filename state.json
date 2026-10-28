@@ -254,6 +254,7 @@
         "https://www.bbc.co.uk/news/articles/ck87z4ng2l03o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261028de67044",
         "https://news.web.nhk/newsweb/na/nd-20261028de67029",
         "https://news.web.nhk/newsweb/na/nd-20261028de67035",
         "https://news.web.nhk/newsweb/na/nd-20261028de67023",
@@ -452,8 +453,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261025de65326",
         "https://news.web.nhk/newsweb/na/nd-20261025de65328",
         "https://news.web.nhk/newsweb/na/nd-20261025de65348",
-        "https://news.web.nhk/newsweb/na/nd-20261025de65353",
-        "https://news.web.nhk/newsweb/na/nd-20261026de65420"
+        "https://news.web.nhk/newsweb/na/nd-20261025de65353"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-vortex-tech-sound-fire-extinguisher/",
