@@ -53,6 +53,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cmzxlr570xgro#2",
         "https://www.bbc.co.uk/news/videos/cqn49vy2jlx0o#1",
         "https://www.bbc.co.uk/news/videos/cv8ezjdkle59o#2",
         "https://www.bbc.co.uk/news/articles/cm8xz7pkd0jjo#2",
@@ -251,10 +252,11 @@
         "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o#0",
         "https://www.bbc.co.uk/news/articles/ck4g1vgj6q39o#0",
         "https://www.bbc.co.uk/news/articles/c6p3g9kle8pgo#1",
-        "https://www.bbc.co.uk/sport/football/articles/cr3wvz20pglqo#1",
-        "https://www.bbc.co.uk/news/articles/cq3dje4g4d5jo#0"
+        "https://www.bbc.co.uk/sport/football/articles/cr3wvz20pglqo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261028dw67398",
+        "https://news.web.nhk/newsweb/na/nd-20261028dw67403",
         "https://news.web.nhk/newsweb/na/nd-20261028dw67395",
         "https://news.web.nhk/newsweb/na/nd-20261028dw67396",
         "https://news.web.nhk/newsweb/na/nd-20261028de67015",
@@ -452,9 +454,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261026de65961",
         "https://news.web.nhk/newsweb/na/nd-20261026de65948",
         "https://news.web.nhk/newsweb/na/nd-20261026de65957",
-        "https://news.web.nhk/newsweb/na/nd-20261026de65955",
-        "https://news.web.nhk/newsweb/na/nd-20261026de65953",
-        "https://news.web.nhk/newsweb/na/nd-20261026de65946"
+        "https://news.web.nhk/newsweb/na/nd-20261026de65955"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/ai-climbing-rescue/",
