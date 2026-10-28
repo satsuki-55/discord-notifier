@@ -255,6 +255,7 @@
         "https://www.bbc.co.uk/news/articles/cwj0leg7ng67o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261028dw67382",
         "https://news.web.nhk/newsweb/na/nd-20261028dw67390",
         "https://news.web.nhk/newsweb/na/nd-20261028de67241",
         "https://news.web.nhk/newsweb/na/nd-20261028de67345",
@@ -453,8 +454,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261026de65946",
         "https://news.web.nhk/newsweb/na/nd-20261026de65927",
         "https://news.web.nhk/newsweb/na/nd-20261026de65904",
-        "https://news.web.nhk/newsweb/na/nd-20261026de65918",
-        "https://news.web.nhk/newsweb/na/nd-20261026de65880"
+        "https://news.web.nhk/newsweb/na/nd-20261026de65918"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/lofi-girl-headphones/",
