@@ -52,6 +52,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cmvgxl5kdgrzo#1",
         "https://www.bbc.co.uk/news/articles/cmvgxl5kdgrzo#0",
         "https://www.bbc.co.uk/news/articles/cmq8nwvj92jdo#0",
         "https://www.bbc.co.uk/news/articles/cr20wzwyzl1qo#1",
@@ -250,10 +251,10 @@
         "https://www.bbc.co.uk/weather/articles/cqwy7w8dryrxo#0",
         "https://www.bbc.co.uk/news/articles/cwzd6q630vjeo#1",
         "https://www.bbc.co.uk/news/articles/cqrly2dg5xzzo#0",
-        "https://www.bbc.co.uk/news/articles/cqrmyl1mljppo#0",
-        "https://www.bbc.co.uk/news/articles/cw073m0z0j89o#1"
+        "https://www.bbc.co.uk/news/articles/cqrmyl1mljppo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261028de67157",
         "https://news.web.nhk/newsweb/na/nd-20261028de67308",
         "https://news.web.nhk/newsweb/na/nd-20261028de67164",
         "https://news.web.nhk/newsweb/na/nd-20261028de67281",
@@ -452,8 +453,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261023de64024",
         "https://news.web.nhk/newsweb/na/nd-20261026de65571",
         "https://news.web.nhk/newsweb/na/nd-20261026de65631",
-        "https://news.web.nhk/newsweb/na/nd-20261023de64008",
-        "https://news.web.nhk/newsweb/na/nd-20261026de65609"
+        "https://news.web.nhk/newsweb/na/nd-20261023de64008"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-google-genie-4/",
