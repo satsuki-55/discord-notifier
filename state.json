@@ -254,6 +254,8 @@
         "https://www.bbc.co.uk/news/articles/cw80zk9k51j1o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261028de66876",
+        "https://news.web.nhk/newsweb/na/nd-20261028de66894",
         "https://news.web.nhk/newsweb/na/nd-20261028de66820",
         "https://news.web.nhk/newsweb/na/nd-20261028de66765",
         "https://news.web.nhk/newsweb/na/nd-20261028de66764",
@@ -451,9 +453,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261025de65387",
         "https://news.web.nhk/newsweb/na/nd-20261025de65338",
         "https://news.web.nhk/newsweb/na/nd-20261025de65362",
-        "https://news.web.nhk/newsweb/na/nd-20261025de65365",
-        "https://news.web.nhk/newsweb/na/nd-20261025de65104",
-        "https://news.web.nhk/newsweb/na/nd-20261025de65105"
+        "https://news.web.nhk/newsweb/na/nd-20261025de65365"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/fuze-moved-to-gizmodo/",
