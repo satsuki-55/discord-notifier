@@ -256,6 +256,7 @@
         "https://www.bbc.co.uk/news/articles/cqly3v5vz4kko#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261029de67976",
         "https://news.web.nhk/newsweb/na/nd-20261029de67896",
         "https://news.web.nhk/newsweb/na/nd-20261029de67918",
         "https://news.web.nhk/newsweb/na/nd-20261029de67884",
@@ -454,10 +455,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261027de66297",
         "https://news.web.nhk/newsweb/na/nd-20261027de66254",
         "https://news.web.nhk/newsweb/na/nd-20261027de66252",
-        "https://news.web.nhk/newsweb/na/nd-20261027de66271",
-        "https://news.web.nhk/newsweb/na/nd-20261027de66247"
+        "https://news.web.nhk/newsweb/na/nd-20261027de66271"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2610-tea-up-machine-45-seconds/",
         "https://www.gizmodo.jp/article/2610-macbook-pro-touch-oled/",
         "https://www.gizmodo.jp/article/20-years-of-gizmodojp-positron-naoshima/",
         "https://www.gizmodo.jp/article/who-is-the-touchscreen-macbook-for-exactly/",
@@ -656,8 +657,7 @@
         "https://www.gizmodo.jp/article/2610-iphone-duo-magsafe-stand-issue/",
         "https://www.gizmodo.jp/article/not-all-bioplastics-biodegrade-4u7/",
         "https://www.gizmodo.jp/article/970f3660-5040-413c-8775-b13c57e70997/",
-        "https://www.gizmodo.jp/article/bb81007d-abac-4e1f-97b5-529bfb2c3f3a/",
-        "https://www.gizmodo.jp/article/2610-festival-of-modular-2026/"
+        "https://www.gizmodo.jp/article/bb81007d-abac-4e1f-97b5-529bfb2c3f3a/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "VJ93fOIjdXA",
