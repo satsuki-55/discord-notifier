@@ -256,6 +256,8 @@
         "https://www.bbc.co.uk/news/articles/c5m2d83kmkkyo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261029de68060",
+        "https://news.web.nhk/newsweb/na/nd-20261029de68072",
         "https://news.web.nhk/newsweb/na/nd-20261029de68053",
         "https://news.web.nhk/newsweb/na/nd-20261029de68054",
         "https://news.web.nhk/newsweb/na/nd-20261029de68064",
@@ -453,9 +455,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261027de66410",
         "https://news.web.nhk/newsweb/na/nd-20261027de66472",
         "https://news.web.nhk/newsweb/na/nd-20261027de66431",
-        "https://news.web.nhk/newsweb/na/nd-20261027de66416",
-        "https://news.web.nhk/newsweb/na/nd-20261027de66432",
-        "https://news.web.nhk/newsweb/na/nd-20261027de66402"
+        "https://news.web.nhk/newsweb/na/nd-20261027de66416"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/xbox-handheld-project-helix/",
