@@ -256,6 +256,7 @@
         "https://www.bbc.co.uk/news/articles/c6qjn29lg2vzo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261029de67540",
         "https://news.web.nhk/newsweb/na/nd-20261029de67553",
         "https://news.web.nhk/newsweb/na/nd-20261029de67466",
         "https://news.web.nhk/newsweb/na/nd-20261029de67459",
@@ -454,10 +455,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261026de66031",
         "https://news.web.nhk/newsweb/na/nd-20261027de66067",
         "https://news.web.nhk/newsweb/na/nd-20261027de66048",
-        "https://news.web.nhk/newsweb/na/nd-20261023de64488",
-        "https://news.web.nhk/newsweb/na/nd-20261027de66071"
+        "https://news.web.nhk/newsweb/na/nd-20261023de64488"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/ring-smart-lock-power-dial/",
         "https://www.gizmodo.jp/article/2610-sony-spatial-reality-display-elf-mn1/",
         "https://www.gizmodo.jp/article/dummy-tv-2/",
         "https://www.gizmodo.jp/article/ecoflow-delta-3800-gen4-desk/",
@@ -656,8 +657,7 @@
         "https://www.gizmodo.jp/article/2610-switch-2-battery-replacement-teardown/",
         "https://www.gizmodo.jp/article/flying-police-evtol-patrol/",
         "https://www.gizmodo.jp/article/waymo-reportedly-plans-to-put-20000-robotaxis-on-the-road-by-the-end-of-2027/",
-        "https://www.gizmodo.jp/article/2610-next-gen-xbox-price-high/",
-        "https://www.gizmodo.jp/article/why-this-part-of-antarctica-bleeds-blood-red-m4d/"
+        "https://www.gizmodo.jp/article/2610-next-gen-xbox-price-high/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "VJ93fOIjdXA",
