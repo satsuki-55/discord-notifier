@@ -54,6 +54,8 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c6qxndy4jldno#1",
+        "https://www.bbc.co.uk/news/articles/ck1l393pyrylo#0",
         "https://www.bbc.co.uk/sport/football/articles/cmwy4vyl9nplo#1",
         "https://www.bbc.co.uk/news/articles/cmd7qjq13prpo#1",
         "https://www.bbc.co.uk/news/articles/ck1exgejq3xvo#0",
@@ -251,11 +253,12 @@
         "https://www.bbc.co.uk/news/articles/cwj342k62exyo#0",
         "https://www.bbc.co.uk/news/articles/cqr7y3d0dvm5o#1",
         "https://www.bbc.co.uk/news/articles/cq1kdgxw302zo#1",
-        "https://www.bbc.co.uk/news/videos/cm79p5pxqey2o#1",
-        "https://www.bbc.co.uk/news/articles/c64g17jqy5ddo#1",
-        "https://www.bbc.co.uk/news/articles/ckqxnd7j5007o#1"
+        "https://www.bbc.co.uk/news/videos/cm79p5pxqey2o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261029de68131",
+        "https://news.web.nhk/newsweb/na/nd-20261030de68147",
+        "https://news.web.nhk/newsweb/na/nd-20261023de64076",
         "https://news.web.nhk/newsweb/na/nd-20261030de68154",
         "https://news.web.nhk/newsweb/na/nd-20261030de68165",
         "https://news.web.nhk/newsweb/na/nd-20261030de68171",
@@ -452,10 +455,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261028de66717",
         "https://news.web.nhk/newsweb/na/nd-20261028de66713",
         "https://news.web.nhk/newsweb/na/nd-20261028de66704",
-        "https://news.web.nhk/newsweb/na/nd-20261028de66705",
-        "https://news.web.nhk/newsweb/na/nd-20261027de66696",
-        "https://news.web.nhk/newsweb/na/nd-20261027de66691",
-        "https://news.web.nhk/newsweb/na/nd-20261027de66670"
+        "https://news.web.nhk/newsweb/na/nd-20261028de66705"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/new-touch-display-macbook-pro-hands-on-qa/",
