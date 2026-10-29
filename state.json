@@ -54,6 +54,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cx5ynj718zymo#1",
         "https://www.bbc.co.uk/news/articles/cq5ynw94k7kzo#1",
         "https://www.bbc.co.uk/news/articles/c8vgx0zrpk6no#0",
         "https://www.bbc.co.uk/news/articles/cky93127nyepo#1",
@@ -252,10 +253,10 @@
         "https://www.bbc.co.uk/news/articles/cke8r6543gplo#0",
         "https://www.bbc.co.uk/news/articles/cm4g1pkwxdqwo#0",
         "https://www.bbc.co.uk/news/videos/c9ly02pj4kdjo#0",
-        "https://www.bbc.co.uk/sport/football/articles/cqvg01jyy84xo#1",
-        "https://www.bbc.co.uk/news/articles/c6j47z0g4nwpo#0"
+        "https://www.bbc.co.uk/sport/football/articles/cqvg01jyy84xo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261029de68050",
         "https://news.web.nhk/newsweb/na/nd-20261029de68003",
         "https://news.web.nhk/newsweb/na/nd-20261029de67535",
         "https://news.web.nhk/newsweb/na/nd-20261029de68099",
@@ -454,8 +455,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261027de66585",
         "https://news.web.nhk/newsweb/na/nd-20261027de66318",
         "https://news.web.nhk/newsweb/na/nd-20261027de66581",
-        "https://news.web.nhk/newsweb/na/nd-20261027de66588",
-        "https://news.web.nhk/newsweb/na/nd-20261027de66564"
+        "https://news.web.nhk/newsweb/na/nd-20261027de66588"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-iphone-duo-android-foldable-size-comparison/",
