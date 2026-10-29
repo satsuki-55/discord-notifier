@@ -256,6 +256,7 @@
         "https://www.bbc.co.uk/news/articles/crly0z4gpddwo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261029de67629",
         "https://news.web.nhk/newsweb/na/nd-20261029de67613",
         "https://news.web.nhk/newsweb/na/nd-20261029de67594",
         "https://news.web.nhk/newsweb/na/nd-20261029de67619",
@@ -454,10 +455,11 @@
         "https://news.web.nhk/newsweb/na/nd-20261027de66054",
         "https://news.web.nhk/newsweb/na/nd-20261027de66079",
         "https://news.web.nhk/newsweb/na/nd-20261027de66070",
-        "https://news.web.nhk/newsweb/na/nd-20261027de66066",
-        "https://news.web.nhk/newsweb/na/nd-20261026de66031"
+        "https://news.web.nhk/newsweb/na/nd-20261027de66066"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2610-meta-smart-glasses-privacy-lawsuit/",
+        "https://www.gizmodo.jp/article/2610-watch-smart-sensor-the-heir/",
         "https://www.gizmodo.jp/article/341ad386-2f0c-401a-9add-9618e78a6cf5/",
         "https://www.gizmodo.jp/article/2610-alexa-plus-japan-release/",
         "https://www.gizmodo.jp/article/2610-ai-cyber-attack-agents-japan/",
@@ -655,9 +657,7 @@
         "https://www.gizmodo.jp/article/php-vulnerability-incident-explained/",
         "https://www.gizmodo.jp/article/international_high-tech_festival_by_amazon/",
         "https://www.gizmodo.jp/article/2610-sanwa-clamp-power-strip/",
-        "https://www.gizmodo.jp/article/jr-west-maintenance-robot/",
-        "https://www.gizmodo.jp/article/2610-google-gemini-guided-vision/",
-        "https://www.gizmodo.jp/article/2610-switch-2-battery-replacement-teardown/"
+        "https://www.gizmodo.jp/article/jr-west-maintenance-robot/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "VJ93fOIjdXA",
