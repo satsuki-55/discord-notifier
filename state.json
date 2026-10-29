@@ -256,6 +256,7 @@
         "https://www.bbc.co.uk/news/articles/c699zj38k9ero#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261029de68096",
         "https://news.web.nhk/newsweb/na/nd-20261029de68077",
         "https://news.web.nhk/newsweb/na/nd-20261029de68090",
         "https://news.web.nhk/newsweb/na/nd-20261029de68083",
@@ -454,8 +455,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261027de66543",
         "https://news.web.nhk/newsweb/na/nd-20261027de66484",
         "https://news.web.nhk/newsweb/na/nd-20261027de66508",
-        "https://news.web.nhk/newsweb/na/nd-20261027de66516",
-        "https://news.web.nhk/newsweb/na/nd-20261027de66485"
+        "https://news.web.nhk/newsweb/na/nd-20261027de66516"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-mamoru-oshii-meta-mirai-ai-creative/",
