@@ -256,6 +256,7 @@
         "https://www.bbc.co.uk/news/articles/cwvg0ddz1z77o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261029de67547",
         "https://news.web.nhk/newsweb/na/nd-20261029de67564",
         "https://news.web.nhk/newsweb/na/nd-20261029de67629",
         "https://news.web.nhk/newsweb/na/nd-20261029de67613",
@@ -454,8 +455,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261026de66032",
         "https://news.web.nhk/newsweb/na/nd-20261027de66076",
         "https://news.web.nhk/newsweb/na/nd-20261027de66054",
-        "https://news.web.nhk/newsweb/na/nd-20261027de66079",
-        "https://news.web.nhk/newsweb/na/nd-20261027de66070"
+        "https://news.web.nhk/newsweb/na/nd-20261027de66079"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/hoka_koshi-tantan_ekiden_collection/",
