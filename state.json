@@ -256,6 +256,8 @@
         "https://www.bbc.co.uk/news/articles/cqly3v5vz4kko#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261029de67896",
+        "https://news.web.nhk/newsweb/na/nd-20261029de67918",
         "https://news.web.nhk/newsweb/na/nd-20261029de67884",
         "https://news.web.nhk/newsweb/na/nd-20261029de67924",
         "https://news.web.nhk/newsweb/na/nd-20261027de66116",
@@ -453,9 +455,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261027de66254",
         "https://news.web.nhk/newsweb/na/nd-20261027de66252",
         "https://news.web.nhk/newsweb/na/nd-20261027de66271",
-        "https://news.web.nhk/newsweb/na/nd-20261027de66247",
-        "https://news.web.nhk/newsweb/na/nd-20261027de66240",
-        "https://news.web.nhk/newsweb/na/nd-20261027de66214"
+        "https://news.web.nhk/newsweb/na/nd-20261027de66247"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-macbook-pro-touch-oled/",
