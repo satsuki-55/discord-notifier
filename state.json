@@ -256,6 +256,7 @@
         "https://www.bbc.co.uk/news/articles/c6j47z0g4nwpo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261029de68003",
         "https://news.web.nhk/newsweb/na/nd-20261029de67535",
         "https://news.web.nhk/newsweb/na/nd-20261029de68099",
         "https://news.web.nhk/newsweb/na/nd-20261029de68093",
@@ -454,8 +455,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261027de66318",
         "https://news.web.nhk/newsweb/na/nd-20261027de66581",
         "https://news.web.nhk/newsweb/na/nd-20261027de66588",
-        "https://news.web.nhk/newsweb/na/nd-20261027de66564",
-        "https://news.web.nhk/newsweb/na/nd-20261027de66540"
+        "https://news.web.nhk/newsweb/na/nd-20261027de66564"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-iphone-duo-android-foldable-size-comparison/",
