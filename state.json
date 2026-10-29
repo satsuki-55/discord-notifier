@@ -54,6 +54,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cq0megg87n3po#0",
         "https://www.bbc.co.uk/news/articles/cky93127nyepo#0",
         "https://www.bbc.co.uk/news/articles/cq8ezj7jylrzo#0",
         "https://www.bbc.co.uk/news/articles/cmx28de233r2o#0",
@@ -252,10 +253,11 @@
         "https://www.bbc.co.uk/news/articles/c6j47z0g4nwpo#0",
         "https://www.bbc.co.uk/news/articles/c699zj38k9ero#1",
         "https://www.bbc.co.uk/news/articles/c5m2d83kmkkyo#1",
-        "https://www.bbc.co.uk/news/articles/c6x2qgyqr79wo#0",
-        "https://www.bbc.co.uk/news/articles/cmx28de233r2o#1"
+        "https://www.bbc.co.uk/news/articles/c6x2qgyqr79wo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261029de68054",
+        "https://news.web.nhk/newsweb/na/nd-20261029de68064",
         "https://news.web.nhk/newsweb/na/nd-20261029de68067",
         "https://news.web.nhk/newsweb/na/nd-20261029de68038",
         "https://news.web.nhk/newsweb/na/nd-20261029de67800",
@@ -453,9 +455,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261027de66416",
         "https://news.web.nhk/newsweb/na/nd-20261027de66432",
         "https://news.web.nhk/newsweb/na/nd-20261027de66402",
-        "https://news.web.nhk/newsweb/na/nd-20261027de66383",
-        "https://news.web.nhk/newsweb/na/nd-20261027de66379",
-        "https://news.web.nhk/newsweb/na/nd-20261027de66335"
+        "https://news.web.nhk/newsweb/na/nd-20261027de66383"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-cmf-speaker-m-review/",
