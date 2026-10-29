@@ -256,6 +256,7 @@
         "https://www.bbc.co.uk/news/articles/c6x2qgyqr79wo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261029de68053",
         "https://news.web.nhk/newsweb/na/nd-20261029de68054",
         "https://news.web.nhk/newsweb/na/nd-20261029de68064",
         "https://news.web.nhk/newsweb/na/nd-20261029de68067",
@@ -454,10 +455,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261027de66431",
         "https://news.web.nhk/newsweb/na/nd-20261027de66416",
         "https://news.web.nhk/newsweb/na/nd-20261027de66432",
-        "https://news.web.nhk/newsweb/na/nd-20261027de66402",
-        "https://news.web.nhk/newsweb/na/nd-20261027de66383"
+        "https://news.web.nhk/newsweb/na/nd-20261027de66402"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2610-styly-ceo-yamaguchi-gizmodo-20th/",
         "https://www.gizmodo.jp/article/2610-cmf-speaker-m-review/",
         "https://www.gizmodo.jp/article/smart-glasses-school-ban-victoria/",
         "https://www.gizmodo.jp/article/4d02b560-0c8d-4b42-8dcb-1500a4a658c9/",
@@ -656,8 +657,7 @@
         "https://www.gizmodo.jp/article/nvidia-dsx-pod-ai-factory/",
         "https://www.gizmodo.jp/article/2610-iphone-duo-production-increase/",
         "https://www.gizmodo.jp/article/2610-iphone-duo-apple-pencil-support/",
-        "https://www.gizmodo.jp/article/copilot-plus-pc-hybrid-intelligence/",
-        "https://www.gizmodo.jp/article/iphone-duo-review-2026/"
+        "https://www.gizmodo.jp/article/copilot-plus-pc-hybrid-intelligence/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "VJ93fOIjdXA",
