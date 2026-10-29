@@ -256,6 +256,7 @@
         "https://www.bbc.co.uk/news/articles/cmgel8pqj5rwo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261029de68127",
         "https://news.web.nhk/newsweb/na/nd-20261029de68122",
         "https://news.web.nhk/newsweb/na/nd-20261029de68118",
         "https://news.web.nhk/newsweb/na/nd-20261029de68115",
@@ -454,10 +455,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261027de66652",
         "https://news.web.nhk/newsweb/na/nd-20261027de66647",
         "https://news.web.nhk/newsweb/na/nd-20261027de66644",
-        "https://news.web.nhk/newsweb/na/nd-20261027de66643",
-        "https://news.web.nhk/newsweb/na/nd-20261027de66639"
+        "https://news.web.nhk/newsweb/na/nd-20261027de66643"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/new-touch-display-macbook-pro-hands-on-qa/",
         "https://www.gizmodo.jp/article/astronomers-find-edge-milky-way-galaxy-efl/",
         "https://www.gizmodo.jp/article/cybopal-one-robot-monitor-arm/",
         "https://www.gizmodo.jp/article/2610-google-chrome-security-update-certificate/",
@@ -656,8 +657,7 @@
         "https://www.gizmodo.jp/article/hmny-casual_glasses-holder_review/",
         "https://www.gizmodo.jp/article/2610-apple-considering-larger-iphone-duo/",
         "https://www.gizmodo.jp/article/chogokin-meishi-case/",
-        "https://www.gizmodo.jp/article/zero-industries-space-power-funding/",
-        "https://www.gizmodo.jp/article/2610-yamazaki-cassette-stove-rack/"
+        "https://www.gizmodo.jp/article/zero-industries-space-power-funding/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "VJ93fOIjdXA",
