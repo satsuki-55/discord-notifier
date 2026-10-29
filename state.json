@@ -54,6 +54,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cqz0ve188r94o#1",
         "https://www.bbc.co.uk/news/articles/cm87zw51qw0jo#1",
         "https://www.bbc.co.uk/news/articles/c6z7x8214np7o#0",
         "https://www.bbc.co.uk/news/articles/cke8r6543gplo#0",
@@ -252,10 +253,10 @@
         "https://www.bbc.co.uk/news/articles/cm2ke82w44nxo#1",
         "https://www.bbc.co.uk/news/articles/c3kgqngpx92ko#1",
         "https://www.bbc.co.uk/news/articles/ckly0xpxp243o#0",
-        "https://www.bbc.co.uk/news/articles/ckly0xpxp243o#1",
-        "https://www.bbc.co.uk/news/articles/cm74p7w4dwpko#1"
+        "https://www.bbc.co.uk/news/articles/ckly0xpxp243o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261027de66318",
         "https://news.web.nhk/newsweb/na/nd-20261029de68025",
         "https://news.web.nhk/newsweb/na/nd-20261027de66588",
         "https://news.web.nhk/newsweb/na/nd-20261029de67905",
@@ -454,8 +455,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261027de66642",
         "https://news.web.nhk/newsweb/na/nd-20261027de66621",
         "https://news.web.nhk/newsweb/na/nd-20261027de66616",
-        "https://news.web.nhk/newsweb/na/nd-20261027de66611",
-        "https://news.web.nhk/newsweb/na/nd-20261027de66585"
+        "https://news.web.nhk/newsweb/na/nd-20261027de66611"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/cybopal-one-robot-monitor-arm/",
