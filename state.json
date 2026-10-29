@@ -256,6 +256,9 @@
         "https://www.bbc.co.uk/news/articles/cwvg0ddz1z77o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260930de53362",
+        "https://news.web.nhk/newsweb/na/nd-20261029de67495",
+        "https://news.web.nhk/newsweb/na/nd-20261029de67615",
         "https://news.web.nhk/newsweb/na/nd-20261029de67598",
         "https://news.web.nhk/newsweb/na/nd-20261029de67628",
         "https://news.web.nhk/newsweb/na/nd-20261029de67627",
@@ -452,10 +455,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261026de65958",
         "https://news.web.nhk/newsweb/na/nd-20261027de66052",
         "https://news.web.nhk/newsweb/na/nd-20261023de64340",
-        "https://news.web.nhk/newsweb/na/nd-20261023de64560",
-        "https://news.web.nhk/newsweb/na/nd-20261027de66072",
-        "https://news.web.nhk/newsweb/na/nd-20261026de66022",
-        "https://news.web.nhk/newsweb/na/nd-20261026de66032"
+        "https://news.web.nhk/newsweb/na/nd-20261023de64560"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/mcdonalds-lenovo-collab-mouse/",
