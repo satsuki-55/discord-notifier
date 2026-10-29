@@ -256,6 +256,7 @@
         "https://www.bbc.co.uk/news/articles/cqly3v5vz4kko#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261029de67931",
         "https://news.web.nhk/newsweb/na/nd-20261029de67976",
         "https://news.web.nhk/newsweb/na/nd-20261029de67896",
         "https://news.web.nhk/newsweb/na/nd-20261029de67918",
@@ -454,8 +455,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261027de66245",
         "https://news.web.nhk/newsweb/na/nd-20261027de66297",
         "https://news.web.nhk/newsweb/na/nd-20261027de66254",
-        "https://news.web.nhk/newsweb/na/nd-20261027de66252",
-        "https://news.web.nhk/newsweb/na/nd-20261027de66271"
+        "https://news.web.nhk/newsweb/na/nd-20261027de66252"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-tea-up-machine-45-seconds/",
