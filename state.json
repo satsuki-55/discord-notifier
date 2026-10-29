@@ -54,6 +54,8 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c62ke84qwl1vo#0",
+        "https://www.bbc.co.uk/news/videos/cm87zwe3ydp1o#1",
         "https://www.bbc.co.uk/news/articles/cr5j40ezgz4o#0",
         "https://www.bbc.co.uk/news/articles/cqrky1p4dlm7o#0",
         "https://www.bbc.co.uk/news/articles/cm2ke80nd929o#1",
@@ -251,11 +253,12 @@
         "https://www.bbc.co.uk/news/articles/c6vgj813mlelo#1",
         "https://www.bbc.co.uk/news/articles/cmx28de233r2o#0",
         "https://www.bbc.co.uk/news/articles/cr3wvl9qz3v2o#1",
-        "https://www.bbc.co.uk/news/articles/cmr4y5dvlzneo#1",
-        "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo#1",
-        "https://www.bbc.co.uk/news/articles/c62ke84qwl1vo#0"
+        "https://www.bbc.co.uk/news/articles/cmr4y5dvlzneo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261029de68016",
+        "https://news.web.nhk/newsweb/na/nd-20261029de68043",
+        "https://news.web.nhk/newsweb/na/nd-20261029de68010",
         "https://news.web.nhk/newsweb/na/nd-20261029de68034",
         "https://news.web.nhk/newsweb/na/nd-20261029de67703",
         "https://news.web.nhk/newsweb/na/nd-20261029de67992",
@@ -452,12 +455,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261027de66353",
         "https://news.web.nhk/newsweb/na/nd-20261027de66311",
         "https://news.web.nhk/newsweb/na/nd-20261027de66339",
-        "https://news.web.nhk/newsweb/na/nd-20261027de66188",
-        "https://news.web.nhk/newsweb/na/nd-20261027de66321",
-        "https://news.web.nhk/newsweb/na/nd-20261027de66260",
-        "https://news.web.nhk/newsweb/na/nd-20261027de66278"
+        "https://news.web.nhk/newsweb/na/nd-20261027de66188"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/japan-government-emergency-stockpile-request/",
         "https://www.gizmodo.jp/article/arc-browser-discontinuation-migration-guide/",
         "https://www.gizmodo.jp/article/2610-elecom-4-leg-tap-desk-wiring/",
         "https://www.gizmodo.jp/article/2610-microsoft-ai-solves-kls-conjecture/",
@@ -656,8 +657,7 @@
         "https://www.gizmodo.jp/article/iphone-air-2-rumors/",
         "https://www.gizmodo.jp/article/2610-most-significant-hacks-in-history/",
         "https://www.gizmodo.jp/article/what-is-iphoneduo_news/",
-        "https://www.gizmodo.jp/article/xiaomi-redmi-k100/",
-        "https://www.gizmodo.jp/article/2610-ai-replication-smart-appliances/"
+        "https://www.gizmodo.jp/article/xiaomi-redmi-k100/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "VJ93fOIjdXA",
