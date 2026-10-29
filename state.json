@@ -54,6 +54,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cw78prj801pvo#1",
         "https://www.bbc.co.uk/news/articles/ck0e075n79j5o#1",
         "https://www.bbc.co.uk/news/videos/cm0rlxxpng5eo#1",
         "https://www.bbc.co.uk/news/videos/c3j47008yl7vo#1",
@@ -252,10 +253,10 @@
         "https://www.bbc.co.uk/news/articles/cr5j40ezgz4o#0",
         "https://www.bbc.co.uk/news/videos/ck240dg5n4gjo#1",
         "https://www.bbc.co.uk/news/articles/cmqlngkz0elxo#1",
-        "https://www.bbc.co.uk/news/articles/cewr4j0qqwpo#1",
-        "https://www.bbc.co.uk/news/articles/cqly3v5vz4kko#1"
+        "https://www.bbc.co.uk/news/articles/cewr4j0qqwpo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261029de67965",
         "https://news.web.nhk/newsweb/na/nd-20261029de67931",
         "https://news.web.nhk/newsweb/na/nd-20261029de67976",
         "https://news.web.nhk/newsweb/na/nd-20261029de67896",
@@ -454,8 +455,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261027de66316",
         "https://news.web.nhk/newsweb/na/nd-20261027de66245",
         "https://news.web.nhk/newsweb/na/nd-20261027de66297",
-        "https://news.web.nhk/newsweb/na/nd-20261027de66254",
-        "https://news.web.nhk/newsweb/na/nd-20261027de66252"
+        "https://news.web.nhk/newsweb/na/nd-20261027de66254"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-tea-up-machine-45-seconds/",
