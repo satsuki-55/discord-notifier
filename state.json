@@ -54,6 +54,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c8vgx0zrpk6no#0",
         "https://www.bbc.co.uk/news/articles/cky93127nyepo#1",
         "https://www.bbc.co.uk/news/articles/cq0megg87n3po#0",
         "https://www.bbc.co.uk/news/articles/cky93127nyepo#0",
@@ -252,10 +253,13 @@
         "https://www.bbc.co.uk/news/videos/c9ly02pj4kdjo#0",
         "https://www.bbc.co.uk/sport/football/articles/cqvg01jyy84xo#1",
         "https://www.bbc.co.uk/news/articles/c6j47z0g4nwpo#0",
-        "https://www.bbc.co.uk/news/articles/c699zj38k9ero#1",
-        "https://www.bbc.co.uk/news/articles/c5m2d83kmkkyo#1"
+        "https://www.bbc.co.uk/news/articles/c699zj38k9ero#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261029de68077",
+        "https://news.web.nhk/newsweb/na/nd-20261029de68090",
+        "https://news.web.nhk/newsweb/na/nd-20261029de68083",
+        "https://news.web.nhk/newsweb/na/nd-20261027de66432",
         "https://news.web.nhk/newsweb/na/nd-20261029de68060",
         "https://news.web.nhk/newsweb/na/nd-20261029de68072",
         "https://news.web.nhk/newsweb/na/nd-20261029de68053",
@@ -451,13 +455,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261027de66484",
         "https://news.web.nhk/newsweb/na/nd-20261027de66508",
         "https://news.web.nhk/newsweb/na/nd-20261027de66516",
-        "https://news.web.nhk/newsweb/na/nd-20261027de66485",
-        "https://news.web.nhk/newsweb/na/nd-20261027de66410",
-        "https://news.web.nhk/newsweb/na/nd-20261027de66472",
-        "https://news.web.nhk/newsweb/na/nd-20261027de66431",
-        "https://news.web.nhk/newsweb/na/nd-20261027de66416"
+        "https://news.web.nhk/newsweb/na/nd-20261027de66485"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2610-mamoru-oshii-meta-mirai-ai-creative/",
         "https://www.gizmodo.jp/article/xbox-handheld-project-helix/",
         "https://www.gizmodo.jp/article/2610-styly-ceo-yamaguchi-gizmodo-20th/",
         "https://www.gizmodo.jp/article/2610-cmf-speaker-m-review/",
@@ -656,8 +657,7 @@
         "https://www.gizmodo.jp/article/documentary_film_naza/",
         "https://www.gizmodo.jp/article/2610-iphone-duo-nanotexture-film-removal/",
         "https://www.gizmodo.jp/article/nvidia-dsx-pod-ai-factory/",
-        "https://www.gizmodo.jp/article/2610-iphone-duo-production-increase/",
-        "https://www.gizmodo.jp/article/2610-iphone-duo-apple-pencil-support/"
+        "https://www.gizmodo.jp/article/2610-iphone-duo-production-increase/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "VJ93fOIjdXA",
