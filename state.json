@@ -54,6 +54,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/ck0e075n79j5o#1",
         "https://www.bbc.co.uk/news/videos/cm0rlxxpng5eo#1",
         "https://www.bbc.co.uk/news/videos/c3j47008yl7vo#1",
         "https://www.bbc.co.uk/news/articles/cj1dw9znd1q1o#0",
@@ -252,10 +253,10 @@
         "https://www.bbc.co.uk/news/videos/ck240dg5n4gjo#1",
         "https://www.bbc.co.uk/news/articles/cmqlngkz0elxo#1",
         "https://www.bbc.co.uk/news/articles/cewr4j0qqwpo#1",
-        "https://www.bbc.co.uk/news/articles/cqly3v5vz4kko#1",
-        "https://www.bbc.co.uk/news/articles/c699zj38k9ero#0"
+        "https://www.bbc.co.uk/news/articles/cqly3v5vz4kko#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261029de67852",
         "https://news.web.nhk/newsweb/na/nd-20261029de67843",
         "https://news.web.nhk/newsweb/na/nd-20261029de67850",
         "https://news.web.nhk/newsweb/na/nd-20261029de67794",
@@ -454,8 +455,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261027de66136",
         "https://news.web.nhk/newsweb/na/nd-20261027de66122",
         "https://news.web.nhk/newsweb/na/nd-20261027de66125",
-        "https://news.web.nhk/newsweb/na/nd-20261027de66116",
-        "https://news.web.nhk/newsweb/na/nd-20261027de66127"
+        "https://news.web.nhk/newsweb/na/nd-20261027de66116"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/who-is-the-touchscreen-macbook-for-exactly/",
