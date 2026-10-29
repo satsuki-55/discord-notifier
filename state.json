@@ -256,6 +256,7 @@
         "https://www.bbc.co.uk/news/articles/cwvg0ddz1z77o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261029de67598",
         "https://news.web.nhk/newsweb/na/nd-20261029de67628",
         "https://news.web.nhk/newsweb/na/nd-20261029de67627",
         "https://news.web.nhk/newsweb/na/nd-20261029de67547",
@@ -454,10 +455,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261023de64560",
         "https://news.web.nhk/newsweb/na/nd-20261027de66072",
         "https://news.web.nhk/newsweb/na/nd-20261026de66022",
-        "https://news.web.nhk/newsweb/na/nd-20261026de66032",
-        "https://news.web.nhk/newsweb/na/nd-20261027de66076"
+        "https://news.web.nhk/newsweb/na/nd-20261026de66032"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/mcdonalds-lenovo-collab-mouse/",
         "https://www.gizmodo.jp/article/hoka_koshi-tantan_ekiden_collection/",
         "https://www.gizmodo.jp/article/2610-meta-smart-glasses-privacy-lawsuit/",
         "https://www.gizmodo.jp/article/2610-watch-smart-sensor-the-heir/",
@@ -656,8 +657,7 @@
         "https://www.gizmodo.jp/article/sony-lynxcope-d-league-dance/",
         "https://www.gizmodo.jp/article/iphone-duo-folding-screen/",
         "https://www.gizmodo.jp/article/php-vulnerability-incident-explained/",
-        "https://www.gizmodo.jp/article/international_high-tech_festival_by_amazon/",
-        "https://www.gizmodo.jp/article/2610-sanwa-clamp-power-strip/"
+        "https://www.gizmodo.jp/article/international_high-tech_festival_by_amazon/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "VJ93fOIjdXA",
