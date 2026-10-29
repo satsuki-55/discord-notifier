@@ -54,6 +54,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c6x2w4zy15nwo#1",
         "https://www.bbc.co.uk/news/articles/c3x2w4109pj8o#0",
         "https://www.bbc.co.uk/news/articles/cr5yn9zwnp3qo#0",
         "https://www.bbc.co.uk/news/articles/c9x28350ly07o#1",
@@ -252,10 +253,10 @@
         "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo#2",
         "https://www.bbc.co.uk/news/articles/cqn498mng08ro#1",
         "https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o#0",
-        "https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o#1",
-        "https://www.bbc.co.uk/news/articles/cmwyv8ld22z1o#1"
+        "https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261030de68144",
         "https://news.web.nhk/newsweb/na/nd-20261030de68141",
         "https://news.web.nhk/newsweb/na/nd-20261029de68134",
         "https://news.web.nhk/newsweb/na/nd-20261029de68132",
@@ -454,8 +455,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261027de66665",
         "https://news.web.nhk/newsweb/na/nd-20261027de66664",
         "https://news.web.nhk/newsweb/na/nd-20261027de66666",
-        "https://news.web.nhk/newsweb/na/nd-20261027de66660",
-        "https://news.web.nhk/newsweb/na/nd-20261027de66652"
+        "https://news.web.nhk/newsweb/na/nd-20261027de66660"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/new-touch-display-macbook-pro-hands-on-qa/",
