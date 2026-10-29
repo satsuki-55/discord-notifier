@@ -256,6 +256,7 @@
         "https://www.bbc.co.uk/news/articles/c6gelgxjwzdzo#2"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261030de68166",
         "https://news.web.nhk/newsweb/na/nd-20261030de68144",
         "https://news.web.nhk/newsweb/na/nd-20261030de68141",
         "https://news.web.nhk/newsweb/na/nd-20261029de68134",
@@ -454,8 +455,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261027de66670",
         "https://news.web.nhk/newsweb/na/nd-20261027de66665",
         "https://news.web.nhk/newsweb/na/nd-20261027de66664",
-        "https://news.web.nhk/newsweb/na/nd-20261027de66666",
-        "https://news.web.nhk/newsweb/na/nd-20261027de66660"
+        "https://news.web.nhk/newsweb/na/nd-20261027de66666"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/new-touch-display-macbook-pro-hands-on-qa/",
