@@ -256,6 +256,7 @@
         "https://www.bbc.co.uk/news/articles/cqkgl82nm43po#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261029de67850",
         "https://news.web.nhk/newsweb/na/nd-20261029de67794",
         "https://news.web.nhk/newsweb/na/nd-20261029de67780",
         "https://news.web.nhk/newsweb/na/nd-20261029de67786",
@@ -454,10 +455,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261027de66125",
         "https://news.web.nhk/newsweb/na/nd-20261027de66116",
         "https://news.web.nhk/newsweb/na/nd-20261027de66127",
-        "https://news.web.nhk/newsweb/na/nd-20261027de66118",
-        "https://news.web.nhk/newsweb/na/nd-20261026de65556"
+        "https://news.web.nhk/newsweb/na/nd-20261027de66118"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/who-is-the-touchscreen-macbook-for-exactly/",
         "https://www.gizmodo.jp/article/-macbook-pro-touch-display-handson/",
         "https://www.gizmodo.jp/article/ikkei_scalp_and_bodybrush/",
         "https://www.gizmodo.jp/article/nec_lavie_new_models/",
@@ -656,8 +657,7 @@
         "https://www.gizmodo.jp/article/bb81007d-abac-4e1f-97b5-529bfb2c3f3a/",
         "https://www.gizmodo.jp/article/2610-festival-of-modular-2026/",
         "https://www.gizmodo.jp/article/fmv-note-u-ux-l3b/",
-        "https://www.gizmodo.jp/article/dod-mitz-wakebukuuro/",
-        "https://www.gizmodo.jp/article/pixel-10a-iphone-cost-review/"
+        "https://www.gizmodo.jp/article/dod-mitz-wakebukuuro/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "VJ93fOIjdXA",
