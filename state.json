@@ -256,6 +256,9 @@
         "https://www.bbc.co.uk/news/articles/ckqxnd7j5007o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261030de68154",
+        "https://news.web.nhk/newsweb/na/nd-20261030de68165",
+        "https://news.web.nhk/newsweb/na/nd-20261030de68171",
         "https://news.web.nhk/newsweb/na/nd-20261030de68166",
         "https://news.web.nhk/newsweb/na/nd-20261030de68144",
         "https://news.web.nhk/newsweb/na/nd-20261030de68141",
@@ -452,10 +455,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261028de66705",
         "https://news.web.nhk/newsweb/na/nd-20261027de66696",
         "https://news.web.nhk/newsweb/na/nd-20261027de66691",
-        "https://news.web.nhk/newsweb/na/nd-20261027de66670",
-        "https://news.web.nhk/newsweb/na/nd-20261027de66665",
-        "https://news.web.nhk/newsweb/na/nd-20261027de66664",
-        "https://news.web.nhk/newsweb/na/nd-20261027de66666"
+        "https://news.web.nhk/newsweb/na/nd-20261027de66670"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/new-touch-display-macbook-pro-hands-on-qa/",
