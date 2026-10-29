@@ -256,6 +256,8 @@
         "https://www.bbc.co.uk/news/articles/cqly3v5vz4kko#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261029de67884",
+        "https://news.web.nhk/newsweb/na/nd-20261029de67924",
         "https://news.web.nhk/newsweb/na/nd-20261027de66116",
         "https://news.web.nhk/newsweb/na/nd-20261029de67854",
         "https://news.web.nhk/newsweb/na/nd-20261029de67852",
@@ -453,11 +455,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261027de66271",
         "https://news.web.nhk/newsweb/na/nd-20261027de66247",
         "https://news.web.nhk/newsweb/na/nd-20261027de66240",
-        "https://news.web.nhk/newsweb/na/nd-20261027de66214",
-        "https://news.web.nhk/newsweb/na/nd-20261027de66136",
-        "https://news.web.nhk/newsweb/na/nd-20261027de66122"
+        "https://news.web.nhk/newsweb/na/nd-20261027de66214"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2610-macbook-pro-touch-oled/",
         "https://www.gizmodo.jp/article/20-years-of-gizmodojp-positron-naoshima/",
         "https://www.gizmodo.jp/article/who-is-the-touchscreen-macbook-for-exactly/",
         "https://www.gizmodo.jp/article/-macbook-pro-touch-display-handson/",
@@ -656,8 +657,7 @@
         "https://www.gizmodo.jp/article/not-all-bioplastics-biodegrade-4u7/",
         "https://www.gizmodo.jp/article/970f3660-5040-413c-8775-b13c57e70997/",
         "https://www.gizmodo.jp/article/bb81007d-abac-4e1f-97b5-529bfb2c3f3a/",
-        "https://www.gizmodo.jp/article/2610-festival-of-modular-2026/",
-        "https://www.gizmodo.jp/article/fmv-note-u-ux-l3b/"
+        "https://www.gizmodo.jp/article/2610-festival-of-modular-2026/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "VJ93fOIjdXA",
