@@ -256,6 +256,7 @@
         "https://www.bbc.co.uk/news/articles/cwj342k62exyo#2"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261030de68254",
         "https://news.web.nhk/newsweb/na/nd-20261030de68279",
         "https://news.web.nhk/newsweb/na/nd-20261030de68259",
         "https://news.web.nhk/newsweb/na/nd-20261030de68347",
@@ -454,8 +455,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261028de67029",
         "https://news.web.nhk/newsweb/na/nd-20261028de67035",
         "https://news.web.nhk/newsweb/na/nd-20261028de67023",
-        "https://news.web.nhk/newsweb/na/nd-20261028de67014",
-        "https://news.web.nhk/newsweb/na/nd-20261028de66785"
+        "https://news.web.nhk/newsweb/na/nd-20261028de67014"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/google-chrome-fake-app-play-store/",
