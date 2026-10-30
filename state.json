@@ -256,6 +256,7 @@
         "https://www.bbc.co.uk/news/articles/cwj342k62exyo#2"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261030de68223",
         "https://news.web.nhk/newsweb/na/nd-20261030de68260",
         "https://news.web.nhk/newsweb/na/nd-20261030de68216",
         "https://news.web.nhk/newsweb/na/nd-20261030de68227",
@@ -454,10 +455,11 @@
         "https://news.web.nhk/newsweb/na/nd-20261028de66764",
         "https://news.web.nhk/newsweb/na/nd-20261028de66787",
         "https://news.web.nhk/newsweb/na/nd-20261028de66792",
-        "https://news.web.nhk/newsweb/na/nd-20261028de66791",
-        "https://news.web.nhk/newsweb/na/nd-20261028de66781"
+        "https://news.web.nhk/newsweb/na/nd-20261028de66791"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/best-places-to-hide-from-nuclear-bomb-4/",
+        "https://www.gizmodo.jp/article/2610-active-cyber-defense/",
         "https://www.gizmodo.jp/article/km5-sp1-mp1-wireless-speaker-mixer/",
         "https://www.gizmodo.jp/article/2610-amazon-ai-engineering-guidelines/",
         "https://www.gizmodo.jp/article/2610-macbook-charger-plug-change/",
@@ -655,9 +657,7 @@
         "https://www.gizmodo.jp/article/iphone-duo-no-yoyaku-nashi/",
         "https://www.gizmodo.jp/article/iphone-duo-galaxy-z-fold8-sumo/",
         "https://www.gizmodo.jp/article/nape-pro-se-gizmart/",
-        "https://www.gizmodo.jp/article/2610-kindle-unlimited-to-kindle-plus/",
-        "https://www.gizmodo.jp/article/2610-iphone-duo-left-handed-review/",
-        "https://www.gizmodo.jp/article/keychron-c3-pro-trackball-8k-release/"
+        "https://www.gizmodo.jp/article/2610-kindle-unlimited-to-kindle-plus/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "VJ93fOIjdXA",
