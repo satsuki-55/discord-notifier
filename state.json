@@ -258,6 +258,7 @@
         "https://www.bbc.co.uk/news/videos/cmdx3kne9r6go#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261030de68664",
         "https://news.web.nhk/newsweb/na/nd-20261030de68556",
         "https://news.web.nhk/newsweb/na/nd-20261030de68585",
         "https://news.web.nhk/newsweb/na/nd-20261030de68530",
@@ -456,8 +457,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261028de67348",
         "https://news.web.nhk/newsweb/na/nd-20261028de67205",
         "https://news.web.nhk/newsweb/na/nd-20261028de67335",
-        "https://news.web.nhk/newsweb/na/nd-20261028de67338",
-        "https://news.web.nhk/newsweb/na/nd-20261028de67319"
+        "https://news.web.nhk/newsweb/na/nd-20261028de67338"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-elecom-wireless-mouse-osmod8/",
