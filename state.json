@@ -56,6 +56,8 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cw62yrzxjnk4o#0",
+        "https://www.bbc.co.uk/news/articles/cwx283zynnv3o#1",
         "https://www.bbc.co.uk/news/articles/crq5nplyvlg8o#0",
         "https://www.bbc.co.uk/news/articles/cr93zxyn9eqeo#0",
         "https://www.bbc.co.uk/news/articles/cqm24kgr1jz4o#0",
@@ -253,9 +255,7 @@
         "https://www.bbc.co.uk/news/videos/cw5ynjgy3vvgo#2",
         "https://www.bbc.co.uk/news/articles/ckvg7w919x09o#0",
         "https://www.bbc.co.uk/news/articles/c35yn8x748e9o#0",
-        "https://www.bbc.co.uk/news/articles/cmq8nwvj92jdo#1",
-        "https://www.bbc.co.uk/news/articles/c35yn8x748e9o#1",
-        "https://www.bbc.co.uk/news/videos/ck0j06zl28wzo#1"
+        "https://www.bbc.co.uk/news/articles/cmq8nwvj92jdo#1"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20261030de68689",
@@ -460,6 +460,8 @@
         "https://news.web.nhk/newsweb/na/nd-20261028de67345"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2610-meta-ai-terms-update-scraping/",
+        "https://www.gizmodo.jp/article/2610-anduril-bluechip-laptop-national-security/",
         "https://www.gizmodo.jp/article/sk-hynix-memory-sold-out-2029/",
         "https://www.gizmodo.jp/article/krups_coffee_crush_experience/",
         "https://www.gizmodo.jp/article/2610-anker-liberty-buds-2/",
@@ -657,9 +659,7 @@
         "https://www.gizmodo.jp/article/2610-interface-smart-ring/",
         "https://www.gizmodo.jp/article/2610-montbell-autumn-clothing/",
         "https://www.gizmodo.jp/article/kyocera_ceramug_coffee-bottle/",
-        "https://www.gizmodo.jp/article/2610-ulanzi-magsafe-charging-stand/",
-        "https://www.gizmodo.jp/article/2610-cooler-master-fan-vest/",
-        "https://www.gizmodo.jp/article/2610-world-oldest-shipwreck-discovered-turkey/"
+        "https://www.gizmodo.jp/article/2610-ulanzi-magsafe-charging-stand/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "E1xA2MUyBEw",
