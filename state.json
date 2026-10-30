@@ -256,6 +256,7 @@
         "https://www.bbc.co.uk/news/articles/cwj342k62exyo#2"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261030de68227",
         "https://news.web.nhk/newsweb/na/nd-20261030de68224",
         "https://news.web.nhk/newsweb/na/nd-20261030de68222",
         "https://news.web.nhk/newsweb/na/nd-20261030de68204",
@@ -454,8 +455,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261028de66791",
         "https://news.web.nhk/newsweb/na/nd-20261028de66781",
         "https://news.web.nhk/newsweb/na/nd-20261028de66801",
-        "https://news.web.nhk/newsweb/na/nd-20261028de66783",
-        "https://news.web.nhk/newsweb/na/nd-20261028de66743"
+        "https://news.web.nhk/newsweb/na/nd-20261028de66783"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/km5-sp1-mp1-wireless-speaker-mixer/",
