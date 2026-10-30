@@ -257,6 +257,8 @@
         "https://www.bbc.co.uk/news/articles/cwj342k62exyo#2"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261030de68364",
+        "https://news.web.nhk/newsweb/na/nd-20261030de68361",
         "https://news.web.nhk/newsweb/na/nd-20261030de68365",
         "https://news.web.nhk/newsweb/na/nd-20261030de68329",
         "https://news.web.nhk/newsweb/na/nd-20261030de68254",
@@ -454,11 +456,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261028de66757",
         "https://news.web.nhk/newsweb/na/nd-20260930de53361",
         "https://news.web.nhk/newsweb/na/nd-20261028de66760",
-        "https://news.web.nhk/newsweb/na/nd-20261028de67044",
-        "https://news.web.nhk/newsweb/na/nd-20261028de67029",
-        "https://news.web.nhk/newsweb/na/nd-20261028de67035"
+        "https://news.web.nhk/newsweb/na/nd-20261028de67044"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2610-catl-battery-swap-ev-truck/",
         "https://www.gizmodo.jp/article/2610-keychron-carbon-60-he-8k/",
         "https://www.gizmodo.jp/article/ps5-transparent-controllers-prism/",
         "https://www.gizmodo.jp/article/2610-ai-smart-tv-retro/",
@@ -657,10 +658,10 @@
         "https://www.gizmodo.jp/article/2610-sonos-beam-ultra-review/",
         "https://www.gizmodo.jp/article/2610-iphone-duo-review-romance/",
         "https://www.gizmodo.jp/article/2610-iphone-duo-optimized-apps-badge/",
-        "https://www.gizmodo.jp/article/2610-iphone-duo-apple-official-case-review/",
-        "https://www.gizmodo.jp/article/php_vulnerability_delay_cause/"
+        "https://www.gizmodo.jp/article/2610-iphone-duo-apple-official-case-review/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
+        "E1xA2MUyBEw",
         "VJ93fOIjdXA",
         "FmVWaA-TMF0",
         "5koLraN_4Kk",
