@@ -56,6 +56,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/videos/cwly4p6e9264o#0",
         "https://www.bbc.co.uk/news/videos/cwly4p6e9264o#1",
         "https://www.bbc.co.uk/news/articles/cw62yrzxjnk4o#1",
         "https://www.bbc.co.uk/news/articles/cj04032rp5wro#0",
@@ -254,10 +255,10 @@
         "https://www.bbc.co.uk/news/videos/ck0j06zl28wzo#1",
         "https://www.bbc.co.uk/news/articles/cm62y46d97wwo#0",
         "https://www.bbc.co.uk/news/articles/cm62y46d97wwo#2",
-        "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo#0",
-        "https://www.bbc.co.uk/news/articles/clydn7r5pn1o#0"
+        "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261030de68647",
         "https://news.web.nhk/newsweb/na/nd-20261030de68413",
         "https://news.web.nhk/newsweb/na/nd-20261030de68664",
         "https://news.web.nhk/newsweb/na/nd-20261030de68556",
@@ -456,10 +457,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261028de67345",
         "https://news.web.nhk/newsweb/na/nd-20261028dw67376",
         "https://news.web.nhk/newsweb/na/nd-20261028de67348",
-        "https://news.web.nhk/newsweb/na/nd-20261028de67205",
-        "https://news.web.nhk/newsweb/na/nd-20261028de67335"
+        "https://news.web.nhk/newsweb/na/nd-20261028de67205"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/super-mouse_touchscreen/",
         "https://www.gizmodo.jp/article/2610-elecom-wireless-mouse-osmod8/",
         "https://www.gizmodo.jp/article/kling40-ai-video-generator/",
         "https://www.gizmodo.jp/article/dbe8ce5b-77be-415a-8d3c-3a554d2355e1/",
@@ -658,8 +659,7 @@
         "https://www.gizmodo.jp/article/2610-world-oldest-shipwreck-discovered-turkey/",
         "https://www.gizmodo.jp/article/2610-iflytek-ainote2-journaling/",
         "https://www.gizmodo.jp/article/2610-hhkb-professional-elite-330000-yen/",
-        "https://www.gizmodo.jp/article/d5536be6-fbb4-421c-b769-e00d324196c1/",
-        "https://www.gizmodo.jp/article/2610-drain-net-plate-review/"
+        "https://www.gizmodo.jp/article/d5536be6-fbb4-421c-b769-e00d324196c1/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "E1xA2MUyBEw",
