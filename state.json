@@ -56,6 +56,8 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo#0",
+        "https://www.bbc.co.uk/news/articles/cr93zxyn9eqeo#1",
         "https://www.bbc.co.uk/news/articles/ck62ydn7dj9eo#0",
         "https://www.bbc.co.uk/news/articles/cxvgdzpy7241o#1",
         "https://www.bbc.co.uk/news/articles/ck62ydn7dj9eo#1",
@@ -253,11 +255,10 @@
         "https://www.bbc.co.uk/news/articles/cqpvgxz3y49go#0",
         "https://www.bbc.co.uk/news/articles/c63djl148n3eo#0",
         "https://www.bbc.co.uk/news/articles/c60e05yn3w9zo#0",
-        "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo#2",
-        "https://www.bbc.co.uk/news/articles/c6zxj7dvxr5yo#0",
-        "https://www.bbc.co.uk/news/articles/cwn8d7g29vd9o#0"
+        "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo#2"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261030de68783",
         "https://news.web.nhk/newsweb/na/nd-20261030de68433",
         "https://news.web.nhk/newsweb/na/nd-20261030de68501",
         "https://news.web.nhk/newsweb/na/nd-20261030de68772",
@@ -456,8 +457,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261029de67441",
         "https://news.web.nhk/newsweb/na/nd-20261029de67449",
         "https://news.web.nhk/newsweb/na/nd-20261029de67446",
-        "https://news.web.nhk/newsweb/na/nd-20261028de67417",
-        "https://news.web.nhk/newsweb/na/nd-20261029de67443"
+        "https://news.web.nhk/newsweb/na/nd-20261028de67417"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/kojima-productions_10th_anniversary_exhibition/",
