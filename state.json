@@ -56,6 +56,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cw62yrzxjnk4o#1",
         "https://www.bbc.co.uk/news/articles/cj04032rp5wro#0",
         "https://www.bbc.co.uk/news/videos/cmlykpd9kpy7o#1",
         "https://www.bbc.co.uk/news/articles/cm20v3029p5xo#0",
@@ -254,10 +255,11 @@
         "https://www.bbc.co.uk/news/articles/cm62y46d97wwo#2",
         "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo#0",
         "https://www.bbc.co.uk/news/articles/clydn7r5pn1o#0",
-        "https://www.bbc.co.uk/news/videos/cmdx3kne9r6go#1",
-        "https://www.bbc.co.uk/news/articles/cq398p1wd1evo#0"
+        "https://www.bbc.co.uk/news/videos/cmdx3kne9r6go#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261030de68530",
+        "https://news.web.nhk/newsweb/na/nd-20261030de68476",
         "https://news.web.nhk/newsweb/na/nd-20261030de68519",
         "https://news.web.nhk/newsweb/na/nd-20261030de68570",
         "https://news.web.nhk/newsweb/na/nd-20261030de68457",
@@ -455,9 +457,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261028de67338",
         "https://news.web.nhk/newsweb/na/nd-20261028de67319",
         "https://news.web.nhk/newsweb/na/nd-20261028de67369",
-        "https://news.web.nhk/newsweb/na/nd-20261028de67347",
-        "https://news.web.nhk/newsweb/na/nd-20261028de67320",
-        "https://news.web.nhk/newsweb/na/nd-20261028de67327"
+        "https://news.web.nhk/newsweb/na/nd-20261028de67347"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/kling40-ai-video-generator/",
