@@ -257,6 +257,8 @@
         "https://www.bbc.co.uk/news/videos/cv8ezjdkle59o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261030de68418",
+        "https://news.web.nhk/newsweb/na/nd-20261030de68449",
         "https://news.web.nhk/newsweb/na/nd-20261030de68426",
         "https://news.web.nhk/newsweb/na/nd-20261030de68443",
         "https://news.web.nhk/newsweb/na/nd-20261030de68262",
@@ -454,9 +456,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261028de67251",
         "https://news.web.nhk/newsweb/na/nd-20261028de67008",
         "https://news.web.nhk/newsweb/na/nd-20261028de67211",
-        "https://news.web.nhk/newsweb/na/nd-20261028de67231",
-        "https://news.web.nhk/newsweb/na/nd-20261028de67229",
-        "https://news.web.nhk/newsweb/na/nd-20261028de67215"
+        "https://news.web.nhk/newsweb/na/nd-20261028de67231"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/oura_smart-ring_new_features_cardio_effort_vo2-max/",
