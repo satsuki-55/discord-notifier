@@ -256,6 +256,8 @@
         "https://www.bbc.co.uk/news/articles/cwj342k62exyo#2"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261030de68271",
+        "https://news.web.nhk/newsweb/na/nd-20261030de68228",
         "https://news.web.nhk/newsweb/na/nd-20261030de68314",
         "https://news.web.nhk/newsweb/na/nd-20261030de68323",
         "https://news.web.nhk/newsweb/na/nd-20261030de68221",
@@ -453,11 +455,11 @@
         "https://news.web.nhk/newsweb/na/nd-20261028de66946",
         "https://news.web.nhk/newsweb/na/nd-20261028de66876",
         "https://news.web.nhk/newsweb/na/nd-20261028de66894",
-        "https://news.web.nhk/newsweb/na/nd-20261028de66820",
-        "https://news.web.nhk/newsweb/na/nd-20261028de66765",
-        "https://news.web.nhk/newsweb/na/nd-20261028de66764"
+        "https://news.web.nhk/newsweb/na/nd-20261028de66820"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/nape-pro-se-gizmart-re/",
+        "https://www.gizmodo.jp/article/2610-iphone-selfie-age-verification/",
         "https://www.gizmodo.jp/article/best-places-to-hide-from-nuclear-bomb-4/",
         "https://www.gizmodo.jp/article/2610-active-cyber-defense/",
         "https://www.gizmodo.jp/article/km5-sp1-mp1-wireless-speaker-mixer/",
@@ -655,9 +657,7 @@
         "https://www.gizmodo.jp/article/3ad2893b-5b9d-4172-a413-389a758f2974/",
         "https://www.gizmodo.jp/article/2610-cigarette-lighter-voltage-meter/",
         "https://www.gizmodo.jp/article/iphone-duo-no-yoyaku-nashi/",
-        "https://www.gizmodo.jp/article/iphone-duo-galaxy-z-fold8-sumo/",
-        "https://www.gizmodo.jp/article/nape-pro-se-gizmart/",
-        "https://www.gizmodo.jp/article/2610-kindle-unlimited-to-kindle-plus/"
+        "https://www.gizmodo.jp/article/iphone-duo-galaxy-z-fold8-sumo/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "VJ93fOIjdXA",
