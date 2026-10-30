@@ -258,6 +258,7 @@
         "https://www.bbc.co.uk/news/articles/cwn8d7g29vd9o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261030de68433",
         "https://news.web.nhk/newsweb/na/nd-20261030de68501",
         "https://news.web.nhk/newsweb/na/nd-20261030de68772",
         "https://news.web.nhk/newsweb/na/nd-20261030de68739",
@@ -456,10 +457,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261029de67449",
         "https://news.web.nhk/newsweb/na/nd-20261029de67446",
         "https://news.web.nhk/newsweb/na/nd-20261028de67417",
-        "https://news.web.nhk/newsweb/na/nd-20261029de67443",
-        "https://news.web.nhk/newsweb/na/nd-20261029de67431"
+        "https://news.web.nhk/newsweb/na/nd-20261029de67443"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/kojima-productions_10th_anniversary_exhibition/",
         "https://www.gizmodo.jp/article/galaxy-s27-pro-ultra-battery-leak/",
         "https://www.gizmodo.jp/article/2610-biometric-voting-50-countries/",
         "https://www.gizmodo.jp/article/meta-waddle-world-ai-pet-journal/",
@@ -658,8 +659,7 @@
         "https://www.gizmodo.jp/article/iretrolab-the-time-planet/",
         "https://www.gizmodo.jp/article/2610-pyramid-found-during-road-construction-in-mexico/",
         "https://www.gizmodo.jp/article/2610-moodi-remote/",
-        "https://www.gizmodo.jp/article/hitachi-gpu-cold-plate-cooling-power-reduction/",
-        "https://www.gizmodo.jp/article/2610-galaxy-watch-burn-reports/"
+        "https://www.gizmodo.jp/article/hitachi-gpu-cold-plate-cooling-power-reduction/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "E1xA2MUyBEw",
