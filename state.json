@@ -258,6 +258,7 @@
         "https://www.bbc.co.uk/news/articles/cmq8nwvj92jdo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261030de68704",
         "https://news.web.nhk/newsweb/na/nd-20261030de68689",
         "https://news.web.nhk/newsweb/na/nd-20261030de68624",
         "https://news.web.nhk/newsweb/na/nd-20261030de68694",
@@ -456,8 +457,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261028de67015",
         "https://news.web.nhk/newsweb/na/nd-20261028dw67382",
         "https://news.web.nhk/newsweb/na/nd-20261028dw67390",
-        "https://news.web.nhk/newsweb/na/nd-20261028de67241",
-        "https://news.web.nhk/newsweb/na/nd-20261028de67345"
+        "https://news.web.nhk/newsweb/na/nd-20261028de67241"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-meta-ai-terms-update-scraping/",
