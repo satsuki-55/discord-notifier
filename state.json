@@ -56,6 +56,8 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cr1ex26lgqlqo#0",
+        "https://www.bbc.co.uk/news/articles/c60me298k1yeo#0",
         "https://www.bbc.co.uk/news/articles/ckzd623pldqgo#1",
         "https://www.bbc.co.uk/news/articles/c60me298k1yeo#1",
         "https://www.bbc.co.uk/news/articles/cw62yrzxjnk4o#0",
@@ -253,11 +255,10 @@
         "https://www.bbc.co.uk/news/articles/cw3djl5vk3v3o#0",
         "https://www.bbc.co.uk/news/articles/cqkglwy3nd7zo#0",
         "https://www.bbc.co.uk/news/articles/c6j47z0g4nwpo#1",
-        "https://www.bbc.co.uk/news/articles/cqe8rwj353l1o#1",
-        "https://www.bbc.co.uk/news/videos/cw5ynjgy3vvgo#2",
-        "https://www.bbc.co.uk/news/articles/ckvg7w919x09o#0"
+        "https://www.bbc.co.uk/news/articles/cqe8rwj353l1o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261030de68701",
         "https://news.web.nhk/newsweb/na/nd-20261030de68726",
         "https://news.web.nhk/newsweb/na/nd-20261030de68713",
         "https://news.web.nhk/newsweb/na/nd-20261030de68678",
@@ -456,8 +457,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261028de67363",
         "https://news.web.nhk/newsweb/na/nd-20261026de65953",
         "https://news.web.nhk/newsweb/na/nd-20261028dw67398",
-        "https://news.web.nhk/newsweb/na/nd-20261028dw67403",
-        "https://news.web.nhk/newsweb/na/nd-20261028dw67395"
+        "https://news.web.nhk/newsweb/na/nd-20261028dw67403"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-food-truck-battery-popwheels/",
