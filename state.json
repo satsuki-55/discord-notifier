@@ -257,6 +257,7 @@
         "https://www.bbc.co.uk/news/articles/cwj342k62exyo#2"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261030de68356",
         "https://news.web.nhk/newsweb/na/nd-20261030de68364",
         "https://news.web.nhk/newsweb/na/nd-20261030de68361",
         "https://news.web.nhk/newsweb/na/nd-20261030de68365",
@@ -455,8 +456,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261028de67089",
         "https://news.web.nhk/newsweb/na/nd-20261028de66757",
         "https://news.web.nhk/newsweb/na/nd-20260930de53361",
-        "https://news.web.nhk/newsweb/na/nd-20261028de66760",
-        "https://news.web.nhk/newsweb/na/nd-20261028de67044"
+        "https://news.web.nhk/newsweb/na/nd-20261028de66760"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-catl-battery-swap-ev-truck/",
