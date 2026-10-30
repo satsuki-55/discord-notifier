@@ -258,6 +258,7 @@
         "https://www.bbc.co.uk/news/articles/cwvg039x08g2o#2"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261030de68739",
         "https://news.web.nhk/newsweb/na/nd-20261030de68736",
         "https://news.web.nhk/newsweb/na/nd-20261030de68752",
         "https://news.web.nhk/newsweb/na/nd-20261030de68722",
@@ -456,10 +457,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261029de67443",
         "https://news.web.nhk/newsweb/na/nd-20261029de67431",
         "https://news.web.nhk/newsweb/na/nd-20261028de67422",
-        "https://news.web.nhk/newsweb/na/nd-20261029de67424",
-        "https://news.web.nhk/newsweb/na/nd-20261029de67430"
+        "https://news.web.nhk/newsweb/na/nd-20261029de67424"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2610-biometric-voting-50-countries/",
         "https://www.gizmodo.jp/article/meta-waddle-world-ai-pet-journal/",
         "https://www.gizmodo.jp/article/2610-tesla-v2l-adapter-japan/",
         "https://www.gizmodo.jp/article/f22cb6ef-a3d5-4adb-acfe-18c5d984f471/",
@@ -658,8 +659,7 @@
         "https://www.gizmodo.jp/article/2610-moodi-remote/",
         "https://www.gizmodo.jp/article/hitachi-gpu-cold-plate-cooling-power-reduction/",
         "https://www.gizmodo.jp/article/2610-galaxy-watch-burn-reports/",
-        "https://www.gizmodo.jp/article/2610-daiso-type-c-rechargeable-battery-review/",
-        "https://www.gizmodo.jp/article/2610-ai-less-digitally-active/"
+        "https://www.gizmodo.jp/article/2610-daiso-type-c-rechargeable-battery-review/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "E1xA2MUyBEw",
