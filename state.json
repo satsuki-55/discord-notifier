@@ -258,6 +258,7 @@
         "https://www.bbc.co.uk/news/articles/c6j47z0g4nwpo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261030de68715",
         "https://news.web.nhk/newsweb/na/nd-20261030de68711",
         "https://news.web.nhk/newsweb/na/nd-20261030de68714",
         "https://news.web.nhk/newsweb/na/nd-20261030de68701",
@@ -456,10 +457,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261029de67425",
         "https://news.web.nhk/newsweb/na/nd-20261028de67416",
         "https://news.web.nhk/newsweb/na/nd-20261028de67413",
-        "https://news.web.nhk/newsweb/na/nd-20261028de67363",
-        "https://news.web.nhk/newsweb/na/nd-20261026de65953"
+        "https://news.web.nhk/newsweb/na/nd-20261028de67363"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2610-tesla-v2l-adapter-japan/",
         "https://www.gizmodo.jp/article/f22cb6ef-a3d5-4adb-acfe-18c5d984f471/",
         "https://www.gizmodo.jp/article/razer-kraken-kitty-v3/",
         "https://www.gizmodo.jp/article/2610-food-truck-battery-popwheels/",
@@ -658,8 +659,7 @@
         "https://www.gizmodo.jp/article/2610-galaxy-watch-burn-reports/",
         "https://www.gizmodo.jp/article/2610-daiso-type-c-rechargeable-battery-review/",
         "https://www.gizmodo.jp/article/2610-ai-less-digitally-active/",
-        "https://www.gizmodo.jp/article/2610-orient-automatic-chain-shifting-gear/",
-        "https://www.gizmodo.jp/article/2610-interface-smart-ring/"
+        "https://www.gizmodo.jp/article/2610-orient-automatic-chain-shifting-gear/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "E1xA2MUyBEw",
