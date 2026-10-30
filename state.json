@@ -56,6 +56,9 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cm5yn8eqg3npo#0",
+        "https://www.bbc.co.uk/news/articles/cqglwp088532o#1",
+        "https://www.bbc.co.uk/news/articles/c6e3xg5we9eyo#1",
         "https://www.bbc.co.uk/news/articles/cy5w2k5k5ylo#0",
         "https://www.bbc.co.uk/news/articles/cr1ex26lgqlqo#1",
         "https://www.bbc.co.uk/news/articles/cr1ex26lgqlqo#0",
@@ -252,12 +255,11 @@
         "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo#0",
         "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo#2",
         "https://www.bbc.co.uk/news/articles/cwvg039x08g2o#2",
-        "https://www.bbc.co.uk/news/articles/cm78pljvqvxeo#1",
-        "https://www.bbc.co.uk/news/articles/cqe9lykm93jmo#0",
-        "https://www.bbc.co.uk/news/articles/cw3djl5vk3v3o#0",
-        "https://www.bbc.co.uk/news/articles/cqkglwy3nd7zo#0"
+        "https://www.bbc.co.uk/news/articles/cm78pljvqvxeo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261030de68722",
+        "https://news.web.nhk/newsweb/na/nd-20261030de68724",
         "https://news.web.nhk/newsweb/na/nd-20261030de68743",
         "https://news.web.nhk/newsweb/na/nd-20261030de68756",
         "https://news.web.nhk/newsweb/na/nd-20261030de68737",
@@ -455,9 +457,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261029de67424",
         "https://news.web.nhk/newsweb/na/nd-20261029de67430",
         "https://news.web.nhk/newsweb/na/nd-20261029de67433",
-        "https://news.web.nhk/newsweb/na/nd-20261026de65960",
-        "https://news.web.nhk/newsweb/na/nd-20261029de67427",
-        "https://news.web.nhk/newsweb/na/nd-20261029de67425"
+        "https://news.web.nhk/newsweb/na/nd-20261026de65960"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-tesla-v2l-adapter-japan/",
