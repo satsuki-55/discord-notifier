@@ -258,6 +258,8 @@
         "https://www.bbc.co.uk/news/articles/cy7e8mpdxpro#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261030de68570",
+        "https://news.web.nhk/newsweb/na/nd-20261030de68457",
         "https://news.web.nhk/newsweb/na/nd-20261030de68213",
         "https://news.web.nhk/newsweb/na/nd-20261030de68521",
         "https://news.web.nhk/newsweb/na/nd-20261030de68376",
@@ -455,9 +457,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261028de67347",
         "https://news.web.nhk/newsweb/na/nd-20261028de67320",
         "https://news.web.nhk/newsweb/na/nd-20261028de67327",
-        "https://news.web.nhk/newsweb/na/nd-20261028de67321",
-        "https://news.web.nhk/newsweb/na/nd-20261028de67297",
-        "https://news.web.nhk/newsweb/na/nd-20261028de67318"
+        "https://news.web.nhk/newsweb/na/nd-20261028de67321"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/kling40-ai-video-generator/",
