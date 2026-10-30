@@ -56,6 +56,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/videos/cv2d62e34rw5o#0",
         "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo#0",
         "https://www.bbc.co.uk/news/articles/cr93zxyn9eqeo#1",
         "https://www.bbc.co.uk/news/articles/ck62ydn7dj9eo#0",
@@ -254,8 +255,7 @@
         "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo#0",
         "https://www.bbc.co.uk/news/articles/cqpvgxz3y49go#0",
         "https://www.bbc.co.uk/news/articles/c63djl148n3eo#0",
-        "https://www.bbc.co.uk/news/articles/c60e05yn3w9zo#0",
-        "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo#2"
+        "https://www.bbc.co.uk/news/articles/c60e05yn3w9zo#0"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20261030de68783",
@@ -460,6 +460,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261028de67417"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/on_cloud_6_wp-v2/",
         "https://www.gizmodo.jp/article/kojima-productions_10th_anniversary_exhibition/",
         "https://www.gizmodo.jp/article/galaxy-s27-pro-ultra-battery-leak/",
         "https://www.gizmodo.jp/article/2610-biometric-voting-50-countries/",
@@ -658,8 +659,7 @@
         "https://www.gizmodo.jp/article/2610-suunto-screenless-health-tracker/",
         "https://www.gizmodo.jp/article/iretrolab-the-time-planet/",
         "https://www.gizmodo.jp/article/2610-pyramid-found-during-road-construction-in-mexico/",
-        "https://www.gizmodo.jp/article/2610-moodi-remote/",
-        "https://www.gizmodo.jp/article/hitachi-gpu-cold-plate-cooling-power-reduction/"
+        "https://www.gizmodo.jp/article/2610-moodi-remote/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "E1xA2MUyBEw",
