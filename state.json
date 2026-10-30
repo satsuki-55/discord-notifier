@@ -55,6 +55,9 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/ck8dz8j5n993o#0",
+        "https://www.bbc.co.uk/news/articles/cked3p81303yo#0",
+        "https://www.bbc.co.uk/news/articles/cq8ezj7jylrzo#1",
         "https://www.bbc.co.uk/news/articles/cknv08980d3vo#1",
         "https://www.bbc.co.uk/news/articles/ck8dz8j5n993o#1",
         "https://www.bbc.co.uk/news/articles/cw5ynver15jeo#1",
@@ -251,10 +254,7 @@
         "https://www.bbc.co.uk/news/articles/cqm264jxxnxzo#0",
         "https://www.bbc.co.uk/news/videos/cv8ezjdkle59o#1",
         "https://www.bbc.co.uk/news/articles/cm8xz7pkd0jjo#1",
-        "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno#2",
-        "https://www.bbc.co.uk/news/videos/cm79p5pxqey2o#2",
-        "https://www.bbc.co.uk/news/articles/cmvgxl5kdgrzo#2",
-        "https://www.bbc.co.uk/news/articles/cwj342k62exyo#2"
+        "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno#2"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20261030de68425",
@@ -459,6 +459,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261028de67125"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2610-muji-card-case-mini-wallet/",
         "https://www.gizmodo.jp/article/2610-stop-sns-addiction-foqos/",
         "https://www.gizmodo.jp/article/binance-hack-1-trillion-yen/",
         "https://www.gizmodo.jp/article/macbook-googlebook-os-install/",
@@ -657,8 +658,7 @@
         "https://www.gizmodo.jp/article/2610-what-to-do-if-password-is-leaked/",
         "https://www.gizmodo.jp/article/iphone-duo-booking-report/",
         "https://www.gizmodo.jp/article/iphone-duo-best-fit-apps-review/",
-        "https://www.gizmodo.jp/article/iphone-duo-complaints/",
-        "https://www.gizmodo.jp/article/2610-sonos-beam-ultra-review/"
+        "https://www.gizmodo.jp/article/iphone-duo-complaints/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "E1xA2MUyBEw",
