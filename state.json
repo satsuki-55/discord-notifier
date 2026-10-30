@@ -256,6 +256,7 @@
         "https://www.bbc.co.uk/news/articles/cwj342k62exyo#2"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261030de68221",
         "https://news.web.nhk/newsweb/na/nd-20261030de68223",
         "https://news.web.nhk/newsweb/na/nd-20261030de68260",
         "https://news.web.nhk/newsweb/na/nd-20261030de68216",
@@ -454,8 +455,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261028de66765",
         "https://news.web.nhk/newsweb/na/nd-20261028de66764",
         "https://news.web.nhk/newsweb/na/nd-20261028de66787",
-        "https://news.web.nhk/newsweb/na/nd-20261028de66792",
-        "https://news.web.nhk/newsweb/na/nd-20261028de66791"
+        "https://news.web.nhk/newsweb/na/nd-20261028de66792"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/best-places-to-hide-from-nuclear-bomb-4/",
