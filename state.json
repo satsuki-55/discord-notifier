@@ -257,6 +257,7 @@
         "https://www.bbc.co.uk/news/articles/cwj342k62exyo#2"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261030de68255",
         "https://news.web.nhk/newsweb/na/nd-20261030de68404",
         "https://news.web.nhk/newsweb/na/nd-20261030de68388",
         "https://news.web.nhk/newsweb/na/nd-20261030de68377",
@@ -455,8 +456,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261028de67179",
         "https://news.web.nhk/newsweb/na/nd-20261028de67114",
         "https://news.web.nhk/newsweb/na/nd-20261028de67125",
-        "https://news.web.nhk/newsweb/na/nd-20261028de67099",
-        "https://news.web.nhk/newsweb/na/nd-20261028de67089"
+        "https://news.web.nhk/newsweb/na/nd-20261028de67099"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-stop-sns-addiction-foqos/",
