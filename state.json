@@ -256,6 +256,8 @@
         "https://www.bbc.co.uk/news/articles/cm62ygw1e99xo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261030de68194",
+        "https://news.web.nhk/newsweb/na/nd-20261030de68195",
         "https://news.web.nhk/newsweb/na/nd-20261030de68190",
         "https://news.web.nhk/newsweb/na/nd-20261030de68199",
         "https://news.web.nhk/newsweb/na/nd-20261029de68097",
@@ -453,9 +455,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261028de66728",
         "https://news.web.nhk/newsweb/na/nd-20261028de66734",
         "https://news.web.nhk/newsweb/na/nd-20261027de66622",
-        "https://news.web.nhk/newsweb/na/nd-20261028de66726",
-        "https://news.web.nhk/newsweb/na/nd-20261028de66723",
-        "https://news.web.nhk/newsweb/na/nd-20261028de66720"
+        "https://news.web.nhk/newsweb/na/nd-20261028de66726"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/kaite_memo-pad/",
