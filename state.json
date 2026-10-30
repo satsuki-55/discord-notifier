@@ -56,6 +56,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cy5w2k5k5ylo#0",
         "https://www.bbc.co.uk/news/articles/cr1ex26lgqlqo#1",
         "https://www.bbc.co.uk/news/articles/cr1ex26lgqlqo#0",
         "https://www.bbc.co.uk/news/articles/c60me298k1yeo#0",
@@ -254,10 +255,11 @@
         "https://www.bbc.co.uk/news/articles/cm78pljvqvxeo#1",
         "https://www.bbc.co.uk/news/articles/cqe9lykm93jmo#0",
         "https://www.bbc.co.uk/news/articles/cw3djl5vk3v3o#0",
-        "https://www.bbc.co.uk/news/articles/cqkglwy3nd7zo#0",
-        "https://www.bbc.co.uk/news/articles/c6j47z0g4nwpo#1"
+        "https://www.bbc.co.uk/news/articles/cqkglwy3nd7zo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261030de68756",
+        "https://news.web.nhk/newsweb/na/nd-20261030de68737",
         "https://news.web.nhk/newsweb/na/nd-20261030de68715",
         "https://news.web.nhk/newsweb/na/nd-20261030de68711",
         "https://news.web.nhk/newsweb/na/nd-20261030de68714",
@@ -455,9 +457,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261026de65960",
         "https://news.web.nhk/newsweb/na/nd-20261029de67427",
         "https://news.web.nhk/newsweb/na/nd-20261029de67425",
-        "https://news.web.nhk/newsweb/na/nd-20261028de67416",
-        "https://news.web.nhk/newsweb/na/nd-20261028de67413",
-        "https://news.web.nhk/newsweb/na/nd-20261028de67363"
+        "https://news.web.nhk/newsweb/na/nd-20261028de67416"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-tesla-v2l-adapter-japan/",
