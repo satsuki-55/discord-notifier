@@ -258,6 +258,7 @@
         "https://www.bbc.co.uk/news/articles/cwvg039x08g2o#2"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261030de68736",
         "https://news.web.nhk/newsweb/na/nd-20261030de68752",
         "https://news.web.nhk/newsweb/na/nd-20261030de68722",
         "https://news.web.nhk/newsweb/na/nd-20261030de68724",
@@ -456,8 +457,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261029de67431",
         "https://news.web.nhk/newsweb/na/nd-20261028de67422",
         "https://news.web.nhk/newsweb/na/nd-20261029de67424",
-        "https://news.web.nhk/newsweb/na/nd-20261029de67430",
-        "https://news.web.nhk/newsweb/na/nd-20261029de67433"
+        "https://news.web.nhk/newsweb/na/nd-20261029de67430"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/meta-waddle-world-ai-pet-journal/",
