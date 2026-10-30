@@ -54,6 +54,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cm78pxxe55v0o#0",
         "https://www.bbc.co.uk/news/articles/c6gr8l15k744o#1",
         "https://www.bbc.co.uk/news/articles/cmlykvpdx4x0o#0",
         "https://www.bbc.co.uk/news/articles/cmwy9qe5r1z3o#0",
@@ -252,10 +253,10 @@
         "https://www.bbc.co.uk/news/articles/cr20wzwyzl1qo#1",
         "https://www.bbc.co.uk/news/articles/c674p7v91wx8o#1",
         "https://www.bbc.co.uk/news/articles/cmwyv8ld22z1o#0",
-        "https://www.bbc.co.uk/news/articles/cq62yg6rggj0o#1",
-        "https://www.bbc.co.uk/sport/football/articles/cqgkv2vxeengo#1"
+        "https://www.bbc.co.uk/news/articles/cq62yg6rggj0o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261030de68191",
         "https://news.web.nhk/newsweb/na/nd-20261030de68194",
         "https://news.web.nhk/newsweb/na/nd-20261030de68195",
         "https://news.web.nhk/newsweb/na/nd-20261030de68190",
@@ -454,8 +455,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261028de66737",
         "https://news.web.nhk/newsweb/na/nd-20261028de66728",
         "https://news.web.nhk/newsweb/na/nd-20261028de66734",
-        "https://news.web.nhk/newsweb/na/nd-20261027de66622",
-        "https://news.web.nhk/newsweb/na/nd-20261028de66726"
+        "https://news.web.nhk/newsweb/na/nd-20261027de66622"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-amazon-ai-engineering-guidelines/",
