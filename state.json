@@ -55,6 +55,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cmn4egvez1yzo#0",
         "https://www.bbc.co.uk/news/articles/cmn4egvez1yzo#1",
         "https://www.bbc.co.uk/news/articles/ck8dz8j5n993o#0",
         "https://www.bbc.co.uk/news/articles/cked3p81303yo#0",
@@ -253,10 +254,11 @@
         "https://www.bbc.co.uk/news/articles/cmq8nwvj92jdo#2",
         "https://www.bbc.co.uk/news/articles/cqlye4v721nwo#0",
         "https://www.bbc.co.uk/news/articles/cqm264jxxnxzo#0",
-        "https://www.bbc.co.uk/news/videos/cv8ezjdkle59o#1",
-        "https://www.bbc.co.uk/news/articles/cm8xz7pkd0jjo#1"
+        "https://www.bbc.co.uk/news/videos/cv8ezjdkle59o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261030de68426",
+        "https://news.web.nhk/newsweb/na/nd-20261030de68443",
         "https://news.web.nhk/newsweb/na/nd-20261030de68262",
         "https://news.web.nhk/newsweb/na/nd-20261030de68425",
         "https://news.web.nhk/newsweb/na/nd-20261030de68255",
@@ -454,11 +456,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261028de67211",
         "https://news.web.nhk/newsweb/na/nd-20261028de67231",
         "https://news.web.nhk/newsweb/na/nd-20261028de67229",
-        "https://news.web.nhk/newsweb/na/nd-20261028de67215",
-        "https://news.web.nhk/newsweb/na/nd-20261028de67179",
-        "https://news.web.nhk/newsweb/na/nd-20261028de67114"
+        "https://news.web.nhk/newsweb/na/nd-20261028de67215"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/oura_smart-ring_new_features_cardio_effort_vo2-max/",
         "https://www.gizmodo.jp/article/2610-muji-card-case-mini-wallet/",
         "https://www.gizmodo.jp/article/2610-stop-sns-addiction-foqos/",
         "https://www.gizmodo.jp/article/binance-hack-1-trillion-yen/",
@@ -657,8 +658,7 @@
         "https://www.gizmodo.jp/article/2610-cotton-sweat-1700-yen/",
         "https://www.gizmodo.jp/article/2610-what-to-do-if-password-is-leaked/",
         "https://www.gizmodo.jp/article/iphone-duo-booking-report/",
-        "https://www.gizmodo.jp/article/iphone-duo-best-fit-apps-review/",
-        "https://www.gizmodo.jp/article/iphone-duo-complaints/"
+        "https://www.gizmodo.jp/article/iphone-duo-best-fit-apps-review/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "E1xA2MUyBEw",
