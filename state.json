@@ -256,6 +256,9 @@
         "https://www.bbc.co.uk/news/articles/cwj342k62exyo#2"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261030de68279",
+        "https://news.web.nhk/newsweb/na/nd-20261030de68259",
+        "https://news.web.nhk/newsweb/na/nd-20261030de68347",
         "https://news.web.nhk/newsweb/na/nd-20261030de68281",
         "https://news.web.nhk/newsweb/na/nd-20261030de68243",
         "https://news.web.nhk/newsweb/na/nd-20261030de68271",
@@ -452,10 +455,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261028de67035",
         "https://news.web.nhk/newsweb/na/nd-20261028de67023",
         "https://news.web.nhk/newsweb/na/nd-20261028de67014",
-        "https://news.web.nhk/newsweb/na/nd-20261028de66785",
-        "https://news.web.nhk/newsweb/na/nd-20261028de66761",
-        "https://news.web.nhk/newsweb/na/nd-20261028de66946",
-        "https://news.web.nhk/newsweb/na/nd-20261028de66876"
+        "https://news.web.nhk/newsweb/na/nd-20261028de66785"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/nape-pro-se-gizmart-re/",
