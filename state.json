@@ -262,6 +262,7 @@
         "https://www.bbc.co.uk/news/articles/c62ke84qwl1vo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261031de69034",
         "https://news.web.nhk/newsweb/na/nd-20261031de69024",
         "https://news.web.nhk/newsweb/na/nd-20261031de68863",
         "https://news.web.nhk/newsweb/na/nd-20261031de68859",
@@ -460,8 +461,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261029de67854",
         "https://news.web.nhk/newsweb/na/nd-20261029de67852",
         "https://news.web.nhk/newsweb/na/nd-20261029de67843",
-        "https://news.web.nhk/newsweb/na/nd-20261029de67850",
-        "https://news.web.nhk/newsweb/na/nd-20261029de67794"
+        "https://news.web.nhk/newsweb/na/nd-20261029de67850"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/this-super-el-nino-is-drawing-exotic-species-to-the-california-coast/",
