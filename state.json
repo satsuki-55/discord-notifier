@@ -60,6 +60,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/videos/c51kd2jyjr1eo#2",
         "https://www.bbc.co.uk/news/articles/cry8317pdp5yo#0",
         "https://www.bbc.co.uk/news/videos/ck0j0y87j303o#1",
         "https://www.bbc.co.uk/news/videos/ck0j0y87j303o#0",
@@ -258,10 +259,10 @@
         "https://www.bbc.co.uk/news/articles/cqz0ve188r94o#1",
         "https://www.bbc.co.uk/news/articles/cm87zw51qw0jo#1",
         "https://www.bbc.co.uk/news/articles/c6z7x8214np7o#0",
-        "https://www.bbc.co.uk/news/articles/cke8r6543gplo#0",
-        "https://www.bbc.co.uk/news/articles/cr0j05vxlwjzo#2"
+        "https://www.bbc.co.uk/news/articles/cke8r6543gplo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261101de69068",
         "https://news.web.nhk/newsweb/na/nd-20261101de69059",
         "https://news.web.nhk/newsweb/na/nd-20261101de69063",
         "https://news.web.nhk/newsweb/na/nd-20261031de69022",
@@ -460,8 +461,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261029de68043",
         "https://news.web.nhk/newsweb/na/nd-20261029de68010",
         "https://news.web.nhk/newsweb/na/nd-20261029de68034",
-        "https://news.web.nhk/newsweb/na/nd-20261029de67703",
-        "https://news.web.nhk/newsweb/na/nd-20261029de67992"
+        "https://news.web.nhk/newsweb/na/nd-20261029de67703"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-mountainless-pumped-storage-hydro/",
