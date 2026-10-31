@@ -259,6 +259,7 @@
         "https://www.bbc.co.uk/news/articles/c6m24klyjr8no#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20260930de53364",
         "https://news.web.nhk/newsweb/na/nd-20261031de68846",
         "https://news.web.nhk/newsweb/na/nd-20261031de68843",
         "https://news.web.nhk/newsweb/na/nd-20261031de68839",
@@ -457,8 +458,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261029de67615",
         "https://news.web.nhk/newsweb/na/nd-20261029de67598",
         "https://news.web.nhk/newsweb/na/nd-20261029de67628",
-        "https://news.web.nhk/newsweb/na/nd-20261029de67627",
-        "https://news.web.nhk/newsweb/na/nd-20261029de67547"
+        "https://news.web.nhk/newsweb/na/nd-20261029de67627"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-space-cannon-transport-system/",
