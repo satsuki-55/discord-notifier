@@ -262,6 +262,7 @@
         "https://www.bbc.co.uk/news/articles/cmqxnl312v34o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261031de69024",
         "https://news.web.nhk/newsweb/na/nd-20261031de68863",
         "https://news.web.nhk/newsweb/na/nd-20261031de68859",
         "https://news.web.nhk/newsweb/na/nd-20261031de69005",
@@ -460,8 +461,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261029de67852",
         "https://news.web.nhk/newsweb/na/nd-20261029de67843",
         "https://news.web.nhk/newsweb/na/nd-20261029de67850",
-        "https://news.web.nhk/newsweb/na/nd-20261029de67794",
-        "https://news.web.nhk/newsweb/na/nd-20261029de67780"
+        "https://news.web.nhk/newsweb/na/nd-20261029de67794"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-maxxing-word-of-the-year-ai/",
