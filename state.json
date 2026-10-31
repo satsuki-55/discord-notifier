@@ -60,6 +60,8 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cke8r6543gplo#0",
+        "https://www.bbc.co.uk/news/articles/cq398y0zj9rpo#1",
         "https://www.bbc.co.uk/news/videos/c51kd2jyjr1eo#2",
         "https://www.bbc.co.uk/news/articles/cry8317pdp5yo#0",
         "https://www.bbc.co.uk/news/videos/ck0j0y87j303o#1",
@@ -257,9 +259,7 @@
         "https://www.bbc.co.uk/news/articles/c9p8gdlz1p2ko#1",
         "https://www.bbc.co.uk/news/articles/cm0j06y3pn75o#1",
         "https://www.bbc.co.uk/news/articles/cqz0ve188r94o#1",
-        "https://www.bbc.co.uk/news/articles/cm87zw51qw0jo#1",
-        "https://www.bbc.co.uk/news/articles/c6z7x8214np7o#0",
-        "https://www.bbc.co.uk/news/articles/cke8r6543gplo#0"
+        "https://www.bbc.co.uk/news/articles/cm87zw51qw0jo#1"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20261101de69067",
@@ -464,6 +464,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261029de68034"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2610-starbucks-sugar-free-lawsuit/",
         "https://www.gizmodo.jp/article/2610-mountainless-pumped-storage-hydro/",
         "https://www.gizmodo.jp/article/this-super-el-nino-is-drawing-exotic-species-to-the-california-coast/",
         "https://www.gizmodo.jp/article/2610-lenovo-yoga-9-2in1-review/",
@@ -662,8 +663,7 @@
         "https://www.gizmodo.jp/article/2610-iphone-duo-screen-crack-issue/",
         "https://www.gizmodo.jp/article/iphone-duo-apple-pencil-hinge/",
         "https://www.gizmodo.jp/article/2610-tesla-roadster-flying-speculation/",
-        "https://www.gizmodo.jp/article/teenage-engineering-ep-35-amp/",
-        "https://www.gizmodo.jp/article/iphone-duo-live-stream-folding-test/"
+        "https://www.gizmodo.jp/article/teenage-engineering-ep-35-amp/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "E1xA2MUyBEw",
