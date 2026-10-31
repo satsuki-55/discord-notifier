@@ -260,6 +260,7 @@
         "https://www.bbc.co.uk/news/articles/c98rz45yjyvgo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261031de68904",
         "https://news.web.nhk/newsweb/na/nd-20261031de68892",
         "https://news.web.nhk/newsweb/na/nd-20261031de68899",
         "https://news.web.nhk/newsweb/na/nd-20261031de68872",
@@ -458,8 +459,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261029de67623",
         "https://news.web.nhk/newsweb/na/nd-20261029de67716",
         "https://news.web.nhk/newsweb/na/nd-20261029de67508",
-        "https://news.web.nhk/newsweb/na/nd-20260930de53362",
-        "https://news.web.nhk/newsweb/na/nd-20261029de67495"
+        "https://news.web.nhk/newsweb/na/nd-20260930de53362"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-retone-android-music-player/",
