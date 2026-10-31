@@ -259,6 +259,7 @@
         "https://www.bbc.co.uk/news/articles/cry4x177jlnyo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261031de68857",
         "https://news.web.nhk/newsweb/na/nd-20260930de53364",
         "https://news.web.nhk/newsweb/na/nd-20261031de68846",
         "https://news.web.nhk/newsweb/na/nd-20261031de68843",
@@ -457,10 +458,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261029de67495",
         "https://news.web.nhk/newsweb/na/nd-20261029de67615",
         "https://news.web.nhk/newsweb/na/nd-20261029de67598",
-        "https://news.web.nhk/newsweb/na/nd-20261029de67628",
-        "https://news.web.nhk/newsweb/na/nd-20261029de67627"
+        "https://news.web.nhk/newsweb/na/nd-20261029de67628"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2610-zoom-pose-correction/",
         "https://www.gizmodo.jp/article/2610-space-cannon-transport-system/",
         "https://www.gizmodo.jp/article/on_cloud_6_wp-v2/",
         "https://www.gizmodo.jp/article/kojima-productions_10th_anniversary_exhibition/",
@@ -659,8 +660,7 @@
         "https://www.gizmodo.jp/article/2610-street-fashion-safety-shoes/",
         "https://www.gizmodo.jp/article/2610-lg-smart-monitor-swing/",
         "https://www.gizmodo.jp/article/2610-suunto-screenless-health-tracker/",
-        "https://www.gizmodo.jp/article/iretrolab-the-time-planet/",
-        "https://www.gizmodo.jp/article/2610-pyramid-found-during-road-construction-in-mexico/"
+        "https://www.gizmodo.jp/article/iretrolab-the-time-planet/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "E1xA2MUyBEw",
