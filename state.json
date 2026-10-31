@@ -262,6 +262,8 @@
         "https://www.bbc.co.uk/news/articles/ck0e075n79j5o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261031de68863",
+        "https://news.web.nhk/newsweb/na/nd-20261031de68859",
         "https://news.web.nhk/newsweb/na/nd-20261031de69005",
         "https://news.web.nhk/newsweb/na/nd-20261031de68988",
         "https://news.web.nhk/newsweb/na/nd-20261031de68862",
@@ -459,9 +461,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261029de67843",
         "https://news.web.nhk/newsweb/na/nd-20261029de67850",
         "https://news.web.nhk/newsweb/na/nd-20261029de67794",
-        "https://news.web.nhk/newsweb/na/nd-20261029de67780",
-        "https://news.web.nhk/newsweb/na/nd-20261029de67786",
-        "https://news.web.nhk/newsweb/na/nd-20261029de67768"
+        "https://news.web.nhk/newsweb/na/nd-20261029de67780"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-gex-pure-pet-fur-sweeper/",
