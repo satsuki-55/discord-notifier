@@ -261,6 +261,7 @@
         "https://www.bbc.co.uk/news/articles/c6qjn849ydlno#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261031de68949",
         "https://news.web.nhk/newsweb/na/nd-20261031de68918",
         "https://news.web.nhk/newsweb/na/nd-20261031de68904",
         "https://news.web.nhk/newsweb/na/nd-20261031de68892",
@@ -459,8 +460,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261029de67762",
         "https://news.web.nhk/newsweb/na/nd-20261029de67734",
         "https://news.web.nhk/newsweb/na/nd-20261029de67623",
-        "https://news.web.nhk/newsweb/na/nd-20261029de67716",
-        "https://news.web.nhk/newsweb/na/nd-20261029de67508"
+        "https://news.web.nhk/newsweb/na/nd-20261029de67716"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-lofree-hyzen-aluminum-keyboard/",
