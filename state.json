@@ -261,6 +261,7 @@
         "https://www.bbc.co.uk/news/articles/ck0e075n79j5o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261031de68862",
         "https://news.web.nhk/newsweb/na/nd-20261031de68967",
         "https://news.web.nhk/newsweb/na/nd-20261031de68949",
         "https://news.web.nhk/newsweb/na/nd-20261031de68918",
@@ -459,10 +460,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261029de67786",
         "https://news.web.nhk/newsweb/na/nd-20261029de67768",
         "https://news.web.nhk/newsweb/na/nd-20261029de67762",
-        "https://news.web.nhk/newsweb/na/nd-20261029de67734",
-        "https://news.web.nhk/newsweb/na/nd-20261029de67623"
+        "https://news.web.nhk/newsweb/na/nd-20261029de67734"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2610-adventure-cars-and-concept-vehicles/",
         "https://www.gizmodo.jp/article/bitwater-bitcoin-mining-water-heater/",
         "https://www.gizmodo.jp/article/2610-barreleye-fish-4k-footage/",
         "https://www.gizmodo.jp/article/0662c55a-c79e-4971-bb9e-e71ed82f8b3d/",
@@ -661,8 +662,7 @@
         "https://www.gizmodo.jp/article/elon-musk-documentary-film-hbo-1-billion-funding/",
         "https://www.gizmodo.jp/article/windows-95-code-in-windows-11/",
         "https://www.gizmodo.jp/article/2610-google-meet-realtime-voice-translation/",
-        "https://www.gizmodo.jp/article/2610-bill-gates-ai-jobs-to-keep/",
-        "https://www.gizmodo.jp/article/2610-amazon-leo-satellite-internet/"
+        "https://www.gizmodo.jp/article/2610-bill-gates-ai-jobs-to-keep/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "E1xA2MUyBEw",
