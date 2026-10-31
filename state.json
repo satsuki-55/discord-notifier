@@ -60,6 +60,9 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c6lykpepxk0eo#0",
+        "https://www.bbc.co.uk/news/articles/c6x2w1znl8q1o#1",
+        "https://www.bbc.co.uk/news/articles/cmr4y51gd5yro#1",
         "https://www.bbc.co.uk/news/articles/cqx2818elrnzo#0",
         "https://www.bbc.co.uk/news/articles/cqx2818elrnzo#1",
         "https://www.bbc.co.uk/news/videos/cmeq3ppg7wrno#1",
@@ -256,10 +259,7 @@
         "https://www.bbc.co.uk/news/videos/cm87zwe3ydp1o#1",
         "https://www.bbc.co.uk/news/articles/cr5j40ezgz4o#0",
         "https://www.bbc.co.uk/news/articles/cqrky1p4dlm7o#0",
-        "https://www.bbc.co.uk/news/articles/cm2ke80nd929o#1",
-        "https://www.bbc.co.uk/news/articles/cw5ynxepy4gno#0",
-        "https://www.bbc.co.uk/news/articles/c52e9vnege7eo#1",
-        "https://www.bbc.co.uk/news/articles/cmqxnl312v34o#0"
+        "https://www.bbc.co.uk/news/articles/cm2ke80nd929o#1"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20261031de69024",
@@ -464,6 +464,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261029de67794"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/this-super-el-nino-is-drawing-exotic-species-to-the-california-coast/",
         "https://www.gizmodo.jp/article/2610-lenovo-yoga-9-2in1-review/",
         "https://www.gizmodo.jp/article/2610-infinity-gauntlet-real-gems-auction/",
         "https://www.gizmodo.jp/article/2610-pig-kidney-cryopreservation-transplant-success/",
@@ -662,8 +663,7 @@
         "https://www.gizmodo.jp/article/2610-tesla-roadster-flying-speculation/",
         "https://www.gizmodo.jp/article/teenage-engineering-ep-35-amp/",
         "https://www.gizmodo.jp/article/iphone-duo-live-stream-folding-test/",
-        "https://www.gizmodo.jp/article/2610-typair-air-keyboard/",
-        "https://www.gizmodo.jp/article/iphone-duo_popsockets-low-pro-grip-and-stand/"
+        "https://www.gizmodo.jp/article/2610-typair-air-keyboard/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "E1xA2MUyBEw",
