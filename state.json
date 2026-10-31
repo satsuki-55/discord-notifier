@@ -259,6 +259,7 @@
         "https://www.bbc.co.uk/news/articles/cmqxnl312v34o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261031de68872",
         "https://news.web.nhk/newsweb/na/nd-20261031de68857",
         "https://news.web.nhk/newsweb/na/nd-20260930de53364",
         "https://news.web.nhk/newsweb/na/nd-20261031de68846",
@@ -457,8 +458,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260930de53362",
         "https://news.web.nhk/newsweb/na/nd-20261029de67495",
         "https://news.web.nhk/newsweb/na/nd-20261029de67615",
-        "https://news.web.nhk/newsweb/na/nd-20261029de67598",
-        "https://news.web.nhk/newsweb/na/nd-20261029de67628"
+        "https://news.web.nhk/newsweb/na/nd-20261029de67598"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-lenovo-googlebook-15-review/",
