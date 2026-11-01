@@ -263,6 +263,7 @@
         "https://www.bbc.co.uk/news/articles/c39wznnxyy27o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261101de69104",
         "https://news.web.nhk/newsweb/na/nd-20261101de69214",
         "https://news.web.nhk/newsweb/na/nd-20261101de69224",
         "https://news.web.nhk/newsweb/na/nd-20261101de69223",
@@ -461,10 +462,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261029de68099",
         "https://news.web.nhk/newsweb/na/nd-20261029de68093",
         "https://news.web.nhk/newsweb/na/nd-20261029de68066",
-        "https://news.web.nhk/newsweb/na/nd-20261029de68105",
-        "https://news.web.nhk/newsweb/na/nd-20261029de68096"
+        "https://news.web.nhk/newsweb/na/nd-20261029de68105"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/claude-image-generation-reason/",
         "https://www.gizmodo.jp/article/2610-500yen-goods/",
         "https://www.gizmodo.jp/article/myofree/",
         "https://www.gizmodo.jp/article/bfc293dd-d248-49fb-81f6-6ab44c7d4a04/",
@@ -663,8 +664,7 @@
         "https://www.gizmodo.jp/article/iflytek-ai-translation-earbuds/",
         "https://www.gizmodo.jp/article/69976f53-e257-4182-b6fb-3761810a107b/",
         "https://www.gizmodo.jp/article/2610-doshisha-corner-heater/",
-        "https://www.gizmodo.jp/article/ai-startup-wants-every-company-to-assign-you-your-own-personal-stalker/",
-        "https://www.gizmodo.jp/article/2610-openai-ai-containment/"
+        "https://www.gizmodo.jp/article/ai-startup-wants-every-company-to-assign-you-your-own-personal-stalker/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "E1xA2MUyBEw",
