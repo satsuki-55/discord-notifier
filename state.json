@@ -263,6 +263,7 @@
         "https://www.bbc.co.uk/news/articles/cmx2dwzp0z0vo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261102de69323",
         "https://news.web.nhk/newsweb/na/nd-20261101de69275",
         "https://news.web.nhk/newsweb/na/nd-20261102de69322",
         "https://news.web.nhk/newsweb/na/nd-20261101de69276",
@@ -461,8 +462,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261030de68171",
         "https://news.web.nhk/newsweb/na/nd-20261030de68166",
         "https://news.web.nhk/newsweb/na/nd-20261030de68144",
-        "https://news.web.nhk/newsweb/na/nd-20261030de68141",
-        "https://news.web.nhk/newsweb/na/nd-20261029de68134"
+        "https://news.web.nhk/newsweb/na/nd-20261030de68141"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-all-weather-perovskite-solar-cells/",
