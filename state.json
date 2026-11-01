@@ -262,6 +262,7 @@
         "https://www.bbc.co.uk/news/articles/c9x28350ly07o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261101de69096",
         "https://news.web.nhk/newsweb/na/nd-20261101de69134",
         "https://news.web.nhk/newsweb/na/nd-20261101de69124",
         "https://news.web.nhk/newsweb/na/nd-20261101de69102",
@@ -460,8 +461,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261029de68060",
         "https://news.web.nhk/newsweb/na/nd-20261029de68072",
         "https://news.web.nhk/newsweb/na/nd-20261029de68053",
-        "https://news.web.nhk/newsweb/na/nd-20261029de68054",
-        "https://news.web.nhk/newsweb/na/nd-20261029de68064"
+        "https://news.web.nhk/newsweb/na/nd-20261029de68054"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/descente-allterrain_hard-shell-jacket-creas-coat/",
