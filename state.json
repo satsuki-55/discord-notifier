@@ -263,6 +263,7 @@
         "https://www.bbc.co.uk/news/articles/c39wznnxyy27o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261101de69264",
         "https://news.web.nhk/newsweb/na/nd-20261101de69104",
         "https://news.web.nhk/newsweb/na/nd-20261101de69214",
         "https://news.web.nhk/newsweb/na/nd-20261101de69224",
@@ -461,8 +462,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261029de67535",
         "https://news.web.nhk/newsweb/na/nd-20261029de68099",
         "https://news.web.nhk/newsweb/na/nd-20261029de68093",
-        "https://news.web.nhk/newsweb/na/nd-20261029de68066",
-        "https://news.web.nhk/newsweb/na/nd-20261029de68105"
+        "https://news.web.nhk/newsweb/na/nd-20261029de68066"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/claude-image-generation-reason/",
