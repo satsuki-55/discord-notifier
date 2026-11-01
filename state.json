@@ -262,6 +262,7 @@
         "https://www.bbc.co.uk/news/articles/cmpqgx8w0537o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261101de69087",
         "https://news.web.nhk/newsweb/na/nd-20261101de69077",
         "https://news.web.nhk/newsweb/na/nd-20261101de69083",
         "https://news.web.nhk/newsweb/na/nd-20261101de69080",
@@ -460,8 +461,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261029de68038",
         "https://news.web.nhk/newsweb/na/nd-20261029de67800",
         "https://news.web.nhk/newsweb/na/nd-20261027de66321",
-        "https://news.web.nhk/newsweb/na/nd-20261029de67700",
-        "https://news.web.nhk/newsweb/na/nd-20261029de68016"
+        "https://news.web.nhk/newsweb/na/nd-20261029de67700"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/donkey-kong-flyer-original-art-auction/",
