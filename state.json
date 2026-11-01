@@ -263,6 +263,7 @@
         "https://www.bbc.co.uk/news/articles/c39wznnxyy27o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261101de69229",
         "https://news.web.nhk/newsweb/na/nd-20261101de69232",
         "https://news.web.nhk/newsweb/na/nd-20261101de69260",
         "https://news.web.nhk/newsweb/na/nd-20261101de69226",
@@ -461,8 +462,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261029de68113",
         "https://news.web.nhk/newsweb/na/nd-20261027de66318",
         "https://news.web.nhk/newsweb/na/nd-20261029de68025",
-        "https://news.web.nhk/newsweb/na/nd-20261027de66588",
-        "https://news.web.nhk/newsweb/na/nd-20261029de67905"
+        "https://news.web.nhk/newsweb/na/nd-20261027de66588"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/scientists-invent-underwater-umbrellas-to-protect-coral-reefs-and-it-appears-to-be-working/",
