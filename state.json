@@ -263,6 +263,7 @@
         "https://www.bbc.co.uk/news/articles/ck1exgejq3xvo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261101de69285",
         "https://news.web.nhk/newsweb/na/nd-20261101de69281",
         "https://news.web.nhk/newsweb/na/nd-20261101de69229",
         "https://news.web.nhk/newsweb/na/nd-20261101de69232",
@@ -461,8 +462,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261029de68116",
         "https://news.web.nhk/newsweb/na/nd-20261029de68114",
         "https://news.web.nhk/newsweb/na/nd-20261029de68113",
-        "https://news.web.nhk/newsweb/na/nd-20261027de66318",
-        "https://news.web.nhk/newsweb/na/nd-20261029de68025"
+        "https://news.web.nhk/newsweb/na/nd-20261027de66318"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-claude-mythos-ai-cot-momentum/",
