@@ -263,6 +263,7 @@
         "https://www.bbc.co.uk/news/videos/cm93zere04plo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261101de69214",
         "https://news.web.nhk/newsweb/na/nd-20261101de69224",
         "https://news.web.nhk/newsweb/na/nd-20261101de69223",
         "https://news.web.nhk/newsweb/na/nd-20261101de69207",
@@ -461,8 +462,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261029de68093",
         "https://news.web.nhk/newsweb/na/nd-20261029de68066",
         "https://news.web.nhk/newsweb/na/nd-20261029de68105",
-        "https://news.web.nhk/newsweb/na/nd-20261029de68096",
-        "https://news.web.nhk/newsweb/na/nd-20261029de68077"
+        "https://news.web.nhk/newsweb/na/nd-20261029de68096"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-500yen-goods/",
