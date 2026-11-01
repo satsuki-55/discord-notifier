@@ -263,6 +263,7 @@
         "https://www.bbc.co.uk/news/articles/ck8dz8j5n993o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261031de68925",
         "https://news.web.nhk/newsweb/na/nd-20261101de69267",
         "https://news.web.nhk/newsweb/na/nd-20261102de69327",
         "https://news.web.nhk/newsweb/na/nd-20261102de69325",
@@ -461,10 +462,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261030de68147",
         "https://news.web.nhk/newsweb/na/nd-20261023de64076",
         "https://news.web.nhk/newsweb/na/nd-20261030de68154",
-        "https://news.web.nhk/newsweb/na/nd-20261030de68165",
-        "https://news.web.nhk/newsweb/na/nd-20261030de68171"
+        "https://news.web.nhk/newsweb/na/nd-20261030de68165"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2610-android-screen-share-hide-password/",
         "https://www.gizmodo.jp/article/2610-all-weather-perovskite-solar-cells/",
         "https://www.gizmodo.jp/article/2610-claude-mythos-ai-cot-momentum/",
         "https://www.gizmodo.jp/article/2610-ibuypower-rdy-element-pulse-x-b02-review/",
@@ -663,8 +664,7 @@
         "https://www.gizmodo.jp/article/2610-smartphone-identity-verification-drivers-license-ic-chip/",
         "https://www.gizmodo.jp/article/g-shock-gmc-2500-gac-2500/",
         "https://www.gizmodo.jp/article/2610-macbook-pro-oled-touch-2026/",
-        "https://www.gizmodo.jp/article/2610-murata-physical-ai-robot-glove/",
-        "https://www.gizmodo.jp/article/2610-foldable-smartphone-insurance-essential/"
+        "https://www.gizmodo.jp/article/2610-murata-physical-ai-robot-glove/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "E1xA2MUyBEw",
