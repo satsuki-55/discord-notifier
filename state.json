@@ -61,6 +61,9 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cmlykvpdx4x0o#0",
+        "https://www.bbc.co.uk/news/articles/c64g1y90p71eo#1",
+        "https://www.bbc.co.uk/news/videos/cqgm0der7zkmo#1",
         "https://www.bbc.co.uk/news/articles/c64g1y90p71eo#0",
         "https://www.bbc.co.uk/news/articles/cq5ynzvkn1d8o#0",
         "https://www.bbc.co.uk/news/articles/c95ynzv88n68o#0",
@@ -257,12 +260,10 @@
         "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o#0",
         "https://www.bbc.co.uk/news/articles/cmx2dwzp0z0vo#1",
         "https://www.bbc.co.uk/news/articles/c574p7z1xm8wo#1",
-        "https://www.bbc.co.uk/news/articles/cm78pxxe55v0o#0",
-        "https://www.bbc.co.uk/news/articles/c6gr8l15k744o#1",
-        "https://www.bbc.co.uk/news/articles/cmlykvpdx4x0o#0",
-        "https://www.bbc.co.uk/news/articles/cmwy9qe5r1z3o#0"
+        "https://www.bbc.co.uk/news/articles/cm78pxxe55v0o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261101de69275",
         "https://news.web.nhk/newsweb/na/nd-20261102de69322",
         "https://news.web.nhk/newsweb/na/nd-20261101de69276",
         "https://news.web.nhk/newsweb/na/nd-20261101de69293",
@@ -461,8 +462,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261030de68166",
         "https://news.web.nhk/newsweb/na/nd-20261030de68144",
         "https://news.web.nhk/newsweb/na/nd-20261030de68141",
-        "https://news.web.nhk/newsweb/na/nd-20261029de68134",
-        "https://news.web.nhk/newsweb/na/nd-20261029de68132"
+        "https://news.web.nhk/newsweb/na/nd-20261029de68134"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-all-weather-perovskite-solar-cells/",
