@@ -61,6 +61,8 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo#0",
+        "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo#1",
         "https://www.bbc.co.uk/news/articles/crpdgp4y017go#0",
         "https://www.bbc.co.uk/news/articles/cw07304l5je7o#1",
         "https://www.bbc.co.uk/news/articles/cw5ynver15jeo#0",
@@ -258,9 +260,7 @@
         "https://www.bbc.co.uk/weather/articles/c6ly075l742ro#0",
         "https://www.bbc.co.uk/news/articles/cmn4egvez1yzo#0",
         "https://www.bbc.co.uk/news/articles/cmn4egvez1yzo#1",
-        "https://www.bbc.co.uk/news/articles/ck8dz8j5n993o#0",
-        "https://www.bbc.co.uk/news/articles/cked3p81303yo#0",
-        "https://www.bbc.co.uk/news/articles/cq8ezj7jylrzo#1"
+        "https://www.bbc.co.uk/news/articles/ck8dz8j5n993o#0"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20261031de68925",
@@ -465,6 +465,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261030de68165"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2611-xreal-aura-google-ai-glasses/",
         "https://www.gizmodo.jp/article/2611-apple-watch-huawei-smartphone-support/",
         "https://www.gizmodo.jp/article/2610-android-screen-share-hide-password/",
         "https://www.gizmodo.jp/article/2610-all-weather-perovskite-solar-cells/",
@@ -663,8 +664,7 @@
         "https://www.gizmodo.jp/article/iphone-duo-hello-animation/",
         "https://www.gizmodo.jp/article/ef8757e5-f809-462d-a5e1-800fc5ca8fe6/",
         "https://www.gizmodo.jp/article/2610-smartphone-identity-verification-drivers-license-ic-chip/",
-        "https://www.gizmodo.jp/article/g-shock-gmc-2500-gac-2500/",
-        "https://www.gizmodo.jp/article/2610-macbook-pro-oled-touch-2026/"
+        "https://www.gizmodo.jp/article/g-shock-gmc-2500-gac-2500/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "E1xA2MUyBEw",
