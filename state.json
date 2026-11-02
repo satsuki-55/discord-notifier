@@ -264,6 +264,8 @@
         "https://www.bbc.co.uk/news/videos/cwly4p6e9264o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261102de69636",
+        "https://news.web.nhk/newsweb/na/nd-20261102de69556",
         "https://news.web.nhk/newsweb/na/nd-20261102de69622",
         "https://news.web.nhk/newsweb/na/nd-20261102de69574",
         "https://news.web.nhk/newsweb/na/nd-20261102de69564",
@@ -461,9 +463,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261030de68314",
         "https://news.web.nhk/newsweb/na/nd-20261030de68323",
         "https://news.web.nhk/newsweb/na/nd-20261030de68221",
-        "https://news.web.nhk/newsweb/na/nd-20261030de68223",
-        "https://news.web.nhk/newsweb/na/nd-20261030de68260",
-        "https://news.web.nhk/newsweb/na/nd-20261030de68216"
+        "https://news.web.nhk/newsweb/na/nd-20261030de68223"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-compact-ai-ac-remote/",
