@@ -63,6 +63,9 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c8zxlqxwed4do#0",
+        "https://www.bbc.co.uk/news/articles/cq78pypg0800o#1",
+        "https://www.bbc.co.uk/news/articles/c8zxle6qq4q0o#1",
         "https://www.bbc.co.uk/news/videos/cjly0p753dxxo#1",
         "https://www.bbc.co.uk/news/articles/c3j47g4kk1npo#1",
         "https://www.bbc.co.uk/news/articles/cr93zxyn9eqeo#0",
@@ -259,12 +262,10 @@
         "https://www.bbc.co.uk/news/articles/cqglwp088532o#1",
         "https://www.bbc.co.uk/news/articles/c6e3xg5we9eyo#1",
         "https://www.bbc.co.uk/news/articles/cy5w2k5k5ylo#0",
-        "https://www.bbc.co.uk/news/articles/cr1ex26lgqlqo#1",
-        "https://www.bbc.co.uk/news/articles/cr1ex26lgqlqo#0",
-        "https://www.bbc.co.uk/news/articles/c60me298k1yeo#0",
-        "https://www.bbc.co.uk/news/articles/ckzd623pldqgo#1"
+        "https://www.bbc.co.uk/news/articles/cr1ex26lgqlqo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261102de69768",
         "https://news.web.nhk/newsweb/na/nd-20261102de69766",
         "https://news.web.nhk/newsweb/na/nd-20261102de69776",
         "https://news.web.nhk/newsweb/na/nd-20261102de69780",
@@ -463,8 +464,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261030de68364",
         "https://news.web.nhk/newsweb/na/nd-20261030de68361",
         "https://news.web.nhk/newsweb/na/nd-20261030de68365",
-        "https://news.web.nhk/newsweb/na/nd-20261030de68329",
-        "https://news.web.nhk/newsweb/na/nd-20261030de68254"
+        "https://news.web.nhk/newsweb/na/nd-20261030de68329"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-m6-macbook-pro-14-hands-on-review/",
