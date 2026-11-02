@@ -263,6 +263,7 @@
         "https://www.bbc.co.uk/news/articles/ck8dz8j5n993o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261102de69346",
         "https://news.web.nhk/newsweb/na/nd-20261031de68925",
         "https://news.web.nhk/newsweb/na/nd-20261101de69267",
         "https://news.web.nhk/newsweb/na/nd-20261102de69327",
@@ -461,8 +462,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261029de68131",
         "https://news.web.nhk/newsweb/na/nd-20261030de68147",
         "https://news.web.nhk/newsweb/na/nd-20261023de64076",
-        "https://news.web.nhk/newsweb/na/nd-20261030de68154",
-        "https://news.web.nhk/newsweb/na/nd-20261030de68165"
+        "https://news.web.nhk/newsweb/na/nd-20261030de68154"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-xreal-aura-google-ai-glasses/",
