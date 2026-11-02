@@ -265,6 +265,7 @@
         "https://www.bbc.co.uk/news/articles/cw62yrzxjnk4o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261102de69762",
         "https://news.web.nhk/newsweb/na/nd-20261102de69760",
         "https://news.web.nhk/newsweb/na/nd-20261102de69741",
         "https://news.web.nhk/newsweb/na/nd-20261102de69717",
@@ -463,8 +464,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261030de68279",
         "https://news.web.nhk/newsweb/na/nd-20261030de68259",
         "https://news.web.nhk/newsweb/na/nd-20261030de68347",
-        "https://news.web.nhk/newsweb/na/nd-20261030de68281",
-        "https://news.web.nhk/newsweb/na/nd-20261030de68243"
+        "https://news.web.nhk/newsweb/na/nd-20261030de68281"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/google-eats-its-own-tail-and-profits-with-ai-summaries-as-stock-price-plunges/",
