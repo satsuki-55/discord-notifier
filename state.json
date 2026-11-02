@@ -61,6 +61,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cmg47p3edv4do#1",
         "https://www.bbc.co.uk/news/articles/cw1m42zdnn3go#0",
         "https://www.bbc.co.uk/news/videos/cmy931z9pl8do#0",
         "https://www.bbc.co.uk/weather/articles/c6ly075l742ro#0",
@@ -259,8 +260,7 @@
         "https://www.bbc.co.uk/news/articles/cmx2dwzp0z0vo#0",
         "https://www.bbc.co.uk/news/articles/c30rlxkjv2yko#1",
         "https://www.bbc.co.uk/news/articles/cmwy42j9wewlo#1",
-        "https://www.bbc.co.uk/news/articles/cqp8g19r66y4o#1",
-        "https://www.bbc.co.uk/weather/articles/c6ly075l742ro#1"
+        "https://www.bbc.co.uk/news/articles/cqp8g19r66y4o#1"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20261102de69346",
@@ -465,6 +465,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261030de68154"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2610-muteme-original-review/",
         "https://www.gizmodo.jp/article/rice-grain-sized-metaeye-camera/",
         "https://www.gizmodo.jp/article/2611-xreal-aura-google-ai-glasses/",
         "https://www.gizmodo.jp/article/2611-apple-watch-huawei-smartphone-support/",
@@ -663,8 +664,7 @@
         "https://www.gizmodo.jp/article/apple-music-hidden-ipod-easter-egg/",
         "https://www.gizmodo.jp/article/2610-montbell-wic-cardigan/",
         "https://www.gizmodo.jp/article/iphone-duo-hello-animation/",
-        "https://www.gizmodo.jp/article/ef8757e5-f809-462d-a5e1-800fc5ca8fe6/",
-        "https://www.gizmodo.jp/article/2610-smartphone-identity-verification-drivers-license-ic-chip/"
+        "https://www.gizmodo.jp/article/ef8757e5-f809-462d-a5e1-800fc5ca8fe6/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "E1xA2MUyBEw",
