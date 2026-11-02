@@ -265,6 +265,7 @@
         "https://www.bbc.co.uk/news/articles/ck62ydn7dj9eo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261102de69828",
         "https://news.web.nhk/newsweb/na/nd-20261030de68361",
         "https://news.web.nhk/newsweb/na/nd-20261102de69819",
         "https://news.web.nhk/newsweb/na/nd-20261102de69784",
@@ -463,10 +464,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261030de68255",
         "https://news.web.nhk/newsweb/na/nd-20261030de68404",
         "https://news.web.nhk/newsweb/na/nd-20261030de68388",
-        "https://news.web.nhk/newsweb/na/nd-20261030de68377",
-        "https://news.web.nhk/newsweb/na/nd-20261030de68356"
+        "https://news.web.nhk/newsweb/na/nd-20261030de68377"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/north-korean-ai-job-impersonation/",
         "https://www.gizmodo.jp/article/alpha-gang_tokyo-international-filmfestival/",
         "https://www.gizmodo.jp/article/2611-xreal-aura-first-impression/",
         "https://www.gizmodo.jp/article/sprout-pi-mainboard/",
@@ -665,8 +666,7 @@
         "https://www.gizmodo.jp/article/apple-experience-macbookpro-la/",
         "https://www.gizmodo.jp/article/meta-muse-ghost-share-security-issue/",
         "https://www.gizmodo.jp/article/smart-glasses-hans-anders-privacy/",
-        "https://www.gizmodo.jp/article/m6-macbook-pro-release/",
-        "https://www.gizmodo.jp/article/finger-massage-cht/"
+        "https://www.gizmodo.jp/article/m6-macbook-pro-release/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "E1xA2MUyBEw",
