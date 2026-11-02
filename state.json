@@ -265,6 +265,7 @@
         "https://www.bbc.co.uk/news/articles/ck62ydn7dj9eo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261030de68361",
         "https://news.web.nhk/newsweb/na/nd-20261102de69819",
         "https://news.web.nhk/newsweb/na/nd-20261102de69784",
         "https://news.web.nhk/newsweb/na/nd-20261102de69807",
@@ -463,8 +464,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261030de68404",
         "https://news.web.nhk/newsweb/na/nd-20261030de68388",
         "https://news.web.nhk/newsweb/na/nd-20261030de68377",
-        "https://news.web.nhk/newsweb/na/nd-20261030de68356",
-        "https://news.web.nhk/newsweb/na/nd-20261030de68364"
+        "https://news.web.nhk/newsweb/na/nd-20261030de68356"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/alpha-gang_tokyo-international-filmfestival/",
