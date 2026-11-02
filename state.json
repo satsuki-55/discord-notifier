@@ -265,6 +265,7 @@
         "https://www.bbc.co.uk/news/articles/c60me298k1yeo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261102de69776",
         "https://news.web.nhk/newsweb/na/nd-20261102de69780",
         "https://news.web.nhk/newsweb/na/nd-20261102de69764",
         "https://news.web.nhk/newsweb/na/nd-20261102de69762",
@@ -463,8 +464,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261030de68365",
         "https://news.web.nhk/newsweb/na/nd-20261030de68329",
         "https://news.web.nhk/newsweb/na/nd-20261030de68254",
-        "https://news.web.nhk/newsweb/na/nd-20261030de68279",
-        "https://news.web.nhk/newsweb/na/nd-20261030de68259"
+        "https://news.web.nhk/newsweb/na/nd-20261030de68279"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-m6-macbook-pro-14-hands-on-review/",
