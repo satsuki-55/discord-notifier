@@ -263,6 +263,7 @@
         "https://www.bbc.co.uk/news/articles/cqp8g19r66y4o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261102de69476",
         "https://news.web.nhk/newsweb/na/nd-20261102de69500",
         "https://news.web.nhk/newsweb/na/nd-20261102de69493",
         "https://news.web.nhk/newsweb/na/nd-20261102de69468",
@@ -461,8 +462,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261030de68190",
         "https://news.web.nhk/newsweb/na/nd-20261030de68199",
         "https://news.web.nhk/newsweb/na/nd-20261029de68097",
-        "https://news.web.nhk/newsweb/na/nd-20261030de68193",
-        "https://news.web.nhk/newsweb/na/nd-20261030de68187"
+        "https://news.web.nhk/newsweb/na/nd-20261030de68193"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-alexa-photo-frame/",
