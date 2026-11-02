@@ -265,6 +265,7 @@
         "https://www.bbc.co.uk/news/articles/ck62ydn7dj9eo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261102de69793",
         "https://news.web.nhk/newsweb/na/nd-20261102de69830",
         "https://news.web.nhk/newsweb/na/nd-20261102de69828",
         "https://news.web.nhk/newsweb/na/nd-20261030de68361",
@@ -463,8 +464,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261030de68262",
         "https://news.web.nhk/newsweb/na/nd-20261030de68425",
         "https://news.web.nhk/newsweb/na/nd-20261030de68255",
-        "https://news.web.nhk/newsweb/na/nd-20261030de68404",
-        "https://news.web.nhk/newsweb/na/nd-20261030de68388"
+        "https://news.web.nhk/newsweb/na/nd-20261030de68404"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/jumping-jacks-gadget-72/",
