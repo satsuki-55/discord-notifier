@@ -63,6 +63,8 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c670pvxyp2pko#0",
+        "https://www.bbc.co.uk/news/articles/ckr5y9m6q4eyo#1",
         "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o#1",
         "https://www.bbc.co.uk/news/articles/cr93z4p4w9k2o#1",
         "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o#0",
@@ -260,9 +262,7 @@
         "https://www.bbc.co.uk/news/articles/ckq6nz4286r4o#2",
         "https://www.bbc.co.uk/news/articles/cmjwepvd0qq9o#2",
         "https://www.bbc.co.uk/news/articles/cmeweppr990qo#0",
-        "https://www.bbc.co.uk/news/articles/cmeweppr990qo#1",
-        "https://www.bbc.co.uk/news/articles/cm62yxxd992eo#1",
-        "https://www.bbc.co.uk/news/articles/c6ly3027820lo#0"
+        "https://www.bbc.co.uk/news/articles/cmeweppr990qo#1"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20261102de69570",
@@ -467,6 +467,8 @@
         "https://news.web.nhk/newsweb/na/nd-20261030de68510"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2611-linux-kernel-vulnerability-multipath-tcp/",
+        "https://www.gizmodo.jp/article/xiaomi-smart-band-11-japan/",
         "https://www.gizmodo.jp/article/2611-cardboard-shredder-dansukesan/",
         "https://www.gizmodo.jp/article/2610-iphone-to-android-switch-review/",
         "https://www.gizmodo.jp/article/xreal-aura_hand-tracking/",
@@ -664,9 +666,7 @@
         "https://www.gizmodo.jp/article/2610-google-brotli-vulnerability-php/",
         "https://www.gizmodo.jp/article/2610-panasonic-mini-component-production-end/",
         "https://www.gizmodo.jp/article/306495-qmc/",
-        "https://www.gizmodo.jp/article/9040df38-b8df-4170-8768-4c53772e1bf2/",
-        "https://www.gizmodo.jp/article/roland-jupiter-08/",
-        "https://www.gizmodo.jp/article/2610-xbox-cloud-gaming-time-based-pricing/"
+        "https://www.gizmodo.jp/article/9040df38-b8df-4170-8768-4c53772e1bf2/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "x7--vjFSfK8",
