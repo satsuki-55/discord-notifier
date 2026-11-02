@@ -265,6 +265,7 @@
         "https://www.bbc.co.uk/news/articles/cm5yn7d0qx1do#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261102de69842",
         "https://news.web.nhk/newsweb/na/nd-20261103de69858",
         "https://news.web.nhk/newsweb/na/nd-20261103de69860",
         "https://news.web.nhk/newsweb/na/nd-20261103de69864",
@@ -463,8 +464,7 @@
         "https://news.web.nhk/newsweb/na/nd-20260930de53363",
         "https://news.web.nhk/newsweb/na/nd-20261030de68460",
         "https://news.web.nhk/newsweb/na/nd-20261030de68418",
-        "https://news.web.nhk/newsweb/na/nd-20261030de68449",
-        "https://news.web.nhk/newsweb/na/nd-20261030de68426"
+        "https://news.web.nhk/newsweb/na/nd-20261030de68449"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-iphone-to-android-switch-review/",
