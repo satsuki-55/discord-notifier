@@ -64,6 +64,8 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cq2d6k4r5n9ro#0",
+        "https://www.bbc.co.uk/sport/football/articles/c6y0e79yjg44o#0",
         "https://www.bbc.co.uk/news/videos/cwdr8veexkrzo#1",
         "https://www.bbc.co.uk/news/articles/cwly4ejrr72mo#0",
         "https://www.bbc.co.uk/news/articles/cqvgrvx6ekl2o#1",
@@ -261,11 +263,10 @@
         "https://www.bbc.co.uk/news/articles/c893z699q401o#2",
         "https://www.bbc.co.uk/news/articles/c893z699q401o#0",
         "https://www.bbc.co.uk/news/articles/cj5ynryyep2yo#1",
-        "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo#0",
-        "https://www.bbc.co.uk/news/articles/ckjwez8g5dyeo#2",
-        "https://www.bbc.co.uk/sport/formula1/articles/c6reyl8zp3jwo#1"
+        "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261103de69986",
         "https://news.web.nhk/newsweb/na/nd-20261103de69969",
         "https://news.web.nhk/newsweb/na/nd-20261103de69962",
         "https://news.web.nhk/newsweb/na/nd-20261103de69956",
@@ -464,8 +465,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261030de68704",
         "https://news.web.nhk/newsweb/na/nd-20261030de68689",
         "https://news.web.nhk/newsweb/na/nd-20261030de68624",
-        "https://news.web.nhk/newsweb/na/nd-20261030de68694",
-        "https://news.web.nhk/newsweb/na/nd-20261030de68647"
+        "https://news.web.nhk/newsweb/na/nd-20261030de68694"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-maku-kotatsu/",
