@@ -266,6 +266,7 @@
         "https://www.bbc.co.uk/news/videos/ck0j0y87j303o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261103de69951",
         "https://news.web.nhk/newsweb/na/nd-20261103de69940",
         "https://news.web.nhk/newsweb/na/nd-20261103de69938",
         "https://news.web.nhk/newsweb/na/nd-20261103de69903",
@@ -464,8 +465,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261030de68413",
         "https://news.web.nhk/newsweb/na/nd-20261030de68664",
         "https://news.web.nhk/newsweb/na/nd-20261030de68556",
-        "https://news.web.nhk/newsweb/na/nd-20261030de68585",
-        "https://news.web.nhk/newsweb/na/nd-20261030de68530"
+        "https://news.web.nhk/newsweb/na/nd-20261030de68585"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/descente_zenchikei-shell-jacket/",
