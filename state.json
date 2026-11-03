@@ -64,6 +64,8 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cje36degrgv5o#0",
+        "https://www.bbc.co.uk/news/articles/cm75pgqdyzldo#1",
         "https://www.bbc.co.uk/news/articles/cm62y97z2n71o#0",
         "https://www.bbc.co.uk/sport/football/articles/c63dj3zpl85go#1",
         "https://www.bbc.co.uk/news/articles/cm9wz01dx8xro#1",
@@ -261,11 +263,11 @@
         "https://www.bbc.co.uk/news/articles/cmy0r2y6zeddo#1",
         "https://www.bbc.co.uk/news/videos/cj040yd1xdrlo#1",
         "https://www.bbc.co.uk/news/articles/c62l4yz0eexpo#1",
-        "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o#1",
-        "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o#0",
-        "https://www.bbc.co.uk/news/articles/cje36degrgv5o#0"
+        "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261103de70021",
+        "https://news.web.nhk/newsweb/na/nd-20261103de70010",
         "https://news.web.nhk/newsweb/na/nd-20261103de69983",
         "https://news.web.nhk/newsweb/na/nd-20261103de70007",
         "https://news.web.nhk/newsweb/na/nd-20261103de69986",
@@ -463,9 +465,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261030de68713",
         "https://news.web.nhk/newsweb/na/nd-20261030de68678",
         "https://news.web.nhk/newsweb/na/nd-20261030de68695",
-        "https://news.web.nhk/newsweb/na/nd-20261030de68703",
-        "https://news.web.nhk/newsweb/na/nd-20261030de68704",
-        "https://news.web.nhk/newsweb/na/nd-20261030de68689"
+        "https://news.web.nhk/newsweb/na/nd-20261030de68703"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/sam-altman-ai-cybersecurity-bug-patching/",
