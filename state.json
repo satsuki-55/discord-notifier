@@ -64,6 +64,8 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cqglwjdgg045o#0",
+        "https://www.bbc.co.uk/news/articles/ckpdg7l2nd9wo#1",
         "https://www.bbc.co.uk/news/articles/cwy8lm1m59mvo#0",
         "https://www.bbc.co.uk/sport/football/articles/c6y0e79yjg44o#1",
         "https://www.bbc.co.uk/news/articles/cw23d5z87drpo#1",
@@ -261,9 +263,7 @@
         "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o#0",
         "https://www.bbc.co.uk/news/articles/c9146yve236lo#1",
         "https://www.bbc.co.uk/sport/athletics/articles/cn81px29032o#1",
-        "https://www.bbc.co.uk/news/articles/cmqln14rrzxvo#1",
-        "https://www.bbc.co.uk/news/articles/c6rry8x9d9qko#1",
-        "https://www.bbc.co.uk/news/articles/c6rry8x9d9qko#0"
+        "https://www.bbc.co.uk/news/articles/cmqln14rrzxvo#1"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20261030de68737",
@@ -468,6 +468,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261030de68743"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/hmd-terra-m-phone/",
         "https://www.gizmodo.jp/article/2611-us-military-freezer-cyberattack-ice-cream/",
         "https://www.gizmodo.jp/article/elon-musk-ai-retirement-savings/",
         "https://www.gizmodo.jp/article/2611-native-american-casino-prediction-app/",
@@ -666,8 +667,7 @@
         "https://www.gizmodo.jp/article/d88d0f9a-70cd-421f-88ce-6dc9da47010a/",
         "https://www.gizmodo.jp/article/montbell_aluminum-whistle/",
         "https://www.gizmodo.jp/article/2610-keychron-c3-pro-trackball-gizmart/",
-        "https://www.gizmodo.jp/article/2610-ipad-mini-oled-no-promotion/",
-        "https://www.gizmodo.jp/article/2610-magsafe-ring-light-smartphone-photography/"
+        "https://www.gizmodo.jp/article/2610-ipad-mini-oled-no-promotion/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "x7--vjFSfK8",
