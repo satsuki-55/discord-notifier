@@ -266,6 +266,7 @@
         "https://www.bbc.co.uk/news/videos/ck0j0y87j303o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261103de69940",
         "https://news.web.nhk/newsweb/na/nd-20261103de69938",
         "https://news.web.nhk/newsweb/na/nd-20261103de69903",
         "https://news.web.nhk/newsweb/na/nd-20261103de69943",
@@ -464,10 +465,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261030de68664",
         "https://news.web.nhk/newsweb/na/nd-20261030de68556",
         "https://news.web.nhk/newsweb/na/nd-20261030de68585",
-        "https://news.web.nhk/newsweb/na/nd-20261030de68530",
-        "https://news.web.nhk/newsweb/na/nd-20261030de68476"
+        "https://news.web.nhk/newsweb/na/nd-20261030de68530"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/descente_zenchikei-shell-jacket/",
         "https://www.gizmodo.jp/article/2610-warren-buffett-investing-advice-stocks-spx-index-funds-strategy-berkshire-kji/",
         "https://www.gizmodo.jp/article/2611-nerv-youtube-live-disaster-info/",
         "https://www.gizmodo.jp/article/2611-ram-boost-review/",
@@ -666,8 +667,7 @@
         "https://www.gizmodo.jp/article/2610-cassette-tape-hdd-case/",
         "https://www.gizmodo.jp/article/2610-kinoko-no-yama-wireless-earphones-pro/",
         "https://www.gizmodo.jp/article/2610-touch-macbook-pro-cooling-lightweight/",
-        "https://www.gizmodo.jp/article/instagram-features-long-video/",
-        "https://www.gizmodo.jp/article/windows-xp-bliss-hill-today/"
+        "https://www.gizmodo.jp/article/instagram-features-long-video/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "x7--vjFSfK8",
