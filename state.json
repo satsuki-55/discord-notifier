@@ -266,6 +266,8 @@
         "https://www.bbc.co.uk/news/articles/c6lykpepxk0eo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261103de70056",
+        "https://news.web.nhk/newsweb/na/nd-20261030de68714",
         "https://news.web.nhk/newsweb/na/nd-20261030de68701",
         "https://news.web.nhk/newsweb/na/nd-20261103de70051",
         "https://news.web.nhk/newsweb/na/nd-20261030de68713",
@@ -463,9 +465,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261030de68724",
         "https://news.web.nhk/newsweb/na/nd-20261030de68743",
         "https://news.web.nhk/newsweb/na/nd-20261030de68756",
-        "https://news.web.nhk/newsweb/na/nd-20261030de68737",
-        "https://news.web.nhk/newsweb/na/nd-20261030de68715",
-        "https://news.web.nhk/newsweb/na/nd-20261030de68711"
+        "https://news.web.nhk/newsweb/na/nd-20261030de68737"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/elon-musk-ai-retirement-savings/",
