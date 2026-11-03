@@ -64,6 +64,8 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/videos/cmvg9w5w2p1no#0",
+        "https://www.bbc.co.uk/news/articles/cked3j989ex0o#1",
         "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo#0",
         "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo#1",
         "https://www.bbc.co.uk/news/articles/cm5ynekkn5qko#0",
@@ -261,9 +263,7 @@
         "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o#1",
         "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o#0",
         "https://www.bbc.co.uk/news/articles/cm4g18l8l4wgo#0",
-        "https://www.bbc.co.uk/news/articles/cv369266644lo#1",
-        "https://www.bbc.co.uk/news/videos/cmy83w0jwznpo#1",
-        "https://www.bbc.co.uk/news/articles/cm4g18l8l4wgo#1"
+        "https://www.bbc.co.uk/news/articles/cv369266644lo#1"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20261103de69916",
@@ -468,6 +468,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261030de68521"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2611-nerv-youtube-live-disaster-info/",
         "https://www.gizmodo.jp/article/2611-ram-boost-review/",
         "https://www.gizmodo.jp/article/youll-never-guess-how-scalpers-are-reportedly-snagging-rare-iphone-duos/",
         "https://www.gizmodo.jp/article/2610-nape-pro-se-skeleton/",
@@ -666,8 +667,7 @@
         "https://www.gizmodo.jp/article/2610-touch-macbook-pro-cooling-lightweight/",
         "https://www.gizmodo.jp/article/instagram-features-long-video/",
         "https://www.gizmodo.jp/article/windows-xp-bliss-hill-today/",
-        "https://www.gizmodo.jp/article/spacex-hiring-sushi-chef/",
-        "https://www.gizmodo.jp/article/metas-smart-glasses-recording-without-consent/"
+        "https://www.gizmodo.jp/article/spacex-hiring-sushi-chef/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "x7--vjFSfK8",
