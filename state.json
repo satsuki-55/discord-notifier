@@ -64,6 +64,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cq2d6k4r5n9ro#1",
         "https://www.bbc.co.uk/news/videos/cmvg9w5w2p1no#0",
         "https://www.bbc.co.uk/news/articles/cked3j989ex0o#1",
         "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo#0",
@@ -262,10 +263,10 @@
         "https://www.bbc.co.uk/news/videos/ck0j0y87j303o#0",
         "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o#1",
         "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o#0",
-        "https://www.bbc.co.uk/news/articles/cm4g18l8l4wgo#0",
-        "https://www.bbc.co.uk/news/articles/cv369266644lo#1"
+        "https://www.bbc.co.uk/news/articles/cm4g18l8l4wgo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261103de69936",
         "https://news.web.nhk/newsweb/na/nd-20261103de69927",
         "https://news.web.nhk/newsweb/na/nd-20261103de69916",
         "https://news.web.nhk/newsweb/na/nd-20261103de69910",
@@ -464,8 +465,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261030de68476",
         "https://news.web.nhk/newsweb/na/nd-20261030de68519",
         "https://news.web.nhk/newsweb/na/nd-20261030de68570",
-        "https://news.web.nhk/newsweb/na/nd-20261030de68457",
-        "https://news.web.nhk/newsweb/na/nd-20261030de68213"
+        "https://news.web.nhk/newsweb/na/nd-20261030de68457"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-nerv-youtube-live-disaster-info/",
