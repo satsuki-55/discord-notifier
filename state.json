@@ -265,6 +265,8 @@
         "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261103de69916",
+        "https://news.web.nhk/newsweb/na/nd-20261103de69910",
         "https://news.web.nhk/newsweb/na/nd-20261103de69908",
         "https://news.web.nhk/newsweb/na/nd-20261103de69892",
         "https://news.web.nhk/newsweb/na/nd-20261103de69879",
@@ -462,9 +464,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261030de68570",
         "https://news.web.nhk/newsweb/na/nd-20261030de68457",
         "https://news.web.nhk/newsweb/na/nd-20261030de68213",
-        "https://news.web.nhk/newsweb/na/nd-20261030de68521",
-        "https://news.web.nhk/newsweb/na/nd-20261030de68376",
-        "https://news.web.nhk/newsweb/na/nd-20261030de68515"
+        "https://news.web.nhk/newsweb/na/nd-20261030de68521"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-nape-pro-se-skeleton/",
