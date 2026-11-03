@@ -467,6 +467,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261030de68496"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/gemini_resize_reposts/",
         "https://www.gizmodo.jp/article/2611-claude-hidden-message-image-steganography/",
         "https://www.gizmodo.jp/article/ipad-mini-battery-capacity-oled/",
         "https://www.gizmodo.jp/article/2611-linux-kernel-vulnerability-multipath-tcp/",
@@ -665,8 +666,7 @@
         "https://www.gizmodo.jp/article/metas-smart-glasses-recording-without-consent/",
         "https://www.gizmodo.jp/article/fuze-moved-to-gizmodo/",
         "https://www.gizmodo.jp/article/febcaa3b-e112-4184-a6b6-c9a914d92e10/",
-        "https://www.gizmodo.jp/article/2610-google-brotli-vulnerability-php/",
-        "https://www.gizmodo.jp/article/2610-panasonic-mini-component-production-end/"
+        "https://www.gizmodo.jp/article/2610-google-brotli-vulnerability-php/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "x7--vjFSfK8",
