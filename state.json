@@ -64,6 +64,8 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cwy8lm1m59mvo#0",
+        "https://www.bbc.co.uk/sport/football/articles/c6y0e79yjg44o#1",
         "https://www.bbc.co.uk/news/articles/cw23d5z87drpo#1",
         "https://www.bbc.co.uk/news/articles/c6wyrm92jdpvo#0",
         "https://www.bbc.co.uk/news/articles/cq0ld5zw3eg3o#1",
@@ -261,11 +263,10 @@
         "https://www.bbc.co.uk/sport/athletics/articles/cn81px29032o#1",
         "https://www.bbc.co.uk/news/articles/cmqln14rrzxvo#1",
         "https://www.bbc.co.uk/news/articles/c6rry8x9d9qko#1",
-        "https://www.bbc.co.uk/news/articles/c6rry8x9d9qko#0",
-        "https://www.bbc.co.uk/news/articles/cmkgq0v87z8zo#0",
-        "https://www.bbc.co.uk/news/articles/c6lykpepxk0eo#1"
+        "https://www.bbc.co.uk/news/articles/c6rry8x9d9qko#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261030de68737",
         "https://news.web.nhk/newsweb/na/nd-20261103de70061",
         "https://news.web.nhk/newsweb/na/nd-20261103de70056",
         "https://news.web.nhk/newsweb/na/nd-20261030de68714",
@@ -464,8 +465,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261030de68752",
         "https://news.web.nhk/newsweb/na/nd-20261030de68722",
         "https://news.web.nhk/newsweb/na/nd-20261030de68724",
-        "https://news.web.nhk/newsweb/na/nd-20261030de68743",
-        "https://news.web.nhk/newsweb/na/nd-20261030de68756"
+        "https://news.web.nhk/newsweb/na/nd-20261030de68743"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-us-military-freezer-cyberattack-ice-cream/",
