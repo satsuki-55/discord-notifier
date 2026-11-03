@@ -63,6 +63,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cwly3jd27m9xo#1",
         "https://www.bbc.co.uk/news/articles/c9rkypk1g7k0o#0",
         "https://www.bbc.co.uk/news/articles/cve8rp085zzjo#0",
         "https://www.bbc.co.uk/news/articles/c54g1xnm3pezo#1",
@@ -261,8 +262,7 @@
         "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o#1",
         "https://www.bbc.co.uk/news/articles/cqrky1p4dlm7o#1",
         "https://www.bbc.co.uk/news/articles/cxnv0p4l7rjlo#1",
-        "https://www.bbc.co.uk/news/articles/cj5ynryyep2yo#0",
-        "https://www.bbc.co.uk/news/articles/cmwyv2y7g9l8o#0"
+        "https://www.bbc.co.uk/news/articles/cj5ynryyep2yo#0"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20261103de69879",
@@ -467,6 +467,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261030de68478"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2611-claude-hidden-message-image-steganography/",
         "https://www.gizmodo.jp/article/ipad-mini-battery-capacity-oled/",
         "https://www.gizmodo.jp/article/2611-linux-kernel-vulnerability-multipath-tcp/",
         "https://www.gizmodo.jp/article/xiaomi-smart-band-11-japan/",
@@ -665,8 +666,7 @@
         "https://www.gizmodo.jp/article/fuze-moved-to-gizmodo/",
         "https://www.gizmodo.jp/article/febcaa3b-e112-4184-a6b6-c9a914d92e10/",
         "https://www.gizmodo.jp/article/2610-google-brotli-vulnerability-php/",
-        "https://www.gizmodo.jp/article/2610-panasonic-mini-component-production-end/",
-        "https://www.gizmodo.jp/article/306495-qmc/"
+        "https://www.gizmodo.jp/article/2610-panasonic-mini-component-production-end/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "x7--vjFSfK8",
