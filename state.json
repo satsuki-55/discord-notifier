@@ -265,6 +265,7 @@
         "https://www.bbc.co.uk/news/articles/c6x2w1znl8q1o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261103de69880",
         "https://news.web.nhk/newsweb/na/nd-20261103de69881",
         "https://news.web.nhk/newsweb/na/nd-20261103de69887",
         "https://news.web.nhk/newsweb/na/nd-20261103de69878",
@@ -463,8 +464,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261030de68515",
         "https://news.web.nhk/newsweb/na/nd-20261030de68496",
         "https://news.web.nhk/newsweb/na/nd-20261030de68478",
-        "https://news.web.nhk/newsweb/na/nd-20261030de68230",
-        "https://news.web.nhk/newsweb/na/nd-20261030de68469"
+        "https://news.web.nhk/newsweb/na/nd-20261030de68230"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/ipad-mini-battery-capacity-oled/",
