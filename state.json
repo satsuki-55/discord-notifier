@@ -266,6 +266,7 @@
         "https://www.bbc.co.uk/news/articles/cqx283v54zd6o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261103de70027",
         "https://news.web.nhk/newsweb/na/nd-20261103de70021",
         "https://news.web.nhk/newsweb/na/nd-20261103de70010",
         "https://news.web.nhk/newsweb/na/nd-20261103de69983",
@@ -464,8 +465,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261030de68726",
         "https://news.web.nhk/newsweb/na/nd-20261030de68713",
         "https://news.web.nhk/newsweb/na/nd-20261030de68678",
-        "https://news.web.nhk/newsweb/na/nd-20261030de68695",
-        "https://news.web.nhk/newsweb/na/nd-20261030de68703"
+        "https://news.web.nhk/newsweb/na/nd-20261030de68695"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/sam-altman-ai-cybersecurity-bug-patching/",
