@@ -64,6 +64,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cq5yn64wn2y7o#1",
         "https://www.bbc.co.uk/news/articles/cm9wz01dx8xro#0",
         "https://www.bbc.co.uk/news/articles/c64g14ene2epo#0",
         "https://www.bbc.co.uk/news/articles/cqx283v54zd6o#0",
@@ -262,10 +263,10 @@
         "https://www.bbc.co.uk/news/articles/cq5ynzvkn1d8o#1",
         "https://www.bbc.co.uk/news/videos/crwyd2lyj15go#0",
         "https://www.bbc.co.uk/news/articles/cq146562ld3no#0",
-        "https://www.bbc.co.uk/news/articles/ckjwez8g5dyeo#0",
-        "https://www.bbc.co.uk/news/articles/cmwy9qe5r1z3o#1"
+        "https://www.bbc.co.uk/news/articles/ckjwez8g5dyeo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261103de70038",
         "https://news.web.nhk/newsweb/na/nd-20261103de70035",
         "https://news.web.nhk/newsweb/na/nd-20261103de70027",
         "https://news.web.nhk/newsweb/na/nd-20261103de70021",
@@ -464,8 +465,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261030de68714",
         "https://news.web.nhk/newsweb/na/nd-20261030de68701",
         "https://news.web.nhk/newsweb/na/nd-20261030de68726",
-        "https://news.web.nhk/newsweb/na/nd-20261030de68713",
-        "https://news.web.nhk/newsweb/na/nd-20261030de68678"
+        "https://news.web.nhk/newsweb/na/nd-20261030de68713"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/m6-imac-hands-on/",
