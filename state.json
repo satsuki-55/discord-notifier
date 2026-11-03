@@ -63,6 +63,8 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cm3wv085ne6po#0",
+        "https://www.bbc.co.uk/news/articles/c9vgrvpk4l6eo#1",
         "https://www.bbc.co.uk/news/articles/ck79py02p1jlo#1",
         "https://www.bbc.co.uk/news/articles/cvwy7ljr5grpo#0",
         "https://www.bbc.co.uk/news/articles/c670pvxyp2pko#0",
@@ -260,11 +262,10 @@
         "https://www.bbc.co.uk/news/videos/cmeq3ppg7wrno#1",
         "https://www.bbc.co.uk/news/articles/cmd6dp2y576do#0",
         "https://www.bbc.co.uk/news/articles/cm5yn7d0qx1do#2",
-        "https://www.bbc.co.uk/news/articles/ckreypn92w49o#2",
-        "https://www.bbc.co.uk/news/articles/ckq6nz4286r4o#2",
-        "https://www.bbc.co.uk/news/articles/cmjwepvd0qq9o#2"
+        "https://www.bbc.co.uk/news/articles/ckreypn92w49o#2"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261103de69878",
         "https://news.web.nhk/newsweb/na/nd-20261102de69570",
         "https://news.web.nhk/newsweb/na/nd-20261103de69859",
         "https://news.web.nhk/newsweb/na/nd-20261103de69869",
@@ -463,8 +464,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261030de68230",
         "https://news.web.nhk/newsweb/na/nd-20261030de68469",
         "https://news.web.nhk/newsweb/na/nd-20261030de68484",
-        "https://news.web.nhk/newsweb/na/nd-20261030de68482",
-        "https://news.web.nhk/newsweb/na/nd-20261030de68510"
+        "https://news.web.nhk/newsweb/na/nd-20261030de68482"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-linux-kernel-vulnerability-multipath-tcp/",
