@@ -266,6 +266,7 @@
         "https://www.bbc.co.uk/news/articles/cje36degrgv5o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261103de70007",
         "https://news.web.nhk/newsweb/na/nd-20261103de69986",
         "https://news.web.nhk/newsweb/na/nd-20261103de69969",
         "https://news.web.nhk/newsweb/na/nd-20261103de69962",
@@ -464,10 +465,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261030de68703",
         "https://news.web.nhk/newsweb/na/nd-20261030de68704",
         "https://news.web.nhk/newsweb/na/nd-20261030de68689",
-        "https://news.web.nhk/newsweb/na/nd-20261030de68624",
-        "https://news.web.nhk/newsweb/na/nd-20261030de68694"
+        "https://news.web.nhk/newsweb/na/nd-20261030de68624"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/sam-altman-ai-cybersecurity-bug-patching/",
         "https://www.gizmodo.jp/article/2611-maku-kotatsu/",
         "https://www.gizmodo.jp/article/descente_zenchikei-shell-jacket/",
         "https://www.gizmodo.jp/article/2610-warren-buffett-investing-advice-stocks-spx-index-funds-strategy-berkshire-kji/",
@@ -666,8 +667,7 @@
         "https://www.gizmodo.jp/article/2610-collage-d-soap-dry-skin/",
         "https://www.gizmodo.jp/article/pixel-6-security-update-support-october-2026/",
         "https://www.gizmodo.jp/article/2610-cassette-tape-hdd-case/",
-        "https://www.gizmodo.jp/article/2610-kinoko-no-yama-wireless-earphones-pro/",
-        "https://www.gizmodo.jp/article/2610-touch-macbook-pro-cooling-lightweight/"
+        "https://www.gizmodo.jp/article/2610-kinoko-no-yama-wireless-earphones-pro/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "x7--vjFSfK8",
