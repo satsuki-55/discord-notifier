@@ -265,6 +265,7 @@
         "https://www.bbc.co.uk/news/articles/cj5ynryyep2yo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261103de69892",
         "https://news.web.nhk/newsweb/na/nd-20261103de69879",
         "https://news.web.nhk/newsweb/na/nd-20261103de69880",
         "https://news.web.nhk/newsweb/na/nd-20261103de69881",
@@ -463,8 +464,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261030de68521",
         "https://news.web.nhk/newsweb/na/nd-20261030de68376",
         "https://news.web.nhk/newsweb/na/nd-20261030de68515",
-        "https://news.web.nhk/newsweb/na/nd-20261030de68496",
-        "https://news.web.nhk/newsweb/na/nd-20261030de68478"
+        "https://news.web.nhk/newsweb/na/nd-20261030de68496"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-claude-hidden-message-image-steganography/",
