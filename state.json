@@ -266,6 +266,7 @@
         "https://www.bbc.co.uk/news/articles/crpdgp4y017go#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261104de70092",
         "https://news.web.nhk/newsweb/na/nd-20261030de68724",
         "https://news.web.nhk/newsweb/na/nd-20261104de70098",
         "https://news.web.nhk/newsweb/na/nd-20261103de70067",
@@ -464,8 +465,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261030de68501",
         "https://news.web.nhk/newsweb/na/nd-20261030de68772",
         "https://news.web.nhk/newsweb/na/nd-20261030de68739",
-        "https://news.web.nhk/newsweb/na/nd-20261030de68736",
-        "https://news.web.nhk/newsweb/na/nd-20261030de68752"
+        "https://news.web.nhk/newsweb/na/nd-20261030de68736"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/hmd-terra-m-phone/",
