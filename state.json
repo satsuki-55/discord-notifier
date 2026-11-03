@@ -265,6 +265,7 @@
         "https://www.bbc.co.uk/news/articles/c6x2w1znl8q1o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261103de69881",
         "https://news.web.nhk/newsweb/na/nd-20261103de69887",
         "https://news.web.nhk/newsweb/na/nd-20261103de69878",
         "https://news.web.nhk/newsweb/na/nd-20261102de69570",
@@ -463,10 +464,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261030de68496",
         "https://news.web.nhk/newsweb/na/nd-20261030de68478",
         "https://news.web.nhk/newsweb/na/nd-20261030de68230",
-        "https://news.web.nhk/newsweb/na/nd-20261030de68469",
-        "https://news.web.nhk/newsweb/na/nd-20261030de68484"
+        "https://news.web.nhk/newsweb/na/nd-20261030de68469"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/ipad-mini-battery-capacity-oled/",
         "https://www.gizmodo.jp/article/2611-linux-kernel-vulnerability-multipath-tcp/",
         "https://www.gizmodo.jp/article/xiaomi-smart-band-11-japan/",
         "https://www.gizmodo.jp/article/2611-cardboard-shredder-dansukesan/",
@@ -665,8 +666,7 @@
         "https://www.gizmodo.jp/article/febcaa3b-e112-4184-a6b6-c9a914d92e10/",
         "https://www.gizmodo.jp/article/2610-google-brotli-vulnerability-php/",
         "https://www.gizmodo.jp/article/2610-panasonic-mini-component-production-end/",
-        "https://www.gizmodo.jp/article/306495-qmc/",
-        "https://www.gizmodo.jp/article/9040df38-b8df-4170-8768-4c53772e1bf2/"
+        "https://www.gizmodo.jp/article/306495-qmc/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "x7--vjFSfK8",
