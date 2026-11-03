@@ -266,6 +266,7 @@
         "https://www.bbc.co.uk/news/articles/c6lykpepxk0eo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261103de70051",
         "https://news.web.nhk/newsweb/na/nd-20261030de68713",
         "https://news.web.nhk/newsweb/na/nd-20261103de70050",
         "https://news.web.nhk/newsweb/na/nd-20261103de70038",
@@ -464,10 +465,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261030de68737",
         "https://news.web.nhk/newsweb/na/nd-20261030de68715",
         "https://news.web.nhk/newsweb/na/nd-20261030de68711",
-        "https://news.web.nhk/newsweb/na/nd-20261030de68714",
-        "https://news.web.nhk/newsweb/na/nd-20261030de68701"
+        "https://news.web.nhk/newsweb/na/nd-20261030de68714"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/elon-musk-ai-retirement-savings/",
         "https://www.gizmodo.jp/article/2611-native-american-casino-prediction-app/",
         "https://www.gizmodo.jp/article/ebay-gpu-9600-sale/",
         "https://www.gizmodo.jp/article/m6-imac-hands-on/",
@@ -666,8 +667,7 @@
         "https://www.gizmodo.jp/article/2610-keychron-c3-pro-trackball-gizmart/",
         "https://www.gizmodo.jp/article/2610-ipad-mini-oled-no-promotion/",
         "https://www.gizmodo.jp/article/2610-magsafe-ring-light-smartphone-photography/",
-        "https://www.gizmodo.jp/article/2610-vortex-tech-sound-fire-extinguisher/",
-        "https://www.gizmodo.jp/article/2610-collage-d-soap-dry-skin/"
+        "https://www.gizmodo.jp/article/2610-vortex-tech-sound-fire-extinguisher/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "x7--vjFSfK8",
