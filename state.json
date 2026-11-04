@@ -64,6 +64,9 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/videos/c8040gkq5563o#0",
+        "https://www.bbc.co.uk/news/articles/cr5ynl415j79o#0",
+        "https://www.bbc.co.uk/news/articles/cm9qz93ew22no#2",
         "https://www.bbc.co.uk/news/articles/cm9qz93ew22no#0",
         "https://www.bbc.co.uk/news/articles/c69wzxw2pvv0o#0",
         "https://www.bbc.co.uk/news/articles/c820vz6wyp65o#0",
@@ -260,12 +263,10 @@
         "https://www.bbc.co.uk/news/articles/cmjwe9nggp60o#1",
         "https://www.bbc.co.uk/news/articles/cr0qkve1x224o#1",
         "https://www.bbc.co.uk/news/articles/cr0qkve1x224o#0",
-        "https://www.bbc.co.uk/news/articles/c98rz4pxm4ymo#1",
-        "https://www.bbc.co.uk/news/articles/cmjwe9nggp60o#0",
-        "https://www.bbc.co.uk/news/articles/cwvg05z184j0o#1",
-        "https://www.bbc.co.uk/news/videos/cwly0eev3m44o#1"
+        "https://www.bbc.co.uk/news/articles/c98rz4pxm4ymo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261104de70131",
         "https://news.web.nhk/newsweb/na/nd-20261104de70124",
         "https://news.web.nhk/newsweb/na/nd-20261103de69965",
         "https://news.web.nhk/newsweb/na/nd-20261104de70105",
@@ -464,8 +465,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261031de68818",
         "https://news.web.nhk/newsweb/na/nd-20261031de68824",
         "https://news.web.nhk/newsweb/na/nd-20261031de68821",
-        "https://news.web.nhk/newsweb/na/nd-20261031de68798",
-        "https://news.web.nhk/newsweb/na/nd-20261031de68799"
+        "https://news.web.nhk/newsweb/na/nd-20261031de68798"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-amazon-ai-investment-free-cash-flow/",
