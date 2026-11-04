@@ -66,6 +66,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/ckly0vvx41y3o#2",
         "https://www.bbc.co.uk/news/articles/c699zdx9knmpo#1",
         "https://www.bbc.co.uk/news/articles/c893z55pxrewo#1",
         "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo#0",
@@ -264,10 +265,11 @@
         "https://www.bbc.co.uk/news/videos/cmwyvrgk9p0ro#1",
         "https://www.bbc.co.uk/news/articles/cx4g1ve5ylg7o#1",
         "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo#1",
-        "https://www.bbc.co.uk/news/articles/ckg5jlyp66jzo#0",
-        "https://www.bbc.co.uk/news/articles/ckly0v2q2yxlo#0"
+        "https://www.bbc.co.uk/news/articles/ckg5jlyp66jzo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261104de70587",
+        "https://news.web.nhk/newsweb/na/nd-20261104de70597",
         "https://news.web.nhk/newsweb/na/nd-20261104de70600",
         "https://news.web.nhk/newsweb/na/nd-20261104de70577",
         "https://news.web.nhk/newsweb/na/nd-20261104de70234",
@@ -465,11 +467,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261101de69210",
         "https://news.web.nhk/newsweb/na/nd-20261101de69198",
         "https://news.web.nhk/newsweb/na/nd-20261101de69181",
-        "https://news.web.nhk/newsweb/na/nd-20261101de69168",
-        "https://news.web.nhk/newsweb/na/nd-20261101de69096",
-        "https://news.web.nhk/newsweb/na/nd-20261101de69134"
+        "https://news.web.nhk/newsweb/na/nd-20261101de69168"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/liquid-metal-security-tag/",
         "https://www.gizmodo.jp/article/roborock-saros-20-flow/",
         "https://www.gizmodo.jp/article/char_aznable_hosereel_x3/",
         "https://www.gizmodo.jp/article/2611-black-october-cyber-security-2026/",
@@ -668,8 +669,7 @@
         "https://www.gizmodo.jp/article/ring-smart-lock-power-dial/",
         "https://www.gizmodo.jp/article/2610-sony-spatial-reality-display-elf-mn1/",
         "https://www.gizmodo.jp/article/dummy-tv-2/",
-        "https://www.gizmodo.jp/article/ecoflow-delta-3800-gen4-desk/",
-        "https://www.gizmodo.jp/article/2610-gemini-4-carbon/"
+        "https://www.gizmodo.jp/article/ecoflow-delta-3800-gen4-desk/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "x7--vjFSfK8",
