@@ -268,6 +268,8 @@
         "https://www.bbc.co.uk/news/articles/c6rryvwre0p5o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261031de68859",
+        "https://news.web.nhk/newsweb/na/nd-20261104de70370",
         "https://news.web.nhk/newsweb/na/nd-20261028de66992",
         "https://news.web.nhk/newsweb/na/nd-20261028de66991",
         "https://news.web.nhk/newsweb/na/nd-20261104de70362",
@@ -465,11 +467,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261031de69037",
         "https://news.web.nhk/newsweb/na/nd-20261031de69033",
         "https://news.web.nhk/newsweb/na/nd-20261031de69043",
-        "https://news.web.nhk/newsweb/na/nd-20261031de69034",
-        "https://news.web.nhk/newsweb/na/nd-20261031de69024",
-        "https://news.web.nhk/newsweb/na/nd-20261031de68863"
+        "https://news.web.nhk/newsweb/na/nd-20261031de69034"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2611-reddit-login-required-ads-ai/",
         "https://www.gizmodo.jp/article/wikipedia-ai-cleanup-human-written/",
         "https://www.gizmodo.jp/article/2611-tokyocrafts-diafort-tc-tent/",
         "https://www.gizmodo.jp/article/2611-iphone-duo-claude/",
@@ -668,8 +669,7 @@
         "https://www.gizmodo.jp/article/2610-microsoft-authenticator-vulnerability-android/",
         "https://www.gizmodo.jp/article/2610-ikea-furniture-assembly-guide/",
         "https://www.gizmodo.jp/article/2610-artificial-analysis-intelligence-index-v5/",
-        "https://www.gizmodo.jp/article/7f4969ca-d5fb-410e-aa06-4e414fb1d99c/",
-        "https://www.gizmodo.jp/article/e5ca22ab-fe32-4234-ac3d-1046170aec39/"
+        "https://www.gizmodo.jp/article/7f4969ca-d5fb-410e-aa06-4e414fb1d99c/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "x7--vjFSfK8",
