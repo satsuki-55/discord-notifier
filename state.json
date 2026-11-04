@@ -268,6 +268,7 @@
         "https://www.bbc.co.uk/news/videos/cmwyvrgk9p0ro#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261104de70615",
         "https://news.web.nhk/newsweb/na/nd-20261104de70610",
         "https://news.web.nhk/newsweb/na/nd-20261104de70587",
         "https://news.web.nhk/newsweb/na/nd-20261104de70597",
@@ -466,8 +467,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261101de69223",
         "https://news.web.nhk/newsweb/na/nd-20261101de69207",
         "https://news.web.nhk/newsweb/na/nd-20261101de69210",
-        "https://news.web.nhk/newsweb/na/nd-20261101de69198",
-        "https://news.web.nhk/newsweb/na/nd-20261101de69181"
+        "https://news.web.nhk/newsweb/na/nd-20261101de69198"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-openai-tamagpt-gadget/",
