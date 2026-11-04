@@ -268,6 +268,7 @@
         "https://www.bbc.co.uk/news/articles/cq98z0l98kp4o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261105de70698",
         "https://news.web.nhk/newsweb/na/nd-20261105de70681",
         "https://news.web.nhk/newsweb/na/nd-20261104de70660",
         "https://news.web.nhk/newsweb/na/nd-20261104de70670",
@@ -466,8 +467,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261102de69321",
         "https://news.web.nhk/newsweb/na/nd-20261102de69318",
         "https://news.web.nhk/newsweb/na/nd-20261101de69285",
-        "https://news.web.nhk/newsweb/na/nd-20261101de69281",
-        "https://news.web.nhk/newsweb/na/nd-20261101de69229"
+        "https://news.web.nhk/newsweb/na/nd-20261101de69281"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/lenovo-tab_review-dh8-phone/",
