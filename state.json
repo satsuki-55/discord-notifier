@@ -66,6 +66,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c6z98z5z91ppo#0",
         "https://www.bbc.co.uk/news/articles/c977p01kgmmko#1",
         "https://www.bbc.co.uk/news/articles/c8vgxyvz6y9ro#2",
         "https://www.bbc.co.uk/news/articles/c8vgxyvz6y9ro#0",
@@ -264,10 +265,10 @@
         "https://www.bbc.co.uk/news/articles/cw1l32qyj8pqo#0",
         "https://www.bbc.co.uk/news/articles/c54g1xnm3pezo#0",
         "https://www.bbc.co.uk/news/articles/cq98z0l98kp4o#1",
-        "https://www.bbc.co.uk/weather/articles/cq98zrwd42jzo#0",
-        "https://www.bbc.co.uk/news/articles/ck79py02p1jlo#0"
+        "https://www.bbc.co.uk/weather/articles/cq98zrwd42jzo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261105de70681",
         "https://news.web.nhk/newsweb/na/nd-20261104de70660",
         "https://news.web.nhk/newsweb/na/nd-20261104de70670",
         "https://news.web.nhk/newsweb/na/nd-20261104de70666",
@@ -466,8 +467,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261102de69318",
         "https://news.web.nhk/newsweb/na/nd-20261101de69285",
         "https://news.web.nhk/newsweb/na/nd-20261101de69281",
-        "https://news.web.nhk/newsweb/na/nd-20261101de69229",
-        "https://news.web.nhk/newsweb/na/nd-20261101de69232"
+        "https://news.web.nhk/newsweb/na/nd-20261101de69229"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/lenovo-tab_review-dh8-phone/",
