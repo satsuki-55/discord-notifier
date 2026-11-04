@@ -64,6 +64,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cm8ezneewr9lo#2",
         "https://www.bbc.co.uk/news/articles/cqvg0y44ym7vo#0",
         "https://www.bbc.co.uk/news/articles/c6vg0xzd0ln4o#1",
         "https://www.bbc.co.uk/news/articles/cqwyrmm2k4mpo#1",
@@ -262,10 +263,10 @@
         "https://www.bbc.co.uk/news/articles/cq78pypg0800o#1",
         "https://www.bbc.co.uk/news/articles/c8zxle6qq4q0o#1",
         "https://www.bbc.co.uk/news/videos/cjly0p753dxxo#1",
-        "https://www.bbc.co.uk/news/articles/c3j47g4kk1npo#1",
-        "https://www.bbc.co.uk/news/articles/cr93zxyn9eqeo#0"
+        "https://www.bbc.co.uk/news/articles/c3j47g4kk1npo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261104de70162",
         "https://news.web.nhk/newsweb/na/nd-20261104de70160",
         "https://news.web.nhk/newsweb/na/nd-20261104de70148",
         "https://news.web.nhk/newsweb/na/nd-20261104de70151",
@@ -464,8 +465,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261031de68828",
         "https://news.web.nhk/newsweb/na/nd-20261031de68827",
         "https://news.web.nhk/newsweb/na/nd-20261031de68812",
-        "https://news.web.nhk/newsweb/na/nd-20261031de68825",
-        "https://news.web.nhk/newsweb/na/nd-20261031de68816"
+        "https://news.web.nhk/newsweb/na/nd-20261031de68825"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-plaud-intelligence-review/",
