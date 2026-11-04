@@ -66,6 +66,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c6073l9y15xxo#1",
         "https://www.bbc.co.uk/news/articles/cmq8nj23v8qqo#0",
         "https://www.bbc.co.uk/news/articles/c6d934npl9y8o#0",
         "https://www.bbc.co.uk/news/articles/c6d934npl9y8o#2",
@@ -264,10 +265,13 @@
         "https://www.bbc.co.uk/news/articles/cm5ynve7q1zdo#1",
         "https://www.bbc.co.uk/news/articles/c893z5y94nxko#1",
         "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo#0",
-        "https://www.bbc.co.uk/news/articles/cq0ld5zw3eg3o#0",
-        "https://www.bbc.co.uk/news/articles/c6rryvwre0p5o#0"
+        "https://www.bbc.co.uk/news/articles/cq0ld5zw3eg3o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261104de70394",
+        "https://news.web.nhk/newsweb/na/nd-20261104de70525",
+        "https://news.web.nhk/newsweb/na/nd-20261104de70438",
+        "https://news.web.nhk/newsweb/na/nd-20261104de70494",
         "https://news.web.nhk/newsweb/na/nd-20261104de70462",
         "https://news.web.nhk/newsweb/na/nd-20261104de70425",
         "https://news.web.nhk/newsweb/na/nd-20261104de70319",
@@ -463,13 +467,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261101de69067",
         "https://news.web.nhk/newsweb/na/nd-20261101de69068",
         "https://news.web.nhk/newsweb/na/nd-20261101de69059",
-        "https://news.web.nhk/newsweb/na/nd-20261101de69063",
-        "https://news.web.nhk/newsweb/na/nd-20261031de69022",
-        "https://news.web.nhk/newsweb/na/nd-20261031de69039",
-        "https://news.web.nhk/newsweb/na/nd-20261101de69057",
-        "https://news.web.nhk/newsweb/na/nd-20261101de69060"
+        "https://news.web.nhk/newsweb/na/nd-20261101de69063"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2611-music-taste-sonic-seasoning/",
         "https://www.gizmodo.jp/article/2611-amazon-kindle-sale-autumn/",
         "https://www.gizmodo.jp/article/2611-reddit-login-required-ads-ai/",
         "https://www.gizmodo.jp/article/wikipedia-ai-cleanup-human-written/",
@@ -668,8 +669,7 @@
         "https://www.gizmodo.jp/article/smart-rechargeable-battery/",
         "https://www.gizmodo.jp/article/2610-amazon-ai-nuclear-power/",
         "https://www.gizmodo.jp/article/2610-microsoft-authenticator-vulnerability-android/",
-        "https://www.gizmodo.jp/article/2610-ikea-furniture-assembly-guide/",
-        "https://www.gizmodo.jp/article/2610-artificial-analysis-intelligence-index-v5/"
+        "https://www.gizmodo.jp/article/2610-ikea-furniture-assembly-guide/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "x7--vjFSfK8",
