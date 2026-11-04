@@ -268,6 +268,7 @@
         "https://www.bbc.co.uk/news/articles/cwx28mngxz8do#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261104de70634",
         "https://news.web.nhk/newsweb/na/nd-20261104de70640",
         "https://news.web.nhk/newsweb/na/nd-20261104de70642",
         "https://news.web.nhk/newsweb/na/nd-20261104de70639",
@@ -466,8 +467,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261101de69246",
         "https://news.web.nhk/newsweb/na/nd-20261101de69264",
         "https://news.web.nhk/newsweb/na/nd-20261101de69104",
-        "https://news.web.nhk/newsweb/na/nd-20261101de69214",
-        "https://news.web.nhk/newsweb/na/nd-20261101de69224"
+        "https://news.web.nhk/newsweb/na/nd-20261101de69214"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-smart-sleeve-display-washable-clothing/",
