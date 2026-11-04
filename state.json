@@ -268,6 +268,8 @@
         "https://www.bbc.co.uk/news/articles/cv4g13z0px8yo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261104de70577",
+        "https://news.web.nhk/newsweb/na/nd-20261104de70234",
         "https://news.web.nhk/newsweb/na/nd-20261104de70569",
         "https://news.web.nhk/newsweb/na/nd-20261104de70404",
         "https://news.web.nhk/newsweb/na/nd-20261104de70544",
@@ -465,11 +467,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261101de69168",
         "https://news.web.nhk/newsweb/na/nd-20261101de69096",
         "https://news.web.nhk/newsweb/na/nd-20261101de69134",
-        "https://news.web.nhk/newsweb/na/nd-20261101de69124",
-        "https://news.web.nhk/newsweb/na/nd-20261101de69102",
-        "https://news.web.nhk/newsweb/na/nd-20261101de69103"
+        "https://news.web.nhk/newsweb/na/nd-20261101de69124"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2611-black-october-cyber-security-2026/",
         "https://www.gizmodo.jp/article/2611-claude-code-extension-security-incident/",
         "https://www.gizmodo.jp/article/2611-music-taste-sonic-seasoning/",
         "https://www.gizmodo.jp/article/2611-amazon-kindle-sale-autumn/",
@@ -668,8 +669,7 @@
         "https://www.gizmodo.jp/article/ecoflow-delta-3800-gen4-desk/",
         "https://www.gizmodo.jp/article/2610-gemini-4-carbon/",
         "https://www.gizmodo.jp/article/smart-rechargeable-battery/",
-        "https://www.gizmodo.jp/article/2610-amazon-ai-nuclear-power/",
-        "https://www.gizmodo.jp/article/2610-microsoft-authenticator-vulnerability-android/"
+        "https://www.gizmodo.jp/article/2610-amazon-ai-nuclear-power/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "x7--vjFSfK8",
