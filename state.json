@@ -268,6 +268,7 @@
         "https://www.bbc.co.uk/news/articles/cve8rp085zzjo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261105de70726",
         "https://news.web.nhk/newsweb/na/nd-20261105de70729",
         "https://news.web.nhk/newsweb/na/nd-20261104de70428",
         "https://news.web.nhk/newsweb/na/nd-20261101de69279",
@@ -466,10 +467,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261101de69267",
         "https://news.web.nhk/newsweb/na/nd-20261102de69327",
         "https://news.web.nhk/newsweb/na/nd-20261102de69325",
-        "https://news.web.nhk/newsweb/na/nd-20261102de69323",
-        "https://news.web.nhk/newsweb/na/nd-20261101de69275"
+        "https://news.web.nhk/newsweb/na/nd-20261102de69323"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2611-iphone-18-rumors-2nm-chip-battery/",
         "https://www.gizmodo.jp/article/2611-apple-watch-live-rewind-siri-recaps/",
         "https://www.gizmodo.jp/article/lenovo-tab_review-dh8-phone/",
         "https://www.gizmodo.jp/article/2611-android-nov-security-update-vulnerability/",
@@ -668,8 +669,7 @@
         "https://www.gizmodo.jp/article/echo-studio-with-home-camera-hands-on/",
         "https://www.gizmodo.jp/article/2610-shelly-chair-leg-cover-review/",
         "https://www.gizmodo.jp/article/mcdonalds-lenovo-collab-mouse/",
-        "https://www.gizmodo.jp/article/hoka_koshi-tantan_ekiden_collection/",
-        "https://www.gizmodo.jp/article/2610-meta-smart-glasses-privacy-lawsuit/"
+        "https://www.gizmodo.jp/article/hoka_koshi-tantan_ekiden_collection/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "x7--vjFSfK8",
