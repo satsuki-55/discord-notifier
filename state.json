@@ -66,6 +66,8 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo#0",
+        "https://www.bbc.co.uk/news/articles/crlykl5gl3x4o#2",
         "https://www.bbc.co.uk/news/articles/crlykl5gl3x4o#0",
         "https://www.bbc.co.uk/news/videos/cmvg9w5w2p1no#1",
         "https://www.bbc.co.uk/news/articles/c6073l9y15xxo#1",
@@ -263,11 +265,10 @@
         "https://www.bbc.co.uk/news/articles/ckg5jlyp66jzo#0",
         "https://www.bbc.co.uk/news/articles/ckly0v2q2yxlo#0",
         "https://www.bbc.co.uk/news/articles/cv4g13z0px8yo#1",
-        "https://www.bbc.co.uk/news/articles/ckg5jlyp66jzo#1",
-        "https://www.bbc.co.uk/news/articles/cm5ynve7q1zdo#1",
-        "https://www.bbc.co.uk/news/articles/c893z5y94nxko#1"
+        "https://www.bbc.co.uk/news/articles/ckg5jlyp66jzo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261104de70554",
         "https://news.web.nhk/newsweb/na/nd-20261104de70523",
         "https://news.web.nhk/newsweb/na/nd-20261104de70488",
         "https://news.web.nhk/newsweb/na/nd-20261104de70412",
@@ -466,8 +467,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261101de69103",
         "https://news.web.nhk/newsweb/na/nd-20261101de69105",
         "https://news.web.nhk/newsweb/na/nd-20261101de69087",
-        "https://news.web.nhk/newsweb/na/nd-20261101de69077",
-        "https://news.web.nhk/newsweb/na/nd-20261101de69083"
+        "https://news.web.nhk/newsweb/na/nd-20261101de69077"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-music-taste-sonic-seasoning/",
