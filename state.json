@@ -268,6 +268,7 @@
         "https://www.bbc.co.uk/news/articles/cwvg0x7rd402o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261104de70362",
         "https://news.web.nhk/newsweb/na/nd-20261104de70346",
         "https://news.web.nhk/newsweb/na/nd-20261104de70310",
         "https://news.web.nhk/newsweb/na/nd-20261104de70229",
@@ -466,8 +467,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261031de69024",
         "https://news.web.nhk/newsweb/na/nd-20261031de68863",
         "https://news.web.nhk/newsweb/na/nd-20261031de68859",
-        "https://news.web.nhk/newsweb/na/nd-20261031de69005",
-        "https://news.web.nhk/newsweb/na/nd-20261031de68988"
+        "https://news.web.nhk/newsweb/na/nd-20261031de69005"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/wikipedia-ai-cleanup-human-written/",
