@@ -66,6 +66,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c699zdx9knmpo#1",
         "https://www.bbc.co.uk/news/articles/c893z55pxrewo#1",
         "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo#0",
         "https://www.bbc.co.uk/news/articles/crlykl5gl3x4o#2",
@@ -264,8 +265,7 @@
         "https://www.bbc.co.uk/news/articles/cx4g1ve5ylg7o#1",
         "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo#1",
         "https://www.bbc.co.uk/news/articles/ckg5jlyp66jzo#0",
-        "https://www.bbc.co.uk/news/articles/ckly0v2q2yxlo#0",
-        "https://www.bbc.co.uk/news/articles/cv4g13z0px8yo#1"
+        "https://www.bbc.co.uk/news/articles/ckly0v2q2yxlo#0"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20261104de70577",
@@ -470,6 +470,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261101de69124"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/char_aznable_hosereel_x3/",
         "https://www.gizmodo.jp/article/2611-black-october-cyber-security-2026/",
         "https://www.gizmodo.jp/article/2611-claude-code-extension-security-incident/",
         "https://www.gizmodo.jp/article/2611-music-taste-sonic-seasoning/",
@@ -668,8 +669,7 @@
         "https://www.gizmodo.jp/article/dummy-tv-2/",
         "https://www.gizmodo.jp/article/ecoflow-delta-3800-gen4-desk/",
         "https://www.gizmodo.jp/article/2610-gemini-4-carbon/",
-        "https://www.gizmodo.jp/article/smart-rechargeable-battery/",
-        "https://www.gizmodo.jp/article/2610-amazon-ai-nuclear-power/"
+        "https://www.gizmodo.jp/article/smart-rechargeable-battery/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "x7--vjFSfK8",
