@@ -66,6 +66,11 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/ckpqg8lve73go#0",
+        "https://www.bbc.co.uk/news/articles/c6073l9y15xxo#0",
+        "https://www.bbc.co.uk/news/articles/c893z55pxrewo#0",
+        "https://www.bbc.co.uk/news/articles/cr4g1x6l77xyo#1",
+        "https://www.bbc.co.uk/news/articles/cvglw7x239pwo#1",
         "https://www.bbc.co.uk/news/articles/cqkgjvr00zmyo#1",
         "https://www.bbc.co.uk/sport/football/articles/c6zxjz40l280o#2",
         "https://www.bbc.co.uk/news/articles/cx4g1qmej086o#0",
@@ -260,14 +265,10 @@
         "https://www.bbc.co.uk/news/articles/cmly09y5l0r0o#1",
         "https://www.bbc.co.uk/news/articles/cjly0rgk34y2o#1",
         "https://www.bbc.co.uk/news/articles/cwx28mngxz8do#1",
-        "https://www.bbc.co.uk/news/articles/cwx28mngxz8do#0",
-        "https://www.bbc.co.uk/news/articles/cwdr8vxl1nv1o#1",
-        "https://www.bbc.co.uk/news/articles/ckpqg8lve73go#0",
-        "https://www.bbc.co.uk/news/articles/cm87zn1vy28zo#1",
-        "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o#0",
-        "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o#1"
+        "https://www.bbc.co.uk/news/articles/cwx28mngxz8do#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261104de70642",
         "https://news.web.nhk/newsweb/na/nd-20261104de70639",
         "https://news.web.nhk/newsweb/na/nd-20261104de70637",
         "https://news.web.nhk/newsweb/na/nd-20261104de70615",
@@ -466,8 +467,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261101de69104",
         "https://news.web.nhk/newsweb/na/nd-20261101de69214",
         "https://news.web.nhk/newsweb/na/nd-20261101de69224",
-        "https://news.web.nhk/newsweb/na/nd-20261101de69223",
-        "https://news.web.nhk/newsweb/na/nd-20261101de69207"
+        "https://news.web.nhk/newsweb/na/nd-20261101de69223"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-ai-agent-cart-hold-secondhand-shops/",
