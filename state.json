@@ -268,6 +268,8 @@
         "https://www.bbc.co.uk/news/articles/cm20v3029p5xo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261104de70278",
+        "https://news.web.nhk/newsweb/na/nd-20261104de70207",
         "https://news.web.nhk/newsweb/na/nd-20261104de70249",
         "https://news.web.nhk/newsweb/na/nd-20261104de70274",
         "https://news.web.nhk/newsweb/na/nd-20261104de70271",
@@ -465,11 +467,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261031de68899",
         "https://news.web.nhk/newsweb/na/nd-20261031de68872",
         "https://news.web.nhk/newsweb/na/nd-20261031de68857",
-        "https://news.web.nhk/newsweb/na/nd-20260930de53364",
-        "https://news.web.nhk/newsweb/na/nd-20261031de68846",
-        "https://news.web.nhk/newsweb/na/nd-20261031de68843"
+        "https://news.web.nhk/newsweb/na/nd-20260930de53364"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/8115672f-2239-4e7d-b5a0-29d8367bdc71/",
         "https://www.gizmodo.jp/article/2611-chrome-extension-search-privacy-leak/",
         "https://www.gizmodo.jp/article/2611-google-stock-price-drop-ai-search/",
         "https://www.gizmodo.jp/article/2610-nape-pro-se-ball-change/",
@@ -668,8 +669,7 @@
         "https://www.gizmodo.jp/article/e5ca22ab-fe32-4234-ac3d-1046170aec39/",
         "https://www.gizmodo.jp/article/touch-macbook-pro-glow-logo/",
         "https://www.gizmodo.jp/article/apple-macbook-logo-glow-return/",
-        "https://www.gizmodo.jp/article/289654-2/",
-        "https://www.gizmodo.jp/article/ai-climbing-rescue/"
+        "https://www.gizmodo.jp/article/289654-2/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "x7--vjFSfK8",
