@@ -268,6 +268,9 @@
         "https://www.bbc.co.uk/news/articles/c6lye8g4w7g1o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261104de70310",
+        "https://news.web.nhk/newsweb/na/nd-20261104de70229",
+        "https://news.web.nhk/newsweb/na/nd-20261104de70307",
         "https://news.web.nhk/newsweb/na/nd-20261104de70306",
         "https://news.web.nhk/newsweb/na/nd-20261104de70251",
         "https://news.web.nhk/newsweb/na/nd-20261104de70282",
@@ -464,10 +467,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261031de68859",
         "https://news.web.nhk/newsweb/na/nd-20261031de69005",
         "https://news.web.nhk/newsweb/na/nd-20261031de68988",
-        "https://news.web.nhk/newsweb/na/nd-20261031de68862",
-        "https://news.web.nhk/newsweb/na/nd-20261031de68967",
-        "https://news.web.nhk/newsweb/na/nd-20261031de68949",
-        "https://news.web.nhk/newsweb/na/nd-20261031de68918"
+        "https://news.web.nhk/newsweb/na/nd-20261031de68862"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-iphone-duo-claude/",
