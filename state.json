@@ -66,6 +66,8 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c6lykq0kqwn7o#0",
+        "https://www.bbc.co.uk/sport/football/articles/cmjweqpv8vj1o#1",
         "https://www.bbc.co.uk/news/articles/c54g14v42ykgo#1",
         "https://www.bbc.co.uk/news/videos/c3qjnk4g5e42o#0",
         "https://www.bbc.co.uk/news/articles/cx4g1qy6gq9mo#0",
@@ -263,11 +265,11 @@
         "https://www.bbc.co.uk/news/articles/ckpdg7l2nd9wo#1",
         "https://www.bbc.co.uk/news/articles/cwy8lm1m59mvo#0",
         "https://www.bbc.co.uk/sport/football/articles/c6y0e79yjg44o#1",
-        "https://www.bbc.co.uk/news/articles/cw23d5z87drpo#1",
-        "https://www.bbc.co.uk/news/articles/c6wyrm92jdpvo#0",
-        "https://www.bbc.co.uk/news/articles/cq0ld5zw3eg3o#1"
+        "https://www.bbc.co.uk/news/articles/cw23d5z87drpo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261105de71030",
+        "https://news.web.nhk/newsweb/na/nd-20261105de71103",
         "https://news.web.nhk/newsweb/na/nd-20261105de71088",
         "https://news.web.nhk/newsweb/na/nd-20261105de71154",
         "https://news.web.nhk/newsweb/na/nd-20261105de71078",
@@ -465,9 +467,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261102de69784",
         "https://news.web.nhk/newsweb/na/nd-20261102de69807",
         "https://news.web.nhk/newsweb/na/nd-20261102de69768",
-        "https://news.web.nhk/newsweb/na/nd-20261102de69766",
-        "https://news.web.nhk/newsweb/na/nd-20261102de69776",
-        "https://news.web.nhk/newsweb/na/nd-20261102de69780"
+        "https://news.web.nhk/newsweb/na/nd-20261102de69766"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-mco-electric-multi-pot-camp/",
