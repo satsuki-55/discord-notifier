@@ -67,6 +67,8 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cm93zv62v1n7o#1",
+        "https://www.bbc.co.uk/news/videos/cmvg9yy8wpweo#1",
         "https://www.bbc.co.uk/sport/football/articles/cme8rxx2e1w9o#0",
         "https://www.bbc.co.uk/sport/football/articles/cme8rxx2e1w9o#1",
         "https://www.bbc.co.uk/news/articles/cqkgjvr00zmyo#2",
@@ -264,11 +266,11 @@
         "https://www.bbc.co.uk/news/articles/cw62ye1030njo#1",
         "https://www.bbc.co.uk/news/articles/cmlykvpdx4x0o#0",
         "https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o#1",
-        "https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o#0",
-        "https://www.bbc.co.uk/news/articles/c6vg0xzd0ln4o#0",
-        "https://www.bbc.co.uk/news/articles/c3dxw8p99ervo#0"
+        "https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261105de71230",
+        "https://news.web.nhk/newsweb/na/nd-20261105de71227",
         "https://news.web.nhk/newsweb/na/nd-20261105de71224",
         "https://news.web.nhk/newsweb/na/nd-20261105de71225",
         "https://news.web.nhk/newsweb/na/nd-20261105de71223",
@@ -466,9 +468,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261103de69869",
         "https://news.web.nhk/newsweb/na/nd-20261103de69867",
         "https://news.web.nhk/newsweb/na/nd-20261103de69863",
-        "https://news.web.nhk/newsweb/na/nd-20261102de69842",
-        "https://news.web.nhk/newsweb/na/nd-20261103de69858",
-        "https://news.web.nhk/newsweb/na/nd-20261103de69860"
+        "https://news.web.nhk/newsweb/na/nd-20261102de69842"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-us-midterm-election-ai-advertising-cost/",
