@@ -268,6 +268,7 @@
         "https://www.bbc.co.uk/news/articles/cm62y97z2n71o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261105de70892",
         "https://news.web.nhk/newsweb/na/nd-20261105de70883",
         "https://news.web.nhk/newsweb/na/nd-20261105de70872",
         "https://news.web.nhk/newsweb/na/nd-20261105de70839",
@@ -466,10 +467,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261102de69476",
         "https://news.web.nhk/newsweb/na/nd-20261102de69500",
         "https://news.web.nhk/newsweb/na/nd-20261102de69493",
-        "https://news.web.nhk/newsweb/na/nd-20261102de69468",
-        "https://news.web.nhk/newsweb/na/nd-20261102de69449"
+        "https://news.web.nhk/newsweb/na/nd-20261102de69468"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2611-samsung-smart-glasses-release/",
         "https://www.gizmodo.jp/article/2611-datacenter-noise-protest/",
         "https://www.gizmodo.jp/article/2611-sam-altman-zelda-day-off/",
         "https://www.gizmodo.jp/article/2610-nape-pro-se-standard-diff/",
@@ -668,8 +669,7 @@
         "https://www.gizmodo.jp/article/2610-microsoft-ai-solves-kls-conjecture/",
         "https://www.gizmodo.jp/article/miyagen_3d-whistle-2g/",
         "https://www.gizmodo.jp/article/2610-tea-up-machine-45-seconds/",
-        "https://www.gizmodo.jp/article/2610-macbook-pro-touch-oled/",
-        "https://www.gizmodo.jp/article/20-years-of-gizmodojp-positron-naoshima/"
+        "https://www.gizmodo.jp/article/2610-macbook-pro-touch-oled/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "x7--vjFSfK8",
