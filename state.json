@@ -268,6 +268,7 @@
         "https://www.bbc.co.uk/news/articles/cq0ld9g9e913o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261105de71141",
         "https://news.web.nhk/newsweb/na/nd-20261105de71090",
         "https://news.web.nhk/newsweb/na/nd-20261105de70981",
         "https://news.web.nhk/newsweb/na/nd-20261105de71024",
@@ -466,8 +467,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261102de69780",
         "https://news.web.nhk/newsweb/na/nd-20261102de69764",
         "https://news.web.nhk/newsweb/na/nd-20261102de69762",
-        "https://news.web.nhk/newsweb/na/nd-20261102de69760",
-        "https://news.web.nhk/newsweb/na/nd-20261102de69741"
+        "https://news.web.nhk/newsweb/na/nd-20261102de69760"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-chrome-vulnerability-fix-november/",
