@@ -268,6 +268,7 @@
         "https://www.bbc.co.uk/news/articles/cqx283v54zd6o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261105de70923",
         "https://news.web.nhk/newsweb/na/nd-20261105de70801",
         "https://news.web.nhk/newsweb/na/nd-20261105de70850",
         "https://news.web.nhk/newsweb/na/nd-20261105de70864",
@@ -466,8 +467,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261102de69394",
         "https://news.web.nhk/newsweb/na/nd-20261102de69492",
         "https://news.web.nhk/newsweb/na/nd-20261102de69522",
-        "https://news.web.nhk/newsweb/na/nd-20261102de69507",
-        "https://news.web.nhk/newsweb/na/nd-20261102de69495"
+        "https://news.web.nhk/newsweb/na/nd-20261102de69507"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-iphone-duo-reachability-update/",
