@@ -268,6 +268,7 @@
         "https://www.bbc.co.uk/news/articles/cm5ynekkn5qko#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261105de71025",
         "https://news.web.nhk/newsweb/na/nd-20261105de70996",
         "https://news.web.nhk/newsweb/na/nd-20261105de70992",
         "https://news.web.nhk/newsweb/na/nd-20261105de70988",
@@ -466,8 +467,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261102de69741",
         "https://news.web.nhk/newsweb/na/nd-20261102de69717",
         "https://news.web.nhk/newsweb/na/nd-20261102de69693",
-        "https://news.web.nhk/newsweb/na/nd-20261029de67518",
-        "https://news.web.nhk/newsweb/na/nd-20261102de69694"
+        "https://news.web.nhk/newsweb/na/nd-20261029de67518"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-elder-scrolls-6-sentinel/",
