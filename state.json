@@ -66,6 +66,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c54g14v42ykgo#1",
         "https://www.bbc.co.uk/news/videos/c3qjnk4g5e42o#0",
         "https://www.bbc.co.uk/news/articles/cx4g1qy6gq9mo#0",
         "https://www.bbc.co.uk/sport/football/articles/c6zxjz40l280o#1",
@@ -264,10 +265,10 @@
         "https://www.bbc.co.uk/sport/football/articles/c6y0e79yjg44o#1",
         "https://www.bbc.co.uk/news/articles/cw23d5z87drpo#1",
         "https://www.bbc.co.uk/news/articles/c6wyrm92jdpvo#0",
-        "https://www.bbc.co.uk/news/articles/cq0ld5zw3eg3o#1",
-        "https://www.bbc.co.uk/news/articles/cq0ld9g9e913o#0"
+        "https://www.bbc.co.uk/news/articles/cq0ld5zw3eg3o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261105de71078",
         "https://news.web.nhk/newsweb/na/nd-20261105de71141",
         "https://news.web.nhk/newsweb/na/nd-20261105de71090",
         "https://news.web.nhk/newsweb/na/nd-20261105de70981",
@@ -466,10 +467,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261102de69776",
         "https://news.web.nhk/newsweb/na/nd-20261102de69780",
         "https://news.web.nhk/newsweb/na/nd-20261102de69764",
-        "https://news.web.nhk/newsweb/na/nd-20261102de69762",
-        "https://news.web.nhk/newsweb/na/nd-20261102de69760"
+        "https://news.web.nhk/newsweb/na/nd-20261102de69762"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2611-mco-electric-multi-pot-camp/",
         "https://www.gizmodo.jp/article/2611-chrome-vulnerability-fix-november/",
         "https://www.gizmodo.jp/article/2611-sony-ps5-trade-in-program/",
         "https://www.gizmodo.jp/article/2610-shure-gizmodo-movie-theater-sound-event/",
@@ -668,8 +669,7 @@
         "https://www.gizmodo.jp/article/2610-iphone-duo-android-foldable-size-comparison/",
         "https://www.gizmodo.jp/article/2610-mamoru-oshii-meta-mirai-ai-creative/",
         "https://www.gizmodo.jp/article/xbox-handheld-project-helix/",
-        "https://www.gizmodo.jp/article/2610-styly-ceo-yamaguchi-gizmodo-20th/",
-        "https://www.gizmodo.jp/article/2610-cmf-speaker-m-review/"
+        "https://www.gizmodo.jp/article/2610-styly-ceo-yamaguchi-gizmodo-20th/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "x7--vjFSfK8",
