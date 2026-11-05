@@ -270,6 +270,7 @@
         "https://www.bbc.co.uk/news/articles/cdx8080nq74o#2"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261106de71331",
         "https://news.web.nhk/newsweb/na/nd-20261105de71231",
         "https://news.web.nhk/newsweb/na/nd-20261106de71327",
         "https://news.web.nhk/newsweb/na/nd-20261106de71317",
@@ -468,8 +469,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261103de70038",
         "https://news.web.nhk/newsweb/na/nd-20261103de70035",
         "https://news.web.nhk/newsweb/na/nd-20261103de70027",
-        "https://news.web.nhk/newsweb/na/nd-20261103de70021",
-        "https://news.web.nhk/newsweb/na/nd-20261103de70010"
+        "https://news.web.nhk/newsweb/na/nd-20261103de70021"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/proled-macbook-pro-display-color-sounds/",
