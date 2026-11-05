@@ -66,6 +66,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cqdr872jkk7vo#1",
         "https://www.bbc.co.uk/news/articles/cwly4ejrr72mo#0",
         "https://www.bbc.co.uk/news/articles/cry8317pdp5yo#0",
         "https://www.bbc.co.uk/news/articles/cqvgrvx6ekl2o#0",
@@ -264,10 +265,10 @@
         "https://www.bbc.co.uk/sport/football/articles/c63dj3zpl85go#1",
         "https://www.bbc.co.uk/news/articles/cm9wz01dx8xro#1",
         "https://www.bbc.co.uk/news/articles/cmx2qg0nezrgo#1",
-        "https://www.bbc.co.uk/news/articles/cq2d6k4r5n9ro#0",
-        "https://www.bbc.co.uk/sport/football/articles/c6y0e79yjg44o#0"
+        "https://www.bbc.co.uk/news/articles/cq2d6k4r5n9ro#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261105de70783",
         "https://news.web.nhk/newsweb/na/nd-20261102de69369",
         "https://news.web.nhk/newsweb/na/nd-20261105de70762",
         "https://news.web.nhk/newsweb/na/nd-20261105de70796",
@@ -466,10 +467,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261102de69403",
         "https://news.web.nhk/newsweb/na/nd-20261102de69357",
         "https://news.web.nhk/newsweb/na/nd-20261102de69457",
-        "https://news.web.nhk/newsweb/na/nd-20261102de69446",
-        "https://news.web.nhk/newsweb/na/nd-20261102de69344"
+        "https://news.web.nhk/newsweb/na/nd-20261102de69446"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2611-chatgpt-image-2-6/",
         "https://www.gizmodo.jp/article/oled-macbook-pro-display-quality/",
         "https://www.gizmodo.jp/article/delivery-robots-are-watching-you-according-to-lawsuit/",
         "https://www.gizmodo.jp/article/2611-apple-gadget-price-increase/",
@@ -668,8 +669,7 @@
         "https://www.gizmodo.jp/article/who-is-the-touchscreen-macbook-for-exactly/",
         "https://www.gizmodo.jp/article/-macbook-pro-touch-display-handson/",
         "https://www.gizmodo.jp/article/ikkei_scalp_and_bodybrush/",
-        "https://www.gizmodo.jp/article/nec_lavie_new_models/",
-        "https://www.gizmodo.jp/article/iphone-duo-eye-contact-facetime-feature/"
+        "https://www.gizmodo.jp/article/nec_lavie_new_models/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "x7--vjFSfK8",
