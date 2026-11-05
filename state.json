@@ -68,6 +68,8 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cr62yv02zwxwo#0",
+        "https://www.bbc.co.uk/news/articles/ckr5y0y37gv3o#1",
         "https://www.bbc.co.uk/news/articles/ckr5y0y37gv3o#0",
         "https://www.bbc.co.uk/news/articles/cjr4yvv33wqgo#1",
         "https://www.bbc.co.uk/news/articles/cx1l36y2d941o#0",
@@ -265,11 +267,11 @@
         "https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo#2",
         "https://www.bbc.co.uk/news/articles/cr89znnnn7dno#2",
         "https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo#2",
-        "https://www.bbc.co.uk/news/articles/cqglwjdgg045o#2",
-        "https://www.bbc.co.uk/news/articles/c50me7ywd1wlo#2",
-        "https://www.bbc.co.uk/news/articles/cr62yv02zwxwo#0"
+        "https://www.bbc.co.uk/news/articles/cqglwjdgg045o#2"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261105de71257",
+        "https://news.web.nhk/newsweb/na/nd-20261105de71267",
         "https://news.web.nhk/newsweb/na/nd-20261105de71265",
         "https://news.web.nhk/newsweb/na/nd-20261105de71262",
         "https://news.web.nhk/newsweb/na/nd-20261105de71261",
@@ -467,9 +469,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261103de69916",
         "https://news.web.nhk/newsweb/na/nd-20261103de69910",
         "https://news.web.nhk/newsweb/na/nd-20261103de69908",
-        "https://news.web.nhk/newsweb/na/nd-20261103de69892",
-        "https://news.web.nhk/newsweb/na/nd-20261103de69879",
-        "https://news.web.nhk/newsweb/na/nd-20261103de69880"
+        "https://news.web.nhk/newsweb/na/nd-20261103de69892"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-nasa-x-70-fractal-sr-71/",
