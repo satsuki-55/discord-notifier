@@ -66,6 +66,8 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c3vgxzpw9y74o#0",
+        "https://www.bbc.co.uk/news/articles/cr89zjy9lvjko#0",
         "https://www.bbc.co.uk/news/articles/ck1ex50x5q46o#0",
         "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo#1",
         "https://www.bbc.co.uk/news/articles/cv62kwg0k038o#1",
@@ -263,11 +265,10 @@
         "https://www.bbc.co.uk/news/articles/cq146562ld3no#0",
         "https://www.bbc.co.uk/news/videos/crwyd2lyj15go#0",
         "https://www.bbc.co.uk/news/articles/cw23d5z87drpo#0",
-        "https://www.bbc.co.uk/news/articles/cw62yeq7958ro#1",
-        "https://www.bbc.co.uk/news/articles/cq78pgn7em34o#1",
-        "https://www.bbc.co.uk/news/articles/cq5yn64wn2y7o#1"
+        "https://www.bbc.co.uk/news/articles/cw62yeq7958ro#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261105de70911",
         "https://news.web.nhk/newsweb/na/nd-20261105de70949",
         "https://news.web.nhk/newsweb/na/nd-20261105de70937",
         "https://news.web.nhk/newsweb/na/nd-20261102de69394",
@@ -466,8 +467,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261102de69636",
         "https://news.web.nhk/newsweb/na/nd-20261102de69556",
         "https://news.web.nhk/newsweb/na/nd-20261102de69622",
-        "https://news.web.nhk/newsweb/na/nd-20261102de69574",
-        "https://news.web.nhk/newsweb/na/nd-20261102de69564"
+        "https://news.web.nhk/newsweb/na/nd-20261102de69574"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-kome-togi-shaker-review/",
