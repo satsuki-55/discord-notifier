@@ -66,6 +66,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/ckq6ndq8l6v0o#0",
         "https://www.bbc.co.uk/news/articles/cm62y97z2n71o#0",
         "https://www.bbc.co.uk/news/articles/cje36degrgv5o#0",
         "https://www.bbc.co.uk/news/articles/crz98zqkz7z0o#0",
@@ -264,10 +265,10 @@
         "https://www.bbc.co.uk/news/articles/cq5yn64wn2y7o#1",
         "https://www.bbc.co.uk/news/articles/cm9wz01dx8xro#0",
         "https://www.bbc.co.uk/news/articles/c64g14ene2epo#0",
-        "https://www.bbc.co.uk/news/articles/cqx283v54zd6o#0",
-        "https://www.bbc.co.uk/news/articles/ckq6ndq8l6v0o#1"
+        "https://www.bbc.co.uk/news/articles/cqx283v54zd6o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261105de70890",
         "https://news.web.nhk/newsweb/na/nd-20261105de70880",
         "https://news.web.nhk/newsweb/na/nd-20261105de70892",
         "https://news.web.nhk/newsweb/na/nd-20261105de70883",
@@ -466,10 +467,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261102de69495",
         "https://news.web.nhk/newsweb/na/nd-20261102de69506",
         "https://news.web.nhk/newsweb/na/nd-20261102de69476",
-        "https://news.web.nhk/newsweb/na/nd-20261102de69500",
-        "https://news.web.nhk/newsweb/na/nd-20261102de69493"
+        "https://news.web.nhk/newsweb/na/nd-20261102de69500"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2611-iphone-duo-reachability-update/",
         "https://www.gizmodo.jp/article/2611-samsung-smart-glasses-release/",
         "https://www.gizmodo.jp/article/2611-datacenter-noise-protest/",
         "https://www.gizmodo.jp/article/2611-sam-altman-zelda-day-off/",
@@ -668,8 +669,7 @@
         "https://www.gizmodo.jp/article/2610-elecom-4-leg-tap-desk-wiring/",
         "https://www.gizmodo.jp/article/2610-microsoft-ai-solves-kls-conjecture/",
         "https://www.gizmodo.jp/article/miyagen_3d-whistle-2g/",
-        "https://www.gizmodo.jp/article/2610-tea-up-machine-45-seconds/",
-        "https://www.gizmodo.jp/article/2610-macbook-pro-touch-oled/"
+        "https://www.gizmodo.jp/article/2610-tea-up-machine-45-seconds/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "x7--vjFSfK8",
