@@ -270,6 +270,8 @@
         "https://www.bbc.co.uk/news/articles/cqglwjdgg045o#2"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261105de71268",
+        "https://news.web.nhk/newsweb/na/nd-20261105de71269",
         "https://news.web.nhk/newsweb/na/nd-20261105de71257",
         "https://news.web.nhk/newsweb/na/nd-20261105de71267",
         "https://news.web.nhk/newsweb/na/nd-20261105de71265",
@@ -467,11 +469,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261103de69936",
         "https://news.web.nhk/newsweb/na/nd-20261103de69927",
         "https://news.web.nhk/newsweb/na/nd-20261103de69916",
-        "https://news.web.nhk/newsweb/na/nd-20261103de69910",
-        "https://news.web.nhk/newsweb/na/nd-20261103de69908",
-        "https://news.web.nhk/newsweb/na/nd-20261103de69892"
+        "https://news.web.nhk/newsweb/na/nd-20261103de69910"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2611-bird-droppings-ecosystem-nutrients/",
         "https://www.gizmodo.jp/article/2611-nasa-x-70-fractal-sr-71/",
         "https://www.gizmodo.jp/article/edenenergy-escooter-battery-storage/",
         "https://www.gizmodo.jp/article/2611-kioxia-microsd-128gb-deal/",
@@ -670,8 +671,7 @@
         "https://www.gizmodo.jp/article/best-places-to-hide-from-nuclear-bomb-4/",
         "https://www.gizmodo.jp/article/2610-active-cyber-defense/",
         "https://www.gizmodo.jp/article/km5-sp1-mp1-wireless-speaker-mixer/",
-        "https://www.gizmodo.jp/article/2610-amazon-ai-engineering-guidelines/",
-        "https://www.gizmodo.jp/article/2610-macbook-charger-plug-change/"
+        "https://www.gizmodo.jp/article/2610-amazon-ai-engineering-guidelines/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "x7--vjFSfK8",
