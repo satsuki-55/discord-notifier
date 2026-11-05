@@ -68,6 +68,11 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c8qlnwng5pzwo#0",
+        "https://www.bbc.co.uk/news/articles/c3vgxzpw9y74o#1",
+        "https://www.bbc.co.uk/news/articles/c69wzxw2pvv0o#0",
+        "https://www.bbc.co.uk/news/articles/c820vz6wyp65o#0",
+        "https://www.bbc.co.uk/news/articles/c39wz44411w0o#1",
         "https://www.bbc.co.uk/news/videos/c9dr8713zjgyo#2",
         "https://www.bbc.co.uk/news/videos/c9dr8713zjgyo#1",
         "https://www.bbc.co.uk/news/articles/cw1m42zdnn3go#0",
@@ -262,14 +267,10 @@
         "https://www.bbc.co.uk/news/articles/cw77pg7neydmo#0",
         "https://www.bbc.co.uk/news/articles/cm86zdp2ygqno#1",
         "https://www.bbc.co.uk/news/articles/c39wz0970eypo#1",
-        "https://www.bbc.co.uk/news/videos/c8040gkq5563o#0",
-        "https://www.bbc.co.uk/news/articles/cr5ynl415j79o#0",
-        "https://www.bbc.co.uk/news/articles/cm9qz93ew22no#2",
-        "https://www.bbc.co.uk/news/articles/cm9qz93ew22no#0",
-        "https://www.bbc.co.uk/news/articles/c69wzxw2pvv0o#0",
-        "https://www.bbc.co.uk/news/articles/c820vz6wyp65o#0"
+        "https://www.bbc.co.uk/news/videos/c8040gkq5563o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261106de71298",
         "https://news.web.nhk/newsweb/na/nd-20261105de71296",
         "https://news.web.nhk/newsweb/na/nd-20261105de71278",
         "https://news.web.nhk/newsweb/na/nd-20261105de71277",
@@ -468,8 +469,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261103de69956",
         "https://news.web.nhk/newsweb/na/nd-20261103de69953",
         "https://news.web.nhk/newsweb/na/nd-20261103de69951",
-        "https://news.web.nhk/newsweb/na/nd-20261103de69940",
-        "https://news.web.nhk/newsweb/na/nd-20261103de69938"
+        "https://news.web.nhk/newsweb/na/nd-20261103de69940"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/proled-macbook-pro-display-color-sounds/",
