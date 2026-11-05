@@ -66,6 +66,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cv62kwg0k038o#1",
         "https://www.bbc.co.uk/news/articles/ckq6ndq8l6v0o#0",
         "https://www.bbc.co.uk/news/articles/cm62y97z2n71o#0",
         "https://www.bbc.co.uk/news/articles/cje36degrgv5o#0",
@@ -264,10 +265,10 @@
         "https://www.bbc.co.uk/news/articles/cq78pgn7em34o#1",
         "https://www.bbc.co.uk/news/articles/cq5yn64wn2y7o#1",
         "https://www.bbc.co.uk/news/articles/cm9wz01dx8xro#0",
-        "https://www.bbc.co.uk/news/articles/c64g14ene2epo#0",
-        "https://www.bbc.co.uk/news/articles/cqx283v54zd6o#0"
+        "https://www.bbc.co.uk/news/articles/c64g14ene2epo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261028de66993",
         "https://news.web.nhk/newsweb/na/nd-20261105de70932",
         "https://news.web.nhk/newsweb/na/nd-20261105de70923",
         "https://news.web.nhk/newsweb/na/nd-20261105de70801",
@@ -466,10 +467,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261102de69567",
         "https://news.web.nhk/newsweb/na/nd-20261028de66950",
         "https://news.web.nhk/newsweb/na/nd-20261102de69394",
-        "https://news.web.nhk/newsweb/na/nd-20261102de69492",
-        "https://news.web.nhk/newsweb/na/nd-20261102de69522"
+        "https://news.web.nhk/newsweb/na/nd-20261102de69492"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2611-us-stocks-midterm-elections-rally/",
         "https://www.gizmodo.jp/article/ebikara-note_shrimp_shell_notebook/",
         "https://www.gizmodo.jp/article/x-web-app-rebuild-faster/",
         "https://www.gizmodo.jp/article/2611-iphone-duo-reachability-update/",
@@ -668,8 +669,7 @@
         "https://www.gizmodo.jp/article/panasonic-perovskite-glass-2029/",
         "https://www.gizmodo.jp/article/japan-government-emergency-stockpile-request/",
         "https://www.gizmodo.jp/article/arc-browser-discontinuation-migration-guide/",
-        "https://www.gizmodo.jp/article/2610-elecom-4-leg-tap-desk-wiring/",
-        "https://www.gizmodo.jp/article/2610-microsoft-ai-solves-kls-conjecture/"
+        "https://www.gizmodo.jp/article/2610-elecom-4-leg-tap-desk-wiring/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "x7--vjFSfK8",
