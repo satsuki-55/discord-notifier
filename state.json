@@ -270,6 +270,7 @@
         "https://www.bbc.co.uk/news/articles/cqglwjdgg045o#2"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261105de71273",
         "https://news.web.nhk/newsweb/na/nd-20261105de71266",
         "https://news.web.nhk/newsweb/na/nd-20261105de71268",
         "https://news.web.nhk/newsweb/na/nd-20261105de71269",
@@ -468,8 +469,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261103de69903",
         "https://news.web.nhk/newsweb/na/nd-20261103de69943",
         "https://news.web.nhk/newsweb/na/nd-20261103de69936",
-        "https://news.web.nhk/newsweb/na/nd-20261103de69927",
-        "https://news.web.nhk/newsweb/na/nd-20261103de69916"
+        "https://news.web.nhk/newsweb/na/nd-20261103de69927"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-bird-droppings-ecosystem-nutrients/",
