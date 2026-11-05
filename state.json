@@ -67,6 +67,9 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cw33xm0de221o#0",
+        "https://www.bbc.co.uk/news/articles/cr89zjy9lvjko#1",
+        "https://www.bbc.co.uk/news/articles/cw33xm0de221o#1",
         "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo#1",
         "https://www.bbc.co.uk/news/articles/cmze4zk4d789o#1",
         "https://www.bbc.co.uk/news/articles/cmpdg093e589o#2",
@@ -263,10 +266,7 @@
         "https://www.bbc.co.uk/news/articles/cxg5jln586pno#1",
         "https://www.bbc.co.uk/news/articles/ckly4ed521emo#0",
         "https://www.bbc.co.uk/news/articles/cvwy7ljr5grpo#1",
-        "https://www.bbc.co.uk/news/articles/ckly4ed521emo#1",
-        "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o#0",
-        "https://www.bbc.co.uk/news/articles/cmqxn7p1qpqno#0",
-        "https://www.bbc.co.uk/news/articles/c63elky79np7o#1"
+        "https://www.bbc.co.uk/news/articles/ckly4ed521emo#1"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20261105de71209",
@@ -471,6 +471,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261103de69861"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2611-robot-thumb-egothumb/",
         "https://www.gizmodo.jp/article/2611-sony-wh-1000x-cashback-campaign/",
         "https://www.gizmodo.jp/article/2611-ipad-mini-oled-review/",
         "https://www.gizmodo.jp/article/2611-mco-electric-multi-pot-camp/",
@@ -669,8 +670,7 @@
         "https://www.gizmodo.jp/article/astronomers-find-edge-milky-way-galaxy-efl/",
         "https://www.gizmodo.jp/article/cybopal-one-robot-monitor-arm/",
         "https://www.gizmodo.jp/article/2610-google-chrome-security-update-certificate/",
-        "https://www.gizmodo.jp/article/2610-iphone-duo-android-foldable-size-comparison/",
-        "https://www.gizmodo.jp/article/2610-mamoru-oshii-meta-mirai-ai-creative/"
+        "https://www.gizmodo.jp/article/2610-iphone-duo-android-foldable-size-comparison/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "x7--vjFSfK8",
