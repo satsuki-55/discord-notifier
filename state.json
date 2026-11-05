@@ -268,6 +268,7 @@
         "https://www.bbc.co.uk/news/articles/cq2d6k4r5n9ro#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261105de70802",
         "https://news.web.nhk/newsweb/na/nd-20261105de70783",
         "https://news.web.nhk/newsweb/na/nd-20261102de69369",
         "https://news.web.nhk/newsweb/na/nd-20261105de70762",
@@ -466,8 +467,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261102de69449",
         "https://news.web.nhk/newsweb/na/nd-20261102de69403",
         "https://news.web.nhk/newsweb/na/nd-20261102de69357",
-        "https://news.web.nhk/newsweb/na/nd-20261102de69457",
-        "https://news.web.nhk/newsweb/na/nd-20261102de69446"
+        "https://news.web.nhk/newsweb/na/nd-20261102de69457"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-chatgpt-image-2-6/",
