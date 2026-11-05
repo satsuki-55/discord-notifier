@@ -270,6 +270,7 @@
         "https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261105de71261",
         "https://news.web.nhk/newsweb/na/nd-20261105de71256",
         "https://news.web.nhk/newsweb/na/nd-20261105de71258",
         "https://news.web.nhk/newsweb/na/nd-20261105de71252",
@@ -468,8 +469,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261103de69879",
         "https://news.web.nhk/newsweb/na/nd-20261103de69880",
         "https://news.web.nhk/newsweb/na/nd-20261103de69881",
-        "https://news.web.nhk/newsweb/na/nd-20261103de69887",
-        "https://news.web.nhk/newsweb/na/nd-20261103de69878"
+        "https://news.web.nhk/newsweb/na/nd-20261103de69887"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/edenenergy-escooter-battery-storage/",
