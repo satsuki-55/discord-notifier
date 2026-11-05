@@ -67,6 +67,8 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo#1",
+        "https://www.bbc.co.uk/news/articles/cmze4zk4d789o#1",
         "https://www.bbc.co.uk/news/articles/cmpdg093e589o#2",
         "https://www.bbc.co.uk/news/articles/cmze4zk4d789o#0",
         "https://www.bbc.co.uk/news/articles/cqvg0y44ym7vo#1",
@@ -264,11 +266,10 @@
         "https://www.bbc.co.uk/news/articles/ckly4ed521emo#1",
         "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o#0",
         "https://www.bbc.co.uk/news/articles/cmqxn7p1qpqno#0",
-        "https://www.bbc.co.uk/news/articles/c63elky79np7o#1",
-        "https://www.bbc.co.uk/news/videos/cm3wv029jlxyo#1",
-        "https://www.bbc.co.uk/news/articles/cqglwjdgg045o#1"
+        "https://www.bbc.co.uk/news/articles/c63elky79np7o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261105de71209",
         "https://news.web.nhk/newsweb/na/nd-20261105de71178",
         "https://news.web.nhk/newsweb/na/nd-20261105de71182",
         "https://news.web.nhk/newsweb/na/nd-20261105de71074",
@@ -467,8 +468,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261103de69860",
         "https://news.web.nhk/newsweb/na/nd-20261103de69864",
         "https://news.web.nhk/newsweb/na/nd-20261103de69868",
-        "https://news.web.nhk/newsweb/na/nd-20261103de69861",
-        "https://news.web.nhk/newsweb/na/nd-20261102de69793"
+        "https://news.web.nhk/newsweb/na/nd-20261103de69861"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-sony-wh-1000x-cashback-campaign/",
