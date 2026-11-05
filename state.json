@@ -67,6 +67,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/sport/football/articles/cme8rxx2e1w9o#0",
         "https://www.bbc.co.uk/sport/football/articles/cme8rxx2e1w9o#1",
         "https://www.bbc.co.uk/news/articles/cqkgjvr00zmyo#2",
         "https://www.bbc.co.uk/news/articles/c8vgxyvz6y9ro#1",
@@ -265,10 +266,10 @@
         "https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o#1",
         "https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o#0",
         "https://www.bbc.co.uk/news/articles/c6vg0xzd0ln4o#0",
-        "https://www.bbc.co.uk/news/articles/c3dxw8p99ervo#0",
-        "https://www.bbc.co.uk/news/articles/c5djv0p0re2no#0"
+        "https://www.bbc.co.uk/news/articles/c3dxw8p99ervo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261105de71225",
         "https://news.web.nhk/newsweb/na/nd-20261105de71223",
         "https://news.web.nhk/newsweb/na/nd-20261105de71209",
         "https://news.web.nhk/newsweb/na/nd-20261105de71178",
@@ -467,8 +468,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261102de69842",
         "https://news.web.nhk/newsweb/na/nd-20261103de69858",
         "https://news.web.nhk/newsweb/na/nd-20261103de69860",
-        "https://news.web.nhk/newsweb/na/nd-20261103de69864",
-        "https://news.web.nhk/newsweb/na/nd-20261103de69868"
+        "https://news.web.nhk/newsweb/na/nd-20261103de69864"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-macbook-pro-touchscreen-oled/",
