@@ -268,6 +268,7 @@
         "https://www.bbc.co.uk/news/articles/cq0ld9g9e913o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261105de70981",
         "https://news.web.nhk/newsweb/na/nd-20261105de71024",
         "https://news.web.nhk/newsweb/na/nd-20261105de71025",
         "https://news.web.nhk/newsweb/na/nd-20261105de70996",
@@ -466,10 +467,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261102de69762",
         "https://news.web.nhk/newsweb/na/nd-20261102de69760",
         "https://news.web.nhk/newsweb/na/nd-20261102de69741",
-        "https://news.web.nhk/newsweb/na/nd-20261102de69717",
-        "https://news.web.nhk/newsweb/na/nd-20261102de69693"
+        "https://news.web.nhk/newsweb/na/nd-20261102de69717"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2610-shure-gizmodo-movie-theater-sound-event/",
         "https://www.gizmodo.jp/article/2611-elder-scrolls-6-sentinel/",
         "https://www.gizmodo.jp/article/2611-claude-code-subagents-cost-reduction/",
         "https://www.gizmodo.jp/article/2611-kome-togi-shaker-review/",
@@ -668,8 +669,7 @@
         "https://www.gizmodo.jp/article/2610-styly-ceo-yamaguchi-gizmodo-20th/",
         "https://www.gizmodo.jp/article/2610-cmf-speaker-m-review/",
         "https://www.gizmodo.jp/article/smart-glasses-school-ban-victoria/",
-        "https://www.gizmodo.jp/article/4d02b560-0c8d-4b42-8dcb-1500a4a658c9/",
-        "https://www.gizmodo.jp/article/panasonic-perovskite-glass-2029/"
+        "https://www.gizmodo.jp/article/4d02b560-0c8d-4b42-8dcb-1500a4a658c9/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "x7--vjFSfK8",
