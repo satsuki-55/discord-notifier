@@ -269,6 +269,7 @@
         "https://www.bbc.co.uk/news/articles/c3dxw8p99ervo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261105de71224",
         "https://news.web.nhk/newsweb/na/nd-20261105de71225",
         "https://news.web.nhk/newsweb/na/nd-20261105de71223",
         "https://news.web.nhk/newsweb/na/nd-20261105de71209",
@@ -467,10 +468,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261103de69863",
         "https://news.web.nhk/newsweb/na/nd-20261102de69842",
         "https://news.web.nhk/newsweb/na/nd-20261103de69858",
-        "https://news.web.nhk/newsweb/na/nd-20261103de69860",
-        "https://news.web.nhk/newsweb/na/nd-20261103de69864"
+        "https://news.web.nhk/newsweb/na/nd-20261103de69860"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/cornell-ai-classroom-experiments/",
         "https://www.gizmodo.jp/article/2611-macbook-pro-touchscreen-oled/",
         "https://www.gizmodo.jp/article/2611-robot-thumb-egothumb/",
         "https://www.gizmodo.jp/article/2611-sony-wh-1000x-cashback-campaign/",
@@ -669,8 +670,7 @@
         "https://www.gizmodo.jp/article/kaite_memo-pad/",
         "https://www.gizmodo.jp/article/new-touch-display-macbook-pro-hands-on-qa/",
         "https://www.gizmodo.jp/article/astronomers-find-edge-milky-way-galaxy-efl/",
-        "https://www.gizmodo.jp/article/cybopal-one-robot-monitor-arm/",
-        "https://www.gizmodo.jp/article/2610-google-chrome-security-update-certificate/"
+        "https://www.gizmodo.jp/article/cybopal-one-robot-monitor-arm/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "x7--vjFSfK8",
