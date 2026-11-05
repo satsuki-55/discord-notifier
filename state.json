@@ -268,6 +268,7 @@
         "https://www.bbc.co.uk/news/articles/cked3j989ex0o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261102de69409",
         "https://news.web.nhk/newsweb/na/nd-20261105de70718",
         "https://news.web.nhk/newsweb/na/nd-20261105de70744",
         "https://news.web.nhk/newsweb/na/nd-20261105de70743",
@@ -466,8 +467,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261102de69385",
         "https://news.web.nhk/newsweb/na/nd-20261102de69369",
         "https://news.web.nhk/newsweb/na/nd-20261102de69371",
-        "https://news.web.nhk/newsweb/na/nd-20261102de69362",
-        "https://news.web.nhk/newsweb/na/nd-20261102de69346"
+        "https://news.web.nhk/newsweb/na/nd-20261102de69362"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/delivery-robots-are-watching-you-according-to-lawsuit/",
