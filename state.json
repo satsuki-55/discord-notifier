@@ -66,6 +66,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo#0",
         "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo#0",
         "https://www.bbc.co.uk/news/articles/cw33kgj7nkemo#2",
         "https://www.bbc.co.uk/news/articles/cw33kgj7nkemo#0",
@@ -264,10 +265,10 @@
         "https://www.bbc.co.uk/news/videos/cmvg9w5w2p1no#0",
         "https://www.bbc.co.uk/news/articles/cked3j989ex0o#1",
         "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo#0",
-        "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo#1",
-        "https://www.bbc.co.uk/news/articles/cm5ynekkn5qko#0"
+        "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261105de70744",
         "https://news.web.nhk/newsweb/na/nd-20261105de70743",
         "https://news.web.nhk/newsweb/na/nd-20261105de70745",
         "https://news.web.nhk/newsweb/na/nd-20261105de70742",
@@ -466,8 +467,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261102de69371",
         "https://news.web.nhk/newsweb/na/nd-20261102de69362",
         "https://news.web.nhk/newsweb/na/nd-20261102de69346",
-        "https://news.web.nhk/newsweb/na/nd-20261031de68925",
-        "https://news.web.nhk/newsweb/na/nd-20261101de69267"
+        "https://news.web.nhk/newsweb/na/nd-20261031de68925"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-apple-gadget-price-increase/",
