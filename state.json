@@ -268,6 +268,8 @@
         "https://www.bbc.co.uk/news/articles/cq0ld5zw3eg3o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261105de71088",
+        "https://news.web.nhk/newsweb/na/nd-20261105de71154",
         "https://news.web.nhk/newsweb/na/nd-20261105de71078",
         "https://news.web.nhk/newsweb/na/nd-20261105de71141",
         "https://news.web.nhk/newsweb/na/nd-20261105de71090",
@@ -465,9 +467,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261102de69768",
         "https://news.web.nhk/newsweb/na/nd-20261102de69766",
         "https://news.web.nhk/newsweb/na/nd-20261102de69776",
-        "https://news.web.nhk/newsweb/na/nd-20261102de69780",
-        "https://news.web.nhk/newsweb/na/nd-20261102de69764",
-        "https://news.web.nhk/newsweb/na/nd-20261102de69762"
+        "https://news.web.nhk/newsweb/na/nd-20261102de69780"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-mco-electric-multi-pot-camp/",
