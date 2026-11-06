@@ -272,6 +272,7 @@
         "https://www.bbc.co.uk/news/articles/cq4g1701nl2lo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261104de70412",
         "https://news.web.nhk/newsweb/na/nd-20261106de71963",
         "https://news.web.nhk/newsweb/na/nd-20261106de71964",
         "https://news.web.nhk/newsweb/na/nd-20261106de71864",
@@ -470,8 +471,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261104de70404",
         "https://news.web.nhk/newsweb/na/nd-20261104de70544",
         "https://news.web.nhk/newsweb/na/nd-20261104de70554",
-        "https://news.web.nhk/newsweb/na/nd-20261104de70523",
-        "https://news.web.nhk/newsweb/na/nd-20261104de70488"
+        "https://news.web.nhk/newsweb/na/nd-20261104de70523"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/nasa_swift_satellite_reentry/",
