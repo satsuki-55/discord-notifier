@@ -70,6 +70,9 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c6n8dn457ypko#0",
+        "https://www.bbc.co.uk/news/articles/cm5yne5984l0o#0",
+        "https://www.bbc.co.uk/news/articles/ckjrwx1r2d5ro#1",
         "https://www.bbc.co.uk/news/articles/cmdxw051np9jo#0",
         "https://www.bbc.co.uk/news/articles/c6ly3343yj5po#1",
         "https://www.bbc.co.uk/news/articles/ck7vpplgvrjqo#1",
@@ -266,12 +269,10 @@
         "https://www.bbc.co.uk/news/articles/c6rey4v53exgo#0",
         "https://www.bbc.co.uk/news/articles/c615j8pw1y81o#2",
         "https://www.bbc.co.uk/news/articles/cm86zdp2ygqno#0",
-        "https://www.bbc.co.uk/news/videos/cmy4xz081kxyo#1",
-        "https://www.bbc.co.uk/news/articles/crkg7wj8g201o#1",
-        "https://www.bbc.co.uk/news/articles/cq4g1701nl2lo#1",
-        "https://www.bbc.co.uk/news/articles/c6n8dn457ypko#0"
+        "https://www.bbc.co.uk/news/videos/cmy4xz081kxyo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261106de71934",
         "https://news.web.nhk/newsweb/na/nd-20261106de71913",
         "https://news.web.nhk/newsweb/na/nd-20261106de71822",
         "https://news.web.nhk/newsweb/na/nd-20261106de71860",
@@ -470,8 +471,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261104de70525",
         "https://news.web.nhk/newsweb/na/nd-20261104de70438",
         "https://news.web.nhk/newsweb/na/nd-20261104de70494",
-        "https://news.web.nhk/newsweb/na/nd-20261104de70462",
-        "https://news.web.nhk/newsweb/na/nd-20261104de70425"
+        "https://news.web.nhk/newsweb/na/nd-20261104de70462"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/iphone-duo-vs-ipad-mini/",
