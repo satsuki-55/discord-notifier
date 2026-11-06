@@ -272,6 +272,7 @@
         "https://www.bbc.co.uk/news/videos/cmy4xz081kxyo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261106de71905",
         "https://news.web.nhk/newsweb/na/nd-20261106de71934",
         "https://news.web.nhk/newsweb/na/nd-20261106de71913",
         "https://news.web.nhk/newsweb/na/nd-20261106de71822",
@@ -470,8 +471,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261104de70394",
         "https://news.web.nhk/newsweb/na/nd-20261104de70525",
         "https://news.web.nhk/newsweb/na/nd-20261104de70438",
-        "https://news.web.nhk/newsweb/na/nd-20261104de70494",
-        "https://news.web.nhk/newsweb/na/nd-20261104de70462"
+        "https://news.web.nhk/newsweb/na/nd-20261104de70494"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-macbook-proled-touch-review/",
