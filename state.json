@@ -68,6 +68,8 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c8vgxyvz6y9ro#0",
+        "https://www.bbc.co.uk/news/articles/cw8rzzx46jd5o#1",
         "https://www.bbc.co.uk/news/articles/crvg9yyz5437o#1",
         "https://www.bbc.co.uk/news/articles/c977ppnezep6o#0",
         "https://www.bbc.co.uk/news/articles/cmdx33v9vvr2o#1",
@@ -265,11 +267,10 @@
         "https://www.bbc.co.uk/news/articles/ck1ex56e5q8wo#2",
         "https://www.bbc.co.uk/news/articles/cm87zvpzwq0no#2",
         "https://www.bbc.co.uk/news/articles/c6z98z5z91ppo#0",
-        "https://www.bbc.co.uk/news/articles/c977p01kgmmko#1",
-        "https://www.bbc.co.uk/news/articles/c8vgxyvz6y9ro#2",
-        "https://www.bbc.co.uk/news/articles/c8vgxyvz6y9ro#0"
+        "https://www.bbc.co.uk/news/articles/c977p01kgmmko#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261106de71664",
         "https://news.web.nhk/newsweb/na/nd-20261106de71662",
         "https://news.web.nhk/newsweb/na/nd-20261106de71392",
         "https://news.web.nhk/newsweb/na/nd-20261106de71593",
@@ -468,8 +469,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261104de70274",
         "https://news.web.nhk/newsweb/na/nd-20261104de70271",
         "https://news.web.nhk/newsweb/na/nd-20261104de70242",
-        "https://news.web.nhk/newsweb/na/nd-20261104de70266",
-        "https://news.web.nhk/newsweb/na/nd-20261104de70145"
+        "https://news.web.nhk/newsweb/na/nd-20261104de70266"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/casio_crw-002_ring_watch/",
