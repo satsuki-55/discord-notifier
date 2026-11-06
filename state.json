@@ -272,6 +272,7 @@
         "https://www.bbc.co.uk/news/articles/c60e0jy0jx7ro#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261107de72008",
         "https://news.web.nhk/newsweb/na/nd-20261107de72010",
         "https://news.web.nhk/newsweb/na/nd-20261107de71993",
         "https://news.web.nhk/newsweb/na/nd-20261106de71846",
@@ -470,8 +471,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261104de70670",
         "https://news.web.nhk/newsweb/na/nd-20261104de70666",
         "https://news.web.nhk/newsweb/na/nd-20261104de70619",
-        "https://news.web.nhk/newsweb/na/nd-20261104de70648",
-        "https://news.web.nhk/newsweb/na/nd-20261104de70613"
+        "https://news.web.nhk/newsweb/na/nd-20261104de70648"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-ipad-mini-nano-texture-display/",
