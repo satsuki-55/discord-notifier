@@ -270,6 +270,7 @@
         "https://www.bbc.co.uk/news/articles/c6x29rr8djy3o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261106de71593",
         "https://news.web.nhk/newsweb/na/nd-20261106de71407",
         "https://news.web.nhk/newsweb/na/nd-20261106de71558",
         "https://news.web.nhk/newsweb/na/nd-20261106de71556",
@@ -468,8 +469,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261104de70266",
         "https://news.web.nhk/newsweb/na/nd-20261104de70145",
         "https://news.web.nhk/newsweb/na/nd-20261104de70170",
-        "https://news.web.nhk/newsweb/na/nd-20261104de70162",
-        "https://news.web.nhk/newsweb/na/nd-20261104de70160"
+        "https://news.web.nhk/newsweb/na/nd-20261104de70162"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-nintendo-switch-macronix-exit/",
