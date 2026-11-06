@@ -271,6 +271,7 @@
         "https://www.bbc.co.uk/news/articles/c977p01kgmmko#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261106de71543",
         "https://news.web.nhk/newsweb/na/nd-20261106de71619",
         "https://news.web.nhk/newsweb/na/nd-20261106de71708",
         "https://news.web.nhk/newsweb/na/nd-20261106de71681",
@@ -469,10 +470,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261104de70288",
         "https://news.web.nhk/newsweb/na/nd-20261104de70279",
         "https://news.web.nhk/newsweb/na/nd-20261104de70263",
-        "https://news.web.nhk/newsweb/na/nd-20261104de70278",
-        "https://news.web.nhk/newsweb/na/nd-20261104de70207"
+        "https://news.web.nhk/newsweb/na/nd-20261104de70278"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2611-smartru-automatic-wet-tissue-case-review/",
         "https://www.gizmodo.jp/article/france_hackers_target_money-and-blood/",
         "https://www.gizmodo.jp/article/casio_crw-002_ring_watch/",
         "https://www.gizmodo.jp/article/ipad-mini-unboxing-review/",
@@ -671,8 +672,7 @@
         "https://www.gizmodo.jp/article/2610-meta-ai-terms-update-scraping/",
         "https://www.gizmodo.jp/article/2610-anduril-bluechip-laptop-national-security/",
         "https://www.gizmodo.jp/article/sk-hynix-memory-sold-out-2029/",
-        "https://www.gizmodo.jp/article/krups_coffee_crush_experience/",
-        "https://www.gizmodo.jp/article/2610-anker-liberty-buds-2/"
+        "https://www.gizmodo.jp/article/krups_coffee_crush_experience/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "WAY24S_nTPY",
