@@ -70,6 +70,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cmly00r44jgvo#0",
         "https://www.bbc.co.uk/news/articles/cmwy4zqe1e9qo#0",
         "https://www.bbc.co.uk/news/articles/crlykl5gl3x4o#1",
         "https://www.bbc.co.uk/news/articles/cq1j33w7d232o#1",
@@ -268,8 +269,7 @@
         "https://www.bbc.co.uk/news/articles/c98rz6penv86o#0",
         "https://www.bbc.co.uk/news/articles/c6d934npl9y8o#1",
         "https://www.bbc.co.uk/news/articles/c98rz6penv86o#2",
-        "https://www.bbc.co.uk/news/articles/c317kjwj18wzo#0",
-        "https://www.bbc.co.uk/news/articles/cq5yn338mlyvo#1"
+        "https://www.bbc.co.uk/news/articles/c317kjwj18wzo#0"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20261106de71855",
@@ -474,6 +474,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261104de70400"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2611-datacenter-waste-heat-temperature-study/",
         "https://www.gizmodo.jp/article/apple_macbook-pro_luminescence_richblack_review/",
         "https://www.gizmodo.jp/article/casio_casiotone-ct-fs1_keyboard/",
         "https://www.gizmodo.jp/article/2611-smartru-automatic-wet-tissue-case-review/",
@@ -672,8 +673,7 @@
         "https://www.gizmodo.jp/article/f22cb6ef-a3d5-4adb-acfe-18c5d984f471/",
         "https://www.gizmodo.jp/article/razer-kraken-kitty-v3/",
         "https://www.gizmodo.jp/article/2610-food-truck-battery-popwheels/",
-        "https://www.gizmodo.jp/article/2610-meta-ai-terms-update-scraping/",
-        "https://www.gizmodo.jp/article/2610-anduril-bluechip-laptop-national-security/"
+        "https://www.gizmodo.jp/article/2610-meta-ai-terms-update-scraping/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "WAY24S_nTPY",
