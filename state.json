@@ -272,6 +272,7 @@
         "https://www.bbc.co.uk/news/articles/cmdxw051np9jo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261106de71869",
         "https://news.web.nhk/newsweb/na/nd-20261106de71729",
         "https://news.web.nhk/newsweb/na/nd-20261106de71861",
         "https://news.web.nhk/newsweb/na/nd-20261106de71855",
@@ -470,8 +471,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261104de70425",
         "https://news.web.nhk/newsweb/na/nd-20261104de70319",
         "https://news.web.nhk/newsweb/na/nd-20261104de70142",
-        "https://news.web.nhk/newsweb/na/nd-20261104de70482",
-        "https://news.web.nhk/newsweb/na/nd-20261104de70432"
+        "https://news.web.nhk/newsweb/na/nd-20261104de70482"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/iphone-duo-vs-ipad-mini/",
