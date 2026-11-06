@@ -271,6 +271,8 @@
         "https://www.bbc.co.uk/news/articles/cqev3mw3e0kdo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261106de71748",
+        "https://news.web.nhk/newsweb/na/nd-20261106de71834",
         "https://news.web.nhk/newsweb/na/nd-20261106de71818",
         "https://news.web.nhk/newsweb/na/nd-20261106de71809",
         "https://news.web.nhk/newsweb/na/nd-20261106de71689",
@@ -468,9 +470,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261028de66992",
         "https://news.web.nhk/newsweb/na/nd-20261028de66991",
         "https://news.web.nhk/newsweb/na/nd-20261104de70362",
-        "https://news.web.nhk/newsweb/na/nd-20261104de70346",
-        "https://news.web.nhk/newsweb/na/nd-20261104de70310",
-        "https://news.web.nhk/newsweb/na/nd-20261104de70229"
+        "https://news.web.nhk/newsweb/na/nd-20261104de70346"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/casio_casiotone-ct-fs1_keyboard/",
