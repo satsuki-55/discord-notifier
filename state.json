@@ -270,6 +270,7 @@
         "https://www.bbc.co.uk/news/articles/cqkgjvr00zmyo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261106de71357",
         "https://news.web.nhk/newsweb/na/nd-20261106de71443",
         "https://news.web.nhk/newsweb/na/nd-20261106de71420",
         "https://news.web.nhk/newsweb/na/nd-20261106de71412",
@@ -468,8 +469,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261103de70039",
         "https://news.web.nhk/newsweb/na/nd-20261104de70103",
         "https://news.web.nhk/newsweb/na/nd-20261103de70058",
-        "https://news.web.nhk/newsweb/na/nd-20261104de70092",
-        "https://news.web.nhk/newsweb/na/nd-20261030de68724"
+        "https://news.web.nhk/newsweb/na/nd-20261104de70092"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/google-be-scam-ready/",
