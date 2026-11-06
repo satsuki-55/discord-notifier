@@ -270,6 +270,8 @@
         "https://www.bbc.co.uk/news/articles/cqkgjvr00zmyo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261106de71505",
+        "https://news.web.nhk/newsweb/na/nd-20261106de71518",
         "https://news.web.nhk/newsweb/na/nd-20261106de71530",
         "https://news.web.nhk/newsweb/na/nd-20261106de71482",
         "https://news.web.nhk/newsweb/na/nd-20261106de71502",
@@ -467,9 +469,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261104de70151",
         "https://news.web.nhk/newsweb/na/nd-20261104de70141",
         "https://news.web.nhk/newsweb/na/nd-20261104de70131",
-        "https://news.web.nhk/newsweb/na/nd-20261104de70124",
-        "https://news.web.nhk/newsweb/na/nd-20261103de69965",
-        "https://news.web.nhk/newsweb/na/nd-20261104de70105"
+        "https://news.web.nhk/newsweb/na/nd-20261104de70124"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-mini-kitchen-scissors-houchou-cancel/",
