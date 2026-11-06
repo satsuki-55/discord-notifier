@@ -70,6 +70,8 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/crje55yzjw47o#0",
+        "https://www.bbc.co.uk/news/articles/c8qlnwng5pzwo#1",
         "https://www.bbc.co.uk/news/articles/cmly00r44jgvo#1",
         "https://www.bbc.co.uk/news/videos/cr86zxe1q5j3o#1",
         "https://www.bbc.co.uk/news/articles/cmly00r44jgvo#0",
@@ -267,11 +269,10 @@
         "https://www.bbc.co.uk/news/articles/c6n8dn457ypko#0",
         "https://www.bbc.co.uk/news/articles/cq1kdgnn2xdeo#1",
         "https://www.bbc.co.uk/news/articles/cmdxw051np9jo#0",
-        "https://www.bbc.co.uk/news/articles/cqx29rxkld84o#1",
-        "https://www.bbc.co.uk/news/articles/c98rz6penv86o#0",
-        "https://www.bbc.co.uk/news/articles/c6d934npl9y8o#1"
+        "https://www.bbc.co.uk/news/articles/cqx29rxkld84o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261106de71861",
         "https://news.web.nhk/newsweb/na/nd-20261106de71855",
         "https://news.web.nhk/newsweb/na/nd-20261103de70049",
         "https://news.web.nhk/newsweb/na/nd-20261106de71859",
@@ -470,8 +471,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261104de70142",
         "https://news.web.nhk/newsweb/na/nd-20261104de70482",
         "https://news.web.nhk/newsweb/na/nd-20261104de70432",
-        "https://news.web.nhk/newsweb/na/nd-20261104de70439",
-        "https://news.web.nhk/newsweb/na/nd-20261104de70400"
+        "https://news.web.nhk/newsweb/na/nd-20261104de70439"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/agibot-g2-convenience-store-trial/",
