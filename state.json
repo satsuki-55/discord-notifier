@@ -70,6 +70,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c9zrdd60zxk2o#1",
         "https://www.bbc.co.uk/news/articles/c6n8dn457ypko#0",
         "https://www.bbc.co.uk/news/articles/cm5yne5984l0o#0",
         "https://www.bbc.co.uk/news/articles/ckjrwx1r2d5ro#1",
@@ -268,10 +269,10 @@
         "https://www.bbc.co.uk/news/articles/cw77pg7neydmo#1",
         "https://www.bbc.co.uk/news/articles/c6rey4v53exgo#0",
         "https://www.bbc.co.uk/news/articles/c615j8pw1y81o#2",
-        "https://www.bbc.co.uk/news/articles/cm86zdp2ygqno#0",
-        "https://www.bbc.co.uk/news/videos/cmy4xz081kxyo#1"
+        "https://www.bbc.co.uk/news/articles/cm86zdp2ygqno#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261106de71939",
         "https://news.web.nhk/newsweb/na/nd-20261106de71905",
         "https://news.web.nhk/newsweb/na/nd-20261106de71934",
         "https://news.web.nhk/newsweb/na/nd-20261106de71913",
@@ -470,8 +471,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261104de70392",
         "https://news.web.nhk/newsweb/na/nd-20261104de70394",
         "https://news.web.nhk/newsweb/na/nd-20261104de70525",
-        "https://news.web.nhk/newsweb/na/nd-20261104de70438",
-        "https://news.web.nhk/newsweb/na/nd-20261104de70494"
+        "https://news.web.nhk/newsweb/na/nd-20261104de70438"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-anker-eufy-robot-vacuum-omni-e35/",
