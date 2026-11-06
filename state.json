@@ -271,6 +271,7 @@
         "https://www.bbc.co.uk/news/articles/c977p01kgmmko#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261106de71665",
         "https://news.web.nhk/newsweb/na/nd-20261106de71543",
         "https://news.web.nhk/newsweb/na/nd-20261106de71619",
         "https://news.web.nhk/newsweb/na/nd-20261106de71708",
@@ -469,8 +470,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261104de70282",
         "https://news.web.nhk/newsweb/na/nd-20261104de70288",
         "https://news.web.nhk/newsweb/na/nd-20261104de70279",
-        "https://news.web.nhk/newsweb/na/nd-20261104de70263",
-        "https://news.web.nhk/newsweb/na/nd-20261104de70278"
+        "https://news.web.nhk/newsweb/na/nd-20261104de70263"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-smartru-automatic-wet-tissue-case-review/",
