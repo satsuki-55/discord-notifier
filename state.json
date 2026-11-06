@@ -70,6 +70,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/ck7vpplgvrjqo#1",
         "https://www.bbc.co.uk/news/articles/crje55yzjw47o#0",
         "https://www.bbc.co.uk/news/articles/c8qlnwng5pzwo#1",
         "https://www.bbc.co.uk/news/articles/cmly00r44jgvo#1",
@@ -268,10 +269,10 @@
         "https://www.bbc.co.uk/news/articles/cq4g1701nl2lo#1",
         "https://www.bbc.co.uk/news/articles/c6n8dn457ypko#0",
         "https://www.bbc.co.uk/news/articles/cq1kdgnn2xdeo#1",
-        "https://www.bbc.co.uk/news/articles/cmdxw051np9jo#0",
-        "https://www.bbc.co.uk/news/articles/cqx29rxkld84o#1"
+        "https://www.bbc.co.uk/news/articles/cmdxw051np9jo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261106de71729",
         "https://news.web.nhk/newsweb/na/nd-20261106de71861",
         "https://news.web.nhk/newsweb/na/nd-20261106de71855",
         "https://news.web.nhk/newsweb/na/nd-20261103de70049",
@@ -470,10 +471,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261104de70319",
         "https://news.web.nhk/newsweb/na/nd-20261104de70142",
         "https://news.web.nhk/newsweb/na/nd-20261104de70482",
-        "https://news.web.nhk/newsweb/na/nd-20261104de70432",
-        "https://news.web.nhk/newsweb/na/nd-20261104de70439"
+        "https://news.web.nhk/newsweb/na/nd-20261104de70432"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/iphone-duo-vs-ipad-mini/",
         "https://www.gizmodo.jp/article/agibot-g2-convenience-store-trial/",
         "https://www.gizmodo.jp/article/2611-datacenter-waste-heat-temperature-study/",
         "https://www.gizmodo.jp/article/apple_macbook-pro_luminescence_richblack_review/",
@@ -672,8 +673,7 @@
         "https://www.gizmodo.jp/article/meta-waddle-world-ai-pet-journal/",
         "https://www.gizmodo.jp/article/2610-tesla-v2l-adapter-japan/",
         "https://www.gizmodo.jp/article/f22cb6ef-a3d5-4adb-acfe-18c5d984f471/",
-        "https://www.gizmodo.jp/article/razer-kraken-kitty-v3/",
-        "https://www.gizmodo.jp/article/2610-food-truck-battery-popwheels/"
+        "https://www.gizmodo.jp/article/razer-kraken-kitty-v3/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "WAY24S_nTPY",
