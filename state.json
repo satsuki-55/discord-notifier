@@ -270,6 +270,7 @@
         "https://www.bbc.co.uk/news/articles/cqkgjvr00zmyo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261106de71502",
         "https://news.web.nhk/newsweb/na/nd-20261106de71503",
         "https://news.web.nhk/newsweb/na/nd-20261106de71491",
         "https://news.web.nhk/newsweb/na/nd-20261106de71488",
@@ -468,10 +469,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261103de69965",
         "https://news.web.nhk/newsweb/na/nd-20261104de70105",
         "https://news.web.nhk/newsweb/na/nd-20261104de70104",
-        "https://news.web.nhk/newsweb/na/nd-20261104de70095",
-        "https://news.web.nhk/newsweb/na/nd-20261103de70059"
+        "https://news.web.nhk/newsweb/na/nd-20261104de70095"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2611-temple-health-tracker-temple/",
         "https://www.gizmodo.jp/article/2611-google-samsung-smart-glasses-release/",
         "https://www.gizmodo.jp/article/raven_prism-1_smartglasses/",
         "https://www.gizmodo.jp/article/flexible_ring_drone_flexiquad/",
@@ -670,8 +671,7 @@
         "https://www.gizmodo.jp/article/dbe8ce5b-77be-415a-8d3c-3a554d2355e1/",
         "https://www.gizmodo.jp/article/panasonic_plaquescan-brush/",
         "https://www.gizmodo.jp/article/oura_smart-ring_new_features_cardio_effort_vo2-max/",
-        "https://www.gizmodo.jp/article/2610-muji-card-case-mini-wallet/",
-        "https://www.gizmodo.jp/article/2610-stop-sns-addiction-foqos/"
+        "https://www.gizmodo.jp/article/2610-muji-card-case-mini-wallet/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "WAY24S_nTPY",
