@@ -69,6 +69,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cq1j33w7d232o#1",
         "https://www.bbc.co.uk/news/articles/cq1j33w7d232o#0",
         "https://www.bbc.co.uk/news/articles/cmly00l4p3lwo#0",
         "https://www.bbc.co.uk/news/articles/ckp8g4pm0y4lo#0",
@@ -267,10 +268,10 @@
         "https://www.bbc.co.uk/news/articles/c317kjwj18wzo#0",
         "https://www.bbc.co.uk/news/articles/cq5yn338mlyvo#1",
         "https://www.bbc.co.uk/news/articles/cmqxn7p1qpqno#1",
-        "https://www.bbc.co.uk/news/articles/cqev3mw3e0kdo#0",
-        "https://www.bbc.co.uk/news/articles/cm87zvpzwq0no#1"
+        "https://www.bbc.co.uk/news/articles/cqev3mw3e0kdo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261106de71818",
         "https://news.web.nhk/newsweb/na/nd-20261106de71809",
         "https://news.web.nhk/newsweb/na/nd-20261106de71689",
         "https://news.web.nhk/newsweb/na/nd-20261106de71517",
@@ -469,10 +470,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261104de70362",
         "https://news.web.nhk/newsweb/na/nd-20261104de70346",
         "https://news.web.nhk/newsweb/na/nd-20261104de70310",
-        "https://news.web.nhk/newsweb/na/nd-20261104de70229",
-        "https://news.web.nhk/newsweb/na/nd-20261104de70307"
+        "https://news.web.nhk/newsweb/na/nd-20261104de70229"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/casio_casiotone-ct-fs1_keyboard/",
         "https://www.gizmodo.jp/article/2611-smartru-automatic-wet-tissue-case-review/",
         "https://www.gizmodo.jp/article/france_hackers_target_money-and-blood/",
         "https://www.gizmodo.jp/article/casio_crw-002_ring_watch/",
@@ -671,8 +672,7 @@
         "https://www.gizmodo.jp/article/2610-food-truck-battery-popwheels/",
         "https://www.gizmodo.jp/article/2610-meta-ai-terms-update-scraping/",
         "https://www.gizmodo.jp/article/2610-anduril-bluechip-laptop-national-security/",
-        "https://www.gizmodo.jp/article/sk-hynix-memory-sold-out-2029/",
-        "https://www.gizmodo.jp/article/krups_coffee_crush_experience/"
+        "https://www.gizmodo.jp/article/sk-hynix-memory-sold-out-2029/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "WAY24S_nTPY",
