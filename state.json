@@ -272,6 +272,7 @@
         "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261107de71985",
         "https://news.web.nhk/newsweb/na/nd-20261104de70234",
         "https://news.web.nhk/newsweb/na/nd-20261106de71902",
         "https://news.web.nhk/newsweb/na/nd-20261107de71983",
@@ -470,8 +471,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261104de70615",
         "https://news.web.nhk/newsweb/na/nd-20261104de70610",
         "https://news.web.nhk/newsweb/na/nd-20261104de70587",
-        "https://news.web.nhk/newsweb/na/nd-20261104de70597",
-        "https://news.web.nhk/newsweb/na/nd-20261104de70600"
+        "https://news.web.nhk/newsweb/na/nd-20261104de70597"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/cappy_plastic-bottle-caps_reuse-kot-2/",
