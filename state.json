@@ -270,6 +270,7 @@
         "https://www.bbc.co.uk/news/articles/ckly0vvx41y3o#2"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261106de71360",
         "https://news.web.nhk/newsweb/na/nd-20261106de71359",
         "https://news.web.nhk/newsweb/na/nd-20261106de71363",
         "https://news.web.nhk/newsweb/na/nd-20261106de71341",
@@ -468,10 +469,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261030de68737",
         "https://news.web.nhk/newsweb/na/nd-20261103de70061",
         "https://news.web.nhk/newsweb/na/nd-20261103de70056",
-        "https://news.web.nhk/newsweb/na/nd-20261030de68714",
-        "https://news.web.nhk/newsweb/na/nd-20261030de68701"
+        "https://news.web.nhk/newsweb/na/nd-20261030de68714"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/gta-vi-download-size-ps5-xbox/",
         "https://www.gizmodo.jp/article/2611-google-school-ai-search-policy/",
         "https://www.gizmodo.jp/article/2611-plamo-3-translate-local-llm/",
         "https://www.gizmodo.jp/article/2611-pitaka-magsafe-macbook-case/",
@@ -670,8 +671,7 @@
         "https://www.gizmodo.jp/article/2610-ai-smart-tv-retro/",
         "https://www.gizmodo.jp/article/2610-google-privacy-policy-update-gmail-ads/",
         "https://www.gizmodo.jp/article/2610-ipad-mini-hands-on-review/",
-        "https://www.gizmodo.jp/article/google-chrome-fake-app-play-store/",
-        "https://www.gizmodo.jp/article/nape-pro-se-gizmart-re/"
+        "https://www.gizmodo.jp/article/google-chrome-fake-app-play-store/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "WAY24S_nTPY",
