@@ -270,6 +270,7 @@
         "https://www.bbc.co.uk/news/articles/cqkgjvr00zmyo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261106de71431",
         "https://news.web.nhk/newsweb/na/nd-20261106de71361",
         "https://news.web.nhk/newsweb/na/nd-20261106de71417",
         "https://news.web.nhk/newsweb/na/nd-20261106de71357",
@@ -468,8 +469,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261104de70112",
         "https://news.web.nhk/newsweb/na/nd-20261104de70111",
         "https://news.web.nhk/newsweb/na/nd-20261103de70060",
-        "https://news.web.nhk/newsweb/na/nd-20261103de70039",
-        "https://news.web.nhk/newsweb/na/nd-20261104de70103"
+        "https://news.web.nhk/newsweb/na/nd-20261103de70039"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/apple_app-store_ai_romance_age_rating/",
