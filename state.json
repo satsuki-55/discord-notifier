@@ -274,6 +274,7 @@
         "https://www.bbc.co.uk/news/articles/cq203vjxnln7o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261107de72187",
         "https://news.web.nhk/newsweb/na/nd-20261107de72163",
         "https://news.web.nhk/newsweb/na/nd-20261107de72136",
         "https://news.web.nhk/newsweb/na/nd-20261107de72045",
@@ -472,8 +473,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261105de70726",
         "https://news.web.nhk/newsweb/na/nd-20261105de70729",
         "https://news.web.nhk/newsweb/na/nd-20261104de70428",
-        "https://news.web.nhk/newsweb/na/nd-20261101de69279",
-        "https://news.web.nhk/newsweb/na/nd-20261105de70695"
+        "https://news.web.nhk/newsweb/na/nd-20261101de69279"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/japanese_micro-brand_watches/",
