@@ -72,6 +72,10 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c617kjqjvk12o#2",
+        "https://www.bbc.co.uk/news/articles/cx5ynly549njo#2",
+        "https://www.bbc.co.uk/news/articles/c6n499d3ykgwo#2",
+        "https://www.bbc.co.uk/news/articles/c8kgee9yxvn7o#3",
         "https://www.bbc.co.uk/news/articles/c60e0001ve9wo#1",
         "https://www.bbc.co.uk/news/articles/cw33xm0de221o#1",
         "https://www.bbc.co.uk/news/articles/c60e0001ve9wo#0",
@@ -267,11 +271,7 @@
         "https://www.bbc.co.uk/news/articles/cq4g1r42jx00o#0",
         "https://www.bbc.co.uk/news/articles/cx4g1qmej086o#1",
         "https://www.bbc.co.uk/news/articles/cm93zv62v1n7o#1",
-        "https://www.bbc.co.uk/news/videos/cmvg9yy8wpweo#1",
-        "https://www.bbc.co.uk/sport/football/articles/cme8rxx2e1w9o#0",
-        "https://www.bbc.co.uk/sport/football/articles/cme8rxx2e1w9o#1",
-        "https://www.bbc.co.uk/news/articles/cqkgjvr00zmyo#2",
-        "https://www.bbc.co.uk/news/articles/c8vgxyvz6y9ro#1"
+        "https://www.bbc.co.uk/news/videos/cmvg9yy8wpweo#1"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20261107de72136",
@@ -476,6 +476,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261105de70693"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/ai-proof-of-human-ghost-students/",
         "https://www.gizmodo.jp/article/scaj-mokable-ethiopia/",
         "https://www.gizmodo.jp/article/2611-monitor-back-storage-board/",
         "https://www.gizmodo.jp/article/2611-yamazakijiritsu-apto-wood-magnet/",
@@ -674,8 +675,7 @@
         "https://www.gizmodo.jp/article/hacker-group-claims-unm-hospital-cyberattack-then-apologizes-and-offers-patients/",
         "https://www.gizmodo.jp/article/pelican-aircase/",
         "https://www.gizmodo.jp/article/2610-retone-android-music-player/",
-        "https://www.gizmodo.jp/article/2610-iris-ohyama-ashiomoto-heater-gurupoka/",
-        "https://www.gizmodo.jp/article/gaming-tekoh-heater/"
+        "https://www.gizmodo.jp/article/2610-iris-ohyama-ashiomoto-heater-gurupoka/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "WAY24S_nTPY",
