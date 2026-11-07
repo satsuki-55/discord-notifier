@@ -275,6 +275,7 @@
         "https://www.bbc.co.uk/news/videos/c693ze38vywxo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261108de72290",
         "https://news.web.nhk/newsweb/na/nd-20261108de72284",
         "https://news.web.nhk/newsweb/na/nd-20261108de72285",
         "https://news.web.nhk/newsweb/na/nd-20261108de72283",
@@ -473,8 +474,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261105de70801",
         "https://news.web.nhk/newsweb/na/nd-20261105de70850",
         "https://news.web.nhk/newsweb/na/nd-20261105de70864",
-        "https://news.web.nhk/newsweb/na/nd-20261105de70890",
-        "https://news.web.nhk/newsweb/na/nd-20261105de70880"
+        "https://news.web.nhk/newsweb/na/nd-20261105de70890"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-airtag-lost-baggage-tracking/",
