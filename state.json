@@ -274,6 +274,7 @@
         "https://www.bbc.co.uk/news/articles/cwvgdjyg6qrqo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261107de72221",
         "https://news.web.nhk/newsweb/na/nd-20261107de72217",
         "https://news.web.nhk/newsweb/na/nd-20261107de72211",
         "https://news.web.nhk/newsweb/na/nd-20261107de72187",
@@ -472,8 +473,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261105de70743",
         "https://news.web.nhk/newsweb/na/nd-20261105de70745",
         "https://news.web.nhk/newsweb/na/nd-20261105de70742",
-        "https://news.web.nhk/newsweb/na/nd-20261105de70726",
-        "https://news.web.nhk/newsweb/na/nd-20261105de70729"
+        "https://news.web.nhk/newsweb/na/nd-20261105de70726"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-openai-bug-finding-ai-firefox-vulnerabilities/",
