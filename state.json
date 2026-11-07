@@ -274,6 +274,7 @@
         "https://www.bbc.co.uk/news/videos/cmvg9yy8wpweo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261107de72163",
         "https://news.web.nhk/newsweb/na/nd-20261107de72136",
         "https://news.web.nhk/newsweb/na/nd-20261107de72045",
         "https://news.web.nhk/newsweb/na/nd-20261107de72117",
@@ -472,10 +473,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261105de70729",
         "https://news.web.nhk/newsweb/na/nd-20261104de70428",
         "https://news.web.nhk/newsweb/na/nd-20261101de69279",
-        "https://news.web.nhk/newsweb/na/nd-20261105de70695",
-        "https://news.web.nhk/newsweb/na/nd-20261105de70693"
+        "https://news.web.nhk/newsweb/na/nd-20261105de70695"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/google-finland-datacenter-forest/",
         "https://www.gizmodo.jp/article/ai-proof-of-human-ghost-students/",
         "https://www.gizmodo.jp/article/scaj-mokable-ethiopia/",
         "https://www.gizmodo.jp/article/2611-monitor-back-storage-board/",
@@ -674,8 +675,7 @@
         "https://www.gizmodo.jp/article/2610-scentronic-digital-scent-device/",
         "https://www.gizmodo.jp/article/hacker-group-claims-unm-hospital-cyberattack-then-apologizes-and-offers-patients/",
         "https://www.gizmodo.jp/article/pelican-aircase/",
-        "https://www.gizmodo.jp/article/2610-retone-android-music-player/",
-        "https://www.gizmodo.jp/article/2610-iris-ohyama-ashiomoto-heater-gurupoka/"
+        "https://www.gizmodo.jp/article/2610-retone-android-music-player/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "WAY24S_nTPY",
