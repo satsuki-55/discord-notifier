@@ -274,6 +274,7 @@
         "https://www.bbc.co.uk/news/articles/cmze4zk4d789o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261107de72104",
         "https://news.web.nhk/newsweb/na/nd-20261107de72096",
         "https://news.web.nhk/newsweb/na/nd-20261107de72069",
         "https://news.web.nhk/newsweb/na/nd-20261107de72072",
@@ -472,10 +473,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261105de70693",
         "https://news.web.nhk/newsweb/na/nd-20261105de70714",
         "https://news.web.nhk/newsweb/na/nd-20261105de70687",
-        "https://news.web.nhk/newsweb/na/nd-20261105de70712",
-        "https://news.web.nhk/newsweb/na/nd-20261105de70691"
+        "https://news.web.nhk/newsweb/na/nd-20261105de70712"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2611-monitor-back-storage-board/",
         "https://www.gizmodo.jp/article/2611-yamazakijiritsu-apto-wood-magnet/",
         "https://www.gizmodo.jp/article/m6-imac-review/",
         "https://www.gizmodo.jp/article/2611-meta-quest-2-pro-development-end-2027/",
@@ -674,8 +675,7 @@
         "https://www.gizmodo.jp/article/2610-retone-android-music-player/",
         "https://www.gizmodo.jp/article/2610-iris-ohyama-ashiomoto-heater-gurupoka/",
         "https://www.gizmodo.jp/article/gaming-tekoh-heater/",
-        "https://www.gizmodo.jp/article/2610-juice-interstellar-comet-3i-atlas/",
-        "https://www.gizmodo.jp/article/2610-lenovo-googlebook-15-review/"
+        "https://www.gizmodo.jp/article/2610-juice-interstellar-comet-3i-atlas/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "WAY24S_nTPY",
