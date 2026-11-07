@@ -274,6 +274,7 @@
         "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261107de72045",
         "https://news.web.nhk/newsweb/na/nd-20261107de72117",
         "https://news.web.nhk/newsweb/na/nd-20261107de72104",
         "https://news.web.nhk/newsweb/na/nd-20261107de72096",
@@ -472,8 +473,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261101de69279",
         "https://news.web.nhk/newsweb/na/nd-20261105de70695",
         "https://news.web.nhk/newsweb/na/nd-20261105de70693",
-        "https://news.web.nhk/newsweb/na/nd-20261105de70714",
-        "https://news.web.nhk/newsweb/na/nd-20261105de70687"
+        "https://news.web.nhk/newsweb/na/nd-20261105de70714"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-monitor-back-storage-board/",
