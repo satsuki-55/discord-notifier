@@ -275,6 +275,7 @@
         "https://www.bbc.co.uk/news/articles/c9p8g085mz07o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261108de72358",
         "https://news.web.nhk/newsweb/na/nd-20261107de72247",
         "https://news.web.nhk/newsweb/na/nd-20261108de72339",
         "https://news.web.nhk/newsweb/na/nd-20261108de72317",
@@ -473,8 +474,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261105de71090",
         "https://news.web.nhk/newsweb/na/nd-20261105de70981",
         "https://news.web.nhk/newsweb/na/nd-20261105de71024",
-        "https://news.web.nhk/newsweb/na/nd-20261105de71025",
-        "https://news.web.nhk/newsweb/na/nd-20261105de70996"
+        "https://news.web.nhk/newsweb/na/nd-20261105de71025"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/rainproof_bicycle_cabin/",
