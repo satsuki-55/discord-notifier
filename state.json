@@ -276,6 +276,8 @@
         "https://www.bbc.co.uk/news/articles/crvg9yyz5437o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261108de72622",
+        "https://news.web.nhk/newsweb/na/nd-20261109de72639",
         "https://news.web.nhk/newsweb/na/nd-20261109de72671",
         "https://news.web.nhk/newsweb/na/nd-20261109de72637",
         "https://news.web.nhk/newsweb/na/nd-20261108de72609",
@@ -473,9 +475,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261105de71249",
         "https://news.web.nhk/newsweb/na/nd-20261105de71233",
         "https://news.web.nhk/newsweb/na/nd-20261105de71235",
-        "https://news.web.nhk/newsweb/na/nd-20261105de71230",
-        "https://news.web.nhk/newsweb/na/nd-20261105de71227",
-        "https://news.web.nhk/newsweb/na/nd-20261105de71224"
+        "https://news.web.nhk/newsweb/na/nd-20261105de71230"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-birds-vs-beach-drones/",
