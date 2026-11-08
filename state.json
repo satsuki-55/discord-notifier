@@ -74,6 +74,9 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cwyvrzle4g98o#0",
+        "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo#0",
+        "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo#1",
         "https://www.bbc.co.uk/news/articles/cv8ez3p3ge5ko#0",
         "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o#0",
         "https://www.bbc.co.uk/news/articles/cm70pdwz122ro#0",
@@ -270,12 +273,10 @@
         "https://www.bbc.co.uk/news/articles/c8vgxyvz6y9ro#0",
         "https://www.bbc.co.uk/news/articles/cw8rzzx46jd5o#1",
         "https://www.bbc.co.uk/news/articles/crvg9yyz5437o#1",
-        "https://www.bbc.co.uk/news/articles/c977ppnezep6o#0",
-        "https://www.bbc.co.uk/news/articles/cmdx33v9vvr2o#1",
-        "https://www.bbc.co.uk/news/articles/ckjrwx1r2d5ro#0",
-        "https://www.bbc.co.uk/news/articles/cwyvrzle4g98o#0"
+        "https://www.bbc.co.uk/news/articles/c977ppnezep6o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261109de72671",
         "https://news.web.nhk/newsweb/na/nd-20261109de72637",
         "https://news.web.nhk/newsweb/na/nd-20261108de72609",
         "https://news.web.nhk/newsweb/na/nd-20261108de72599",
@@ -474,8 +475,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261105de71235",
         "https://news.web.nhk/newsweb/na/nd-20261105de71230",
         "https://news.web.nhk/newsweb/na/nd-20261105de71227",
-        "https://news.web.nhk/newsweb/na/nd-20261105de71224",
-        "https://news.web.nhk/newsweb/na/nd-20261105de71225"
+        "https://news.web.nhk/newsweb/na/nd-20261105de71224"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-birds-vs-beach-drones/",
