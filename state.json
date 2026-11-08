@@ -275,6 +275,8 @@
         "https://www.bbc.co.uk/news/articles/cmd9343z3zw2o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261108de72485",
+        "https://news.web.nhk/newsweb/na/nd-20261108de72482",
         "https://news.web.nhk/newsweb/na/nd-20261108de72476",
         "https://news.web.nhk/newsweb/na/nd-20261108de72452",
         "https://news.web.nhk/newsweb/na/nd-20261108de72455",
@@ -472,9 +474,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261105de71074",
         "https://news.web.nhk/newsweb/na/nd-20261105de71164",
         "https://news.web.nhk/newsweb/na/nd-20261105de71186",
-        "https://news.web.nhk/newsweb/na/nd-20261105de71179",
-        "https://news.web.nhk/newsweb/na/nd-20261105de71144",
-        "https://news.web.nhk/newsweb/na/nd-20261105de70970"
+        "https://news.web.nhk/newsweb/na/nd-20261105de71179"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/h-tag_hamburger_shoulder_bag/",
