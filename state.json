@@ -276,6 +276,7 @@
         "https://www.bbc.co.uk/news/articles/cqg7xxg4jdv5o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261108de72599",
         "https://news.web.nhk/newsweb/na/nd-20261108de72603",
         "https://news.web.nhk/newsweb/na/nd-20261108de72408",
         "https://news.web.nhk/newsweb/na/nd-20261108de72566",
@@ -474,8 +475,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261105de71224",
         "https://news.web.nhk/newsweb/na/nd-20261105de71225",
         "https://news.web.nhk/newsweb/na/nd-20261105de71223",
-        "https://news.web.nhk/newsweb/na/nd-20261105de71209",
-        "https://news.web.nhk/newsweb/na/nd-20261105de71178"
+        "https://news.web.nhk/newsweb/na/nd-20261105de71209"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-elon-musk-ai-cost-grok-bot/",
