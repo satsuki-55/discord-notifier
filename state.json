@@ -276,6 +276,7 @@
         "https://www.bbc.co.uk/news/articles/cqn06j0y61k6o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261108de72529",
         "https://news.web.nhk/newsweb/na/nd-20261028de66996",
         "https://news.web.nhk/newsweb/na/nd-20261108de72485",
         "https://news.web.nhk/newsweb/na/nd-20261108de72482",
@@ -474,8 +475,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261105de71178",
         "https://news.web.nhk/newsweb/na/nd-20261105de71182",
         "https://news.web.nhk/newsweb/na/nd-20261105de71074",
-        "https://news.web.nhk/newsweb/na/nd-20261105de71164",
-        "https://news.web.nhk/newsweb/na/nd-20261105de71186"
+        "https://news.web.nhk/newsweb/na/nd-20261105de71164"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-galaxy-fit-4-nfc-cashless/",
