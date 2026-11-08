@@ -275,6 +275,7 @@
         "https://www.bbc.co.uk/news/articles/c8n5vvr906dvo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261108de72392",
         "https://news.web.nhk/newsweb/na/nd-20261108de72373",
         "https://news.web.nhk/newsweb/na/nd-20261108de72365",
         "https://news.web.nhk/newsweb/na/nd-20261108de72358",
@@ -473,8 +474,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261105de71154",
         "https://news.web.nhk/newsweb/na/nd-20261105de71078",
         "https://news.web.nhk/newsweb/na/nd-20261105de71141",
-        "https://news.web.nhk/newsweb/na/nd-20261105de71090",
-        "https://news.web.nhk/newsweb/na/nd-20261105de70981"
+        "https://news.web.nhk/newsweb/na/nd-20261105de71090"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-seria-magnet-frame-sheet-review/",
