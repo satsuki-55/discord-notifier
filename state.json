@@ -275,6 +275,7 @@
         "https://www.bbc.co.uk/news/articles/cmd9343z3zw2o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261108de72455",
         "https://news.web.nhk/newsweb/na/nd-20261028de66995",
         "https://news.web.nhk/newsweb/na/nd-20261108de72420",
         "https://news.web.nhk/newsweb/na/nd-20261108de72412",
@@ -473,8 +474,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261105de71144",
         "https://news.web.nhk/newsweb/na/nd-20261105de70970",
         "https://news.web.nhk/newsweb/na/nd-20261105de71030",
-        "https://news.web.nhk/newsweb/na/nd-20261105de71103",
-        "https://news.web.nhk/newsweb/na/nd-20261105de71088"
+        "https://news.web.nhk/newsweb/na/nd-20261105de71103"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/canon-tc-n3-tc-e3-timer-remote/",
