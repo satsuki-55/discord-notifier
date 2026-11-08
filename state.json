@@ -276,6 +276,7 @@
         "https://www.bbc.co.uk/news/articles/cmy0eeg101djo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261108de72609",
         "https://news.web.nhk/newsweb/na/nd-20261108de72599",
         "https://news.web.nhk/newsweb/na/nd-20261108de72603",
         "https://news.web.nhk/newsweb/na/nd-20261108de72408",
@@ -474,10 +475,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261105de71227",
         "https://news.web.nhk/newsweb/na/nd-20261105de71224",
         "https://news.web.nhk/newsweb/na/nd-20261105de71225",
-        "https://news.web.nhk/newsweb/na/nd-20261105de71223",
-        "https://news.web.nhk/newsweb/na/nd-20261105de71209"
+        "https://news.web.nhk/newsweb/na/nd-20261105de71223"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2611-faa-floppy-disk-system-update/",
         "https://www.gizmodo.jp/article/2611-elon-musk-ai-cost-grok-bot/",
         "https://www.gizmodo.jp/article/2611-iron-powder-energy-storage/",
         "https://www.gizmodo.jp/article/2611-comet-origin-of-life-theory-challenged/",
@@ -676,8 +677,7 @@
         "https://www.gizmodo.jp/article/this-super-el-nino-is-drawing-exotic-species-to-the-california-coast/",
         "https://www.gizmodo.jp/article/2610-lenovo-yoga-9-2in1-review/",
         "https://www.gizmodo.jp/article/2610-infinity-gauntlet-real-gems-auction/",
-        "https://www.gizmodo.jp/article/2610-pig-kidney-cryopreservation-transplant-success/",
-        "https://www.gizmodo.jp/article/2610-maxxing-word-of-the-year-ai/"
+        "https://www.gizmodo.jp/article/2610-pig-kidney-cryopreservation-transplant-success/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "GIv3foDi6o4",
