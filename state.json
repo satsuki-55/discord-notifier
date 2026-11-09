@@ -276,6 +276,7 @@
         "https://www.bbc.co.uk/news/articles/cq1m41n3v7mmo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261109de73165",
         "https://news.web.nhk/newsweb/na/nd-20261109de73160",
         "https://news.web.nhk/newsweb/na/nd-20261109de73136",
         "https://news.web.nhk/newsweb/na/nd-20261109de73077",
@@ -474,8 +475,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261106de71619",
         "https://news.web.nhk/newsweb/na/nd-20261106de71708",
         "https://news.web.nhk/newsweb/na/nd-20261106de71681",
-        "https://news.web.nhk/newsweb/na/nd-20261106de71598",
-        "https://news.web.nhk/newsweb/na/nd-20261106de71649"
+        "https://news.web.nhk/newsweb/na/nd-20261106de71598"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/homepod-mini-update-new-features/",
