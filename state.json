@@ -276,6 +276,8 @@
         "https://www.bbc.co.uk/news/articles/c9zrdd60zxk2o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261109de72808",
+        "https://news.web.nhk/newsweb/na/nd-20261109de72718",
         "https://news.web.nhk/newsweb/na/nd-20261109de72781",
         "https://news.web.nhk/newsweb/na/nd-20261109de72735",
         "https://news.web.nhk/newsweb/na/nd-20261109de72721",
@@ -473,9 +475,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261106de71306",
         "https://news.web.nhk/newsweb/na/nd-20261106de71304",
         "https://news.web.nhk/newsweb/na/nd-20261106de71298",
-        "https://news.web.nhk/newsweb/na/nd-20261105de71296",
-        "https://news.web.nhk/newsweb/na/nd-20261105de71278",
-        "https://news.web.nhk/newsweb/na/nd-20261105de71277"
+        "https://news.web.nhk/newsweb/na/nd-20261105de71296"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-bluetooth-lossless-wireless-audio-hdt/",
