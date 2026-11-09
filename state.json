@@ -276,6 +276,8 @@
         "https://www.bbc.co.uk/news/articles/c3j4751pqnj8o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261109de73178",
+        "https://news.web.nhk/newsweb/na/nd-20261109de73182",
         "https://news.web.nhk/newsweb/na/nd-20261109de73174",
         "https://news.web.nhk/newsweb/na/nd-20261109de73172",
         "https://news.web.nhk/newsweb/na/nd-20261109de73165",
@@ -473,9 +475,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261106de71754",
         "https://news.web.nhk/newsweb/na/nd-20261106de71778",
         "https://news.web.nhk/newsweb/na/nd-20261106de71665",
-        "https://news.web.nhk/newsweb/na/nd-20261106de71543",
-        "https://news.web.nhk/newsweb/na/nd-20261106de71619",
-        "https://news.web.nhk/newsweb/na/nd-20261106de71708"
+        "https://news.web.nhk/newsweb/na/nd-20261106de71543"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-iphone-keyboard-censored-words-list/",
