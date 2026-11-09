@@ -276,6 +276,7 @@
         "https://www.bbc.co.uk/news/articles/cqrkyymd3533o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261109de72833",
         "https://news.web.nhk/newsweb/na/nd-20261109de72831",
         "https://news.web.nhk/newsweb/na/nd-20261109de72834",
         "https://news.web.nhk/newsweb/na/nd-20261109de72808",
@@ -474,10 +475,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261106de71299",
         "https://news.web.nhk/newsweb/na/nd-20261106de71307",
         "https://news.web.nhk/newsweb/na/nd-20261106de71308",
-        "https://news.web.nhk/newsweb/na/nd-20261106de71306",
-        "https://news.web.nhk/newsweb/na/nd-20261106de71304"
+        "https://news.web.nhk/newsweb/na/nd-20261106de71306"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2611-gentle-monster-android-xr-smart-glasses/",
         "https://www.gizmodo.jp/article/2611-jackery-explorer-100d-portable-power-station/",
         "https://www.gizmodo.jp/article/2611-bluetooth-lossless-wireless-audio-hdt/",
         "https://www.gizmodo.jp/article/2611-earths-inner-core-shape-changing/",
@@ -676,8 +677,7 @@
         "https://www.gizmodo.jp/article/2611-yamazaki-drain-net-holder/",
         "https://www.gizmodo.jp/article/fmv-mouse-x/",
         "https://www.gizmodo.jp/article/descente-allterrain_hard-shell-jacket-creas-coat/",
-        "https://www.gizmodo.jp/article/apple_homepod_lock_controls/",
-        "https://www.gizmodo.jp/article/2610-ai-assistant-earphone-vs-glasses/"
+        "https://www.gizmodo.jp/article/apple_homepod_lock_controls/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "GIv3foDi6o4",
