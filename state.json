@@ -276,6 +276,8 @@
         "https://www.bbc.co.uk/news/articles/c6wyrrwj9xlro#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261110de73247",
+        "https://news.web.nhk/newsweb/na/nd-20261106de71869",
         "https://news.web.nhk/newsweb/na/nd-20261110de73246",
         "https://news.web.nhk/newsweb/na/nd-20261110de73245",
         "https://news.web.nhk/newsweb/na/nd-20261110de73244",
@@ -473,9 +475,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261106de71939",
         "https://news.web.nhk/newsweb/na/nd-20261106de71905",
         "https://news.web.nhk/newsweb/na/nd-20261106de71934",
-        "https://news.web.nhk/newsweb/na/nd-20261106de71913",
-        "https://news.web.nhk/newsweb/na/nd-20261106de71822",
-        "https://news.web.nhk/newsweb/na/nd-20261106de71860"
+        "https://news.web.nhk/newsweb/na/nd-20261106de71913"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/instagram-edits-macos/",
