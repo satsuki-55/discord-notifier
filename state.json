@@ -276,6 +276,7 @@
         "https://www.bbc.co.uk/news/articles/cm86zdp2ygqno#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261109de72824",
         "https://news.web.nhk/newsweb/na/nd-20261109de72848",
         "https://news.web.nhk/newsweb/na/nd-20261109de72868",
         "https://news.web.nhk/newsweb/na/nd-20261109de72879",
@@ -474,8 +475,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261105de71260",
         "https://news.web.nhk/newsweb/na/nd-20261105de71108",
         "https://news.web.nhk/newsweb/na/nd-20261106de71336",
-        "https://news.web.nhk/newsweb/na/nd-20261106de71331",
-        "https://news.web.nhk/newsweb/na/nd-20261105de71231"
+        "https://news.web.nhk/newsweb/na/nd-20261106de71331"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-yamazakijirushi-slide-table/",
