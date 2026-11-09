@@ -276,6 +276,8 @@
         "https://www.bbc.co.uk/news/articles/cx8dzzy8n713o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261109de73132",
+        "https://news.web.nhk/newsweb/na/nd-20261106de71556",
         "https://news.web.nhk/newsweb/na/nd-20261109de73130",
         "https://news.web.nhk/newsweb/na/nd-20261106de71533",
         "https://news.web.nhk/newsweb/na/nd-20261109de73135",
@@ -473,9 +475,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261106de71649",
         "https://news.web.nhk/newsweb/na/nd-20261106de71664",
         "https://news.web.nhk/newsweb/na/nd-20261106de71662",
-        "https://news.web.nhk/newsweb/na/nd-20261106de71392",
-        "https://news.web.nhk/newsweb/na/nd-20261106de71593",
-        "https://news.web.nhk/newsweb/na/nd-20261106de71407"
+        "https://news.web.nhk/newsweb/na/nd-20261106de71392"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/authorities-at-lima-airport-find-more-than-3000-tarantulas-hidden-in-dirty-socks/",
