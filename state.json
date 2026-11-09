@@ -276,6 +276,7 @@
         "https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261110de73237",
         "https://news.web.nhk/newsweb/na/nd-20261106de71858",
         "https://news.web.nhk/newsweb/na/nd-20261109de73119",
         "https://news.web.nhk/newsweb/na/nd-20261110de73224",
@@ -474,8 +475,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261106de71860",
         "https://news.web.nhk/newsweb/na/nd-20261106de71869",
         "https://news.web.nhk/newsweb/na/nd-20261106de71729",
-        "https://news.web.nhk/newsweb/na/nd-20261106de71861",
-        "https://news.web.nhk/newsweb/na/nd-20261106de71855"
+        "https://news.web.nhk/newsweb/na/nd-20261106de71861"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-nasa-moon-astronaut-recruitment-salary/",
