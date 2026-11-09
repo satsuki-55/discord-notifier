@@ -276,6 +276,8 @@
         "https://www.bbc.co.uk/news/articles/cx238yyr40qo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261109de73115",
+        "https://news.web.nhk/newsweb/na/nd-20261109de73076",
         "https://news.web.nhk/newsweb/na/nd-20261109de73086",
         "https://news.web.nhk/newsweb/na/nd-20261106de71396",
         "https://news.web.nhk/newsweb/na/nd-20261109de73045",
@@ -473,9 +475,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261106de71491",
         "https://news.web.nhk/newsweb/na/nd-20261106de71488",
         "https://news.web.nhk/newsweb/na/nd-20261106de71473",
-        "https://news.web.nhk/newsweb/na/nd-20261106de71431",
-        "https://news.web.nhk/newsweb/na/nd-20261106de71361",
-        "https://news.web.nhk/newsweb/na/nd-20261106de71417"
+        "https://news.web.nhk/newsweb/na/nd-20261106de71431"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/nape-pro-keychron-behind-scenes-repost/",
