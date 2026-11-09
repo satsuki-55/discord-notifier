@@ -74,6 +74,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/ck1l3le7q29vo#1",
         "https://www.bbc.co.uk/news/articles/cw1m4d8vjvppo#1",
         "https://www.bbc.co.uk/news/videos/cq99z9mrv35lo#1",
         "https://www.bbc.co.uk/news/articles/c95ynylr8j6xo#1",
@@ -272,10 +273,10 @@
         "https://www.bbc.co.uk/news/articles/cm78pxxe55v0o#0",
         "https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o#0",
         "https://www.bbc.co.uk/news/articles/c6wyrrwj9xlro#0",
-        "https://www.bbc.co.uk/news/articles/c6ly334rem5do#1",
-        "https://www.bbc.co.uk/news/articles/crp3gg2z171go#0"
+        "https://www.bbc.co.uk/news/articles/c6ly334rem5do#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261110de73230",
         "https://news.web.nhk/newsweb/na/nd-20261110de73223",
         "https://news.web.nhk/newsweb/na/nd-20261110de73218",
         "https://news.web.nhk/newsweb/na/nd-20261109de73183",
@@ -474,8 +475,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261028de66994",
         "https://news.web.nhk/newsweb/na/nd-20261106de71845",
         "https://news.web.nhk/newsweb/na/nd-20261106de71748",
-        "https://news.web.nhk/newsweb/na/nd-20261106de71834",
-        "https://news.web.nhk/newsweb/na/nd-20261106de71818"
+        "https://news.web.nhk/newsweb/na/nd-20261106de71834"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-invisible-qr-code-2tb-a4-paper/",
