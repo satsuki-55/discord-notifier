@@ -276,6 +276,8 @@
         "https://www.bbc.co.uk/news/articles/cx238yyr40qo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261109de72912",
+        "https://news.web.nhk/newsweb/na/nd-20261109de73131",
         "https://news.web.nhk/newsweb/na/nd-20261109de73129",
         "https://news.web.nhk/newsweb/na/nd-20261109de72895",
         "https://news.web.nhk/newsweb/na/nd-20261109de72909",
@@ -473,9 +475,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261106de71556",
         "https://news.web.nhk/newsweb/na/nd-20261106de71533",
         "https://news.web.nhk/newsweb/na/nd-20261106de71532",
-        "https://news.web.nhk/newsweb/na/nd-20261106de71505",
-        "https://news.web.nhk/newsweb/na/nd-20261106de71518",
-        "https://news.web.nhk/newsweb/na/nd-20261106de71530"
+        "https://news.web.nhk/newsweb/na/nd-20261106de71505"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/dragon-quest-makaiju/",
