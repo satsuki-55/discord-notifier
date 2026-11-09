@@ -74,6 +74,8 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/ckgel338xql3o#0",
+        "https://www.bbc.co.uk/news/articles/cq62y01r2313o#1",
         "https://www.bbc.co.uk/news/articles/cqkg5g2970epo#1",
         "https://www.bbc.co.uk/news/articles/ck1wvrrgln13o#0",
         "https://www.bbc.co.uk/news/articles/ck1wvrrgln13o#1",
@@ -271,9 +273,7 @@
         "https://www.bbc.co.uk/news/articles/cxyvrr686lzqo#0",
         "https://www.bbc.co.uk/news/articles/cqm26m2l4p7eo#0",
         "https://www.bbc.co.uk/news/articles/c6rey4v53exgo#0",
-        "https://www.bbc.co.uk/news/articles/cm2d66n0lx1yo#0",
-        "https://www.bbc.co.uk/news/articles/ckp8g4pm0y4lo#1",
-        "https://www.bbc.co.uk/news/articles/cm86zdp2ygqno#0"
+        "https://www.bbc.co.uk/news/articles/cm2d66n0lx1yo#0"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20261109de72824",
@@ -478,6 +478,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261106de71331"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2611-enough-phone-compact-smartphone/",
         "https://www.gizmodo.jp/article/2611-yamazakijirushi-slide-table/",
         "https://www.gizmodo.jp/article/2611-mdr-3r-usb-c-sony-headphones/",
         "https://www.gizmodo.jp/article/2611-gentle-monster-android-xr-smart-glasses/",
@@ -676,8 +677,7 @@
         "https://www.gizmodo.jp/article/myofree/",
         "https://www.gizmodo.jp/article/bfc293dd-d248-49fb-81f6-6ab44c7d4a04/",
         "https://www.gizmodo.jp/article/2610-cogit-soap-case-review/",
-        "https://www.gizmodo.jp/article/2611-yamazaki-drain-net-holder/",
-        "https://www.gizmodo.jp/article/fmv-mouse-x/"
+        "https://www.gizmodo.jp/article/2611-yamazaki-drain-net-holder/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "GIv3foDi6o4",
