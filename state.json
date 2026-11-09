@@ -276,6 +276,7 @@
         "https://www.bbc.co.uk/news/articles/cx8dzzy8n713o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261109de73136",
         "https://news.web.nhk/newsweb/na/nd-20261109de73077",
         "https://news.web.nhk/newsweb/na/nd-20261109de73132",
         "https://news.web.nhk/newsweb/na/nd-20261106de71556",
@@ -474,8 +475,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261106de71681",
         "https://news.web.nhk/newsweb/na/nd-20261106de71598",
         "https://news.web.nhk/newsweb/na/nd-20261106de71649",
-        "https://news.web.nhk/newsweb/na/nd-20261106de71664",
-        "https://news.web.nhk/newsweb/na/nd-20261106de71662"
+        "https://news.web.nhk/newsweb/na/nd-20261106de71664"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-viture-phantom-blade-zero-xr-glasses/",
