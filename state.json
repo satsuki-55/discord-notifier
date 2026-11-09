@@ -276,6 +276,7 @@
         "https://www.bbc.co.uk/news/articles/cx238yyr40qo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261109de73129",
         "https://news.web.nhk/newsweb/na/nd-20261109de72895",
         "https://news.web.nhk/newsweb/na/nd-20261109de72909",
         "https://news.web.nhk/newsweb/na/nd-20261109de73126",
@@ -474,8 +475,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261106de71532",
         "https://news.web.nhk/newsweb/na/nd-20261106de71505",
         "https://news.web.nhk/newsweb/na/nd-20261106de71518",
-        "https://news.web.nhk/newsweb/na/nd-20261106de71530",
-        "https://news.web.nhk/newsweb/na/nd-20261106de71482"
+        "https://news.web.nhk/newsweb/na/nd-20261106de71530"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/meta-terms-update-publisher-backlash/",
