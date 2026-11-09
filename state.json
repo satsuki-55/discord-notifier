@@ -276,6 +276,8 @@
         "https://www.bbc.co.uk/news/articles/c6n8dn457ypko#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261109de72721",
+        "https://news.web.nhk/newsweb/na/nd-20261109de72716",
         "https://news.web.nhk/newsweb/na/nd-20261109de72708",
         "https://news.web.nhk/newsweb/na/nd-20261109de72697",
         "https://news.web.nhk/newsweb/na/nd-20261109de72699",
@@ -473,9 +475,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261105de71278",
         "https://news.web.nhk/newsweb/na/nd-20261105de71277",
         "https://news.web.nhk/newsweb/na/nd-20261105de71276",
-        "https://news.web.nhk/newsweb/na/nd-20261105de71273",
-        "https://news.web.nhk/newsweb/na/nd-20261105de71266",
-        "https://news.web.nhk/newsweb/na/nd-20261105de71268"
+        "https://news.web.nhk/newsweb/na/nd-20261105de71273"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-earths-inner-core-shape-changing/",
