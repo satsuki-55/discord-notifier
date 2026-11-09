@@ -74,6 +74,8 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/ckn9r0zd0ynwo#0",
+        "https://www.bbc.co.uk/news/articles/c6y434dw8319o#1",
         "https://www.bbc.co.uk/news/articles/cwzrd5jj47ndo#0",
         "https://www.bbc.co.uk/news/articles/cwyvrzle4g98o#1",
         "https://www.bbc.co.uk/news/articles/ckj0l082jqzvo#0",
@@ -271,11 +273,10 @@
         "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo#0",
         "https://www.bbc.co.uk/news/articles/c8qlnne7x9y1o#1",
         "https://www.bbc.co.uk/sport/cricket/articles/c62keenz7dzjo#1",
-        "https://www.bbc.co.uk/news/articles/cm4g1jqwylvgo#2",
-        "https://www.bbc.co.uk/news/articles/cjkgee4yw3xno#2",
-        "https://www.bbc.co.uk/news/videos/c693ze38vywxo#2"
+        "https://www.bbc.co.uk/news/articles/cm4g1jqwylvgo#2"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261109de72914",
         "https://news.web.nhk/newsweb/na/nd-20261109de72904",
         "https://news.web.nhk/newsweb/na/nd-20261109de72824",
         "https://news.web.nhk/newsweb/na/nd-20261109de72848",
@@ -474,8 +475,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261106de71341",
         "https://news.web.nhk/newsweb/na/nd-20261106de71340",
         "https://news.web.nhk/newsweb/na/nd-20261105de71260",
-        "https://news.web.nhk/newsweb/na/nd-20261105de71108",
-        "https://news.web.nhk/newsweb/na/nd-20261106de71336"
+        "https://news.web.nhk/newsweb/na/nd-20261105de71108"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-enough-phone-compact-smartphone/",
