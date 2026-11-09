@@ -276,6 +276,7 @@
         "https://www.bbc.co.uk/news/articles/cqrkyymd3533o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261109de72834",
         "https://news.web.nhk/newsweb/na/nd-20261109de72808",
         "https://news.web.nhk/newsweb/na/nd-20261109de72718",
         "https://news.web.nhk/newsweb/na/nd-20261109de72781",
@@ -474,8 +475,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261106de71308",
         "https://news.web.nhk/newsweb/na/nd-20261106de71306",
         "https://news.web.nhk/newsweb/na/nd-20261106de71304",
-        "https://news.web.nhk/newsweb/na/nd-20261106de71298",
-        "https://news.web.nhk/newsweb/na/nd-20261105de71296"
+        "https://news.web.nhk/newsweb/na/nd-20261106de71298"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-jackery-explorer-100d-portable-power-station/",
