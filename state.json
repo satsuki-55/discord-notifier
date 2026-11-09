@@ -74,6 +74,9 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cxyvrr5rz282o#0",
+        "https://www.bbc.co.uk/news/articles/cmwyvydp2vz8o#0",
+        "https://www.bbc.co.uk/news/articles/c674p4lynjk1o#1",
         "https://www.bbc.co.uk/news/articles/c5n494x9kgp0o#1",
         "https://www.bbc.co.uk/news/articles/cm93z3lp5lnpo#1",
         "https://www.bbc.co.uk/news/articles/cqd090ee8px5o#1",
@@ -270,10 +273,7 @@
         "https://www.bbc.co.uk/news/articles/c6x2wwnz5445o#0",
         "https://www.bbc.co.uk/news/articles/cqgkvv8m8pgyo#1",
         "https://www.bbc.co.uk/news/articles/cm1dwwqrr1kvo#0",
-        "https://www.bbc.co.uk/news/articles/c3j4751pqnj8o#1",
-        "https://www.bbc.co.uk/news/articles/ckq6ndq8l6v0o#0",
-        "https://www.bbc.co.uk/news/articles/cm4g1jqwylvgo#1",
-        "https://www.bbc.co.uk/news/articles/c8p3gg2ex4wlo#1"
+        "https://www.bbc.co.uk/news/articles/c3j4751pqnj8o#1"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20261109de73174",
@@ -478,6 +478,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261106de71708"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2611-iphone-keyboard-censored-words-list/",
         "https://www.gizmodo.jp/article/2611-social-extinction-endangered-species/",
         "https://www.gizmodo.jp/article/homepod-mini-update-new-features/",
         "https://www.gizmodo.jp/article/2611-new-playstation-portal-midnight-black/",
@@ -676,8 +677,7 @@
         "https://www.gizmodo.jp/article/2611-xreal-aura-google-ai-glasses/",
         "https://www.gizmodo.jp/article/2611-apple-watch-huawei-smartphone-support/",
         "https://www.gizmodo.jp/article/2610-android-screen-share-hide-password/",
-        "https://www.gizmodo.jp/article/2610-all-weather-perovskite-solar-cells/",
-        "https://www.gizmodo.jp/article/2610-claude-mythos-ai-cot-momentum/"
+        "https://www.gizmodo.jp/article/2610-all-weather-perovskite-solar-cells/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "GIv3foDi6o4",
