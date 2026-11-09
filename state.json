@@ -74,6 +74,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cx238yyr40qo#0",
         "https://www.bbc.co.uk/news/articles/c674p4lynjk1o#0",
         "https://www.bbc.co.uk/news/articles/crgqww43vqndo#0",
         "https://www.bbc.co.uk/news/articles/c6lykl01nzp9o#0",
@@ -272,10 +273,10 @@
         "https://www.bbc.co.uk/news/articles/cm4g1jqwylvgo#0",
         "https://www.bbc.co.uk/news/articles/cmwy4zqe1e9qo#1",
         "https://www.bbc.co.uk/news/articles/cy4dgp1p3p1o#0",
-        "https://www.bbc.co.uk/news/articles/c9w15nggj58o#0",
-        "https://www.bbc.co.uk/news/articles/c93d59d4zy1o#0"
+        "https://www.bbc.co.uk/news/articles/c9w15nggj58o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261109de73137",
         "https://news.web.nhk/newsweb/na/nd-20261109de72912",
         "https://news.web.nhk/newsweb/na/nd-20261109de73131",
         "https://news.web.nhk/newsweb/na/nd-20261109de73129",
@@ -474,8 +475,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261106de71558",
         "https://news.web.nhk/newsweb/na/nd-20261106de71556",
         "https://news.web.nhk/newsweb/na/nd-20261106de71533",
-        "https://news.web.nhk/newsweb/na/nd-20261106de71532",
-        "https://news.web.nhk/newsweb/na/nd-20261106de71505"
+        "https://news.web.nhk/newsweb/na/nd-20261106de71532"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/dragon-quest-makaiju/",
