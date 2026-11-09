@@ -74,6 +74,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cy4dgp1p3p1o#0",
         "https://www.bbc.co.uk/news/articles/c9w15nggj58o#0",
         "https://www.bbc.co.uk/news/articles/c93d59d4zy1o#0",
         "https://www.bbc.co.uk/news/articles/cv2d6dpge65go#1",
@@ -272,10 +273,11 @@
         "https://www.bbc.co.uk/news/articles/cm9qzz5x9g5yo#1",
         "https://www.bbc.co.uk/news/articles/cq1m41n3v7mmo#0",
         "https://www.bbc.co.uk/news/articles/cx8dzzy8n713o#1",
-        "https://www.bbc.co.uk/news/articles/cx8dzzy8n713o#0",
-        "https://www.bbc.co.uk/news/articles/cm4g1jqwylvgo#0"
+        "https://www.bbc.co.uk/news/articles/cx8dzzy8n713o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261109de73130",
+        "https://news.web.nhk/newsweb/na/nd-20261106de71533",
         "https://news.web.nhk/newsweb/na/nd-20261109de73135",
         "https://news.web.nhk/newsweb/na/nd-20261109de73140",
         "https://news.web.nhk/newsweb/na/nd-20261109de73137",
@@ -473,11 +475,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261106de71662",
         "https://news.web.nhk/newsweb/na/nd-20261106de71392",
         "https://news.web.nhk/newsweb/na/nd-20261106de71593",
-        "https://news.web.nhk/newsweb/na/nd-20261106de71407",
-        "https://news.web.nhk/newsweb/na/nd-20261106de71558",
-        "https://news.web.nhk/newsweb/na/nd-20261106de71556"
+        "https://news.web.nhk/newsweb/na/nd-20261106de71407"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/authorities-at-lima-airport-find-more-than-3000-tarantulas-hidden-in-dirty-socks/",
         "https://www.gizmodo.jp/article/dragon-quest-makaiju/",
         "https://www.gizmodo.jp/article/meta-terms-update-publisher-backlash/",
         "https://www.gizmodo.jp/article/nape-pro-keychron-behind-scenes-repost/",
@@ -676,8 +677,7 @@
         "https://www.gizmodo.jp/article/2610-ibuypower-rdy-element-pulse-x-b02-review/",
         "https://www.gizmodo.jp/article/the-us-has-retreated-from-climate-action-a-new-report-reveals-the-global-consequences/",
         "https://www.gizmodo.jp/article/scientists-invent-underwater-umbrellas-to-protect-coral-reefs-and-it-appears-to-be-working/",
-        "https://www.gizmodo.jp/article/claude-image-generation-reason/",
-        "https://www.gizmodo.jp/article/2610-500yen-goods/"
+        "https://www.gizmodo.jp/article/claude-image-generation-reason/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "GIv3foDi6o4",
