@@ -74,6 +74,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c5n494x9kgp0o#1",
         "https://www.bbc.co.uk/news/articles/cm93z3lp5lnpo#1",
         "https://www.bbc.co.uk/news/articles/cqd090ee8px5o#1",
         "https://www.bbc.co.uk/news/articles/cqzjz8dk4wddo#0",
@@ -272,10 +273,10 @@
         "https://www.bbc.co.uk/news/articles/c3j4751pqnj8o#1",
         "https://www.bbc.co.uk/news/articles/ckq6ndq8l6v0o#0",
         "https://www.bbc.co.uk/news/articles/cm4g1jqwylvgo#1",
-        "https://www.bbc.co.uk/news/articles/c8p3gg2ex4wlo#1",
-        "https://www.bbc.co.uk/news/articles/c6x2wwnz5445o#1"
+        "https://www.bbc.co.uk/news/articles/c8p3gg2ex4wlo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261109de73174",
         "https://news.web.nhk/newsweb/na/nd-20261109de73172",
         "https://news.web.nhk/newsweb/na/nd-20261109de73165",
         "https://news.web.nhk/newsweb/na/nd-20261109de73160",
@@ -474,10 +475,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261106de71665",
         "https://news.web.nhk/newsweb/na/nd-20261106de71543",
         "https://news.web.nhk/newsweb/na/nd-20261106de71619",
-        "https://news.web.nhk/newsweb/na/nd-20261106de71708",
-        "https://news.web.nhk/newsweb/na/nd-20261106de71681"
+        "https://news.web.nhk/newsweb/na/nd-20261106de71708"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2611-social-extinction-endangered-species/",
         "https://www.gizmodo.jp/article/homepod-mini-update-new-features/",
         "https://www.gizmodo.jp/article/2611-new-playstation-portal-midnight-black/",
         "https://www.gizmodo.jp/article/2611-viture-phantom-blade-zero-xr-glasses/",
@@ -676,8 +677,7 @@
         "https://www.gizmodo.jp/article/2611-apple-watch-huawei-smartphone-support/",
         "https://www.gizmodo.jp/article/2610-android-screen-share-hide-password/",
         "https://www.gizmodo.jp/article/2610-all-weather-perovskite-solar-cells/",
-        "https://www.gizmodo.jp/article/2610-claude-mythos-ai-cot-momentum/",
-        "https://www.gizmodo.jp/article/2610-ibuypower-rdy-element-pulse-x-b02-review/"
+        "https://www.gizmodo.jp/article/2610-claude-mythos-ai-cot-momentum/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "GIv3foDi6o4",
