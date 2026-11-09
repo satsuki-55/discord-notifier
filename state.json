@@ -276,6 +276,8 @@
         "https://www.bbc.co.uk/news/articles/cq62yy064vjpo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261106de71396",
+        "https://news.web.nhk/newsweb/na/nd-20261109de73045",
         "https://news.web.nhk/newsweb/na/nd-20261109de73001",
         "https://news.web.nhk/newsweb/na/nd-20261109de72962",
         "https://news.web.nhk/newsweb/na/nd-20261109de72963",
@@ -473,9 +475,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261106de71431",
         "https://news.web.nhk/newsweb/na/nd-20261106de71361",
         "https://news.web.nhk/newsweb/na/nd-20261106de71417",
-        "https://news.web.nhk/newsweb/na/nd-20261106de71357",
-        "https://news.web.nhk/newsweb/na/nd-20261106de71443",
-        "https://news.web.nhk/newsweb/na/nd-20261106de71420"
+        "https://news.web.nhk/newsweb/na/nd-20261106de71357"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/oukitel-wp63/",
