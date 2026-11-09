@@ -276,6 +276,7 @@
         "https://www.bbc.co.uk/news/articles/cm9qz9r8d9wlo#2"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261110de73229",
         "https://news.web.nhk/newsweb/na/nd-20261110de73220",
         "https://news.web.nhk/newsweb/na/nd-20261109de73179",
         "https://news.web.nhk/newsweb/na/nd-20261109de73202",
@@ -474,8 +475,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261106de71818",
         "https://news.web.nhk/newsweb/na/nd-20261106de71809",
         "https://news.web.nhk/newsweb/na/nd-20261106de71689",
-        "https://news.web.nhk/newsweb/na/nd-20261106de71517",
-        "https://news.web.nhk/newsweb/na/nd-20261106de71650"
+        "https://news.web.nhk/newsweb/na/nd-20261106de71517"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-invisible-qr-code-2tb-a4-paper/",
