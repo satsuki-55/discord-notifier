@@ -276,6 +276,7 @@
         "https://www.bbc.co.uk/news/articles/cq1m41n3v7mmo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261109de73160",
         "https://news.web.nhk/newsweb/na/nd-20261109de73136",
         "https://news.web.nhk/newsweb/na/nd-20261109de73077",
         "https://news.web.nhk/newsweb/na/nd-20261109de73132",
@@ -474,10 +475,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261106de71708",
         "https://news.web.nhk/newsweb/na/nd-20261106de71681",
         "https://news.web.nhk/newsweb/na/nd-20261106de71598",
-        "https://news.web.nhk/newsweb/na/nd-20261106de71649",
-        "https://news.web.nhk/newsweb/na/nd-20261106de71664"
+        "https://news.web.nhk/newsweb/na/nd-20261106de71649"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2611-new-playstation-portal-midnight-black/",
         "https://www.gizmodo.jp/article/2611-viture-phantom-blade-zero-xr-glasses/",
         "https://www.gizmodo.jp/article/authorities-at-lima-airport-find-more-than-3000-tarantulas-hidden-in-dirty-socks/",
         "https://www.gizmodo.jp/article/dragon-quest-makaiju/",
@@ -676,8 +677,7 @@
         "https://www.gizmodo.jp/article/2610-all-weather-perovskite-solar-cells/",
         "https://www.gizmodo.jp/article/2610-claude-mythos-ai-cot-momentum/",
         "https://www.gizmodo.jp/article/2610-ibuypower-rdy-element-pulse-x-b02-review/",
-        "https://www.gizmodo.jp/article/the-us-has-retreated-from-climate-action-a-new-report-reveals-the-global-consequences/",
-        "https://www.gizmodo.jp/article/scientists-invent-underwater-umbrellas-to-protect-coral-reefs-and-it-appears-to-be-working/"
+        "https://www.gizmodo.jp/article/the-us-has-retreated-from-climate-action-a-new-report-reveals-the-global-consequences/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "GIv3foDi6o4",
