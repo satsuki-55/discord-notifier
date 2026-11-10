@@ -276,6 +276,7 @@
         "https://www.bbc.co.uk/news/articles/c6wyrrwj9xlro#3"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261110de73265",
         "https://news.web.nhk/newsweb/na/nd-20261110de73251",
         "https://news.web.nhk/newsweb/na/nd-20261026de65512",
         "https://news.web.nhk/newsweb/na/nd-20261110de73262",
@@ -474,8 +475,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261106de71963",
         "https://news.web.nhk/newsweb/na/nd-20261106de71964",
         "https://news.web.nhk/newsweb/na/nd-20261106de71864",
-        "https://news.web.nhk/newsweb/na/nd-20261106de71870",
-        "https://news.web.nhk/newsweb/na/nd-20261106de71943"
+        "https://news.web.nhk/newsweb/na/nd-20261106de71870"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/blue-energy-shipyard-nuclear-plant/",
