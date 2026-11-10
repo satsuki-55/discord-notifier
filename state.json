@@ -76,6 +76,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/videos/ckp8g8p4myv8o#1",
         "https://www.bbc.co.uk/news/articles/cqp8g8p53x6ko#1",
         "https://www.bbc.co.uk/news/articles/cm8xznl0n1q4o#0",
         "https://www.bbc.co.uk/news/articles/cqev3vl4ek33o#1",
@@ -274,8 +275,7 @@
         "https://www.bbc.co.uk/news/articles/ck87z9exex2lo#1",
         "https://www.bbc.co.uk/news/articles/c6pwg4ddwkzeo#1",
         "https://www.bbc.co.uk/news/articles/cxvgd2nr3e30o#1",
-        "https://www.bbc.co.uk/news/articles/c81dwllzv113o#2",
-        "https://www.bbc.co.uk/news/articles/cm74pk1g51nko#1"
+        "https://www.bbc.co.uk/news/articles/c81dwllzv113o#2"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20261110de73798",
@@ -480,6 +480,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261108de72318"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/ai_dating_efficiency_vs_intuition/",
         "https://www.gizmodo.jp/article/2611-iphone-duo-2-face-id/",
         "https://www.gizmodo.jp/article/2611-koss-kph40-retro/",
         "https://www.gizmodo.jp/article/sony-mdr-3r-headphone-review-nostalgia/",
@@ -678,8 +679,7 @@
         "https://www.gizmodo.jp/article/2611-google-ai-space-haiku-project-suncatcher/",
         "https://www.gizmodo.jp/article/north-korean-ai-job-impersonation/",
         "https://www.gizmodo.jp/article/alpha-gang_tokyo-international-filmfestival/",
-        "https://www.gizmodo.jp/article/2611-xreal-aura-first-impression/",
-        "https://www.gizmodo.jp/article/sprout-pi-mainboard/"
+        "https://www.gizmodo.jp/article/2611-xreal-aura-first-impression/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "GIv3foDi6o4",
