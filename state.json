@@ -276,6 +276,7 @@
         "https://www.bbc.co.uk/news/articles/c820vz6wyp65o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261110de73453",
         "https://news.web.nhk/newsweb/na/nd-20261021de62618",
         "https://news.web.nhk/newsweb/na/nd-20261110de73330",
         "https://news.web.nhk/newsweb/na/nd-20261110de73442",
@@ -474,8 +475,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261107de72010",
         "https://news.web.nhk/newsweb/na/nd-20261107de71993",
         "https://news.web.nhk/newsweb/na/nd-20261106de71846",
-        "https://news.web.nhk/newsweb/na/nd-20261107de71997",
-        "https://news.web.nhk/newsweb/na/nd-20261107de72003"
+        "https://news.web.nhk/newsweb/na/nd-20261107de71997"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-jpmorgan-sp500-rally-signal-czd/",
