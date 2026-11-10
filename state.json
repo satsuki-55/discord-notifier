@@ -278,6 +278,7 @@
         "https://www.bbc.co.uk/news/articles/c81dwllzv113o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261110de73820",
         "https://news.web.nhk/newsweb/na/nd-20261110de73808",
         "https://news.web.nhk/newsweb/na/nd-20261110de73795",
         "https://news.web.nhk/newsweb/na/nd-20261110de73781",
@@ -476,10 +477,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261108de72339",
         "https://news.web.nhk/newsweb/na/nd-20261108de72317",
         "https://news.web.nhk/newsweb/na/nd-20261108de72338",
-        "https://news.web.nhk/newsweb/na/nd-20261107de72155",
-        "https://news.web.nhk/newsweb/na/nd-20261107de72233"
+        "https://news.web.nhk/newsweb/na/nd-20261107de72155"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/deep-sea-fish-has-hair-ish-qczy/",
         "https://www.gizmodo.jp/article/2611-trump-ban-ai-super-intelligence/",
         "https://www.gizmodo.jp/article/2611-futon-jet-futon-dryer/",
         "https://www.gizmodo.jp/article/2611-earth-second-moon-2026-qq8/",
@@ -678,8 +679,7 @@
         "https://www.gizmodo.jp/article/2611-cardboard-shredder-dansukesan/",
         "https://www.gizmodo.jp/article/2610-iphone-to-android-switch-review/",
         "https://www.gizmodo.jp/article/xreal-aura_hand-tracking/",
-        "https://www.gizmodo.jp/article/jumping-jacks-gadget-72/",
-        "https://www.gizmodo.jp/article/2611-google-ai-space-haiku-project-suncatcher/"
+        "https://www.gizmodo.jp/article/jumping-jacks-gadget-72/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "GIv3foDi6o4",
