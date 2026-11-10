@@ -276,6 +276,8 @@
         "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261107de72045",
+        "https://news.web.nhk/newsweb/na/nd-20261110de73561",
         "https://news.web.nhk/newsweb/na/nd-20261110de73547",
         "https://news.web.nhk/newsweb/na/nd-20261110de73559",
         "https://news.web.nhk/newsweb/na/nd-20261110de73517",
@@ -473,9 +475,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261107de72221",
         "https://news.web.nhk/newsweb/na/nd-20261107de72217",
         "https://news.web.nhk/newsweb/na/nd-20261107de72211",
-        "https://news.web.nhk/newsweb/na/nd-20261107de72187",
-        "https://news.web.nhk/newsweb/na/nd-20261107de72163",
-        "https://news.web.nhk/newsweb/na/nd-20261107de72136"
+        "https://news.web.nhk/newsweb/na/nd-20261107de72187"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/harvard-hum10-no-phones-classics/",
