@@ -276,6 +276,9 @@
         "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261110de73547",
+        "https://news.web.nhk/newsweb/na/nd-20261110de73559",
+        "https://news.web.nhk/newsweb/na/nd-20261110de73517",
         "https://news.web.nhk/newsweb/na/nd-20261110de73572",
         "https://news.web.nhk/newsweb/na/nd-20261110de73527",
         "https://news.web.nhk/newsweb/na/nd-20261110de73530",
@@ -472,12 +475,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261107de72211",
         "https://news.web.nhk/newsweb/na/nd-20261107de72187",
         "https://news.web.nhk/newsweb/na/nd-20261107de72163",
-        "https://news.web.nhk/newsweb/na/nd-20261107de72136",
-        "https://news.web.nhk/newsweb/na/nd-20261107de72045",
-        "https://news.web.nhk/newsweb/na/nd-20261107de72117",
-        "https://news.web.nhk/newsweb/na/nd-20261107de72104"
+        "https://news.web.nhk/newsweb/na/nd-20261107de72136"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/harvard-hum10-no-phones-classics/",
         "https://www.gizmodo.jp/article/2611-tomica-diorama-seven-eleven-parking/",
         "https://www.gizmodo.jp/article/2611-jpmorgan-sp500-rally-signal-czd/",
         "https://www.gizmodo.jp/article/anyone-can-rent-a-white-house-ip-address-for-a-few-dollars/",
@@ -676,8 +677,7 @@
         "https://www.gizmodo.jp/article/2611-m6-macbook-pro-14-hands-on-review/",
         "https://www.gizmodo.jp/article/google-eats-its-own-tail-and-profits-with-ai-summaries-as-stock-price-plunges/",
         "https://www.gizmodo.jp/article/2611-ai-camera-selfie-mount/",
-        "https://www.gizmodo.jp/article/2611-compact-ai-ac-remote/",
-        "https://www.gizmodo.jp/article/ai-shopping-agents-retailer-blocks/"
+        "https://www.gizmodo.jp/article/2611-compact-ai-ac-remote/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "GIv3foDi6o4",
