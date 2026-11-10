@@ -276,6 +276,8 @@
         "https://www.bbc.co.uk/news/videos/cmy931z9pl8do#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261110de73397",
+        "https://news.web.nhk/newsweb/na/nd-20261110de73239",
         "https://news.web.nhk/newsweb/na/nd-20261110de73342",
         "https://news.web.nhk/newsweb/na/nd-20261110de73311",
         "https://news.web.nhk/newsweb/na/nd-20261110de73289",
@@ -473,11 +475,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261107de71985",
         "https://news.web.nhk/newsweb/na/nd-20261104de70234",
         "https://news.web.nhk/newsweb/na/nd-20261106de71902",
-        "https://news.web.nhk/newsweb/na/nd-20261107de71983",
-        "https://news.web.nhk/newsweb/na/nd-20261107de71984",
-        "https://news.web.nhk/newsweb/na/nd-20261107de71989"
+        "https://news.web.nhk/newsweb/na/nd-20261107de71983"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2611-openai-ai-vulnerability-detection-cost/",
         "https://www.gizmodo.jp/article/2611-ai-vending-machine-fraud/",
         "https://www.gizmodo.jp/article/daiso-pet-bottle-cap-gqvz/",
         "https://www.gizmodo.jp/article/2610-audio-technica-monitor-headphone-fps/",
@@ -676,8 +677,7 @@
         "https://www.gizmodo.jp/article/db56f79e-df0a-4f20-88a4-8c95557e6536/",
         "https://www.gizmodo.jp/article/98a1233f-4f7a-4995-a0c5-0f328a070a06/",
         "https://www.gizmodo.jp/article/playstation-2-duo-foldable-handheld/",
-        "https://www.gizmodo.jp/article/2611-openai-ai-agent-deceives-monitoring-system/",
-        "https://www.gizmodo.jp/article/2611-alexa-photo-frame/"
+        "https://www.gizmodo.jp/article/2611-openai-ai-agent-deceives-monitoring-system/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "GIv3foDi6o4",
