@@ -278,6 +278,7 @@
         "https://www.bbc.co.uk/news/articles/cm1dwwqrr1kvo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261111de73866",
         "https://news.web.nhk/newsweb/na/nd-20261111de73867",
         "https://news.web.nhk/newsweb/na/nd-20261110de73634",
         "https://news.web.nhk/newsweb/na/nd-20261111de73850",
@@ -476,10 +477,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261108de72603",
         "https://news.web.nhk/newsweb/na/nd-20261108de72408",
         "https://news.web.nhk/newsweb/na/nd-20261108de72566",
-        "https://news.web.nhk/newsweb/na/nd-20261108de72529",
-        "https://news.web.nhk/newsweb/na/nd-20261028de66996"
+        "https://news.web.nhk/newsweb/na/nd-20261108de72529"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/smartphone_sales_q3_apple_market_share/",
         "https://www.gizmodo.jp/article/2611-casio-classic-lf40w-retro-watch/",
         "https://www.gizmodo.jp/article/2611-google-antigravity-swarm/",
         "https://www.gizmodo.jp/article/2611-gemini-4-carbon-release/",
@@ -678,8 +679,7 @@
         "https://www.gizmodo.jp/article/2611-claude-hidden-message-image-steganography/",
         "https://www.gizmodo.jp/article/ipad-mini-battery-capacity-oled/",
         "https://www.gizmodo.jp/article/2611-linux-kernel-vulnerability-multipath-tcp/",
-        "https://www.gizmodo.jp/article/xiaomi-smart-band-11-japan/",
-        "https://www.gizmodo.jp/article/2611-cardboard-shredder-dansukesan/"
+        "https://www.gizmodo.jp/article/xiaomi-smart-band-11-japan/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "GIv3foDi6o4",
