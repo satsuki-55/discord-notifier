@@ -276,6 +276,8 @@
         "https://www.bbc.co.uk/news/articles/cx240e5py64jo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261110de73289",
+        "https://news.web.nhk/newsweb/na/nd-20261110de73284",
         "https://news.web.nhk/newsweb/na/nd-20261110de73298",
         "https://news.web.nhk/newsweb/na/nd-20261110de73269",
         "https://news.web.nhk/newsweb/na/nd-20261110de73268",
@@ -473,11 +475,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261107de71984",
         "https://news.web.nhk/newsweb/na/nd-20261107de71989",
         "https://news.web.nhk/newsweb/na/nd-20261107de71982",
-        "https://news.web.nhk/newsweb/na/nd-20261106de71979",
-        "https://news.web.nhk/newsweb/na/nd-20261104de70412",
-        "https://news.web.nhk/newsweb/na/nd-20261106de71963"
+        "https://news.web.nhk/newsweb/na/nd-20261106de71979"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2610-audio-technica-monitor-headphone-fps/",
         "https://www.gizmodo.jp/article/2611-claude-fable-5-2-release/",
         "https://www.gizmodo.jp/article/blue-energy-shipyard-nuclear-plant/",
         "https://www.gizmodo.jp/article/2611-openai-modretro-chromatic-codex-edition/",
@@ -676,8 +677,7 @@
         "https://www.gizmodo.jp/article/2611-openai-ai-agent-deceives-monitoring-system/",
         "https://www.gizmodo.jp/article/2611-alexa-photo-frame/",
         "https://www.gizmodo.jp/article/2611-fujifilm-instax-mini-evo-2/",
-        "https://www.gizmodo.jp/article/2610-muji-wall-storage-shelf/",
-        "https://www.gizmodo.jp/article/new-ipad-mini-hands-on/"
+        "https://www.gizmodo.jp/article/2610-muji-wall-storage-shelf/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "GIv3foDi6o4",
