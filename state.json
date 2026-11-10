@@ -76,6 +76,8 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cxnv0v4yln7do#0",
+        "https://www.bbc.co.uk/news/articles/cw4g1g4ll5m1o#0",
         "https://www.bbc.co.uk/sport/football/articles/c8wy9yzyzxnko#1",
         "https://www.bbc.co.uk/news/articles/cq5ynyn8zyr8o#1",
         "https://www.bbc.co.uk/news/articles/cm0e0evlpp87o#0",
@@ -273,9 +275,7 @@
         "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o#0",
         "https://www.bbc.co.uk/news/articles/cm70pdwz122ro#0",
         "https://www.bbc.co.uk/news/articles/ckly0ex633ydo#0",
-        "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo#1",
-        "https://www.bbc.co.uk/news/articles/ckly0ex633ydo#1",
-        "https://www.bbc.co.uk/news/articles/cm70pdwz122ro#1"
+        "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo#1"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20261111de73848",
@@ -480,6 +480,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261107de72247"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2611-google-antigravity-swarm/",
         "https://www.gizmodo.jp/article/2611-gemini-4-carbon-release/",
         "https://www.gizmodo.jp/article/deep-sea-fish-has-hair-ish-qczy/",
         "https://www.gizmodo.jp/article/2611-trump-ban-ai-super-intelligence/",
@@ -678,8 +679,7 @@
         "https://www.gizmodo.jp/article/2611-linux-kernel-vulnerability-multipath-tcp/",
         "https://www.gizmodo.jp/article/xiaomi-smart-band-11-japan/",
         "https://www.gizmodo.jp/article/2611-cardboard-shredder-dansukesan/",
-        "https://www.gizmodo.jp/article/2610-iphone-to-android-switch-review/",
-        "https://www.gizmodo.jp/article/xreal-aura_hand-tracking/"
+        "https://www.gizmodo.jp/article/2610-iphone-to-android-switch-review/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "GIv3foDi6o4",
