@@ -74,6 +74,10 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cw1m42zdnn3go#0",
+        "https://www.bbc.co.uk/news/videos/cmy931z9pl8do#0",
+        "https://www.bbc.co.uk/news/articles/cq5yny4nl2d3o#0",
+        "https://www.bbc.co.uk/news/articles/cry838v4qzvyo#1",
         "https://www.bbc.co.uk/news/articles/cq5yny4nl2d3o#1",
         "https://www.bbc.co.uk/news/articles/ckgel338xql3o#1",
         "https://www.bbc.co.uk/news/articles/cry838v4qzvyo#0",
@@ -269,11 +273,7 @@
         "https://www.bbc.co.uk/news/articles/crgj99j8y998o#3",
         "https://www.bbc.co.uk/news/articles/c69wzxw2pvv0o#0",
         "https://www.bbc.co.uk/news/articles/c820vz6wyp65o#0",
-        "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo#0",
-        "https://www.bbc.co.uk/news/articles/cr20wvge32j3o#0",
-        "https://www.bbc.co.uk/news/articles/cmkgekz0r0v9o#3",
-        "https://www.bbc.co.uk/news/articles/cw1m42zdnn3go#0",
-        "https://www.bbc.co.uk/news/videos/cmy931z9pl8do#0"
+        "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo#0"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20261110de73396",
@@ -478,6 +478,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261106de71902"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2611-samsung-17-inch-foldable-tablet/",
         "https://www.gizmodo.jp/article/2611-openai-ai-vulnerability-detection-cost/",
         "https://www.gizmodo.jp/article/2611-ai-vending-machine-fraud/",
         "https://www.gizmodo.jp/article/daiso-pet-bottle-cap-gqvz/",
@@ -676,8 +677,7 @@
         "https://www.gizmodo.jp/article/ai-shopping-agents-retailer-blocks/",
         "https://www.gizmodo.jp/article/db56f79e-df0a-4f20-88a4-8c95557e6536/",
         "https://www.gizmodo.jp/article/98a1233f-4f7a-4995-a0c5-0f328a070a06/",
-        "https://www.gizmodo.jp/article/playstation-2-duo-foldable-handheld/",
-        "https://www.gizmodo.jp/article/2611-openai-ai-agent-deceives-monitoring-system/"
+        "https://www.gizmodo.jp/article/playstation-2-duo-foldable-handheld/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "GIv3foDi6o4",
