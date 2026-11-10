@@ -276,6 +276,8 @@
         "https://www.bbc.co.uk/news/articles/cm4g1nq8158po#3"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261110de73251",
+        "https://news.web.nhk/newsweb/na/nd-20261026de65512",
         "https://news.web.nhk/newsweb/na/nd-20261110de73262",
         "https://news.web.nhk/newsweb/na/nd-20261110de73250",
         "https://news.web.nhk/newsweb/na/nd-20261110de73248",
@@ -473,9 +475,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261106de71964",
         "https://news.web.nhk/newsweb/na/nd-20261106de71864",
         "https://news.web.nhk/newsweb/na/nd-20261106de71870",
-        "https://news.web.nhk/newsweb/na/nd-20261106de71943",
-        "https://news.web.nhk/newsweb/na/nd-20261106de71942",
-        "https://news.web.nhk/newsweb/na/nd-20261106de71939"
+        "https://news.web.nhk/newsweb/na/nd-20261106de71943"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-openai-modretro-chromatic-codex-edition/",
