@@ -76,6 +76,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/videos/cqj9k9dj7vzlo#1",
         "https://www.bbc.co.uk/news/articles/cm86z6w59gggo#2",
         "https://www.bbc.co.uk/news/videos/ckp8g8p4myv8o#1",
         "https://www.bbc.co.uk/news/articles/cqp8g8p53x6ko#1",
@@ -274,10 +275,10 @@
         "https://www.bbc.co.uk/news/articles/cxr5yyg2nj9eo#0",
         "https://www.bbc.co.uk/news/articles/cm78p0n09q3xo#0",
         "https://www.bbc.co.uk/news/articles/ck87z9exex2lo#1",
-        "https://www.bbc.co.uk/news/articles/c6pwg4ddwkzeo#1",
-        "https://www.bbc.co.uk/news/articles/cxvgd2nr3e30o#1"
+        "https://www.bbc.co.uk/news/articles/c6pwg4ddwkzeo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261110de73795",
         "https://news.web.nhk/newsweb/na/nd-20261110de73781",
         "https://news.web.nhk/newsweb/na/nd-20261110de73798",
         "https://news.web.nhk/newsweb/na/nd-20261110de73782",
@@ -476,10 +477,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261108de72338",
         "https://news.web.nhk/newsweb/na/nd-20261107de72155",
         "https://news.web.nhk/newsweb/na/nd-20261107de72233",
-        "https://news.web.nhk/newsweb/na/nd-20261108de72316",
-        "https://news.web.nhk/newsweb/na/nd-20261108de72337"
+        "https://news.web.nhk/newsweb/na/nd-20261108de72316"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2611-earth-second-moon-2026-qq8/",
         "https://www.gizmodo.jp/article/ai_dating_efficiency_vs_intuition/",
         "https://www.gizmodo.jp/article/2611-iphone-duo-2-face-id/",
         "https://www.gizmodo.jp/article/2611-koss-kph40-retro/",
@@ -678,8 +679,7 @@
         "https://www.gizmodo.jp/article/jumping-jacks-gadget-72/",
         "https://www.gizmodo.jp/article/2611-google-ai-space-haiku-project-suncatcher/",
         "https://www.gizmodo.jp/article/north-korean-ai-job-impersonation/",
-        "https://www.gizmodo.jp/article/alpha-gang_tokyo-international-filmfestival/",
-        "https://www.gizmodo.jp/article/2611-xreal-aura-first-impression/"
+        "https://www.gizmodo.jp/article/alpha-gang_tokyo-international-filmfestival/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "GIv3foDi6o4",
