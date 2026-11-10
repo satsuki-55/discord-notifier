@@ -278,6 +278,8 @@
         "https://www.bbc.co.uk/news/articles/cj4g1nwx39wno#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261111de73872",
+        "https://news.web.nhk/newsweb/na/nd-20261111de73870",
         "https://news.web.nhk/newsweb/na/nd-20261111de73871",
         "https://news.web.nhk/newsweb/na/nd-20261110de73812",
         "https://news.web.nhk/newsweb/na/nd-20261110de73802",
@@ -475,9 +477,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261108de72485",
         "https://news.web.nhk/newsweb/na/nd-20261108de72482",
         "https://news.web.nhk/newsweb/na/nd-20261108de72476",
-        "https://news.web.nhk/newsweb/na/nd-20261108de72452",
-        "https://news.web.nhk/newsweb/na/nd-20261108de72455",
-        "https://news.web.nhk/newsweb/na/nd-20261028de66995"
+        "https://news.web.nhk/newsweb/na/nd-20261108de72452"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-google-antigravity-swarm/",
