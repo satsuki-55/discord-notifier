@@ -276,6 +276,7 @@
         "https://www.bbc.co.uk/news/articles/cx240e5py64jo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261110de73298",
         "https://news.web.nhk/newsweb/na/nd-20261110de73269",
         "https://news.web.nhk/newsweb/na/nd-20261110de73268",
         "https://news.web.nhk/newsweb/na/nd-20261110de73265",
@@ -474,8 +475,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261107de71982",
         "https://news.web.nhk/newsweb/na/nd-20261106de71979",
         "https://news.web.nhk/newsweb/na/nd-20261104de70412",
-        "https://news.web.nhk/newsweb/na/nd-20261106de71963",
-        "https://news.web.nhk/newsweb/na/nd-20261106de71964"
+        "https://news.web.nhk/newsweb/na/nd-20261106de71963"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-claude-fable-5-2-release/",
