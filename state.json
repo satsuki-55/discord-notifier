@@ -276,6 +276,7 @@
         "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261110de73572",
         "https://news.web.nhk/newsweb/na/nd-20261110de73527",
         "https://news.web.nhk/newsweb/na/nd-20261110de73530",
         "https://news.web.nhk/newsweb/na/nd-20261110de73528",
@@ -474,8 +475,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261107de72136",
         "https://news.web.nhk/newsweb/na/nd-20261107de72045",
         "https://news.web.nhk/newsweb/na/nd-20261107de72117",
-        "https://news.web.nhk/newsweb/na/nd-20261107de72104",
-        "https://news.web.nhk/newsweb/na/nd-20261107de72096"
+        "https://news.web.nhk/newsweb/na/nd-20261107de72104"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-tomica-diorama-seven-eleven-parking/",
