@@ -276,6 +276,8 @@
         "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261110de73278",
+        "https://news.web.nhk/newsweb/na/nd-20261110de73285",
         "https://news.web.nhk/newsweb/na/nd-20261107de71985",
         "https://news.web.nhk/newsweb/na/nd-20261110de73430",
         "https://news.web.nhk/newsweb/na/nd-20261110de73401",
@@ -473,9 +475,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261107de72003",
         "https://news.web.nhk/newsweb/na/nd-20261107de71986",
         "https://news.web.nhk/newsweb/na/nd-20261107de72009",
-        "https://news.web.nhk/newsweb/na/nd-20261107de72002",
-        "https://news.web.nhk/newsweb/na/nd-20261107de71991",
-        "https://news.web.nhk/newsweb/na/nd-20261107de71996"
+        "https://news.web.nhk/newsweb/na/nd-20261107de72002"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/anyone-can-rent-a-white-house-ip-address-for-a-few-dollars/",
