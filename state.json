@@ -276,6 +276,7 @@
         "https://www.bbc.co.uk/news/articles/c69wzxw2pvv0o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261110de73474",
         "https://news.web.nhk/newsweb/na/nd-20261110de73461",
         "https://news.web.nhk/newsweb/na/nd-20261110de73453",
         "https://news.web.nhk/newsweb/na/nd-20261021de62618",
@@ -474,10 +475,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261107de72007",
         "https://news.web.nhk/newsweb/na/nd-20261107de72008",
         "https://news.web.nhk/newsweb/na/nd-20261107de72010",
-        "https://news.web.nhk/newsweb/na/nd-20261107de71993",
-        "https://news.web.nhk/newsweb/na/nd-20261106de71846"
+        "https://news.web.nhk/newsweb/na/nd-20261107de71993"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2611-tomica-diorama-seven-eleven-parking/",
         "https://www.gizmodo.jp/article/2611-jpmorgan-sp500-rally-signal-czd/",
         "https://www.gizmodo.jp/article/anyone-can-rent-a-white-house-ip-address-for-a-few-dollars/",
         "https://www.gizmodo.jp/article/2611-samsung-17-inch-foldable-tablet/",
@@ -676,8 +677,7 @@
         "https://www.gizmodo.jp/article/google-eats-its-own-tail-and-profits-with-ai-summaries-as-stock-price-plunges/",
         "https://www.gizmodo.jp/article/2611-ai-camera-selfie-mount/",
         "https://www.gizmodo.jp/article/2611-compact-ai-ac-remote/",
-        "https://www.gizmodo.jp/article/ai-shopping-agents-retailer-blocks/",
-        "https://www.gizmodo.jp/article/db56f79e-df0a-4f20-88a4-8c95557e6536/"
+        "https://www.gizmodo.jp/article/ai-shopping-agents-retailer-blocks/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "GIv3foDi6o4",
