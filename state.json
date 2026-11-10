@@ -75,6 +75,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cqp8g8p53x6ko#0",
         "https://www.bbc.co.uk/news/articles/cqj34d3l0zlmo#0",
         "https://www.bbc.co.uk/news/articles/ck1l3lzg3y79o#1",
         "https://www.bbc.co.uk/news/articles/cmreye1q3dnjo#0",
@@ -273,10 +274,10 @@
         "https://www.bbc.co.uk/news/articles/c6n9r01d2709o#1",
         "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo#0",
         "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo#1",
-        "https://www.bbc.co.uk/news/articles/cxr5yyg2nj9eo#2",
-        "https://www.bbc.co.uk/news/articles/cx5ynly549njo#3"
+        "https://www.bbc.co.uk/news/articles/cxr5yyg2nj9eo#2"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261110de73581",
         "https://news.web.nhk/newsweb/na/nd-20261110de73663",
         "https://news.web.nhk/newsweb/na/nd-20261110de73681",
         "https://news.web.nhk/newsweb/na/nd-20261110de73511",
@@ -475,8 +476,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261108de72263",
         "https://news.web.nhk/newsweb/na/nd-20261108de72259",
         "https://news.web.nhk/newsweb/na/nd-20261108de72253",
-        "https://news.web.nhk/newsweb/na/nd-20261108de72252",
-        "https://news.web.nhk/newsweb/na/nd-20261108de72248"
+        "https://news.web.nhk/newsweb/na/nd-20261108de72252"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/bondic_liquid_plastic_repair_tool/",
