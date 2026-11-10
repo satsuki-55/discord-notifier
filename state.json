@@ -276,6 +276,7 @@
         "https://www.bbc.co.uk/news/articles/cx240e5py64jo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261110de73311",
         "https://news.web.nhk/newsweb/na/nd-20261110de73289",
         "https://news.web.nhk/newsweb/na/nd-20261110de73284",
         "https://news.web.nhk/newsweb/na/nd-20261110de73298",
@@ -474,8 +475,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261107de71983",
         "https://news.web.nhk/newsweb/na/nd-20261107de71984",
         "https://news.web.nhk/newsweb/na/nd-20261107de71989",
-        "https://news.web.nhk/newsweb/na/nd-20261107de71982",
-        "https://news.web.nhk/newsweb/na/nd-20261106de71979"
+        "https://news.web.nhk/newsweb/na/nd-20261107de71982"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-audio-technica-monitor-headphone-fps/",
