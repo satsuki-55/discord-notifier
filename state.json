@@ -76,6 +76,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cqev3vl4ek33o#0",
         "https://www.bbc.co.uk/news/articles/cqpvgv318yyeo#1",
         "https://www.bbc.co.uk/news/articles/cqr7y7pjpy7do#1",
         "https://www.bbc.co.uk/news/articles/cwm262pzezy0o#0",
@@ -274,10 +275,11 @@
         "https://www.bbc.co.uk/news/articles/cm8xznl0n1q4o#2",
         "https://www.bbc.co.uk/news/articles/cm8xznl0n1q4o#0",
         "https://www.bbc.co.uk/news/videos/ckr5ygm78j76o#1",
-        "https://www.bbc.co.uk/news/articles/cmvg652l927lo#0",
-        "https://www.bbc.co.uk/news/articles/c6n9r01d2709o#1"
+        "https://www.bbc.co.uk/news/articles/cmvg652l927lo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261110de73798",
+        "https://news.web.nhk/newsweb/na/nd-20261110de73782",
         "https://news.web.nhk/newsweb/na/nd-20261110de73780",
         "https://news.web.nhk/newsweb/na/nd-20261110de73783",
         "https://news.web.nhk/newsweb/na/nd-20261110de73785",
@@ -475,11 +477,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261107de72233",
         "https://news.web.nhk/newsweb/na/nd-20261108de72316",
         "https://news.web.nhk/newsweb/na/nd-20261108de72337",
-        "https://news.web.nhk/newsweb/na/nd-20261108de72318",
-        "https://news.web.nhk/newsweb/na/nd-20261107de72225",
-        "https://news.web.nhk/newsweb/na/nd-20261108de72329"
+        "https://news.web.nhk/newsweb/na/nd-20261108de72318"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2611-iphone-duo-2-face-id/",
         "https://www.gizmodo.jp/article/2611-koss-kph40-retro/",
         "https://www.gizmodo.jp/article/sony-mdr-3r-headphone-review-nostalgia/",
         "https://www.gizmodo.jp/article/2611-anthropic-ipo-valuation-drop/",
@@ -678,8 +679,7 @@
         "https://www.gizmodo.jp/article/north-korean-ai-job-impersonation/",
         "https://www.gizmodo.jp/article/alpha-gang_tokyo-international-filmfestival/",
         "https://www.gizmodo.jp/article/2611-xreal-aura-first-impression/",
-        "https://www.gizmodo.jp/article/sprout-pi-mainboard/",
-        "https://www.gizmodo.jp/article/apple-criticizes-google-chrome/"
+        "https://www.gizmodo.jp/article/sprout-pi-mainboard/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "GIv3foDi6o4",
