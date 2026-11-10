@@ -74,6 +74,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c64g1gzy2vdzo#0",
         "https://www.bbc.co.uk/news/articles/cmp3g37l566po#0",
         "https://www.bbc.co.uk/news/articles/cw1m42zdnn3go#0",
         "https://www.bbc.co.uk/news/videos/cmy931z9pl8do#0",
@@ -272,10 +273,10 @@
         "https://www.bbc.co.uk/news/articles/cm9qz93ew22no#0",
         "https://www.bbc.co.uk/news/articles/cwjdmm0z74plo#1",
         "https://www.bbc.co.uk/news/articles/crgj99j8y998o#3",
-        "https://www.bbc.co.uk/news/articles/c69wzxw2pvv0o#0",
-        "https://www.bbc.co.uk/news/articles/c820vz6wyp65o#0"
+        "https://www.bbc.co.uk/news/articles/c69wzxw2pvv0o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261110de73461",
         "https://news.web.nhk/newsweb/na/nd-20261110de73453",
         "https://news.web.nhk/newsweb/na/nd-20261021de62618",
         "https://news.web.nhk/newsweb/na/nd-20261110de73330",
@@ -474,8 +475,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261107de72008",
         "https://news.web.nhk/newsweb/na/nd-20261107de72010",
         "https://news.web.nhk/newsweb/na/nd-20261107de71993",
-        "https://news.web.nhk/newsweb/na/nd-20261106de71846",
-        "https://news.web.nhk/newsweb/na/nd-20261107de71997"
+        "https://news.web.nhk/newsweb/na/nd-20261106de71846"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-jpmorgan-sp500-rally-signal-czd/",
