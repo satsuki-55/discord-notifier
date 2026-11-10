@@ -74,6 +74,9 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c95ynylr8j6xo#0",
+        "https://www.bbc.co.uk/news/articles/cw0737kv52lko#0",
+        "https://www.bbc.co.uk/news/articles/cmwyvydp2vz8o#1",
         "https://www.bbc.co.uk/news/articles/cm369e3l15lwo#0",
         "https://www.bbc.co.uk/news/articles/c60rleej7dqgo#0",
         "https://www.bbc.co.uk/news/articles/cqr7y7myer53o#0",
@@ -270,12 +273,11 @@
         "https://www.bbc.co.uk/news/articles/cmn04705rd8jo#0",
         "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo#1",
         "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo#0",
-        "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo#0",
-        "https://www.bbc.co.uk/news/articles/cr20wvge32j3o#1",
-        "https://www.bbc.co.uk/news/articles/cmwy99yzd0v9o#3",
-        "https://www.bbc.co.uk/news/articles/cm9qz93ew22no#0"
+        "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261110de73463",
+        "https://news.web.nhk/newsweb/na/nd-20261110de73482",
         "https://news.web.nhk/newsweb/na/nd-20261028de66998",
         "https://news.web.nhk/newsweb/na/nd-20261110de73454",
         "https://news.web.nhk/newsweb/na/nd-20261110de73474",
@@ -473,9 +475,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261107de72062",
         "https://news.web.nhk/newsweb/na/nd-20261107de72053",
         "https://news.web.nhk/newsweb/na/nd-20261107de72044",
-        "https://news.web.nhk/newsweb/na/nd-20261107de71998",
-        "https://news.web.nhk/newsweb/na/nd-20261107de72007",
-        "https://news.web.nhk/newsweb/na/nd-20261107de72008"
+        "https://news.web.nhk/newsweb/na/nd-20261107de71998"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-tomica-diorama-seven-eleven-parking/",
