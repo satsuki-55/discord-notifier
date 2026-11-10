@@ -276,6 +276,7 @@
         "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261110de73408",
         "https://news.web.nhk/newsweb/na/nd-20261110de73396",
         "https://news.web.nhk/newsweb/na/nd-20261110de73397",
         "https://news.web.nhk/newsweb/na/nd-20261110de73239",
@@ -474,8 +475,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261107de71996",
         "https://news.web.nhk/newsweb/na/nd-20261106de71967",
         "https://news.web.nhk/newsweb/na/nd-20261107de71985",
-        "https://news.web.nhk/newsweb/na/nd-20261104de70234",
-        "https://news.web.nhk/newsweb/na/nd-20261106de71902"
+        "https://news.web.nhk/newsweb/na/nd-20261104de70234"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-samsung-17-inch-foldable-tablet/",
