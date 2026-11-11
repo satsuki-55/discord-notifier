@@ -279,6 +279,8 @@
         "https://www.bbc.co.uk/news/articles/c6y434dw8319o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261111de74080",
+        "https://news.web.nhk/newsweb/na/nd-20261111de74081",
         "https://news.web.nhk/newsweb/na/nd-20261111de74075",
         "https://news.web.nhk/newsweb/na/nd-20261111de74052",
         "https://news.web.nhk/newsweb/na/nd-20261111de74018",
@@ -476,9 +478,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261109de72716",
         "https://news.web.nhk/newsweb/na/nd-20261109de72708",
         "https://news.web.nhk/newsweb/na/nd-20261109de72697",
-        "https://news.web.nhk/newsweb/na/nd-20261109de72699",
-        "https://news.web.nhk/newsweb/na/nd-20261109de72696",
-        "https://news.web.nhk/newsweb/na/nd-20261109de72695"
+        "https://news.web.nhk/newsweb/na/nd-20261109de72699"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/google-calendar_invite_account_takeover/",
