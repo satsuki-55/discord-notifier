@@ -280,6 +280,7 @@
         "https://www.bbc.co.uk/news/articles/cq2d6d5z9y5jo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261112de74524",
         "https://news.web.nhk/newsweb/na/nd-20261111de74472",
         "https://news.web.nhk/newsweb/na/nd-20261111de74286",
         "https://news.web.nhk/newsweb/na/nd-20261112de74521",
@@ -478,8 +479,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261110de73220",
         "https://news.web.nhk/newsweb/na/nd-20261109de73179",
         "https://news.web.nhk/newsweb/na/nd-20261109de73202",
-        "https://news.web.nhk/newsweb/na/nd-20261109de72732",
-        "https://news.web.nhk/newsweb/na/nd-20261109de73178"
+        "https://news.web.nhk/newsweb/na/nd-20261109de72732"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-white-hacker-ai-data-breach/",
