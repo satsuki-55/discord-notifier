@@ -279,6 +279,7 @@
         "https://www.bbc.co.uk/news/articles/cwzrd5jj47ndo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261111de74018",
         "https://news.web.nhk/newsweb/na/nd-20261111de74037",
         "https://news.web.nhk/newsweb/na/nd-20261111de73964",
         "https://news.web.nhk/newsweb/na/nd-20261111de73959",
@@ -477,8 +478,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261109de72696",
         "https://news.web.nhk/newsweb/na/nd-20261109de72695",
         "https://news.web.nhk/newsweb/na/nd-20261108de72533",
-        "https://news.web.nhk/newsweb/na/nd-20261109de72687",
-        "https://news.web.nhk/newsweb/na/nd-20261109de72663"
+        "https://news.web.nhk/newsweb/na/nd-20261109de72687"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-google-black-friday-pixel-sale/",
