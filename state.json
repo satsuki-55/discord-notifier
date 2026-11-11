@@ -78,6 +78,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/videos/cm894wg251pzo#1",
         "https://www.bbc.co.uk/news/articles/crkgv58pknyeo#1",
         "https://www.bbc.co.uk/news/articles/c9143zxyyvndo#1",
         "https://www.bbc.co.uk/news/articles/c9143zxyyvndo#0",
@@ -276,10 +277,11 @@
         "https://www.bbc.co.uk/news/articles/crgqww43vqndo#0",
         "https://www.bbc.co.uk/news/articles/c6lykl01nzp9o#0",
         "https://www.bbc.co.uk/news/articles/crlykkzwwpydo#0",
-        "https://www.bbc.co.uk/news/articles/ck0j0j87959eo#0",
-        "https://www.bbc.co.uk/news/articles/cv2d6dpge65go#0"
+        "https://www.bbc.co.uk/news/articles/ck0j0j87959eo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261111de74373",
+        "https://news.web.nhk/newsweb/na/nd-20261111de74363",
         "https://news.web.nhk/newsweb/na/nd-20261111de74347",
         "https://news.web.nhk/newsweb/na/nd-20261111de74112",
         "https://news.web.nhk/newsweb/na/nd-20261111de74300",
@@ -477,9 +479,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261109de72962",
         "https://news.web.nhk/newsweb/na/nd-20261109de72963",
         "https://news.web.nhk/newsweb/na/nd-20261109de72932",
-        "https://news.web.nhk/newsweb/na/nd-20261109de72949",
-        "https://news.web.nhk/newsweb/na/nd-20261109de72947",
-        "https://news.web.nhk/newsweb/na/nd-20261109de72937"
+        "https://news.web.nhk/newsweb/na/nd-20261109de72949"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-delonghi-oil-heater-amazon-sale/",
