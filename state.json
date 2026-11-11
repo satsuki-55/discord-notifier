@@ -279,6 +279,8 @@
         "https://www.bbc.co.uk/news/videos/cq3989nkzn3ko#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261111de74257",
+        "https://news.web.nhk/newsweb/na/nd-20261111de74188",
         "https://news.web.nhk/newsweb/na/nd-20261111de74237",
         "https://news.web.nhk/newsweb/na/nd-20261111de74226",
         "https://news.web.nhk/newsweb/na/nd-20261111de74213",
@@ -476,9 +478,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261109de72715",
         "https://news.web.nhk/newsweb/na/nd-20261109de72929",
         "https://news.web.nhk/newsweb/na/nd-20261109de72920",
-        "https://news.web.nhk/newsweb/na/nd-20261109de72886",
-        "https://news.web.nhk/newsweb/na/nd-20261109de72914",
-        "https://news.web.nhk/newsweb/na/nd-20261109de72904"
+        "https://news.web.nhk/newsweb/na/nd-20261109de72886"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/boox-picco/",
