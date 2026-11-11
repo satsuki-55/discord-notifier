@@ -280,6 +280,8 @@
         "https://www.bbc.co.uk/news/articles/cv2d6dpge65go#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261111de74395",
+        "https://news.web.nhk/newsweb/na/nd-20261111de74346",
         "https://news.web.nhk/newsweb/na/nd-20261111de74355",
         "https://news.web.nhk/newsweb/na/nd-20261111de73911",
         "https://news.web.nhk/newsweb/na/nd-20261111de74393",
@@ -477,9 +479,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261109de73076",
         "https://news.web.nhk/newsweb/na/nd-20261109de73086",
         "https://news.web.nhk/newsweb/na/nd-20261106de71396",
-        "https://news.web.nhk/newsweb/na/nd-20261109de73045",
-        "https://news.web.nhk/newsweb/na/nd-20261109de73001",
-        "https://news.web.nhk/newsweb/na/nd-20261109de72962"
+        "https://news.web.nhk/newsweb/na/nd-20261109de73045"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/chrome-security-patch-nov-2026/",
