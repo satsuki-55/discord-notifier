@@ -78,6 +78,8 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/videos/ck5y132yq1ymo#1",
+        "https://www.bbc.co.uk/news/articles/c3702jjkez4ko#1",
         "https://www.bbc.co.uk/news/articles/cmglr260z7eko#1",
         "https://www.bbc.co.uk/news/videos/cke89dqmlp2eo#1",
         "https://www.bbc.co.uk/news/articles/cqp9dr79jkrzo#0",
@@ -275,11 +277,10 @@
         "https://www.bbc.co.uk/news/articles/cw1m4d8vjvppo#0",
         "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro#0",
         "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo#0",
-        "https://www.bbc.co.uk/news/articles/cq2d6d5z9y5jo#0",
-        "https://www.bbc.co.uk/news/videos/cvrlylj9r11go#0",
-        "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo#1"
+        "https://www.bbc.co.uk/news/articles/cq2d6d5z9y5jo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261111de74472",
         "https://news.web.nhk/newsweb/na/nd-20261111de74286",
         "https://news.web.nhk/newsweb/na/nd-20261112de74521",
         "https://news.web.nhk/newsweb/na/nd-20261112de74498",
@@ -478,10 +479,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261109de73179",
         "https://news.web.nhk/newsweb/na/nd-20261109de73202",
         "https://news.web.nhk/newsweb/na/nd-20261109de72732",
-        "https://news.web.nhk/newsweb/na/nd-20261109de73178",
-        "https://news.web.nhk/newsweb/na/nd-20261109de73182"
+        "https://news.web.nhk/newsweb/na/nd-20261109de73178"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2611-white-hacker-ai-data-breach/",
         "https://www.gizmodo.jp/article/emoji-difference-btw-iphone-android-smile/",
         "https://www.gizmodo.jp/article/japan_trench_sea_spider_capsule/",
         "https://www.gizmodo.jp/article/adobe-mcp-integration-chatgpt-claude/",
@@ -680,8 +681,7 @@
         "https://www.gizmodo.jp/article/2610-nape-pro-se-ball-change/",
         "https://www.gizmodo.jp/article/ccd41e52-b312-45e6-a9c6-798e66d8c342/",
         "https://www.gizmodo.jp/article/2611-waymo-toyota-bz4x-robotaxi/",
-        "https://www.gizmodo.jp/article/high-five_shoelaces_review-rqt/",
-        "https://www.gizmodo.jp/article/2610-plaud-intelligence-review/"
+        "https://www.gizmodo.jp/article/high-five_shoelaces_review-rqt/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "GIv3foDi6o4",
