@@ -78,6 +78,8 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c6e3d895zne7o#1",
+        "https://www.bbc.co.uk/news/articles/cmkg5jr59835o#1",
         "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o#0",
         "https://www.bbc.co.uk/news/articles/c6174gw2ewpgo#0",
         "https://www.bbc.co.uk/news/articles/c6gqwq1x85e0o#0",
@@ -275,11 +277,10 @@
         "https://www.bbc.co.uk/news/articles/c65ynyxrjdyeo#1",
         "https://www.bbc.co.uk/news/articles/ckj0l082jqzvo#1",
         "https://www.bbc.co.uk/news/articles/cxyvrr5rz282o#0",
-        "https://www.bbc.co.uk/news/articles/cmwyvydp2vz8o#0",
-        "https://www.bbc.co.uk/news/articles/c674p4lynjk1o#1",
-        "https://www.bbc.co.uk/news/articles/c5n494x9kgp0o#1"
+        "https://www.bbc.co.uk/news/articles/cmwyvydp2vz8o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261111de74440",
         "https://news.web.nhk/newsweb/na/nd-20261111de74444",
         "https://news.web.nhk/newsweb/na/nd-20261111de74426",
         "https://news.web.nhk/newsweb/na/nd-20261111de74360",
@@ -478,8 +479,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261109de73135",
         "https://news.web.nhk/newsweb/na/nd-20261109de73140",
         "https://news.web.nhk/newsweb/na/nd-20261109de73137",
-        "https://news.web.nhk/newsweb/na/nd-20261109de72912",
-        "https://news.web.nhk/newsweb/na/nd-20261109de73131"
+        "https://news.web.nhk/newsweb/na/nd-20261109de72912"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/adobe-mcp-integration-chatgpt-claude/",
