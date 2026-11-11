@@ -77,6 +77,10 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cmwy9jl18840o#0",
+        "https://www.bbc.co.uk/news/articles/cwx2922r4mrjo#0",
+        "https://www.bbc.co.uk/news/articles/cm93rpy6lx0do#0",
+        "https://www.bbc.co.uk/news/articles/cqp8g8gl1y7ro#1",
         "https://www.bbc.co.uk/news/articles/c98rzzvde1llo#1",
         "https://www.bbc.co.uk/news/articles/cx5ynyg6j375o#1",
         "https://www.bbc.co.uk/news/articles/cw8dvpmzp2p4o#1",
@@ -272,13 +276,11 @@
         "https://www.bbc.co.uk/news/articles/c6pvgg7mdvdvo#0",
         "https://www.bbc.co.uk/news/articles/cw33kgj7nkemo#0",
         "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o#0",
-        "https://www.bbc.co.uk/news/videos/cq3989nkzn3ko#1",
-        "https://www.bbc.co.uk/news/articles/ck79p0lev47po#0",
-        "https://www.bbc.co.uk/news/articles/cqkg5g2970epo#0",
-        "https://www.bbc.co.uk/news/articles/cmvg652l927lo#1",
-        "https://www.bbc.co.uk/news/articles/c6y434dw8319o#0"
+        "https://www.bbc.co.uk/news/videos/cq3989nkzn3ko#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261111de74159",
+        "https://news.web.nhk/newsweb/na/nd-20261111de74160",
         "https://news.web.nhk/newsweb/na/nd-20261111de74146",
         "https://news.web.nhk/newsweb/na/nd-20261111de74119",
         "https://news.web.nhk/newsweb/na/nd-20261111de74151",
@@ -476,9 +478,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261109de72879",
         "https://news.web.nhk/newsweb/na/nd-20261109de72862",
         "https://news.web.nhk/newsweb/na/nd-20261109de72874",
-        "https://news.web.nhk/newsweb/na/nd-20261109de72852",
-        "https://news.web.nhk/newsweb/na/nd-20261109de72717",
-        "https://news.web.nhk/newsweb/na/nd-20261109de72833"
+        "https://news.web.nhk/newsweb/na/nd-20261109de72852"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-windows11-paint-vulnerability/",
