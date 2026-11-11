@@ -279,6 +279,7 @@
         "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261111de74213",
         "https://news.web.nhk/newsweb/na/nd-20261111de74168",
         "https://news.web.nhk/newsweb/na/nd-20261111de74183",
         "https://news.web.nhk/newsweb/na/nd-20261111de74181",
@@ -477,8 +478,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261109de72914",
         "https://news.web.nhk/newsweb/na/nd-20261109de72904",
         "https://news.web.nhk/newsweb/na/nd-20261109de72824",
-        "https://news.web.nhk/newsweb/na/nd-20261109de72848",
-        "https://news.web.nhk/newsweb/na/nd-20261109de72868"
+        "https://news.web.nhk/newsweb/na/nd-20261109de72848"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-windows11-paint-vulnerability/",
