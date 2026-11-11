@@ -78,6 +78,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cm4gnq2pw2kro#1",
         "https://www.bbc.co.uk/news/articles/cjr4g0n9d1g5o#0",
         "https://www.bbc.co.uk/news/articles/c68j4lez4x4no#1",
         "https://www.bbc.co.uk/news/articles/cwj3462yz21lo#0",
@@ -276,10 +277,10 @@
         "https://www.bbc.co.uk/news/articles/cqd090ee8px5o#1",
         "https://www.bbc.co.uk/news/articles/cqzjz8dk4wddo#0",
         "https://www.bbc.co.uk/news/articles/c6gqwq1x85e0o#0",
-        "https://www.bbc.co.uk/news/articles/cy4dgp1p3p1o#0",
-        "https://www.bbc.co.uk/news/articles/c9w15nggj58o#0"
+        "https://www.bbc.co.uk/news/articles/cy4dgp1p3p1o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261111de74433",
         "https://news.web.nhk/newsweb/na/nd-20261111de74430",
         "https://news.web.nhk/newsweb/na/nd-20261111de74378",
         "https://news.web.nhk/newsweb/na/nd-20261111de74343",
@@ -478,8 +479,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261109de73126",
         "https://news.web.nhk/newsweb/na/nd-20261109de72722",
         "https://news.web.nhk/newsweb/na/nd-20261109de72711",
-        "https://news.web.nhk/newsweb/na/nd-20261109de73082",
-        "https://news.web.nhk/newsweb/na/nd-20261109de73115"
+        "https://news.web.nhk/newsweb/na/nd-20261109de73082"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/data-center_grid_cost_residents/",
