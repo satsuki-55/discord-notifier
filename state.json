@@ -279,6 +279,8 @@
         "https://www.bbc.co.uk/news/articles/c6y434dw8319o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261111de74133",
+        "https://news.web.nhk/newsweb/na/nd-20261111de74142",
         "https://news.web.nhk/newsweb/na/nd-20261111de74100",
         "https://news.web.nhk/newsweb/na/nd-20261111de74102",
         "https://news.web.nhk/newsweb/na/nd-20261028de67085",
@@ -476,9 +478,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261109de72834",
         "https://news.web.nhk/newsweb/na/nd-20261109de72808",
         "https://news.web.nhk/newsweb/na/nd-20261109de72718",
-        "https://news.web.nhk/newsweb/na/nd-20261109de72781",
-        "https://news.web.nhk/newsweb/na/nd-20261109de72735",
-        "https://news.web.nhk/newsweb/na/nd-20261109de72721"
+        "https://news.web.nhk/newsweb/na/nd-20261109de72781"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-apple-ios28-macos28-development-process/",
