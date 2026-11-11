@@ -279,6 +279,7 @@
         "https://www.bbc.co.uk/news/articles/c6y434dw8319o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261111de74146",
         "https://news.web.nhk/newsweb/na/nd-20261111de74119",
         "https://news.web.nhk/newsweb/na/nd-20261111de74151",
         "https://news.web.nhk/newsweb/na/nd-20261111de73933",
@@ -477,10 +478,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261109de72874",
         "https://news.web.nhk/newsweb/na/nd-20261109de72852",
         "https://news.web.nhk/newsweb/na/nd-20261109de72717",
-        "https://news.web.nhk/newsweb/na/nd-20261109de72833",
-        "https://news.web.nhk/newsweb/na/nd-20261109de72831"
+        "https://news.web.nhk/newsweb/na/nd-20261109de72833"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2611-windows11-paint-vulnerability/",
         "https://www.gizmodo.jp/article/2611-apple-ios28-macos28-development-process/",
         "https://www.gizmodo.jp/article/google-calendar_invite_account_takeover/",
         "https://www.gizmodo.jp/article/2611-google-black-friday-pixel-sale/",
@@ -679,8 +680,7 @@
         "https://www.gizmodo.jp/article/2611-native-american-casino-prediction-app/",
         "https://www.gizmodo.jp/article/ebay-gpu-9600-sale/",
         "https://www.gizmodo.jp/article/m6-imac-hands-on/",
-        "https://www.gizmodo.jp/article/sam-altman-ai-cybersecurity-bug-patching/",
-        "https://www.gizmodo.jp/article/2611-maku-kotatsu/"
+        "https://www.gizmodo.jp/article/sam-altman-ai-cybersecurity-bug-patching/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "GIv3foDi6o4",
