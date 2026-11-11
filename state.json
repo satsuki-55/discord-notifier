@@ -77,6 +77,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c98rzzvde1llo#1",
         "https://www.bbc.co.uk/news/articles/cx5ynyg6j375o#1",
         "https://www.bbc.co.uk/news/articles/cw8dvpmzp2p4o#1",
         "https://www.bbc.co.uk/news/articles/cm93rpy6lx0do#1",
@@ -275,8 +276,7 @@
         "https://www.bbc.co.uk/news/articles/ck79p0lev47po#0",
         "https://www.bbc.co.uk/news/articles/cqkg5g2970epo#0",
         "https://www.bbc.co.uk/news/articles/cmvg652l927lo#1",
-        "https://www.bbc.co.uk/news/articles/c6y434dw8319o#0",
-        "https://www.bbc.co.uk/news/articles/ckn9r0zd0ynwo#0"
+        "https://www.bbc.co.uk/news/articles/c6y434dw8319o#0"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20261111de74102",
@@ -481,6 +481,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261109de72716"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2611-apple-ios28-macos28-development-process/",
         "https://www.gizmodo.jp/article/google-calendar_invite_account_takeover/",
         "https://www.gizmodo.jp/article/2611-google-black-friday-pixel-sale/",
         "https://www.gizmodo.jp/article/2611-line-agent-i-app/",
@@ -679,8 +680,7 @@
         "https://www.gizmodo.jp/article/ebay-gpu-9600-sale/",
         "https://www.gizmodo.jp/article/m6-imac-hands-on/",
         "https://www.gizmodo.jp/article/sam-altman-ai-cybersecurity-bug-patching/",
-        "https://www.gizmodo.jp/article/2611-maku-kotatsu/",
-        "https://www.gizmodo.jp/article/descente_zenchikei-shell-jacket/"
+        "https://www.gizmodo.jp/article/2611-maku-kotatsu/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "GIv3foDi6o4",
