@@ -280,6 +280,7 @@
         "https://www.bbc.co.uk/news/videos/cq99z9mrv35lo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261112de74532",
         "https://news.web.nhk/newsweb/na/nd-20261112de74529",
         "https://news.web.nhk/newsweb/na/nd-20261112de74524",
         "https://news.web.nhk/newsweb/na/nd-20261111de74472",
@@ -478,8 +479,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261109de73183",
         "https://news.web.nhk/newsweb/na/nd-20261110de73229",
         "https://news.web.nhk/newsweb/na/nd-20261110de73220",
-        "https://news.web.nhk/newsweb/na/nd-20261109de73179",
-        "https://news.web.nhk/newsweb/na/nd-20261109de73202"
+        "https://news.web.nhk/newsweb/na/nd-20261109de73179"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/trump-coins-hit-all-time-lows-as-elizabeth-warren-targets-trump-familys-crypto-empire/",
