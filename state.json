@@ -278,6 +278,7 @@
         "https://www.bbc.co.uk/news/articles/cq62y01r2313o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261111de73892",
         "https://news.web.nhk/newsweb/na/nd-20261111de73858",
         "https://news.web.nhk/newsweb/na/nd-20261111de73883",
         "https://news.web.nhk/newsweb/na/nd-20261111de73866",
@@ -476,8 +477,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261109de72637",
         "https://news.web.nhk/newsweb/na/nd-20261108de72609",
         "https://news.web.nhk/newsweb/na/nd-20261108de72599",
-        "https://news.web.nhk/newsweb/na/nd-20261108de72603",
-        "https://news.web.nhk/newsweb/na/nd-20261108de72408"
+        "https://news.web.nhk/newsweb/na/nd-20261108de72603"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/lollylab-lollipop-saliva-sensor/",
