@@ -76,6 +76,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cmwy9jl18840o#1",
         "https://www.bbc.co.uk/news/articles/cmvg2xdwnwezo#0",
         "https://www.bbc.co.uk/news/articles/cwkg5g5pjpyko#1",
         "https://www.bbc.co.uk/news/articles/ckgel338xql3o#0",
@@ -274,10 +275,10 @@
         "https://www.bbc.co.uk/news/articles/ckn9r0zd0ynwo#0",
         "https://www.bbc.co.uk/news/articles/c6y434dw8319o#1",
         "https://www.bbc.co.uk/news/articles/cwzrd5jj47ndo#0",
-        "https://www.bbc.co.uk/news/articles/cwyvrzle4g98o#1",
-        "https://www.bbc.co.uk/news/articles/ckj0l082jqzvo#0"
+        "https://www.bbc.co.uk/news/articles/cwyvrzle4g98o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261111de73959",
         "https://news.web.nhk/newsweb/na/nd-20261111de73950",
         "https://news.web.nhk/newsweb/na/nd-20261111de74027",
         "https://news.web.nhk/newsweb/na/nd-20261111de74000",
@@ -476,10 +477,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261109de72687",
         "https://news.web.nhk/newsweb/na/nd-20261109de72663",
         "https://news.web.nhk/newsweb/na/nd-20261109de72659",
-        "https://news.web.nhk/newsweb/na/nd-20261109de72678",
-        "https://news.web.nhk/newsweb/na/nd-20261108de72624"
+        "https://news.web.nhk/newsweb/na/nd-20261109de72678"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2611-line-agent-i-app/",
         "https://www.gizmodo.jp/article/apples-new-ceo-is-reportedly-pushing-to-stuff-more-ai-into-iphones/",
         "https://www.gizmodo.jp/article/2611-anthropic-ipo-nasdaq-valuation/",
         "https://www.gizmodo.jp/article/2611-switch-dl-present-feature/",
@@ -678,8 +679,7 @@
         "https://www.gizmodo.jp/article/2611-maku-kotatsu/",
         "https://www.gizmodo.jp/article/descente_zenchikei-shell-jacket/",
         "https://www.gizmodo.jp/article/2610-warren-buffett-investing-advice-stocks-spx-index-funds-strategy-berkshire-kji/",
-        "https://www.gizmodo.jp/article/2611-nerv-youtube-live-disaster-info/",
-        "https://www.gizmodo.jp/article/2611-ram-boost-review/"
+        "https://www.gizmodo.jp/article/2611-nerv-youtube-live-disaster-info/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "GIv3foDi6o4",
