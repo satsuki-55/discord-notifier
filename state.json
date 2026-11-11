@@ -76,6 +76,8 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cmvg2xdwnwezo#0",
+        "https://www.bbc.co.uk/news/articles/cwkg5g5pjpyko#1",
         "https://www.bbc.co.uk/news/articles/ckgel338xql3o#0",
         "https://www.bbc.co.uk/news/articles/cm20w093y3gqo#1",
         "https://www.bbc.co.uk/news/articles/c3rryrryk59zo#0",
@@ -273,9 +275,7 @@
         "https://www.bbc.co.uk/news/articles/c6y434dw8319o#1",
         "https://www.bbc.co.uk/news/articles/cwzrd5jj47ndo#0",
         "https://www.bbc.co.uk/news/articles/cwyvrzle4g98o#1",
-        "https://www.bbc.co.uk/news/articles/ckj0l082jqzvo#0",
-        "https://www.bbc.co.uk/news/articles/c6ly3mjx958eo#1",
-        "https://www.bbc.co.uk/news/articles/cq62y01r2313o#0"
+        "https://www.bbc.co.uk/news/articles/ckj0l082jqzvo#0"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20261111de73947",
@@ -480,6 +480,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261108de72622"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2611-anthropic-ipo-nasdaq-valuation/",
         "https://www.gizmodo.jp/article/2611-switch-dl-present-feature/",
         "https://www.gizmodo.jp/article/mont-bell-handy-scale-5hef/",
         "https://www.gizmodo.jp/article/2611-keychron-q19-he-8k-review/",
@@ -678,8 +679,7 @@
         "https://www.gizmodo.jp/article/2610-warren-buffett-investing-advice-stocks-spx-index-funds-strategy-berkshire-kji/",
         "https://www.gizmodo.jp/article/2611-nerv-youtube-live-disaster-info/",
         "https://www.gizmodo.jp/article/2611-ram-boost-review/",
-        "https://www.gizmodo.jp/article/youll-never-guess-how-scalpers-are-reportedly-snagging-rare-iphone-duos/",
-        "https://www.gizmodo.jp/article/2610-nape-pro-se-skeleton/"
+        "https://www.gizmodo.jp/article/youll-never-guess-how-scalpers-are-reportedly-snagging-rare-iphone-duos/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "GIv3foDi6o4",
