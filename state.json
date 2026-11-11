@@ -280,6 +280,7 @@
         "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261111de74479",
         "https://news.web.nhk/newsweb/na/nd-20261112de74516",
         "https://news.web.nhk/newsweb/na/nd-20261111de74484",
         "https://news.web.nhk/newsweb/na/nd-20261112de74514",
@@ -478,8 +479,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261109de73136",
         "https://news.web.nhk/newsweb/na/nd-20261109de73077",
         "https://news.web.nhk/newsweb/na/nd-20261109de73132",
-        "https://news.web.nhk/newsweb/na/nd-20261106de71556",
-        "https://news.web.nhk/newsweb/na/nd-20261109de73130"
+        "https://news.web.nhk/newsweb/na/nd-20261106de71556"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/emoji-difference-btw-iphone-android-smile/",
