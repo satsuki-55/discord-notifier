@@ -278,6 +278,7 @@
         "https://www.bbc.co.uk/news/articles/cq62y01r2313o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261111de73900",
         "https://news.web.nhk/newsweb/na/nd-20261111de73893",
         "https://news.web.nhk/newsweb/na/nd-20261111de73895",
         "https://news.web.nhk/newsweb/na/nd-20261111de73892",
@@ -476,8 +477,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261108de72622",
         "https://news.web.nhk/newsweb/na/nd-20261109de72639",
         "https://news.web.nhk/newsweb/na/nd-20261109de72671",
-        "https://news.web.nhk/newsweb/na/nd-20261109de72637",
-        "https://news.web.nhk/newsweb/na/nd-20261108de72609"
+        "https://news.web.nhk/newsweb/na/nd-20261109de72637"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-keychron-q19-he-8k-review/",
