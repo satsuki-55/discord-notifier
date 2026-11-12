@@ -280,6 +280,8 @@
         "https://www.bbc.co.uk/news/articles/c60rleej7dqgo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261112de74827",
+        "https://news.web.nhk/newsweb/na/nd-20261112de74832",
         "https://news.web.nhk/newsweb/na/nd-20261028de67086",
         "https://news.web.nhk/newsweb/na/nd-20261112de74743",
         "https://news.web.nhk/newsweb/na/nd-20261112de74822",
@@ -477,9 +479,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261110de73397",
         "https://news.web.nhk/newsweb/na/nd-20261110de73239",
         "https://news.web.nhk/newsweb/na/nd-20261110de73342",
-        "https://news.web.nhk/newsweb/na/nd-20261110de73311",
-        "https://news.web.nhk/newsweb/na/nd-20261110de73289",
-        "https://news.web.nhk/newsweb/na/nd-20261110de73284"
+        "https://news.web.nhk/newsweb/na/nd-20261110de73311"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-dq-sound-card-case/",
