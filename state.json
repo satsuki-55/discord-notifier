@@ -79,6 +79,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cvkg5jkpl2pno#1",
         "https://www.bbc.co.uk/sport/football/articles/cmz9dwk90ny7o#1",
         "https://www.bbc.co.uk/news/articles/ckedq1dxwylxo#0",
         "https://www.bbc.co.uk/news/articles/cmg46y76kz5no#0",
@@ -277,10 +278,10 @@
         "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro#0",
         "https://www.bbc.co.uk/news/articles/cm5ynyzje424o#1",
         "https://www.bbc.co.uk/news/articles/cq2e9v3030gyo#0",
-        "https://www.bbc.co.uk/news/articles/cq0memrywvzro#1",
-        "https://www.bbc.co.uk/news/articles/c6d7q98z1yz3o#0"
+        "https://www.bbc.co.uk/news/articles/cq0memrywvzro#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261112de75068",
         "https://news.web.nhk/newsweb/na/nd-20261112de75073",
         "https://news.web.nhk/newsweb/na/nd-20261112de75056",
         "https://news.web.nhk/newsweb/na/nd-20261112de75051",
@@ -479,8 +480,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261110de73624",
         "https://news.web.nhk/newsweb/na/nd-20261107de72045",
         "https://news.web.nhk/newsweb/na/nd-20261110de73561",
-        "https://news.web.nhk/newsweb/na/nd-20261110de73547",
-        "https://news.web.nhk/newsweb/na/nd-20261110de73559"
+        "https://news.web.nhk/newsweb/na/nd-20261110de73547"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-nvidia-ceo-jensen-huang-successors/",
