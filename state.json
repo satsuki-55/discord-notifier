@@ -281,6 +281,7 @@
         "https://www.bbc.co.uk/news/articles/cqkg5gm4nr4no#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261112de75002",
         "https://news.web.nhk/newsweb/na/nd-20261112de75000",
         "https://news.web.nhk/newsweb/na/nd-20261112de74972",
         "https://news.web.nhk/newsweb/na/nd-20261112de74995",
@@ -479,8 +480,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261028de66998",
         "https://news.web.nhk/newsweb/na/nd-20261110de73454",
         "https://news.web.nhk/newsweb/na/nd-20261110de73474",
-        "https://news.web.nhk/newsweb/na/nd-20261110de73461",
-        "https://news.web.nhk/newsweb/na/nd-20261110de73453"
+        "https://news.web.nhk/newsweb/na/nd-20261110de73461"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-eu-tiktok-recommendation-dsa/",
