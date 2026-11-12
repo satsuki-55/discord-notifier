@@ -79,6 +79,8 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cmg46y7wev42o#0",
+        "https://www.bbc.co.uk/news/articles/cmdx1635xkkdo#1",
         "https://www.bbc.co.uk/news/articles/cqj34d3l0zlmo#0",
         "https://www.bbc.co.uk/news/articles/c6x20x380z12o#1",
         "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o#0",
@@ -276,9 +278,7 @@
         "https://www.bbc.co.uk/news/articles/cxyvrr5rz282o#1",
         "https://www.bbc.co.uk/news/articles/cvwy7ydg4264o#1",
         "https://www.bbc.co.uk/news/articles/cqev3vl4ek33o#0",
-        "https://www.bbc.co.uk/news/articles/cqpvgv318yyeo#1",
-        "https://www.bbc.co.uk/news/articles/cqr7y7pjpy7do#1",
-        "https://www.bbc.co.uk/news/articles/cwm262pzezy0o#0"
+        "https://www.bbc.co.uk/news/articles/cqpvgv318yyeo#1"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20261112de75024",
@@ -483,6 +483,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261110de73474"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/macbook-pro_oled_review/",
         "https://www.gizmodo.jp/article/2611-eu-tiktok-recommendation-dsa/",
         "https://www.gizmodo.jp/article/2611-line-message-yoyaku/",
         "https://www.gizmodo.jp/article/2611-ring-robotics-home-security-drone-rover/",
@@ -681,8 +682,7 @@
         "https://www.gizmodo.jp/article/2611-android-nov-security-update-vulnerability/",
         "https://www.gizmodo.jp/article/2611-smart-sleeve-display-washable-clothing/",
         "https://www.gizmodo.jp/article/2611-ai-agent-cart-hold-secondhand-shops/",
-        "https://www.gizmodo.jp/article/2611-openai-tamagpt-gadget/",
-        "https://www.gizmodo.jp/article/2611-iphone-duo-stock-shortage/"
+        "https://www.gizmodo.jp/article/2611-openai-tamagpt-gadget/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "GIv3foDi6o4",
