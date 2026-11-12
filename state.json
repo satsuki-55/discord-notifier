@@ -281,6 +281,7 @@
         "https://www.bbc.co.uk/news/articles/c3lylyy24xl5o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261113de75122",
         "https://news.web.nhk/newsweb/na/nd-20261113de75121",
         "https://news.web.nhk/newsweb/na/nd-20261110de73722",
         "https://news.web.nhk/newsweb/na/nd-20261112de75099",
@@ -479,8 +480,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261110de73754",
         "https://news.web.nhk/newsweb/na/nd-20261110de73686",
         "https://news.web.nhk/newsweb/na/nd-20261110de73734",
-        "https://news.web.nhk/newsweb/na/nd-20261110de73742",
-        "https://news.web.nhk/newsweb/na/nd-20261110de73733"
+        "https://news.web.nhk/newsweb/na/nd-20261110de73742"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-nvidia-ceo-jensen-huang-resigns/",
