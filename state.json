@@ -79,6 +79,8 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cmze750zg0jeo#0",
+        "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o#1",
         "https://www.bbc.co.uk/news/articles/cq2e9v3030gyo#0",
         "https://www.bbc.co.uk/news/articles/c6x28e243gg9o#1",
         "https://www.bbc.co.uk/news/articles/cvkg5jkpl2pno#2",
@@ -276,11 +278,11 @@
         "https://www.bbc.co.uk/news/articles/ckx2q2velpjjo#0",
         "https://www.bbc.co.uk/news/articles/cjdx3x7wg941o#0",
         "https://www.bbc.co.uk/news/articles/cw4g1g4ll5m1o#1",
-        "https://www.bbc.co.uk/news/articles/cmreye1q3dnjo#1",
-        "https://www.bbc.co.uk/news/articles/cqr7y7myer53o#1",
-        "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro#0"
+        "https://www.bbc.co.uk/news/articles/cmreye1q3dnjo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261112de75085",
+        "https://news.web.nhk/newsweb/na/nd-20261112de75080",
         "https://news.web.nhk/newsweb/na/nd-20261112de75071",
         "https://news.web.nhk/newsweb/na/nd-20261112de75078",
         "https://news.web.nhk/newsweb/na/nd-20261112de75068",
@@ -478,9 +480,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261110de73681",
         "https://news.web.nhk/newsweb/na/nd-20261110de73511",
         "https://news.web.nhk/newsweb/na/nd-20261110de73652",
-        "https://news.web.nhk/newsweb/na/nd-20261110de73588",
-        "https://news.web.nhk/newsweb/na/nd-20261110de73624",
-        "https://news.web.nhk/newsweb/na/nd-20261107de72045"
+        "https://news.web.nhk/newsweb/na/nd-20261110de73588"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-nvidia-ceo-jensen-huang-resigns/",
