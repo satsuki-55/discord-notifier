@@ -281,6 +281,7 @@
         "https://www.bbc.co.uk/news/articles/cqev3vl4ek33o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261112de75041",
         "https://news.web.nhk/newsweb/na/nd-20261112de75042",
         "https://news.web.nhk/newsweb/na/nd-20261112de75036",
         "https://news.web.nhk/newsweb/na/nd-20261112de75032",
@@ -479,8 +480,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261110de73528",
         "https://news.web.nhk/newsweb/na/nd-20261110de73499",
         "https://news.web.nhk/newsweb/na/nd-20261110de73545",
-        "https://news.web.nhk/newsweb/na/nd-20261110de73534",
-        "https://news.web.nhk/newsweb/na/nd-20261110de73463"
+        "https://news.web.nhk/newsweb/na/nd-20261110de73534"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/macbook-pro_oled_review/",
