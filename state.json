@@ -281,6 +281,7 @@
         "https://www.bbc.co.uk/news/articles/cqkg5gm4nr4no#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261112de75000",
         "https://news.web.nhk/newsweb/na/nd-20261112de74972",
         "https://news.web.nhk/newsweb/na/nd-20261112de74995",
         "https://news.web.nhk/newsweb/na/nd-20261112de74951",
@@ -479,10 +480,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261110de73454",
         "https://news.web.nhk/newsweb/na/nd-20261110de73474",
         "https://news.web.nhk/newsweb/na/nd-20261110de73461",
-        "https://news.web.nhk/newsweb/na/nd-20261110de73453",
-        "https://news.web.nhk/newsweb/na/nd-20261021de62618"
+        "https://news.web.nhk/newsweb/na/nd-20261110de73453"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2611-eu-tiktok-recommendation-dsa/",
         "https://www.gizmodo.jp/article/2611-line-message-yoyaku/",
         "https://www.gizmodo.jp/article/2611-ring-robotics-home-security-drone-rover/",
         "https://www.gizmodo.jp/article/2611-iwatani-marudan-plus/",
@@ -681,8 +682,7 @@
         "https://www.gizmodo.jp/article/2611-smart-sleeve-display-washable-clothing/",
         "https://www.gizmodo.jp/article/2611-ai-agent-cart-hold-secondhand-shops/",
         "https://www.gizmodo.jp/article/2611-openai-tamagpt-gadget/",
-        "https://www.gizmodo.jp/article/2611-iphone-duo-stock-shortage/",
-        "https://www.gizmodo.jp/article/2611-apple-intelligence-china-alibaba/"
+        "https://www.gizmodo.jp/article/2611-iphone-duo-stock-shortage/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "GIv3foDi6o4",
