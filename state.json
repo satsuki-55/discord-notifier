@@ -79,6 +79,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c30rkwpxdx50o#2",
         "https://www.bbc.co.uk/news/articles/cm9qz93ew22no#0",
         "https://www.bbc.co.uk/news/videos/c94gnv5e31gno#1",
         "https://www.bbc.co.uk/weather/articles/cmy49yd4z0jko#1",
@@ -277,10 +278,10 @@
         "https://www.bbc.co.uk/news/articles/cmreye1q3dnjo#0",
         "https://www.bbc.co.uk/news/articles/cq3989418n78o#1",
         "https://www.bbc.co.uk/news/articles/c32l4lw12z7po#1",
-        "https://www.bbc.co.uk/news/articles/cqkg5gm4nr4no#1",
-        "https://www.bbc.co.uk/news/articles/cq398em3032wo#1"
+        "https://www.bbc.co.uk/news/articles/cqkg5gm4nr4no#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261112de74972",
         "https://news.web.nhk/newsweb/na/nd-20261112de74995",
         "https://news.web.nhk/newsweb/na/nd-20261112de74951",
         "https://news.web.nhk/newsweb/na/nd-20261112de74982",
@@ -479,8 +480,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261110de73474",
         "https://news.web.nhk/newsweb/na/nd-20261110de73461",
         "https://news.web.nhk/newsweb/na/nd-20261110de73453",
-        "https://news.web.nhk/newsweb/na/nd-20261021de62618",
-        "https://news.web.nhk/newsweb/na/nd-20261110de73330"
+        "https://news.web.nhk/newsweb/na/nd-20261021de62618"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-line-message-yoyaku/",
