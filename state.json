@@ -280,6 +280,7 @@
         "https://www.bbc.co.uk/news/articles/cw62y2z53pg1o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261112de74716",
         "https://news.web.nhk/newsweb/na/nd-20261112de74719",
         "https://news.web.nhk/newsweb/na/nd-20261112de74704",
         "https://news.web.nhk/newsweb/na/nd-20261112de74709",
@@ -478,8 +479,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261110de73251",
         "https://news.web.nhk/newsweb/na/nd-20261026de65512",
         "https://news.web.nhk/newsweb/na/nd-20261110de73262",
-        "https://news.web.nhk/newsweb/na/nd-20261110de73250",
-        "https://news.web.nhk/newsweb/na/nd-20261110de73248"
+        "https://news.web.nhk/newsweb/na/nd-20261110de73250"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-data-center-water-shortage-risk/",
