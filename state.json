@@ -280,6 +280,7 @@
         "https://www.bbc.co.uk/news/articles/c95ynylr8j6xo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261112de74917",
         "https://news.web.nhk/newsweb/na/nd-20261112de74907",
         "https://news.web.nhk/newsweb/na/nd-20261110de73399",
         "https://news.web.nhk/newsweb/na/nd-20261112de74902",
@@ -478,8 +479,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261110de73278",
         "https://news.web.nhk/newsweb/na/nd-20261110de73285",
         "https://news.web.nhk/newsweb/na/nd-20261107de71985",
-        "https://news.web.nhk/newsweb/na/nd-20261110de73430",
-        "https://news.web.nhk/newsweb/na/nd-20261110de73401"
+        "https://news.web.nhk/newsweb/na/nd-20261110de73430"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-iwatani-marudan-plus/",
