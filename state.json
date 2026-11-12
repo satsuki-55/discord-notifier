@@ -79,6 +79,9 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/ckedq1dxwylxo#0",
+        "https://www.bbc.co.uk/news/articles/cmg46y76kz5no#0",
+        "https://www.bbc.co.uk/news/articles/cwj3462yz21lo#1",
         "https://www.bbc.co.uk/news/articles/crpdgd723x2zo#1",
         "https://www.bbc.co.uk/news/articles/cj62p32k90wyo#1",
         "https://www.bbc.co.uk/news/articles/crpdgd723x2zo#0",
@@ -275,12 +278,10 @@
         "https://www.bbc.co.uk/news/articles/cq2e9v3030gyo#0",
         "https://www.bbc.co.uk/news/articles/cq0memrywvzro#1",
         "https://www.bbc.co.uk/news/articles/c6d7q98z1yz3o#0",
-        "https://www.bbc.co.uk/news/articles/ck1wvwyrd4ywo#0",
-        "https://www.bbc.co.uk/news/articles/ck1wvwyrd4ywo#1",
-        "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o#0",
-        "https://www.bbc.co.uk/news/articles/c3j474prl2r7o#1"
+        "https://www.bbc.co.uk/news/articles/ck1wvwyrd4ywo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261112de75073",
         "https://news.web.nhk/newsweb/na/nd-20261112de75056",
         "https://news.web.nhk/newsweb/na/nd-20261112de75051",
         "https://news.web.nhk/newsweb/na/nd-20261112de75057",
@@ -479,8 +480,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261107de72045",
         "https://news.web.nhk/newsweb/na/nd-20261110de73561",
         "https://news.web.nhk/newsweb/na/nd-20261110de73547",
-        "https://news.web.nhk/newsweb/na/nd-20261110de73559",
-        "https://news.web.nhk/newsweb/na/nd-20261110de73517"
+        "https://news.web.nhk/newsweb/na/nd-20261110de73559"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/deep-sea_sawtooth_peanut_worm/",
