@@ -78,6 +78,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cr1ewpd95d21o#0",
         "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo#1",
         "https://www.bbc.co.uk/news/articles/c8zx964glvwxo#0",
         "https://www.bbc.co.uk/news/articles/c6rmgw8zynr4o#1",
@@ -276,8 +277,7 @@
         "https://www.bbc.co.uk/news/articles/cry838v4qzvyo#1",
         "https://www.bbc.co.uk/news/articles/cq5yny4nl2d3o#1",
         "https://www.bbc.co.uk/news/articles/ckgel338xql3o#1",
-        "https://www.bbc.co.uk/news/articles/cry838v4qzvyo#0",
-        "https://www.bbc.co.uk/news/articles/c51kdk8z7ym3o#1"
+        "https://www.bbc.co.uk/news/articles/cry838v4qzvyo#0"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20261112de74728",
@@ -482,6 +482,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261026de65512"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2611-iphone-20-no-action-button/",
         "https://www.gizmodo.jp/article/2611-anker-nano-usb-c-hdmi-cable/",
         "https://www.gizmodo.jp/article/2611-global-co2-emissions-iran-conflict/",
         "https://www.gizmodo.jp/article/2611-data-center-water-shortage-risk/",
@@ -680,8 +681,7 @@
         "https://www.gizmodo.jp/article/liquid-metal-security-tag/",
         "https://www.gizmodo.jp/article/roborock-saros-20-flow/",
         "https://www.gizmodo.jp/article/char_aznable_hosereel_x3/",
-        "https://www.gizmodo.jp/article/2611-black-october-cyber-security-2026/",
-        "https://www.gizmodo.jp/article/2611-claude-code-extension-security-incident/"
+        "https://www.gizmodo.jp/article/2611-black-october-cyber-security-2026/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "GIv3foDi6o4",
