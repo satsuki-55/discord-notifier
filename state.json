@@ -78,6 +78,8 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/ckvg25zmppglo#0",
+        "https://www.bbc.co.uk/news/articles/cmvgxgz87qqro#1",
         "https://www.bbc.co.uk/news/articles/c98r7xyjx8g4o#1",
         "https://www.bbc.co.uk/news/articles/c3x298n87rn2o#1",
         "https://www.bbc.co.uk/news/articles/cjkgep4rgngro#1",
@@ -275,11 +277,10 @@
         "https://www.bbc.co.uk/news/articles/cm86z6w59gggo#0",
         "https://www.bbc.co.uk/news/articles/cq2d6d5z9y5jo#1",
         "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o#0",
-        "https://www.bbc.co.uk/news/articles/cw62y2z53pg1o#0",
-        "https://www.bbc.co.uk/news/articles/cw5ynver15jeo#0",
-        "https://www.bbc.co.uk/news/articles/ck7vppll151mo#1"
+        "https://www.bbc.co.uk/news/articles/cw62y2z53pg1o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261112de74564",
         "https://news.web.nhk/newsweb/na/nd-20261112de74562",
         "https://news.web.nhk/newsweb/na/nd-20261112de74639",
         "https://news.web.nhk/newsweb/na/nd-20261112de74625",
@@ -478,8 +479,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261106de71858",
         "https://news.web.nhk/newsweb/na/nd-20261109de73119",
         "https://news.web.nhk/newsweb/na/nd-20261110de73224",
-        "https://news.web.nhk/newsweb/na/nd-20261109de73180",
-        "https://news.web.nhk/newsweb/na/nd-20261110de73219"
+        "https://news.web.nhk/newsweb/na/nd-20261109de73180"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-m6-imac-neo-and-pro/",
