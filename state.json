@@ -281,6 +281,8 @@
         "https://www.bbc.co.uk/news/videos/cqj9k9dj7vzlo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261112de75051",
+        "https://news.web.nhk/newsweb/na/nd-20261112de75057",
         "https://news.web.nhk/newsweb/na/nd-20261112de75053",
         "https://news.web.nhk/newsweb/na/nd-20261112de75054",
         "https://news.web.nhk/newsweb/na/nd-20261112de75046",
@@ -478,11 +480,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261110de73547",
         "https://news.web.nhk/newsweb/na/nd-20261110de73559",
         "https://news.web.nhk/newsweb/na/nd-20261110de73517",
-        "https://news.web.nhk/newsweb/na/nd-20261110de73572",
-        "https://news.web.nhk/newsweb/na/nd-20261110de73527",
-        "https://news.web.nhk/newsweb/na/nd-20261110de73530"
+        "https://news.web.nhk/newsweb/na/nd-20261110de73572"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2611-anker-sleep-earbuds-4-pro/",
         "https://www.gizmodo.jp/article/ai-rebounding_workers_hired_back/",
         "https://www.gizmodo.jp/article/macbook-pro_oled_review/",
         "https://www.gizmodo.jp/article/2611-eu-tiktok-recommendation-dsa/",
@@ -681,8 +682,7 @@
         "https://www.gizmodo.jp/article/2611-apple-watch-live-rewind-siri-recaps/",
         "https://www.gizmodo.jp/article/lenovo-tab_review-dh8-phone/",
         "https://www.gizmodo.jp/article/2611-android-nov-security-update-vulnerability/",
-        "https://www.gizmodo.jp/article/2611-smart-sleeve-display-washable-clothing/",
-        "https://www.gizmodo.jp/article/2611-ai-agent-cart-hold-secondhand-shops/"
+        "https://www.gizmodo.jp/article/2611-smart-sleeve-display-washable-clothing/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "GIv3foDi6o4",
