@@ -281,6 +281,7 @@
         "https://www.bbc.co.uk/news/videos/cqj9k9dj7vzlo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261112de75054",
         "https://news.web.nhk/newsweb/na/nd-20261112de75046",
         "https://news.web.nhk/newsweb/na/nd-20261112de75044",
         "https://news.web.nhk/newsweb/na/nd-20261112de75041",
@@ -479,8 +480,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261110de73572",
         "https://news.web.nhk/newsweb/na/nd-20261110de73527",
         "https://news.web.nhk/newsweb/na/nd-20261110de73530",
-        "https://news.web.nhk/newsweb/na/nd-20261110de73528",
-        "https://news.web.nhk/newsweb/na/nd-20261110de73499"
+        "https://news.web.nhk/newsweb/na/nd-20261110de73528"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/ai-rebounding_workers_hired_back/",
