@@ -280,6 +280,9 @@
         "https://www.bbc.co.uk/news/articles/ck7vppll151mo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261112de74562",
+        "https://news.web.nhk/newsweb/na/nd-20261112de74639",
+        "https://news.web.nhk/newsweb/na/nd-20261112de74625",
         "https://news.web.nhk/newsweb/na/nd-20261112de74547",
         "https://news.web.nhk/newsweb/na/nd-20261112de74557",
         "https://news.web.nhk/newsweb/na/nd-20261112de74555",
@@ -476,10 +479,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261109de73119",
         "https://news.web.nhk/newsweb/na/nd-20261110de73224",
         "https://news.web.nhk/newsweb/na/nd-20261109de73180",
-        "https://news.web.nhk/newsweb/na/nd-20261110de73219",
-        "https://news.web.nhk/newsweb/na/nd-20261110de73225",
-        "https://news.web.nhk/newsweb/na/nd-20261110de73227",
-        "https://news.web.nhk/newsweb/na/nd-20261110de73230"
+        "https://news.web.nhk/newsweb/na/nd-20261110de73219"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-m6-imac-neo-and-pro/",
