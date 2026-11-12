@@ -78,6 +78,8 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c60rleej7dqgo#0",
+        "https://www.bbc.co.uk/news/articles/ck9d71wyn7wwo#0",
         "https://www.bbc.co.uk/news/articles/c64g1gzy2vdzo#0",
         "https://www.bbc.co.uk/news/articles/cmp3g37l566po#0",
         "https://www.bbc.co.uk/news/articles/cw1m42zdnn3go#0",
@@ -275,11 +277,10 @@
         "https://www.bbc.co.uk/news/articles/cm9qz93ew22no#0",
         "https://www.bbc.co.uk/news/articles/c95ynylr8j6xo#0",
         "https://www.bbc.co.uk/news/articles/cw0737kv52lko#0",
-        "https://www.bbc.co.uk/news/articles/cmwyvydp2vz8o#1",
-        "https://www.bbc.co.uk/news/articles/cm369e3l15lwo#0",
-        "https://www.bbc.co.uk/news/articles/c60rleej7dqgo#0"
+        "https://www.bbc.co.uk/news/articles/cmwyvydp2vz8o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261112de74857",
         "https://news.web.nhk/newsweb/na/nd-20261112de74827",
         "https://news.web.nhk/newsweb/na/nd-20261112de74832",
         "https://news.web.nhk/newsweb/na/nd-20261028de67086",
@@ -478,8 +479,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261110de73396",
         "https://news.web.nhk/newsweb/na/nd-20261110de73397",
         "https://news.web.nhk/newsweb/na/nd-20261110de73239",
-        "https://news.web.nhk/newsweb/na/nd-20261110de73342",
-        "https://news.web.nhk/newsweb/na/nd-20261110de73311"
+        "https://news.web.nhk/newsweb/na/nd-20261110de73342"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-dq-sound-card-case/",
