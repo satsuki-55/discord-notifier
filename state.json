@@ -280,6 +280,7 @@
         "https://www.bbc.co.uk/news/articles/c60rleej7dqgo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261112de74822",
         "https://news.web.nhk/newsweb/na/nd-20261112de74731",
         "https://news.web.nhk/newsweb/na/nd-20261112de74738",
         "https://news.web.nhk/newsweb/na/nd-20261112de74787",
@@ -478,8 +479,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261110de73289",
         "https://news.web.nhk/newsweb/na/nd-20261110de73284",
         "https://news.web.nhk/newsweb/na/nd-20261110de73298",
-        "https://news.web.nhk/newsweb/na/nd-20261110de73269",
-        "https://news.web.nhk/newsweb/na/nd-20261110de73268"
+        "https://news.web.nhk/newsweb/na/nd-20261110de73269"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-iphone-20-no-action-button/",
