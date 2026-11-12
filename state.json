@@ -280,6 +280,8 @@
         "https://www.bbc.co.uk/news/articles/cw62y2z53pg1o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261112de74668",
+        "https://news.web.nhk/newsweb/na/nd-20261112de74676",
         "https://news.web.nhk/newsweb/na/nd-20261112de74564",
         "https://news.web.nhk/newsweb/na/nd-20261112de74562",
         "https://news.web.nhk/newsweb/na/nd-20261112de74639",
@@ -477,11 +479,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261110de73244",
         "https://news.web.nhk/newsweb/na/nd-20261110de73237",
         "https://news.web.nhk/newsweb/na/nd-20261106de71858",
-        "https://news.web.nhk/newsweb/na/nd-20261109de73119",
-        "https://news.web.nhk/newsweb/na/nd-20261110de73224",
-        "https://news.web.nhk/newsweb/na/nd-20261109de73180"
+        "https://news.web.nhk/newsweb/na/nd-20261109de73119"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2611-jensen-huang-divorce-settlement/",
         "https://www.gizmodo.jp/article/ai-ceo-impersonation-fraud-200-billion/",
         "https://www.gizmodo.jp/article/2611-m6-imac-neo-and-pro/",
         "https://www.gizmodo.jp/article/supernova_images-c5i-lrt/",
@@ -680,8 +681,7 @@
         "https://www.gizmodo.jp/article/2611-music-taste-sonic-seasoning/",
         "https://www.gizmodo.jp/article/2611-amazon-kindle-sale-autumn/",
         "https://www.gizmodo.jp/article/2611-reddit-login-required-ads-ai/",
-        "https://www.gizmodo.jp/article/wikipedia-ai-cleanup-human-written/",
-        "https://www.gizmodo.jp/article/2611-tokyocrafts-diafort-tc-tent/"
+        "https://www.gizmodo.jp/article/wikipedia-ai-cleanup-human-written/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "GIv3foDi6o4",
