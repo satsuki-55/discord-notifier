@@ -280,6 +280,7 @@
         "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261112de74728",
         "https://news.web.nhk/newsweb/na/nd-20261112de74721",
         "https://news.web.nhk/newsweb/na/nd-20261112de74716",
         "https://news.web.nhk/newsweb/na/nd-20261112de74719",
@@ -478,8 +479,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261110de73268",
         "https://news.web.nhk/newsweb/na/nd-20261110de73265",
         "https://news.web.nhk/newsweb/na/nd-20261110de73251",
-        "https://news.web.nhk/newsweb/na/nd-20261026de65512",
-        "https://news.web.nhk/newsweb/na/nd-20261110de73262"
+        "https://news.web.nhk/newsweb/na/nd-20261026de65512"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-global-co2-emissions-iran-conflict/",
