@@ -78,6 +78,8 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cw1m42zdnn3go#0",
+        "https://www.bbc.co.uk/news/articles/ck3rgd429zd5o#0",
         "https://www.bbc.co.uk/news/articles/cm3egj20v5x4o#0",
         "https://www.bbc.co.uk/news/articles/crgqwgzxeexno#0",
         "https://www.bbc.co.uk/sport/darts/articles/ckpqrjnj3y0qo#1",
@@ -275,11 +277,11 @@
         "https://www.bbc.co.uk/news/articles/cm369e3l15lwo#0",
         "https://www.bbc.co.uk/news/articles/c60rleej7dqgo#0",
         "https://www.bbc.co.uk/news/articles/cqr7y7myer53o#0",
-        "https://www.bbc.co.uk/news/articles/c64g1gzy2vdzo#0",
-        "https://www.bbc.co.uk/news/articles/cmp3g37l566po#0",
-        "https://www.bbc.co.uk/news/articles/cw1m42zdnn3go#0"
+        "https://www.bbc.co.uk/news/articles/c64g1gzy2vdzo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261112de74738",
+        "https://news.web.nhk/newsweb/na/nd-20261112de74787",
         "https://news.web.nhk/newsweb/na/nd-20261112de74728",
         "https://news.web.nhk/newsweb/na/nd-20261112de74721",
         "https://news.web.nhk/newsweb/na/nd-20261112de74716",
@@ -477,9 +479,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261110de73298",
         "https://news.web.nhk/newsweb/na/nd-20261110de73269",
         "https://news.web.nhk/newsweb/na/nd-20261110de73268",
-        "https://news.web.nhk/newsweb/na/nd-20261110de73265",
-        "https://news.web.nhk/newsweb/na/nd-20261110de73251",
-        "https://news.web.nhk/newsweb/na/nd-20261026de65512"
+        "https://news.web.nhk/newsweb/na/nd-20261110de73265"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-iphone-20-no-action-button/",
