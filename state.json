@@ -79,6 +79,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o#1",
         "https://www.bbc.co.uk/news/articles/cv62yyng00jyo#0",
         "https://www.bbc.co.uk/news/articles/c8wy9y37z30vo#0",
         "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o#0",
@@ -277,8 +278,7 @@
         "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo#1",
         "https://www.bbc.co.uk/news/articles/cv62yyng00jyo#1",
         "https://www.bbc.co.uk/news/articles/cwm242plggldo#0",
-        "https://www.bbc.co.uk/news/articles/c85ynn0p5k71o#0",
-        "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo#0"
+        "https://www.bbc.co.uk/news/articles/c85ynn0p5k71o#0"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20261113de75134",
@@ -483,6 +483,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261110de73743"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2611-suica-walk-through-ticket-gate/",
         "https://www.gizmodo.jp/article/gemini_apple_carplay/",
         "https://www.gizmodo.jp/article/2611-huawei-qingyun-hm650-harmonyos/",
         "https://www.gizmodo.jp/article/2611-openai-next-gen-cyber-ai-exploitgym/",
@@ -681,8 +682,7 @@
         "https://www.gizmodo.jp/article/2610-nape-pro-se-standard-diff/",
         "https://www.gizmodo.jp/article/pulstek_filmscanner_repost-2/",
         "https://www.gizmodo.jp/article/2611-chatgpt-image-2-6/",
-        "https://www.gizmodo.jp/article/oled-macbook-pro-display-quality/",
-        "https://www.gizmodo.jp/article/delivery-robots-are-watching-you-according-to-lawsuit/"
+        "https://www.gizmodo.jp/article/oled-macbook-pro-display-quality/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "GIv3foDi6o4",
