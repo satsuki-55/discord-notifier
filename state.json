@@ -280,6 +280,7 @@
         "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261112de74555",
         "https://news.web.nhk/newsweb/na/nd-20261112de74538",
         "https://news.web.nhk/newsweb/na/nd-20261112de74534",
         "https://news.web.nhk/newsweb/na/nd-20261112de74535",
@@ -478,8 +479,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261110de73227",
         "https://news.web.nhk/newsweb/na/nd-20261110de73230",
         "https://news.web.nhk/newsweb/na/nd-20261110de73223",
-        "https://news.web.nhk/newsweb/na/nd-20261110de73218",
-        "https://news.web.nhk/newsweb/na/nd-20261109de73183"
+        "https://news.web.nhk/newsweb/na/nd-20261110de73218"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-playstation-portal-player-storage-mystery/",
