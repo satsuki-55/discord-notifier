@@ -280,6 +280,7 @@
         "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261112de74547",
         "https://news.web.nhk/newsweb/na/nd-20261112de74557",
         "https://news.web.nhk/newsweb/na/nd-20261112de74555",
         "https://news.web.nhk/newsweb/na/nd-20261112de74538",
@@ -478,10 +479,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261110de73219",
         "https://news.web.nhk/newsweb/na/nd-20261110de73225",
         "https://news.web.nhk/newsweb/na/nd-20261110de73227",
-        "https://news.web.nhk/newsweb/na/nd-20261110de73230",
-        "https://news.web.nhk/newsweb/na/nd-20261110de73223"
+        "https://news.web.nhk/newsweb/na/nd-20261110de73230"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/tapo-c665g-kit-4g-security-camera/",
         "https://www.gizmodo.jp/article/2611-playstation-portal-player-storage-mystery/",
         "https://www.gizmodo.jp/article/2611-nvidia-jensen-huang-affair-spy/",
         "https://www.gizmodo.jp/article/trump-coins-hit-all-time-lows-as-elizabeth-warren-targets-trump-familys-crypto-empire/",
@@ -680,8 +681,7 @@
         "https://www.gizmodo.jp/article/2611-iphone-duo-claude/",
         "https://www.gizmodo.jp/article/8115672f-2239-4e7d-b5a0-29d8367bdc71/",
         "https://www.gizmodo.jp/article/2611-chrome-extension-search-privacy-leak/",
-        "https://www.gizmodo.jp/article/2611-google-stock-price-drop-ai-search/",
-        "https://www.gizmodo.jp/article/2610-nape-pro-se-ball-change/"
+        "https://www.gizmodo.jp/article/2611-google-stock-price-drop-ai-search/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "GIv3foDi6o4",
