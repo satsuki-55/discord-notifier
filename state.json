@@ -280,6 +280,9 @@
         "https://www.bbc.co.uk/news/articles/cw62y2z53pg1o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261112de74719",
+        "https://news.web.nhk/newsweb/na/nd-20261112de74704",
+        "https://news.web.nhk/newsweb/na/nd-20261112de74709",
         "https://news.web.nhk/newsweb/na/nd-20261112de74680",
         "https://news.web.nhk/newsweb/na/nd-20261112de74556",
         "https://news.web.nhk/newsweb/na/nd-20261109de73119",
@@ -476,12 +479,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261026de65512",
         "https://news.web.nhk/newsweb/na/nd-20261110de73262",
         "https://news.web.nhk/newsweb/na/nd-20261110de73250",
-        "https://news.web.nhk/newsweb/na/nd-20261110de73248",
-        "https://news.web.nhk/newsweb/na/nd-20261110de73247",
-        "https://news.web.nhk/newsweb/na/nd-20261106de71869",
-        "https://news.web.nhk/newsweb/na/nd-20261110de73246"
+        "https://news.web.nhk/newsweb/na/nd-20261110de73248"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2611-data-center-water-shortage-risk/",
         "https://www.gizmodo.jp/article/2611-iphone-18-and-18e-shared-specs-rumor/",
         "https://www.gizmodo.jp/article/2611-jensen-huang-divorce-settlement/",
         "https://www.gizmodo.jp/article/ai-ceo-impersonation-fraud-200-billion/",
@@ -680,8 +681,7 @@
         "https://www.gizmodo.jp/article/2611-black-october-cyber-security-2026/",
         "https://www.gizmodo.jp/article/2611-claude-code-extension-security-incident/",
         "https://www.gizmodo.jp/article/2611-music-taste-sonic-seasoning/",
-        "https://www.gizmodo.jp/article/2611-amazon-kindle-sale-autumn/",
-        "https://www.gizmodo.jp/article/2611-reddit-login-required-ads-ai/"
+        "https://www.gizmodo.jp/article/2611-amazon-kindle-sale-autumn/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "GIv3foDi6o4",
