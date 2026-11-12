@@ -280,6 +280,7 @@
         "https://www.bbc.co.uk/news/articles/cq2d6d5z9y5jo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261112de74680",
         "https://news.web.nhk/newsweb/na/nd-20261112de74556",
         "https://news.web.nhk/newsweb/na/nd-20261109de73119",
         "https://news.web.nhk/newsweb/na/nd-20261112de74669",
@@ -478,8 +479,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261110de73248",
         "https://news.web.nhk/newsweb/na/nd-20261110de73247",
         "https://news.web.nhk/newsweb/na/nd-20261106de71869",
-        "https://news.web.nhk/newsweb/na/nd-20261110de73246",
-        "https://news.web.nhk/newsweb/na/nd-20261110de73245"
+        "https://news.web.nhk/newsweb/na/nd-20261110de73246"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-iphone-18-and-18e-shared-specs-rumor/",
