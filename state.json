@@ -281,6 +281,7 @@
         "https://www.bbc.co.uk/news/articles/cwx2922r4mrjo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261113de75299",
         "https://news.web.nhk/newsweb/na/nd-20261113de75237",
         "https://news.web.nhk/newsweb/na/nd-20261113de75259",
         "https://news.web.nhk/newsweb/na/nd-20261113de75244",
@@ -479,8 +480,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261110de73809",
         "https://news.web.nhk/newsweb/na/nd-20261111de73860",
         "https://news.web.nhk/newsweb/na/nd-20261111de73861",
-        "https://news.web.nhk/newsweb/na/nd-20261111de73843",
-        "https://news.web.nhk/newsweb/na/nd-20261111de73840"
+        "https://news.web.nhk/newsweb/na/nd-20261111de73843"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-trump-recommends-tim-cook-for-nvidia-ceo/",
