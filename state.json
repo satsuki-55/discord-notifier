@@ -281,6 +281,8 @@
         "https://www.bbc.co.uk/news/articles/c6lykl01nzp9o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261113de75535",
+        "https://news.web.nhk/newsweb/na/nd-20261113de75561",
         "https://news.web.nhk/newsweb/na/nd-20261113de75538",
         "https://news.web.nhk/newsweb/na/nd-20261113de75511",
         "https://news.web.nhk/newsweb/na/nd-20261113de75522",
@@ -478,9 +480,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261111de73934",
         "https://news.web.nhk/newsweb/na/nd-20261111de73889",
         "https://news.web.nhk/newsweb/na/nd-20261111de73900",
-        "https://news.web.nhk/newsweb/na/nd-20261111de73893",
-        "https://news.web.nhk/newsweb/na/nd-20261111de73895",
-        "https://news.web.nhk/newsweb/na/nd-20261111de73892"
+        "https://news.web.nhk/newsweb/na/nd-20261111de73893"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-nvidia-chips-singapore-sales/",
