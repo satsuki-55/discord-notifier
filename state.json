@@ -281,6 +281,8 @@
         "https://www.bbc.co.uk/news/articles/cqp8g8gl1y7ro#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261113de75174",
+        "https://news.web.nhk/newsweb/na/nd-20261113de75168",
         "https://news.web.nhk/newsweb/na/nd-20261113de75153",
         "https://news.web.nhk/newsweb/na/nd-20261113de75147",
         "https://news.web.nhk/newsweb/na/nd-20261113de75142",
@@ -478,9 +480,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261110de73808",
         "https://news.web.nhk/newsweb/na/nd-20261110de73795",
         "https://news.web.nhk/newsweb/na/nd-20261110de73781",
-        "https://news.web.nhk/newsweb/na/nd-20261110de73798",
-        "https://news.web.nhk/newsweb/na/nd-20261110de73782",
-        "https://news.web.nhk/newsweb/na/nd-20261110de73780"
+        "https://news.web.nhk/newsweb/na/nd-20261110de73798"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/ringconn-gen-2-smartring/",
