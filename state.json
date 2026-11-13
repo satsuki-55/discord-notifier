@@ -281,6 +281,7 @@
         "https://www.bbc.co.uk/news/articles/cmwy9jl18840o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261113de75357",
         "https://news.web.nhk/newsweb/na/nd-20261113de75355",
         "https://news.web.nhk/newsweb/na/nd-20261113de75242",
         "https://news.web.nhk/newsweb/na/nd-20261113de75292",
@@ -479,8 +480,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261111de73850",
         "https://news.web.nhk/newsweb/na/nd-20261111de73868",
         "https://news.web.nhk/newsweb/na/nd-20261111de73872",
-        "https://news.web.nhk/newsweb/na/nd-20261111de73870",
-        "https://news.web.nhk/newsweb/na/nd-20261111de73871"
+        "https://news.web.nhk/newsweb/na/nd-20261111de73870"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-ipad-air-oled-2027/",
