@@ -281,6 +281,8 @@
         "https://www.bbc.co.uk/news/articles/c6pvgg7mdvdvo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261113de75159",
+        "https://news.web.nhk/newsweb/na/nd-20261113de75397",
         "https://news.web.nhk/newsweb/na/nd-20261113de75332",
         "https://news.web.nhk/newsweb/na/nd-20261113de75357",
         "https://news.web.nhk/newsweb/na/nd-20261113de75355",
@@ -478,9 +480,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261111de73866",
         "https://news.web.nhk/newsweb/na/nd-20261111de73867",
         "https://news.web.nhk/newsweb/na/nd-20261110de73634",
-        "https://news.web.nhk/newsweb/na/nd-20261111de73850",
-        "https://news.web.nhk/newsweb/na/nd-20261111de73868",
-        "https://news.web.nhk/newsweb/na/nd-20261111de73872"
+        "https://news.web.nhk/newsweb/na/nd-20261111de73850"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/keychron-orca-echo-normal-profile/",
