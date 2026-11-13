@@ -281,6 +281,8 @@
         "https://www.bbc.co.uk/news/articles/cwe9kzv0g0v7o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261113de75684",
+        "https://news.web.nhk/newsweb/na/nd-20261113de75685",
         "https://news.web.nhk/newsweb/na/nd-20261113de75692",
         "https://news.web.nhk/newsweb/na/nd-20261111de74081",
         "https://news.web.nhk/newsweb/na/nd-20261113de75690",
@@ -478,9 +480,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261111de74128",
         "https://news.web.nhk/newsweb/na/nd-20261111de74133",
         "https://news.web.nhk/newsweb/na/nd-20261111de74142",
-        "https://news.web.nhk/newsweb/na/nd-20261111de74100",
-        "https://news.web.nhk/newsweb/na/nd-20261111de74102",
-        "https://news.web.nhk/newsweb/na/nd-20261028de67085"
+        "https://news.web.nhk/newsweb/na/nd-20261111de74100"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-outlook-vulnerability-fix-cve-2026-124194/",
