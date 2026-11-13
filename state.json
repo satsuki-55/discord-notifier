@@ -281,6 +281,7 @@
         "https://www.bbc.co.uk/news/articles/cqr7gr0010r2o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261113de75719",
         "https://news.web.nhk/newsweb/na/nd-20261113de75713",
         "https://news.web.nhk/newsweb/na/nd-20261113de75711",
         "https://news.web.nhk/newsweb/na/nd-20261113de75691",
@@ -479,8 +480,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261111de74183",
         "https://news.web.nhk/newsweb/na/nd-20261111de74181",
         "https://news.web.nhk/newsweb/na/nd-20261111de74154",
-        "https://news.web.nhk/newsweb/na/nd-20261111de74159",
-        "https://news.web.nhk/newsweb/na/nd-20261111de74160"
+        "https://news.web.nhk/newsweb/na/nd-20261111de74159"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-gemini-4-hydrogen/",
