@@ -79,6 +79,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cme3dwydp857o#0",
         "https://www.bbc.co.uk/news/articles/cwg5r8zrm11mo#0",
         "https://www.bbc.co.uk/news/articles/ck7v25pp19m8o#2",
         "https://www.bbc.co.uk/news/articles/cj1dv5q21wdxo#0",
@@ -277,10 +278,12 @@
         "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo#1",
         "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo#0",
         "https://www.bbc.co.uk/news/articles/cmvg2xdwnwezo#1",
-        "https://www.bbc.co.uk/news/articles/cmx28e95g2rzo#1",
-        "https://www.bbc.co.uk/news/articles/cwe9kzv0g0v7o#1"
+        "https://www.bbc.co.uk/news/articles/cmx28e95g2rzo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261111de74102",
+        "https://news.web.nhk/newsweb/na/nd-20261113de75682",
+        "https://news.web.nhk/newsweb/na/nd-20261113de75687",
         "https://news.web.nhk/newsweb/na/nd-20261113de75684",
         "https://news.web.nhk/newsweb/na/nd-20261113de75685",
         "https://news.web.nhk/newsweb/na/nd-20261113de75692",
@@ -477,10 +480,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261111de74119",
         "https://news.web.nhk/newsweb/na/nd-20261111de74151",
         "https://news.web.nhk/newsweb/na/nd-20261111de73933",
-        "https://news.web.nhk/newsweb/na/nd-20261111de74128",
-        "https://news.web.nhk/newsweb/na/nd-20261111de74133",
-        "https://news.web.nhk/newsweb/na/nd-20261111de74142",
-        "https://news.web.nhk/newsweb/na/nd-20261111de74100"
+        "https://news.web.nhk/newsweb/na/nd-20261111de74128"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-outlook-vulnerability-fix-cve-2026-124194/",
