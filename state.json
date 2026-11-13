@@ -281,6 +281,7 @@
         "https://www.bbc.co.uk/news/articles/c6lykl01nzp9o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261113de75511",
         "https://news.web.nhk/newsweb/na/nd-20261113de75522",
         "https://news.web.nhk/newsweb/na/nd-20261113de75337",
         "https://news.web.nhk/newsweb/na/nd-20261113de75403",
@@ -479,8 +480,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261111de73893",
         "https://news.web.nhk/newsweb/na/nd-20261111de73895",
         "https://news.web.nhk/newsweb/na/nd-20261111de73892",
-        "https://news.web.nhk/newsweb/na/nd-20261111de73858",
-        "https://news.web.nhk/newsweb/na/nd-20261111de73883"
+        "https://news.web.nhk/newsweb/na/nd-20261111de73858"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/m6_macbook-pro_review/",
@@ -697,6 +697,7 @@
         "Ih1O3vIgcmA"
     ],
     "youtube:UCuG5vlhQYE5VE-pTTxINi3g": [
+        "t0alVYa50_0",
         "AQag0H0Itx4",
         "DvrlExRXOAI",
         "qgayOLQk8Vw",
