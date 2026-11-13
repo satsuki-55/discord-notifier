@@ -79,6 +79,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cr3eg97eqde1o#0",
         "https://www.bbc.co.uk/news/videos/cqzjr903n01po#0",
         "https://www.bbc.co.uk/news/articles/c6174gw2ewpgo#0",
         "https://www.bbc.co.uk/news/articles/cqp9d58eldlro#0",
@@ -277,10 +278,10 @@
         "https://www.bbc.co.uk/news/articles/cwe9kzv0g0v7o#1",
         "https://www.bbc.co.uk/news/videos/c6lymnz44gn4o#1",
         "https://www.bbc.co.uk/news/articles/cwg5r8zrm11mo#0",
-        "https://www.bbc.co.uk/news/articles/cwe9kzv0g0v7o#0",
-        "https://www.bbc.co.uk/news/articles/c6e3d895zne7o#1"
+        "https://www.bbc.co.uk/news/articles/cwe9kzv0g0v7o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261113de75686",
         "https://news.web.nhk/newsweb/na/nd-20261113de75644",
         "https://news.web.nhk/newsweb/na/nd-20261113de75652",
         "https://news.web.nhk/newsweb/na/nd-20261113de75632",
@@ -479,8 +480,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261111de74092",
         "https://news.web.nhk/newsweb/na/nd-20261111de74080",
         "https://news.web.nhk/newsweb/na/nd-20261111de74081",
-        "https://news.web.nhk/newsweb/na/nd-20261111de74075",
-        "https://news.web.nhk/newsweb/na/nd-20261111de74052"
+        "https://news.web.nhk/newsweb/na/nd-20261111de74075"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/panasonic_toughbook_fz-g3_fz-34/",
