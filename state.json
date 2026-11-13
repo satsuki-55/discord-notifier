@@ -281,6 +281,7 @@
         "https://www.bbc.co.uk/news/articles/cm93rpy6lx0do#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261113de75200",
         "https://news.web.nhk/newsweb/na/nd-20261113de75174",
         "https://news.web.nhk/newsweb/na/nd-20261113de75168",
         "https://news.web.nhk/newsweb/na/nd-20261113de75153",
@@ -479,8 +480,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261110de73820",
         "https://news.web.nhk/newsweb/na/nd-20261110de73808",
         "https://news.web.nhk/newsweb/na/nd-20261110de73795",
-        "https://news.web.nhk/newsweb/na/nd-20261110de73781",
-        "https://news.web.nhk/newsweb/na/nd-20261110de73798"
+        "https://news.web.nhk/newsweb/na/nd-20261110de73781"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/ringconn-gen-2-smartring/",
@@ -685,6 +685,7 @@
         "https://www.gizmodo.jp/article/2611-sam-altman-zelda-day-off/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
+        "B77-rLsrSi8",
         "GIv3foDi6o4",
         "WAY24S_nTPY",
         "x7--vjFSfK8",
