@@ -79,6 +79,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cj1dv5q21wdxo#0",
         "https://www.bbc.co.uk/news/articles/cr3eg97eqde1o#0",
         "https://www.bbc.co.uk/news/videos/cqzjr903n01po#0",
         "https://www.bbc.co.uk/news/articles/c6174gw2ewpgo#0",
@@ -277,10 +278,10 @@
         "https://www.bbc.co.uk/news/articles/cmx28e95g2rzo#1",
         "https://www.bbc.co.uk/news/articles/cwe9kzv0g0v7o#1",
         "https://www.bbc.co.uk/news/videos/c6lymnz44gn4o#1",
-        "https://www.bbc.co.uk/news/articles/cwg5r8zrm11mo#0",
-        "https://www.bbc.co.uk/news/articles/cwe9kzv0g0v7o#0"
+        "https://www.bbc.co.uk/news/articles/cwg5r8zrm11mo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261113de75692",
         "https://news.web.nhk/newsweb/na/nd-20261111de74081",
         "https://news.web.nhk/newsweb/na/nd-20261113de75690",
         "https://news.web.nhk/newsweb/na/nd-20261113de75696",
@@ -479,10 +480,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261111de74142",
         "https://news.web.nhk/newsweb/na/nd-20261111de74100",
         "https://news.web.nhk/newsweb/na/nd-20261111de74102",
-        "https://news.web.nhk/newsweb/na/nd-20261028de67085",
-        "https://news.web.nhk/newsweb/na/nd-20261111de74092"
+        "https://news.web.nhk/newsweb/na/nd-20261028de67085"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2611-outlook-vulnerability-fix-cve-2026-124194/",
         "https://www.gizmodo.jp/article/panasonic_toughbook_fz-g3_fz-34/",
         "https://www.gizmodo.jp/article/2611-buffalo-stick-ssd-500gb/",
         "https://www.gizmodo.jp/article/2611-amazon-black-friday-ad-fee-increase/",
@@ -681,8 +682,7 @@
         "https://www.gizmodo.jp/article/2611-nasa-x-70-fractal-sr-71/",
         "https://www.gizmodo.jp/article/edenenergy-escooter-battery-storage/",
         "https://www.gizmodo.jp/article/2611-kioxia-microsd-128gb-deal/",
-        "https://www.gizmodo.jp/article/2611-us-midterm-election-ai-advertising-cost/",
-        "https://www.gizmodo.jp/article/cornell-ai-classroom-experiments/"
+        "https://www.gizmodo.jp/article/2611-us-midterm-election-ai-advertising-cost/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "B77-rLsrSi8",
