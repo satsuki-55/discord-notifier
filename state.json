@@ -79,6 +79,8 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c51k9709krxvo#1",
+        "https://www.bbc.co.uk/news/articles/cqp9d58eldlro#2",
         "https://www.bbc.co.uk/news/articles/cme3dwydp857o#1",
         "https://www.bbc.co.uk/news/articles/cm369259g0j2o#2",
         "https://www.bbc.co.uk/news/articles/c67429m3vem3o#0",
@@ -276,9 +278,7 @@
         "https://www.bbc.co.uk/news/articles/ck792we7zrz4o#0",
         "https://www.bbc.co.uk/news/articles/cqm2l304w0x9o#0",
         "https://www.bbc.co.uk/news/articles/ck792we7zrz4o#1",
-        "https://www.bbc.co.uk/news/articles/c933gn6710lyo#0",
-        "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o#1",
-        "https://www.bbc.co.uk/news/articles/cm62prjl7p2no#1"
+        "https://www.bbc.co.uk/news/articles/c933gn6710lyo#0"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20261113de75693",
@@ -483,6 +483,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261111de74151"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/anthropic_junior-engineer_hiring_decline/",
         "https://www.gizmodo.jp/article/2611-tsmc-openai-anthropic-investment/",
         "https://www.gizmodo.jp/article/2611-outlook-vulnerability-fix-cve-2026-124194/",
         "https://www.gizmodo.jp/article/panasonic_toughbook_fz-g3_fz-34/",
@@ -681,8 +682,7 @@
         "https://www.gizmodo.jp/article/proled-macbook-pro-display-color-sounds/",
         "https://www.gizmodo.jp/article/2611-bird-droppings-ecosystem-nutrients/",
         "https://www.gizmodo.jp/article/2611-nasa-x-70-fractal-sr-71/",
-        "https://www.gizmodo.jp/article/edenenergy-escooter-battery-storage/",
-        "https://www.gizmodo.jp/article/2611-kioxia-microsd-128gb-deal/"
+        "https://www.gizmodo.jp/article/edenenergy-escooter-battery-storage/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "B77-rLsrSi8",
