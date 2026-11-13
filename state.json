@@ -79,6 +79,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo#1",
         "https://www.bbc.co.uk/sport/football/articles/cm98xy2j8k1ko#1",
         "https://www.bbc.co.uk/news/articles/ck1exevgql4qo#0",
         "https://www.bbc.co.uk/news/videos/cqdr1jvylv1xo#1",
@@ -277,10 +278,10 @@
         "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo#1",
         "https://www.bbc.co.uk/news/articles/c8zx964glvwxo#0",
         "https://www.bbc.co.uk/news/articles/c6rmgw8zynr4o#1",
-        "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo#0",
-        "https://www.bbc.co.uk/news/articles/c933gn6710lyo#1"
+        "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261113de75737",
         "https://news.web.nhk/newsweb/na/nd-20261111de74347",
         "https://news.web.nhk/newsweb/na/nd-20261114de75761",
         "https://news.web.nhk/newsweb/na/nd-20261113de75649",
@@ -479,8 +480,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261111de74346",
         "https://news.web.nhk/newsweb/na/nd-20261111de74355",
         "https://news.web.nhk/newsweb/na/nd-20261111de73911",
-        "https://news.web.nhk/newsweb/na/nd-20261111de74393",
-        "https://news.web.nhk/newsweb/na/nd-20261111de74373"
+        "https://news.web.nhk/newsweb/na/nd-20261111de74393"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/mars-spaghetti-2-1-3/",
