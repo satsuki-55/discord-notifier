@@ -79,6 +79,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cme3x30q9z9wo#1",
         "https://www.bbc.co.uk/news/articles/ckzd91jqvm0lo#1",
         "https://www.bbc.co.uk/news/articles/cklyw3neqg2wo#0",
         "https://www.bbc.co.uk/news/videos/cwm2591k27e2o#1",
@@ -277,10 +278,10 @@
         "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o#0",
         "https://www.bbc.co.uk/news/articles/c6174gw2ewpgo#0",
         "https://www.bbc.co.uk/news/articles/c6gqwq1x85e0o#0",
-        "https://www.bbc.co.uk/news/articles/cy4dgp1p3p1o#0",
-        "https://www.bbc.co.uk/news/articles/c54gne3plvrxo#0"
+        "https://www.bbc.co.uk/news/articles/cy4dgp1p3p1o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261113de75632",
         "https://news.web.nhk/newsweb/na/nd-20261113de75633",
         "https://news.web.nhk/newsweb/na/nd-20261113de75620",
         "https://news.web.nhk/newsweb/na/nd-20261113de75610",
@@ -479,8 +480,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261111de74075",
         "https://news.web.nhk/newsweb/na/nd-20261111de74052",
         "https://news.web.nhk/newsweb/na/nd-20261111de74018",
-        "https://news.web.nhk/newsweb/na/nd-20261111de74037",
-        "https://news.web.nhk/newsweb/na/nd-20261111de73964"
+        "https://news.web.nhk/newsweb/na/nd-20261111de74037"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-amazon-black-friday-ad-fee-increase/",
