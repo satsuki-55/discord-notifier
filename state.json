@@ -281,6 +281,7 @@
         "https://www.bbc.co.uk/news/articles/cmvg2xdwnwezo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261113de75154",
         "https://news.web.nhk/newsweb/na/nd-20261113de75140",
         "https://news.web.nhk/newsweb/na/nd-20261113de75136",
         "https://news.web.nhk/newsweb/na/nd-20261113de75134",
@@ -479,8 +480,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261110de73338",
         "https://news.web.nhk/newsweb/na/nd-20261110de73767",
         "https://news.web.nhk/newsweb/na/nd-20261110de73779",
-        "https://news.web.nhk/newsweb/na/nd-20261110de73287",
-        "https://news.web.nhk/newsweb/na/nd-20261110de73738"
+        "https://news.web.nhk/newsweb/na/nd-20261110de73287"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/tver-monthly-users-exceed-50-million/",
