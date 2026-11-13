@@ -79,6 +79,11 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/ckgel338xql3o#0",
+        "https://www.bbc.co.uk/news/articles/ckx28le8dv9wo#1",
+        "https://www.bbc.co.uk/news/articles/cm369259g0j2o#1",
+        "https://www.bbc.co.uk/news/articles/cqly4lnxn031o#1",
+        "https://www.bbc.co.uk/news/articles/c98r7dlj6v2go#1",
         "https://www.bbc.co.uk/news/articles/ckx28le8dv9wo#0",
         "https://www.bbc.co.uk/news/articles/cmdxw051np9jo#0",
         "https://www.bbc.co.uk/news/articles/c5gm3g9ldz8xo#0",
@@ -273,12 +278,7 @@
         "https://www.bbc.co.uk/news/articles/cw8dvpmzp2p4o#1",
         "https://www.bbc.co.uk/news/articles/cm93rpy6lx0do#1",
         "https://www.bbc.co.uk/news/articles/cmwy9jl18840o#1",
-        "https://www.bbc.co.uk/news/articles/cmvg2xdwnwezo#0",
-        "https://www.bbc.co.uk/news/articles/cwkg5g5pjpyko#1",
-        "https://www.bbc.co.uk/news/articles/ckgel338xql3o#0",
-        "https://www.bbc.co.uk/news/articles/cm20w093y3gqo#1",
-        "https://www.bbc.co.uk/news/articles/c3rryrryk59zo#0",
-        "https://www.bbc.co.uk/news/articles/cxnv0v4yln7do#1"
+        "https://www.bbc.co.uk/news/articles/cmvg2xdwnwezo#0"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20261113de75140",
@@ -483,6 +483,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261110de73738"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/tver-monthly-users-exceed-50-million/",
         "https://www.gizmodo.jp/article/2611-ai-cybersecurity-defense/",
         "https://www.gizmodo.jp/article/2611-suica-walk-through-ticket-gate/",
         "https://www.gizmodo.jp/article/gemini_apple_carplay/",
@@ -681,8 +682,7 @@
         "https://www.gizmodo.jp/article/2611-datacenter-noise-protest/",
         "https://www.gizmodo.jp/article/2611-sam-altman-zelda-day-off/",
         "https://www.gizmodo.jp/article/2610-nape-pro-se-standard-diff/",
-        "https://www.gizmodo.jp/article/pulstek_filmscanner_repost-2/",
-        "https://www.gizmodo.jp/article/2611-chatgpt-image-2-6/"
+        "https://www.gizmodo.jp/article/pulstek_filmscanner_repost-2/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "GIv3foDi6o4",
