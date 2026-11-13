@@ -79,6 +79,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cm2l5n07l87vo#0",
         "https://www.bbc.co.uk/news/articles/cmkgdw24l1kdo#1",
         "https://www.bbc.co.uk/news/articles/cqdj1ellpd70o#0",
         "https://www.bbc.co.uk/news/videos/cm7526d2qeg4o#1",
@@ -277,8 +278,7 @@
         "https://www.bbc.co.uk/news/articles/cqm26mmpp2p1o#0",
         "https://www.bbc.co.uk/news/articles/cw8dvpmzp2p4o#0",
         "https://www.bbc.co.uk/news/videos/cm2l4l59gjp7o#1",
-        "https://www.bbc.co.uk/weather/articles/crq5n5148p7po#1",
-        "https://www.bbc.co.uk/news/articles/cmwy9jl18840o#0"
+        "https://www.bbc.co.uk/weather/articles/crq5n5148p7po#1"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20261113de75332",
@@ -483,6 +483,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261111de73872"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/keychron-orca-echo-normal-profile/",
         "https://www.gizmodo.jp/article/2611-ipad-air-oled-2027/",
         "https://www.gizmodo.jp/article/2611-bank-deposit-interest-rate-ranking-202611/",
         "https://www.gizmodo.jp/article/google-samsung-smart-glasses-intelligent-eyewear/",
@@ -681,8 +682,7 @@
         "https://www.gizmodo.jp/article/2611-mco-electric-multi-pot-camp/",
         "https://www.gizmodo.jp/article/2611-chrome-vulnerability-fix-november/",
         "https://www.gizmodo.jp/article/2611-sony-ps5-trade-in-program/",
-        "https://www.gizmodo.jp/article/2610-shure-gizmodo-movie-theater-sound-event/",
-        "https://www.gizmodo.jp/article/2611-elder-scrolls-6-sentinel/"
+        "https://www.gizmodo.jp/article/2610-shure-gizmodo-movie-theater-sound-event/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "B77-rLsrSi8",
