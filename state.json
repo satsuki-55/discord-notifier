@@ -281,6 +281,7 @@
         "https://www.bbc.co.uk/news/articles/cjr4g0n9d1g5o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261113de75624",
         "https://news.web.nhk/newsweb/na/nd-20261113de75529",
         "https://news.web.nhk/newsweb/na/nd-20261113de75540",
         "https://news.web.nhk/newsweb/na/nd-20261113de75596",
@@ -479,8 +480,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261111de73950",
         "https://news.web.nhk/newsweb/na/nd-20261111de74027",
         "https://news.web.nhk/newsweb/na/nd-20261111de74000",
-        "https://news.web.nhk/newsweb/na/nd-20261111de73947",
-        "https://news.web.nhk/newsweb/na/nd-20261111de73934"
+        "https://news.web.nhk/newsweb/na/nd-20261111de73947"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-m6-mac-mini-amazon-points/",
