@@ -79,6 +79,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cm3egjgvp794o#0",
         "https://www.bbc.co.uk/news/articles/cwm242plggldo#0",
         "https://www.bbc.co.uk/news/articles/cm62y0wrnz9zo#0",
         "https://www.bbc.co.uk/sport/cricket/articles/cwq6e4y9525mo#1",
@@ -277,10 +278,10 @@
         "https://www.bbc.co.uk/news/articles/cxnv0v4yln7do#1",
         "https://www.bbc.co.uk/news/articles/c3rryrryk59zo#1",
         "https://www.bbc.co.uk/news/articles/c6q8n8n835vqo#1",
-        "https://www.bbc.co.uk/news/articles/cmdxw051np9jo#0",
-        "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo#1"
+        "https://www.bbc.co.uk/news/articles/cmdxw051np9jo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261113de75140",
         "https://news.web.nhk/newsweb/na/nd-20261113de75136",
         "https://news.web.nhk/newsweb/na/nd-20261113de75134",
         "https://news.web.nhk/newsweb/na/nd-20261113de75130",
@@ -479,8 +480,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261110de73767",
         "https://news.web.nhk/newsweb/na/nd-20261110de73779",
         "https://news.web.nhk/newsweb/na/nd-20261110de73287",
-        "https://news.web.nhk/newsweb/na/nd-20261110de73738",
-        "https://news.web.nhk/newsweb/na/nd-20261110de73297"
+        "https://news.web.nhk/newsweb/na/nd-20261110de73738"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-ai-cybersecurity-defense/",
