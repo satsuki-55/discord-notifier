@@ -281,6 +281,7 @@
         "https://www.bbc.co.uk/news/articles/cm93rpy6lx0do#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261113de75157",
         "https://news.web.nhk/newsweb/na/nd-20261110de73287",
         "https://news.web.nhk/newsweb/na/nd-20261113de75152",
         "https://news.web.nhk/newsweb/na/nd-20261113de75154",
@@ -479,8 +480,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261110de73780",
         "https://news.web.nhk/newsweb/na/nd-20261110de73783",
         "https://news.web.nhk/newsweb/na/nd-20261110de73785",
-        "https://news.web.nhk/newsweb/na/nd-20261110de73338",
-        "https://news.web.nhk/newsweb/na/nd-20261110de73767"
+        "https://news.web.nhk/newsweb/na/nd-20261110de73338"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-adobe-sneaks-project-deep-brush/",
