@@ -281,6 +281,8 @@
         "https://www.bbc.co.uk/news/articles/cx5ynyg6j375o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261113de75147",
+        "https://news.web.nhk/newsweb/na/nd-20261113de75142",
         "https://news.web.nhk/newsweb/na/nd-20261113de75157",
         "https://news.web.nhk/newsweb/na/nd-20261110de73287",
         "https://news.web.nhk/newsweb/na/nd-20261113de75152",
@@ -478,11 +480,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261110de73798",
         "https://news.web.nhk/newsweb/na/nd-20261110de73782",
         "https://news.web.nhk/newsweb/na/nd-20261110de73780",
-        "https://news.web.nhk/newsweb/na/nd-20261110de73783",
-        "https://news.web.nhk/newsweb/na/nd-20261110de73785",
-        "https://news.web.nhk/newsweb/na/nd-20261110de73338"
+        "https://news.web.nhk/newsweb/na/nd-20261110de73783"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/ringconn-gen-2-smartring/",
         "https://www.gizmodo.jp/article/2611-adobe-sneaks-project-deep-brush/",
         "https://www.gizmodo.jp/article/tver-monthly-users-exceed-50-million/",
         "https://www.gizmodo.jp/article/2611-ai-cybersecurity-defense/",
@@ -681,8 +682,7 @@
         "https://www.gizmodo.jp/article/2611-iphone-duo-reachability-update/",
         "https://www.gizmodo.jp/article/2611-samsung-smart-glasses-release/",
         "https://www.gizmodo.jp/article/2611-datacenter-noise-protest/",
-        "https://www.gizmodo.jp/article/2611-sam-altman-zelda-day-off/",
-        "https://www.gizmodo.jp/article/2610-nape-pro-se-standard-diff/"
+        "https://www.gizmodo.jp/article/2611-sam-altman-zelda-day-off/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "GIv3foDi6o4",
