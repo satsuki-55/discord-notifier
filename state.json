@@ -281,6 +281,9 @@
         "https://www.bbc.co.uk/news/articles/cwx2922r4mrjo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261113de75250",
+        "https://news.web.nhk/newsweb/na/nd-20261113de75280",
+        "https://news.web.nhk/newsweb/na/nd-20261113de75298",
         "https://news.web.nhk/newsweb/na/nd-20261113de75299",
         "https://news.web.nhk/newsweb/na/nd-20261113de75237",
         "https://news.web.nhk/newsweb/na/nd-20261113de75259",
@@ -477,12 +480,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261111de73871",
         "https://news.web.nhk/newsweb/na/nd-20261110de73812",
         "https://news.web.nhk/newsweb/na/nd-20261110de73802",
-        "https://news.web.nhk/newsweb/na/nd-20261110de73809",
-        "https://news.web.nhk/newsweb/na/nd-20261111de73860",
-        "https://news.web.nhk/newsweb/na/nd-20261111de73861",
-        "https://news.web.nhk/newsweb/na/nd-20261111de73843"
+        "https://news.web.nhk/newsweb/na/nd-20261110de73809"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/windows11_right-click_menu_customize/",
         "https://www.gizmodo.jp/article/2611-trump-recommends-tim-cook-for-nvidia-ceo/",
         "https://www.gizmodo.jp/article/iphone-duo_duobook_pocket_mac/",
         "https://www.gizmodo.jp/article/restroom-smartphone-10min-rhn-vky/",
@@ -681,8 +682,7 @@
         "https://www.gizmodo.jp/article/2611-kome-togi-shaker-review/",
         "https://www.gizmodo.jp/article/2611-us-stocks-midterm-elections-rally/",
         "https://www.gizmodo.jp/article/ebikara-note_shrimp_shell_notebook/",
-        "https://www.gizmodo.jp/article/x-web-app-rebuild-faster/",
-        "https://www.gizmodo.jp/article/2611-iphone-duo-reachability-update/"
+        "https://www.gizmodo.jp/article/x-web-app-rebuild-faster/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "B77-rLsrSi8",
