@@ -281,6 +281,7 @@
         "https://www.bbc.co.uk/news/articles/cm93rpy6lx0do#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261113de75248",
         "https://news.web.nhk/newsweb/na/nd-20261113de75212",
         "https://news.web.nhk/newsweb/na/nd-20261113de75200",
         "https://news.web.nhk/newsweb/na/nd-20261113de75174",
@@ -479,10 +480,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261110de73756",
         "https://news.web.nhk/newsweb/na/nd-20261110de73825",
         "https://news.web.nhk/newsweb/na/nd-20261110de73820",
-        "https://news.web.nhk/newsweb/na/nd-20261110de73808",
-        "https://news.web.nhk/newsweb/na/nd-20261110de73795"
+        "https://news.web.nhk/newsweb/na/nd-20261110de73808"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/iphone-duo_duobook_pocket_mac/",
         "https://www.gizmodo.jp/article/restroom-smartphone-10min-rhn-vky/",
         "https://www.gizmodo.jp/article/ringconn-gen-2-smartring/",
         "https://www.gizmodo.jp/article/2611-adobe-sneaks-project-deep-brush/",
@@ -681,8 +682,7 @@
         "https://www.gizmodo.jp/article/ebikara-note_shrimp_shell_notebook/",
         "https://www.gizmodo.jp/article/x-web-app-rebuild-faster/",
         "https://www.gizmodo.jp/article/2611-iphone-duo-reachability-update/",
-        "https://www.gizmodo.jp/article/2611-samsung-smart-glasses-release/",
-        "https://www.gizmodo.jp/article/2611-datacenter-noise-protest/"
+        "https://www.gizmodo.jp/article/2611-samsung-smart-glasses-release/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "B77-rLsrSi8",
