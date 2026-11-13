@@ -79,6 +79,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/videos/cxvg23n59y1ro#1",
         "https://www.bbc.co.uk/news/articles/cmkgdw24l1kdo#0",
         "https://www.bbc.co.uk/news/articles/ck7v25pp19m8o#0",
         "https://www.bbc.co.uk/news/articles/cm62pd078kk7o#0",
@@ -277,10 +278,10 @@
         "https://www.bbc.co.uk/news/articles/c68j4lez4x4no#1",
         "https://www.bbc.co.uk/news/articles/cwj3462yz21lo#0",
         "https://www.bbc.co.uk/news/articles/cqde1yddwk17o#0",
-        "https://www.bbc.co.uk/news/articles/c6lykl01nzp9o#0",
-        "https://www.bbc.co.uk/sport/swimming/articles/cmx27n60n3wno#1"
+        "https://www.bbc.co.uk/news/articles/c6lykl01nzp9o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261113de75337",
         "https://news.web.nhk/newsweb/na/nd-20261113de75403",
         "https://news.web.nhk/newsweb/na/nd-20261113de75297",
         "https://news.web.nhk/newsweb/na/nd-20261113de75159",
@@ -479,8 +480,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261111de73892",
         "https://news.web.nhk/newsweb/na/nd-20261111de73858",
         "https://news.web.nhk/newsweb/na/nd-20261111de73883",
-        "https://news.web.nhk/newsweb/na/nd-20261111de73866",
-        "https://news.web.nhk/newsweb/na/nd-20261111de73867"
+        "https://news.web.nhk/newsweb/na/nd-20261111de73866"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/m6_macbook-pro_review/",
