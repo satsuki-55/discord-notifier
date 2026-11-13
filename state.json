@@ -281,6 +281,7 @@
         "https://www.bbc.co.uk/news/articles/cmvgxgz87qqro#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261113de75649",
         "https://news.web.nhk/newsweb/na/nd-20261111de74306",
         "https://news.web.nhk/newsweb/na/nd-20261114de75764",
         "https://news.web.nhk/newsweb/na/nd-20261114de75759",
@@ -479,8 +480,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261111de74393",
         "https://news.web.nhk/newsweb/na/nd-20261111de74373",
         "https://news.web.nhk/newsweb/na/nd-20261111de74363",
-        "https://news.web.nhk/newsweb/na/nd-20261111de74347",
-        "https://news.web.nhk/newsweb/na/nd-20261111de74112"
+        "https://news.web.nhk/newsweb/na/nd-20261111de74347"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/mars-spaghetti-2-1-3/",
