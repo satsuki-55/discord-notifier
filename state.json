@@ -79,6 +79,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cr86895201y9o#1",
         "https://www.bbc.co.uk/news/articles/c5gm3gnwl42eo#1",
         "https://www.bbc.co.uk/news/articles/cqr7g5l4z9zeo#1",
         "https://www.bbc.co.uk/news/articles/cm75261e3pdko#0",
@@ -277,10 +278,10 @@
         "https://www.bbc.co.uk/news/articles/cwg5r8zrm11mo#1",
         "https://www.bbc.co.uk/news/videos/cknv4y5j4ge9o#1",
         "https://www.bbc.co.uk/news/articles/cqr7gr0010r2o#1",
-        "https://www.bbc.co.uk/news/articles/cqr7gr0010r2o#0",
-        "https://www.bbc.co.uk/news/articles/cqm26mmpp2p1o#1"
+        "https://www.bbc.co.uk/news/articles/cqr7gr0010r2o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261113de75713",
         "https://news.web.nhk/newsweb/na/nd-20261113de75711",
         "https://news.web.nhk/newsweb/na/nd-20261113de75691",
         "https://news.web.nhk/newsweb/na/nd-20261113de75693",
@@ -479,8 +480,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261111de74181",
         "https://news.web.nhk/newsweb/na/nd-20261111de74154",
         "https://news.web.nhk/newsweb/na/nd-20261111de74159",
-        "https://news.web.nhk/newsweb/na/nd-20261111de74160",
-        "https://news.web.nhk/newsweb/na/nd-20261111de74146"
+        "https://news.web.nhk/newsweb/na/nd-20261111de74160"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-jensen-huang-nvidia-ceo-legacy/",
