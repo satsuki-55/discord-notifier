@@ -283,6 +283,7 @@
         "https://www.bbc.co.uk/news/articles/c6x20x380z12o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261114de75970",
         "https://news.web.nhk/newsweb/na/nd-20261114de75964",
         "https://news.web.nhk/newsweb/na/nd-20261114de75960",
         "https://news.web.nhk/newsweb/na/nd-20261114de75967",
@@ -481,8 +482,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261111de74479",
         "https://news.web.nhk/newsweb/na/nd-20261112de74516",
         "https://news.web.nhk/newsweb/na/nd-20261111de74484",
-        "https://news.web.nhk/newsweb/na/nd-20261112de74514",
-        "https://news.web.nhk/newsweb/na/nd-20261112de74512"
+        "https://news.web.nhk/newsweb/na/nd-20261112de74514"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-philips-lightning-usbc-power-bank/",
