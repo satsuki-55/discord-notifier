@@ -81,6 +81,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c6jd7k5ryl1mo#1",
         "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo#0",
         "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo#1",
         "https://www.bbc.co.uk/news/articles/ck0jx8pxxx6eo#1",
@@ -279,10 +280,10 @@
         "https://www.bbc.co.uk/news/articles/cqj34d3l0zlmo#0",
         "https://www.bbc.co.uk/news/articles/c6x20x380z12o#1",
         "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o#0",
-        "https://www.bbc.co.uk/sport/football/articles/cm0rl4kwn8vqo#2",
-        "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo#0"
+        "https://www.bbc.co.uk/sport/football/articles/cm0rl4kwn8vqo#2"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261114de75960",
         "https://news.web.nhk/newsweb/na/nd-20261114de75967",
         "https://news.web.nhk/newsweb/na/nd-20261114de75866",
         "https://news.web.nhk/newsweb/na/nd-20261114de75947",
@@ -481,8 +482,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261111de74484",
         "https://news.web.nhk/newsweb/na/nd-20261112de74514",
         "https://news.web.nhk/newsweb/na/nd-20261112de74512",
-        "https://news.web.nhk/newsweb/na/nd-20261111de74482",
-        "https://news.web.nhk/newsweb/na/nd-20261111de74440"
+        "https://news.web.nhk/newsweb/na/nd-20261111de74482"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-philips-lightning-usbc-power-bank/",
