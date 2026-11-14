@@ -283,6 +283,7 @@
         "https://www.bbc.co.uk/news/articles/cmp3g37l566po#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261114de75874",
         "https://news.web.nhk/newsweb/na/nd-20261114de75794",
         "https://news.web.nhk/newsweb/na/nd-20261114de75856",
         "https://news.web.nhk/newsweb/na/nd-20261114de75857",
@@ -481,8 +482,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261111de74360",
         "https://news.web.nhk/newsweb/na/nd-20261111de74423",
         "https://news.web.nhk/newsweb/na/nd-20261111de74452",
-        "https://news.web.nhk/newsweb/na/nd-20261111de74427",
-        "https://news.web.nhk/newsweb/na/nd-20261111de73954"
+        "https://news.web.nhk/newsweb/na/nd-20261111de74427"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-typeless-anker-soundcore-work/",
