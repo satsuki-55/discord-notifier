@@ -283,6 +283,7 @@
         "https://www.bbc.co.uk/news/articles/cqev3vl4ek33o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261114de76006",
         "https://news.web.nhk/newsweb/na/nd-20261114de75993",
         "https://news.web.nhk/newsweb/na/nd-20261114de75988",
         "https://news.web.nhk/newsweb/na/nd-20261114de75990",
@@ -481,10 +482,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261112de74519",
         "https://news.web.nhk/newsweb/na/nd-20261112de74517",
         "https://news.web.nhk/newsweb/na/nd-20261111de74475",
-        "https://news.web.nhk/newsweb/na/nd-20261111de74478",
-        "https://news.web.nhk/newsweb/na/nd-20261111de74479"
+        "https://news.web.nhk/newsweb/na/nd-20261111de74478"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2611-builder-ai-bankruptcy-human-ai/",
         "https://www.gizmodo.jp/article/2611-nvidia-ceo-jensen-huang-resignation/",
         "https://www.gizmodo.jp/article/2611-motorola-razr-flex-2027/",
         "https://www.gizmodo.jp/article/2611-philips-lightning-usbc-power-bank/",
@@ -683,8 +684,7 @@
         "https://www.gizmodo.jp/article/ipad-mini-unboxing-review/",
         "https://www.gizmodo.jp/article/2611-keychron-b11-pro-iphone-duo/",
         "https://www.gizmodo.jp/article/2611-nintendo-switch-macronix-exit/",
-        "https://www.gizmodo.jp/article/2611-mini-kitchen-scissors-houchou-cancel/",
-        "https://www.gizmodo.jp/article/2611-us-stock-market-crash/"
+        "https://www.gizmodo.jp/article/2611-mini-kitchen-scissors-houchou-cancel/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "B77-rLsrSi8",
