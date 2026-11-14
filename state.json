@@ -283,6 +283,7 @@
         "https://www.bbc.co.uk/news/articles/c30rkwpxdx50o#2"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261114de75947",
         "https://news.web.nhk/newsweb/na/nd-20261114de75935",
         "https://news.web.nhk/newsweb/na/nd-20261114de75833",
         "https://news.web.nhk/newsweb/na/nd-20261114de75906",
@@ -481,10 +482,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261111de74482",
         "https://news.web.nhk/newsweb/na/nd-20261111de74440",
         "https://news.web.nhk/newsweb/na/nd-20261111de74444",
-        "https://news.web.nhk/newsweb/na/nd-20261111de74426",
-        "https://news.web.nhk/newsweb/na/nd-20261111de74360"
+        "https://news.web.nhk/newsweb/na/nd-20261111de74426"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2611-inzai-big-hop-datacenter-plan/",
         "https://www.gizmodo.jp/article/2611-mind-blowing-space-facts/",
         "https://www.gizmodo.jp/article/spotify_ai_remix/",
         "https://www.gizmodo.jp/article/nape-pro-se-iphone-duo/",
@@ -683,8 +684,7 @@
         "https://www.gizmodo.jp/article/2611-us-stock-market-crash/",
         "https://www.gizmodo.jp/article/2611-temple-health-tracker-temple/",
         "https://www.gizmodo.jp/article/2611-google-samsung-smart-glasses-release/",
-        "https://www.gizmodo.jp/article/raven_prism-1_smartglasses/",
-        "https://www.gizmodo.jp/article/flexible_ring_drone_flexiquad/"
+        "https://www.gizmodo.jp/article/raven_prism-1_smartglasses/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "B77-rLsrSi8",
