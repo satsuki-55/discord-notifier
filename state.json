@@ -283,6 +283,7 @@
         "https://www.bbc.co.uk/news/articles/crgqwgzxeexno#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261114de75857",
         "https://news.web.nhk/newsweb/na/nd-20261114de75823",
         "https://news.web.nhk/newsweb/na/nd-20261114de75840",
         "https://news.web.nhk/newsweb/na/nd-20261114de75846",
@@ -481,8 +482,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261111de74427",
         "https://news.web.nhk/newsweb/na/nd-20261111de73954",
         "https://news.web.nhk/newsweb/na/nd-20261111de74433",
-        "https://news.web.nhk/newsweb/na/nd-20261111de74430",
-        "https://news.web.nhk/newsweb/na/nd-20261111de74378"
+        "https://news.web.nhk/newsweb/na/nd-20261111de74430"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-micro-robot-blood-clot-treatment/",
