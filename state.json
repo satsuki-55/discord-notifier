@@ -81,6 +81,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo#1",
         "https://www.bbc.co.uk/news/articles/ckz74jzpy18do#1",
         "https://www.bbc.co.uk/news/articles/c6jd7k5ryl1mo#0",
         "https://www.bbc.co.uk/news/articles/cqn70lz71lg8o#0",
@@ -279,10 +280,10 @@
         "https://www.bbc.co.uk/news/articles/cw1m42zdnn3go#0",
         "https://www.bbc.co.uk/news/articles/ck3rgd429zd5o#0",
         "https://www.bbc.co.uk/news/articles/cm3egj20v5x4o#0",
-        "https://www.bbc.co.uk/news/articles/crgqwgzxeexno#0",
-        "https://www.bbc.co.uk/sport/darts/articles/ckpqrjnj3y0qo#1"
+        "https://www.bbc.co.uk/news/articles/crgqwgzxeexno#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261114de75830",
         "https://news.web.nhk/newsweb/na/nd-20261114de75776",
         "https://news.web.nhk/newsweb/na/nd-20261114de75792",
         "https://news.web.nhk/newsweb/na/nd-20261114de75768",
@@ -481,8 +482,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261111de74378",
         "https://news.web.nhk/newsweb/na/nd-20261111de74343",
         "https://news.web.nhk/newsweb/na/nd-20261111de74392",
-        "https://news.web.nhk/newsweb/na/nd-20261111de74395",
-        "https://news.web.nhk/newsweb/na/nd-20261111de74346"
+        "https://news.web.nhk/newsweb/na/nd-20261111de74395"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-ss-united-states-artificial-reef/",
