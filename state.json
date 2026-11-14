@@ -80,6 +80,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/ckz74jzpy18do#1",
         "https://www.bbc.co.uk/news/articles/c6jd7k5ryl1mo#0",
         "https://www.bbc.co.uk/news/articles/cqn70lz71lg8o#0",
         "https://www.bbc.co.uk/news/articles/ckvg25g323ymo#1",
@@ -278,10 +279,10 @@
         "https://www.bbc.co.uk/news/articles/ck3rgd429zd5o#0",
         "https://www.bbc.co.uk/news/articles/cm3egj20v5x4o#0",
         "https://www.bbc.co.uk/news/articles/crgqwgzxeexno#0",
-        "https://www.bbc.co.uk/sport/darts/articles/ckpqrjnj3y0qo#1",
-        "https://www.bbc.co.uk/news/articles/cr78251892z7o#2"
+        "https://www.bbc.co.uk/sport/darts/articles/ckpqrjnj3y0qo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261114de75792",
         "https://news.web.nhk/newsweb/na/nd-20261114de75768",
         "https://news.web.nhk/newsweb/na/nd-20261113de75737",
         "https://news.web.nhk/newsweb/na/nd-20261111de74347",
@@ -480,8 +481,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261111de74392",
         "https://news.web.nhk/newsweb/na/nd-20261111de74395",
         "https://news.web.nhk/newsweb/na/nd-20261111de74346",
-        "https://news.web.nhk/newsweb/na/nd-20261111de74355",
-        "https://news.web.nhk/newsweb/na/nd-20261111de73911"
+        "https://news.web.nhk/newsweb/na/nd-20261111de74355"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-florida-sea-turtles-global-warming-female-bias/",
