@@ -283,6 +283,7 @@
         "https://www.bbc.co.uk/news/videos/c94gnv5e31gno#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261114de75833",
         "https://news.web.nhk/newsweb/na/nd-20261114de75906",
         "https://news.web.nhk/newsweb/na/nd-20261114de75874",
         "https://news.web.nhk/newsweb/na/nd-20261114de75794",
@@ -481,8 +482,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261111de74444",
         "https://news.web.nhk/newsweb/na/nd-20261111de74426",
         "https://news.web.nhk/newsweb/na/nd-20261111de74360",
-        "https://news.web.nhk/newsweb/na/nd-20261111de74423",
-        "https://news.web.nhk/newsweb/na/nd-20261111de74452"
+        "https://news.web.nhk/newsweb/na/nd-20261111de74423"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/spotify_ai_remix/",
