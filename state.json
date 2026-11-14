@@ -283,6 +283,7 @@
         "https://www.bbc.co.uk/news/articles/c3qj5lnee5n0o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261114de76011",
         "https://news.web.nhk/newsweb/na/nd-20261115de76024",
         "https://news.web.nhk/newsweb/na/nd-20261114de75976",
         "https://news.web.nhk/newsweb/na/nd-20261114de76006",
@@ -481,8 +482,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261112de74521",
         "https://news.web.nhk/newsweb/na/nd-20261112de74498",
         "https://news.web.nhk/newsweb/na/nd-20261112de74518",
-        "https://news.web.nhk/newsweb/na/nd-20261112de74519",
-        "https://news.web.nhk/newsweb/na/nd-20261112de74517"
+        "https://news.web.nhk/newsweb/na/nd-20261112de74519"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-builder-ai-bankruptcy-human-ai/",
