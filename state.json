@@ -283,6 +283,7 @@
         "https://www.bbc.co.uk/news/articles/cx98757ymm6zo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261115de76063",
         "https://news.web.nhk/newsweb/na/nd-20261115de76058",
         "https://news.web.nhk/newsweb/na/nd-20261115de76047",
         "https://news.web.nhk/newsweb/na/nd-20261115de76044",
@@ -481,8 +482,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261112de74562",
         "https://news.web.nhk/newsweb/na/nd-20261112de74639",
         "https://news.web.nhk/newsweb/na/nd-20261112de74625",
-        "https://news.web.nhk/newsweb/na/nd-20261112de74547",
-        "https://news.web.nhk/newsweb/na/nd-20261112de74557"
+        "https://news.web.nhk/newsweb/na/nd-20261112de74547"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-artemis-2-gps-ionosphere-disturbance/",
