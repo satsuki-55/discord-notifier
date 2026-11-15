@@ -82,6 +82,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cwr7gnkd7m04o#0",
         "https://www.bbc.co.uk/news/videos/c6pw4rl00lrjo#0",
         "https://www.bbc.co.uk/sport/football/articles/ckregz4g823xo#0",
         "https://www.bbc.co.uk/news/articles/cw1mdlv0k2r4o#1",
@@ -280,10 +281,10 @@
         "https://www.bbc.co.uk/news/articles/c3qj5lnee5n0o#1",
         "https://www.bbc.co.uk/news/articles/cmg46y76kz5no#1",
         "https://www.bbc.co.uk/news/articles/cm2l5n07l87vo#0",
-        "https://www.bbc.co.uk/news/articles/cmkgdw24l1kdo#1",
-        "https://www.bbc.co.uk/news/articles/cqdj1ellpd70o#0"
+        "https://www.bbc.co.uk/news/articles/cmkgdw24l1kdo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261115de76314",
         "https://news.web.nhk/newsweb/na/nd-20261116de76330",
         "https://news.web.nhk/newsweb/na/nd-20261115de76259",
         "https://news.web.nhk/newsweb/na/nd-20261115de76258",
@@ -482,10 +483,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261112de75024",
         "https://news.web.nhk/newsweb/na/nd-20261112de75002",
         "https://news.web.nhk/newsweb/na/nd-20261112de75000",
-        "https://news.web.nhk/newsweb/na/nd-20261112de74972",
-        "https://news.web.nhk/newsweb/na/nd-20261112de74995"
+        "https://news.web.nhk/newsweb/na/nd-20261112de74972"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2611-ram-altman-spam-device/",
         "https://www.gizmodo.jp/article/2611-pumped-storage-hydro-without-mountains/",
         "https://www.gizmodo.jp/article/voyager-1-light-day-distance/",
         "https://www.gizmodo.jp/article/2611-anker-sleeplab-pro-sleep-tracker/",
@@ -684,8 +685,7 @@
         "https://www.gizmodo.jp/article/m6-imac-review/",
         "https://www.gizmodo.jp/article/2611-meta-quest-2-pro-development-end-2027/",
         "https://www.gizmodo.jp/article/light-on-the-wrist-light-on-the-mind_cheap-casio-2/",
-        "https://www.gizmodo.jp/article/2611-siri-ai-developer-api-release/",
-        "https://www.gizmodo.jp/article/2611-ipad-mini-nano-texture-display/"
+        "https://www.gizmodo.jp/article/2611-siri-ai-developer-api-release/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "B77-rLsrSi8",
