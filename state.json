@@ -283,6 +283,7 @@
         "https://www.bbc.co.uk/news/articles/c95y100nrm41o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261115de76187",
         "https://news.web.nhk/newsweb/na/nd-20261115de76127",
         "https://news.web.nhk/newsweb/na/nd-20261115de76062",
         "https://news.web.nhk/newsweb/na/nd-20261115de76124",
@@ -481,8 +482,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261112de74719",
         "https://news.web.nhk/newsweb/na/nd-20261112de74704",
         "https://news.web.nhk/newsweb/na/nd-20261112de74709",
-        "https://news.web.nhk/newsweb/na/nd-20261112de74680",
-        "https://news.web.nhk/newsweb/na/nd-20261112de74556"
+        "https://news.web.nhk/newsweb/na/nd-20261112de74680"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/lego_godzilla_release/",
