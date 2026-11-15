@@ -283,6 +283,7 @@
         "https://www.bbc.co.uk/news/articles/crgj3v3z10dno#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261115de76119",
         "https://news.web.nhk/newsweb/na/nd-20261115de76091",
         "https://news.web.nhk/newsweb/na/nd-20261115de76090",
         "https://news.web.nhk/newsweb/na/nd-20261115de76082",
@@ -481,8 +482,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261109de73119",
         "https://news.web.nhk/newsweb/na/nd-20261112de74669",
         "https://news.web.nhk/newsweb/na/nd-20261112de74653",
-        "https://news.web.nhk/newsweb/na/nd-20261112de74668",
-        "https://news.web.nhk/newsweb/na/nd-20261112de74676"
+        "https://news.web.nhk/newsweb/na/nd-20261112de74668"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/thermal-paper-instant-camera-da1/",
