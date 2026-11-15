@@ -284,6 +284,7 @@
         "https://www.bbc.co.uk/news/articles/crwy499k504do#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261115de76267",
         "https://news.web.nhk/newsweb/na/nd-20261115de76102",
         "https://news.web.nhk/newsweb/na/nd-20261115de76103",
         "https://news.web.nhk/newsweb/na/nd-20261115de76105",
@@ -482,8 +483,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261112de74902",
         "https://news.web.nhk/newsweb/na/nd-20261112de74896",
         "https://news.web.nhk/newsweb/na/nd-20261112de74887",
-        "https://news.web.nhk/newsweb/na/nd-20261112de74857",
-        "https://news.web.nhk/newsweb/na/nd-20261112de74827"
+        "https://news.web.nhk/newsweb/na/nd-20261112de74857"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-anker-sleeplab-pro-sleep-tracker/",
