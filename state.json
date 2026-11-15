@@ -82,6 +82,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cm3eg8x9zkvno#1",
         "https://www.bbc.co.uk/news/articles/cmrlgn4x2xw8o#0",
         "https://www.bbc.co.uk/news/articles/cwe89y2r5j20o#0",
         "https://www.bbc.co.uk/news/articles/cwn83gxemk35o#1",
@@ -280,10 +281,10 @@
         "https://www.bbc.co.uk/news/articles/c58j4798874go#1",
         "https://www.bbc.co.uk/news/articles/c5gm3g9ldz8xo#1",
         "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo#0",
-        "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo#1",
-        "https://www.bbc.co.uk/news/articles/cm20v66jq611o#1"
+        "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261115de76094",
         "https://news.web.nhk/newsweb/na/nd-20261115de76188",
         "https://news.web.nhk/newsweb/na/nd-20261115de76149",
         "https://news.web.nhk/newsweb/na/nd-20261115de76224",
@@ -482,8 +483,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261112de74822",
         "https://news.web.nhk/newsweb/na/nd-20261112de74731",
         "https://news.web.nhk/newsweb/na/nd-20261112de74738",
-        "https://news.web.nhk/newsweb/na/nd-20261112de74787",
-        "https://news.web.nhk/newsweb/na/nd-20261112de74728"
+        "https://news.web.nhk/newsweb/na/nd-20261112de74787"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-unique-smartphones-lighter-projector-gimbal/",
