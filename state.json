@@ -82,6 +82,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cqr7gn1zmlj1o#1",
         "https://www.bbc.co.uk/news/articles/crz9dxnd5weeo#1",
         "https://www.bbc.co.uk/news/articles/cm3eg8x9zkvno#1",
         "https://www.bbc.co.uk/news/articles/cmrlgn4x2xw8o#0",
@@ -280,8 +281,7 @@
         "https://www.bbc.co.uk/news/articles/crwy499k504do#0",
         "https://www.bbc.co.uk/news/articles/cq36gngnk09do#1",
         "https://www.bbc.co.uk/news/articles/c58j4798874go#1",
-        "https://www.bbc.co.uk/news/articles/c5gm3g9ldz8xo#1",
-        "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo#0"
+        "https://www.bbc.co.uk/news/articles/c5gm3g9ldz8xo#1"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20261115de76100",
@@ -486,6 +486,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261112de74822"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2611-elon-musk-nvidia-jensen-huang/",
         "https://www.gizmodo.jp/article/2611-apple-watch-app-switcher/",
         "https://www.gizmodo.jp/article/2611-unique-smartphones-lighter-projector-gimbal/",
         "https://www.gizmodo.jp/article/first-love-fm-synth/",
@@ -684,8 +685,7 @@
         "https://www.gizmodo.jp/article/2611-ipad-mini-nano-texture-display/",
         "https://www.gizmodo.jp/article/cappy_plastic-bottle-caps_reuse-kot-2/",
         "https://www.gizmodo.jp/article/nasa_swift_satellite_reentry/",
-        "https://www.gizmodo.jp/article/2611-anker-eufy-robot-vacuum-omni-e35/",
-        "https://www.gizmodo.jp/article/2611-macbook-proled-touch-review/"
+        "https://www.gizmodo.jp/article/2611-anker-eufy-robot-vacuum-omni-e35/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "B77-rLsrSi8",
