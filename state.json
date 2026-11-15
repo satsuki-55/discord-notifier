@@ -284,6 +284,7 @@
         "https://www.bbc.co.uk/news/articles/c5gm3g9ldz8xo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261115de76311",
         "https://news.web.nhk/newsweb/na/nd-20261115de76267",
         "https://news.web.nhk/newsweb/na/nd-20261115de76102",
         "https://news.web.nhk/newsweb/na/nd-20261115de76103",
@@ -482,8 +483,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261110de73399",
         "https://news.web.nhk/newsweb/na/nd-20261112de74902",
         "https://news.web.nhk/newsweb/na/nd-20261112de74896",
-        "https://news.web.nhk/newsweb/na/nd-20261112de74887",
-        "https://news.web.nhk/newsweb/na/nd-20261112de74857"
+        "https://news.web.nhk/newsweb/na/nd-20261112de74887"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-pumped-storage-hydro-without-mountains/",
