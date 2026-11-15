@@ -284,6 +284,7 @@
         "https://www.bbc.co.uk/news/articles/cmkgdw24l1kdo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261116de76341",
         "https://news.web.nhk/newsweb/na/nd-20261115de76314",
         "https://news.web.nhk/newsweb/na/nd-20261116de76330",
         "https://news.web.nhk/newsweb/na/nd-20261115de76259",
@@ -482,8 +483,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261112de75040",
         "https://news.web.nhk/newsweb/na/nd-20261112de75024",
         "https://news.web.nhk/newsweb/na/nd-20261112de75002",
-        "https://news.web.nhk/newsweb/na/nd-20261112de75000",
-        "https://news.web.nhk/newsweb/na/nd-20261112de74972"
+        "https://news.web.nhk/newsweb/na/nd-20261112de75000"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/touch-macbook-pro-1week-review/",
