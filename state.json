@@ -283,6 +283,7 @@
         "https://www.bbc.co.uk/news/articles/c95y100nrm41o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261115de76218",
         "https://news.web.nhk/newsweb/na/nd-20261115de76209",
         "https://news.web.nhk/newsweb/na/nd-20261115de76187",
         "https://news.web.nhk/newsweb/na/nd-20261115de76127",
@@ -481,8 +482,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261112de74721",
         "https://news.web.nhk/newsweb/na/nd-20261112de74716",
         "https://news.web.nhk/newsweb/na/nd-20261112de74719",
-        "https://news.web.nhk/newsweb/na/nd-20261112de74704",
-        "https://news.web.nhk/newsweb/na/nd-20261112de74709"
+        "https://news.web.nhk/newsweb/na/nd-20261112de74704"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-unique-smartphones-lighter-projector-gimbal/",
