@@ -285,6 +285,7 @@
         "https://www.bbc.co.uk/news/articles/ck1exevgql4qo#2"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261117de76896",
         "https://news.web.nhk/newsweb/na/nd-20261116de76789",
         "https://news.web.nhk/newsweb/na/nd-20261117de76894",
         "https://news.web.nhk/newsweb/na/nd-20261117de76886",
@@ -483,10 +484,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261113de75624",
         "https://news.web.nhk/newsweb/na/nd-20261113de75529",
         "https://news.web.nhk/newsweb/na/nd-20261113de75540",
-        "https://news.web.nhk/newsweb/na/nd-20261113de75596",
-        "https://news.web.nhk/newsweb/na/nd-20261113de75535"
+        "https://news.web.nhk/newsweb/na/nd-20261113de75596"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2611-microsoft-asr-rog-xbox-ally-x/",
         "https://www.gizmodo.jp/article/2611-teenage-engineering-cd-player/",
         "https://www.gizmodo.jp/article/2611-saturn-rings-lost-moon-origin/",
         "https://www.gizmodo.jp/article/2611-nasa-chapea-mars-simulation-project/",
@@ -685,8 +686,7 @@
         "https://www.gizmodo.jp/article/2611-samsung-galaxy-t1-sports-earphones/",
         "https://www.gizmodo.jp/article/2611-macbook-pro-turn-off-illuminated-apple-logo/",
         "https://www.gizmodo.jp/article/2611-new-ipad-mini-battery-life/",
-        "https://www.gizmodo.jp/article/2611-razer-hammerhead-v3-chroma/",
-        "https://www.gizmodo.jp/article/2611-birds-vs-beach-drones/"
+        "https://www.gizmodo.jp/article/2611-razer-hammerhead-v3-chroma/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "B77-rLsrSi8",
