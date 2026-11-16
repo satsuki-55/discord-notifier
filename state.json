@@ -82,6 +82,9 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c6174gw2ewpgo#0",
+        "https://www.bbc.co.uk/news/articles/cqp9d58eldlro#0",
+        "https://www.bbc.co.uk/news/articles/c5lyk0e3n1jxo#1",
         "https://www.bbc.co.uk/news/articles/cmpqr9j81888o#0",
         "https://www.bbc.co.uk/news/articles/c60evn992jq8o#0",
         "https://www.bbc.co.uk/news/articles/c65y131w1534o#1",
@@ -278,12 +281,12 @@
         "https://www.bbc.co.uk/news/articles/cwg5r8zrm11mo#0",
         "https://www.bbc.co.uk/news/articles/ck7v25pp19m8o#2",
         "https://www.bbc.co.uk/news/articles/cj1dv5q21wdxo#0",
-        "https://www.bbc.co.uk/news/articles/cr3eg97eqde1o#0",
-        "https://www.bbc.co.uk/news/videos/cqzjr903n01po#0",
-        "https://www.bbc.co.uk/news/articles/c6174gw2ewpgo#0",
-        "https://www.bbc.co.uk/news/articles/cqp9d58eldlro#0"
+        "https://www.bbc.co.uk/news/articles/cr3eg97eqde1o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261116de76445",
+        "https://news.web.nhk/newsweb/na/nd-20261116de76420",
+        "https://news.web.nhk/newsweb/na/nd-20261116de76382",
         "https://news.web.nhk/newsweb/na/nd-20261116de76353",
         "https://news.web.nhk/newsweb/na/nd-20261116de76367",
         "https://news.web.nhk/newsweb/na/nd-20261116de76383",
@@ -480,12 +483,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261112de75073",
         "https://news.web.nhk/newsweb/na/nd-20261112de75056",
         "https://news.web.nhk/newsweb/na/nd-20261112de75051",
-        "https://news.web.nhk/newsweb/na/nd-20261112de75057",
-        "https://news.web.nhk/newsweb/na/nd-20261112de75053",
-        "https://news.web.nhk/newsweb/na/nd-20261112de75054",
-        "https://news.web.nhk/newsweb/na/nd-20261112de75046"
+        "https://news.web.nhk/newsweb/na/nd-20261112de75057"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2611-ex-fbi-agent-crypto-theft/",
         "https://www.gizmodo.jp/article/2611-ai-data-center-water-power-issue/",
         "https://www.gizmodo.jp/article/2611-blue-phone-ai-agent-smartphone/",
         "https://www.gizmodo.jp/article/south-pole-linux-winterover-job/",
@@ -684,8 +685,7 @@
         "https://www.gizmodo.jp/article/2611-openai-bug-finding-ai-firefox-vulnerabilities/",
         "https://www.gizmodo.jp/article/22041ecf-dda8-4027-b68e-4ae445679de3/",
         "https://www.gizmodo.jp/article/japanese_micro-brand_watches/",
-        "https://www.gizmodo.jp/article/google-finland-datacenter-forest/",
-        "https://www.gizmodo.jp/article/ai-proof-of-human-ghost-students/"
+        "https://www.gizmodo.jp/article/google-finland-datacenter-forest/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "B77-rLsrSi8",
