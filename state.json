@@ -284,6 +284,9 @@
         "https://www.bbc.co.uk/news/articles/cr3eg97eqde1o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261116de76421",
+        "https://news.web.nhk/newsweb/na/nd-20261116de76744",
+        "https://news.web.nhk/newsweb/na/nd-20261116de76758",
         "https://news.web.nhk/newsweb/na/nd-20261116de76754",
         "https://news.web.nhk/newsweb/na/nd-20261116de76731",
         "https://news.web.nhk/newsweb/na/nd-20261116de76709",
@@ -480,10 +483,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261113de75200",
         "https://news.web.nhk/newsweb/na/nd-20261113de75174",
         "https://news.web.nhk/newsweb/na/nd-20261113de75168",
-        "https://news.web.nhk/newsweb/na/nd-20261113de75153",
-        "https://news.web.nhk/newsweb/na/nd-20261113de75147",
-        "https://news.web.nhk/newsweb/na/nd-20261113de75142",
-        "https://news.web.nhk/newsweb/na/nd-20261113de75157"
+        "https://news.web.nhk/newsweb/na/nd-20261113de75153"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-apple-pokemon-applestore-giftcard-kajicchu/",
