@@ -284,6 +284,7 @@
         "https://www.bbc.co.uk/news/articles/cr3eg97eqde1o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261116de76709",
         "https://news.web.nhk/newsweb/na/nd-20261116de76627",
         "https://news.web.nhk/newsweb/na/nd-20261116de76659",
         "https://news.web.nhk/newsweb/na/nd-20261116de76688",
@@ -482,10 +483,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261113de75142",
         "https://news.web.nhk/newsweb/na/nd-20261113de75157",
         "https://news.web.nhk/newsweb/na/nd-20261110de73287",
-        "https://news.web.nhk/newsweb/na/nd-20261113de75152",
-        "https://news.web.nhk/newsweb/na/nd-20261113de75154"
+        "https://news.web.nhk/newsweb/na/nd-20261113de75152"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/ai-reverse-engineer-anything-crackdown/",
         "https://www.gizmodo.jp/article/expand-sonos-27-products-to-build-a-home-theater/",
         "https://www.gizmodo.jp/article/iphone-imessage-group-chat-vulnerability-fix/",
         "https://www.gizmodo.jp/article/2611-claude-code-custom-theme/",
@@ -684,8 +685,7 @@
         "https://www.gizmodo.jp/article/2611-brightest-quasar-sun-500-trillion-times/",
         "https://www.gizmodo.jp/article/2611-quick-share-android-windows-backup/",
         "https://www.gizmodo.jp/article/dreamfarm_nocutu_slicer/",
-        "https://www.gizmodo.jp/article/2611-seria-magnet-frame-sheet-review/",
-        "https://www.gizmodo.jp/article/rainproof_bicycle_cabin/"
+        "https://www.gizmodo.jp/article/2611-seria-magnet-frame-sheet-review/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "B77-rLsrSi8",
