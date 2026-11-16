@@ -83,6 +83,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cr20ve1l4x9vo#0",
         "https://www.bbc.co.uk/weather/articles/cke8rr37lrryo#0",
         "https://www.bbc.co.uk/news/articles/cwx2ev0pxmvjo#0",
         "https://www.bbc.co.uk/news/articles/c6rrgw2p52l5o#1",
@@ -281,10 +282,10 @@
         "https://www.bbc.co.uk/news/articles/c6y493wzkxgko#0",
         "https://www.bbc.co.uk/news/articles/cmg46y7wev42o#0",
         "https://www.bbc.co.uk/news/articles/ck1exevgql4qo#2",
-        "https://www.bbc.co.uk/news/articles/cqj34d3l0zlmo#0",
-        "https://www.bbc.co.uk/news/articles/cmg46qgkl7r4o#1"
+        "https://www.bbc.co.uk/news/articles/cqj34d3l0zlmo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261116de76789",
         "https://news.web.nhk/newsweb/na/nd-20261117de76894",
         "https://news.web.nhk/newsweb/na/nd-20261117de76886",
         "https://news.web.nhk/newsweb/na/nd-20261117de76870",
@@ -483,8 +484,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261113de75529",
         "https://news.web.nhk/newsweb/na/nd-20261113de75540",
         "https://news.web.nhk/newsweb/na/nd-20261113de75596",
-        "https://news.web.nhk/newsweb/na/nd-20261113de75535",
-        "https://news.web.nhk/newsweb/na/nd-20261113de75561"
+        "https://news.web.nhk/newsweb/na/nd-20261113de75535"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-teenage-engineering-cd-player/",
