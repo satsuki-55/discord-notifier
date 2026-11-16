@@ -285,6 +285,7 @@
         "https://www.bbc.co.uk/news/articles/cxzd9171m51qo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261116de76817",
         "https://news.web.nhk/newsweb/na/nd-20261116de76537",
         "https://news.web.nhk/newsweb/na/nd-20261116de76761",
         "https://news.web.nhk/newsweb/na/nd-20261116de76769",
@@ -483,8 +484,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261113de75244",
         "https://news.web.nhk/newsweb/na/nd-20261113de75209",
         "https://news.web.nhk/newsweb/na/nd-20261113de75215",
-        "https://news.web.nhk/newsweb/na/nd-20261113de75208",
-        "https://news.web.nhk/newsweb/na/nd-20261113de75248"
+        "https://news.web.nhk/newsweb/na/nd-20261113de75208"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-buffalo-qi2-wireless-usb-charger/",
