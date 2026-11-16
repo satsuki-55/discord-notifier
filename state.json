@@ -82,6 +82,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c60733mxm0x0o#1",
         "https://www.bbc.co.uk/news/articles/cj93rggenq4xo#0",
         "https://www.bbc.co.uk/news/videos/cmvg2nl8v22do#1",
         "https://www.bbc.co.uk/sport/football/articles/c933ge310n33o#1",
@@ -280,10 +281,10 @@
         "https://www.bbc.co.uk/news/articles/cq39glwprknjo#0",
         "https://www.bbc.co.uk/news/articles/cmy4930jq749o#0",
         "https://www.bbc.co.uk/news/articles/cm75261e3pdko#1",
-        "https://www.bbc.co.uk/news/articles/cr3eg97eqde1o#1",
-        "https://www.bbc.co.uk/news/articles/cq39glwprknjo#1"
+        "https://www.bbc.co.uk/news/articles/cr3eg97eqde1o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261116de76659",
         "https://news.web.nhk/newsweb/na/nd-20261116de76688",
         "https://news.web.nhk/newsweb/na/nd-20261116de76603",
         "https://news.web.nhk/newsweb/na/nd-20261116de76642",
@@ -482,8 +483,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261110de73287",
         "https://news.web.nhk/newsweb/na/nd-20261113de75152",
         "https://news.web.nhk/newsweb/na/nd-20261113de75154",
-        "https://news.web.nhk/newsweb/na/nd-20261113de75140",
-        "https://news.web.nhk/newsweb/na/nd-20261113de75136"
+        "https://news.web.nhk/newsweb/na/nd-20261113de75140"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/expand-sonos-27-products-to-build-a-home-theater/",
