@@ -82,6 +82,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/weather/articles/c6y97j2xq531o#0",
         "https://www.bbc.co.uk/news/articles/crp3e1n5kezpo#1",
         "https://www.bbc.co.uk/news/articles/cm62pl6lglvwo#1",
         "https://www.bbc.co.uk/news/videos/cqe9kgegd2y4o#1",
@@ -280,10 +281,10 @@
         "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro#0",
         "https://www.bbc.co.uk/news/videos/cqr7g5j41mezo#1",
         "https://www.bbc.co.uk/news/articles/c67429m3vem3o#1",
-        "https://www.bbc.co.uk/news/articles/cr86895201y9o#0",
-        "https://www.bbc.co.uk/news/articles/cr86895201y9o#1"
+        "https://www.bbc.co.uk/news/articles/cr86895201y9o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261028de67091",
         "https://news.web.nhk/newsweb/na/nd-20261116de76596",
         "https://news.web.nhk/newsweb/na/nd-20261116de76590",
         "https://news.web.nhk/newsweb/na/nd-20261116de76518",
@@ -482,10 +483,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261113de75130",
         "https://news.web.nhk/newsweb/na/nd-20261113de75124",
         "https://news.web.nhk/newsweb/na/nd-20261112de75011",
-        "https://news.web.nhk/newsweb/na/nd-20261113de75126",
-        "https://news.web.nhk/newsweb/na/nd-20261113de75122"
+        "https://news.web.nhk/newsweb/na/nd-20261113de75126"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/iphone-imessage-group-chat-vulnerability-fix/",
         "https://www.gizmodo.jp/article/2611-claude-code-custom-theme/",
         "https://www.gizmodo.jp/article/honor-robot-phone-2_successor/",
         "https://www.gizmodo.jp/article/2611-sony-pulse-elevate-release-delayed/",
@@ -684,8 +685,7 @@
         "https://www.gizmodo.jp/article/dreamfarm_nocutu_slicer/",
         "https://www.gizmodo.jp/article/2611-seria-magnet-frame-sheet-review/",
         "https://www.gizmodo.jp/article/rainproof_bicycle_cabin/",
-        "https://www.gizmodo.jp/article/2611-airtag-lost-baggage-tracking/",
-        "https://www.gizmodo.jp/article/2611-global-warming-fish-distribution-dna/"
+        "https://www.gizmodo.jp/article/2611-airtag-lost-baggage-tracking/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "B77-rLsrSi8",
