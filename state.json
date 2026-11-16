@@ -82,6 +82,8 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c51k9nkwrndxo#0",
+        "https://www.bbc.co.uk/news/articles/cqm2j0jvep4eo#1",
         "https://www.bbc.co.uk/news/articles/c65y131w1534o#0",
         "https://www.bbc.co.uk/news/articles/c3rrg9xgqlwpo#1",
         "https://www.bbc.co.uk/news/articles/c9143zxyyvndo#0",
@@ -279,9 +281,7 @@
         "https://www.bbc.co.uk/news/videos/cwm2591k27e2o#1",
         "https://www.bbc.co.uk/news/articles/c6lykl01nzp9o#0",
         "https://www.bbc.co.uk/news/articles/c6vg2ljjpj32o#0",
-        "https://www.bbc.co.uk/news/articles/cqy43zk3kk04o#0",
-        "https://www.bbc.co.uk/news/videos/cxvg23n59y1ro#1",
-        "https://www.bbc.co.uk/news/articles/cmkgdw24l1kdo#0"
+        "https://www.bbc.co.uk/news/articles/cqy43zk3kk04o#0"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20261116de76344",
@@ -486,6 +486,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261112de75002"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/amazon-alexa-for-shopping/",
         "https://www.gizmodo.jp/article/2611-toyota-kei-truck-us-release/",
         "https://www.gizmodo.jp/article/touch-macbook-pro-1week-review/",
         "https://www.gizmodo.jp/article/2611-ram-altman-spam-device/",
@@ -684,8 +685,7 @@
         "https://www.gizmodo.jp/article/scaj-mokable-ethiopia/",
         "https://www.gizmodo.jp/article/2611-monitor-back-storage-board/",
         "https://www.gizmodo.jp/article/2611-yamazakijiritsu-apto-wood-magnet/",
-        "https://www.gizmodo.jp/article/m6-imac-review/",
-        "https://www.gizmodo.jp/article/2611-meta-quest-2-pro-development-end-2027/"
+        "https://www.gizmodo.jp/article/m6-imac-review/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "B77-rLsrSi8",
