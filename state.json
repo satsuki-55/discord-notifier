@@ -284,6 +284,7 @@
         "https://www.bbc.co.uk/news/articles/cqp9d58eldlro#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261116de76353",
         "https://news.web.nhk/newsweb/na/nd-20261116de76367",
         "https://news.web.nhk/newsweb/na/nd-20261116de76383",
         "https://news.web.nhk/newsweb/na/nd-20261116de76371",
@@ -482,8 +483,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261112de75057",
         "https://news.web.nhk/newsweb/na/nd-20261112de75053",
         "https://news.web.nhk/newsweb/na/nd-20261112de75054",
-        "https://news.web.nhk/newsweb/na/nd-20261112de75046",
-        "https://news.web.nhk/newsweb/na/nd-20261112de75044"
+        "https://news.web.nhk/newsweb/na/nd-20261112de75046"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-ai-data-center-water-power-issue/",
