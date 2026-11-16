@@ -284,6 +284,7 @@
         "https://www.bbc.co.uk/news/articles/cm369259g0j2o#2"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261116de76487",
         "https://news.web.nhk/newsweb/na/nd-20261116de76437",
         "https://news.web.nhk/newsweb/na/nd-20261116de76469",
         "https://news.web.nhk/newsweb/na/nd-20261112de75073",
@@ -482,10 +483,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261113de75118",
         "https://news.web.nhk/newsweb/na/nd-20261028de67087",
         "https://news.web.nhk/newsweb/na/nd-20261113de75110",
-        "https://news.web.nhk/newsweb/na/nd-20261112de75085",
-        "https://news.web.nhk/newsweb/na/nd-20261112de75080"
+        "https://news.web.nhk/newsweb/na/nd-20261112de75085"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/honor-robot-phone-2_successor/",
         "https://www.gizmodo.jp/article/2611-sony-pulse-elevate-release-delayed/",
         "https://www.gizmodo.jp/article/2611-keychron-f4-he-8k-vibe-coding-keypad/",
         "https://www.gizmodo.jp/article/2611-ex-fbi-agent-crypto-theft/",
@@ -684,8 +685,7 @@
         "https://www.gizmodo.jp/article/rainproof_bicycle_cabin/",
         "https://www.gizmodo.jp/article/2611-airtag-lost-baggage-tracking/",
         "https://www.gizmodo.jp/article/2611-global-warming-fish-distribution-dna/",
-        "https://www.gizmodo.jp/article/2611-openai-bug-finding-ai-firefox-vulnerabilities/",
-        "https://www.gizmodo.jp/article/22041ecf-dda8-4027-b68e-4ae445679de3/"
+        "https://www.gizmodo.jp/article/2611-openai-bug-finding-ai-firefox-vulnerabilities/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "B77-rLsrSi8",
