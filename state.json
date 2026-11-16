@@ -285,6 +285,7 @@
         "https://www.bbc.co.uk/news/articles/cwg7l8n7dx5mo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261116de76825",
         "https://news.web.nhk/newsweb/na/nd-20261116de76828",
         "https://news.web.nhk/newsweb/na/nd-20261116de76812",
         "https://news.web.nhk/newsweb/na/nd-20261116de76806",
@@ -483,10 +484,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261113de75298",
         "https://news.web.nhk/newsweb/na/nd-20261113de75299",
         "https://news.web.nhk/newsweb/na/nd-20261113de75237",
-        "https://news.web.nhk/newsweb/na/nd-20261113de75259",
-        "https://news.web.nhk/newsweb/na/nd-20261113de75244"
+        "https://news.web.nhk/newsweb/na/nd-20261113de75259"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/pitaka-wind-over-wheat-phone-cases/",
         "https://www.gizmodo.jp/article/2611-norway-datacenters-power-shortage/",
         "https://www.gizmodo.jp/article/2611-buffalo-qi2-wireless-usb-charger/",
         "https://www.gizmodo.jp/article/2611-boston-dynamics-atlas-wheels/",
@@ -685,8 +686,7 @@
         "https://www.gizmodo.jp/article/2611-comet-origin-of-life-theory-challenged/",
         "https://www.gizmodo.jp/article/2611-ai-work-hours-comparison/",
         "https://www.gizmodo.jp/article/2611-xbox-series-x-alligator-edition/",
-        "https://www.gizmodo.jp/article/2611-galaxy-fit-4-nfc-cashless/",
-        "https://www.gizmodo.jp/article/bee-made-natural-plastic-biodegradable/"
+        "https://www.gizmodo.jp/article/2611-galaxy-fit-4-nfc-cashless/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "B77-rLsrSi8",
