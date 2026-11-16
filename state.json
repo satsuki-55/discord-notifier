@@ -82,6 +82,10 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cmpqr9j81888o#0",
+        "https://www.bbc.co.uk/news/articles/c60evn992jq8o#0",
+        "https://www.bbc.co.uk/news/articles/c65y131w1534o#1",
+        "https://www.bbc.co.uk/news/articles/cm8e0knr7604o#1",
         "https://www.bbc.co.uk/news/articles/c6vg2ljjpj32o#0",
         "https://www.bbc.co.uk/news/articles/c6lykl01nzp9o#0",
         "https://www.bbc.co.uk/news/articles/cm4gnlz2p61ko#0",
@@ -277,13 +281,11 @@
         "https://www.bbc.co.uk/news/articles/cr3eg97eqde1o#0",
         "https://www.bbc.co.uk/news/videos/cqzjr903n01po#0",
         "https://www.bbc.co.uk/news/articles/c6174gw2ewpgo#0",
-        "https://www.bbc.co.uk/news/articles/cqp9d58eldlro#0",
-        "https://www.bbc.co.uk/news/videos/cmge3y5rxg5jo#1",
-        "https://www.bbc.co.uk/news/articles/cm8x0l0jp150o#1",
-        "https://www.bbc.co.uk/news/articles/cme3x30q9z9wo#1",
-        "https://www.bbc.co.uk/news/articles/ckzd91jqvm0lo#1"
+        "https://www.bbc.co.uk/news/articles/cqp9d58eldlro#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261116de76367",
+        "https://news.web.nhk/newsweb/na/nd-20261116de76383",
         "https://news.web.nhk/newsweb/na/nd-20261116de76371",
         "https://news.web.nhk/newsweb/na/nd-20261116de76349",
         "https://news.web.nhk/newsweb/na/nd-20261116de76369",
@@ -481,9 +483,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261112de75053",
         "https://news.web.nhk/newsweb/na/nd-20261112de75054",
         "https://news.web.nhk/newsweb/na/nd-20261112de75046",
-        "https://news.web.nhk/newsweb/na/nd-20261112de75044",
-        "https://news.web.nhk/newsweb/na/nd-20261112de75041",
-        "https://news.web.nhk/newsweb/na/nd-20261112de75042"
+        "https://news.web.nhk/newsweb/na/nd-20261112de75044"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/south-pole-linux-winterover-job/",
