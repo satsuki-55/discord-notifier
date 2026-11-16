@@ -284,6 +284,8 @@
         "https://www.bbc.co.uk/news/articles/cr86895201y9o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261116de76596",
+        "https://news.web.nhk/newsweb/na/nd-20261116de76590",
         "https://news.web.nhk/newsweb/na/nd-20261116de76518",
         "https://news.web.nhk/newsweb/na/nd-20261116de76562",
         "https://news.web.nhk/newsweb/na/nd-20261116de76531",
@@ -481,9 +483,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261113de75124",
         "https://news.web.nhk/newsweb/na/nd-20261112de75011",
         "https://news.web.nhk/newsweb/na/nd-20261113de75126",
-        "https://news.web.nhk/newsweb/na/nd-20261113de75122",
-        "https://news.web.nhk/newsweb/na/nd-20261113de75121",
-        "https://news.web.nhk/newsweb/na/nd-20261110de73722"
+        "https://news.web.nhk/newsweb/na/nd-20261113de75122"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-claude-code-custom-theme/",
