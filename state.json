@@ -285,6 +285,7 @@
         "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261117de76901",
         "https://news.web.nhk/newsweb/na/nd-20261117de76905",
         "https://news.web.nhk/newsweb/na/nd-20261117de76904",
         "https://news.web.nhk/newsweb/na/nd-20261117de76902",
@@ -483,8 +484,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261113de75633",
         "https://news.web.nhk/newsweb/na/nd-20261113de75620",
         "https://news.web.nhk/newsweb/na/nd-20261113de75610",
-        "https://news.web.nhk/newsweb/na/nd-20261113de75597",
-        "https://news.web.nhk/newsweb/na/nd-20261111de73934"
+        "https://news.web.nhk/newsweb/na/nd-20261113de75597"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-car-app-vulnerability-license-plate-hack/",
