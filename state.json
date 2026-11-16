@@ -284,6 +284,7 @@
         "https://www.bbc.co.uk/news/articles/cqp9d58eldlro#2"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261116de76531",
         "https://news.web.nhk/newsweb/na/nd-20261116de76430",
         "https://news.web.nhk/newsweb/na/nd-20261116de76514",
         "https://news.web.nhk/newsweb/na/nd-20261116de76419",
@@ -482,8 +483,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261113de75121",
         "https://news.web.nhk/newsweb/na/nd-20261110de73722",
         "https://news.web.nhk/newsweb/na/nd-20261112de75099",
-        "https://news.web.nhk/newsweb/na/nd-20261113de75109",
-        "https://news.web.nhk/newsweb/na/nd-20261112de75067"
+        "https://news.web.nhk/newsweb/na/nd-20261113de75109"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/honor-robot-phone-2_successor/",
