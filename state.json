@@ -83,6 +83,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cwm2mllj1pp8o#0",
         "https://www.bbc.co.uk/news/articles/cmkgdx1ry2gyo#1",
         "https://www.bbc.co.uk/news/articles/c60733mxm0x0o#1",
         "https://www.bbc.co.uk/news/articles/cj93rggenq4xo#0",
@@ -281,10 +282,10 @@
         "https://www.bbc.co.uk/news/articles/ckqx5r3j2j4xo#1",
         "https://www.bbc.co.uk/news/articles/cmkgev3ldl9ro#0",
         "https://www.bbc.co.uk/news/articles/cq39glwprknjo#0",
-        "https://www.bbc.co.uk/news/articles/cmy4930jq749o#0",
-        "https://www.bbc.co.uk/news/articles/cm75261e3pdko#1"
+        "https://www.bbc.co.uk/news/articles/cmy4930jq749o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261116de76761",
         "https://news.web.nhk/newsweb/na/nd-20261116de76769",
         "https://news.web.nhk/newsweb/na/nd-20261116de76767",
         "https://news.web.nhk/newsweb/na/nd-20261116de76757",
@@ -483,8 +484,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261113de75215",
         "https://news.web.nhk/newsweb/na/nd-20261113de75208",
         "https://news.web.nhk/newsweb/na/nd-20261113de75248",
-        "https://news.web.nhk/newsweb/na/nd-20261113de75212",
-        "https://news.web.nhk/newsweb/na/nd-20261113de75200"
+        "https://news.web.nhk/newsweb/na/nd-20261113de75212"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-samsung-google-smart-glasses-watch-control/",
