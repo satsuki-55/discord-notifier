@@ -285,6 +285,7 @@
         "https://www.bbc.co.uk/news/videos/cqdr1jvylv1xo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261116de76840",
         "https://news.web.nhk/newsweb/na/nd-20261116de76820",
         "https://news.web.nhk/newsweb/na/nd-20261113de75244",
         "https://news.web.nhk/newsweb/na/nd-20261116de76825",
@@ -483,8 +484,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261113de75292",
         "https://news.web.nhk/newsweb/na/nd-20261113de75250",
         "https://news.web.nhk/newsweb/na/nd-20261113de75280",
-        "https://news.web.nhk/newsweb/na/nd-20261113de75298",
-        "https://news.web.nhk/newsweb/na/nd-20261113de75299"
+        "https://news.web.nhk/newsweb/na/nd-20261113de75298"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/psp_3ds_granular_sampler_dzagrain/",
