@@ -284,6 +284,7 @@
         "https://www.bbc.co.uk/news/articles/ckzd91jqvm0lo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261116de76371",
         "https://news.web.nhk/newsweb/na/nd-20261116de76349",
         "https://news.web.nhk/newsweb/na/nd-20261116de76369",
         "https://news.web.nhk/newsweb/na/nd-20261028de67090",
@@ -482,10 +483,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261112de75046",
         "https://news.web.nhk/newsweb/na/nd-20261112de75044",
         "https://news.web.nhk/newsweb/na/nd-20261112de75041",
-        "https://news.web.nhk/newsweb/na/nd-20261112de75042",
-        "https://news.web.nhk/newsweb/na/nd-20261112de75036"
+        "https://news.web.nhk/newsweb/na/nd-20261112de75042"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/south-pole-linux-winterover-job/",
         "https://www.gizmodo.jp/article/starlink-mini-2/",
         "https://www.gizmodo.jp/article/amazon-alexa-for-shopping/",
         "https://www.gizmodo.jp/article/2611-toyota-kei-truck-us-release/",
@@ -684,8 +685,7 @@
         "https://www.gizmodo.jp/article/google-finland-datacenter-forest/",
         "https://www.gizmodo.jp/article/ai-proof-of-human-ghost-students/",
         "https://www.gizmodo.jp/article/scaj-mokable-ethiopia/",
-        "https://www.gizmodo.jp/article/2611-monitor-back-storage-board/",
-        "https://www.gizmodo.jp/article/2611-yamazakijiritsu-apto-wood-magnet/"
+        "https://www.gizmodo.jp/article/2611-monitor-back-storage-board/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "B77-rLsrSi8",
