@@ -82,6 +82,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/weather/articles/c6y97j2xq531o#1",
         "https://www.bbc.co.uk/news/articles/crgqx11wkzy8o#0",
         "https://www.bbc.co.uk/weather/articles/c6y97j2xq531o#0",
         "https://www.bbc.co.uk/news/articles/crp3e1n5kezpo#1",
@@ -280,10 +281,10 @@
         "https://www.bbc.co.uk/news/videos/cqzjr903n01po#2",
         "https://www.bbc.co.uk/news/articles/cr9d7y937n58o#1",
         "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro#0",
-        "https://www.bbc.co.uk/news/videos/cqr7g5j41mezo#1",
-        "https://www.bbc.co.uk/news/articles/c67429m3vem3o#1"
+        "https://www.bbc.co.uk/news/videos/cqr7g5j41mezo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261116de76620",
         "https://news.web.nhk/newsweb/na/nd-20261028de67091",
         "https://news.web.nhk/newsweb/na/nd-20261116de76596",
         "https://news.web.nhk/newsweb/na/nd-20261116de76590",
@@ -482,8 +483,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261113de75134",
         "https://news.web.nhk/newsweb/na/nd-20261113de75130",
         "https://news.web.nhk/newsweb/na/nd-20261113de75124",
-        "https://news.web.nhk/newsweb/na/nd-20261112de75011",
-        "https://news.web.nhk/newsweb/na/nd-20261113de75126"
+        "https://news.web.nhk/newsweb/na/nd-20261112de75011"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/iphone-imessage-group-chat-vulnerability-fix/",
