@@ -284,6 +284,7 @@
         "https://www.bbc.co.uk/news/articles/ckzd91jqvm0lo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261116de76349",
         "https://news.web.nhk/newsweb/na/nd-20261116de76369",
         "https://news.web.nhk/newsweb/na/nd-20261028de67090",
         "https://news.web.nhk/newsweb/na/nd-20261028de67088",
@@ -482,8 +483,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261112de75044",
         "https://news.web.nhk/newsweb/na/nd-20261112de75041",
         "https://news.web.nhk/newsweb/na/nd-20261112de75042",
-        "https://news.web.nhk/newsweb/na/nd-20261112de75036",
-        "https://news.web.nhk/newsweb/na/nd-20261112de75032"
+        "https://news.web.nhk/newsweb/na/nd-20261112de75036"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/starlink-mini-2/",
