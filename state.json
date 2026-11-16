@@ -82,6 +82,8 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/sport/ice-hockey/articles/cqkgm0jgv4mdo#0",
+        "https://www.bbc.co.uk/news/articles/ckvg2ezvpe08o#1",
         "https://www.bbc.co.uk/news/articles/cj1dv5q21wdxo#0",
         "https://www.bbc.co.uk/news/articles/ck1exevgql4qo#1",
         "https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo#0",
@@ -279,11 +281,10 @@
         "https://www.bbc.co.uk/news/articles/c51k9709krxvo#1",
         "https://www.bbc.co.uk/news/articles/cqp9d58eldlro#2",
         "https://www.bbc.co.uk/news/articles/cme3dwydp857o#1",
-        "https://www.bbc.co.uk/news/articles/cm369259g0j2o#2",
-        "https://www.bbc.co.uk/news/articles/c67429m3vem3o#0",
-        "https://www.bbc.co.uk/news/videos/cqzjr903n01po#1"
+        "https://www.bbc.co.uk/news/articles/cm369259g0j2o#2"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261116de76466",
         "https://news.web.nhk/newsweb/na/nd-20261116de76453",
         "https://news.web.nhk/newsweb/na/nd-20261116de76429",
         "https://news.web.nhk/newsweb/na/nd-20261116de76445",
@@ -482,8 +483,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261112de75071",
         "https://news.web.nhk/newsweb/na/nd-20261112de75078",
         "https://news.web.nhk/newsweb/na/nd-20261112de75068",
-        "https://news.web.nhk/newsweb/na/nd-20261112de75073",
-        "https://news.web.nhk/newsweb/na/nd-20261112de75056"
+        "https://news.web.nhk/newsweb/na/nd-20261112de75073"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-keychron-f4-he-8k-vibe-coding-keypad/",
