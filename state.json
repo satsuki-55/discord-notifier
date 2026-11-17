@@ -285,6 +285,7 @@
         "https://www.bbc.co.uk/news/articles/cw62p4n3n1xyo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261117de77205",
         "https://news.web.nhk/newsweb/na/nd-20261117de77170",
         "https://news.web.nhk/newsweb/na/nd-20261117de77141",
         "https://news.web.nhk/newsweb/na/nd-20261117de77157",
@@ -483,8 +484,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261113de75737",
         "https://news.web.nhk/newsweb/na/nd-20261111de74347",
         "https://news.web.nhk/newsweb/na/nd-20261114de75761",
-        "https://news.web.nhk/newsweb/na/nd-20261113de75649",
-        "https://news.web.nhk/newsweb/na/nd-20261111de74306"
+        "https://news.web.nhk/newsweb/na/nd-20261113de75649"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/ponkhiraj-solar-irrigation-bangladesh/",
