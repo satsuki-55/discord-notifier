@@ -83,6 +83,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cvglr977x3z0o#0",
         "https://www.bbc.co.uk/news/articles/cm93080xj8xgo#2",
         "https://www.bbc.co.uk/news/articles/c6x2wnz3k7lno#1",
         "https://www.bbc.co.uk/sport/football/articles/cx1l0n3v003eo#2",
@@ -281,10 +282,10 @@
         "https://www.bbc.co.uk/news/articles/cm7024p1ded3o#1",
         "https://www.bbc.co.uk/news/articles/cwr7gnkd7m04o#1",
         "https://www.bbc.co.uk/news/articles/cwr7gnkd7m04o#0",
-        "https://www.bbc.co.uk/news/videos/c6pw4rl00lrjo#0",
-        "https://www.bbc.co.uk/sport/football/articles/ckregz4g823xo#0"
+        "https://www.bbc.co.uk/news/videos/c6pw4rl00lrjo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261117de77454",
         "https://news.web.nhk/newsweb/na/nd-20261117de77443",
         "https://news.web.nhk/newsweb/na/nd-20261117de77424",
         "https://news.web.nhk/newsweb/na/nd-20261117de77425",
@@ -483,8 +484,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261115de76042",
         "https://news.web.nhk/newsweb/na/nd-20261114de75986",
         "https://news.web.nhk/newsweb/na/nd-20261114de75981",
-        "https://news.web.nhk/newsweb/na/nd-20261115de76032",
-        "https://news.web.nhk/newsweb/na/nd-20261115de76036"
+        "https://news.web.nhk/newsweb/na/nd-20261115de76032"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-barreleye-fish-4k-footage/",
