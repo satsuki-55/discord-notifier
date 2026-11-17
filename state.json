@@ -83,6 +83,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cqvg2xvdpy2ro#0",
         "https://www.bbc.co.uk/news/articles/ckx28le8dv9wo#0",
         "https://www.bbc.co.uk/news/articles/c8x2r6gyy2pzo#0",
         "https://www.bbc.co.uk/news/articles/c6205wlz8vn0o#1",
@@ -281,10 +282,11 @@
         "https://www.bbc.co.uk/news/articles/c6m25zg88k45o#1",
         "https://www.bbc.co.uk/news/articles/c65y13z1d8eyo#1",
         "https://www.bbc.co.uk/news/articles/c6m25zg88k45o#0",
-        "https://www.bbc.co.uk/news/articles/cmrlgn4x2xw8o#1",
-        "https://www.bbc.co.uk/sport/rugby-union/articles/cmd91np3pqk0o#1"
+        "https://www.bbc.co.uk/news/articles/cmrlgn4x2xw8o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261117de77425",
+        "https://news.web.nhk/newsweb/na/nd-20261117de77426",
         "https://news.web.nhk/newsweb/na/nd-20261117de77431",
         "https://news.web.nhk/newsweb/na/nd-20261117de77427",
         "https://news.web.nhk/newsweb/na/nd-20261117de77428",
@@ -482,11 +484,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261115de76032",
         "https://news.web.nhk/newsweb/na/nd-20261115de76036",
         "https://news.web.nhk/newsweb/na/nd-20261115de76026",
-        "https://news.web.nhk/newsweb/na/nd-20261115de76028",
-        "https://news.web.nhk/newsweb/na/nd-20261114de76000",
-        "https://news.web.nhk/newsweb/na/nd-20261114de75995"
+        "https://news.web.nhk/newsweb/na/nd-20261115de76028"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2611-switchbot-katafriends-mini-ai-pet/",
         "https://www.gizmodo.jp/article/2611-adam-elements-magnetic-usb-c-cable-sale/",
         "https://www.gizmodo.jp/article/nike_tuned-air_innovation/",
         "https://www.gizmodo.jp/article/2611-anthropic-ipo-china-hong-kong-investor-restriction/",
@@ -685,8 +686,7 @@
         "https://www.gizmodo.jp/article/2611-jpmorgan-sp500-rally-signal-czd/",
         "https://www.gizmodo.jp/article/anyone-can-rent-a-white-house-ip-address-for-a-few-dollars/",
         "https://www.gizmodo.jp/article/2611-samsung-17-inch-foldable-tablet/",
-        "https://www.gizmodo.jp/article/2611-openai-ai-vulnerability-detection-cost/",
-        "https://www.gizmodo.jp/article/2611-ai-vending-machine-fraud/"
+        "https://www.gizmodo.jp/article/2611-openai-ai-vulnerability-detection-cost/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "B77-rLsrSi8",
