@@ -285,6 +285,8 @@
         "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261118de77480",
+        "https://news.web.nhk/newsweb/na/nd-20261118de77490",
         "https://news.web.nhk/newsweb/na/nd-20261118de77487",
         "https://news.web.nhk/newsweb/na/nd-20261117de77381",
         "https://news.web.nhk/newsweb/na/nd-20261118de77484",
@@ -482,9 +484,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261115de76188",
         "https://news.web.nhk/newsweb/na/nd-20261115de76149",
         "https://news.web.nhk/newsweb/na/nd-20261115de76224",
-        "https://news.web.nhk/newsweb/na/nd-20261115de76223",
-        "https://news.web.nhk/newsweb/na/nd-20261115de76218",
-        "https://news.web.nhk/newsweb/na/nd-20261115de76209"
+        "https://news.web.nhk/newsweb/na/nd-20261115de76223"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-rakuten-securities-unauthorized-access-security-settings/",
