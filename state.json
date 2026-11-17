@@ -83,6 +83,8 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c30rk8x5g80qo#0",
+        "https://www.bbc.co.uk/news/articles/c6kgq8d779lro#1",
         "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo#0",
         "https://www.bbc.co.uk/news/articles/cr894xq5yeyko#0",
         "https://www.bbc.co.uk/news/articles/cmy97qperq9eo#1",
@@ -280,9 +282,7 @@
         "https://www.bbc.co.uk/news/articles/cw77p7yj42k5o#0",
         "https://www.bbc.co.uk/news/articles/cq2e9v3030gyo#0",
         "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o#1",
-        "https://www.bbc.co.uk/news/articles/cqgm3g7ge1xlo#2",
-        "https://www.bbc.co.uk/news/articles/cw77p7yj42k5o#2",
-        "https://www.bbc.co.uk/news/articles/cqn83l442724o#0"
+        "https://www.bbc.co.uk/news/articles/cqgm3g7ge1xlo#2"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20261028de67092",
@@ -487,6 +487,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261114de75748"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2611-apple-app-store-synth-app-rejection-ai/",
         "https://www.gizmodo.jp/article/2611-anthropic-stock-ant-ipo-finances-retail-investors-aoj/",
         "https://www.gizmodo.jp/article/2611-uber-driver-data-breach-fireworks-ai/",
         "https://www.gizmodo.jp/article/2611-iphone-duo-2-face-id-2/",
@@ -685,8 +686,7 @@
         "https://www.gizmodo.jp/article/authorities-at-lima-airport-find-more-than-3000-tarantulas-hidden-in-dirty-socks/",
         "https://www.gizmodo.jp/article/dragon-quest-makaiju/",
         "https://www.gizmodo.jp/article/meta-terms-update-publisher-backlash/",
-        "https://www.gizmodo.jp/article/nape-pro-keychron-behind-scenes-repost/",
-        "https://www.gizmodo.jp/article/oukitel-wp63/"
+        "https://www.gizmodo.jp/article/nape-pro-keychron-behind-scenes-repost/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "B77-rLsrSi8",
