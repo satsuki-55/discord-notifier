@@ -83,6 +83,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c5y4j7z373kzo#0",
         "https://www.bbc.co.uk/news/articles/cw3djdjk5d7ko#1",
         "https://www.bbc.co.uk/news/articles/c6ly7g5lx7gyo#0",
         "https://www.bbc.co.uk/news/articles/ck1ewl2zjqgzo#1",
@@ -281,8 +282,7 @@
         "https://www.bbc.co.uk/news/articles/cx5y1pzr9604o#1",
         "https://www.bbc.co.uk/sport/golf/articles/c6kg7rwmz1g8o#1",
         "https://www.bbc.co.uk/news/articles/cm8e0knr7604o#0",
-        "https://www.bbc.co.uk/news/articles/cqr7gn1zmlj1o#0",
-        "https://www.bbc.co.uk/news/articles/cm62y0wrnz9zo#0"
+        "https://www.bbc.co.uk/news/articles/cqr7gn1zmlj1o#0"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20261117de77418",
@@ -487,6 +487,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261114de75988"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/nike_tuned-air_innovation/",
         "https://www.gizmodo.jp/article/2611-anthropic-ipo-china-hong-kong-investor-restriction/",
         "https://www.gizmodo.jp/article/2611-submarine-geothermal-power-endurance-energy/",
         "https://www.gizmodo.jp/article/ai-washing-layoffs-qantas/",
@@ -685,8 +686,7 @@
         "https://www.gizmodo.jp/article/2611-samsung-17-inch-foldable-tablet/",
         "https://www.gizmodo.jp/article/2611-openai-ai-vulnerability-detection-cost/",
         "https://www.gizmodo.jp/article/2611-ai-vending-machine-fraud/",
-        "https://www.gizmodo.jp/article/daiso-pet-bottle-cap-gqvz/",
-        "https://www.gizmodo.jp/article/2610-audio-technica-monitor-headphone-fps/"
+        "https://www.gizmodo.jp/article/daiso-pet-bottle-cap-gqvz/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "B77-rLsrSi8",
