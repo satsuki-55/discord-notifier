@@ -285,6 +285,7 @@
         "https://www.bbc.co.uk/news/articles/cm782dxxzjw2o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261117de77363",
         "https://news.web.nhk/newsweb/na/nd-20261117de77353",
         "https://news.web.nhk/newsweb/na/nd-20261117de77370",
         "https://news.web.nhk/newsweb/na/nd-20261117de77365",
@@ -483,10 +484,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261114de75970",
         "https://news.web.nhk/newsweb/na/nd-20261114de75964",
         "https://news.web.nhk/newsweb/na/nd-20261114de75960",
-        "https://news.web.nhk/newsweb/na/nd-20261114de75967",
-        "https://news.web.nhk/newsweb/na/nd-20261114de75866"
+        "https://news.web.nhk/newsweb/na/nd-20261114de75967"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2611-iphone-duo-christmas-shipping/",
         "https://www.gizmodo.jp/article/2611-ai-generated-nuremberg-movie-trailer/",
         "https://www.gizmodo.jp/article/2611-altar-ii-mechanical-keyboard/",
         "https://www.gizmodo.jp/article/2611-iphone-duo-face-unlock/",
@@ -685,8 +686,7 @@
         "https://www.gizmodo.jp/article/2611-openai-modretro-chromatic-codex-edition/",
         "https://www.gizmodo.jp/article/instagram-edits-macos/",
         "https://www.gizmodo.jp/article/2611-nasa-moon-astronaut-recruitment-salary/",
-        "https://www.gizmodo.jp/article/2611-invisible-qr-code-2tb-a4-paper/",
-        "https://www.gizmodo.jp/article/2611-iphone-keyboard-censored-words-list/"
+        "https://www.gizmodo.jp/article/2611-invisible-qr-code-2tb-a4-paper/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "B77-rLsrSi8",
