@@ -285,6 +285,7 @@
         "https://www.bbc.co.uk/news/articles/cm3rgx9p583zo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261117de77024",
         "https://news.web.nhk/newsweb/na/nd-20261117de76934",
         "https://news.web.nhk/newsweb/na/nd-20261117de76925",
         "https://news.web.nhk/newsweb/na/nd-20261117de76976",
@@ -483,10 +484,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261111de74102",
         "https://news.web.nhk/newsweb/na/nd-20261113de75682",
         "https://news.web.nhk/newsweb/na/nd-20261113de75687",
-        "https://news.web.nhk/newsweb/na/nd-20261113de75684",
-        "https://news.web.nhk/newsweb/na/nd-20261113de75685"
+        "https://news.web.nhk/newsweb/na/nd-20261113de75684"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2611-macbook-pro-apple-logo-led-ifixit/",
         "https://www.gizmodo.jp/article/2611-data-centers-delay-coal-phaseout/",
         "https://www.gizmodo.jp/article/gta6-researcher-job-kalshi/",
         "https://www.gizmodo.jp/article/2611-flipper-zero-car-theft-hacking/",
@@ -685,8 +686,7 @@
         "https://www.gizmodo.jp/article/oukitel-wp63/",
         "https://www.gizmodo.jp/article/2611-enough-phone-compact-smartphone/",
         "https://www.gizmodo.jp/article/2611-yamazakijirushi-slide-table/",
-        "https://www.gizmodo.jp/article/2611-mdr-3r-usb-c-sony-headphones/",
-        "https://www.gizmodo.jp/article/2611-gentle-monster-android-xr-smart-glasses/"
+        "https://www.gizmodo.jp/article/2611-mdr-3r-usb-c-sony-headphones/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "B77-rLsrSi8",
