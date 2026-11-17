@@ -285,6 +285,7 @@
         "https://www.bbc.co.uk/news/articles/cw62p4n3n1xyo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261117de77253",
         "https://news.web.nhk/newsweb/na/nd-20261117de77251",
         "https://news.web.nhk/newsweb/na/nd-20261117de77074",
         "https://news.web.nhk/newsweb/na/nd-20261117de77212",
@@ -483,8 +484,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261114de75846",
         "https://news.web.nhk/newsweb/na/nd-20261114de75830",
         "https://news.web.nhk/newsweb/na/nd-20261114de75776",
-        "https://news.web.nhk/newsweb/na/nd-20261114de75792",
-        "https://news.web.nhk/newsweb/na/nd-20261114de75768"
+        "https://news.web.nhk/newsweb/na/nd-20261114de75792"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/chargespot-wifi-rental/",
