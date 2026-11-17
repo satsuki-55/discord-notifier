@@ -285,6 +285,7 @@
         "https://www.bbc.co.uk/news/articles/cq2e9v3030gyo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261117de77138",
         "https://news.web.nhk/newsweb/na/nd-20261117de77124",
         "https://news.web.nhk/newsweb/na/nd-20261117de77113",
         "https://news.web.nhk/newsweb/na/nd-20261117de77117",
@@ -483,8 +484,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261114de75764",
         "https://news.web.nhk/newsweb/na/nd-20261114de75759",
         "https://news.web.nhk/newsweb/na/nd-20261114de75743",
-        "https://news.web.nhk/newsweb/na/nd-20261114de75755",
-        "https://news.web.nhk/newsweb/na/nd-20261114de75753"
+        "https://news.web.nhk/newsweb/na/nd-20261114de75755"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-apple-app-store-synth-app-rejection-ai/",
