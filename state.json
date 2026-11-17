@@ -285,6 +285,8 @@
         "https://www.bbc.co.uk/news/articles/cwe89y2r5j20o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261117de77001",
+        "https://news.web.nhk/newsweb/na/nd-20261117de76926",
         "https://news.web.nhk/newsweb/na/nd-20261117de77033",
         "https://news.web.nhk/newsweb/na/nd-20261117de77026",
         "https://news.web.nhk/newsweb/na/nd-20261117de77024",
@@ -482,11 +484,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261113de75711",
         "https://news.web.nhk/newsweb/na/nd-20261113de75691",
         "https://news.web.nhk/newsweb/na/nd-20261113de75693",
-        "https://news.web.nhk/newsweb/na/nd-20261113de75681",
-        "https://news.web.nhk/newsweb/na/nd-20261111de74102",
-        "https://news.web.nhk/newsweb/na/nd-20261113de75682"
+        "https://news.web.nhk/newsweb/na/nd-20261113de75681"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2611-iphone-duo-2-face-id-2/",
         "https://www.gizmodo.jp/article/2611-macbook-pro-apple-logo-led-ifixit/",
         "https://www.gizmodo.jp/article/2611-data-centers-delay-coal-phaseout/",
         "https://www.gizmodo.jp/article/gta6-researcher-job-kalshi/",
@@ -685,8 +686,7 @@
         "https://www.gizmodo.jp/article/nape-pro-keychron-behind-scenes-repost/",
         "https://www.gizmodo.jp/article/oukitel-wp63/",
         "https://www.gizmodo.jp/article/2611-enough-phone-compact-smartphone/",
-        "https://www.gizmodo.jp/article/2611-yamazakijirushi-slide-table/",
-        "https://www.gizmodo.jp/article/2611-mdr-3r-usb-c-sony-headphones/"
+        "https://www.gizmodo.jp/article/2611-yamazakijirushi-slide-table/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "B77-rLsrSi8",
