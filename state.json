@@ -285,6 +285,7 @@
         "https://www.bbc.co.uk/news/articles/cqn83l442724o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261117de77106",
         "https://news.web.nhk/newsweb/na/nd-20261117de77094",
         "https://news.web.nhk/newsweb/na/nd-20261117de77079",
         "https://news.web.nhk/newsweb/na/nd-20261117de76932",
@@ -483,8 +484,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261114de75745",
         "https://news.web.nhk/newsweb/na/nd-20261111de74183",
         "https://news.web.nhk/newsweb/na/nd-20261114de75748",
-        "https://news.web.nhk/newsweb/na/nd-20261113de75728",
-        "https://news.web.nhk/newsweb/na/nd-20261113de75730"
+        "https://news.web.nhk/newsweb/na/nd-20261113de75728"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-anthropic-stock-ant-ipo-finances-retail-investors-aoj/",
