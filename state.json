@@ -285,6 +285,8 @@
         "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261117de77274",
+        "https://news.web.nhk/newsweb/na/nd-20261117de77215",
         "https://news.web.nhk/newsweb/na/nd-20261117de77236",
         "https://news.web.nhk/newsweb/na/nd-20261117de77253",
         "https://news.web.nhk/newsweb/na/nd-20261117de77251",
@@ -482,9 +484,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261114de75857",
         "https://news.web.nhk/newsweb/na/nd-20261114de75823",
         "https://news.web.nhk/newsweb/na/nd-20261114de75840",
-        "https://news.web.nhk/newsweb/na/nd-20261114de75846",
-        "https://news.web.nhk/newsweb/na/nd-20261114de75830",
-        "https://news.web.nhk/newsweb/na/nd-20261114de75776"
+        "https://news.web.nhk/newsweb/na/nd-20261114de75846"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-ugreen-100w-charger-sale/",
