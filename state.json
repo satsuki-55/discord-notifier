@@ -83,6 +83,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cr1ewlqjn694o#0",
         "https://www.bbc.co.uk/news/articles/c6205wpv2g81o#1",
         "https://www.bbc.co.uk/news/articles/crq5vl1l6z2po#0",
         "https://www.bbc.co.uk/news/articles/c60evw20qe47o#0",
@@ -281,10 +282,10 @@
         "https://www.bbc.co.uk/news/articles/c6dj1e8wyykmo#2",
         "https://www.bbc.co.uk/news/articles/cw62p4n3n1xyo#1",
         "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o#1",
-        "https://www.bbc.co.uk/sport/rugby-union/articles/cmkg57rz2re9o#2",
-        "https://www.bbc.co.uk/news/articles/cr4gnz0lv2vlo#0"
+        "https://www.bbc.co.uk/sport/rugby-union/articles/cmkg57rz2re9o#2"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261117de77296",
         "https://news.web.nhk/newsweb/na/nd-20261117de77257",
         "https://news.web.nhk/newsweb/na/nd-20261117de77103",
         "https://news.web.nhk/newsweb/na/nd-20261117de77271",
@@ -483,8 +484,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261114de75906",
         "https://news.web.nhk/newsweb/na/nd-20261114de75874",
         "https://news.web.nhk/newsweb/na/nd-20261114de75794",
-        "https://news.web.nhk/newsweb/na/nd-20261114de75856",
-        "https://news.web.nhk/newsweb/na/nd-20261114de75857"
+        "https://news.web.nhk/newsweb/na/nd-20261114de75856"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-ugreen-100w-charger-sale/",
@@ -701,6 +701,7 @@
         "Ih1O3vIgcmA"
     ],
     "youtube:UCuG5vlhQYE5VE-pTTxINi3g": [
+        "3pvYsTtuY74",
         "AK6wjn-dUJE",
         "t0alVYa50_0",
         "AQag0H0Itx4",
