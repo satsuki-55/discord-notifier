@@ -285,6 +285,7 @@
         "https://www.bbc.co.uk/news/articles/c60733mxm0x0o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261118de77502",
         "https://news.web.nhk/newsweb/na/nd-20261118de77491",
         "https://news.web.nhk/newsweb/na/nd-20261118de77480",
         "https://news.web.nhk/newsweb/na/nd-20261118de77490",
@@ -483,8 +484,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261115de76099",
         "https://news.web.nhk/newsweb/na/nd-20261115de76094",
         "https://news.web.nhk/newsweb/na/nd-20261115de76188",
-        "https://news.web.nhk/newsweb/na/nd-20261115de76149",
-        "https://news.web.nhk/newsweb/na/nd-20261115de76224"
+        "https://news.web.nhk/newsweb/na/nd-20261115de76149"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/fairphone_fairbuds-2_review_sustainable_repairable-earbuds/",
