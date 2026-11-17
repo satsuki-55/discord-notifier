@@ -83,6 +83,8 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cr868wd2qg18o#0",
+        "https://www.bbc.co.uk/news/articles/c60evw20qe47o#1",
         "https://www.bbc.co.uk/news/articles/ck1ewl2zjqgzo#0",
         "https://www.bbc.co.uk/news/articles/crq5vl1l6z2po#1",
         "https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo#1",
@@ -280,11 +282,10 @@
         "https://www.bbc.co.uk/news/articles/cqrkg4r6mg7xo#1",
         "https://www.bbc.co.uk/news/articles/cqrkg4r6mg7xo#0",
         "https://www.bbc.co.uk/news/articles/cmvg2e2q28w1o#2",
-        "https://www.bbc.co.uk/news/articles/cwp9g9ey10dko#1",
-        "https://www.bbc.co.uk/news/articles/c6y493wzkxgko#1",
-        "https://www.bbc.co.uk/news/articles/c6jd7k7g57x5o#1"
+        "https://www.bbc.co.uk/news/articles/cwp9g9ey10dko#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261117de77165",
         "https://news.web.nhk/newsweb/na/nd-20261117de77308",
         "https://news.web.nhk/newsweb/na/nd-20261117de77296",
         "https://news.web.nhk/newsweb/na/nd-20261117de77257",
@@ -483,8 +484,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261114de75935",
         "https://news.web.nhk/newsweb/na/nd-20261114de75833",
         "https://news.web.nhk/newsweb/na/nd-20261114de75906",
-        "https://news.web.nhk/newsweb/na/nd-20261114de75874",
-        "https://news.web.nhk/newsweb/na/nd-20261114de75794"
+        "https://news.web.nhk/newsweb/na/nd-20261114de75874"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-chatgpt-wallet-openai/",
