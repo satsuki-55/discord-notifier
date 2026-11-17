@@ -83,6 +83,8 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cqrlg377638yo#0",
+        "https://www.bbc.co.uk/news/articles/c6ly7g5lx7gyo#1",
         "https://www.bbc.co.uk/news/articles/cjvg26p3z2gdo#0",
         "https://www.bbc.co.uk/news/articles/cvglr977x3z0o#2",
         "https://www.bbc.co.uk/news/articles/c5y4j7z373kzo#0",
@@ -280,11 +282,10 @@
         "https://www.bbc.co.uk/sport/rugby-union/articles/cmd91np3pqk0o#1",
         "https://www.bbc.co.uk/news/articles/c32l5ny1r7x9o#1",
         "https://www.bbc.co.uk/news/articles/ckx28le8dv9wo#0",
-        "https://www.bbc.co.uk/news/articles/cmdxw051np9jo#0",
-        "https://www.bbc.co.uk/news/articles/cx5y1pzr9604o#1",
-        "https://www.bbc.co.uk/sport/golf/articles/c6kg7rwmz1g8o#1"
+        "https://www.bbc.co.uk/news/articles/cmdxw051np9jo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261117de77405",
         "https://news.web.nhk/newsweb/na/nd-20261117de77422",
         "https://news.web.nhk/newsweb/na/nd-20261117de77414",
         "https://news.web.nhk/newsweb/na/nd-20261117de77418",
@@ -483,8 +484,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261114de75995",
         "https://news.web.nhk/newsweb/na/nd-20261114de76011",
         "https://news.web.nhk/newsweb/na/nd-20261115de76024",
-        "https://news.web.nhk/newsweb/na/nd-20261114de75976",
-        "https://news.web.nhk/newsweb/na/nd-20261114de76006"
+        "https://news.web.nhk/newsweb/na/nd-20261114de75976"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/nike_tuned-air_innovation/",
