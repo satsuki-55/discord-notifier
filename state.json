@@ -285,6 +285,7 @@
         "https://www.bbc.co.uk/news/articles/cwe89y2r5j20o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261117de77047",
         "https://news.web.nhk/newsweb/na/nd-20261117de77001",
         "https://news.web.nhk/newsweb/na/nd-20261117de76926",
         "https://news.web.nhk/newsweb/na/nd-20261117de77033",
@@ -483,8 +484,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261113de75713",
         "https://news.web.nhk/newsweb/na/nd-20261113de75711",
         "https://news.web.nhk/newsweb/na/nd-20261113de75691",
-        "https://news.web.nhk/newsweb/na/nd-20261113de75693",
-        "https://news.web.nhk/newsweb/na/nd-20261113de75681"
+        "https://news.web.nhk/newsweb/na/nd-20261113de75693"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-uber-driver-data-breach-fireworks-ai/",
