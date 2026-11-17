@@ -285,6 +285,7 @@
         "https://www.bbc.co.uk/news/articles/cm3rgx9p583zo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261117de76925",
         "https://news.web.nhk/newsweb/na/nd-20261117de76976",
         "https://news.web.nhk/newsweb/na/nd-20261117de76916",
         "https://news.web.nhk/newsweb/na/nd-20261117de76958",
@@ -483,10 +484,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261113de75687",
         "https://news.web.nhk/newsweb/na/nd-20261113de75684",
         "https://news.web.nhk/newsweb/na/nd-20261113de75685",
-        "https://news.web.nhk/newsweb/na/nd-20261113de75692",
-        "https://news.web.nhk/newsweb/na/nd-20261111de74081"
+        "https://news.web.nhk/newsweb/na/nd-20261113de75692"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/gta6-researcher-job-kalshi/",
         "https://www.gizmodo.jp/article/2611-flipper-zero-car-theft-hacking/",
         "https://www.gizmodo.jp/article/2611-nvidia-jensen-huang-return/",
         "https://www.gizmodo.jp/article/home-metal-3d-printer-snowpod/",
@@ -685,8 +686,7 @@
         "https://www.gizmodo.jp/article/2611-yamazakijirushi-slide-table/",
         "https://www.gizmodo.jp/article/2611-mdr-3r-usb-c-sony-headphones/",
         "https://www.gizmodo.jp/article/2611-gentle-monster-android-xr-smart-glasses/",
-        "https://www.gizmodo.jp/article/2611-jackery-explorer-100d-portable-power-station/",
-        "https://www.gizmodo.jp/article/2611-bluetooth-lossless-wireless-audio-hdt/"
+        "https://www.gizmodo.jp/article/2611-jackery-explorer-100d-portable-power-station/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "B77-rLsrSi8",
