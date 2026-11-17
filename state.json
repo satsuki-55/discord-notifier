@@ -83,6 +83,8 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo#0",
+        "https://www.bbc.co.uk/news/articles/cwq6e2qgvmlgo#1",
         "https://www.bbc.co.uk/news/articles/cm894x41jw54o#0",
         "https://www.bbc.co.uk/weather/articles/c6y97j2xq531o#0",
         "https://www.bbc.co.uk/news/articles/c6x284ez38vdo#1",
@@ -280,11 +282,11 @@
         "https://www.bbc.co.uk/news/videos/cmvg2nl8v22do#1",
         "https://www.bbc.co.uk/sport/football/articles/c933ge310n33o#1",
         "https://www.bbc.co.uk/news/articles/cx5y1pzr9604o#0",
-        "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro#0",
-        "https://www.bbc.co.uk/news/articles/cmwy83432q1jo#0",
-        "https://www.bbc.co.uk/sport/ice-hockey/articles/cqkgm0jgv4mdo#1"
+        "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261118de77487",
+        "https://news.web.nhk/newsweb/na/nd-20261117de77381",
         "https://news.web.nhk/newsweb/na/nd-20261118de77484",
         "https://news.web.nhk/newsweb/na/nd-20261118de77485",
         "https://news.web.nhk/newsweb/na/nd-20261118de77483",
@@ -482,9 +484,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261115de76224",
         "https://news.web.nhk/newsweb/na/nd-20261115de76223",
         "https://news.web.nhk/newsweb/na/nd-20261115de76218",
-        "https://news.web.nhk/newsweb/na/nd-20261115de76209",
-        "https://news.web.nhk/newsweb/na/nd-20261115de76187",
-        "https://news.web.nhk/newsweb/na/nd-20261115de76127"
+        "https://news.web.nhk/newsweb/na/nd-20261115de76209"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-rakuten-securities-unauthorized-access-security-settings/",
