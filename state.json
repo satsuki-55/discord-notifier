@@ -285,6 +285,7 @@
         "https://www.bbc.co.uk/news/articles/cm3rgx9p583zo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261117de76952",
         "https://news.web.nhk/newsweb/na/nd-20261117de76929",
         "https://news.web.nhk/newsweb/na/nd-20261117de76914",
         "https://news.web.nhk/newsweb/na/nd-20261117de76910",
@@ -483,8 +484,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261111de74081",
         "https://news.web.nhk/newsweb/na/nd-20261113de75690",
         "https://news.web.nhk/newsweb/na/nd-20261113de75696",
-        "https://news.web.nhk/newsweb/na/nd-20261113de75686",
-        "https://news.web.nhk/newsweb/na/nd-20261113de75644"
+        "https://news.web.nhk/newsweb/na/nd-20261113de75686"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/home-metal-3d-printer-snowpod/",
