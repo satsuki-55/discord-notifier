@@ -285,6 +285,7 @@
         "https://www.bbc.co.uk/news/articles/ck8790rrqx57o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261118de77702",
         "https://news.web.nhk/newsweb/na/nd-20261118de77693",
         "https://news.web.nhk/newsweb/na/nd-20261118de77656",
         "https://news.web.nhk/newsweb/na/nd-20261118de77691",
@@ -483,8 +484,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261116de76369",
         "https://news.web.nhk/newsweb/na/nd-20261028de67090",
         "https://news.web.nhk/newsweb/na/nd-20261028de67088",
-        "https://news.web.nhk/newsweb/na/nd-20261116de76344",
-        "https://news.web.nhk/newsweb/na/nd-20261116de76341"
+        "https://news.web.nhk/newsweb/na/nd-20261116de76344"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/spotify-scratch-diy-dj-gear/",
