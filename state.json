@@ -286,6 +286,8 @@
         "https://www.bbc.co.uk/news/articles/cry49plv8v3go#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261117de76882",
+        "https://news.web.nhk/newsweb/na/nd-20261118de78012",
         "https://news.web.nhk/newsweb/na/nd-20261119de78132",
         "https://news.web.nhk/newsweb/na/nd-20261119de78090",
         "https://news.web.nhk/newsweb/na/nd-20261119de78130",
@@ -483,11 +485,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261117de76894",
         "https://news.web.nhk/newsweb/na/nd-20261117de76886",
         "https://news.web.nhk/newsweb/na/nd-20261117de76870",
-        "https://news.web.nhk/newsweb/na/nd-20261117de76889",
-        "https://news.web.nhk/newsweb/na/nd-20261117de76888",
-        "https://news.web.nhk/newsweb/na/nd-20261117de76882"
+        "https://news.web.nhk/newsweb/na/nd-20261117de76889"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/keychron-c3-pro-trackball-chohayawari-last/",
         "https://www.gizmodo.jp/article/2611-infobar-zero/",
         "https://www.gizmodo.jp/article/2611-china-underwater-data-center/",
         "https://www.gizmodo.jp/article/manual-transmission_car_revival/",
@@ -686,8 +687,7 @@
         "https://www.gizmodo.jp/article/japan_trench_sea_spider_capsule/",
         "https://www.gizmodo.jp/article/adobe-mcp-integration-chatgpt-claude/",
         "https://www.gizmodo.jp/article/2611-at-2016blu-supernova-impostor/",
-        "https://www.gizmodo.jp/article/2611-muse-apple-watch-support/",
-        "https://www.gizmodo.jp/article/data-center_grid_cost_residents/"
+        "https://www.gizmodo.jp/article/2611-muse-apple-watch-support/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "B77-rLsrSi8",
