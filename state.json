@@ -83,6 +83,8 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cmy498kdkx3xo#0",
+        "https://www.bbc.co.uk/news/articles/cke89jevqm1vo#1",
         "https://www.bbc.co.uk/news/articles/cm752w35lkz3o#1",
         "https://www.bbc.co.uk/news/articles/c5vg23g92rj4o#1",
         "https://www.bbc.co.uk/news/videos/cm0l3z8gn67eo#1",
@@ -280,11 +282,11 @@
         "https://www.bbc.co.uk/news/articles/cq9vwkggpx73o#1",
         "https://www.bbc.co.uk/news/articles/cmr4gxvrxd9yo#0",
         "https://www.bbc.co.uk/news/articles/cq9vwkggpx73o#0",
-        "https://www.bbc.co.uk/news/articles/cqp83nk673reo#0",
-        "https://www.bbc.co.uk/news/articles/c8y5x3n4kywpo#1",
-        "https://www.bbc.co.uk/news/articles/cm20vexye1d0o#0"
+        "https://www.bbc.co.uk/news/articles/cqp83nk673reo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261116de76367",
+        "https://news.web.nhk/newsweb/na/nd-20261118de77750",
         "https://news.web.nhk/newsweb/na/nd-20261028de67093",
         "https://news.web.nhk/newsweb/na/nd-20261118de77737",
         "https://news.web.nhk/newsweb/na/nd-20261116de76369",
@@ -482,9 +484,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261116de76429",
         "https://news.web.nhk/newsweb/na/nd-20261116de76445",
         "https://news.web.nhk/newsweb/na/nd-20261116de76420",
-        "https://news.web.nhk/newsweb/na/nd-20261116de76382",
-        "https://news.web.nhk/newsweb/na/nd-20261116de76353",
-        "https://news.web.nhk/newsweb/na/nd-20261116de76367"
+        "https://news.web.nhk/newsweb/na/nd-20261116de76382"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-aladdin-gas-toaster/",
