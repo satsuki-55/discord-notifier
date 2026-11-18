@@ -84,6 +84,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/videos/cqp86k23d84ro#1",
         "https://www.bbc.co.uk/news/videos/c6x2ev29v87no#1",
         "https://www.bbc.co.uk/news/articles/cm87987w1qz5o#0",
         "https://www.bbc.co.uk/news/articles/cq4gn3109pzgo#2",
@@ -282,10 +283,10 @@
         "https://www.bbc.co.uk/weather/articles/cke8rr37lrryo#0",
         "https://www.bbc.co.uk/news/articles/cwx2ev0pxmvjo#0",
         "https://www.bbc.co.uk/news/articles/c6rrgw2p52l5o#1",
-        "https://www.bbc.co.uk/news/articles/cwx2ev0pxmvjo#1",
-        "https://www.bbc.co.uk/news/videos/cmd91xjd9zk2o#0"
+        "https://www.bbc.co.uk/news/articles/cwx2ev0pxmvjo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261118de77979",
         "https://news.web.nhk/newsweb/na/nd-20261118de77873",
         "https://news.web.nhk/newsweb/na/nd-20261117de76937",
         "https://news.web.nhk/newsweb/na/nd-20261118de77914",
@@ -484,8 +485,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261116de76642",
         "https://news.web.nhk/newsweb/na/nd-20261116de76647",
         "https://news.web.nhk/newsweb/na/nd-20261116de76620",
-        "https://news.web.nhk/newsweb/na/nd-20261028de67091",
-        "https://news.web.nhk/newsweb/na/nd-20261116de76596"
+        "https://news.web.nhk/newsweb/na/nd-20261028de67091"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-shure-gizmodo-movie-theater-sound-event/",
