@@ -84,6 +84,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cm9q8jx05q3go#1",
         "https://www.bbc.co.uk/news/articles/c8n50457edd4o#1",
         "https://www.bbc.co.uk/news/articles/cj62p66zl6kyo#1",
         "https://www.bbc.co.uk/news/articles/c3vg24wpg040o#1",
@@ -282,10 +283,11 @@
         "https://www.bbc.co.uk/news/videos/cmd91xjd9zk2o#0",
         "https://www.bbc.co.uk/news/articles/c5n4exg1kkmyo#0",
         "https://www.bbc.co.uk/news/articles/cw5y1v8de35go#0",
-        "https://www.bbc.co.uk/news/articles/c5n4exg1kkmyo#1",
-        "https://www.bbc.co.uk/news/articles/c6rrgw2p52l5o#0"
+        "https://www.bbc.co.uk/news/articles/c5n4exg1kkmyo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261118de77850",
+        "https://news.web.nhk/newsweb/na/nd-20261116de76419",
         "https://news.web.nhk/newsweb/na/nd-20261118de77844",
         "https://news.web.nhk/newsweb/na/nd-20261118de77895",
         "https://news.web.nhk/newsweb/na/nd-20261118de77871",
@@ -483,9 +485,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261116de76590",
         "https://news.web.nhk/newsweb/na/nd-20261116de76518",
         "https://news.web.nhk/newsweb/na/nd-20261116de76562",
-        "https://news.web.nhk/newsweb/na/nd-20261116de76531",
-        "https://news.web.nhk/newsweb/na/nd-20261116de76430",
-        "https://news.web.nhk/newsweb/na/nd-20261116de76514"
+        "https://news.web.nhk/newsweb/na/nd-20261116de76531"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-andobil-magsafe-smartphone-ring/",
