@@ -285,6 +285,7 @@
         "https://www.bbc.co.uk/news/articles/cq9vwkggpx73o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261118de77768",
         "https://news.web.nhk/newsweb/na/nd-20261118de77690",
         "https://news.web.nhk/newsweb/na/nd-20261118de77720",
         "https://news.web.nhk/newsweb/na/nd-20261118de77756",
@@ -483,10 +484,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261116de76469",
         "https://news.web.nhk/newsweb/na/nd-20261112de75073",
         "https://news.web.nhk/newsweb/na/nd-20261116de76402",
-        "https://news.web.nhk/newsweb/na/nd-20261116de76466",
-        "https://news.web.nhk/newsweb/na/nd-20261116de76453"
+        "https://news.web.nhk/newsweb/na/nd-20261116de76466"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2611-arnis-minecraft-real-world-generator/",
         "https://www.gizmodo.jp/article/2611-aladdin-gas-toaster/",
         "https://www.gizmodo.jp/article/2611-suica-penguin-successor/",
         "https://www.gizmodo.jp/article/ai-robot_fr-nia/",
@@ -685,8 +686,7 @@
         "https://www.gizmodo.jp/article/2611-line-agent-i-app/",
         "https://www.gizmodo.jp/article/apples-new-ceo-is-reportedly-pushing-to-stuff-more-ai-into-iphones/",
         "https://www.gizmodo.jp/article/2611-anthropic-ipo-nasdaq-valuation/",
-        "https://www.gizmodo.jp/article/2611-switch-dl-present-feature/",
-        "https://www.gizmodo.jp/article/mont-bell-handy-scale-5hef/"
+        "https://www.gizmodo.jp/article/2611-switch-dl-present-feature/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "B77-rLsrSi8",
