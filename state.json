@@ -83,6 +83,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c5y4j7z373kzo#1",
         "https://www.bbc.co.uk/news/articles/cmy86pp336qlo#0",
         "https://www.bbc.co.uk/news/articles/cm5y1eejk292o#0",
         "https://www.bbc.co.uk/news/articles/cqjd7n37r2r9o#0",
@@ -281,10 +282,10 @@
         "https://www.bbc.co.uk/news/articles/ck8790rrqx57o#1",
         "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo#0",
         "https://www.bbc.co.uk/news/articles/c98r7xyjx8g4o#0",
-        "https://www.bbc.co.uk/weather/articles/c6pvg22k2w2do#0",
-        "https://www.bbc.co.uk/news/articles/cr0qj0nzwj34o#0"
+        "https://www.bbc.co.uk/weather/articles/c6pvg22k2w2do#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261118de77643",
         "https://news.web.nhk/newsweb/na/nd-20261118de77627",
         "https://news.web.nhk/newsweb/na/nd-20261118de77610",
         "https://news.web.nhk/newsweb/na/nd-20261118de77529",
@@ -483,8 +484,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261115de76312",
         "https://news.web.nhk/newsweb/na/nd-20261116de76328",
         "https://news.web.nhk/newsweb/na/nd-20261115de76292",
-        "https://news.web.nhk/newsweb/na/nd-20261116de76325",
-        "https://news.web.nhk/newsweb/na/nd-20261115de76282"
+        "https://news.web.nhk/newsweb/na/nd-20261116de76325"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-gta6-release-uk-leave/",
