@@ -286,6 +286,7 @@
         "https://www.bbc.co.uk/news/articles/c30rk8x5g80qo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261118de78047",
         "https://news.web.nhk/newsweb/na/nd-20261118de78044",
         "https://news.web.nhk/newsweb/na/nd-20261118de78046",
         "https://news.web.nhk/newsweb/na/nd-20261118de78043",
@@ -484,8 +485,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261116de76825",
         "https://news.web.nhk/newsweb/na/nd-20261116de76828",
         "https://news.web.nhk/newsweb/na/nd-20261116de76812",
-        "https://news.web.nhk/newsweb/na/nd-20261116de76806",
-        "https://news.web.nhk/newsweb/na/nd-20261116de76817"
+        "https://news.web.nhk/newsweb/na/nd-20261116de76806"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/manual-transmission_car_revival/",
