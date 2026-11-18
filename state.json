@@ -285,6 +285,7 @@
         "https://www.bbc.co.uk/news/articles/cm15e3xg9njeo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261118de77800",
         "https://news.web.nhk/newsweb/na/nd-20261118de77726",
         "https://news.web.nhk/newsweb/na/nd-20261118de77740",
         "https://news.web.nhk/newsweb/na/nd-20261118de77768",
@@ -483,8 +484,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261116de76473",
         "https://news.web.nhk/newsweb/na/nd-20261116de76487",
         "https://news.web.nhk/newsweb/na/nd-20261116de76437",
-        "https://news.web.nhk/newsweb/na/nd-20261116de76469",
-        "https://news.web.nhk/newsweb/na/nd-20261112de75073"
+        "https://news.web.nhk/newsweb/na/nd-20261116de76469"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/xiaomi-18-pro/",
