@@ -285,6 +285,7 @@
         "https://www.bbc.co.uk/news/articles/cj04w7n74gqno#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261118de77710",
         "https://news.web.nhk/newsweb/na/nd-20261118de77725",
         "https://news.web.nhk/newsweb/na/nd-20261116de76344",
         "https://news.web.nhk/newsweb/na/nd-20261118de77522",
@@ -483,8 +484,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261116de76367",
         "https://news.web.nhk/newsweb/na/nd-20261116de76383",
         "https://news.web.nhk/newsweb/na/nd-20261116de76371",
-        "https://news.web.nhk/newsweb/na/nd-20261116de76349",
-        "https://news.web.nhk/newsweb/na/nd-20261116de76369"
+        "https://news.web.nhk/newsweb/na/nd-20261116de76349"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/ai-robot_fr-nia/",
