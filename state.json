@@ -285,6 +285,7 @@
         "https://www.bbc.co.uk/news/articles/cw987343352go#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261118de77511",
         "https://news.web.nhk/newsweb/na/nd-20261118de77501",
         "https://news.web.nhk/newsweb/na/nd-20261118de77503",
         "https://news.web.nhk/newsweb/na/nd-20261118de77502",
@@ -483,8 +484,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261115de76227",
         "https://news.web.nhk/newsweb/na/nd-20261115de76100",
         "https://news.web.nhk/newsweb/na/nd-20261115de76096",
-        "https://news.web.nhk/newsweb/na/nd-20261115de76099",
-        "https://news.web.nhk/newsweb/na/nd-20261115de76094"
+        "https://news.web.nhk/newsweb/na/nd-20261115de76099"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-jensen-huang-nvidia-return-petition/",
