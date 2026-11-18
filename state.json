@@ -83,6 +83,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c3vg24wpg040o#0",
         "https://www.bbc.co.uk/news/articles/c6pw42ldpgn1o#0",
         "https://www.bbc.co.uk/news/articles/c5vg23g92rj4o#0",
         "https://www.bbc.co.uk/news/articles/cm0evw0d2wq4o#0",
@@ -281,10 +282,10 @@
         "https://www.bbc.co.uk/news/articles/cqjd7n37r2r9o#0",
         "https://www.bbc.co.uk/news/articles/cry49plv8v3go#0",
         "https://www.bbc.co.uk/news/articles/cxzd9171m51qo#0",
-        "https://www.bbc.co.uk/news/articles/cw987343352go#0",
-        "https://www.bbc.co.uk/news/articles/c8y5x3n4kywpo#0"
+        "https://www.bbc.co.uk/news/articles/cw987343352go#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261118de77501",
         "https://news.web.nhk/newsweb/na/nd-20261118de77503",
         "https://news.web.nhk/newsweb/na/nd-20261118de77502",
         "https://news.web.nhk/newsweb/na/nd-20261118de77491",
@@ -483,8 +484,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261115de76100",
         "https://news.web.nhk/newsweb/na/nd-20261115de76096",
         "https://news.web.nhk/newsweb/na/nd-20261115de76099",
-        "https://news.web.nhk/newsweb/na/nd-20261115de76094",
-        "https://news.web.nhk/newsweb/na/nd-20261115de76188"
+        "https://news.web.nhk/newsweb/na/nd-20261115de76094"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/kawasaki-hydrogen-gas-turbine-germany/",
