@@ -286,6 +286,7 @@
         "https://www.bbc.co.uk/news/articles/cwx2ev0pxmvjo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261118de77949",
         "https://news.web.nhk/newsweb/na/nd-20261118de77513",
         "https://news.web.nhk/newsweb/na/nd-20261118de77979",
         "https://news.web.nhk/newsweb/na/nd-20261118de77873",
@@ -484,8 +485,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261116de76688",
         "https://news.web.nhk/newsweb/na/nd-20261116de76603",
         "https://news.web.nhk/newsweb/na/nd-20261116de76642",
-        "https://news.web.nhk/newsweb/na/nd-20261116de76647",
-        "https://news.web.nhk/newsweb/na/nd-20261116de76620"
+        "https://news.web.nhk/newsweb/na/nd-20261116de76647"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-shure-gizmodo-movie-theater-sound-event/",
