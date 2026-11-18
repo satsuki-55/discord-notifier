@@ -286,6 +286,7 @@
         "https://www.bbc.co.uk/news/articles/cmg46y7wev42o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261118de77959",
         "https://news.web.nhk/newsweb/na/nd-20261118de77980",
         "https://news.web.nhk/newsweb/na/nd-20261118de77988",
         "https://news.web.nhk/newsweb/na/nd-20261118de77997",
@@ -484,8 +485,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261116de76731",
         "https://news.web.nhk/newsweb/na/nd-20261116de76709",
         "https://news.web.nhk/newsweb/na/nd-20261116de76627",
-        "https://news.web.nhk/newsweb/na/nd-20261116de76659",
-        "https://news.web.nhk/newsweb/na/nd-20261116de76688"
+        "https://news.web.nhk/newsweb/na/nd-20261116de76659"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/gta6-free-pc-malware-warning/",
