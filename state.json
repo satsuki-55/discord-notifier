@@ -84,6 +84,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/videos/c6wy0j1xeypqo#0",
         "https://www.bbc.co.uk/news/articles/cqj3kelenm0do#0",
         "https://www.bbc.co.uk/news/articles/cm0rknk0pgdpo#1",
         "https://www.bbc.co.uk/news/articles/cm4gn9xnn1ppo#1",
@@ -282,8 +283,7 @@
         "https://www.bbc.co.uk/news/articles/cw62p42p288do#1",
         "https://www.bbc.co.uk/news/articles/c820vnln2lzpo#0",
         "https://www.bbc.co.uk/news/articles/cwn83gxemk35o#0",
-        "https://www.bbc.co.uk/news/articles/cj752wvqneq6o#0",
-        "https://www.bbc.co.uk/news/articles/cm4gnlz2p61ko#1"
+        "https://www.bbc.co.uk/news/articles/cj752wvqneq6o#0"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20261118de77959",
@@ -488,6 +488,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261116de76659"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/gxfab/",
         "https://www.gizmodo.jp/article/gta6-free-pc-malware-warning/",
         "https://www.gizmodo.jp/article/2611-trump-admin-strengthens-ai-chip-export-controls-china/",
         "https://www.gizmodo.jp/article/bose-noise-cancelling-wired-earbuds-review/",
@@ -686,8 +687,7 @@
         "https://www.gizmodo.jp/article/2611-adobe-max-2026-mcp-ai-agent/",
         "https://www.gizmodo.jp/article/chrome-security-patch-nov-2026/",
         "https://www.gizmodo.jp/article/2611-delonghi-oil-heater-amazon-sale/",
-        "https://www.gizmodo.jp/article/boox-picco/",
-        "https://www.gizmodo.jp/article/2611-windows11-paint-vulnerability/"
+        "https://www.gizmodo.jp/article/boox-picco/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "B77-rLsrSi8",
