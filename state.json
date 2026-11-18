@@ -286,6 +286,7 @@
         "https://www.bbc.co.uk/news/articles/cw62p42p288do#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261116de76627",
         "https://news.web.nhk/newsweb/na/nd-20261118de77941",
         "https://news.web.nhk/newsweb/na/nd-20261118de78017",
         "https://news.web.nhk/newsweb/na/nd-20261118de77959",
@@ -484,8 +485,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261116de76744",
         "https://news.web.nhk/newsweb/na/nd-20261116de76758",
         "https://news.web.nhk/newsweb/na/nd-20261116de76754",
-        "https://news.web.nhk/newsweb/na/nd-20261116de76731",
-        "https://news.web.nhk/newsweb/na/nd-20261116de76709"
+        "https://news.web.nhk/newsweb/na/nd-20261116de76731"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-2-8-million-eels-gathered-deep-sea-seamount/",
