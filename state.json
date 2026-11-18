@@ -83,6 +83,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/videos/cm0l3z8gn67eo#1",
         "https://www.bbc.co.uk/news/articles/cqev3v2ygzlvo#0",
         "https://www.bbc.co.uk/news/articles/cm752w35lkz3o#0",
         "https://www.bbc.co.uk/news/articles/cmy86pp336qlo#1",
@@ -281,10 +282,10 @@
         "https://www.bbc.co.uk/news/articles/c8y5x3n4kywpo#1",
         "https://www.bbc.co.uk/news/articles/cm20vexye1d0o#0",
         "https://www.bbc.co.uk/news/articles/cm20vexye1d0o#1",
-        "https://www.bbc.co.uk/news/articles/ck1exevgql4qo#0",
-        "https://www.bbc.co.uk/news/articles/cj04w7n74gqno#1"
+        "https://www.bbc.co.uk/news/articles/ck1exevgql4qo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261116de76369",
         "https://news.web.nhk/newsweb/na/nd-20261118de77710",
         "https://news.web.nhk/newsweb/na/nd-20261118de77725",
         "https://news.web.nhk/newsweb/na/nd-20261116de76344",
@@ -483,10 +484,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261116de76353",
         "https://news.web.nhk/newsweb/na/nd-20261116de76367",
         "https://news.web.nhk/newsweb/na/nd-20261116de76383",
-        "https://news.web.nhk/newsweb/na/nd-20261116de76371",
-        "https://news.web.nhk/newsweb/na/nd-20261116de76349"
+        "https://news.web.nhk/newsweb/na/nd-20261116de76371"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2611-suica-penguin-successor/",
         "https://www.gizmodo.jp/article/ai-robot_fr-nia/",
         "https://www.gizmodo.jp/article/spotify-scratch-diy-dj-gear/",
         "https://www.gizmodo.jp/article/2611-aina-ring-ai-smart-ring/",
@@ -685,8 +686,7 @@
         "https://www.gizmodo.jp/article/2611-anthropic-ipo-nasdaq-valuation/",
         "https://www.gizmodo.jp/article/2611-switch-dl-present-feature/",
         "https://www.gizmodo.jp/article/mont-bell-handy-scale-5hef/",
-        "https://www.gizmodo.jp/article/2611-keychron-q19-he-8k-review/",
-        "https://www.gizmodo.jp/article/2611-anthropic-claude-5-2-ai-os-black-hole/"
+        "https://www.gizmodo.jp/article/2611-keychron-q19-he-8k-review/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "B77-rLsrSi8",
