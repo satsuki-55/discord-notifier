@@ -285,6 +285,8 @@
         "https://www.bbc.co.uk/news/articles/c51k9nkwrndxo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261118de77610",
+        "https://news.web.nhk/newsweb/na/nd-20261118de77529",
         "https://news.web.nhk/newsweb/na/nd-20261118de77556",
         "https://news.web.nhk/newsweb/na/nd-20261118de77517",
         "https://news.web.nhk/newsweb/na/nd-20261118de77569",
@@ -482,11 +484,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261115de76292",
         "https://news.web.nhk/newsweb/na/nd-20261116de76325",
         "https://news.web.nhk/newsweb/na/nd-20261115de76282",
-        "https://news.web.nhk/newsweb/na/nd-20261115de76245",
-        "https://news.web.nhk/newsweb/na/nd-20261116de76327",
-        "https://news.web.nhk/newsweb/na/nd-20261115de76311"
+        "https://news.web.nhk/newsweb/na/nd-20261115de76245"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/samsung_galaxy-studio_newheadphone/",
         "https://www.gizmodo.jp/article/2611-gpt-6-2-astra-release/",
         "https://www.gizmodo.jp/article/2611-retone-android-music-player/",
         "https://www.gizmodo.jp/article/2611-tesla-cybertruck-production-end/",
@@ -685,8 +686,7 @@
         "https://www.gizmodo.jp/article/deep-sea-fish-has-hair-ish-qczy/",
         "https://www.gizmodo.jp/article/2611-trump-ban-ai-super-intelligence/",
         "https://www.gizmodo.jp/article/2611-futon-jet-futon-dryer/",
-        "https://www.gizmodo.jp/article/2611-earth-second-moon-2026-qq8/",
-        "https://www.gizmodo.jp/article/ai_dating_efficiency_vs_intuition/"
+        "https://www.gizmodo.jp/article/2611-earth-second-moon-2026-qq8/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "B77-rLsrSi8",
