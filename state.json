@@ -285,6 +285,8 @@
         "https://www.bbc.co.uk/news/articles/c51k9nkwrndxo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261118de77569",
+        "https://news.web.nhk/newsweb/na/nd-20261118de77596",
         "https://news.web.nhk/newsweb/na/nd-20261118de77544",
         "https://news.web.nhk/newsweb/na/nd-20261118de77539",
         "https://news.web.nhk/newsweb/na/nd-20261118de77527",
@@ -482,9 +484,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261116de76327",
         "https://news.web.nhk/newsweb/na/nd-20261115de76311",
         "https://news.web.nhk/newsweb/na/nd-20261115de76267",
-        "https://news.web.nhk/newsweb/na/nd-20261115de76102",
-        "https://news.web.nhk/newsweb/na/nd-20261115de76103",
-        "https://news.web.nhk/newsweb/na/nd-20261115de76105"
+        "https://news.web.nhk/newsweb/na/nd-20261115de76102"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-gpt-6-2-astra-release/",
