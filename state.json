@@ -285,6 +285,7 @@
         "https://www.bbc.co.uk/news/articles/c98r7xyjx8g4o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261118de77672",
         "https://news.web.nhk/newsweb/na/nd-20261118de77677",
         "https://news.web.nhk/newsweb/na/nd-20261118de77680",
         "https://news.web.nhk/newsweb/na/nd-20261118de77578",
@@ -483,8 +484,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261115de76314",
         "https://news.web.nhk/newsweb/na/nd-20261116de76330",
         "https://news.web.nhk/newsweb/na/nd-20261115de76259",
-        "https://news.web.nhk/newsweb/na/nd-20261115de76258",
-        "https://news.web.nhk/newsweb/na/nd-20261115de76312"
+        "https://news.web.nhk/newsweb/na/nd-20261115de76258"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-aina-ring-ai-smart-ring/",
