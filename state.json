@@ -83,6 +83,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/ck792dez8dp3o#1",
         "https://www.bbc.co.uk/news/articles/c6x2ev38k4yno#1",
         "https://www.bbc.co.uk/news/articles/crwy4w381nlpo#0",
         "https://www.bbc.co.uk/news/articles/c6x2ev38k4yno#0",
@@ -281,10 +282,12 @@
         "https://www.bbc.co.uk/news/articles/ck79p0lev47po#0",
         "https://www.bbc.co.uk/news/articles/cw5y1v8de35go#1",
         "https://www.bbc.co.uk/news/videos/crkgvnl51w1vo#1",
-        "https://www.bbc.co.uk/news/articles/c574290jvk8wo#0",
-        "https://www.bbc.co.uk/news/articles/cm15e3xg9njeo#1"
+        "https://www.bbc.co.uk/news/articles/c574290jvk8wo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261118de77689",
+        "https://news.web.nhk/newsweb/na/nd-20261116de76437",
+        "https://news.web.nhk/newsweb/na/nd-20261118de77785",
         "https://news.web.nhk/newsweb/na/nd-20261118de77712",
         "https://news.web.nhk/newsweb/na/nd-20261118de77800",
         "https://news.web.nhk/newsweb/na/nd-20261118de77726",
@@ -481,10 +484,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261116de76514",
         "https://news.web.nhk/newsweb/na/nd-20261116de76419",
         "https://news.web.nhk/newsweb/na/nd-20261116de76498",
-        "https://news.web.nhk/newsweb/na/nd-20261116de76485",
-        "https://news.web.nhk/newsweb/na/nd-20261116de76473",
-        "https://news.web.nhk/newsweb/na/nd-20261116de76487",
-        "https://news.web.nhk/newsweb/na/nd-20261116de76437"
+        "https://news.web.nhk/newsweb/na/nd-20261116de76485"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/xiaomi-18-pro/",
