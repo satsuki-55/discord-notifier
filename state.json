@@ -286,6 +286,7 @@
         "https://www.bbc.co.uk/news/videos/c3j4r9jgkynzo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261119de78132",
         "https://news.web.nhk/newsweb/na/nd-20261119de78090",
         "https://news.web.nhk/newsweb/na/nd-20261119de78130",
         "https://news.web.nhk/newsweb/na/nd-20261119de78073",
@@ -484,8 +485,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261117de76870",
         "https://news.web.nhk/newsweb/na/nd-20261117de76889",
         "https://news.web.nhk/newsweb/na/nd-20261117de76888",
-        "https://news.web.nhk/newsweb/na/nd-20261117de76882",
-        "https://news.web.nhk/newsweb/na/nd-20261117de76883"
+        "https://news.web.nhk/newsweb/na/nd-20261117de76882"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-infobar-zero/",
