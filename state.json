@@ -84,6 +84,8 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c6m25vd2yxgdo#0",
+        "https://www.bbc.co.uk/sport/football/articles/cwvg2mxkd4x8o#2",
         "https://www.bbc.co.uk/news/articles/cm62y2e4qd9yo#0",
         "https://www.bbc.co.uk/news/articles/c9n70gd320mpo#2",
         "https://www.bbc.co.uk/news/videos/c6wy0j1xeypqo#1",
@@ -281,11 +283,10 @@
         "https://www.bbc.co.uk/news/articles/cqn83l442724o#1",
         "https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo#0",
         "https://www.bbc.co.uk/news/articles/c38xzy980924o#1",
-        "https://www.bbc.co.uk/news/articles/cmg46y7wev42o#0",
-        "https://www.bbc.co.uk/news/articles/c6m25vd2yxgdo#1",
-        "https://www.bbc.co.uk/news/articles/c6m25vd2yxgdo#0"
+        "https://www.bbc.co.uk/news/articles/cmg46y7wev42o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261118de77980",
         "https://news.web.nhk/newsweb/na/nd-20261118de77988",
         "https://news.web.nhk/newsweb/na/nd-20261118de77997",
         "https://news.web.nhk/newsweb/na/nd-20261118de77949",
@@ -484,10 +485,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261116de76709",
         "https://news.web.nhk/newsweb/na/nd-20261116de76627",
         "https://news.web.nhk/newsweb/na/nd-20261116de76659",
-        "https://news.web.nhk/newsweb/na/nd-20261116de76688",
-        "https://news.web.nhk/newsweb/na/nd-20261116de76603"
+        "https://news.web.nhk/newsweb/na/nd-20261116de76688"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/gta6-free-pc-malware-warning/",
         "https://www.gizmodo.jp/article/2611-trump-admin-strengthens-ai-chip-export-controls-china/",
         "https://www.gizmodo.jp/article/bose-noise-cancelling-wired-earbuds-review/",
         "https://www.gizmodo.jp/article/2610-shure-gizmodo-movie-theater-sound-event/",
@@ -686,8 +687,7 @@
         "https://www.gizmodo.jp/article/chrome-security-patch-nov-2026/",
         "https://www.gizmodo.jp/article/2611-delonghi-oil-heater-amazon-sale/",
         "https://www.gizmodo.jp/article/boox-picco/",
-        "https://www.gizmodo.jp/article/2611-windows11-paint-vulnerability/",
-        "https://www.gizmodo.jp/article/2611-apple-ios28-macos28-development-process/"
+        "https://www.gizmodo.jp/article/2611-windows11-paint-vulnerability/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "B77-rLsrSi8",
