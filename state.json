@@ -84,6 +84,14 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c8n50457edd4o#1",
+        "https://www.bbc.co.uk/news/articles/cj62p66zl6kyo#1",
+        "https://www.bbc.co.uk/news/articles/c3vg24wpg040o#1",
+        "https://www.bbc.co.uk/news/articles/crwy4w381nlpo#1",
+        "https://www.bbc.co.uk/news/articles/cm5y1eejk292o#1",
+        "https://www.bbc.co.uk/news/articles/cq4gn3109pzgo#1",
+        "https://www.bbc.co.uk/news/videos/cq62p73jjl90o#1",
+        "https://www.bbc.co.uk/news/articles/c5vg23g92rj4o#2",
         "https://www.bbc.co.uk/news/articles/ck792dez8dp3o#1",
         "https://www.bbc.co.uk/news/articles/c6x2ev38k4yno#1",
         "https://www.bbc.co.uk/news/articles/crwy4w381nlpo#0",
@@ -275,17 +283,10 @@
         "https://www.bbc.co.uk/news/articles/c5n4exg1kkmyo#0",
         "https://www.bbc.co.uk/news/articles/cw5y1v8de35go#0",
         "https://www.bbc.co.uk/news/articles/c5n4exg1kkmyo#1",
-        "https://www.bbc.co.uk/news/articles/c6rrgw2p52l5o#0",
-        "https://www.bbc.co.uk/news/videos/cmd91xjd9zk2o#1",
-        "https://www.bbc.co.uk/news/articles/crgqx11wkzy8o#1",
-        "https://www.bbc.co.uk/news/articles/cw987343352go#1",
-        "https://www.bbc.co.uk/news/articles/cm752wdrw0zqo#1",
-        "https://www.bbc.co.uk/news/articles/ck79p0lev47po#0",
-        "https://www.bbc.co.uk/news/articles/cw5y1v8de35go#1",
-        "https://www.bbc.co.uk/news/videos/crkgvnl51w1vo#1",
-        "https://www.bbc.co.uk/news/articles/c574290jvk8wo#0"
+        "https://www.bbc.co.uk/news/articles/c6rrgw2p52l5o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261118de77895",
         "https://news.web.nhk/newsweb/na/nd-20261118de77871",
         "https://news.web.nhk/newsweb/na/nd-20261118de77689",
         "https://news.web.nhk/newsweb/na/nd-20261116de76437",
@@ -484,8 +485,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261116de76531",
         "https://news.web.nhk/newsweb/na/nd-20261116de76430",
         "https://news.web.nhk/newsweb/na/nd-20261116de76514",
-        "https://news.web.nhk/newsweb/na/nd-20261116de76419",
-        "https://news.web.nhk/newsweb/na/nd-20261116de76498"
+        "https://news.web.nhk/newsweb/na/nd-20261116de76419"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-andobil-magsafe-smartphone-ring/",
