@@ -85,6 +85,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/crx20q8ql4gwo#0",
         "https://www.bbc.co.uk/news/articles/c6z74ep2n17zo#0",
         "https://www.bbc.co.uk/news/articles/cw1md5m39n35o#1",
         "https://www.bbc.co.uk/news/articles/c6vg2ljjpj32o#0",
@@ -283,8 +284,7 @@
         "https://www.bbc.co.uk/news/articles/cqlykve012d1o#0",
         "https://www.bbc.co.uk/news/articles/cq7825234lgmo#0",
         "https://www.bbc.co.uk/news/articles/cr868wd2qg18o#1",
-        "https://www.bbc.co.uk/news/videos/c6x2ev29v87no#0",
-        "https://www.bbc.co.uk/news/articles/crq5vlxxx32no#0"
+        "https://www.bbc.co.uk/news/videos/c6x2ev29v87no#0"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20261119de78693",
@@ -489,6 +489,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261117de77236"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2611-nvidia-ceo-jensen-taiwan-tpe101/",
         "https://www.gizmodo.jp/article/2611-bitcoin-miners-pivoting-to-ai-data-centers/",
         "https://www.gizmodo.jp/article/bikkuri-donkey-hamburger-robot-line/",
         "https://www.gizmodo.jp/article/2611-ai-datacenter-energy-consumption-fossil-fuels/",
@@ -687,8 +688,7 @@
         "https://www.gizmodo.jp/article/urbanoid-booba-wzs-ngf/",
         "https://www.gizmodo.jp/article/2611-nvidia-ceo-jensen-huang-successors/",
         "https://www.gizmodo.jp/article/deep-sea_sawtooth_peanut_worm/",
-        "https://www.gizmodo.jp/article/2611-anker-sleep-earbuds-4-pro/",
-        "https://www.gizmodo.jp/article/ai-rebounding_workers_hired_back/"
+        "https://www.gizmodo.jp/article/2611-anker-sleep-earbuds-4-pro/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "B77-rLsrSi8",
