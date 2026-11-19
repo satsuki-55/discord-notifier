@@ -85,6 +85,8 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c6qj5dl29zqro#0",
+        "https://www.bbc.co.uk/news/articles/cmwy8pyqlq5vo#1",
         "https://www.bbc.co.uk/news/articles/c6z74ep2n17zo#1",
         "https://www.bbc.co.uk/news/articles/cm9q84gp0gr3o#1",
         "https://www.bbc.co.uk/news/articles/crx20q8ql4gwo#0",
@@ -282,11 +284,10 @@
         "https://www.bbc.co.uk/news/articles/c9x2elzm047po#0",
         "https://www.bbc.co.uk/news/videos/cm0l3z8gn67eo#0",
         "https://www.bbc.co.uk/news/articles/c9vg2xgn0xe5o#0",
-        "https://www.bbc.co.uk/news/articles/cky97qpge70po#1",
-        "https://www.bbc.co.uk/news/articles/cqlykve012d1o#0",
-        "https://www.bbc.co.uk/news/articles/cq7825234lgmo#0"
+        "https://www.bbc.co.uk/news/articles/cky97qpge70po#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261119de78707",
         "https://news.web.nhk/newsweb/na/nd-20261119de78712",
         "https://news.web.nhk/newsweb/na/nd-20261119de78716",
         "https://news.web.nhk/newsweb/na/nd-20261119de78693",
@@ -485,10 +486,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261117de77296",
         "https://news.web.nhk/newsweb/na/nd-20261117de77257",
         "https://news.web.nhk/newsweb/na/nd-20261117de77103",
-        "https://news.web.nhk/newsweb/na/nd-20261117de77271",
-        "https://news.web.nhk/newsweb/na/nd-20261117de77274"
+        "https://news.web.nhk/newsweb/na/nd-20261117de77271"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/luca-sabbath_father-mother-sister-brother_interview/",
         "https://www.gizmodo.jp/article/2611-minimalight-play-wallet-leather-review/",
         "https://www.gizmodo.jp/article/2611-nvidia-ceo-jensen-taiwan-tpe101/",
         "https://www.gizmodo.jp/article/2611-bitcoin-miners-pivoting-to-ai-data-centers/",
@@ -687,8 +688,7 @@
         "https://www.gizmodo.jp/article/2611-openai-next-gen-cyber-ai-exploitgym/",
         "https://www.gizmodo.jp/article/2611-nvidia-ceo-jensen-huang-resigns/",
         "https://www.gizmodo.jp/article/urbanoid-booba-wzs-ngf/",
-        "https://www.gizmodo.jp/article/2611-nvidia-ceo-jensen-huang-successors/",
-        "https://www.gizmodo.jp/article/deep-sea_sawtooth_peanut_worm/"
+        "https://www.gizmodo.jp/article/2611-nvidia-ceo-jensen-huang-successors/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "B77-rLsrSi8",
