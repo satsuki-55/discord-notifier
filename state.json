@@ -85,6 +85,8 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cwz0k3172xzko#0",
+        "https://www.bbc.co.uk/news/articles/c3x29ggenz12o#1",
         "https://www.bbc.co.uk/news/articles/cqjd7n37r2r9o#0",
         "https://www.bbc.co.uk/news/articles/c3x29ggenz12o#0",
         "https://www.bbc.co.uk/news/articles/ck20w02v79qgo#0",
@@ -282,9 +284,7 @@
         "https://www.bbc.co.uk/news/articles/cj62p66zl6kyo#0",
         "https://www.bbc.co.uk/news/articles/c98r7xyjx8g4o#0",
         "https://www.bbc.co.uk/news/videos/cx1l0vm87yl9o#0",
-        "https://www.bbc.co.uk/news/articles/cke89jevqm1vo#0",
-        "https://www.bbc.co.uk/news/articles/c5y4j7z373kzo#1",
-        "https://www.bbc.co.uk/news/articles/cmy86pp336qlo#0"
+        "https://www.bbc.co.uk/news/articles/cke89jevqm1vo#0"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20261120de78746",
@@ -489,6 +489,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261117de77427"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2611-taco-ai-voice-remote-device/",
         "https://www.gizmodo.jp/article/2611-anthropic-ipo/",
         "https://www.gizmodo.jp/article/2611-ai-fighter-jet-x-bat-vertical-takeoff/",
         "https://www.gizmodo.jp/article/luca-sabbath_father-mother-sister-brother_interview/",
@@ -687,8 +688,7 @@
         "https://www.gizmodo.jp/article/2611-suica-walk-through-ticket-gate/",
         "https://www.gizmodo.jp/article/gemini_apple_carplay/",
         "https://www.gizmodo.jp/article/2611-huawei-qingyun-hm650-harmonyos/",
-        "https://www.gizmodo.jp/article/2611-openai-next-gen-cyber-ai-exploitgym/",
-        "https://www.gizmodo.jp/article/2611-nvidia-ceo-jensen-huang-resigns/"
+        "https://www.gizmodo.jp/article/2611-openai-next-gen-cyber-ai-exploitgym/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "5LqyN2uMHog",
