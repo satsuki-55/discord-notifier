@@ -286,6 +286,7 @@
         "https://www.bbc.co.uk/news/articles/crz9dgz28zwdo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261119de78261",
         "https://news.web.nhk/newsweb/na/nd-20261119de78267",
         "https://news.web.nhk/newsweb/na/nd-20261119de78233",
         "https://news.web.nhk/newsweb/na/nd-20261119de78229",
@@ -484,10 +485,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261117de76903",
         "https://news.web.nhk/newsweb/na/nd-20261117de76907",
         "https://news.web.nhk/newsweb/na/nd-20261117de76901",
-        "https://news.web.nhk/newsweb/na/nd-20261117de76905",
-        "https://news.web.nhk/newsweb/na/nd-20261117de76904"
+        "https://news.web.nhk/newsweb/na/nd-20261117de76905"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2611-amazon-black-friday-2024-sale-dates/",
         "https://www.gizmodo.jp/article/2611-anker-maggo-power-bank-2-pro/",
         "https://www.gizmodo.jp/article/2611-switchbot-robot-vacuum-cleaner-s30/",
         "https://www.gizmodo.jp/article/2611-ai-data-center-location-tradeoffs/",
@@ -686,8 +687,7 @@
         "https://www.gizmodo.jp/article/ai-ceo-impersonation-fraud-200-billion/",
         "https://www.gizmodo.jp/article/2611-m6-imac-neo-and-pro/",
         "https://www.gizmodo.jp/article/supernova_images-c5i-lrt/",
-        "https://www.gizmodo.jp/article/2611-x-app-video-clipping-feature/",
-        "https://www.gizmodo.jp/article/tapo-c665g-kit-4g-security-camera/"
+        "https://www.gizmodo.jp/article/2611-x-app-video-clipping-feature/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "B77-rLsrSi8",
