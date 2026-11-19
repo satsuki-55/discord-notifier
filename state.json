@@ -84,6 +84,8 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c5dj1dkwzvzwo#0",
+        "https://www.bbc.co.uk/news/articles/cq20xg80ly47o#1",
         "https://www.bbc.co.uk/news/videos/cmx2ryw97x4go#0",
         "https://www.bbc.co.uk/news/articles/ckx28le8dv9wo#0",
         "https://www.bbc.co.uk/news/articles/c6e9kn15z9d7o#1",
@@ -281,11 +283,10 @@
         "https://www.bbc.co.uk/news/articles/cvglr977x3z0o#0",
         "https://www.bbc.co.uk/news/articles/cm93080xj8xgo#2",
         "https://www.bbc.co.uk/news/articles/c6x2wnz3k7lno#1",
-        "https://www.bbc.co.uk/sport/football/articles/cx1l0n3v003eo#2",
-        "https://www.bbc.co.uk/news/articles/c5y4j7z373kzo#2",
-        "https://www.bbc.co.uk/news/articles/cm3wgejy5qq8o#1"
+        "https://www.bbc.co.uk/sport/football/articles/cx1l0n3v003eo#2"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261119de78146",
         "https://news.web.nhk/newsweb/na/nd-20261119de78144",
         "https://news.web.nhk/newsweb/na/nd-20261117de76882",
         "https://news.web.nhk/newsweb/na/nd-20261118de78012",
@@ -484,8 +485,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261117de76896",
         "https://news.web.nhk/newsweb/na/nd-20261116de76789",
         "https://news.web.nhk/newsweb/na/nd-20261117de76894",
-        "https://news.web.nhk/newsweb/na/nd-20261117de76886",
-        "https://news.web.nhk/newsweb/na/nd-20261117de76870"
+        "https://news.web.nhk/newsweb/na/nd-20261117de76886"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/google-cyber-defense-ai-japan/",
