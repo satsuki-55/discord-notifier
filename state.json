@@ -287,6 +287,7 @@
         "https://www.bbc.co.uk/news/articles/c8x2r6gyy2pzo#2"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261119de78589",
         "https://news.web.nhk/newsweb/na/nd-20261119de78555",
         "https://news.web.nhk/newsweb/na/nd-20261119de78535",
         "https://news.web.nhk/newsweb/na/nd-20261119de78167",
@@ -485,8 +486,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261117de77106",
         "https://news.web.nhk/newsweb/na/nd-20261117de77094",
         "https://news.web.nhk/newsweb/na/nd-20261117de77079",
-        "https://news.web.nhk/newsweb/na/nd-20261117de76932",
-        "https://news.web.nhk/newsweb/na/nd-20261117de77076"
+        "https://news.web.nhk/newsweb/na/nd-20261117de76932"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-ninja-soupi-auto-soup-maker/",
