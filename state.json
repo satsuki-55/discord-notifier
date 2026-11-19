@@ -286,6 +286,7 @@
         "https://www.bbc.co.uk/news/articles/crz9dgz28zwdo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261119de78296",
         "https://news.web.nhk/newsweb/na/nd-20261119de78261",
         "https://news.web.nhk/newsweb/na/nd-20261119de78267",
         "https://news.web.nhk/newsweb/na/nd-20261119de78233",
@@ -484,8 +485,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261117de76912",
         "https://news.web.nhk/newsweb/na/nd-20261117de76903",
         "https://news.web.nhk/newsweb/na/nd-20261117de76907",
-        "https://news.web.nhk/newsweb/na/nd-20261117de76901",
-        "https://news.web.nhk/newsweb/na/nd-20261117de76905"
+        "https://news.web.nhk/newsweb/na/nd-20261117de76901"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-jr-east-shinkansen-drone-inspection/",
