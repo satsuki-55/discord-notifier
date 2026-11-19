@@ -287,6 +287,7 @@
         "https://www.bbc.co.uk/news/videos/cmlywvww3pzlo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261119de78674",
         "https://news.web.nhk/newsweb/na/nd-20261119de78662",
         "https://news.web.nhk/newsweb/na/nd-20261119de78663",
         "https://news.web.nhk/newsweb/na/nd-20261119de78668",
@@ -485,8 +486,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261117de77215",
         "https://news.web.nhk/newsweb/na/nd-20261117de77236",
         "https://news.web.nhk/newsweb/na/nd-20261117de77253",
-        "https://news.web.nhk/newsweb/na/nd-20261117de77251",
-        "https://news.web.nhk/newsweb/na/nd-20261117de77074"
+        "https://news.web.nhk/newsweb/na/nd-20261117de77251"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-ai-datacenter-energy-consumption-fossil-fuels/",
