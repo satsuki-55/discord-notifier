@@ -84,6 +84,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c920xgxp5785o#0",
         "https://www.bbc.co.uk/news/videos/c6j9m19llmv3o#1",
         "https://www.bbc.co.uk/news/articles/c6e9kn15z9d7o#0",
         "https://www.bbc.co.uk/news/articles/cmwy8pgj2z8vo#1",
@@ -282,10 +283,10 @@
         "https://www.bbc.co.uk/sport/football/articles/cx1l0n3v003eo#1",
         "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo#1",
         "https://www.bbc.co.uk/news/videos/cmlywvww3pzlo#2",
-        "https://www.bbc.co.uk/news/articles/c8x2r6gyy2pzo#2",
-        "https://www.bbc.co.uk/news/articles/cw3djdjk5d7ko#2"
+        "https://www.bbc.co.uk/news/articles/c8x2r6gyy2pzo#2"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261119de78555",
         "https://news.web.nhk/newsweb/na/nd-20261119de78535",
         "https://news.web.nhk/newsweb/na/nd-20261119de78167",
         "https://news.web.nhk/newsweb/na/nd-20261119de78471",
@@ -484,10 +485,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261117de77094",
         "https://news.web.nhk/newsweb/na/nd-20261117de77079",
         "https://news.web.nhk/newsweb/na/nd-20261117de76932",
-        "https://news.web.nhk/newsweb/na/nd-20261117de77076",
-        "https://news.web.nhk/newsweb/na/nd-20261117de77069"
+        "https://news.web.nhk/newsweb/na/nd-20261117de77076"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2611-ninja-soupi-auto-soup-maker/",
         "https://www.gizmodo.jp/article/citizen-attesa-hazy/",
         "https://www.gizmodo.jp/article/2611-solar-powered-garden-shed-os1/",
         "https://www.gizmodo.jp/article/3coins_slide_outlet_holder/",
@@ -686,8 +687,7 @@
         "https://www.gizmodo.jp/article/2611-eu-tiktok-recommendation-dsa/",
         "https://www.gizmodo.jp/article/2611-line-message-yoyaku/",
         "https://www.gizmodo.jp/article/2611-ring-robotics-home-security-drone-rover/",
-        "https://www.gizmodo.jp/article/2611-iwatani-marudan-plus/",
-        "https://www.gizmodo.jp/article/2611-dq-sound-card-case/"
+        "https://www.gizmodo.jp/article/2611-iwatani-marudan-plus/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "B77-rLsrSi8",
