@@ -287,6 +287,8 @@
         "https://www.bbc.co.uk/news/articles/crq5vlxxx32no#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261119de78693",
+        "https://news.web.nhk/newsweb/na/nd-20261119de78697",
         "https://news.web.nhk/newsweb/na/nd-20261119de78674",
         "https://news.web.nhk/newsweb/na/nd-20261119de78662",
         "https://news.web.nhk/newsweb/na/nd-20261119de78663",
@@ -484,9 +486,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261117de77271",
         "https://news.web.nhk/newsweb/na/nd-20261117de77274",
         "https://news.web.nhk/newsweb/na/nd-20261117de77215",
-        "https://news.web.nhk/newsweb/na/nd-20261117de77236",
-        "https://news.web.nhk/newsweb/na/nd-20261117de77253",
-        "https://news.web.nhk/newsweb/na/nd-20261117de77251"
+        "https://news.web.nhk/newsweb/na/nd-20261117de77236"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-bitcoin-miners-pivoting-to-ai-data-centers/",
