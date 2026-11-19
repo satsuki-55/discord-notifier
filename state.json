@@ -287,6 +287,7 @@
         "https://www.bbc.co.uk/news/videos/cmlywvww3pzlo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261119de78660",
         "https://news.web.nhk/newsweb/na/nd-20261119de78655",
         "https://news.web.nhk/newsweb/na/nd-20261119de78423",
         "https://news.web.nhk/newsweb/na/nd-20261119de78644",
@@ -485,10 +486,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261117de77074",
         "https://news.web.nhk/newsweb/na/nd-20261117de77212",
         "https://news.web.nhk/newsweb/na/nd-20261117de77219",
-        "https://news.web.nhk/newsweb/na/nd-20261117de77205",
-        "https://news.web.nhk/newsweb/na/nd-20261117de77170"
+        "https://news.web.nhk/newsweb/na/nd-20261117de77205"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2611-ai-datacenter-energy-consumption-fossil-fuels/",
         "https://www.gizmodo.jp/article/2611-eu-election-deepfake-ai-rules/",
         "https://www.gizmodo.jp/article/2611-amazon-leo-satellite-launch-failure/",
         "https://www.gizmodo.jp/article/2611-ninja-soupi-auto-soup-maker/",
@@ -687,8 +688,7 @@
         "https://www.gizmodo.jp/article/2611-anker-sleep-earbuds-4-pro/",
         "https://www.gizmodo.jp/article/ai-rebounding_workers_hired_back/",
         "https://www.gizmodo.jp/article/macbook-pro_oled_review/",
-        "https://www.gizmodo.jp/article/2611-eu-tiktok-recommendation-dsa/",
-        "https://www.gizmodo.jp/article/2611-line-message-yoyaku/"
+        "https://www.gizmodo.jp/article/2611-eu-tiktok-recommendation-dsa/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "B77-rLsrSi8",
