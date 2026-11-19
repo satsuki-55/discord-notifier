@@ -287,6 +287,8 @@
         "https://www.bbc.co.uk/news/articles/crkgvxxwpwz2o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261117de77395",
+        "https://news.web.nhk/newsweb/na/nd-20261120de78749",
         "https://news.web.nhk/newsweb/na/nd-20261120de78758",
         "https://news.web.nhk/newsweb/na/nd-20261120de78759",
         "https://news.web.nhk/newsweb/na/nd-20261120de78735",
@@ -484,9 +486,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261117de77405",
         "https://news.web.nhk/newsweb/na/nd-20261117de77422",
         "https://news.web.nhk/newsweb/na/nd-20261117de77414",
-        "https://news.web.nhk/newsweb/na/nd-20261117de77418",
-        "https://news.web.nhk/newsweb/na/nd-20261117de77397",
-        "https://news.web.nhk/newsweb/na/nd-20261117de77395"
+        "https://news.web.nhk/newsweb/na/nd-20261117de77418"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-anthropic-ipo/",
