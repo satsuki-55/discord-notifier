@@ -85,6 +85,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cx1l0pm7l9jmo#1",
         "https://www.bbc.co.uk/news/articles/cqn70vxp5p4no#0",
         "https://www.bbc.co.uk/news/articles/crgj35ldz2zxo#0",
         "https://www.bbc.co.uk/news/articles/cj04wzzy9yqro#1",
@@ -283,8 +284,7 @@
         "https://www.bbc.co.uk/news/articles/cm752w35lkz3o#0",
         "https://www.bbc.co.uk/news/articles/cmy86pp336qlo#1",
         "https://www.bbc.co.uk/news/articles/c68798vdprwpo#0",
-        "https://www.bbc.co.uk/news/articles/c8n50457edd4o#0",
-        "https://www.bbc.co.uk/news/articles/cj62p66zl6kyo#0"
+        "https://www.bbc.co.uk/news/articles/c8n50457edd4o#0"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20261120de78786",
@@ -489,6 +489,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261117de77426"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2611-chatgpt-live-dictation/",
         "https://www.gizmodo.jp/article/figure-humanoid-robot-pilot-job/",
         "https://www.gizmodo.jp/article/2611-jensen-huang-scandal-nvidia/",
         "https://www.gizmodo.jp/article/2611-taco-ai-voice-remote-device/",
@@ -687,8 +688,7 @@
         "https://www.gizmodo.jp/article/2611-adobe-sneaks-project-deep-brush/",
         "https://www.gizmodo.jp/article/tver-monthly-users-exceed-50-million/",
         "https://www.gizmodo.jp/article/2611-ai-cybersecurity-defense/",
-        "https://www.gizmodo.jp/article/2611-suica-walk-through-ticket-gate/",
-        "https://www.gizmodo.jp/article/gemini_apple_carplay/"
+        "https://www.gizmodo.jp/article/2611-suica-walk-through-ticket-gate/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "5LqyN2uMHog",
