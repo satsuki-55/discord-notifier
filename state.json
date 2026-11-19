@@ -286,6 +286,7 @@
         "https://www.bbc.co.uk/news/articles/cvglr977x3z0o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261119de78412",
         "https://news.web.nhk/newsweb/na/nd-20261117de76916",
         "https://news.web.nhk/newsweb/na/nd-20261119de78394",
         "https://news.web.nhk/newsweb/na/nd-20261119de78387",
@@ -484,8 +485,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261117de77033",
         "https://news.web.nhk/newsweb/na/nd-20261117de77026",
         "https://news.web.nhk/newsweb/na/nd-20261117de77024",
-        "https://news.web.nhk/newsweb/na/nd-20261117de76934",
-        "https://news.web.nhk/newsweb/na/nd-20261117de76925"
+        "https://news.web.nhk/newsweb/na/nd-20261117de76934"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/3coins_slide_outlet_holder/",
