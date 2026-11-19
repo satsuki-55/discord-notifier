@@ -286,6 +286,7 @@
         "https://www.bbc.co.uk/news/articles/cvglr977x3z0o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261119de78342",
         "https://news.web.nhk/newsweb/na/nd-20261119de78346",
         "https://news.web.nhk/newsweb/na/nd-20261119de78324",
         "https://news.web.nhk/newsweb/na/nd-20261119de78288",
@@ -484,10 +485,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261117de76958",
         "https://news.web.nhk/newsweb/na/nd-20261117de76952",
         "https://news.web.nhk/newsweb/na/nd-20261117de76929",
-        "https://news.web.nhk/newsweb/na/nd-20261117de76914",
-        "https://news.web.nhk/newsweb/na/nd-20261117de76910"
+        "https://news.web.nhk/newsweb/na/nd-20261117de76914"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2611-gemini-4-neon-google-ai/",
         "https://www.gizmodo.jp/article/2611-bose-new-ice-color-headphones-earbuds/",
         "https://www.gizmodo.jp/article/2611-gemini-4-neon/",
         "https://www.gizmodo.jp/article/2611-php-critical-vulnerability-november-2024/",
@@ -686,8 +687,7 @@
         "https://www.gizmodo.jp/article/2611-iphone-20-no-action-button/",
         "https://www.gizmodo.jp/article/2611-anker-nano-usb-c-hdmi-cable/",
         "https://www.gizmodo.jp/article/2611-global-co2-emissions-iran-conflict/",
-        "https://www.gizmodo.jp/article/2611-data-center-water-shortage-risk/",
-        "https://www.gizmodo.jp/article/2611-iphone-18-and-18e-shared-specs-rumor/"
+        "https://www.gizmodo.jp/article/2611-data-center-water-shortage-risk/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "B77-rLsrSi8",
