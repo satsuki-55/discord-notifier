@@ -286,6 +286,7 @@
         "https://www.bbc.co.uk/news/articles/crz9dgz28zwdo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261119de78288",
         "https://news.web.nhk/newsweb/na/nd-20261119de78308",
         "https://news.web.nhk/newsweb/na/nd-20261119de78296",
         "https://news.web.nhk/newsweb/na/nd-20261119de78261",
@@ -484,10 +485,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261117de76914",
         "https://news.web.nhk/newsweb/na/nd-20261117de76910",
         "https://news.web.nhk/newsweb/na/nd-20261117de76912",
-        "https://news.web.nhk/newsweb/na/nd-20261117de76903",
-        "https://news.web.nhk/newsweb/na/nd-20261117de76907"
+        "https://news.web.nhk/newsweb/na/nd-20261117de76903"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2611-gemini-4-neon/",
         "https://www.gizmodo.jp/article/2611-php-critical-vulnerability-november-2024/",
         "https://www.gizmodo.jp/article/gemini-notebook_interactive_site_generator/",
         "https://www.gizmodo.jp/article/2611-jr-east-shinkansen-drone-inspection/",
@@ -686,8 +687,7 @@
         "https://www.gizmodo.jp/article/2611-global-co2-emissions-iran-conflict/",
         "https://www.gizmodo.jp/article/2611-data-center-water-shortage-risk/",
         "https://www.gizmodo.jp/article/2611-iphone-18-and-18e-shared-specs-rumor/",
-        "https://www.gizmodo.jp/article/2611-jensen-huang-divorce-settlement/",
-        "https://www.gizmodo.jp/article/ai-ceo-impersonation-fraud-200-billion/"
+        "https://www.gizmodo.jp/article/2611-jensen-huang-divorce-settlement/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "B77-rLsrSi8",
