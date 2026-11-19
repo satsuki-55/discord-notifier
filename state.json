@@ -84,6 +84,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/videos/cm4gn31yn0x9o#1",
         "https://www.bbc.co.uk/news/articles/cwvg2mp0de2jo#2",
         "https://www.bbc.co.uk/news/articles/c5m2l90ez144o#2",
         "https://www.bbc.co.uk/news/articles/cmgrenln8p29o#0",
@@ -282,8 +283,7 @@
         "https://www.bbc.co.uk/news/articles/cq4gnpgl0zkxo#0",
         "https://www.bbc.co.uk/news/articles/c9143zxyyvndo#0",
         "https://www.bbc.co.uk/news/articles/c6d01e8m15mko#1",
-        "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo#0",
-        "https://www.bbc.co.uk/news/articles/cmn504nq5033o#1"
+        "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo#0"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20261119de78167",
@@ -488,6 +488,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261117de77068"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/citizen-attesa-hazy/",
         "https://www.gizmodo.jp/article/2611-solar-powered-garden-shed-os1/",
         "https://www.gizmodo.jp/article/3coins_slide_outlet_holder/",
         "https://www.gizmodo.jp/article/2611-sweet-potato-varieties-baked-recipe/",
@@ -686,8 +687,7 @@
         "https://www.gizmodo.jp/article/2611-line-message-yoyaku/",
         "https://www.gizmodo.jp/article/2611-ring-robotics-home-security-drone-rover/",
         "https://www.gizmodo.jp/article/2611-iwatani-marudan-plus/",
-        "https://www.gizmodo.jp/article/2611-dq-sound-card-case/",
-        "https://www.gizmodo.jp/article/2611-iphone-20-no-action-button/"
+        "https://www.gizmodo.jp/article/2611-dq-sound-card-case/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "B77-rLsrSi8",
