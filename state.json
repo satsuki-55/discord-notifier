@@ -286,6 +286,7 @@
         "https://www.bbc.co.uk/news/articles/cw3djdjk5d7ko#2"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261119de78535",
         "https://news.web.nhk/newsweb/na/nd-20261119de78167",
         "https://news.web.nhk/newsweb/na/nd-20261119de78471",
         "https://news.web.nhk/newsweb/na/nd-20261119de78444",
@@ -484,8 +485,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261117de77079",
         "https://news.web.nhk/newsweb/na/nd-20261117de76932",
         "https://news.web.nhk/newsweb/na/nd-20261117de77076",
-        "https://news.web.nhk/newsweb/na/nd-20261117de77069",
-        "https://news.web.nhk/newsweb/na/nd-20261117de77068"
+        "https://news.web.nhk/newsweb/na/nd-20261117de77069"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/citizen-attesa-hazy/",
