@@ -286,6 +286,7 @@
         "https://www.bbc.co.uk/news/articles/cwr7gnkd7m04o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261119de78187",
         "https://news.web.nhk/newsweb/na/nd-20261119de78175",
         "https://news.web.nhk/newsweb/na/nd-20261119de78168",
         "https://news.web.nhk/newsweb/na/nd-20261119de78146",
@@ -484,10 +485,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261117de76904",
         "https://news.web.nhk/newsweb/na/nd-20261117de76902",
         "https://news.web.nhk/newsweb/na/nd-20261117de76899",
-        "https://news.web.nhk/newsweb/na/nd-20261117de76896",
-        "https://news.web.nhk/newsweb/na/nd-20261116de76789"
+        "https://news.web.nhk/newsweb/na/nd-20261117de76896"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2611-jwst-pillars-of-creation-3d-visualization/",
         "https://www.gizmodo.jp/article/brain-sleep-perfectwarmex/",
         "https://www.gizmodo.jp/article/oppo_find-x10_and_find-x10-pro-max_hasselblad_camera/",
         "https://www.gizmodo.jp/article/altra_vanish-carbon-3_oem_collaboration/",
@@ -686,8 +687,7 @@
         "https://www.gizmodo.jp/article/2611-playstation-portal-player-storage-mystery/",
         "https://www.gizmodo.jp/article/2611-nvidia-jensen-huang-affair-spy/",
         "https://www.gizmodo.jp/article/trump-coins-hit-all-time-lows-as-elizabeth-warren-targets-trump-familys-crypto-empire/",
-        "https://www.gizmodo.jp/article/2611-white-hacker-ai-data-breach/",
-        "https://www.gizmodo.jp/article/emoji-difference-btw-iphone-android-smile/"
+        "https://www.gizmodo.jp/article/2611-white-hacker-ai-data-breach/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "B77-rLsrSi8",
