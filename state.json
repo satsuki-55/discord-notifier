@@ -287,6 +287,8 @@
         "https://www.bbc.co.uk/news/articles/crz9dgz28zwdo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261119de78639",
+        "https://news.web.nhk/newsweb/na/nd-20261119de78646",
         "https://news.web.nhk/newsweb/na/nd-20261119de78610",
         "https://news.web.nhk/newsweb/na/nd-20261119de78640",
         "https://news.web.nhk/newsweb/na/nd-20261119de78636",
@@ -484,11 +486,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261117de77170",
         "https://news.web.nhk/newsweb/na/nd-20261117de77141",
         "https://news.web.nhk/newsweb/na/nd-20261117de77157",
-        "https://news.web.nhk/newsweb/na/nd-20261117de77131",
-        "https://news.web.nhk/newsweb/na/nd-20261117de77138",
-        "https://news.web.nhk/newsweb/na/nd-20261117de77124"
+        "https://news.web.nhk/newsweb/na/nd-20261117de77131"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2611-amazon-leo-satellite-launch-failure/",
         "https://www.gizmodo.jp/article/2611-ninja-soupi-auto-soup-maker/",
         "https://www.gizmodo.jp/article/citizen-attesa-hazy/",
         "https://www.gizmodo.jp/article/2611-solar-powered-garden-shed-os1/",
@@ -687,8 +688,7 @@
         "https://www.gizmodo.jp/article/macbook-pro_oled_review/",
         "https://www.gizmodo.jp/article/2611-eu-tiktok-recommendation-dsa/",
         "https://www.gizmodo.jp/article/2611-line-message-yoyaku/",
-        "https://www.gizmodo.jp/article/2611-ring-robotics-home-security-drone-rover/",
-        "https://www.gizmodo.jp/article/2611-iwatani-marudan-plus/"
+        "https://www.gizmodo.jp/article/2611-ring-robotics-home-security-drone-rover/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "B77-rLsrSi8",
