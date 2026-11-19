@@ -84,6 +84,8 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o#1",
+        "https://www.bbc.co.uk/news/articles/cw987ynpd0n1o#1",
         "https://www.bbc.co.uk/news/videos/cmx2ryw97x4go#1",
         "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o#0",
         "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo#1",
@@ -281,9 +283,7 @@
         "https://www.bbc.co.uk/news/articles/crz9dgz28zwdo#0",
         "https://www.bbc.co.uk/news/articles/cq98xlz09ye0o#1",
         "https://www.bbc.co.uk/news/articles/cwr7gnkd7m04o#0",
-        "https://www.bbc.co.uk/news/articles/c6d01e8m15mko#0",
-        "https://www.bbc.co.uk/news/articles/cjvg26p3z2gdo#1",
-        "https://www.bbc.co.uk/news/articles/cvglr977x3z0o#0"
+        "https://www.bbc.co.uk/news/articles/c6d01e8m15mko#0"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20261119de78175",
@@ -488,6 +488,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261116de76789"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/brain-sleep-perfectwarmex/",
         "https://www.gizmodo.jp/article/oppo_find-x10_and_find-x10-pro-max_hasselblad_camera/",
         "https://www.gizmodo.jp/article/altra_vanish-carbon-3_oem_collaboration/",
         "https://www.gizmodo.jp/article/google-cyber-defense-ai-japan/",
@@ -686,8 +687,7 @@
         "https://www.gizmodo.jp/article/2611-nvidia-jensen-huang-affair-spy/",
         "https://www.gizmodo.jp/article/trump-coins-hit-all-time-lows-as-elizabeth-warren-targets-trump-familys-crypto-empire/",
         "https://www.gizmodo.jp/article/2611-white-hacker-ai-data-breach/",
-        "https://www.gizmodo.jp/article/emoji-difference-btw-iphone-android-smile/",
-        "https://www.gizmodo.jp/article/japan_trench_sea_spider_capsule/"
+        "https://www.gizmodo.jp/article/emoji-difference-btw-iphone-android-smile/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "B77-rLsrSi8",
