@@ -85,6 +85,8 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/ckvg2n2q3103o#0",
+        "https://www.bbc.co.uk/news/articles/ckq6eyrzrzy5o#1",
         "https://www.bbc.co.uk/news/videos/cv0l31g7g8j0o#1",
         "https://www.bbc.co.uk/news/videos/cw074g4jk87vo#0",
         "https://www.bbc.co.uk/news/articles/ckdd1y09eqjmo#1",
@@ -282,11 +284,10 @@
         "https://www.bbc.co.uk/news/articles/c63rgqg5l9l2o#0",
         "https://www.bbc.co.uk/news/articles/cq4gn3109pzgo#0",
         "https://www.bbc.co.uk/news/articles/cqvg2mg8g0pyo#0",
-        "https://www.bbc.co.uk/news/articles/cqglwjd450k0o#0",
-        "https://www.bbc.co.uk/news/articles/c5742lwdyzglo#1",
-        "https://www.bbc.co.uk/news/articles/ckvg2n2q3103o#0"
+        "https://www.bbc.co.uk/news/articles/cqglwjd450k0o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261117de77308",
         "https://news.web.nhk/newsweb/na/nd-20261120de78753",
         "https://news.web.nhk/newsweb/na/nd-20261119de78723",
         "https://news.web.nhk/newsweb/na/nd-20261119de78725",
@@ -485,8 +486,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261117de77370",
         "https://news.web.nhk/newsweb/na/nd-20261117de77365",
         "https://news.web.nhk/newsweb/na/nd-20261117de77357",
-        "https://news.web.nhk/newsweb/na/nd-20261117de77361",
-        "https://news.web.nhk/newsweb/na/nd-20261117de77165"
+        "https://news.web.nhk/newsweb/na/nd-20261117de77361"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-anthropic-ipo/",
