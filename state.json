@@ -85,6 +85,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cqn70vxp5p4no#0",
         "https://www.bbc.co.uk/news/articles/crgj35ldz2zxo#0",
         "https://www.bbc.co.uk/news/articles/cj04wzzy9yqro#1",
         "https://www.bbc.co.uk/news/articles/cwz0k3172xzko#0",
@@ -283,10 +284,10 @@
         "https://www.bbc.co.uk/news/articles/cmy86pp336qlo#1",
         "https://www.bbc.co.uk/news/articles/c68798vdprwpo#0",
         "https://www.bbc.co.uk/news/articles/c8n50457edd4o#0",
-        "https://www.bbc.co.uk/news/articles/cj62p66zl6kyo#0",
-        "https://www.bbc.co.uk/news/articles/c98r7xyjx8g4o#0"
+        "https://www.bbc.co.uk/news/articles/cj62p66zl6kyo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261120de78786",
         "https://news.web.nhk/newsweb/na/nd-20261120de78778",
         "https://news.web.nhk/newsweb/na/nd-20261120de78746",
         "https://news.web.nhk/newsweb/na/nd-20261119de78688",
@@ -485,8 +486,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261117de77443",
         "https://news.web.nhk/newsweb/na/nd-20261117de77424",
         "https://news.web.nhk/newsweb/na/nd-20261117de77425",
-        "https://news.web.nhk/newsweb/na/nd-20261117de77426",
-        "https://news.web.nhk/newsweb/na/nd-20261117de77431"
+        "https://news.web.nhk/newsweb/na/nd-20261117de77426"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/figure-humanoid-robot-pilot-job/",
