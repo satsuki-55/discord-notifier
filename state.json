@@ -287,6 +287,7 @@
         "https://www.bbc.co.uk/news/articles/cm5y13q0gx97o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261119de78655",
         "https://news.web.nhk/newsweb/na/nd-20261119de78423",
         "https://news.web.nhk/newsweb/na/nd-20261119de78644",
         "https://news.web.nhk/newsweb/na/nd-20261119de78639",
@@ -485,8 +486,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261117de77212",
         "https://news.web.nhk/newsweb/na/nd-20261117de77219",
         "https://news.web.nhk/newsweb/na/nd-20261117de77205",
-        "https://news.web.nhk/newsweb/na/nd-20261117de77170",
-        "https://news.web.nhk/newsweb/na/nd-20261117de77141"
+        "https://news.web.nhk/newsweb/na/nd-20261117de77170"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-eu-election-deepfake-ai-rules/",
