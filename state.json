@@ -286,6 +286,7 @@
         "https://www.bbc.co.uk/news/articles/cvglr977x3z0o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261119de78359",
         "https://news.web.nhk/newsweb/na/nd-20261119de78321",
         "https://news.web.nhk/newsweb/na/nd-20261119de78342",
         "https://news.web.nhk/newsweb/na/nd-20261119de78346",
@@ -484,8 +485,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261117de76976",
         "https://news.web.nhk/newsweb/na/nd-20261117de76916",
         "https://news.web.nhk/newsweb/na/nd-20261117de76958",
-        "https://news.web.nhk/newsweb/na/nd-20261117de76952",
-        "https://news.web.nhk/newsweb/na/nd-20261117de76929"
+        "https://news.web.nhk/newsweb/na/nd-20261117de76952"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-gemini-4-neon-google-ai/",
