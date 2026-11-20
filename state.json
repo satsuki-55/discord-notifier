@@ -288,6 +288,8 @@
         "https://www.bbc.co.uk/news/articles/cq702k1w8xd3o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261120de79435",
+        "https://news.web.nhk/newsweb/na/nd-20261116de76353",
         "https://news.web.nhk/newsweb/na/nd-20261116de76367",
         "https://news.web.nhk/newsweb/na/nd-20261120de79417",
         "https://news.web.nhk/newsweb/na/nd-20261120de79430",
@@ -485,11 +487,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261118de77726",
         "https://news.web.nhk/newsweb/na/nd-20261118de77740",
         "https://news.web.nhk/newsweb/na/nd-20261118de77768",
-        "https://news.web.nhk/newsweb/na/nd-20261118de77690",
-        "https://news.web.nhk/newsweb/na/nd-20261118de77720",
-        "https://news.web.nhk/newsweb/na/nd-20261118de77756"
+        "https://news.web.nhk/newsweb/na/nd-20261118de77690"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2611-adobe-ai-creator-imagination/",
         "https://www.gizmodo.jp/article/evering-myaku-myaku/",
         "https://www.gizmodo.jp/article/suunto-run-2-review/",
         "https://www.gizmodo.jp/article/best-tech-gifts-over-500-dollars-holiday-gift-guide/",
@@ -688,8 +689,7 @@
         "https://www.gizmodo.jp/article/2611-mutek-jp-2026-takanawa-stuts/",
         "https://www.gizmodo.jp/article/2611-nvidia-ceo-china-spy-scandal-lawsuit/",
         "https://www.gizmodo.jp/article/2611-jensen-huang-nvidia-ceo-legacy/",
-        "https://www.gizmodo.jp/article/anthropic_junior-engineer_hiring_decline/",
-        "https://www.gizmodo.jp/article/2611-tsmc-openai-anthropic-investment/"
+        "https://www.gizmodo.jp/article/anthropic_junior-engineer_hiring_decline/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "5LqyN2uMHog",
