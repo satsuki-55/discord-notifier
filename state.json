@@ -86,6 +86,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/ckge37rdrp1eo#0",
         "https://www.bbc.co.uk/news/articles/c8xgdv9e007o#0",
         "https://www.bbc.co.uk/news/articles/c6m25vd2yxgdo#0",
         "https://www.bbc.co.uk/news/articles/cwz0k3nn5p5mo#1",
@@ -284,10 +285,10 @@
         "https://www.bbc.co.uk/news/articles/cm0evw0d2wq4o#1",
         "https://www.bbc.co.uk/news/articles/cqj3kelenm0do#1",
         "https://www.bbc.co.uk/news/videos/c6wy0j1xeypqo#0",
-        "https://www.bbc.co.uk/news/articles/cqj3kelenm0do#0",
-        "https://www.bbc.co.uk/news/articles/cm0rknk0pgdpo#1"
+        "https://www.bbc.co.uk/news/articles/cqj3kelenm0do#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261120de79370",
         "https://news.web.nhk/newsweb/na/nd-20261120de79372",
         "https://news.web.nhk/newsweb/na/nd-20261120de79377",
         "https://news.web.nhk/newsweb/na/nd-20261120de79350",
@@ -486,10 +487,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261118de77737",
         "https://news.web.nhk/newsweb/na/nd-20261116de76369",
         "https://news.web.nhk/newsweb/na/nd-20261118de77710",
-        "https://news.web.nhk/newsweb/na/nd-20261118de77725",
-        "https://news.web.nhk/newsweb/na/nd-20261116de76344"
+        "https://news.web.nhk/newsweb/na/nd-20261118de77725"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/best-tech-gifts-over-500-dollars-holiday-gift-guide/",
         "https://www.gizmodo.jp/article/orca-echo-toast/",
         "https://www.gizmodo.jp/article/iphone-duo-self-repair-parts-price/",
         "https://www.gizmodo.jp/article/2611-operation-endgame-malware-fbi-raid/",
@@ -688,8 +689,7 @@
         "https://www.gizmodo.jp/article/anthropic_junior-engineer_hiring_decline/",
         "https://www.gizmodo.jp/article/2611-tsmc-openai-anthropic-investment/",
         "https://www.gizmodo.jp/article/2611-outlook-vulnerability-fix-cve-2026-124194/",
-        "https://www.gizmodo.jp/article/panasonic_toughbook_fz-g3_fz-34/",
-        "https://www.gizmodo.jp/article/2611-buffalo-stick-ssd-500gb/"
+        "https://www.gizmodo.jp/article/panasonic_toughbook_fz-g3_fz-34/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "5LqyN2uMHog",
