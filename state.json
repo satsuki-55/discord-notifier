@@ -85,6 +85,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o#0",
         "https://www.bbc.co.uk/news/articles/cmx278n2genyo#1",
         "https://www.bbc.co.uk/news/articles/c6074k5jjrzko#0",
         "https://www.bbc.co.uk/news/articles/cx7v2d8q879eo#1",
@@ -283,10 +284,10 @@
         "https://www.bbc.co.uk/news/articles/c6x2ev38k4yno#1",
         "https://www.bbc.co.uk/news/articles/crwy4w381nlpo#0",
         "https://www.bbc.co.uk/news/articles/c6x2ev38k4yno#0",
-        "https://www.bbc.co.uk/news/articles/cqrlg377638yo#1",
-        "https://www.bbc.co.uk/news/articles/cw8085rykkmgo#1"
+        "https://www.bbc.co.uk/news/articles/cqrlg377638yo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261120de78847",
         "https://news.web.nhk/newsweb/na/nd-20261120de78822",
         "https://news.web.nhk/newsweb/na/nd-20261120de78810",
         "https://news.web.nhk/newsweb/na/nd-20261120de78808",
@@ -485,8 +486,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261118de77474",
         "https://news.web.nhk/newsweb/na/nd-20261118de77462",
         "https://news.web.nhk/newsweb/na/nd-20261117de77314",
-        "https://news.web.nhk/newsweb/na/nd-20261117de77438",
-        "https://news.web.nhk/newsweb/na/nd-20261117de77454"
+        "https://news.web.nhk/newsweb/na/nd-20261117de77438"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/gizmart-workchair-pro-w930-1st/",
