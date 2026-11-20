@@ -87,6 +87,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/ck9d7e9wvvweo#1",
         "https://www.bbc.co.uk/news/articles/cq4gn0dg9194o#0",
         "https://www.bbc.co.uk/news/articles/cwp8g4092zglo#1",
         "https://www.bbc.co.uk/news/articles/ck9d7e9wvvweo#0",
@@ -285,8 +286,7 @@
         "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo#1",
         "https://www.bbc.co.uk/news/articles/c32l507ev4v4o#1",
         "https://www.bbc.co.uk/sport/cricket/articles/cqwy41w3zydgo#1",
-        "https://www.bbc.co.uk/news/articles/c6x284pnn4e2o#0",
-        "https://www.bbc.co.uk/news/articles/cmy49873dn95o#1"
+        "https://www.bbc.co.uk/news/articles/c6x284pnn4e2o#0"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20261121de79510",
@@ -491,6 +491,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261118de78032"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2611-framework-wireless-touchpad-keyboard/",
         "https://www.gizmodo.jp/article/anthropic-cbrn-threat-investigator-job/",
         "https://www.gizmodo.jp/article/2611-claude-riemann-hypothesis-proof/",
         "https://www.gizmodo.jp/article/2611-recent-solar-power-evolution/",
@@ -689,8 +690,7 @@
         "https://www.gizmodo.jp/article/2611-costco-clotted-cream/",
         "https://www.gizmodo.jp/article/2611-micro-robot-blood-clot-treatment/",
         "https://www.gizmodo.jp/article/2611-ss-united-states-artificial-reef/",
-        "https://www.gizmodo.jp/article/2611-diy-water-filter-high-school-inventor/",
-        "https://www.gizmodo.jp/article/2611-florida-sea-turtles-global-warming-female-bias/"
+        "https://www.gizmodo.jp/article/2611-diy-water-filter-high-school-inventor/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "5LqyN2uMHog",
