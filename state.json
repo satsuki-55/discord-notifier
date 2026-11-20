@@ -287,6 +287,8 @@
         "https://www.bbc.co.uk/news/articles/cx053jrv9rz9o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261120de79139",
+        "https://news.web.nhk/newsweb/na/nd-20261120de79067",
         "https://news.web.nhk/newsweb/na/nd-20261120de79034",
         "https://news.web.nhk/newsweb/na/nd-20261120de79120",
         "https://news.web.nhk/newsweb/na/nd-20261120de79029",
@@ -484,9 +486,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261118de77517",
         "https://news.web.nhk/newsweb/na/nd-20261118de77569",
         "https://news.web.nhk/newsweb/na/nd-20261118de77596",
-        "https://news.web.nhk/newsweb/na/nd-20261118de77544",
-        "https://news.web.nhk/newsweb/na/nd-20261118de77539",
-        "https://news.web.nhk/newsweb/na/nd-20261118de77527"
+        "https://news.web.nhk/newsweb/na/nd-20261118de77544"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/orimouse_new-colors_and_art-design/",
