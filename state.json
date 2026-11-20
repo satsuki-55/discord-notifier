@@ -86,6 +86,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c8xgdv9e007o#0",
         "https://www.bbc.co.uk/news/articles/c6m25vd2yxgdo#0",
         "https://www.bbc.co.uk/news/articles/cwz0k3nn5p5mo#1",
         "https://www.bbc.co.uk/news/articles/cm62y2e4qd9yo#0",
@@ -284,10 +285,10 @@
         "https://www.bbc.co.uk/news/articles/cqj3kelenm0do#1",
         "https://www.bbc.co.uk/news/videos/c6wy0j1xeypqo#0",
         "https://www.bbc.co.uk/news/articles/cqj3kelenm0do#0",
-        "https://www.bbc.co.uk/news/articles/cm0rknk0pgdpo#1",
-        "https://www.bbc.co.uk/news/articles/cm4gn9xnn1ppo#1"
+        "https://www.bbc.co.uk/news/articles/cm0rknk0pgdpo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261120de79031",
         "https://news.web.nhk/newsweb/na/nd-20261120de79103",
         "https://news.web.nhk/newsweb/na/nd-20261120de79345",
         "https://news.web.nhk/newsweb/na/nd-20261120de79342",
@@ -486,8 +487,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261116de76344",
         "https://news.web.nhk/newsweb/na/nd-20261118de77522",
         "https://news.web.nhk/newsweb/na/nd-20261118de77702",
-        "https://news.web.nhk/newsweb/na/nd-20261118de77693",
-        "https://news.web.nhk/newsweb/na/nd-20261118de77656"
+        "https://news.web.nhk/newsweb/na/nd-20261118de77693"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/iphone-duo-self-repair-parts-price/",
