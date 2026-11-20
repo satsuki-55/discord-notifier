@@ -288,6 +288,7 @@
         "https://www.bbc.co.uk/news/articles/cw8r75xm8v4po#2"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261116de76419",
         "https://news.web.nhk/newsweb/na/nd-20261120de79454",
         "https://news.web.nhk/newsweb/na/nd-20261120de79453",
         "https://news.web.nhk/newsweb/na/nd-20261120de79452",
@@ -486,8 +487,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261118de77979",
         "https://news.web.nhk/newsweb/na/nd-20261118de77873",
         "https://news.web.nhk/newsweb/na/nd-20261117de76937",
-        "https://news.web.nhk/newsweb/na/nd-20261118de77914",
-        "https://news.web.nhk/newsweb/na/nd-20261118de77889"
+        "https://news.web.nhk/newsweb/na/nd-20261118de77914"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-original-pet-bottle-custom-shape/",
