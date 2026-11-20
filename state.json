@@ -287,6 +287,8 @@
         "https://www.bbc.co.uk/news/articles/c6x2ev38k4yno#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261120de78984",
+        "https://news.web.nhk/newsweb/na/nd-20261120de79000",
         "https://news.web.nhk/newsweb/na/nd-20261120de78995",
         "https://news.web.nhk/newsweb/na/nd-20261120de78976",
         "https://news.web.nhk/newsweb/na/nd-20261120de78971",
@@ -484,9 +486,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261118de77487",
         "https://news.web.nhk/newsweb/na/nd-20261117de77381",
         "https://news.web.nhk/newsweb/na/nd-20261118de77484",
-        "https://news.web.nhk/newsweb/na/nd-20261118de77485",
-        "https://news.web.nhk/newsweb/na/nd-20261118de77483",
-        "https://news.web.nhk/newsweb/na/nd-20261115de76091"
+        "https://news.web.nhk/newsweb/na/nd-20261118de77485"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-openai-compute-campus-datacenters/",
