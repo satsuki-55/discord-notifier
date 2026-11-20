@@ -287,6 +287,7 @@
         "https://www.bbc.co.uk/news/articles/cqrlg377638yo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261120de78903",
         "https://news.web.nhk/newsweb/na/nd-20261120de78934",
         "https://news.web.nhk/newsweb/na/nd-20261120de78923",
         "https://news.web.nhk/newsweb/na/nd-20261120de78820",
@@ -485,8 +486,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261118de77478",
         "https://news.web.nhk/newsweb/na/nd-20261118de77460",
         "https://news.web.nhk/newsweb/na/nd-20261118de77470",
-        "https://news.web.nhk/newsweb/na/nd-20261118de77475",
-        "https://news.web.nhk/newsweb/na/nd-20261117de77432"
+        "https://news.web.nhk/newsweb/na/nd-20261118de77475"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-ps4-local-llm-qwen/",
