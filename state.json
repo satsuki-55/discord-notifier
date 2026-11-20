@@ -85,6 +85,8 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c39w9l4v1p9ro#0",
+        "https://www.bbc.co.uk/news/articles/c6evre8j12vno#1",
         "https://www.bbc.co.uk/news/articles/c61wr088jnzzo#1",
         "https://www.bbc.co.uk/news/articles/c623j4kpg94go#0",
         "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o#1",
@@ -282,11 +284,10 @@
         "https://www.bbc.co.uk/news/articles/cm5y1eejk292o#1",
         "https://www.bbc.co.uk/news/articles/cq4gn3109pzgo#1",
         "https://www.bbc.co.uk/news/videos/cq62p73jjl90o#1",
-        "https://www.bbc.co.uk/news/articles/c5vg23g92rj4o#2",
-        "https://www.bbc.co.uk/news/articles/ck792dez8dp3o#1",
-        "https://www.bbc.co.uk/news/articles/c6x2ev38k4yno#1"
+        "https://www.bbc.co.uk/news/articles/c5vg23g92rj4o#2"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261120de79008",
         "https://news.web.nhk/newsweb/na/nd-20261120de78949",
         "https://news.web.nhk/newsweb/na/nd-20261120de78948",
         "https://news.web.nhk/newsweb/na/nd-20261120de78984",
@@ -485,10 +486,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261118de77491",
         "https://news.web.nhk/newsweb/na/nd-20261118de77480",
         "https://news.web.nhk/newsweb/na/nd-20261118de77490",
-        "https://news.web.nhk/newsweb/na/nd-20261118de77487",
-        "https://news.web.nhk/newsweb/na/nd-20261117de77381"
+        "https://news.web.nhk/newsweb/na/nd-20261118de77487"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2611-xiaomi-clip-earcuff-earphones/",
         "https://www.gizmodo.jp/article/2611-alexa-plus-natural-conversation/",
         "https://www.gizmodo.jp/article/2611-openai-compute-campus-datacenters/",
         "https://www.gizmodo.jp/article/iphone-pro_design_rumors/",
@@ -687,8 +688,7 @@
         "https://www.gizmodo.jp/article/m6_macbook-pro_review/",
         "https://www.gizmodo.jp/article/microsoft_voluntary_resignation_offer/",
         "https://www.gizmodo.jp/article/keychron-orca-echo-normal-profile/",
-        "https://www.gizmodo.jp/article/2611-ipad-air-oled-2027/",
-        "https://www.gizmodo.jp/article/2611-bank-deposit-interest-rate-ranking-202611/"
+        "https://www.gizmodo.jp/article/2611-ipad-air-oled-2027/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "5LqyN2uMHog",
