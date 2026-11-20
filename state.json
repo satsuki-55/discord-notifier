@@ -287,6 +287,7 @@
         "https://www.bbc.co.uk/news/articles/cq4gn3109pzgo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261028de67095",
         "https://news.web.nhk/newsweb/na/nd-20261120de79008",
         "https://news.web.nhk/newsweb/na/nd-20261120de78949",
         "https://news.web.nhk/newsweb/na/nd-20261120de78948",
@@ -485,8 +486,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261118de77502",
         "https://news.web.nhk/newsweb/na/nd-20261118de77491",
         "https://news.web.nhk/newsweb/na/nd-20261118de77480",
-        "https://news.web.nhk/newsweb/na/nd-20261118de77490",
-        "https://news.web.nhk/newsweb/na/nd-20261118de77487"
+        "https://news.web.nhk/newsweb/na/nd-20261118de77490"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-xiaomi-clip-earcuff-earphones/",
