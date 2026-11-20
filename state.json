@@ -85,6 +85,11 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c8752w5vz2zqo#0",
+        "https://www.bbc.co.uk/news/articles/cmpdwev0jgp6o#0",
+        "https://www.bbc.co.uk/news/articles/ckx280084z2go#0",
+        "https://www.bbc.co.uk/news/articles/cke89vdd77p3o#1",
+        "https://www.bbc.co.uk/news/articles/cq143j81g6l3o#1",
         "https://www.bbc.co.uk/news/articles/c6evre8j12vno#0",
         "https://www.bbc.co.uk/news/articles/cmvg2ex7j30lo#1",
         "https://www.bbc.co.uk/news/articles/c39w9l4v1p9ro#0",
@@ -279,14 +284,10 @@
         "https://www.bbc.co.uk/news/articles/cm87987w1qz5o#0",
         "https://www.bbc.co.uk/news/articles/cq4gn3109pzgo#2",
         "https://www.bbc.co.uk/news/articles/cm9q8jx05q3go#1",
-        "https://www.bbc.co.uk/news/articles/c8n50457edd4o#1",
-        "https://www.bbc.co.uk/news/articles/cj62p66zl6kyo#1",
-        "https://www.bbc.co.uk/news/articles/c3vg24wpg040o#1",
-        "https://www.bbc.co.uk/news/articles/crwy4w381nlpo#1",
-        "https://www.bbc.co.uk/news/articles/cm5y1eejk292o#1",
-        "https://www.bbc.co.uk/news/articles/cq4gn3109pzgo#1"
+        "https://www.bbc.co.uk/news/articles/c8n50457edd4o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261120de79016",
         "https://news.web.nhk/newsweb/na/nd-20261120de79062",
         "https://news.web.nhk/newsweb/na/nd-20261120de79058",
         "https://news.web.nhk/newsweb/na/nd-20261120de79057",
@@ -485,8 +486,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261118de77531",
         "https://news.web.nhk/newsweb/na/nd-20261118de77511",
         "https://news.web.nhk/newsweb/na/nd-20261118de77501",
-        "https://news.web.nhk/newsweb/na/nd-20261118de77503",
-        "https://news.web.nhk/newsweb/na/nd-20261118de77502"
+        "https://news.web.nhk/newsweb/na/nd-20261118de77503"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-xiaomi-clip-earcuff-earphones/",
