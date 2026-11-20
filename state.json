@@ -287,6 +287,7 @@
         "https://www.bbc.co.uk/news/articles/c6x2ev38k4yno#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261120de78995",
         "https://news.web.nhk/newsweb/na/nd-20261120de78976",
         "https://news.web.nhk/newsweb/na/nd-20261120de78971",
         "https://news.web.nhk/newsweb/na/nd-20261120de78837",
@@ -485,8 +486,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261118de77484",
         "https://news.web.nhk/newsweb/na/nd-20261118de77485",
         "https://news.web.nhk/newsweb/na/nd-20261118de77483",
-        "https://news.web.nhk/newsweb/na/nd-20261115de76091",
-        "https://news.web.nhk/newsweb/na/nd-20261118de77479"
+        "https://news.web.nhk/newsweb/na/nd-20261115de76091"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/iphone-pro_design_rumors/",
