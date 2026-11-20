@@ -288,6 +288,7 @@
         "https://www.bbc.co.uk/news/articles/cw8r75xm8v4po#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261120de79408",
         "https://news.web.nhk/newsweb/na/nd-20261119de78159",
         "https://news.web.nhk/newsweb/na/nd-20261120de79437",
         "https://news.web.nhk/newsweb/na/nd-20261120de79438",
@@ -486,10 +487,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261118de77689",
         "https://news.web.nhk/newsweb/na/nd-20261116de76437",
         "https://news.web.nhk/newsweb/na/nd-20261118de77785",
-        "https://news.web.nhk/newsweb/na/nd-20261118de77712",
-        "https://news.web.nhk/newsweb/na/nd-20261118de77800"
+        "https://news.web.nhk/newsweb/na/nd-20261118de77712"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/0b0516f2-94f8-442e-bdae-2987f090be13/",
         "https://www.gizmodo.jp/article/2611-adobe-ai-creator-imagination/",
         "https://www.gizmodo.jp/article/evering-myaku-myaku/",
         "https://www.gizmodo.jp/article/suunto-run-2-review/",
@@ -688,8 +689,7 @@
         "https://www.gizmodo.jp/article/2611-gemini-4-hydrogen/",
         "https://www.gizmodo.jp/article/2611-mutek-jp-2026-takanawa-stuts/",
         "https://www.gizmodo.jp/article/2611-nvidia-ceo-china-spy-scandal-lawsuit/",
-        "https://www.gizmodo.jp/article/2611-jensen-huang-nvidia-ceo-legacy/",
-        "https://www.gizmodo.jp/article/anthropic_junior-engineer_hiring_decline/"
+        "https://www.gizmodo.jp/article/2611-jensen-huang-nvidia-ceo-legacy/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "5LqyN2uMHog",
