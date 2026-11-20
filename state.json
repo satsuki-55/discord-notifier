@@ -85,6 +85,8 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cx7v2d8q879eo#1",
+        "https://www.bbc.co.uk/news/articles/cmpdwev0jgp6o#1",
         "https://www.bbc.co.uk/news/articles/cmx278n2genyo#0",
         "https://www.bbc.co.uk/news/articles/cwp8g4092zglo#0",
         "https://www.bbc.co.uk/news/articles/cmd7159vlr85o#1",
@@ -282,9 +284,7 @@
         "https://www.bbc.co.uk/news/articles/cqrlg377638yo#1",
         "https://www.bbc.co.uk/news/articles/cw8085rykkmgo#1",
         "https://www.bbc.co.uk/news/videos/cq62p73jjl90o#0",
-        "https://www.bbc.co.uk/news/articles/cv62p3y89z13o#0",
-        "https://www.bbc.co.uk/news/articles/cm3wgejy5qq8o#0",
-        "https://www.bbc.co.uk/news/articles/cq4gnpgl0zkxo#1"
+        "https://www.bbc.co.uk/news/articles/cv62p3y89z13o#0"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20261120de78808",
@@ -489,6 +489,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261117de77424"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2611-anthropic-ipo-2-trillion-valuation/",
         "https://www.gizmodo.jp/article/2611-chatgpt-accounting-plugin-invoice-automation/",
         "https://www.gizmodo.jp/article/2611-chatgpt-live-dictation/",
         "https://www.gizmodo.jp/article/figure-humanoid-robot-pilot-job/",
@@ -687,8 +688,7 @@
         "https://www.gizmodo.jp/article/restroom-smartphone-10min-rhn-vky/",
         "https://www.gizmodo.jp/article/ringconn-gen-2-smartring/",
         "https://www.gizmodo.jp/article/2611-adobe-sneaks-project-deep-brush/",
-        "https://www.gizmodo.jp/article/tver-monthly-users-exceed-50-million/",
-        "https://www.gizmodo.jp/article/2611-ai-cybersecurity-defense/"
+        "https://www.gizmodo.jp/article/tver-monthly-users-exceed-50-million/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "5LqyN2uMHog",
