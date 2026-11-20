@@ -287,6 +287,8 @@
         "https://www.bbc.co.uk/news/articles/cqrlg377638yo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261120de78814",
+        "https://news.web.nhk/newsweb/na/nd-20261120de78848",
         "https://news.web.nhk/newsweb/na/nd-20261120de78854",
         "https://news.web.nhk/newsweb/na/nd-20261120de78849",
         "https://news.web.nhk/newsweb/na/nd-20261120de78847",
@@ -484,11 +486,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261118de77459",
         "https://news.web.nhk/newsweb/na/nd-20261117de77421",
         "https://news.web.nhk/newsweb/na/nd-20261117de77433",
-        "https://news.web.nhk/newsweb/na/nd-20261118de77477",
-        "https://news.web.nhk/newsweb/na/nd-20261118de77474",
-        "https://news.web.nhk/newsweb/na/nd-20261118de77462"
+        "https://news.web.nhk/newsweb/na/nd-20261118de77477"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2611-montbell-crima-air-light-fleece/",
         "https://www.gizmodo.jp/article/2611-grapht-sale-gaming-monitor/",
         "https://www.gizmodo.jp/article/gizmart-workchair-pro-w930-1st/",
         "https://www.gizmodo.jp/article/nape-pro-se-ipad-mini/",
@@ -687,8 +688,7 @@
         "https://www.gizmodo.jp/article/2611-us-electricity-generation-record-datacenter-heat/",
         "https://www.gizmodo.jp/article/windows11_right-click_menu_customize/",
         "https://www.gizmodo.jp/article/2611-trump-recommends-tim-cook-for-nvidia-ceo/",
-        "https://www.gizmodo.jp/article/iphone-duo_duobook_pocket_mac/",
-        "https://www.gizmodo.jp/article/restroom-smartphone-10min-rhn-vky/"
+        "https://www.gizmodo.jp/article/iphone-duo_duobook_pocket_mac/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "5LqyN2uMHog",
