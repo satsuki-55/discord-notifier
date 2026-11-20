@@ -288,6 +288,8 @@
         "https://www.bbc.co.uk/news/articles/cq702k1w8xd3o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261120de79438",
+        "https://news.web.nhk/newsweb/na/nd-20261120de79127",
         "https://news.web.nhk/newsweb/na/nd-20261120de79435",
         "https://news.web.nhk/newsweb/na/nd-20261116de76353",
         "https://news.web.nhk/newsweb/na/nd-20261116de76367",
@@ -485,9 +487,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261118de77712",
         "https://news.web.nhk/newsweb/na/nd-20261118de77800",
         "https://news.web.nhk/newsweb/na/nd-20261118de77726",
-        "https://news.web.nhk/newsweb/na/nd-20261118de77740",
-        "https://news.web.nhk/newsweb/na/nd-20261118de77768",
-        "https://news.web.nhk/newsweb/na/nd-20261118de77690"
+        "https://news.web.nhk/newsweb/na/nd-20261118de77740"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-adobe-ai-creator-imagination/",
