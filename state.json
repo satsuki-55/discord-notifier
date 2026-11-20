@@ -289,6 +289,7 @@
         "https://www.bbc.co.uk/news/articles/cr5y18lg31nxo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261121de79490",
         "https://news.web.nhk/newsweb/na/nd-20261120de79460",
         "https://news.web.nhk/newsweb/na/nd-20261121de79473",
         "https://news.web.nhk/newsweb/na/nd-20261121de79481",
@@ -487,8 +488,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261118de77959",
         "https://news.web.nhk/newsweb/na/nd-20261118de77980",
         "https://news.web.nhk/newsweb/na/nd-20261118de77988",
-        "https://news.web.nhk/newsweb/na/nd-20261118de77997",
-        "https://news.web.nhk/newsweb/na/nd-20261118de77949"
+        "https://news.web.nhk/newsweb/na/nd-20261118de77997"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-claude-riemann-hypothesis-proof/",
