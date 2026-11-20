@@ -87,6 +87,9 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cvp86l5j7l93o#0",
+        "https://www.bbc.co.uk/news/articles/ckx280084z2go#1",
+        "https://www.bbc.co.uk/news/articles/c6808ym10vzgo#1",
         "https://www.bbc.co.uk/news/articles/c6808ym10vzgo#0",
         "https://www.bbc.co.uk/news/articles/ck20vl1dd8qzo#1",
         "https://www.bbc.co.uk/news/articles/cm2klg8512z0o#1",
@@ -283,12 +286,10 @@
         "https://www.bbc.co.uk/news/articles/cw4gn9jeqjq7o#1",
         "https://www.bbc.co.uk/news/articles/ck9d75x5wwwwo#1",
         "https://www.bbc.co.uk/news/articles/ck9d75x5wwwwo#0",
-        "https://www.bbc.co.uk/sport/cricket/articles/cmqlqdevgl9ro#0",
-        "https://www.bbc.co.uk/news/articles/cx053jrv9rz9o#0",
-        "https://www.bbc.co.uk/news/articles/crkgvxxwpwz2o#1",
-        "https://www.bbc.co.uk/news/articles/cq702k1w8xd3o#1"
+        "https://www.bbc.co.uk/sport/cricket/articles/cmqlqdevgl9ro#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261120de79436",
         "https://news.web.nhk/newsweb/na/nd-20261116de76419",
         "https://news.web.nhk/newsweb/na/nd-20261120de79454",
         "https://news.web.nhk/newsweb/na/nd-20261120de79453",
@@ -487,8 +488,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261118de77513",
         "https://news.web.nhk/newsweb/na/nd-20261118de77979",
         "https://news.web.nhk/newsweb/na/nd-20261118de77873",
-        "https://news.web.nhk/newsweb/na/nd-20261117de76937",
-        "https://news.web.nhk/newsweb/na/nd-20261118de77914"
+        "https://news.web.nhk/newsweb/na/nd-20261117de76937"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-recent-solar-power-evolution/",
