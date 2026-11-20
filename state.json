@@ -85,6 +85,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o#0",
         "https://www.bbc.co.uk/news/articles/cx1l0pm7l9jmo#1",
         "https://www.bbc.co.uk/news/articles/cqn70vxp5p4no#0",
         "https://www.bbc.co.uk/news/articles/crgj35ldz2zxo#0",
@@ -283,10 +284,10 @@
         "https://www.bbc.co.uk/news/articles/cqev3v2ygzlvo#0",
         "https://www.bbc.co.uk/news/articles/cm752w35lkz3o#0",
         "https://www.bbc.co.uk/news/articles/cmy86pp336qlo#1",
-        "https://www.bbc.co.uk/news/articles/c68798vdprwpo#0",
-        "https://www.bbc.co.uk/news/articles/c8n50457edd4o#0"
+        "https://www.bbc.co.uk/news/articles/c68798vdprwpo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261120de78800",
         "https://news.web.nhk/newsweb/na/nd-20261120de78786",
         "https://news.web.nhk/newsweb/na/nd-20261120de78778",
         "https://news.web.nhk/newsweb/na/nd-20261120de78746",
@@ -485,8 +486,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261117de77454",
         "https://news.web.nhk/newsweb/na/nd-20261117de77443",
         "https://news.web.nhk/newsweb/na/nd-20261117de77424",
-        "https://news.web.nhk/newsweb/na/nd-20261117de77425",
-        "https://news.web.nhk/newsweb/na/nd-20261117de77426"
+        "https://news.web.nhk/newsweb/na/nd-20261117de77425"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-chatgpt-live-dictation/",
