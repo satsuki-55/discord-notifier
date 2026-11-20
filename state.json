@@ -86,6 +86,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cm2klg8512z0o#1",
         "https://www.bbc.co.uk/news/articles/c8p3vwevreyqo#0",
         "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro#0",
         "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro#1",
@@ -284,10 +285,11 @@
         "https://www.bbc.co.uk/news/articles/crkgvxxwpwz2o#1",
         "https://www.bbc.co.uk/news/articles/cq702k1w8xd3o#1",
         "https://www.bbc.co.uk/news/articles/cw8r75xm8v4po#2",
-        "https://www.bbc.co.uk/news/articles/cw8r75xm8v4po#0",
-        "https://www.bbc.co.uk/news/articles/cq702k1w8xd3o#0"
+        "https://www.bbc.co.uk/news/articles/cw8r75xm8v4po#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261119de78159",
+        "https://news.web.nhk/newsweb/na/nd-20261120de79437",
         "https://news.web.nhk/newsweb/na/nd-20261120de79438",
         "https://news.web.nhk/newsweb/na/nd-20261120de79127",
         "https://news.web.nhk/newsweb/na/nd-20261120de79435",
@@ -485,9 +487,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261116de76437",
         "https://news.web.nhk/newsweb/na/nd-20261118de77785",
         "https://news.web.nhk/newsweb/na/nd-20261118de77712",
-        "https://news.web.nhk/newsweb/na/nd-20261118de77800",
-        "https://news.web.nhk/newsweb/na/nd-20261118de77726",
-        "https://news.web.nhk/newsweb/na/nd-20261118de77740"
+        "https://news.web.nhk/newsweb/na/nd-20261118de77800"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-adobe-ai-creator-imagination/",
