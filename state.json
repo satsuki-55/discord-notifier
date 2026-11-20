@@ -85,6 +85,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cke89vdd77p3o#0",
         "https://www.bbc.co.uk/news/articles/cqy4jvprxyrdo#1",
         "https://www.bbc.co.uk/news/articles/c6d94pzk9vleo#0",
         "https://www.bbc.co.uk/news/articles/ck053mzy2qqeo#0",
@@ -283,10 +284,10 @@
         "https://www.bbc.co.uk/news/videos/c6wy0j1xeypqo#1",
         "https://www.bbc.co.uk/news/articles/cx053jrv9rz9o#1",
         "https://www.bbc.co.uk/news/articles/cm0rknk0pgdpo#0",
-        "https://www.bbc.co.uk/news/articles/cv62p3y89z13o#1",
-        "https://www.bbc.co.uk/news/videos/cqp86k23d84ro#1"
+        "https://www.bbc.co.uk/news/articles/cv62p3y89z13o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261120de79034",
         "https://news.web.nhk/newsweb/na/nd-20261120de79120",
         "https://news.web.nhk/newsweb/na/nd-20261120de79029",
         "https://news.web.nhk/newsweb/na/nd-20261120de79038",
@@ -485,10 +486,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261118de77596",
         "https://news.web.nhk/newsweb/na/nd-20261118de77544",
         "https://news.web.nhk/newsweb/na/nd-20261118de77539",
-        "https://news.web.nhk/newsweb/na/nd-20261118de77527",
-        "https://news.web.nhk/newsweb/na/nd-20261118de77531"
+        "https://news.web.nhk/newsweb/na/nd-20261118de77527"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/orimouse_new-colors_and_art-design/",
         "https://www.gizmodo.jp/article/2611-oura-ring-jet-lag-plan/",
         "https://www.gizmodo.jp/article/2611-xiaomi-clip-earcuff-earphones/",
         "https://www.gizmodo.jp/article/2611-alexa-plus-natural-conversation/",
@@ -687,8 +688,7 @@
         "https://www.gizmodo.jp/article/2611-microsoft-365-outage-20241113/",
         "https://www.gizmodo.jp/article/2611-nvidia-chips-singapore-sales/",
         "https://www.gizmodo.jp/article/m6_macbook-pro_review/",
-        "https://www.gizmodo.jp/article/microsoft_voluntary_resignation_offer/",
-        "https://www.gizmodo.jp/article/keychron-orca-echo-normal-profile/"
+        "https://www.gizmodo.jp/article/microsoft_voluntary_resignation_offer/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "5LqyN2uMHog",
