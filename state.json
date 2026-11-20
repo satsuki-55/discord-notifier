@@ -87,6 +87,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/ck9d7e9wvvweo#0",
         "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno#0",
         "https://www.bbc.co.uk/news/articles/cq702ez8d4lwo#1",
         "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno#1",
@@ -285,10 +286,12 @@
         "https://www.bbc.co.uk/news/articles/c6x284pnn4e2o#0",
         "https://www.bbc.co.uk/news/articles/cmy49873dn95o#1",
         "https://www.bbc.co.uk/news/articles/cw62pelje06do#1",
-        "https://www.bbc.co.uk/news/articles/cmy49873dn95o#0",
-        "https://www.bbc.co.uk/news/articles/c6lyw490z14jo#0"
+        "https://www.bbc.co.uk/news/articles/cmy49873dn95o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261121de79483",
+        "https://news.web.nhk/newsweb/na/nd-20261116de76627",
+        "https://news.web.nhk/newsweb/na/nd-20261121de79509",
         "https://news.web.nhk/newsweb/na/nd-20261121de79488",
         "https://news.web.nhk/newsweb/na/nd-20261121de79487",
         "https://news.web.nhk/newsweb/na/nd-20261121de79482",
@@ -485,10 +488,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261118de77990",
         "https://news.web.nhk/newsweb/na/nd-20261118de78032",
         "https://news.web.nhk/newsweb/na/nd-20261118de77987",
-        "https://news.web.nhk/newsweb/na/nd-20261118de78036",
-        "https://news.web.nhk/newsweb/na/nd-20261118de78027",
-        "https://news.web.nhk/newsweb/na/nd-20261118de77976",
-        "https://news.web.nhk/newsweb/na/nd-20261118de77875"
+        "https://news.web.nhk/newsweb/na/nd-20261118de78036"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/anthropic-cbrn-threat-investigator-job/",
