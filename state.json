@@ -287,6 +287,8 @@
         "https://www.bbc.co.uk/news/articles/cm62y2e4qd9yo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261120de79258",
+        "https://news.web.nhk/newsweb/na/nd-20261120de79242",
         "https://news.web.nhk/newsweb/na/nd-20261120de79035",
         "https://news.web.nhk/newsweb/na/nd-20261120de79196",
         "https://news.web.nhk/newsweb/na/nd-20261120de79237",
@@ -484,9 +486,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261118de77672",
         "https://news.web.nhk/newsweb/na/nd-20261118de77677",
         "https://news.web.nhk/newsweb/na/nd-20261118de77680",
-        "https://news.web.nhk/newsweb/na/nd-20261118de77578",
-        "https://news.web.nhk/newsweb/na/nd-20261118de77643",
-        "https://news.web.nhk/newsweb/na/nd-20261118de77627"
+        "https://news.web.nhk/newsweb/na/nd-20261118de77578"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-sennheiser-ie-100-pro-sale/",
