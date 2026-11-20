@@ -288,6 +288,7 @@
         "https://www.bbc.co.uk/news/articles/cm4gn9xnn1ppo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261120de79345",
         "https://news.web.nhk/newsweb/na/nd-20261120de79342",
         "https://news.web.nhk/newsweb/na/nd-20261120de79347",
         "https://news.web.nhk/newsweb/na/nd-20261120de79315",
@@ -486,10 +487,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261118de77702",
         "https://news.web.nhk/newsweb/na/nd-20261118de77693",
         "https://news.web.nhk/newsweb/na/nd-20261118de77656",
-        "https://news.web.nhk/newsweb/na/nd-20261118de77691",
-        "https://news.web.nhk/newsweb/na/nd-20261118de77644"
+        "https://news.web.nhk/newsweb/na/nd-20261118de77691"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/iphone-duo-self-repair-parts-price/",
         "https://www.gizmodo.jp/article/2611-operation-endgame-malware-fbi-raid/",
         "https://www.gizmodo.jp/article/2611-sennheiser-ie-100-pro-sale/",
         "https://www.gizmodo.jp/article/2611-logicool-game-day-vacation/",
@@ -688,8 +689,7 @@
         "https://www.gizmodo.jp/article/2611-outlook-vulnerability-fix-cve-2026-124194/",
         "https://www.gizmodo.jp/article/panasonic_toughbook_fz-g3_fz-34/",
         "https://www.gizmodo.jp/article/2611-buffalo-stick-ssd-500gb/",
-        "https://www.gizmodo.jp/article/2611-amazon-black-friday-ad-fee-increase/",
-        "https://www.gizmodo.jp/article/2611-m6-mac-mini-amazon-points/"
+        "https://www.gizmodo.jp/article/2611-amazon-black-friday-ad-fee-increase/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "5LqyN2uMHog",
