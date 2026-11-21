@@ -291,6 +291,7 @@
         "https://www.bbc.co.uk/news/videos/cmx2ryw97x4go#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261121de79750",
         "https://news.web.nhk/newsweb/na/nd-20261121de79744",
         "https://news.web.nhk/newsweb/na/nd-20261121de79742",
         "https://news.web.nhk/newsweb/na/nd-20261121de79734",
@@ -489,8 +490,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261119de78233",
         "https://news.web.nhk/newsweb/na/nd-20261119de78229",
         "https://news.web.nhk/newsweb/na/nd-20261119de78187",
-        "https://news.web.nhk/newsweb/na/nd-20261119de78175",
-        "https://news.web.nhk/newsweb/na/nd-20261119de78168"
+        "https://news.web.nhk/newsweb/na/nd-20261119de78175"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/mont-bel_neigedownparka/",
