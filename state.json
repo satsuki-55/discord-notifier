@@ -290,6 +290,7 @@
         "https://www.bbc.co.uk/news/articles/ckq6eg55n221o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261121de79553",
         "https://news.web.nhk/newsweb/na/nd-20261121de79616",
         "https://news.web.nhk/newsweb/na/nd-20261121de79612",
         "https://news.web.nhk/newsweb/na/nd-20261121de79604",
@@ -488,10 +489,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261119de78132",
         "https://news.web.nhk/newsweb/na/nd-20261119de78090",
         "https://news.web.nhk/newsweb/na/nd-20261119de78130",
-        "https://news.web.nhk/newsweb/na/nd-20261119de78073",
-        "https://news.web.nhk/newsweb/na/nd-20261119de78092"
+        "https://news.web.nhk/newsweb/na/nd-20261119de78073"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2611-robot-dogs-data-center-security/",
         "https://www.gizmodo.jp/article/fukui-oldest-fossil-snail-parenting/",
         "https://www.gizmodo.jp/article/how-to-make-custom-app-with-ai/",
         "https://www.gizmodo.jp/article/tnf-mayflypack22/",
@@ -690,8 +691,7 @@
         "https://www.gizmodo.jp/article/2611-inzai-big-hop-datacenter-plan/",
         "https://www.gizmodo.jp/article/2611-mind-blowing-space-facts/",
         "https://www.gizmodo.jp/article/spotify_ai_remix/",
-        "https://www.gizmodo.jp/article/nape-pro-se-iphone-duo/",
-        "https://www.gizmodo.jp/article/headless_humanoid_robot_voxel/"
+        "https://www.gizmodo.jp/article/nape-pro-se-iphone-duo/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "5LqyN2uMHog",
