@@ -292,6 +292,7 @@
         "https://www.bbc.co.uk/news/articles/cmgrenln8p29o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261122de79777",
         "https://news.web.nhk/newsweb/na/nd-20261122de79781",
         "https://news.web.nhk/newsweb/na/nd-20261121de79741",
         "https://news.web.nhk/newsweb/na/nd-20261122de79790",
@@ -490,8 +491,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261119de78321",
         "https://news.web.nhk/newsweb/na/nd-20261119de78342",
         "https://news.web.nhk/newsweb/na/nd-20261119de78346",
-        "https://news.web.nhk/newsweb/na/nd-20261119de78324",
-        "https://news.web.nhk/newsweb/na/nd-20261119de78288"
+        "https://news.web.nhk/newsweb/na/nd-20261119de78324"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-golden-boy-mummy-ct-scan/",
