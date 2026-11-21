@@ -289,6 +289,7 @@
         "https://www.bbc.co.uk/news/articles/c6lyw490z14jo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261121de79555",
         "https://news.web.nhk/newsweb/na/nd-20261121de79545",
         "https://news.web.nhk/newsweb/na/nd-20261121de79559",
         "https://news.web.nhk/newsweb/na/nd-20261121de79560",
@@ -487,8 +488,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261119de78096",
         "https://news.web.nhk/newsweb/na/nd-20261119de78117",
         "https://news.web.nhk/newsweb/na/nd-20261118de78072",
-        "https://news.web.nhk/newsweb/na/nd-20261119de78111",
-        "https://news.web.nhk/newsweb/na/nd-20261119de78097"
+        "https://news.web.nhk/newsweb/na/nd-20261119de78111"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-spokeless-acrylic-wheel-bicycle/",
