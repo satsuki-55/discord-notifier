@@ -90,6 +90,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/videos/cqn0dwrewrwxo#0",
         "https://www.bbc.co.uk/sport/rugby-union/articles/cwm25ev1z8y8o#1",
         "https://www.bbc.co.uk/news/articles/cwe9k23dpz0do#1",
         "https://www.bbc.co.uk/news/articles/cm3vg9dqr6zyo#0",
@@ -288,10 +289,10 @@
         "https://www.bbc.co.uk/news/articles/c6e9kn15z9d7o#0",
         "https://www.bbc.co.uk/news/articles/cmwy8pgj2z8vo#1",
         "https://www.bbc.co.uk/news/articles/cr9d75we51j1o#2",
-        "https://www.bbc.co.uk/news/videos/cm4gn31yn0x9o#1",
-        "https://www.bbc.co.uk/news/articles/cwvg2mp0de2jo#2"
+        "https://www.bbc.co.uk/news/videos/cm4gn31yn0x9o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261122de79793",
         "https://news.web.nhk/newsweb/na/nd-20261122de79820",
         "https://news.web.nhk/newsweb/na/nd-20261122de79786",
         "https://news.web.nhk/newsweb/na/nd-20261121de79711",
@@ -490,8 +491,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261119de78419",
         "https://news.web.nhk/newsweb/na/nd-20261119de78412",
         "https://news.web.nhk/newsweb/na/nd-20261117de76916",
-        "https://news.web.nhk/newsweb/na/nd-20261119de78394",
-        "https://news.web.nhk/newsweb/na/nd-20261119de78387"
+        "https://news.web.nhk/newsweb/na/nd-20261119de78394"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-spacex-barista-job-starbase-redmond/",
