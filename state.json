@@ -291,6 +291,7 @@
         "https://www.bbc.co.uk/news/videos/cmx2ryw97x4go#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261028de67165",
         "https://news.web.nhk/newsweb/na/nd-20261121de79750",
         "https://news.web.nhk/newsweb/na/nd-20261121de79744",
         "https://news.web.nhk/newsweb/na/nd-20261121de79742",
@@ -489,10 +490,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261119de78267",
         "https://news.web.nhk/newsweb/na/nd-20261119de78233",
         "https://news.web.nhk/newsweb/na/nd-20261119de78229",
-        "https://news.web.nhk/newsweb/na/nd-20261119de78187",
-        "https://news.web.nhk/newsweb/na/nd-20261119de78175"
+        "https://news.web.nhk/newsweb/na/nd-20261119de78187"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2611-gta5-sea-level-rise-los-angeles-simulation/",
         "https://www.gizmodo.jp/article/fujifilm_utsurundesu-black-and-white_review/",
         "https://www.gizmodo.jp/article/mont-bel_neigedownparka/",
         "https://www.gizmodo.jp/article/2611-elnino-phenomenon-strongest-forecast/",
@@ -691,8 +692,7 @@
         "https://www.gizmodo.jp/article/tesla-holiday-collection/",
         "https://www.gizmodo.jp/article/thanko-guitar-amp-mini-fridge/",
         "https://www.gizmodo.jp/article/thermal-paper-instant-camera-da1/",
-        "https://www.gizmodo.jp/article/marshall-stockwell-iii-review/",
-        "https://www.gizmodo.jp/article/2611-earth-rotation-leap-hour/"
+        "https://www.gizmodo.jp/article/marshall-stockwell-iii-review/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "5LqyN2uMHog",
