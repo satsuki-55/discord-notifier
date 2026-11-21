@@ -88,6 +88,8 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o#0",
+        "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo#0",
         "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o#1",
         "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo#1",
         "https://www.bbc.co.uk/news/articles/cw8dv4jmnle2o#0",
@@ -285,11 +287,10 @@
         "https://www.bbc.co.uk/news/articles/c9vg2xgn0xe5o#1",
         "https://www.bbc.co.uk/news/articles/c8wy5erexq0ko#0",
         "https://www.bbc.co.uk/news/articles/ck79210y125xo#1",
-        "https://www.bbc.co.uk/news/articles/ckq6eg55n221o#1",
-        "https://www.bbc.co.uk/news/articles/ckq5vg81805qo#1",
-        "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo#0"
+        "https://www.bbc.co.uk/news/articles/ckq6eg55n221o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261121de79612",
         "https://news.web.nhk/newsweb/na/nd-20261121de79604",
         "https://news.web.nhk/newsweb/na/nd-20261121de79607",
         "https://news.web.nhk/newsweb/na/nd-20261121de79605",
@@ -488,8 +489,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261119de78130",
         "https://news.web.nhk/newsweb/na/nd-20261119de78073",
         "https://news.web.nhk/newsweb/na/nd-20261119de78092",
-        "https://news.web.nhk/newsweb/na/nd-20261119de78085",
-        "https://news.web.nhk/newsweb/na/nd-20261119de78076"
+        "https://news.web.nhk/newsweb/na/nd-20261119de78085"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/fukui-oldest-fossil-snail-parenting/",
