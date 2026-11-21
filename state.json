@@ -289,6 +289,8 @@
         "https://www.bbc.co.uk/news/articles/c6lyw490z14jo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261121de79540",
+        "https://news.web.nhk/newsweb/na/nd-20261121de79478",
         "https://news.web.nhk/newsweb/na/nd-20261121de79510",
         "https://news.web.nhk/newsweb/na/nd-20261121de79497",
         "https://news.web.nhk/newsweb/na/nd-20261121de79483",
@@ -486,9 +488,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261118de78047",
         "https://news.web.nhk/newsweb/na/nd-20261118de78044",
         "https://news.web.nhk/newsweb/na/nd-20261118de78046",
-        "https://news.web.nhk/newsweb/na/nd-20261118de78043",
-        "https://news.web.nhk/newsweb/na/nd-20261118de77990",
-        "https://news.web.nhk/newsweb/na/nd-20261118de78032"
+        "https://news.web.nhk/newsweb/na/nd-20261118de78043"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-framework-wireless-touchpad-keyboard/",
