@@ -291,6 +291,7 @@
         "https://www.bbc.co.uk/news/articles/cw987ynpd0n1o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261121de79756",
         "https://news.web.nhk/newsweb/na/nd-20261028de67165",
         "https://news.web.nhk/newsweb/na/nd-20261121de79750",
         "https://news.web.nhk/newsweb/na/nd-20261121de79744",
@@ -489,8 +490,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261119de78261",
         "https://news.web.nhk/newsweb/na/nd-20261119de78267",
         "https://news.web.nhk/newsweb/na/nd-20261119de78233",
-        "https://news.web.nhk/newsweb/na/nd-20261119de78229",
-        "https://news.web.nhk/newsweb/na/nd-20261119de78187"
+        "https://news.web.nhk/newsweb/na/nd-20261119de78229"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-gta5-sea-level-rise-los-angeles-simulation/",
