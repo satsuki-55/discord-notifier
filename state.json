@@ -291,6 +291,7 @@
         "https://www.bbc.co.uk/news/videos/cmx2ryw97x4go#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261121de79734",
         "https://news.web.nhk/newsweb/na/nd-20261121de79709",
         "https://news.web.nhk/newsweb/na/nd-20261121de79712",
         "https://news.web.nhk/newsweb/na/nd-20261121de79696",
@@ -489,8 +490,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261119de78175",
         "https://news.web.nhk/newsweb/na/nd-20261119de78168",
         "https://news.web.nhk/newsweb/na/nd-20261119de78146",
-        "https://news.web.nhk/newsweb/na/nd-20261119de78144",
-        "https://news.web.nhk/newsweb/na/nd-20261117de76882"
+        "https://news.web.nhk/newsweb/na/nd-20261119de78144"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-elnino-phenomenon-strongest-forecast/",
