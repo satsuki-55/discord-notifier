@@ -289,6 +289,7 @@
         "https://www.bbc.co.uk/news/articles/c6lyw490z14jo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261121de79560",
         "https://news.web.nhk/newsweb/na/nd-20261121de79551",
         "https://news.web.nhk/newsweb/na/nd-20261121de79543",
         "https://news.web.nhk/newsweb/na/nd-20261121de79548",
@@ -487,8 +488,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261119de78111",
         "https://news.web.nhk/newsweb/na/nd-20261119de78097",
         "https://news.web.nhk/newsweb/na/nd-20261119de78087",
-        "https://news.web.nhk/newsweb/na/nd-20261118de78070",
-        "https://news.web.nhk/newsweb/na/nd-20261118de78049"
+        "https://news.web.nhk/newsweb/na/nd-20261118de78070"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-ioto-volcano-coastline/",
