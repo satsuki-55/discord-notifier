@@ -293,6 +293,7 @@
         "https://www.bbc.co.uk/news/articles/cjy5xnye765zo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261122de80074",
         "https://news.web.nhk/newsweb/na/nd-20261122de79933",
         "https://news.web.nhk/newsweb/na/nd-20261122de80058",
         "https://news.web.nhk/newsweb/na/nd-20261122de80064",
@@ -491,8 +492,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261119de78697",
         "https://news.web.nhk/newsweb/na/nd-20261119de78674",
         "https://news.web.nhk/newsweb/na/nd-20261119de78662",
-        "https://news.web.nhk/newsweb/na/nd-20261119de78663",
-        "https://news.web.nhk/newsweb/na/nd-20261119de78668"
+        "https://news.web.nhk/newsweb/na/nd-20261119de78663"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-new-antarctic-strawberry-feather-star-species/",
