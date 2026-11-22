@@ -91,6 +91,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo#3",
         "https://www.bbc.co.uk/news/articles/cjn5023e6ez4o#1",
         "https://www.bbc.co.uk/news/articles/cj752ddve27ko#3",
         "https://www.bbc.co.uk/news/articles/ckqx5rylp9elo#2",
@@ -289,10 +290,10 @@
         "https://www.bbc.co.uk/news/articles/c623j4ln97x7o#1",
         "https://www.bbc.co.uk/news/videos/cmq8lyx41xj4o#1",
         "https://www.bbc.co.uk/news/articles/crq5n5pe935no#1",
-        "https://www.bbc.co.uk/news/articles/cm702q0lg50po#1",
-        "https://www.bbc.co.uk/news/articles/crx20q8ql4gwo#1"
+        "https://www.bbc.co.uk/news/articles/cm702q0lg50po#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261122de79985",
         "https://news.web.nhk/newsweb/na/nd-20261122de79989",
         "https://news.web.nhk/newsweb/na/nd-20261122de79962",
         "https://news.web.nhk/newsweb/na/nd-20261122de79957",
@@ -491,8 +492,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261119de78644",
         "https://news.web.nhk/newsweb/na/nd-20261119de78639",
         "https://news.web.nhk/newsweb/na/nd-20261119de78646",
-        "https://news.web.nhk/newsweb/na/nd-20261119de78610",
-        "https://news.web.nhk/newsweb/na/nd-20261119de78640"
+        "https://news.web.nhk/newsweb/na/nd-20261119de78610"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/cuisinart_clear-view-air-fryer/",
