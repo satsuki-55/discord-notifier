@@ -90,6 +90,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cvj6l8y3x1x4o#1",
         "https://www.bbc.co.uk/news/articles/cmq8lyv8lkjwo#1",
         "https://www.bbc.co.uk/news/articles/c81dvrqe1zv0o#2",
         "https://www.bbc.co.uk/news/articles/c920xgxp5785o#0",
@@ -288,8 +289,7 @@
         "https://www.bbc.co.uk/news/articles/c6eq4l4y81l2o#1",
         "https://www.bbc.co.uk/news/articles/cm5y13q0gx97o#0",
         "https://www.bbc.co.uk/news/articles/crx20q3qy0vxo#1",
-        "https://www.bbc.co.uk/news/articles/c6eq4l4y81l2o#0",
-        "https://www.bbc.co.uk/news/articles/c58j484089ewo#1"
+        "https://www.bbc.co.uk/news/articles/c6eq4l4y81l2o#0"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20261122de79873",
@@ -494,6 +494,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261119de78555"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/citizen_attesa-death-star_watch/",
         "https://www.gizmodo.jp/article/2611-china-top-graduates-manufacturing-energy/",
         "https://www.gizmodo.jp/article/2611-xreal-aura-review/",
         "https://www.gizmodo.jp/article/nape-pro-se-heavy-ball-custom/",
@@ -692,8 +693,7 @@
         "https://www.gizmodo.jp/article/touch-macbook-pro-1week-review/",
         "https://www.gizmodo.jp/article/2611-ram-altman-spam-device/",
         "https://www.gizmodo.jp/article/2611-pumped-storage-hydro-without-mountains/",
-        "https://www.gizmodo.jp/article/voyager-1-light-day-distance/",
-        "https://www.gizmodo.jp/article/2611-anker-sleeplab-pro-sleep-tracker/"
+        "https://www.gizmodo.jp/article/voyager-1-light-day-distance/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "5LqyN2uMHog",
