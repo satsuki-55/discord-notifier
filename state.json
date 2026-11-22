@@ -292,6 +292,8 @@
         "https://www.bbc.co.uk/news/articles/c6vg2ljjpj32o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261122de79957",
+        "https://news.web.nhk/newsweb/na/nd-20261122de79954",
         "https://news.web.nhk/newsweb/na/nd-20261122de79948",
         "https://news.web.nhk/newsweb/na/nd-20261122de79958",
         "https://news.web.nhk/newsweb/na/nd-20261122de79936",
@@ -489,9 +491,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261119de78610",
         "https://news.web.nhk/newsweb/na/nd-20261119de78640",
         "https://news.web.nhk/newsweb/na/nd-20261119de78636",
-        "https://news.web.nhk/newsweb/na/nd-20261119de78620",
-        "https://news.web.nhk/newsweb/na/nd-20261119de78621",
-        "https://news.web.nhk/newsweb/na/nd-20261119de78608"
+        "https://news.web.nhk/newsweb/na/nd-20261119de78620"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/citizen_attesa-death-star_watch/",
