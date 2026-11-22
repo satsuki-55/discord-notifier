@@ -293,6 +293,7 @@
         "https://www.bbc.co.uk/news/articles/ckq6eyrzrzy5o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261122de79933",
         "https://news.web.nhk/newsweb/na/nd-20261122de80058",
         "https://news.web.nhk/newsweb/na/nd-20261122de80064",
         "https://news.web.nhk/newsweb/na/nd-20261122de80041",
@@ -491,10 +492,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261119de78674",
         "https://news.web.nhk/newsweb/na/nd-20261119de78662",
         "https://news.web.nhk/newsweb/na/nd-20261119de78663",
-        "https://news.web.nhk/newsweb/na/nd-20261119de78668",
-        "https://news.web.nhk/newsweb/na/nd-20261119de78660"
+        "https://news.web.nhk/newsweb/na/nd-20261119de78668"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2611-super-el-nino-wildfires/",
         "https://www.gizmodo.jp/article/science-prima-retinal-implant/",
         "https://www.gizmodo.jp/article/2611-yamashina-seiki-batasla/",
         "https://www.gizmodo.jp/article/anthropic-ai-development-acceleration/",
@@ -693,8 +694,7 @@
         "https://www.gizmodo.jp/article/honor-robot-phone-2_successor/",
         "https://www.gizmodo.jp/article/2611-sony-pulse-elevate-release-delayed/",
         "https://www.gizmodo.jp/article/2611-keychron-f4-he-8k-vibe-coding-keypad/",
-        "https://www.gizmodo.jp/article/2611-ex-fbi-agent-crypto-theft/",
-        "https://www.gizmodo.jp/article/2611-ai-data-center-water-power-issue/"
+        "https://www.gizmodo.jp/article/2611-ex-fbi-agent-crypto-theft/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "5LqyN2uMHog",
