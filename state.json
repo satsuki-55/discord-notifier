@@ -292,6 +292,7 @@
         "https://www.bbc.co.uk/news/articles/c6e9kn15z9d7o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261122de79863",
         "https://news.web.nhk/newsweb/na/nd-20261122de79839",
         "https://news.web.nhk/newsweb/na/nd-20261122de79868",
         "https://news.web.nhk/newsweb/na/nd-20261122de79841",
@@ -490,8 +491,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261119de78589",
         "https://news.web.nhk/newsweb/na/nd-20261119de78555",
         "https://news.web.nhk/newsweb/na/nd-20261119de78535",
-        "https://news.web.nhk/newsweb/na/nd-20261119de78167",
-        "https://news.web.nhk/newsweb/na/nd-20261119de78471"
+        "https://news.web.nhk/newsweb/na/nd-20261119de78167"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/nape-pro-se-heavy-ball-custom/",
