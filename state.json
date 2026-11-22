@@ -293,6 +293,7 @@
         "https://www.bbc.co.uk/news/articles/cx1l0pm7l9jmo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261123de80132",
         "https://news.web.nhk/newsweb/na/nd-20261123de80128",
         "https://news.web.nhk/newsweb/na/nd-20261123de80110",
         "https://news.web.nhk/newsweb/na/nd-20261118de77741",
@@ -491,8 +492,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261117de77308",
         "https://news.web.nhk/newsweb/na/nd-20261120de78753",
         "https://news.web.nhk/newsweb/na/nd-20261119de78723",
-        "https://news.web.nhk/newsweb/na/nd-20261119de78725",
-        "https://news.web.nhk/newsweb/na/nd-20261119de78692"
+        "https://news.web.nhk/newsweb/na/nd-20261119de78725"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/anker_sleep-earbuds-4-pro/",
