@@ -293,6 +293,7 @@
         "https://www.bbc.co.uk/news/articles/ckq6eyrzrzy5o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261122de80064",
         "https://news.web.nhk/newsweb/na/nd-20261122de80041",
         "https://news.web.nhk/newsweb/na/nd-20261122de80043",
         "https://news.web.nhk/newsweb/na/nd-20261122de80050",
@@ -491,8 +492,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261119de78663",
         "https://news.web.nhk/newsweb/na/nd-20261119de78668",
         "https://news.web.nhk/newsweb/na/nd-20261119de78660",
-        "https://news.web.nhk/newsweb/na/nd-20261119de78655",
-        "https://news.web.nhk/newsweb/na/nd-20261119de78423"
+        "https://news.web.nhk/newsweb/na/nd-20261119de78655"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/science-prima-retinal-implant/",
