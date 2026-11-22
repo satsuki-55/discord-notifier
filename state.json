@@ -293,6 +293,7 @@
         "https://www.bbc.co.uk/news/articles/cmwy8pyqlq5vo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261122de80018",
         "https://news.web.nhk/newsweb/na/nd-20261122de79985",
         "https://news.web.nhk/newsweb/na/nd-20261122de79989",
         "https://news.web.nhk/newsweb/na/nd-20261122de79962",
@@ -491,8 +492,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261119de78423",
         "https://news.web.nhk/newsweb/na/nd-20261119de78644",
         "https://news.web.nhk/newsweb/na/nd-20261119de78639",
-        "https://news.web.nhk/newsweb/na/nd-20261119de78646",
-        "https://news.web.nhk/newsweb/na/nd-20261119de78610"
+        "https://news.web.nhk/newsweb/na/nd-20261119de78646"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/cuisinart_clear-view-air-fryer/",
