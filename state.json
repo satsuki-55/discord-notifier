@@ -293,6 +293,7 @@
         "https://www.bbc.co.uk/news/articles/c623j4ln97x7o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261122de80043",
         "https://news.web.nhk/newsweb/na/nd-20261122de80050",
         "https://news.web.nhk/newsweb/na/nd-20261122de80018",
         "https://news.web.nhk/newsweb/na/nd-20261122de79985",
@@ -491,10 +492,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261119de78660",
         "https://news.web.nhk/newsweb/na/nd-20261119de78655",
         "https://news.web.nhk/newsweb/na/nd-20261119de78423",
-        "https://news.web.nhk/newsweb/na/nd-20261119de78644",
-        "https://news.web.nhk/newsweb/na/nd-20261119de78639"
+        "https://news.web.nhk/newsweb/na/nd-20261119de78644"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/openai-sued-california-ai-hacking-incident/",
         "https://www.gizmodo.jp/article/2611-zerokara-liquid-freezing-technology/",
         "https://www.gizmodo.jp/article/cuisinart_clear-view-air-fryer/",
         "https://www.gizmodo.jp/article/2611-google-quaise-energy-geothermal-power-ai/",
@@ -693,8 +694,7 @@
         "https://www.gizmodo.jp/article/2611-blue-phone-ai-agent-smartphone/",
         "https://www.gizmodo.jp/article/south-pole-linux-winterover-job/",
         "https://www.gizmodo.jp/article/starlink-mini-2/",
-        "https://www.gizmodo.jp/article/amazon-alexa-for-shopping/",
-        "https://www.gizmodo.jp/article/2611-toyota-kei-truck-us-release/"
+        "https://www.gizmodo.jp/article/amazon-alexa-for-shopping/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "5LqyN2uMHog",
