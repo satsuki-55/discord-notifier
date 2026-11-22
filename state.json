@@ -91,6 +91,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cq8e0p87l89lo#1",
         "https://www.bbc.co.uk/news/articles/cmn4kz7lj3jvo#0",
         "https://www.bbc.co.uk/news/articles/cq8e0p87l89lo#0",
         "https://www.bbc.co.uk/news/articles/cw3dgk29d37no#0",
@@ -289,8 +290,7 @@
         "https://www.bbc.co.uk/news/articles/ckdd1y09eqjmo#1",
         "https://www.bbc.co.uk/news/articles/c804wzp20ddvo#0",
         "https://www.bbc.co.uk/news/articles/ckq6eyrzrzy5o#0",
-        "https://www.bbc.co.uk/news/articles/c804wzp20ddvo#1",
-        "https://www.bbc.co.uk/news/articles/c623j4ln97x7o#0"
+        "https://www.bbc.co.uk/news/articles/c804wzp20ddvo#1"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20261122de80043",
@@ -495,6 +495,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261119de78644"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/anthropic-goes-for-microsofts-crown-with-new-claude-powered-office-tools/",
         "https://www.gizmodo.jp/article/openai-sued-california-ai-hacking-incident/",
         "https://www.gizmodo.jp/article/2611-zerokara-liquid-freezing-technology/",
         "https://www.gizmodo.jp/article/cuisinart_clear-view-air-fryer/",
@@ -693,8 +694,7 @@
         "https://www.gizmodo.jp/article/2611-ai-data-center-water-power-issue/",
         "https://www.gizmodo.jp/article/2611-blue-phone-ai-agent-smartphone/",
         "https://www.gizmodo.jp/article/south-pole-linux-winterover-job/",
-        "https://www.gizmodo.jp/article/starlink-mini-2/",
-        "https://www.gizmodo.jp/article/amazon-alexa-for-shopping/"
+        "https://www.gizmodo.jp/article/starlink-mini-2/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "5LqyN2uMHog",
