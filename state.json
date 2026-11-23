@@ -91,6 +91,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cm3eg502nxw2o#1",
         "https://www.bbc.co.uk/news/articles/c6wy4ng1rznxo#1",
         "https://www.bbc.co.uk/news/articles/cq1j6585l5g6o#1",
         "https://www.bbc.co.uk/news/articles/cm894p88jzxpo#0",
@@ -289,8 +290,7 @@
         "https://www.bbc.co.uk/news/articles/cvp86l5j7l93o#1",
         "https://www.bbc.co.uk/news/videos/c8wy5d43zp9qo#1",
         "https://www.bbc.co.uk/news/articles/c8wy5erexq0ko#0",
-        "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o#0",
-        "https://www.bbc.co.uk/weather/articles/ckvg251xz51do#1"
+        "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o#0"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20261124de80318",
@@ -495,6 +495,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261120de78837"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2611-mitsubishi-liqutenna-water-antenna/",
         "https://www.gizmodo.jp/article/2611-smart-speaker-data-usage-bug/",
         "https://www.gizmodo.jp/article/2611-nvidia-jensen-huang-returns-as-ceo/",
         "https://www.gizmodo.jp/article/2611-nasa-black-hole-simulation/",
@@ -693,8 +694,7 @@
         "https://www.gizmodo.jp/article/2611-jensen-huang-nvidia-ceo-return-petition/",
         "https://www.gizmodo.jp/article/2611-microsoft-asr-rog-xbox-ally-x/",
         "https://www.gizmodo.jp/article/2611-teenage-engineering-cd-player/",
-        "https://www.gizmodo.jp/article/2611-saturn-rings-lost-moon-origin/",
-        "https://www.gizmodo.jp/article/2611-nasa-chapea-mars-simulation-project/"
+        "https://www.gizmodo.jp/article/2611-saturn-rings-lost-moon-origin/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "5LqyN2uMHog",
