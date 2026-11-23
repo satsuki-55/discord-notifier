@@ -293,6 +293,8 @@
         "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261120de78848",
+        "https://news.web.nhk/newsweb/na/nd-20261123de80289",
         "https://news.web.nhk/newsweb/na/nd-20261123de80283",
         "https://news.web.nhk/newsweb/na/nd-20261123de80131",
         "https://news.web.nhk/newsweb/na/nd-20261123de80304",
@@ -490,9 +492,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261120de78934",
         "https://news.web.nhk/newsweb/na/nd-20261120de78923",
         "https://news.web.nhk/newsweb/na/nd-20261120de78820",
-        "https://news.web.nhk/newsweb/na/nd-20261120de78827",
-        "https://news.web.nhk/newsweb/na/nd-20261120de78814",
-        "https://news.web.nhk/newsweb/na/nd-20261120de78848"
+        "https://news.web.nhk/newsweb/na/nd-20261120de78827"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-nvidia-jensen-huang-returns-as-ceo/",
