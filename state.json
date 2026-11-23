@@ -293,6 +293,7 @@
         "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261123de80192",
         "https://news.web.nhk/newsweb/na/nd-20261123de80168",
         "https://news.web.nhk/newsweb/na/nd-20261123de80151",
         "https://news.web.nhk/newsweb/na/nd-20261123de80164",
@@ -491,8 +492,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261117de77395",
         "https://news.web.nhk/newsweb/na/nd-20261120de78749",
         "https://news.web.nhk/newsweb/na/nd-20261120de78758",
-        "https://news.web.nhk/newsweb/na/nd-20261120de78759",
-        "https://news.web.nhk/newsweb/na/nd-20261120de78735"
+        "https://news.web.nhk/newsweb/na/nd-20261120de78759"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/ai-takeover-risk-openai-board-christiano/",
