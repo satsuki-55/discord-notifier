@@ -91,6 +91,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c65y1qqw3kjxo#0",
         "https://www.bbc.co.uk/sport/boxing/articles/c6y80n3dn15yo#1",
         "https://www.bbc.co.uk/news/articles/c6n90j1qxel8o#0",
         "https://www.bbc.co.uk/news/articles/cm2d94le23xyo#1",
@@ -289,8 +290,7 @@
         "https://www.bbc.co.uk/news/articles/cm62y2e4qd9yo#0",
         "https://www.bbc.co.uk/news/articles/cwz0k3nn5p5mo#0",
         "https://www.bbc.co.uk/news/articles/cmlye2334wlyo#1",
-        "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o#0",
-        "https://www.bbc.co.uk/news/articles/cm3rgnvxj339o#0"
+        "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o#0"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20261123de80272",
@@ -495,6 +495,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261120de78778"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/snowpeak-fr-2l-down-poncho/",
         "https://www.gizmodo.jp/article/ai-phage-design-ecoli/",
         "https://www.gizmodo.jp/article/2611-depack-defrosting-machine/",
         "https://www.gizmodo.jp/article/2611-ukraine-winter-distributed-power/",
@@ -693,8 +694,7 @@
         "https://www.gizmodo.jp/article/psp_3ds_granular_sampler_dzagrain/",
         "https://www.gizmodo.jp/article/2611-chatgpt-wallet-credit-card-ai/",
         "https://www.gizmodo.jp/article/pitaka-wind-over-wheat-phone-cases/",
-        "https://www.gizmodo.jp/article/2611-norway-datacenters-power-shortage/",
-        "https://www.gizmodo.jp/article/2611-buffalo-qi2-wireless-usb-charger/"
+        "https://www.gizmodo.jp/article/2611-norway-datacenters-power-shortage/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "5LqyN2uMHog",
