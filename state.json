@@ -293,6 +293,7 @@
         "https://www.bbc.co.uk/news/articles/cmd7159vlr85o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261123de80146",
         "https://news.web.nhk/newsweb/na/nd-20261123de80145",
         "https://news.web.nhk/newsweb/na/nd-20261123de80139",
         "https://news.web.nhk/newsweb/na/nd-20261123de80133",
@@ -491,8 +492,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261120de78738",
         "https://news.web.nhk/newsweb/na/nd-20261120de78748",
         "https://news.web.nhk/newsweb/na/nd-20261119de78715",
-        "https://news.web.nhk/newsweb/na/nd-20261120de78760",
-        "https://news.web.nhk/newsweb/na/nd-20261120de78757"
+        "https://news.web.nhk/newsweb/na/nd-20261120de78760"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/3coins-compact-heater/",
