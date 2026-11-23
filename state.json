@@ -293,6 +293,7 @@
         "https://www.bbc.co.uk/news/articles/cmd7159vlr85o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261123de80164",
         "https://news.web.nhk/newsweb/na/nd-20261123de80157",
         "https://news.web.nhk/newsweb/na/nd-20261123de80146",
         "https://news.web.nhk/newsweb/na/nd-20261123de80145",
@@ -491,10 +492,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261120de78759",
         "https://news.web.nhk/newsweb/na/nd-20261120de78735",
         "https://news.web.nhk/newsweb/na/nd-20261120de78738",
-        "https://news.web.nhk/newsweb/na/nd-20261120de78748",
-        "https://news.web.nhk/newsweb/na/nd-20261119de78715"
+        "https://news.web.nhk/newsweb/na/nd-20261120de78748"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/carnot-battery-rock-thermal-storage/",
         "https://www.gizmodo.jp/article/2611-solid-state-nuclear-battery-100-years/",
         "https://www.gizmodo.jp/article/3coins-compact-heater/",
         "https://www.gizmodo.jp/article/anker_sleep-earbuds-4-pro/",
@@ -693,8 +694,7 @@
         "https://www.gizmodo.jp/article/2611-samsung-google-smart-glasses-watch-control/",
         "https://www.gizmodo.jp/article/2611-apple-pokemon-applestore-giftcard-kajicchu/",
         "https://www.gizmodo.jp/article/ai-reverse-engineer-anything-crackdown/",
-        "https://www.gizmodo.jp/article/expand-sonos-27-products-to-build-a-home-theater/",
-        "https://www.gizmodo.jp/article/iphone-imessage-group-chat-vulnerability-fix/"
+        "https://www.gizmodo.jp/article/expand-sonos-27-products-to-build-a-home-theater/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "5LqyN2uMHog",
