@@ -293,6 +293,7 @@
         "https://www.bbc.co.uk/news/articles/cke89vdd77p3o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261123de80272",
         "https://news.web.nhk/newsweb/na/nd-20261123de80268",
         "https://news.web.nhk/newsweb/na/nd-20261123de80214",
         "https://news.web.nhk/newsweb/na/nd-20261123de80257",
@@ -491,8 +492,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261120de78808",
         "https://news.web.nhk/newsweb/na/nd-20261120de78800",
         "https://news.web.nhk/newsweb/na/nd-20261120de78786",
-        "https://news.web.nhk/newsweb/na/nd-20261120de78778",
-        "https://news.web.nhk/newsweb/na/nd-20261120de78746"
+        "https://news.web.nhk/newsweb/na/nd-20261120de78778"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/ai-phage-design-ecoli/",
