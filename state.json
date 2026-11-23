@@ -293,6 +293,7 @@
         "https://www.bbc.co.uk/news/articles/cmlye2334wlyo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261123de80277",
         "https://news.web.nhk/newsweb/na/nd-20261123de80276",
         "https://news.web.nhk/newsweb/na/nd-20261123de80272",
         "https://news.web.nhk/newsweb/na/nd-20261123de80268",
@@ -491,8 +492,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261120de78822",
         "https://news.web.nhk/newsweb/na/nd-20261120de78810",
         "https://news.web.nhk/newsweb/na/nd-20261120de78808",
-        "https://news.web.nhk/newsweb/na/nd-20261120de78800",
-        "https://news.web.nhk/newsweb/na/nd-20261120de78786"
+        "https://news.web.nhk/newsweb/na/nd-20261120de78800"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-belkin-iphone-duo-screen-protector-review/",
