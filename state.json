@@ -293,6 +293,7 @@
         "https://www.bbc.co.uk/weather/articles/ckvg251xz51do#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261123de80216",
         "https://news.web.nhk/newsweb/na/nd-20261124de80343",
         "https://news.web.nhk/newsweb/na/nd-20261123de80284",
         "https://news.web.nhk/newsweb/na/nd-20261123de80287",
@@ -491,10 +492,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261120de78971",
         "https://news.web.nhk/newsweb/na/nd-20261120de78837",
         "https://news.web.nhk/newsweb/na/nd-20261120de78906",
-        "https://news.web.nhk/newsweb/na/nd-20261120de78903",
-        "https://news.web.nhk/newsweb/na/nd-20261120de78934"
+        "https://news.web.nhk/newsweb/na/nd-20261120de78903"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2611-smart-speaker-data-usage-bug/",
         "https://www.gizmodo.jp/article/2611-nvidia-jensen-huang-returns-as-ceo/",
         "https://www.gizmodo.jp/article/2611-nasa-black-hole-simulation/",
         "https://www.gizmodo.jp/article/2611-razer-haptics-gaming-chair/",
@@ -693,8 +694,7 @@
         "https://www.gizmodo.jp/article/2611-microsoft-asr-rog-xbox-ally-x/",
         "https://www.gizmodo.jp/article/2611-teenage-engineering-cd-player/",
         "https://www.gizmodo.jp/article/2611-saturn-rings-lost-moon-origin/",
-        "https://www.gizmodo.jp/article/2611-nasa-chapea-mars-simulation-project/",
-        "https://www.gizmodo.jp/article/f174c419-272c-4f3c-b9d3-e89cff36ac6a/"
+        "https://www.gizmodo.jp/article/2611-nasa-chapea-mars-simulation-project/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "5LqyN2uMHog",
