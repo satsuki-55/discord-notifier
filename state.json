@@ -91,6 +91,8 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c6808ym10vzgo#0",
+        "https://www.bbc.co.uk/news/videos/c3y0xjqxy871o#1",
         "https://www.bbc.co.uk/news/articles/ck3rgp4gv9pxo#0",
         "https://www.bbc.co.uk/news/articles/ckp80ynrn3mvo#1",
         "https://www.bbc.co.uk/news/articles/ck3rgp4gv9pxo#1",
@@ -288,11 +290,10 @@
         "https://www.bbc.co.uk/news/articles/cm3vgw1xevvwo#1",
         "https://www.bbc.co.uk/news/articles/cm3rgnvxj339o#1",
         "https://www.bbc.co.uk/news/articles/c6lywjpn5levo#1",
-        "https://www.bbc.co.uk/news/videos/c65y19wy3xl8o#1",
-        "https://www.bbc.co.uk/news/articles/cvp86l5j7l93o#0",
-        "https://www.bbc.co.uk/news/articles/ckx280084z2go#1"
+        "https://www.bbc.co.uk/news/videos/c65y19wy3xl8o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261123de80304",
         "https://news.web.nhk/newsweb/na/nd-20261123de80275",
         "https://news.web.nhk/newsweb/na/nd-20261123de80286",
         "https://news.web.nhk/newsweb/na/nd-20261120de78800",
@@ -491,8 +492,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261120de78814",
         "https://news.web.nhk/newsweb/na/nd-20261120de78848",
         "https://news.web.nhk/newsweb/na/nd-20261120de78854",
-        "https://news.web.nhk/newsweb/na/nd-20261120de78849",
-        "https://news.web.nhk/newsweb/na/nd-20261120de78847"
+        "https://news.web.nhk/newsweb/na/nd-20261120de78849"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-nasa-black-hole-simulation/",
