@@ -293,6 +293,7 @@
         "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261123de80286",
         "https://news.web.nhk/newsweb/na/nd-20261120de78800",
         "https://news.web.nhk/newsweb/na/nd-20261123de80278",
         "https://news.web.nhk/newsweb/na/nd-20261123de80277",
@@ -491,8 +492,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261120de78854",
         "https://news.web.nhk/newsweb/na/nd-20261120de78849",
         "https://news.web.nhk/newsweb/na/nd-20261120de78847",
-        "https://news.web.nhk/newsweb/na/nd-20261120de78822",
-        "https://news.web.nhk/newsweb/na/nd-20261120de78810"
+        "https://news.web.nhk/newsweb/na/nd-20261120de78822"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/global_elderly_scams_ftc_report/",
