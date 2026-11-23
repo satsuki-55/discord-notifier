@@ -91,6 +91,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/videos/cm792e3ldq15o#1",
         "https://www.bbc.co.uk/news/articles/cmvg2qnn95vro#0",
         "https://www.bbc.co.uk/news/articles/cm75237wlp3lo#1",
         "https://www.bbc.co.uk/news/articles/c32l5z88z15jo#1",
@@ -289,10 +290,10 @@
         "https://www.bbc.co.uk/news/articles/cke89vdd77p3o#0",
         "https://www.bbc.co.uk/news/articles/cqy4jvprxyrdo#1",
         "https://www.bbc.co.uk/news/articles/c6d94pzk9vleo#0",
-        "https://www.bbc.co.uk/news/articles/ck053mzy2qqeo#0",
-        "https://www.bbc.co.uk/weather/articles/c30rkzwvwy49o#1"
+        "https://www.bbc.co.uk/news/articles/ck053mzy2qqeo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261123de80257",
         "https://news.web.nhk/newsweb/na/nd-20261117de77395",
         "https://news.web.nhk/newsweb/na/nd-20261123de80254",
         "https://news.web.nhk/newsweb/na/nd-20261123de80238",
@@ -491,8 +492,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261120de78778",
         "https://news.web.nhk/newsweb/na/nd-20261120de78746",
         "https://news.web.nhk/newsweb/na/nd-20261119de78688",
-        "https://news.web.nhk/newsweb/na/nd-20261120de78769",
-        "https://news.web.nhk/newsweb/na/nd-20261120de78731"
+        "https://news.web.nhk/newsweb/na/nd-20261120de78769"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-depack-defrosting-machine/",
