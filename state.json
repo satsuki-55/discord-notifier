@@ -293,6 +293,7 @@
         "https://www.bbc.co.uk/news/articles/cq7821d0pv49o#2"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261123de80288",
         "https://news.web.nhk/newsweb/na/nd-20261124de80494",
         "https://news.web.nhk/newsweb/na/nd-20261124de80445",
         "https://news.web.nhk/newsweb/na/nd-20261124de80444",
@@ -491,8 +492,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261120de79139",
         "https://news.web.nhk/newsweb/na/nd-20261120de79067",
         "https://news.web.nhk/newsweb/na/nd-20261120de79034",
-        "https://news.web.nhk/newsweb/na/nd-20261120de79120",
-        "https://news.web.nhk/newsweb/na/nd-20261120de79029"
+        "https://news.web.nhk/newsweb/na/nd-20261120de79120"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-motorola-razr-flex-specs-leak/",
