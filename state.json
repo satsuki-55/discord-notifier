@@ -92,6 +92,9 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cklylrldzqm4o#0",
+        "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o#0",
+        "https://www.bbc.co.uk/news/articles/cmwy868v3nneo#1",
         "https://www.bbc.co.uk/news/articles/cmwy868v3nneo#0",
         "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o#1",
         "https://www.bbc.co.uk/news/articles/cm930yjy97xyo#0",
@@ -288,10 +291,7 @@
         "https://www.bbc.co.uk/news/articles/cqlyjwng3xdwo#0",
         "https://www.bbc.co.uk/news/articles/crjeqxedzpnko#1",
         "https://www.bbc.co.uk/news/articles/c615egvdd59xo#1",
-        "https://www.bbc.co.uk/news/articles/cm8e0p5dexy6o#0",
-        "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo#1",
-        "https://www.bbc.co.uk/news/articles/cvj6l8y3x1x4o#1",
-        "https://www.bbc.co.uk/news/articles/cmq8lyv8lkjwo#1"
+        "https://www.bbc.co.uk/news/articles/cm8e0p5dexy6o#0"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20261124de80797",
@@ -496,6 +496,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261120de79443"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2611-xtool-c1-color-cutter-sticker-printer/",
         "https://www.gizmodo.jp/article/2611-x-timeline-undo-update-feature/",
         "https://www.gizmodo.jp/article/2611-us-data-center-construction-ban/",
         "https://www.gizmodo.jp/article/2611-claude-black-market-china-russia/",
@@ -694,8 +695,7 @@
         "https://www.gizmodo.jp/article/2611-barreleye-fish-4k-footage/",
         "https://www.gizmodo.jp/article/2611-switchbot-katafriends-mini-ai-pet/",
         "https://www.gizmodo.jp/article/2611-adam-elements-magnetic-usb-c-cable-sale/",
-        "https://www.gizmodo.jp/article/nike_tuned-air_innovation/",
-        "https://www.gizmodo.jp/article/2611-anthropic-ipo-china-hong-kong-investor-restriction/"
+        "https://www.gizmodo.jp/article/nike_tuned-air_innovation/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "5LqyN2uMHog",
