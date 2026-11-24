@@ -293,6 +293,7 @@
         "https://www.bbc.co.uk/news/articles/cr4g1l7x52jno#2"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261124de80745",
         "https://news.web.nhk/newsweb/na/nd-20261124de80761",
         "https://news.web.nhk/newsweb/na/nd-20261124de80535",
         "https://news.web.nhk/newsweb/na/nd-20261124de80698",
@@ -491,8 +492,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261120de79373",
         "https://news.web.nhk/newsweb/na/nd-20261120de79370",
         "https://news.web.nhk/newsweb/na/nd-20261120de79372",
-        "https://news.web.nhk/newsweb/na/nd-20261120de79377",
-        "https://news.web.nhk/newsweb/na/nd-20261120de79350"
+        "https://news.web.nhk/newsweb/na/nd-20261120de79377"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-roomba-black-friday-sale-100k-off/",
