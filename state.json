@@ -293,6 +293,7 @@
         "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261124de80568",
         "https://news.web.nhk/newsweb/na/nd-20261124de80561",
         "https://news.web.nhk/newsweb/na/nd-20261124de80569",
         "https://news.web.nhk/newsweb/na/nd-20261124de80556",
@@ -491,10 +492,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261120de79345",
         "https://news.web.nhk/newsweb/na/nd-20261120de79342",
         "https://news.web.nhk/newsweb/na/nd-20261120de79347",
-        "https://news.web.nhk/newsweb/na/nd-20261120de79315",
-        "https://news.web.nhk/newsweb/na/nd-20261120de79299"
+        "https://news.web.nhk/newsweb/na/nd-20261120de79315"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2611-vaio-free-accidental-damage-warranty/",
         "https://www.gizmodo.jp/article/2611-deep-sea-shenloong-dragonball/",
         "https://www.gizmodo.jp/article/2611-zipper-pull-custom/",
         "https://www.gizmodo.jp/article/2611-nothing-ear-note-ai-voice-recorder-earphones/",
@@ -693,8 +694,7 @@
         "https://www.gizmodo.jp/article/2611-iphone-duo-face-unlock/",
         "https://www.gizmodo.jp/article/2611-chatgpt-wallet-openai/",
         "https://www.gizmodo.jp/article/2611-ugreen-100w-charger-sale/",
-        "https://www.gizmodo.jp/article/chargespot-wifi-rental/",
-        "https://www.gizmodo.jp/article/ponkhiraj-solar-irrigation-bangladesh/"
+        "https://www.gizmodo.jp/article/chargespot-wifi-rental/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "5LqyN2uMHog",
