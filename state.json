@@ -293,6 +293,7 @@
         "https://www.bbc.co.uk/news/articles/cx8dv4327dnpo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261124de80511",
         "https://news.web.nhk/newsweb/na/nd-20261124de80510",
         "https://news.web.nhk/newsweb/na/nd-20261124de80509",
         "https://news.web.nhk/newsweb/na/nd-20261124de80508",
@@ -491,8 +492,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261120de79196",
         "https://news.web.nhk/newsweb/na/nd-20261120de79237",
         "https://news.web.nhk/newsweb/na/nd-20261120de79225",
-        "https://news.web.nhk/newsweb/na/nd-20261120de79090",
-        "https://news.web.nhk/newsweb/na/nd-20261120de78817"
+        "https://news.web.nhk/newsweb/na/nd-20261120de79090"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-twin-lens-style-digital-camera/",
