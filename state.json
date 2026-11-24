@@ -92,6 +92,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/weather/articles/c5742nplemnno#0",
         "https://www.bbc.co.uk/news/articles/cm930y07p0j2o#1",
         "https://www.bbc.co.uk/news/articles/cm78270l4z7no#1",
         "https://www.bbc.co.uk/news/articles/cm0rk19kl52do#1",
@@ -290,8 +291,7 @@
         "https://www.bbc.co.uk/news/articles/cq7827z2841zo#0",
         "https://www.bbc.co.uk/news/articles/cmq8lyv8lkjwo#2",
         "https://www.bbc.co.uk/news/articles/cm2d94le23xyo#2",
-        "https://www.bbc.co.uk/news/articles/cj4gn7x05yygo#2",
-        "https://www.bbc.co.uk/news/videos/cqn0dwrewrwxo#0"
+        "https://www.bbc.co.uk/news/articles/cj4gn7x05yygo#2"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20261124de80791",
