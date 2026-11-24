@@ -293,6 +293,7 @@
         "https://www.bbc.co.uk/news/articles/cmn502ek17yvo#2"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261124de80365",
         "https://news.web.nhk/newsweb/na/nd-20261124de80352",
         "https://news.web.nhk/newsweb/na/nd-20261124de80353",
         "https://news.web.nhk/newsweb/na/nd-20261124de80350",
@@ -491,8 +492,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261028de67095",
         "https://news.web.nhk/newsweb/na/nd-20261120de79008",
         "https://news.web.nhk/newsweb/na/nd-20261120de78949",
-        "https://news.web.nhk/newsweb/na/nd-20261120de78948",
-        "https://news.web.nhk/newsweb/na/nd-20261120de78984"
+        "https://news.web.nhk/newsweb/na/nd-20261120de78948"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-trmnl-frame-color-e-ink-art-display/",
