@@ -92,6 +92,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c6pw42ldpgn1o#0",
         "https://www.bbc.co.uk/news/articles/c65y1vk4wp7po#0",
         "https://www.bbc.co.uk/news/articles/cklylrldzqm4o#1",
         "https://www.bbc.co.uk/news/articles/cm0evw0d2wq4o#0",
@@ -290,10 +291,10 @@
         "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo#1",
         "https://www.bbc.co.uk/news/articles/cqjd7n37r2r9o#0",
         "https://www.bbc.co.uk/news/articles/c3x29ggenz12o#0",
-        "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo#0",
-        "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo#1"
+        "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261124de80866",
         "https://news.web.nhk/newsweb/na/nd-20261125de80916",
         "https://news.web.nhk/newsweb/na/nd-20261124de80624",
         "https://news.web.nhk/newsweb/na/nd-20261125de80923",
@@ -492,8 +493,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261121de79487",
         "https://news.web.nhk/newsweb/na/nd-20261121de79482",
         "https://news.web.nhk/newsweb/na/nd-20261120de79369",
-        "https://news.web.nhk/newsweb/na/nd-20261121de79485",
-        "https://news.web.nhk/newsweb/na/nd-20261121de79475"
+        "https://news.web.nhk/newsweb/na/nd-20261121de79485"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/neuralink-veterinary-technician-job/",
