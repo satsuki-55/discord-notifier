@@ -91,6 +91,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c65y1qqw3kjxo#1",
         "https://www.bbc.co.uk/news/articles/c6vg25e1v17wo#1",
         "https://www.bbc.co.uk/news/articles/cr0jx7dw234jo#1",
         "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo#0",
@@ -289,10 +290,10 @@
         "https://www.bbc.co.uk/news/videos/cwe85gyedjp5o#1",
         "https://www.bbc.co.uk/news/articles/cqgm0zlkgrm2o#2",
         "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo#0",
-        "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo#1",
-        "https://www.bbc.co.uk/news/articles/c85y14zvexz9o#1"
+        "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261124de80569",
         "https://news.web.nhk/newsweb/na/nd-20261124de80556",
         "https://news.web.nhk/newsweb/na/nd-20261028de67168",
         "https://news.web.nhk/newsweb/na/nd-20261124de80544",
@@ -491,8 +492,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261120de79347",
         "https://news.web.nhk/newsweb/na/nd-20261120de79315",
         "https://news.web.nhk/newsweb/na/nd-20261120de79299",
-        "https://news.web.nhk/newsweb/na/nd-20261120de79258",
-        "https://news.web.nhk/newsweb/na/nd-20261120de79242"
+        "https://news.web.nhk/newsweb/na/nd-20261120de79258"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-deep-sea-shenloong-dragonball/",
