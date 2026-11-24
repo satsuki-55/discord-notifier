@@ -294,6 +294,7 @@
         "https://www.bbc.co.uk/news/articles/cwe9k23dpz0do#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261124de80814",
         "https://news.web.nhk/newsweb/na/nd-20261124de80795",
         "https://news.web.nhk/newsweb/na/nd-20261124de80811",
         "https://news.web.nhk/newsweb/na/nd-20261124de80720",
@@ -492,8 +493,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261120de79437",
         "https://news.web.nhk/newsweb/na/nd-20261120de79438",
         "https://news.web.nhk/newsweb/na/nd-20261120de79127",
-        "https://news.web.nhk/newsweb/na/nd-20261120de79435",
-        "https://news.web.nhk/newsweb/na/nd-20261116de76353"
+        "https://news.web.nhk/newsweb/na/nd-20261120de79435"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-indie-game-award-ai-usage-controversy/",
