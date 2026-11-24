@@ -293,6 +293,7 @@
         "https://www.bbc.co.uk/news/articles/cq7821d0pv49o#2"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261124de80445",
         "https://news.web.nhk/newsweb/na/nd-20261124de80444",
         "https://news.web.nhk/newsweb/na/nd-20261124de80435",
         "https://news.web.nhk/newsweb/na/nd-20261124de80375",
@@ -491,10 +492,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261120de79034",
         "https://news.web.nhk/newsweb/na/nd-20261120de79120",
         "https://news.web.nhk/newsweb/na/nd-20261120de79029",
-        "https://news.web.nhk/newsweb/na/nd-20261120de79038",
-        "https://news.web.nhk/newsweb/na/nd-20261120de79016"
+        "https://news.web.nhk/newsweb/na/nd-20261120de79038"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2611-waymo-robotaxi-safety-suspension/",
         "https://www.gizmodo.jp/article/2611-meta-ai-muse-charm-price/",
         "https://www.gizmodo.jp/article/datacenter-waste-heat-shrimp-farming/",
         "https://www.gizmodo.jp/article/2611-human-population-bottleneck/",
@@ -693,8 +694,7 @@
         "https://www.gizmodo.jp/article/2611-iphone-duo-2-face-id-2/",
         "https://www.gizmodo.jp/article/2611-macbook-pro-apple-logo-led-ifixit/",
         "https://www.gizmodo.jp/article/2611-data-centers-delay-coal-phaseout/",
-        "https://www.gizmodo.jp/article/gta6-researcher-job-kalshi/",
-        "https://www.gizmodo.jp/article/2611-flipper-zero-car-theft-hacking/"
+        "https://www.gizmodo.jp/article/gta6-researcher-job-kalshi/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "5LqyN2uMHog",
