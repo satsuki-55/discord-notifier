@@ -294,6 +294,7 @@
         "https://www.bbc.co.uk/news/articles/c920xgxp5785o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261124de80864",
         "https://news.web.nhk/newsweb/na/nd-20261124de80791",
         "https://news.web.nhk/newsweb/na/nd-20261124de80818",
         "https://news.web.nhk/newsweb/na/nd-20261124de80814",
@@ -492,8 +493,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261120de79443",
         "https://news.web.nhk/newsweb/na/nd-20261120de79408",
         "https://news.web.nhk/newsweb/na/nd-20261119de78159",
-        "https://news.web.nhk/newsweb/na/nd-20261120de79437",
-        "https://news.web.nhk/newsweb/na/nd-20261120de79438"
+        "https://news.web.nhk/newsweb/na/nd-20261120de79437"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-us-data-center-construction-ban/",
