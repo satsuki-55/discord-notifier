@@ -91,6 +91,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c9gkld2l38y6o#1",
         "https://www.bbc.co.uk/news/articles/c9gkld2l38y6o#0",
         "https://www.bbc.co.uk/news/articles/cwy7r5z8gg65o#1",
         "https://www.bbc.co.uk/news/articles/c60rk1yj07xeo#1",
@@ -289,10 +290,10 @@
         "https://www.bbc.co.uk/news/videos/cqn0dwrewrwxo#0",
         "https://www.bbc.co.uk/sport/rugby-union/articles/cwm25ev1z8y8o#1",
         "https://www.bbc.co.uk/news/articles/cwe9k23dpz0do#1",
-        "https://www.bbc.co.uk/news/articles/cm3vg9dqr6zyo#0",
-        "https://www.bbc.co.uk/news/articles/cm3vg9dqr6zyo#1"
+        "https://www.bbc.co.uk/news/articles/cm3vg9dqr6zyo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261124de80802",
         "https://news.web.nhk/newsweb/na/nd-20261124de80786",
         "https://news.web.nhk/newsweb/na/nd-20261124de80663",
         "https://news.web.nhk/newsweb/na/nd-20261124de80500",
@@ -491,8 +492,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261120de79430",
         "https://news.web.nhk/newsweb/na/nd-20261120de79424",
         "https://news.web.nhk/newsweb/na/nd-20261120de79403",
-        "https://news.web.nhk/newsweb/na/nd-20261120de79374",
-        "https://news.web.nhk/newsweb/na/nd-20261120de79395"
+        "https://news.web.nhk/newsweb/na/nd-20261120de79374"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-indie-game-award-ai-usage-controversy/",
