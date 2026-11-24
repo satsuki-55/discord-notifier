@@ -293,6 +293,7 @@
         "https://www.bbc.co.uk/news/articles/cm3vg9dqr6zyo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261124de80500",
         "https://news.web.nhk/newsweb/na/nd-20261124de80688",
         "https://news.web.nhk/newsweb/na/nd-20261124de80745",
         "https://news.web.nhk/newsweb/na/nd-20261124de80761",
@@ -491,10 +492,11 @@
         "https://news.web.nhk/newsweb/na/nd-20261120de79374",
         "https://news.web.nhk/newsweb/na/nd-20261120de79395",
         "https://news.web.nhk/newsweb/na/nd-20261120de79373",
-        "https://news.web.nhk/newsweb/na/nd-20261120de79370",
-        "https://news.web.nhk/newsweb/na/nd-20261120de79372"
+        "https://news.web.nhk/newsweb/na/nd-20261120de79370"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2611-riemann-hypothesis-lean-claude-proof/",
+        "https://www.gizmodo.jp/article/gpu-jesus-has-risen-and-the-tech-bros-are-rejoicing/",
         "https://www.gizmodo.jp/article/2611-roomba-black-friday-sale-100k-off/",
         "https://www.gizmodo.jp/article/2611-amazon-leather-jacket/",
         "https://www.gizmodo.jp/article/toughbook/",
@@ -692,9 +694,7 @@
         "https://www.gizmodo.jp/article/ai-washing-layoffs-qantas/",
         "https://www.gizmodo.jp/article/xai-jet-engine-power-plant/",
         "https://www.gizmodo.jp/article/honda_rn0_emtb/",
-        "https://www.gizmodo.jp/article/keychron-c3-pro-trackball-keycaps/",
-        "https://www.gizmodo.jp/article/2611-iphone-duo-christmas-shipping/",
-        "https://www.gizmodo.jp/article/2611-ai-generated-nuremberg-movie-trailer/"
+        "https://www.gizmodo.jp/article/keychron-c3-pro-trackball-keycaps/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "5LqyN2uMHog",
