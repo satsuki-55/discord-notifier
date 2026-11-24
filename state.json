@@ -293,6 +293,7 @@
         "https://www.bbc.co.uk/news/articles/cqgm0zlkgrm2o#2"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261124de80559",
         "https://news.web.nhk/newsweb/na/nd-20261124de80587",
         "https://news.web.nhk/newsweb/na/nd-20261124de80568",
         "https://news.web.nhk/newsweb/na/nd-20261124de80561",
@@ -491,8 +492,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261120de79031",
         "https://news.web.nhk/newsweb/na/nd-20261120de79103",
         "https://news.web.nhk/newsweb/na/nd-20261120de79345",
-        "https://news.web.nhk/newsweb/na/nd-20261120de79342",
-        "https://news.web.nhk/newsweb/na/nd-20261120de79347"
+        "https://news.web.nhk/newsweb/na/nd-20261120de79342"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-vaio-free-accidental-damage-warranty/",
