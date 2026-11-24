@@ -91,6 +91,8 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo#0",
+        "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo#1",
         "https://www.bbc.co.uk/news/articles/cm3eg502nxw2o#0",
         "https://www.bbc.co.uk/news/videos/ckedq2edqegzo#1",
         "https://www.bbc.co.uk/news/articles/cvx2xjed2r3ro#1",
@@ -288,9 +290,7 @@
         "https://www.bbc.co.uk/news/articles/c6jeqv9nv5eqo#2",
         "https://www.bbc.co.uk/news/articles/cvze7de86pk3o#0",
         "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o#1",
-        "https://www.bbc.co.uk/news/articles/cx8dv4327dnpo#1",
-        "https://www.bbc.co.uk/news/articles/cr4g1l7x52jno#1",
-        "https://www.bbc.co.uk/news/articles/cq7821d0pv49o#2"
+        "https://www.bbc.co.uk/news/articles/cx8dv4327dnpo#1"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20261120de79120",
@@ -495,6 +495,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261120de79067"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2611-underwater-trash-can-microplastics/",
         "https://www.gizmodo.jp/article/2611-motorola-razr-flex-specs-leak/",
         "https://www.gizmodo.jp/article/2611-reuters-journalists-ai-strike-vote/",
         "https://www.gizmodo.jp/article/2611-waymo-robotaxi-safety-suspension/",
@@ -693,8 +694,7 @@
         "https://www.gizmodo.jp/article/2611-apple-app-store-synth-app-rejection-ai/",
         "https://www.gizmodo.jp/article/2611-anthropic-stock-ant-ipo-finances-retail-investors-aoj/",
         "https://www.gizmodo.jp/article/2611-uber-driver-data-breach-fireworks-ai/",
-        "https://www.gizmodo.jp/article/2611-iphone-duo-2-face-id-2/",
-        "https://www.gizmodo.jp/article/2611-macbook-pro-apple-logo-led-ifixit/"
+        "https://www.gizmodo.jp/article/2611-iphone-duo-2-face-id-2/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "5LqyN2uMHog",
