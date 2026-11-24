@@ -293,6 +293,8 @@
         "https://www.bbc.co.uk/news/articles/cw8dv4jmnle2o#2"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261124de80414",
+        "https://news.web.nhk/newsweb/na/nd-20261124de80412",
         "https://news.web.nhk/newsweb/na/nd-20261124de80396",
         "https://news.web.nhk/newsweb/na/nd-20261124de80363",
         "https://news.web.nhk/newsweb/na/nd-20261124de80365",
@@ -490,11 +492,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261120de79016",
         "https://news.web.nhk/newsweb/na/nd-20261120de79062",
         "https://news.web.nhk/newsweb/na/nd-20261120de79058",
-        "https://news.web.nhk/newsweb/na/nd-20261120de79057",
-        "https://news.web.nhk/newsweb/na/nd-20261028de67095",
-        "https://news.web.nhk/newsweb/na/nd-20261120de79008"
+        "https://news.web.nhk/newsweb/na/nd-20261120de79057"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2611-human-population-bottleneck/",
         "https://www.gizmodo.jp/article/2611-anker-eufy-window-camera-e10/",
         "https://www.gizmodo.jp/article/2611-rohanarun_alpoge_rh_replay/",
         "https://www.gizmodo.jp/article/3d6ac849-c9a4-4f79-b107-83045c1526bc/",
@@ -693,8 +694,7 @@
         "https://www.gizmodo.jp/article/gta6-researcher-job-kalshi/",
         "https://www.gizmodo.jp/article/2611-flipper-zero-car-theft-hacking/",
         "https://www.gizmodo.jp/article/2611-nvidia-jensen-huang-return/",
-        "https://www.gizmodo.jp/article/home-metal-3d-printer-snowpod/",
-        "https://www.gizmodo.jp/article/nitori-audio-home-appliances-2026/"
+        "https://www.gizmodo.jp/article/home-metal-3d-printer-snowpod/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "5LqyN2uMHog",
