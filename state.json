@@ -294,6 +294,7 @@
         "https://www.bbc.co.uk/news/articles/c81dvrqe1zv0o#2"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261124de80797",
         "https://news.web.nhk/newsweb/na/nd-20261124de80861",
         "https://news.web.nhk/newsweb/na/nd-20261124de80832",
         "https://news.web.nhk/newsweb/na/nd-20261124de80864",
@@ -492,8 +493,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261116de76437",
         "https://news.web.nhk/newsweb/na/nd-20261120de79434",
         "https://news.web.nhk/newsweb/na/nd-20261120de79441",
-        "https://news.web.nhk/newsweb/na/nd-20261120de79443",
-        "https://news.web.nhk/newsweb/na/nd-20261120de79408"
+        "https://news.web.nhk/newsweb/na/nd-20261120de79443"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-x-timeline-undo-update-feature/",
