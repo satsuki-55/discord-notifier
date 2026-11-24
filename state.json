@@ -294,6 +294,7 @@
         "https://www.bbc.co.uk/news/articles/cq8e0pzp43w4o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261125de80922",
         "https://news.web.nhk/newsweb/na/nd-20261125de80904",
         "https://news.web.nhk/newsweb/na/nd-20261125de80921",
         "https://news.web.nhk/newsweb/na/nd-20261125de80919",
@@ -492,8 +493,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261120de79460",
         "https://news.web.nhk/newsweb/na/nd-20261121de79473",
         "https://news.web.nhk/newsweb/na/nd-20261121de79481",
-        "https://news.web.nhk/newsweb/na/nd-20261120de79455",
-        "https://news.web.nhk/newsweb/na/nd-20261120de79436"
+        "https://news.web.nhk/newsweb/na/nd-20261120de79455"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-ancient-amazon-city-discovered-by-lidar/",
