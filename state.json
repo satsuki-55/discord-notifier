@@ -293,6 +293,7 @@
         "https://www.bbc.co.uk/news/articles/cm3vg9dqr6zyo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261124de80663",
         "https://news.web.nhk/newsweb/na/nd-20261124de80500",
         "https://news.web.nhk/newsweb/na/nd-20261124de80688",
         "https://news.web.nhk/newsweb/na/nd-20261124de80745",
@@ -491,8 +492,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261120de79403",
         "https://news.web.nhk/newsweb/na/nd-20261120de79374",
         "https://news.web.nhk/newsweb/na/nd-20261120de79395",
-        "https://news.web.nhk/newsweb/na/nd-20261120de79373",
-        "https://news.web.nhk/newsweb/na/nd-20261120de79370"
+        "https://news.web.nhk/newsweb/na/nd-20261120de79373"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-riemann-hypothesis-lean-claude-proof/",
