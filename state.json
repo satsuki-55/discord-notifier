@@ -293,6 +293,7 @@
         "https://www.bbc.co.uk/news/articles/cvze7de86pk3o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261028de67168",
         "https://news.web.nhk/newsweb/na/nd-20261124de80544",
         "https://news.web.nhk/newsweb/na/nd-20261124de80532",
         "https://news.web.nhk/newsweb/na/nd-20261124de80521",
@@ -491,8 +492,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261120de79299",
         "https://news.web.nhk/newsweb/na/nd-20261120de79258",
         "https://news.web.nhk/newsweb/na/nd-20261120de79242",
-        "https://news.web.nhk/newsweb/na/nd-20261120de79035",
-        "https://news.web.nhk/newsweb/na/nd-20261120de79196"
+        "https://news.web.nhk/newsweb/na/nd-20261120de79035"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-zipper-pull-custom/",
