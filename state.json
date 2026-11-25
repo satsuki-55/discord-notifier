@@ -92,6 +92,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cn8n5vnmjlzo#1",
         "https://www.bbc.co.uk/news/articles/cx5y1987dyp6o#1",
         "https://www.bbc.co.uk/news/articles/c820qnznkrn4o#1",
         "https://www.bbc.co.uk/news/articles/c6d917jn5gq7o#1",
@@ -290,10 +291,10 @@
         "https://www.bbc.co.uk/news/articles/c6m25vd2yxgdo#0",
         "https://www.bbc.co.uk/news/articles/c8xgdv9e007o#0",
         "https://www.bbc.co.uk/news/articles/c8r4gzzxvxl3o#0",
-        "https://www.bbc.co.uk/news/articles/cv1j65xjjk65o#0",
-        "https://www.bbc.co.uk/news/articles/cmvg2qnn95vro#1"
+        "https://www.bbc.co.uk/news/articles/cv1j65xjjk65o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261125de81425",
         "https://news.web.nhk/newsweb/na/nd-20261125de81415",
         "https://news.web.nhk/newsweb/na/nd-20261125de81042",
         "https://news.web.nhk/newsweb/na/nd-20261125de81070",
@@ -492,8 +493,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261121de79711",
         "https://news.web.nhk/newsweb/na/nd-20261121de79771",
         "https://news.web.nhk/newsweb/na/nd-20261121de79767",
-        "https://news.web.nhk/newsweb/na/nd-20261121de79765",
-        "https://news.web.nhk/newsweb/na/nd-20261122de79777"
+        "https://news.web.nhk/newsweb/na/nd-20261121de79765"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-tidal-bans-ai-generated-music/",
