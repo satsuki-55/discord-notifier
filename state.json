@@ -294,6 +294,7 @@
         "https://www.bbc.co.uk/news/articles/cqpv9kr7pxmro#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261125de81346",
         "https://news.web.nhk/newsweb/na/nd-20261125de81440",
         "https://news.web.nhk/newsweb/na/nd-20261125de81436",
         "https://news.web.nhk/newsweb/na/nd-20261125de81409",
@@ -492,10 +493,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261122de79863",
         "https://news.web.nhk/newsweb/na/nd-20261122de79839",
         "https://news.web.nhk/newsweb/na/nd-20261122de79868",
-        "https://news.web.nhk/newsweb/na/nd-20261122de79841",
-        "https://news.web.nhk/newsweb/na/nd-20261122de79817"
+        "https://news.web.nhk/newsweb/na/nd-20261122de79841"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2611-flipper-one-network-hacking-tool/",
         "https://www.gizmodo.jp/article/2611-canva-mcp-release/",
         "https://www.gizmodo.jp/article/2611-fire-extinguishing-gadget-pouch/",
         "https://www.gizmodo.jp/article/2611-tidal-bans-ai-generated-music/",
@@ -694,8 +695,7 @@
         "https://www.gizmodo.jp/article/2611-andobil-magsafe-smartphone-ring/",
         "https://www.gizmodo.jp/article/keychron-c3-pro-trackball-remove/",
         "https://www.gizmodo.jp/article/xiaomi-18-pro/",
-        "https://www.gizmodo.jp/article/2611-arnis-minecraft-real-world-generator/",
-        "https://www.gizmodo.jp/article/2611-aladdin-gas-toaster/"
+        "https://www.gizmodo.jp/article/2611-arnis-minecraft-real-world-generator/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "5LqyN2uMHog",
