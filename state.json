@@ -93,6 +93,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cqy7rn30v314o#0",
         "https://www.bbc.co.uk/news/articles/cxj05mv723r2o#0",
         "https://www.bbc.co.uk/news/articles/cq0l34e4kkr5o#0",
         "https://www.bbc.co.uk/news/articles/cmd718zydz9qo#1",
@@ -291,10 +292,10 @@
         "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo#1",
         "https://www.bbc.co.uk/news/articles/c8wy5erexq0ko#0",
         "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo#0",
-        "https://www.bbc.co.uk/news/videos/c920x1534e31o#1",
-        "https://www.bbc.co.uk/news/articles/cm3eg502nxw2o#1"
+        "https://www.bbc.co.uk/news/videos/c920x1534e31o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261126de81570",
         "https://news.web.nhk/newsweb/na/nd-20261126de81554",
         "https://news.web.nhk/newsweb/na/nd-20261126de81566",
         "https://news.web.nhk/newsweb/na/nd-20261126de81562",
@@ -493,8 +494,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261123de80134",
         "https://news.web.nhk/newsweb/na/nd-20261123de80132",
         "https://news.web.nhk/newsweb/na/nd-20261123de80128",
-        "https://news.web.nhk/newsweb/na/nd-20261123de80110",
-        "https://news.web.nhk/newsweb/na/nd-20261118de77741"
+        "https://news.web.nhk/newsweb/na/nd-20261123de80110"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-superwood-stronger-than-steel/",
