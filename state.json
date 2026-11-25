@@ -294,6 +294,8 @@
         "https://www.bbc.co.uk/news/articles/cwz0k3nn5p5mo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261125de81294",
+        "https://news.web.nhk/newsweb/na/nd-20261125de81285",
         "https://news.web.nhk/newsweb/na/nd-20261125de81248",
         "https://news.web.nhk/newsweb/na/nd-20261125de81299",
         "https://news.web.nhk/newsweb/na/nd-20261125de81258",
@@ -491,9 +493,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261028de67165",
         "https://news.web.nhk/newsweb/na/nd-20261121de79750",
         "https://news.web.nhk/newsweb/na/nd-20261121de79744",
-        "https://news.web.nhk/newsweb/na/nd-20261121de79742",
-        "https://news.web.nhk/newsweb/na/nd-20261121de79734",
-        "https://news.web.nhk/newsweb/na/nd-20261121de79709"
+        "https://news.web.nhk/newsweb/na/nd-20261121de79742"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-anker-2-in-1-usb-c-cable/",
