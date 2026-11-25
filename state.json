@@ -294,6 +294,7 @@
         "https://www.bbc.co.uk/news/articles/cwz0k3nn5p5mo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261125de81344",
         "https://news.web.nhk/newsweb/na/nd-20261125de81302",
         "https://news.web.nhk/newsweb/na/nd-20261125de81264",
         "https://news.web.nhk/newsweb/na/nd-20261125de81284",
@@ -492,10 +493,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261122de79777",
         "https://news.web.nhk/newsweb/na/nd-20261122de79781",
         "https://news.web.nhk/newsweb/na/nd-20261121de79741",
-        "https://news.web.nhk/newsweb/na/nd-20261122de79790",
-        "https://news.web.nhk/newsweb/na/nd-20261122de79780"
+        "https://news.web.nhk/newsweb/na/nd-20261122de79790"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/commercial-space-travel-virgin-galactic-apeiron/",
         "https://www.gizmodo.jp/article/motorola-signature_launch/",
         "https://www.gizmodo.jp/article/2611-anker-2-in-1-usb-c-cable/",
         "https://www.gizmodo.jp/article/2611-lego-yoshi-adults-welcome/",
@@ -694,8 +695,7 @@
         "https://www.gizmodo.jp/article/2611-aladdin-gas-toaster/",
         "https://www.gizmodo.jp/article/2611-suica-penguin-successor/",
         "https://www.gizmodo.jp/article/ai-robot_fr-nia/",
-        "https://www.gizmodo.jp/article/spotify-scratch-diy-dj-gear/",
-        "https://www.gizmodo.jp/article/2611-aina-ring-ai-smart-ring/"
+        "https://www.gizmodo.jp/article/spotify-scratch-diy-dj-gear/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "5LqyN2uMHog",
