@@ -295,6 +295,7 @@
         "https://www.bbc.co.uk/news/videos/cmz6q3001pw6o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261125de81491",
         "https://news.web.nhk/newsweb/na/nd-20261125de81466",
         "https://news.web.nhk/newsweb/na/nd-20261125de81446",
         "https://news.web.nhk/newsweb/na/nd-20261125de81444",
@@ -493,8 +494,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261122de79954",
         "https://news.web.nhk/newsweb/na/nd-20261122de79948",
         "https://news.web.nhk/newsweb/na/nd-20261122de79958",
-        "https://news.web.nhk/newsweb/na/nd-20261122de79936",
-        "https://news.web.nhk/newsweb/na/nd-20261122de79873"
+        "https://news.web.nhk/newsweb/na/nd-20261122de79936"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/yasuyuki-takaki-gizmodo-20th-anniversary-interview/",
