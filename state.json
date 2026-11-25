@@ -295,6 +295,7 @@
         "https://www.bbc.co.uk/news/videos/cmz6q3001pw6o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261122de79936",
         "https://news.web.nhk/newsweb/na/nd-20261125de81481",
         "https://news.web.nhk/newsweb/na/nd-20261125de81491",
         "https://news.web.nhk/newsweb/na/nd-20261125de81466",
@@ -493,8 +494,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261122de79962",
         "https://news.web.nhk/newsweb/na/nd-20261122de79957",
         "https://news.web.nhk/newsweb/na/nd-20261122de79954",
-        "https://news.web.nhk/newsweb/na/nd-20261122de79948",
-        "https://news.web.nhk/newsweb/na/nd-20261122de79958"
+        "https://news.web.nhk/newsweb/na/nd-20261122de79948"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-fake-elon-musk-crypto-scam/",
