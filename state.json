@@ -92,6 +92,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c6x2e0j3kx28o#0",
         "https://www.bbc.co.uk/news/articles/c3qj57rkd2k1o#0",
         "https://www.bbc.co.uk/news/articles/cmx27g533zwyo#0",
         "https://www.bbc.co.uk/news/articles/c6808pyy5dl9o#0",
@@ -290,10 +291,10 @@
         "https://www.bbc.co.uk/news/videos/cm792e3ldq15o#1",
         "https://www.bbc.co.uk/news/articles/cmvg2qnn95vro#0",
         "https://www.bbc.co.uk/news/articles/cm75237wlp3lo#1",
-        "https://www.bbc.co.uk/news/articles/c32l5z88z15jo#1",
-        "https://www.bbc.co.uk/news/articles/c39w9l4v1p9ro#0"
+        "https://www.bbc.co.uk/news/articles/c32l5z88z15jo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261125de81111",
         "https://news.web.nhk/newsweb/na/nd-20261125de81107",
         "https://news.web.nhk/newsweb/na/nd-20261125de81118",
         "https://news.web.nhk/newsweb/na/nd-20261125de80969",
@@ -492,10 +493,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261121de79607",
         "https://news.web.nhk/newsweb/na/nd-20261121de79605",
         "https://news.web.nhk/newsweb/na/nd-20261121de79591",
-        "https://news.web.nhk/newsweb/na/nd-20261120de79457",
-        "https://news.web.nhk/newsweb/na/nd-20261121de79585"
+        "https://news.web.nhk/newsweb/na/nd-20261120de79457"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/nasa-asteroid-dart-hera-live/",
         "https://www.gizmodo.jp/article/e49253df-fc89-4d17-b88b-af7d3bc129fa/",
         "https://www.gizmodo.jp/article/2611-mit-flying-robot-sunflower-pollination/",
         "https://www.gizmodo.jp/article/2611-youtuber-airplane-sound-location-tracking/",
@@ -694,8 +695,7 @@
         "https://www.gizmodo.jp/article/2611-gta6-release-uk-leave/",
         "https://www.gizmodo.jp/article/2611-gemini-robotics-2-5/",
         "https://www.gizmodo.jp/article/gta-v-vr-mod/",
-        "https://www.gizmodo.jp/article/samsung_galaxy-studio_newheadphone/",
-        "https://www.gizmodo.jp/article/2611-gpt-6-2-astra-release/"
+        "https://www.gizmodo.jp/article/samsung_galaxy-studio_newheadphone/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "5LqyN2uMHog",
