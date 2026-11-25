@@ -92,6 +92,10 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cdd29v8mp9jo#0",
+        "https://www.bbc.co.uk/news/articles/c893r9ke5p97o#0",
+        "https://www.bbc.co.uk/news/articles/c820qnznkrn4o#0",
+        "https://www.bbc.co.uk/news/articles/c35yn8x748e9o#1",
         "https://www.bbc.co.uk/news/articles/cmpdwnw3nvzjo#0",
         "https://www.bbc.co.uk/news/articles/cqrmgjnzz9l0o#0",
         "https://www.bbc.co.uk/news/articles/cmwy9jne0g7qo#0",
@@ -287,13 +291,10 @@
         "https://www.bbc.co.uk/news/articles/cw074km48myeo#1",
         "https://www.bbc.co.uk/news/articles/c6074k5jjrzko#0",
         "https://www.bbc.co.uk/news/articles/cvlyj3rn201xo#0",
-        "https://www.bbc.co.uk/news/articles/cvlyj3rn201xo#1",
-        "https://www.bbc.co.uk/news/articles/c9e851dn8516o#1",
-        "https://www.bbc.co.uk/news/articles/cqdr15l32d3go#0",
-        "https://www.bbc.co.uk/news/articles/cmde1dy82lepo#0",
-        "https://www.bbc.co.uk/news/articles/cw3dgk29d37no#1"
+        "https://www.bbc.co.uk/news/articles/cvlyj3rn201xo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261125de80958",
         "https://news.web.nhk/newsweb/na/nd-20261125de80935",
         "https://news.web.nhk/newsweb/na/nd-20261125de80937",
         "https://news.web.nhk/newsweb/na/nd-20261125de80931",
@@ -492,8 +493,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261121de79540",
         "https://news.web.nhk/newsweb/na/nd-20261121de79478",
         "https://news.web.nhk/newsweb/na/nd-20261121de79510",
-        "https://news.web.nhk/newsweb/na/nd-20261121de79497",
-        "https://news.web.nhk/newsweb/na/nd-20261121de79483"
+        "https://news.web.nhk/newsweb/na/nd-20261121de79497"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/meta-greenhouse-gas-emissions-target-review/",
