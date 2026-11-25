@@ -294,6 +294,10 @@
         "https://www.bbc.co.uk/news/articles/c8xgdv9e007o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261125de81419",
+        "https://news.web.nhk/newsweb/na/nd-20261125de81388",
+        "https://news.web.nhk/newsweb/na/nd-20261125de81101",
+        "https://news.web.nhk/newsweb/na/nd-20261125de81428",
         "https://news.web.nhk/newsweb/na/nd-20261125de81366",
         "https://news.web.nhk/newsweb/na/nd-20261125de81442",
         "https://news.web.nhk/newsweb/na/nd-20261125de81380",
@@ -489,11 +493,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261122de79817",
         "https://news.web.nhk/newsweb/na/nd-20261028de67166",
         "https://news.web.nhk/newsweb/na/nd-20261117de76916",
-        "https://news.web.nhk/newsweb/na/nd-20261122de79796",
-        "https://news.web.nhk/newsweb/na/nd-20261122de79819",
-        "https://news.web.nhk/newsweb/na/nd-20261122de79793",
-        "https://news.web.nhk/newsweb/na/nd-20261122de79820",
-        "https://news.web.nhk/newsweb/na/nd-20261122de79786"
+        "https://news.web.nhk/newsweb/na/nd-20261122de79796"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-fire-extinguishing-gadget-pouch/",
