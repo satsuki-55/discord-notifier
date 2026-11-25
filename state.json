@@ -295,6 +295,7 @@
         "https://www.bbc.co.uk/news/articles/c6zjr3g13zkno#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261125de81527",
         "https://news.web.nhk/newsweb/na/nd-20261126de81572",
         "https://news.web.nhk/newsweb/na/nd-20261125de81438",
         "https://news.web.nhk/newsweb/na/nd-20261126de81570",
@@ -493,10 +494,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261123de80145",
         "https://news.web.nhk/newsweb/na/nd-20261123de80139",
         "https://news.web.nhk/newsweb/na/nd-20261123de80133",
-        "https://news.web.nhk/newsweb/na/nd-20261123de80134",
-        "https://news.web.nhk/newsweb/na/nd-20261123de80132"
+        "https://news.web.nhk/newsweb/na/nd-20261123de80134"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2611-coffee-and-bowel-movement-study/",
         "https://www.gizmodo.jp/article/2611-superwood-stronger-than-steel/",
         "https://www.gizmodo.jp/article/gta6-miami-reality-check/",
         "https://www.gizmodo.jp/article/anika-no-dengon_interview/",
@@ -695,8 +696,7 @@
         "https://www.gizmodo.jp/article/2611-china-underwater-data-center/",
         "https://www.gizmodo.jp/article/manual-transmission_car_revival/",
         "https://www.gizmodo.jp/article/2611-nvidia-earnings-q3-2027-ai/",
-        "https://www.gizmodo.jp/article/2611-2-8-million-eels-gathered-deep-sea-seamount/",
-        "https://www.gizmodo.jp/article/gxfab/"
+        "https://www.gizmodo.jp/article/2611-2-8-million-eels-gathered-deep-sea-seamount/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "5LqyN2uMHog",
