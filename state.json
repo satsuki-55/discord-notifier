@@ -294,6 +294,7 @@
         "https://www.bbc.co.uk/news/articles/c32l5z88z15jo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261125de81109",
         "https://news.web.nhk/newsweb/na/nd-20261125de81111",
         "https://news.web.nhk/newsweb/na/nd-20261125de81107",
         "https://news.web.nhk/newsweb/na/nd-20261125de81118",
@@ -492,8 +493,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261121de79604",
         "https://news.web.nhk/newsweb/na/nd-20261121de79607",
         "https://news.web.nhk/newsweb/na/nd-20261121de79605",
-        "https://news.web.nhk/newsweb/na/nd-20261121de79591",
-        "https://news.web.nhk/newsweb/na/nd-20261120de79457"
+        "https://news.web.nhk/newsweb/na/nd-20261121de79591"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/nasa-asteroid-dart-hera-live/",
