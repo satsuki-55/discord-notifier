@@ -294,6 +294,7 @@
         "https://www.bbc.co.uk/news/articles/cwz0k3nn5p5mo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261125de81070",
         "https://news.web.nhk/newsweb/na/nd-20261125de81344",
         "https://news.web.nhk/newsweb/na/nd-20261125de81302",
         "https://news.web.nhk/newsweb/na/nd-20261125de81264",
@@ -492,8 +493,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261121de79765",
         "https://news.web.nhk/newsweb/na/nd-20261122de79777",
         "https://news.web.nhk/newsweb/na/nd-20261122de79781",
-        "https://news.web.nhk/newsweb/na/nd-20261121de79741",
-        "https://news.web.nhk/newsweb/na/nd-20261122de79790"
+        "https://news.web.nhk/newsweb/na/nd-20261121de79741"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/commercial-space-travel-virgin-galactic-apeiron/",
