@@ -294,6 +294,7 @@
         "https://www.bbc.co.uk/news/articles/ckp80ynrn3mvo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261125de81041",
         "https://news.web.nhk/newsweb/na/nd-20261125de80993",
         "https://news.web.nhk/newsweb/na/nd-20261125de81028",
         "https://news.web.nhk/newsweb/na/nd-20261125de80985",
@@ -492,10 +493,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261121de79559",
         "https://news.web.nhk/newsweb/na/nd-20261121de79560",
         "https://news.web.nhk/newsweb/na/nd-20261121de79551",
-        "https://news.web.nhk/newsweb/na/nd-20261121de79543",
-        "https://news.web.nhk/newsweb/na/nd-20261121de79548"
+        "https://news.web.nhk/newsweb/na/nd-20261121de79543"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2611-youtuber-airplane-sound-location-tracking/",
         "https://www.gizmodo.jp/article/2611-iphone-18-pro-max-black-friday-phishing-scam/",
         "https://www.gizmodo.jp/article/2611-mexico-road-construction-pyramid-discovery/",
         "https://www.gizmodo.jp/article/2611-gemini-black-friday-sale-early-access/",
@@ -694,8 +695,7 @@
         "https://www.gizmodo.jp/article/samsung_galaxy-studio_newheadphone/",
         "https://www.gizmodo.jp/article/2611-gpt-6-2-astra-release/",
         "https://www.gizmodo.jp/article/2611-retone-android-music-player/",
-        "https://www.gizmodo.jp/article/2611-tesla-cybertruck-production-end/",
-        "https://www.gizmodo.jp/article/2611-jensen-huang-nvidia-return-petition/"
+        "https://www.gizmodo.jp/article/2611-tesla-cybertruck-production-end/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "5LqyN2uMHog",
