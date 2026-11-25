@@ -295,6 +295,7 @@
         "https://www.bbc.co.uk/news/articles/cmze750zg0jeo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261125de81519",
         "https://news.web.nhk/newsweb/na/nd-20261125de81511",
         "https://news.web.nhk/newsweb/na/nd-20261122de79936",
         "https://news.web.nhk/newsweb/na/nd-20261125de81481",
@@ -493,10 +494,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261122de79985",
         "https://news.web.nhk/newsweb/na/nd-20261122de79989",
         "https://news.web.nhk/newsweb/na/nd-20261122de79962",
-        "https://news.web.nhk/newsweb/na/nd-20261122de79957",
-        "https://news.web.nhk/newsweb/na/nd-20261122de79954"
+        "https://news.web.nhk/newsweb/na/nd-20261122de79957"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/gta6-miami-reality-check/",
         "https://www.gizmodo.jp/article/anika-no-dengon_interview/",
         "https://www.gizmodo.jp/article/2611-gta6-performance-and-consoles/",
         "https://www.gizmodo.jp/article/2611-fake-elon-musk-crypto-scam/",
@@ -695,8 +696,7 @@
         "https://www.gizmodo.jp/article/2611-nvidia-earnings-q3-2027-ai/",
         "https://www.gizmodo.jp/article/2611-2-8-million-eels-gathered-deep-sea-seamount/",
         "https://www.gizmodo.jp/article/gxfab/",
-        "https://www.gizmodo.jp/article/gta6-free-pc-malware-warning/",
-        "https://www.gizmodo.jp/article/2611-trump-admin-strengthens-ai-chip-export-controls-china/"
+        "https://www.gizmodo.jp/article/gta6-free-pc-malware-warning/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "5LqyN2uMHog",
