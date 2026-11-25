@@ -93,6 +93,8 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c68798vdprwpo#0",
+        "https://www.bbc.co.uk/news/articles/cv8e04ll9dd3o#1",
         "https://www.bbc.co.uk/news/articles/cqwy0rr4rr4yo#1",
         "https://www.bbc.co.uk/news/articles/cw24e17v9e51o#1",
         "https://www.bbc.co.uk/news/articles/c9zr585dxkgzo#1",
@@ -290,9 +292,7 @@
         "https://www.bbc.co.uk/news/articles/c5rmgkv2lk73o#1",
         "https://www.bbc.co.uk/news/articles/ckz74098jq5po#1",
         "https://www.bbc.co.uk/news/articles/cmze750zg0jeo#0",
-        "https://www.bbc.co.uk/news/articles/crm4rygl4m3o#1",
-        "https://www.bbc.co.uk/news/articles/cq62pn6j42jko#0",
-        "https://www.bbc.co.uk/news/articles/c68798vdprwpo#0"
+        "https://www.bbc.co.uk/news/articles/crm4rygl4m3o#1"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20261125de81511",
@@ -497,6 +497,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261122de79954"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/anika-no-dengon_interview/",
         "https://www.gizmodo.jp/article/2611-gta6-performance-and-consoles/",
         "https://www.gizmodo.jp/article/2611-fake-elon-musk-crypto-scam/",
         "https://www.gizmodo.jp/article/byd-ti7_defender_eu_ban/",
@@ -695,8 +696,7 @@
         "https://www.gizmodo.jp/article/2611-2-8-million-eels-gathered-deep-sea-seamount/",
         "https://www.gizmodo.jp/article/gxfab/",
         "https://www.gizmodo.jp/article/gta6-free-pc-malware-warning/",
-        "https://www.gizmodo.jp/article/2611-trump-admin-strengthens-ai-chip-export-controls-china/",
-        "https://www.gizmodo.jp/article/bose-noise-cancelling-wired-earbuds-review/"
+        "https://www.gizmodo.jp/article/2611-trump-admin-strengthens-ai-chip-export-controls-china/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "5LqyN2uMHog",
