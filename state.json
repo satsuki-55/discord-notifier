@@ -92,6 +92,9 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cw24e17v9e51o#0",
+        "https://www.bbc.co.uk/news/articles/ckp80mjr9emyo#0",
+        "https://www.bbc.co.uk/news/articles/cq4gn6gj3z37o#1",
         "https://www.bbc.co.uk/news/videos/cj5y1p067kxno#0",
         "https://www.bbc.co.uk/news/articles/c65y10j841jpo#0",
         "https://www.bbc.co.uk/news/articles/c3rrgqj2zx5yo#0",
@@ -288,10 +291,7 @@
         "https://www.bbc.co.uk/news/articles/cqpv9kr7pxmro#0",
         "https://www.bbc.co.uk/news/articles/cv1j65xjjk65o#1",
         "https://www.bbc.co.uk/news/articles/c5rmgkv2lk73o#0",
-        "https://www.bbc.co.uk/news/articles/cqj3kjr7ez3vo#0",
-        "https://www.bbc.co.uk/news/articles/c8r4gzzxvxl3o#1",
-        "https://www.bbc.co.uk/news/articles/c6n90j1qxel8o#1",
-        "https://www.bbc.co.uk/news/articles/c6m25vd2yxgdo#0"
+        "https://www.bbc.co.uk/news/articles/cqj3kjr7ez3vo#0"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20261125de81440",
@@ -496,6 +496,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261122de79817"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2611-canva-mcp-release/",
         "https://www.gizmodo.jp/article/2611-fire-extinguishing-gadget-pouch/",
         "https://www.gizmodo.jp/article/2611-tidal-bans-ai-generated-music/",
         "https://www.gizmodo.jp/article/commercial-space-travel-virgin-galactic-apeiron/",
@@ -694,8 +695,7 @@
         "https://www.gizmodo.jp/article/keychron-c3-pro-trackball-remove/",
         "https://www.gizmodo.jp/article/xiaomi-18-pro/",
         "https://www.gizmodo.jp/article/2611-arnis-minecraft-real-world-generator/",
-        "https://www.gizmodo.jp/article/2611-aladdin-gas-toaster/",
-        "https://www.gizmodo.jp/article/2611-suica-penguin-successor/"
+        "https://www.gizmodo.jp/article/2611-aladdin-gas-toaster/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "5LqyN2uMHog",
