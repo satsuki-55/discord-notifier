@@ -92,6 +92,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/videos/cj5y1p067kxno#0",
         "https://www.bbc.co.uk/news/articles/c65y10j841jpo#0",
         "https://www.bbc.co.uk/news/articles/c3rrgqj2zx5yo#0",
         "https://www.bbc.co.uk/news/articles/cn8n5vnmjlzo#1",
@@ -290,10 +291,11 @@
         "https://www.bbc.co.uk/news/articles/cqj3kjr7ez3vo#0",
         "https://www.bbc.co.uk/news/articles/c8r4gzzxvxl3o#1",
         "https://www.bbc.co.uk/news/articles/c6n90j1qxel8o#1",
-        "https://www.bbc.co.uk/news/articles/c6m25vd2yxgdo#0",
-        "https://www.bbc.co.uk/news/articles/c8xgdv9e007o#0"
+        "https://www.bbc.co.uk/news/articles/c6m25vd2yxgdo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261125de81440",
+        "https://news.web.nhk/newsweb/na/nd-20261125de81436",
         "https://news.web.nhk/newsweb/na/nd-20261125de81409",
         "https://news.web.nhk/newsweb/na/nd-20261125de81419",
         "https://news.web.nhk/newsweb/na/nd-20261125de81388",
@@ -491,9 +493,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261122de79839",
         "https://news.web.nhk/newsweb/na/nd-20261122de79868",
         "https://news.web.nhk/newsweb/na/nd-20261122de79841",
-        "https://news.web.nhk/newsweb/na/nd-20261122de79817",
-        "https://news.web.nhk/newsweb/na/nd-20261028de67166",
-        "https://news.web.nhk/newsweb/na/nd-20261117de76916"
+        "https://news.web.nhk/newsweb/na/nd-20261122de79817"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-fire-extinguishing-gadget-pouch/",
