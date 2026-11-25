@@ -294,6 +294,9 @@
         "https://www.bbc.co.uk/news/articles/cv1j65xjjk65o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261125de81442",
+        "https://news.web.nhk/newsweb/na/nd-20261125de81380",
+        "https://news.web.nhk/newsweb/na/nd-20261125de81136",
         "https://news.web.nhk/newsweb/na/nd-20261125de81425",
         "https://news.web.nhk/newsweb/na/nd-20261125de81415",
         "https://news.web.nhk/newsweb/na/nd-20261125de81042",
@@ -490,12 +493,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261122de79793",
         "https://news.web.nhk/newsweb/na/nd-20261122de79820",
         "https://news.web.nhk/newsweb/na/nd-20261122de79786",
-        "https://news.web.nhk/newsweb/na/nd-20261121de79711",
-        "https://news.web.nhk/newsweb/na/nd-20261121de79771",
-        "https://news.web.nhk/newsweb/na/nd-20261121de79767",
-        "https://news.web.nhk/newsweb/na/nd-20261121de79765"
+        "https://news.web.nhk/newsweb/na/nd-20261121de79711"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2611-fire-extinguishing-gadget-pouch/",
         "https://www.gizmodo.jp/article/2611-tidal-bans-ai-generated-music/",
         "https://www.gizmodo.jp/article/commercial-space-travel-virgin-galactic-apeiron/",
         "https://www.gizmodo.jp/article/motorola-signature_launch/",
@@ -694,8 +695,7 @@
         "https://www.gizmodo.jp/article/xiaomi-18-pro/",
         "https://www.gizmodo.jp/article/2611-arnis-minecraft-real-world-generator/",
         "https://www.gizmodo.jp/article/2611-aladdin-gas-toaster/",
-        "https://www.gizmodo.jp/article/2611-suica-penguin-successor/",
-        "https://www.gizmodo.jp/article/ai-robot_fr-nia/"
+        "https://www.gizmodo.jp/article/2611-suica-penguin-successor/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "5LqyN2uMHog",
