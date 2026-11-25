@@ -92,6 +92,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c820qnznkrn4o#1",
         "https://www.bbc.co.uk/news/articles/c6d917jn5gq7o#1",
         "https://www.bbc.co.uk/news/articles/cqwy0rr4rr4yo#0",
         "https://www.bbc.co.uk/news/articles/cky9708qj7wdo#0",
@@ -290,8 +291,7 @@
         "https://www.bbc.co.uk/news/articles/c8r4gzzxvxl3o#0",
         "https://www.bbc.co.uk/news/articles/cv1j65xjjk65o#0",
         "https://www.bbc.co.uk/news/articles/cmvg2qnn95vro#1",
-        "https://www.bbc.co.uk/news/videos/c6wy93q5wwqvo#1",
-        "https://www.bbc.co.uk/news/articles/cwz0k3nn5p5mo#0"
+        "https://www.bbc.co.uk/news/videos/c6wy93q5wwqvo#1"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20261125de81070",
@@ -496,6 +496,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261121de79741"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2611-tidal-bans-ai-generated-music/",
         "https://www.gizmodo.jp/article/commercial-space-travel-virgin-galactic-apeiron/",
         "https://www.gizmodo.jp/article/motorola-signature_launch/",
         "https://www.gizmodo.jp/article/2611-anker-2-in-1-usb-c-cable/",
@@ -694,8 +695,7 @@
         "https://www.gizmodo.jp/article/2611-arnis-minecraft-real-world-generator/",
         "https://www.gizmodo.jp/article/2611-aladdin-gas-toaster/",
         "https://www.gizmodo.jp/article/2611-suica-penguin-successor/",
-        "https://www.gizmodo.jp/article/ai-robot_fr-nia/",
-        "https://www.gizmodo.jp/article/spotify-scratch-diy-dj-gear/"
+        "https://www.gizmodo.jp/article/ai-robot_fr-nia/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "5LqyN2uMHog",
