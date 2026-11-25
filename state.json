@@ -92,6 +92,9 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cqpv9kjgy4jno#0",
+        "https://www.bbc.co.uk/news/articles/ckr5gv4g0pmdo#1",
+        "https://www.bbc.co.uk/news/articles/c65y1vk4wp7po#1",
         "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo#1",
         "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo#0",
         "https://www.bbc.co.uk/news/articles/c6z7407zrgwvo#1",
@@ -288,10 +291,7 @@
         "https://www.bbc.co.uk/news/articles/c65y1qqw3kjxo#0",
         "https://www.bbc.co.uk/sport/boxing/articles/c6y80n3dn15yo#1",
         "https://www.bbc.co.uk/news/articles/c6n90j1qxel8o#0",
-        "https://www.bbc.co.uk/news/articles/cm2d94le23xyo#1",
-        "https://www.bbc.co.uk/news/articles/c6d94pzk9vleo#0",
-        "https://www.bbc.co.uk/news/articles/ckz74098jq5po#0",
-        "https://www.bbc.co.uk/news/articles/cw8dv4jmnle2o#1"
+        "https://www.bbc.co.uk/news/articles/cm2d94le23xyo#1"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20261125de81170",
@@ -496,6 +496,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261121de79612"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2611-iphone-18-and-iphone-air-2-dummy-models-leaked/",
         "https://www.gizmodo.jp/article/2611-elecom-bluetooth-fingerprint-reader/",
         "https://www.gizmodo.jp/article/2611-jensen-huang-nvidia-ceo-return-market-cap/",
         "https://www.gizmodo.jp/article/2611-nitori-suisui-mat/",
@@ -694,8 +695,7 @@
         "https://www.gizmodo.jp/article/2611-aina-ring-ai-smart-ring/",
         "https://www.gizmodo.jp/article/2611-gamepad-dac-headphone-amp/",
         "https://www.gizmodo.jp/article/2611-toyota-snow-hunter-concept-caterpillar/",
-        "https://www.gizmodo.jp/article/owltech_tough_wired_earphones/",
-        "https://www.gizmodo.jp/article/2611-gta6-release-uk-leave/"
+        "https://www.gizmodo.jp/article/owltech_tough_wired_earphones/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "5LqyN2uMHog",
