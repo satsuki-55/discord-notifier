@@ -93,6 +93,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cm0qjglj3ejlo#1",
         "https://www.bbc.co.uk/news/articles/c6ly5v11q194o#0",
         "https://www.bbc.co.uk/news/articles/crm4rygl4m3o#0",
         "https://www.bbc.co.uk/news/videos/cj5y1p067kxno#1",
@@ -291,8 +292,7 @@
         "https://www.bbc.co.uk/news/articles/c6808ym10vzgo#0",
         "https://www.bbc.co.uk/news/videos/c3y0xjqxy871o#1",
         "https://www.bbc.co.uk/news/articles/ck3rgp4gv9pxo#0",
-        "https://www.bbc.co.uk/news/articles/ckp80ynrn3mvo#1",
-        "https://www.bbc.co.uk/news/articles/ck3rgp4gv9pxo#1"
+        "https://www.bbc.co.uk/news/articles/ckp80ynrn3mvo#1"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20261125de81346",
@@ -497,6 +497,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261122de79841"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2611-openai-gpt-6-2-reviews-anthropic/",
         "https://www.gizmodo.jp/article/2611-flipper-one-network-hacking-tool/",
         "https://www.gizmodo.jp/article/2611-canva-mcp-release/",
         "https://www.gizmodo.jp/article/2611-fire-extinguishing-gadget-pouch/",
@@ -695,8 +696,7 @@
         "https://www.gizmodo.jp/article/2610-shure-gizmodo-movie-theater-sound-event/",
         "https://www.gizmodo.jp/article/2611-andobil-magsafe-smartphone-ring/",
         "https://www.gizmodo.jp/article/keychron-c3-pro-trackball-remove/",
-        "https://www.gizmodo.jp/article/xiaomi-18-pro/",
-        "https://www.gizmodo.jp/article/2611-arnis-minecraft-real-world-generator/"
+        "https://www.gizmodo.jp/article/xiaomi-18-pro/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "5LqyN2uMHog",
