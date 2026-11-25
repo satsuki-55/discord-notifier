@@ -295,6 +295,8 @@
         "https://www.bbc.co.uk/news/articles/cmze750zg0jeo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261125de81522",
+        "https://news.web.nhk/newsweb/na/nd-20261125de81523",
         "https://news.web.nhk/newsweb/na/nd-20261125de81508",
         "https://news.web.nhk/newsweb/na/nd-20261125de81505",
         "https://news.web.nhk/newsweb/na/nd-20261125de81521",
@@ -492,11 +494,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261122de80058",
         "https://news.web.nhk/newsweb/na/nd-20261122de80064",
         "https://news.web.nhk/newsweb/na/nd-20261122de80041",
-        "https://news.web.nhk/newsweb/na/nd-20261122de80043",
-        "https://news.web.nhk/newsweb/na/nd-20261122de80050",
-        "https://news.web.nhk/newsweb/na/nd-20261122de80018"
+        "https://news.web.nhk/newsweb/na/nd-20261122de80043"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2611-superwood-stronger-than-steel/",
         "https://www.gizmodo.jp/article/gta6-miami-reality-check/",
         "https://www.gizmodo.jp/article/anika-no-dengon_interview/",
         "https://www.gizmodo.jp/article/2611-gta6-performance-and-consoles/",
@@ -695,8 +696,7 @@
         "https://www.gizmodo.jp/article/manual-transmission_car_revival/",
         "https://www.gizmodo.jp/article/2611-nvidia-earnings-q3-2027-ai/",
         "https://www.gizmodo.jp/article/2611-2-8-million-eels-gathered-deep-sea-seamount/",
-        "https://www.gizmodo.jp/article/gxfab/",
-        "https://www.gizmodo.jp/article/gta6-free-pc-malware-warning/"
+        "https://www.gizmodo.jp/article/gxfab/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "5LqyN2uMHog",
