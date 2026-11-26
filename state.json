@@ -94,6 +94,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c98r7ydp7v0ko#0",
         "https://www.bbc.co.uk/news/articles/c2l9vvj097lo#0",
         "https://www.bbc.co.uk/news/articles/cq39gz99l1pyo#0",
         "https://www.bbc.co.uk/news/articles/cq39gz99l1pyo#1",
@@ -292,10 +293,13 @@
         "https://www.bbc.co.uk/news/articles/c893rl37ywdgo#0",
         "https://www.bbc.co.uk/news/articles/cv0l3nlgl80ro#1",
         "https://www.bbc.co.uk/news/articles/cm8e0p5dexy6o#1",
-        "https://www.bbc.co.uk/news/articles/c893rl37ywdgo#1",
-        "https://www.bbc.co.uk/news/videos/ckx28x5nlr2vo#1"
+        "https://www.bbc.co.uk/news/articles/c893rl37ywdgo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261126de82054",
+        "https://news.web.nhk/newsweb/na/nd-20261126de81759",
+        "https://news.web.nhk/newsweb/na/nd-20261126de82062",
+        "https://news.web.nhk/newsweb/na/nd-20261126de81968",
         "https://news.web.nhk/newsweb/na/nd-20261126de82059",
         "https://news.web.nhk/newsweb/na/nd-20261126de82010",
         "https://news.web.nhk/newsweb/na/nd-20261126de81766",
@@ -491,13 +495,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261123de80288",
         "https://news.web.nhk/newsweb/na/nd-20261124de80494",
         "https://news.web.nhk/newsweb/na/nd-20261124de80445",
-        "https://news.web.nhk/newsweb/na/nd-20261124de80444",
-        "https://news.web.nhk/newsweb/na/nd-20261124de80435",
-        "https://news.web.nhk/newsweb/na/nd-20261124de80375",
-        "https://news.web.nhk/newsweb/na/nd-20261124de80414",
-        "https://news.web.nhk/newsweb/na/nd-20261124de80412"
+        "https://news.web.nhk/newsweb/na/nd-20261124de80444"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/ecovacs-deebot-t90-omni/",
         "https://www.gizmodo.jp/article/2611-gta-6-ps5-record-launch/",
         "https://www.gizmodo.jp/article/2611-gta6-hacker-sentencing/",
         "https://www.gizmodo.jp/article/project-vayu-fan-filter/",
@@ -696,8 +697,7 @@
         "https://www.gizmodo.jp/article/2611-sweet-potato-varieties-baked-recipe/",
         "https://www.gizmodo.jp/article/2611-gemini-4-neon-google-ai/",
         "https://www.gizmodo.jp/article/2611-bose-new-ice-color-headphones-earbuds/",
-        "https://www.gizmodo.jp/article/2611-gemini-4-neon/",
-        "https://www.gizmodo.jp/article/2611-php-critical-vulnerability-november-2024/"
+        "https://www.gizmodo.jp/article/2611-gemini-4-neon/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "5LqyN2uMHog",
