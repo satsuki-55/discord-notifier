@@ -295,6 +295,7 @@
         "https://www.bbc.co.uk/news/articles/c65y18gl23gko#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261126de81651",
         "https://news.web.nhk/newsweb/na/nd-20261126de81641",
         "https://news.web.nhk/newsweb/na/nd-20261126de81587",
         "https://news.web.nhk/newsweb/na/nd-20261126de81584",
@@ -493,10 +494,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261123de80209",
         "https://news.web.nhk/newsweb/na/nd-20261123de80192",
         "https://news.web.nhk/newsweb/na/nd-20261123de80168",
-        "https://news.web.nhk/newsweb/na/nd-20261123de80151",
-        "https://news.web.nhk/newsweb/na/nd-20261123de80164"
+        "https://news.web.nhk/newsweb/na/nd-20261123de80151"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2611-gt-air-3-smart-ar-helmet/",
         "https://www.gizmodo.jp/article/eitwatch/",
         "https://www.gizmodo.jp/article/miyabull-phone-ai-fraud-detection-bbss/",
         "https://www.gizmodo.jp/article/2611-g-shock-hidden-gm-2110hdn-8ajr/",
@@ -695,8 +696,7 @@
         "https://www.gizmodo.jp/article/2611-jwst-pillars-of-creation-3d-visualization/",
         "https://www.gizmodo.jp/article/brain-sleep-perfectwarmex/",
         "https://www.gizmodo.jp/article/oppo_find-x10_and_find-x10-pro-max_hasselblad_camera/",
-        "https://www.gizmodo.jp/article/altra_vanish-carbon-3_oem_collaboration/",
-        "https://www.gizmodo.jp/article/google-cyber-defense-ai-japan/"
+        "https://www.gizmodo.jp/article/altra_vanish-carbon-3_oem_collaboration/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "5LqyN2uMHog",
