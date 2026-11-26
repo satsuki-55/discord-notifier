@@ -295,6 +295,7 @@
         "https://www.bbc.co.uk/news/articles/cm78270l4z7no#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261126de81782",
         "https://news.web.nhk/newsweb/na/nd-20261126de81760",
         "https://news.web.nhk/newsweb/na/nd-20261028de67167",
         "https://news.web.nhk/newsweb/na/nd-20261028de67171",
@@ -493,8 +494,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261123de80304",
         "https://news.web.nhk/newsweb/na/nd-20261123de80275",
         "https://news.web.nhk/newsweb/na/nd-20261123de80286",
-        "https://news.web.nhk/newsweb/na/nd-20261120de78800",
-        "https://news.web.nhk/newsweb/na/nd-20261123de80278"
+        "https://news.web.nhk/newsweb/na/nd-20261120de78800"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-flight-flap-phone-holder/",
