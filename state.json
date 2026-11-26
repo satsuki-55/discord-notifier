@@ -93,6 +93,8 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cwz0k90rgpm8o#0",
+        "https://www.bbc.co.uk/news/articles/cmde1zr0nlyro#1",
         "https://www.bbc.co.uk/news/articles/cr1ewjpgd2llo#0",
         "https://www.bbc.co.uk/news/articles/cwdd1zn9npdpo#1",
         "https://www.bbc.co.uk/news/articles/c3qj5yl7vj2xo#1",
@@ -290,11 +292,10 @@
         "https://www.bbc.co.uk/sport/football/articles/crn80y2l1404o#1",
         "https://www.bbc.co.uk/news/articles/cm7523pyk75lo#0",
         "https://www.bbc.co.uk/news/articles/cq62pn6j42jko#1",
-        "https://www.bbc.co.uk/news/articles/cr9d7qdg24vno#1",
-        "https://www.bbc.co.uk/news/articles/c9zr585dxkgzo#0",
-        "https://www.bbc.co.uk/news/articles/cklylrldzqm4o#0"
+        "https://www.bbc.co.uk/news/articles/cr9d7qdg24vno#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261126de81908",
         "https://news.web.nhk/newsweb/na/nd-20261126de81952",
         "https://news.web.nhk/newsweb/na/nd-20261126de81920",
         "https://news.web.nhk/newsweb/na/nd-20261126de81902",
@@ -493,8 +494,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261124de80350",
         "https://news.web.nhk/newsweb/na/nd-20261124de80348",
         "https://news.web.nhk/newsweb/na/nd-20261124de80347",
-        "https://news.web.nhk/newsweb/na/nd-20261124de80318",
-        "https://news.web.nhk/newsweb/na/nd-20261123de80285"
+        "https://news.web.nhk/newsweb/na/nd-20261124de80318"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/notta-memo-pro/",
