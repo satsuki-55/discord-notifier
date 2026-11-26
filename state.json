@@ -94,6 +94,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cq36gj12n0l3o#1",
         "https://www.bbc.co.uk/news/articles/cwe89jyz4012o#2",
         "https://www.bbc.co.uk/news/articles/cw782ml8ndgyo#1",
         "https://www.bbc.co.uk/news/articles/cw782ml8ndgyo#0",
@@ -292,10 +293,10 @@
         "https://www.bbc.co.uk/news/videos/crz6qgj35yjpo#1",
         "https://www.bbc.co.uk/news/articles/cwr5gvmme9q7o#1",
         "https://www.bbc.co.uk/news/articles/cq8e0p87l89lo#0",
-        "https://www.bbc.co.uk/news/articles/c65y17pwv1z7o#0",
-        "https://www.bbc.co.uk/news/articles/cm4gn6gn9057o#1"
+        "https://www.bbc.co.uk/news/articles/c65y17pwv1z7o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261126de82112",
         "https://news.web.nhk/newsweb/na/nd-20261126de81876",
         "https://news.web.nhk/newsweb/na/nd-20261126de82101",
         "https://news.web.nhk/newsweb/na/nd-20261126de82115",
@@ -494,10 +495,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261124de80761",
         "https://news.web.nhk/newsweb/na/nd-20261124de80535",
         "https://news.web.nhk/newsweb/na/nd-20261124de80698",
-        "https://news.web.nhk/newsweb/na/nd-20261124de80645",
-        "https://news.web.nhk/newsweb/na/nd-20261124de80559"
+        "https://news.web.nhk/newsweb/na/nd-20261124de80645"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2611-xbox-nano-controller-review/",
         "https://www.gizmodo.jp/article/cheap_stick-vacuum_review/",
         "https://www.gizmodo.jp/article/openai_bugging_incident_14-dollar_device/",
         "https://www.gizmodo.jp/article/mont-bell_ul-wind-shell-mitten/",
@@ -696,8 +697,7 @@
         "https://www.gizmodo.jp/article/luca-sabbath_father-mother-sister-brother_interview/",
         "https://www.gizmodo.jp/article/2611-minimalight-play-wallet-leather-review/",
         "https://www.gizmodo.jp/article/2611-nvidia-ceo-jensen-taiwan-tpe101/",
-        "https://www.gizmodo.jp/article/2611-bitcoin-miners-pivoting-to-ai-data-centers/",
-        "https://www.gizmodo.jp/article/bikkuri-donkey-hamburger-robot-line/"
+        "https://www.gizmodo.jp/article/2611-bitcoin-miners-pivoting-to-ai-data-centers/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "5LqyN2uMHog",
