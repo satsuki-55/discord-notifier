@@ -94,6 +94,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cq39gz99l1pyo#0",
         "https://www.bbc.co.uk/news/articles/cq39gz99l1pyo#1",
         "https://www.bbc.co.uk/news/articles/c61wr87wyg5wo#1",
         "https://www.bbc.co.uk/news/articles/cwz0k90rgpm8o#0",
@@ -292,10 +293,11 @@
         "https://www.bbc.co.uk/news/articles/cm8e0p5dexy6o#1",
         "https://www.bbc.co.uk/news/articles/c893rl37ywdgo#1",
         "https://www.bbc.co.uk/news/videos/ckx28x5nlr2vo#1",
-        "https://www.bbc.co.uk/sport/football/articles/crn80y2l1404o#1",
-        "https://www.bbc.co.uk/news/articles/cm7523pyk75lo#0"
+        "https://www.bbc.co.uk/sport/football/articles/crn80y2l1404o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261126de82010",
+        "https://news.web.nhk/newsweb/na/nd-20261126de81766",
         "https://news.web.nhk/newsweb/na/nd-20261126de82038",
         "https://news.web.nhk/newsweb/na/nd-20261126de81988",
         "https://news.web.nhk/newsweb/na/nd-20261126de81627",
@@ -493,9 +495,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261124de80375",
         "https://news.web.nhk/newsweb/na/nd-20261124de80414",
         "https://news.web.nhk/newsweb/na/nd-20261124de80412",
-        "https://news.web.nhk/newsweb/na/nd-20261124de80396",
-        "https://news.web.nhk/newsweb/na/nd-20261124de80363",
-        "https://news.web.nhk/newsweb/na/nd-20261124de80365"
+        "https://news.web.nhk/newsweb/na/nd-20261124de80396"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/project-vayu-fan-filter/",
