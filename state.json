@@ -295,6 +295,7 @@
         "https://www.bbc.co.uk/news/articles/c8d36d43y8po#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261126de81731",
         "https://news.web.nhk/newsweb/na/nd-20261126de81713",
         "https://news.web.nhk/newsweb/na/nd-20261126de81692",
         "https://news.web.nhk/newsweb/na/nd-20261126de81684",
@@ -493,10 +494,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261123de80268",
         "https://news.web.nhk/newsweb/na/nd-20261123de80214",
         "https://news.web.nhk/newsweb/na/nd-20261123de80257",
-        "https://news.web.nhk/newsweb/na/nd-20261117de77395",
-        "https://news.web.nhk/newsweb/na/nd-20261123de80254"
+        "https://news.web.nhk/newsweb/na/nd-20261117de77395"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2611-gemini-history-retention-two-months/",
         "https://www.gizmodo.jp/article/2611-suno-ai-copyright-lawsuit-elvis-eminem/",
         "https://www.gizmodo.jp/article/2611-genspark-secondbrain-voicepad/",
         "https://www.gizmodo.jp/article/2611-gt-air-3-smart-ar-helmet/",
@@ -695,8 +696,7 @@
         "https://www.gizmodo.jp/article/2611-switchbot-robot-vacuum-cleaner-s30/",
         "https://www.gizmodo.jp/article/2611-ai-data-center-location-tradeoffs/",
         "https://www.gizmodo.jp/article/2611-anthropics-ipo-ai-market-shift/",
-        "https://www.gizmodo.jp/article/2611-jwst-pillars-of-creation-3d-visualization/",
-        "https://www.gizmodo.jp/article/brain-sleep-perfectwarmex/"
+        "https://www.gizmodo.jp/article/2611-jwst-pillars-of-creation-3d-visualization/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "5LqyN2uMHog",
