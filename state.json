@@ -296,6 +296,9 @@
         "https://www.bbc.co.uk/news/articles/cv0l3nlgl80ro#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261126de82087",
+        "https://news.web.nhk/newsweb/na/nd-20261120de79120",
+        "https://news.web.nhk/newsweb/na/nd-20261126de82093",
         "https://news.web.nhk/newsweb/na/nd-20261126de82076",
         "https://news.web.nhk/newsweb/na/nd-20261126de82052",
         "https://news.web.nhk/newsweb/na/nd-20261126de82049",
@@ -492,12 +495,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261124de80532",
         "https://news.web.nhk/newsweb/na/nd-20261124de80521",
         "https://news.web.nhk/newsweb/na/nd-20261124de80511",
-        "https://news.web.nhk/newsweb/na/nd-20261124de80510",
-        "https://news.web.nhk/newsweb/na/nd-20261124de80509",
-        "https://news.web.nhk/newsweb/na/nd-20261124de80508",
-        "https://news.web.nhk/newsweb/na/nd-20261120de79120"
+        "https://news.web.nhk/newsweb/na/nd-20261124de80510"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/tansu-no-gen-bench-delivery-box/",
         "https://www.gizmodo.jp/article/2611-pro-w930-work-chair/",
         "https://www.gizmodo.jp/article/nape-pro-se-dj/",
         "https://www.gizmodo.jp/article/iphone-duo-apple-pencil-review/",
@@ -696,8 +697,7 @@
         "https://www.gizmodo.jp/article/2611-amazon-leo-satellite-launch-failure/",
         "https://www.gizmodo.jp/article/2611-ninja-soupi-auto-soup-maker/",
         "https://www.gizmodo.jp/article/citizen-attesa-hazy/",
-        "https://www.gizmodo.jp/article/2611-solar-powered-garden-shed-os1/",
-        "https://www.gizmodo.jp/article/3coins_slide_outlet_holder/"
+        "https://www.gizmodo.jp/article/2611-solar-powered-garden-shed-os1/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "5LqyN2uMHog",
