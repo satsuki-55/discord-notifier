@@ -93,6 +93,11 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cqvg27zpm8w8o#0",
+        "https://www.bbc.co.uk/weather/articles/cr3eg1py3gv5o#0",
+        "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo#0",
+        "https://www.bbc.co.uk/news/articles/c8lydnlkq7xno#1",
+        "https://www.bbc.co.uk/weather/articles/cr3eg1py3gv5o#1",
         "https://www.bbc.co.uk/news/articles/cqd01l9x8k48o#0",
         "https://www.bbc.co.uk/news/articles/c6rmgjynynero#0",
         "https://www.bbc.co.uk/news/articles/c0666rn4l5vo#0",
@@ -287,12 +292,7 @@
         "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo#0",
         "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo#1",
         "https://www.bbc.co.uk/news/articles/cm3eg502nxw2o#0",
-        "https://www.bbc.co.uk/news/videos/ckedq2edqegzo#1",
-        "https://www.bbc.co.uk/news/articles/cvx2xjed2r3ro#1",
-        "https://www.bbc.co.uk/news/articles/cqvg27zpm8w8o#0",
-        "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o#0",
-        "https://www.bbc.co.uk/news/articles/c6pw47jyyz5no#1",
-        "https://www.bbc.co.uk/news/articles/c8d36d43y8po#1"
+        "https://www.bbc.co.uk/news/videos/ckedq2edqegzo#1"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20261126de81584",
@@ -497,6 +497,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261123de80146"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/garmin_forerunner-570_review/",
         "https://www.gizmodo.jp/article/2611-shure-mv360-mic/",
         "https://www.gizmodo.jp/article/renault-5_ev/",
         "https://www.gizmodo.jp/article/2611-coffee-and-bowel-movement-study/",
@@ -695,8 +696,7 @@
         "https://www.gizmodo.jp/article/google-cyber-defense-ai-japan/",
         "https://www.gizmodo.jp/article/keychron-c3-pro-trackball-chohayawari-last/",
         "https://www.gizmodo.jp/article/2611-infobar-zero/",
-        "https://www.gizmodo.jp/article/2611-china-underwater-data-center/",
-        "https://www.gizmodo.jp/article/manual-transmission_car_revival/"
+        "https://www.gizmodo.jp/article/2611-china-underwater-data-center/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "5LqyN2uMHog",
