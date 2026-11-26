@@ -93,6 +93,8 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cqlymky8kpzjo#1",
+        "https://www.bbc.co.uk/news/videos/cvglrz5yr79go#1",
         "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o#1",
         "https://www.bbc.co.uk/news/articles/cmx2x4e0n5jro#0",
         "https://www.bbc.co.uk/news/articles/ckn806qq760po#1",
@@ -290,11 +292,10 @@
         "https://www.bbc.co.uk/news/articles/cm78270l4z7no#1",
         "https://www.bbc.co.uk/news/articles/cm0rk19kl52do#1",
         "https://www.bbc.co.uk/news/articles/c9gkld2l38y6o#1",
-        "https://www.bbc.co.uk/news/articles/c9gkld2l38y6o#0",
-        "https://www.bbc.co.uk/news/articles/cwy7r5z8gg65o#1",
-        "https://www.bbc.co.uk/news/articles/c60rk1yj07xeo#1"
+        "https://www.bbc.co.uk/news/articles/c9gkld2l38y6o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261126de81607",
         "https://news.web.nhk/newsweb/na/nd-20261126de81752",
         "https://news.web.nhk/newsweb/na/nd-20261126de81753",
         "https://news.web.nhk/newsweb/na/nd-20261126de81744",
@@ -493,10 +494,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261123de80278",
         "https://news.web.nhk/newsweb/na/nd-20261123de80277",
         "https://news.web.nhk/newsweb/na/nd-20261123de80276",
-        "https://news.web.nhk/newsweb/na/nd-20261123de80272",
-        "https://news.web.nhk/newsweb/na/nd-20261123de80268"
+        "https://news.web.nhk/newsweb/na/nd-20261123de80272"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2611-galaxy-watch-2-year-cycle/",
         "https://www.gizmodo.jp/article/2611-gemini-history-retention-two-months/",
         "https://www.gizmodo.jp/article/2611-suno-ai-copyright-lawsuit-elvis-eminem/",
         "https://www.gizmodo.jp/article/2611-genspark-secondbrain-voicepad/",
@@ -695,8 +696,7 @@
         "https://www.gizmodo.jp/article/2611-anker-maggo-power-bank-2-pro/",
         "https://www.gizmodo.jp/article/2611-switchbot-robot-vacuum-cleaner-s30/",
         "https://www.gizmodo.jp/article/2611-ai-data-center-location-tradeoffs/",
-        "https://www.gizmodo.jp/article/2611-anthropics-ipo-ai-market-shift/",
-        "https://www.gizmodo.jp/article/2611-jwst-pillars-of-creation-3d-visualization/"
+        "https://www.gizmodo.jp/article/2611-anthropics-ipo-ai-market-shift/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "5LqyN2uMHog",
