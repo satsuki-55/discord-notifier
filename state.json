@@ -94,6 +94,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/crjeqy2ndzy1o#1",
         "https://www.bbc.co.uk/news/articles/cjqlqerzv1eyo#0",
         "https://www.bbc.co.uk/news/articles/cmly7jve72r2o#0",
         "https://www.bbc.co.uk/news/articles/cmn50ezxdnewo#0",
@@ -292,10 +293,11 @@
         "https://www.bbc.co.uk/news/articles/crx20q8ql4gwo#0",
         "https://www.bbc.co.uk/news/articles/cq2e83egrez3o#0",
         "https://www.bbc.co.uk/news/articles/cw9879841ev7o#0",
-        "https://www.bbc.co.uk/news/articles/crjeq7ey7llqo#1",
-        "https://www.bbc.co.uk/news/articles/c893rl37ywdgo#0"
+        "https://www.bbc.co.uk/news/articles/crjeq7ey7llqo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261126de82098",
+        "https://news.web.nhk/newsweb/na/nd-20261126de82085",
         "https://news.web.nhk/newsweb/na/nd-20261126de82088",
         "https://news.web.nhk/newsweb/na/nd-20261124de80510",
         "https://news.web.nhk/newsweb/na/nd-20261126de82090",
@@ -493,11 +495,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261124de80561",
         "https://news.web.nhk/newsweb/na/nd-20261124de80569",
         "https://news.web.nhk/newsweb/na/nd-20261124de80556",
-        "https://news.web.nhk/newsweb/na/nd-20261028de67168",
-        "https://news.web.nhk/newsweb/na/nd-20261124de80544",
-        "https://news.web.nhk/newsweb/na/nd-20261124de80532"
+        "https://news.web.nhk/newsweb/na/nd-20261028de67168"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2611-elecom-waterproof-smartphone-case-bath/",
         "https://www.gizmodo.jp/article/tansu-no-gen-bench-delivery-box/",
         "https://www.gizmodo.jp/article/2611-pro-w930-work-chair/",
         "https://www.gizmodo.jp/article/nape-pro-se-dj/",
@@ -696,8 +697,7 @@
         "https://www.gizmodo.jp/article/2611-eu-election-deepfake-ai-rules/",
         "https://www.gizmodo.jp/article/2611-amazon-leo-satellite-launch-failure/",
         "https://www.gizmodo.jp/article/2611-ninja-soupi-auto-soup-maker/",
-        "https://www.gizmodo.jp/article/citizen-attesa-hazy/",
-        "https://www.gizmodo.jp/article/2611-solar-powered-garden-shed-os1/"
+        "https://www.gizmodo.jp/article/citizen-attesa-hazy/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "5LqyN2uMHog",
