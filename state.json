@@ -93,6 +93,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cmvg2989wv74o#0",
         "https://www.bbc.co.uk/news/articles/cm8x0ve4yd7wo#1",
         "https://www.bbc.co.uk/news/articles/ck24evd10rjlo#0",
         "https://www.bbc.co.uk/news/articles/c65y10j841jpo#1",
@@ -291,10 +292,10 @@
         "https://www.bbc.co.uk/news/articles/cq7827z2841zo#0",
         "https://www.bbc.co.uk/news/articles/cm78270l4z7no#0",
         "https://www.bbc.co.uk/news/articles/cjqlq2n4np7do#1",
-        "https://www.bbc.co.uk/news/videos/cqn0dwrewrwxo#0",
-        "https://www.bbc.co.uk/news/articles/cm5y1xk1gpqvo#1"
+        "https://www.bbc.co.uk/news/videos/cqn0dwrewrwxo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261126de81839",
         "https://news.web.nhk/newsweb/na/nd-20261126de81810",
         "https://news.web.nhk/newsweb/na/nd-20261126de81818",
         "https://news.web.nhk/newsweb/na/nd-20261126de81809",
@@ -493,8 +494,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261123de80284",
         "https://news.web.nhk/newsweb/na/nd-20261123de80287",
         "https://news.web.nhk/newsweb/na/nd-20261120de78848",
-        "https://news.web.nhk/newsweb/na/nd-20261123de80289",
-        "https://news.web.nhk/newsweb/na/nd-20261123de80283"
+        "https://news.web.nhk/newsweb/na/nd-20261123de80289"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-hires-bear-repellent-speaker/",
