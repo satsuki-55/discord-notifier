@@ -295,6 +295,7 @@
         "https://www.bbc.co.uk/weather/articles/c5742nplemnno#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261126de81818",
         "https://news.web.nhk/newsweb/na/nd-20261126de81809",
         "https://news.web.nhk/newsweb/na/nd-20261120de78800",
         "https://news.web.nhk/newsweb/na/nd-20261126de81797",
@@ -493,8 +494,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261120de78848",
         "https://news.web.nhk/newsweb/na/nd-20261123de80289",
         "https://news.web.nhk/newsweb/na/nd-20261123de80283",
-        "https://news.web.nhk/newsweb/na/nd-20261123de80131",
-        "https://news.web.nhk/newsweb/na/nd-20261123de80304"
+        "https://news.web.nhk/newsweb/na/nd-20261123de80131"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-hires-bear-repellent-speaker/",
