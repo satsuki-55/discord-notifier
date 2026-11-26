@@ -296,6 +296,7 @@
         "https://www.bbc.co.uk/news/articles/cmx27g533zwyo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261126de81804",
         "https://news.web.nhk/newsweb/na/nd-20261127de82181",
         "https://news.web.nhk/newsweb/na/nd-20261127de82191",
         "https://news.web.nhk/newsweb/na/nd-20261127de82180",
@@ -494,10 +495,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261124de80832",
         "https://news.web.nhk/newsweb/na/nd-20261124de80864",
         "https://news.web.nhk/newsweb/na/nd-20261124de80791",
-        "https://news.web.nhk/newsweb/na/nd-20261124de80818",
-        "https://news.web.nhk/newsweb/na/nd-20261124de80814"
+        "https://news.web.nhk/newsweb/na/nd-20261124de80818"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2611-humanoid-robot-operator-tokyo/",
         "https://www.gizmodo.jp/article/2611-m5-macbook-air-black-friday-sale/",
         "https://www.gizmodo.jp/article/sony-walkman-nw-wm1zm3/",
         "https://www.gizmodo.jp/article/2611-iphone-air-amazon-blackfriday/",
@@ -696,8 +697,7 @@
         "https://www.gizmodo.jp/article/2611-anthropic-ipo-2-trillion-valuation/",
         "https://www.gizmodo.jp/article/2611-chatgpt-accounting-plugin-invoice-automation/",
         "https://www.gizmodo.jp/article/2611-chatgpt-live-dictation/",
-        "https://www.gizmodo.jp/article/figure-humanoid-robot-pilot-job/",
-        "https://www.gizmodo.jp/article/2611-jensen-huang-scandal-nvidia/"
+        "https://www.gizmodo.jp/article/figure-humanoid-robot-pilot-job/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "ZQuKT0hFy8E",
