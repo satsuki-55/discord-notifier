@@ -93,6 +93,8 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c9gkld2l38y6o#0",
+        "https://www.bbc.co.uk/news/articles/c0666rn4l5vo#1",
         "https://www.bbc.co.uk/news/articles/cqlymky8kpzjo#1",
         "https://www.bbc.co.uk/news/videos/cvglrz5yr79go#1",
         "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o#1",
@@ -290,11 +292,10 @@
         "https://www.bbc.co.uk/weather/articles/c5742nplemnno#0",
         "https://www.bbc.co.uk/news/articles/cm930y07p0j2o#1",
         "https://www.bbc.co.uk/news/articles/cm78270l4z7no#1",
-        "https://www.bbc.co.uk/news/articles/cm0rk19kl52do#1",
-        "https://www.bbc.co.uk/news/articles/c9gkld2l38y6o#1",
-        "https://www.bbc.co.uk/news/articles/c9gkld2l38y6o#0"
+        "https://www.bbc.co.uk/news/articles/cm0rk19kl52do#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261028de67167",
         "https://news.web.nhk/newsweb/na/nd-20261028de67171",
         "https://news.web.nhk/newsweb/na/nd-20261126de81607",
         "https://news.web.nhk/newsweb/na/nd-20261126de81752",
@@ -493,8 +494,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261123de80286",
         "https://news.web.nhk/newsweb/na/nd-20261120de78800",
         "https://news.web.nhk/newsweb/na/nd-20261123de80278",
-        "https://news.web.nhk/newsweb/na/nd-20261123de80277",
-        "https://news.web.nhk/newsweb/na/nd-20261123de80276"
+        "https://news.web.nhk/newsweb/na/nd-20261123de80277"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-galaxy-watch-2-year-cycle/",
