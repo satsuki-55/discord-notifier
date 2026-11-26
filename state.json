@@ -296,6 +296,7 @@
         "https://www.bbc.co.uk/news/articles/ckpdw4d0z2dwo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261126de81876",
         "https://news.web.nhk/newsweb/na/nd-20261126de82101",
         "https://news.web.nhk/newsweb/na/nd-20261126de82115",
         "https://news.web.nhk/newsweb/na/nd-20261124de80556",
@@ -494,10 +495,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261124de80535",
         "https://news.web.nhk/newsweb/na/nd-20261124de80698",
         "https://news.web.nhk/newsweb/na/nd-20261124de80645",
-        "https://news.web.nhk/newsweb/na/nd-20261124de80559",
-        "https://news.web.nhk/newsweb/na/nd-20261124de80587"
+        "https://news.web.nhk/newsweb/na/nd-20261124de80559"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/openai_bugging_incident_14-dollar_device/",
         "https://www.gizmodo.jp/article/mont-bell_ul-wind-shell-mitten/",
         "https://www.gizmodo.jp/article/2611-origami-engineering-space-technology-outsense/",
         "https://www.gizmodo.jp/article/2611-new-clam-species-found-in-sea-urchin-throat/",
@@ -696,8 +697,7 @@
         "https://www.gizmodo.jp/article/2611-nvidia-ceo-jensen-taiwan-tpe101/",
         "https://www.gizmodo.jp/article/2611-bitcoin-miners-pivoting-to-ai-data-centers/",
         "https://www.gizmodo.jp/article/bikkuri-donkey-hamburger-robot-line/",
-        "https://www.gizmodo.jp/article/2611-ai-datacenter-energy-consumption-fossil-fuels/",
-        "https://www.gizmodo.jp/article/2611-eu-election-deepfake-ai-rules/"
+        "https://www.gizmodo.jp/article/2611-ai-datacenter-energy-consumption-fossil-fuels/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "5LqyN2uMHog",
