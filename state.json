@@ -295,6 +295,7 @@
         "https://www.bbc.co.uk/news/articles/c63rgpy50x98o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261126de81587",
         "https://news.web.nhk/newsweb/na/nd-20261126de81584",
         "https://news.web.nhk/newsweb/na/nd-20261126de81579",
         "https://news.web.nhk/newsweb/na/nd-20261125de81455",
@@ -493,8 +494,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261123de80168",
         "https://news.web.nhk/newsweb/na/nd-20261123de80151",
         "https://news.web.nhk/newsweb/na/nd-20261123de80164",
-        "https://news.web.nhk/newsweb/na/nd-20261123de80157",
-        "https://news.web.nhk/newsweb/na/nd-20261123de80146"
+        "https://news.web.nhk/newsweb/na/nd-20261123de80157"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/miyabull-phone-ai-fraud-detection-bbss/",
