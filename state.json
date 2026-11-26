@@ -296,6 +296,7 @@
         "https://www.bbc.co.uk/news/articles/cm8e0p5dexy6o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261126de82075",
         "https://news.web.nhk/newsweb/na/nd-20261126de82072",
         "https://news.web.nhk/newsweb/na/nd-20261126de82054",
         "https://news.web.nhk/newsweb/na/nd-20261126de81759",
@@ -494,10 +495,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261120de79120",
         "https://news.web.nhk/newsweb/na/nd-20261124de80499",
         "https://news.web.nhk/newsweb/na/nd-20261123de80288",
-        "https://news.web.nhk/newsweb/na/nd-20261124de80494",
-        "https://news.web.nhk/newsweb/na/nd-20261124de80445"
+        "https://news.web.nhk/newsweb/na/nd-20261124de80494"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/iphone-duo-apple-pencil-review/",
         "https://www.gizmodo.jp/article/2611-spacex-starmind-space-data-center-fcc-approval/",
         "https://www.gizmodo.jp/article/ecovacs-deebot-t90-omni/",
         "https://www.gizmodo.jp/article/2611-gta-6-ps5-record-launch/",
@@ -696,8 +697,7 @@
         "https://www.gizmodo.jp/article/2611-solar-powered-garden-shed-os1/",
         "https://www.gizmodo.jp/article/3coins_slide_outlet_holder/",
         "https://www.gizmodo.jp/article/2611-sweet-potato-varieties-baked-recipe/",
-        "https://www.gizmodo.jp/article/2611-gemini-4-neon-google-ai/",
-        "https://www.gizmodo.jp/article/2611-bose-new-ice-color-headphones-earbuds/"
+        "https://www.gizmodo.jp/article/2611-gemini-4-neon-google-ai/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "5LqyN2uMHog",
