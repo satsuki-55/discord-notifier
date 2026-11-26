@@ -296,6 +296,7 @@
         "https://www.bbc.co.uk/news/articles/c893rl37ywdgo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261126de82088",
         "https://news.web.nhk/newsweb/na/nd-20261124de80510",
         "https://news.web.nhk/newsweb/na/nd-20261126de82090",
         "https://news.web.nhk/newsweb/na/nd-20261126de82087",
@@ -494,8 +495,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261124de80556",
         "https://news.web.nhk/newsweb/na/nd-20261028de67168",
         "https://news.web.nhk/newsweb/na/nd-20261124de80544",
-        "https://news.web.nhk/newsweb/na/nd-20261124de80532",
-        "https://news.web.nhk/newsweb/na/nd-20261124de80521"
+        "https://news.web.nhk/newsweb/na/nd-20261124de80532"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/tansu-no-gen-bench-delivery-box/",
