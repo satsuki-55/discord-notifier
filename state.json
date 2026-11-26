@@ -296,6 +296,8 @@
         "https://www.bbc.co.uk/news/articles/c893r9ke5p97o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261127de82163",
+        "https://news.web.nhk/newsweb/na/nd-20261127de82139",
         "https://news.web.nhk/newsweb/na/nd-20261127de82183",
         "https://news.web.nhk/newsweb/na/nd-20261127de82148",
         "https://news.web.nhk/newsweb/na/nd-20261127de82141",
@@ -493,9 +495,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261124de80811",
         "https://news.web.nhk/newsweb/na/nd-20261124de80720",
         "https://news.web.nhk/newsweb/na/nd-20261124de80770",
-        "https://news.web.nhk/newsweb/na/nd-20261124de80775",
-        "https://news.web.nhk/newsweb/na/nd-20261124de80779",
-        "https://news.web.nhk/newsweb/na/nd-20261124de80802"
+        "https://news.web.nhk/newsweb/na/nd-20261124de80775"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-iphone-air-amazon-blackfriday/",
