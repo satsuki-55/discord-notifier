@@ -296,6 +296,7 @@
         "https://www.bbc.co.uk/sport/football/articles/crn80y2l1404o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261126de82059",
         "https://news.web.nhk/newsweb/na/nd-20261126de82010",
         "https://news.web.nhk/newsweb/na/nd-20261126de81766",
         "https://news.web.nhk/newsweb/na/nd-20261126de82038",
@@ -494,10 +495,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261124de80435",
         "https://news.web.nhk/newsweb/na/nd-20261124de80375",
         "https://news.web.nhk/newsweb/na/nd-20261124de80414",
-        "https://news.web.nhk/newsweb/na/nd-20261124de80412",
-        "https://news.web.nhk/newsweb/na/nd-20261124de80396"
+        "https://news.web.nhk/newsweb/na/nd-20261124de80412"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2611-gta6-hacker-sentencing/",
         "https://www.gizmodo.jp/article/project-vayu-fan-filter/",
         "https://www.gizmodo.jp/article/2611-gizmart-winter-fair-2026/",
         "https://www.gizmodo.jp/article/notta-memo-pro/",
@@ -696,8 +697,7 @@
         "https://www.gizmodo.jp/article/2611-bose-new-ice-color-headphones-earbuds/",
         "https://www.gizmodo.jp/article/2611-gemini-4-neon/",
         "https://www.gizmodo.jp/article/2611-php-critical-vulnerability-november-2024/",
-        "https://www.gizmodo.jp/article/gemini-notebook_interactive_site_generator/",
-        "https://www.gizmodo.jp/article/2611-jr-east-shinkansen-drone-inspection/"
+        "https://www.gizmodo.jp/article/gemini-notebook_interactive_site_generator/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "5LqyN2uMHog",
