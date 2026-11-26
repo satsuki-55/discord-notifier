@@ -296,6 +296,7 @@
         "https://www.bbc.co.uk/news/articles/ckj05m2zdyryo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261127de82197",
         "https://news.web.nhk/newsweb/na/nd-20261127de82144",
         "https://news.web.nhk/newsweb/na/nd-20261126de81804",
         "https://news.web.nhk/newsweb/na/nd-20261127de82181",
@@ -494,8 +495,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261124de80797",
         "https://news.web.nhk/newsweb/na/nd-20261124de80861",
         "https://news.web.nhk/newsweb/na/nd-20261124de80832",
-        "https://news.web.nhk/newsweb/na/nd-20261124de80864",
-        "https://news.web.nhk/newsweb/na/nd-20261124de80791"
+        "https://news.web.nhk/newsweb/na/nd-20261124de80864"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-cia-us-intelligence-hacked/",
