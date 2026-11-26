@@ -295,6 +295,8 @@
         "https://www.bbc.co.uk/news/articles/cr9d7qdg24vno#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261126de81984",
+        "https://news.web.nhk/newsweb/na/nd-20261126de81947",
         "https://news.web.nhk/newsweb/na/nd-20261126de81908",
         "https://news.web.nhk/newsweb/na/nd-20261126de81952",
         "https://news.web.nhk/newsweb/na/nd-20261126de81920",
@@ -492,11 +494,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261124de80352",
         "https://news.web.nhk/newsweb/na/nd-20261124de80353",
         "https://news.web.nhk/newsweb/na/nd-20261124de80350",
-        "https://news.web.nhk/newsweb/na/nd-20261124de80348",
-        "https://news.web.nhk/newsweb/na/nd-20261124de80347",
-        "https://news.web.nhk/newsweb/na/nd-20261124de80318"
+        "https://news.web.nhk/newsweb/na/nd-20261124de80348"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2611-gizmart-winter-fair-2026/",
         "https://www.gizmodo.jp/article/notta-memo-pro/",
         "https://www.gizmodo.jp/article/2611-hires-bear-repellent-speaker/",
         "https://www.gizmodo.jp/article/2611-flight-flap-phone-holder/",
@@ -695,8 +696,7 @@
         "https://www.gizmodo.jp/article/2611-php-critical-vulnerability-november-2024/",
         "https://www.gizmodo.jp/article/gemini-notebook_interactive_site_generator/",
         "https://www.gizmodo.jp/article/2611-jr-east-shinkansen-drone-inspection/",
-        "https://www.gizmodo.jp/article/2611-amazon-black-friday-2024-sale-dates/",
-        "https://www.gizmodo.jp/article/2611-anker-maggo-power-bank-2-pro/"
+        "https://www.gizmodo.jp/article/2611-amazon-black-friday-2024-sale-dates/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "5LqyN2uMHog",
