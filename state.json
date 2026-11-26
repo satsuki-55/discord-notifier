@@ -295,6 +295,7 @@
         "https://www.bbc.co.uk/news/articles/c8d36d43y8po#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261126de81692",
         "https://news.web.nhk/newsweb/na/nd-20261126de81684",
         "https://news.web.nhk/newsweb/na/nd-20261126de81678",
         "https://news.web.nhk/newsweb/na/nd-20261126de81597",
@@ -493,8 +494,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261123de80257",
         "https://news.web.nhk/newsweb/na/nd-20261117de77395",
         "https://news.web.nhk/newsweb/na/nd-20261123de80254",
-        "https://news.web.nhk/newsweb/na/nd-20261123de80238",
-        "https://news.web.nhk/newsweb/na/nd-20261123de80226"
+        "https://news.web.nhk/newsweb/na/nd-20261123de80238"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-genspark-secondbrain-voicepad/",
