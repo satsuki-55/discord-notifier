@@ -295,6 +295,7 @@
         "https://www.bbc.co.uk/news/articles/c65y18gl23gko#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261126de81596",
         "https://news.web.nhk/newsweb/na/nd-20261126de81651",
         "https://news.web.nhk/newsweb/na/nd-20261126de81641",
         "https://news.web.nhk/newsweb/na/nd-20261126de81587",
@@ -493,8 +494,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261123de80226",
         "https://news.web.nhk/newsweb/na/nd-20261123de80209",
         "https://news.web.nhk/newsweb/na/nd-20261123de80192",
-        "https://news.web.nhk/newsweb/na/nd-20261123de80168",
-        "https://news.web.nhk/newsweb/na/nd-20261123de80151"
+        "https://news.web.nhk/newsweb/na/nd-20261123de80168"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-gt-air-3-smart-ar-helmet/",
