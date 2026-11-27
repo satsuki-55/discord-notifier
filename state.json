@@ -297,6 +297,8 @@
         "https://www.bbc.co.uk/news/articles/c68798vdprwpo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261127de82770",
+        "https://news.web.nhk/newsweb/na/nd-20261127de82765",
         "https://news.web.nhk/newsweb/na/nd-20261127de82772",
         "https://news.web.nhk/newsweb/na/nd-20261127de82763",
         "https://news.web.nhk/newsweb/na/nd-20261127de82241",
@@ -494,9 +496,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261125de81277",
         "https://news.web.nhk/newsweb/na/nd-20261125de81289",
         "https://news.web.nhk/newsweb/na/nd-20261125de81294",
-        "https://news.web.nhk/newsweb/na/nd-20261125de81285",
-        "https://news.web.nhk/newsweb/na/nd-20261125de81248",
-        "https://news.web.nhk/newsweb/na/nd-20261125de81299"
+        "https://news.web.nhk/newsweb/na/nd-20261125de81285"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/lenovo_legion-go-beam_leak/",
