@@ -296,6 +296,7 @@
         "https://www.bbc.co.uk/news/articles/c3rrgqj2zx5yo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261127de82528",
         "https://news.web.nhk/newsweb/na/nd-20261127de82486",
         "https://news.web.nhk/newsweb/na/nd-20261127de82378",
         "https://news.web.nhk/newsweb/na/nd-20261127de82452",
@@ -494,8 +495,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261125de80993",
         "https://news.web.nhk/newsweb/na/nd-20261125de81028",
         "https://news.web.nhk/newsweb/na/nd-20261125de80985",
-        "https://news.web.nhk/newsweb/na/nd-20261125de80995",
-        "https://news.web.nhk/newsweb/na/nd-20261125de80970"
+        "https://news.web.nhk/newsweb/na/nd-20261125de80995"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/autonomous-bicycle-robot_mountain-trail/",
