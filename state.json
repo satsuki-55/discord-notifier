@@ -95,6 +95,11 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/ckr5gr4g8gn5o#0",
+        "https://www.bbc.co.uk/news/articles/c69q8yjj1v0po#0",
+        "https://www.bbc.co.uk/news/articles/ckr5grlq78n9o#0",
+        "https://www.bbc.co.uk/news/articles/ck053e1d3ly1o#0",
+        "https://www.bbc.co.uk/news/articles/c58j4pw9xjrlo#1",
         "https://www.bbc.co.uk/news/articles/cre3dj5n7dpwo#1",
         "https://www.bbc.co.uk/news/articles/cre3dj5n7dpwo#0",
         "https://www.bbc.co.uk/news/articles/cm879e5yxjq5o#1",
@@ -289,14 +294,10 @@
         "https://www.bbc.co.uk/news/articles/c68798vdprwpo#0",
         "https://www.bbc.co.uk/news/articles/cv8e04ll9dd3o#1",
         "https://www.bbc.co.uk/news/articles/cqwy0rr4rr4yo#1",
-        "https://www.bbc.co.uk/news/articles/cw24e17v9e51o#1",
-        "https://www.bbc.co.uk/news/articles/c9zr585dxkgzo#1",
-        "https://www.bbc.co.uk/news/articles/c6ly5v11q194o#1",
-        "https://www.bbc.co.uk/news/articles/c50md8x9gdgro#1",
-        "https://www.bbc.co.uk/news/articles/cqx2ej77ry1zo#1",
-        "https://www.bbc.co.uk/news/articles/cm0qjglj3ejlo#1"
+        "https://www.bbc.co.uk/news/articles/cw24e17v9e51o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261127de82748",
         "https://news.web.nhk/newsweb/na/nd-20261127de82743",
         "https://news.web.nhk/newsweb/na/nd-20261127de82735",
         "https://news.web.nhk/newsweb/na/nd-20261127de82720",
@@ -495,8 +496,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261125de81258",
         "https://news.web.nhk/newsweb/na/nd-20261125de81219",
         "https://news.web.nhk/newsweb/na/nd-20261125de81191",
-        "https://news.web.nhk/newsweb/na/nd-20261125de81188",
-        "https://news.web.nhk/newsweb/na/nd-20261125de81004"
+        "https://news.web.nhk/newsweb/na/nd-20261125de81188"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-sanwa-hdmi-dp-hybrid-hub/",
