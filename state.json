@@ -297,6 +297,7 @@
         "https://www.bbc.co.uk/news/articles/crm4rygl4m3o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261127de82694",
         "https://news.web.nhk/newsweb/na/nd-20261127de82675",
         "https://news.web.nhk/newsweb/na/nd-20261127de82640",
         "https://news.web.nhk/newsweb/na/nd-20261127de82683",
@@ -495,10 +496,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261125de81111",
         "https://news.web.nhk/newsweb/na/nd-20261125de81107",
         "https://news.web.nhk/newsweb/na/nd-20261125de81118",
-        "https://news.web.nhk/newsweb/na/nd-20261125de80969",
-        "https://news.web.nhk/newsweb/na/nd-20261125de81022"
+        "https://news.web.nhk/newsweb/na/nd-20261125de80969"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2611-iphone-duo-apple-pencil-amazon-sale/",
         "https://www.gizmodo.jp/article/2611-galaxy-s27-ultra-camera-leak/",
         "https://www.gizmodo.jp/article/2611-nvidia-southeast-asia-ai-chip-ban/",
         "https://www.gizmodo.jp/article/anker-soundcore-3-sale/",
@@ -697,8 +698,7 @@
         "https://www.gizmodo.jp/article/2611-spokeless-acrylic-wheel-bicycle/",
         "https://www.gizmodo.jp/article/2611-ioto-volcano-coastline/",
         "https://www.gizmodo.jp/article/2611-framework-wireless-touchpad-keyboard/",
-        "https://www.gizmodo.jp/article/anthropic-cbrn-threat-investigator-job/",
-        "https://www.gizmodo.jp/article/2611-claude-riemann-hypothesis-proof/"
+        "https://www.gizmodo.jp/article/anthropic-cbrn-threat-investigator-job/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "ZQuKT0hFy8E",
