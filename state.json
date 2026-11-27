@@ -296,6 +296,7 @@
         "https://www.bbc.co.uk/news/articles/cx5y1987dyp6o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261127de82226",
         "https://news.web.nhk/newsweb/na/nd-20261028de67172",
         "https://news.web.nhk/newsweb/na/nd-20261127de82221",
         "https://news.web.nhk/newsweb/na/nd-20261127de82417",
@@ -494,10 +495,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261125de80958",
         "https://news.web.nhk/newsweb/na/nd-20261125de80935",
         "https://news.web.nhk/newsweb/na/nd-20261125de80937",
-        "https://news.web.nhk/newsweb/na/nd-20261125de80931",
-        "https://news.web.nhk/newsweb/na/nd-20261125de80929"
+        "https://news.web.nhk/newsweb/na/nd-20261125de80931"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/amazon_black-friday_apple_gadgets/",
         "https://www.gizmodo.jp/article/2610-audio-technica-monitor-headphone-fps/",
         "https://www.gizmodo.jp/article/fb1d9940-2e2f-4abe-a105-58b47d8f007d/",
         "https://www.gizmodo.jp/article/pitaka-wind-over-wheat-phone-cases/",
@@ -696,8 +697,7 @@
         "https://www.gizmodo.jp/article/evering-myaku-myaku/",
         "https://www.gizmodo.jp/article/suunto-run-2-review/",
         "https://www.gizmodo.jp/article/best-tech-gifts-over-500-dollars-holiday-gift-guide/",
-        "https://www.gizmodo.jp/article/orca-echo-toast/",
-        "https://www.gizmodo.jp/article/iphone-duo-self-repair-parts-price/"
+        "https://www.gizmodo.jp/article/orca-echo-toast/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "ZQuKT0hFy8E",
