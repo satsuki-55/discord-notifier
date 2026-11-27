@@ -296,6 +296,7 @@
         "https://www.bbc.co.uk/news/articles/ckp80mjr9emyo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261127de82484",
         "https://news.web.nhk/newsweb/na/nd-20261127de82528",
         "https://news.web.nhk/newsweb/na/nd-20261127de82486",
         "https://news.web.nhk/newsweb/na/nd-20261127de82378",
@@ -494,8 +495,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261125de81041",
         "https://news.web.nhk/newsweb/na/nd-20261125de80993",
         "https://news.web.nhk/newsweb/na/nd-20261125de81028",
-        "https://news.web.nhk/newsweb/na/nd-20261125de80985",
-        "https://news.web.nhk/newsweb/na/nd-20261125de80995"
+        "https://news.web.nhk/newsweb/na/nd-20261125de80985"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-honor-wide-foldable-7000mah/",
