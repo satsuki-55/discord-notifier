@@ -297,6 +297,8 @@
         "https://www.bbc.co.uk/news/articles/crm4rygl4m3o#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261127de82720",
+        "https://news.web.nhk/newsweb/na/nd-20261127de82723",
         "https://news.web.nhk/newsweb/na/nd-20261127de82728",
         "https://news.web.nhk/newsweb/na/nd-20261127de82705",
         "https://news.web.nhk/newsweb/na/nd-20261125de80969",
@@ -494,9 +496,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261125de81188",
         "https://news.web.nhk/newsweb/na/nd-20261125de81004",
         "https://news.web.nhk/newsweb/na/nd-20261125de81170",
-        "https://news.web.nhk/newsweb/na/nd-20261125de81139",
-        "https://news.web.nhk/newsweb/na/nd-20261125de81151",
-        "https://news.web.nhk/newsweb/na/nd-20261028de67169"
+        "https://news.web.nhk/newsweb/na/nd-20261125de81139"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-amazon-blackfriday-mac-minim6/",
