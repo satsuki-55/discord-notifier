@@ -94,6 +94,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/videos/cqzr566llz4no#1",
         "https://www.bbc.co.uk/news/articles/cw074p95ye5do#1",
         "https://www.bbc.co.uk/news/articles/c8wy5p6pv2e2o#1",
         "https://www.bbc.co.uk/news/articles/c65y10j841jpo#0",
@@ -292,10 +293,10 @@
         "https://www.bbc.co.uk/news/articles/cm0qjglj3ejlo#1",
         "https://www.bbc.co.uk/news/articles/c6ly5v11q194o#0",
         "https://www.bbc.co.uk/news/articles/crm4rygl4m3o#0",
-        "https://www.bbc.co.uk/news/videos/cj5y1p067kxno#1",
-        "https://www.bbc.co.uk/news/articles/c63egnjyy5dno#1"
+        "https://www.bbc.co.uk/news/videos/cj5y1p067kxno#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261127de82683",
         "https://news.web.nhk/newsweb/na/nd-20261127de82680",
         "https://news.web.nhk/newsweb/na/nd-20261127de82597",
         "https://news.web.nhk/newsweb/na/nd-20261127de82594",
@@ -494,10 +495,12 @@
         "https://news.web.nhk/newsweb/na/nd-20261125de80969",
         "https://news.web.nhk/newsweb/na/nd-20261125de81022",
         "https://news.web.nhk/newsweb/na/nd-20261125de81052",
-        "https://news.web.nhk/newsweb/na/nd-20261125de81016",
-        "https://news.web.nhk/newsweb/na/nd-20261125de81041"
+        "https://news.web.nhk/newsweb/na/nd-20261125de81016"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2611-nvidia-southeast-asia-ai-chip-ban/",
+        "https://www.gizmodo.jp/article/anker-soundcore-3-sale/",
+        "https://www.gizmodo.jp/article/2611-gta6-casiopea-radio/",
         "https://www.gizmodo.jp/article/2611-skechers-slip-ins-cozy-fit/",
         "https://www.gizmodo.jp/article/2611-iloud-micro-monitor-2/",
         "https://www.gizmodo.jp/article/2611-honor-wide-foldable-7000mah/",
@@ -694,10 +697,7 @@
         "https://www.gizmodo.jp/article/2611-framework-wireless-touchpad-keyboard/",
         "https://www.gizmodo.jp/article/anthropic-cbrn-threat-investigator-job/",
         "https://www.gizmodo.jp/article/2611-claude-riemann-hypothesis-proof/",
-        "https://www.gizmodo.jp/article/2611-recent-solar-power-evolution/",
-        "https://www.gizmodo.jp/article/2611-original-pet-bottle-custom-shape/",
-        "https://www.gizmodo.jp/article/2611-xiaomi-18-pro-series/",
-        "https://www.gizmodo.jp/article/0b0516f2-94f8-442e-bdae-2987f090be13/"
+        "https://www.gizmodo.jp/article/2611-recent-solar-power-evolution/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "ZQuKT0hFy8E",
