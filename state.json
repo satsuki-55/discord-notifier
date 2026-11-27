@@ -296,6 +296,7 @@
         "https://www.bbc.co.uk/news/articles/c6d917jn5gq7o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261127de82221",
         "https://news.web.nhk/newsweb/na/nd-20261127de82417",
         "https://news.web.nhk/newsweb/na/nd-20261127de82399",
         "https://news.web.nhk/newsweb/na/nd-20261127de82393",
@@ -494,10 +495,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261125de80937",
         "https://news.web.nhk/newsweb/na/nd-20261125de80931",
         "https://news.web.nhk/newsweb/na/nd-20261125de80929",
-        "https://news.web.nhk/newsweb/na/nd-20261125de80927",
-        "https://news.web.nhk/newsweb/na/nd-20261125de80924"
+        "https://news.web.nhk/newsweb/na/nd-20261125de80927"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2610-audio-technica-monitor-headphone-fps/",
         "https://www.gizmodo.jp/article/fb1d9940-2e2f-4abe-a105-58b47d8f007d/",
         "https://www.gizmodo.jp/article/pitaka-wind-over-wheat-phone-cases/",
         "https://www.gizmodo.jp/article/2611-jaxa-astronaut-recruitment-2027/",
@@ -696,8 +697,7 @@
         "https://www.gizmodo.jp/article/suunto-run-2-review/",
         "https://www.gizmodo.jp/article/best-tech-gifts-over-500-dollars-holiday-gift-guide/",
         "https://www.gizmodo.jp/article/orca-echo-toast/",
-        "https://www.gizmodo.jp/article/iphone-duo-self-repair-parts-price/",
-        "https://www.gizmodo.jp/article/2611-operation-endgame-malware-fbi-raid/"
+        "https://www.gizmodo.jp/article/iphone-duo-self-repair-parts-price/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "ZQuKT0hFy8E",
