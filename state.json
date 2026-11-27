@@ -297,6 +297,7 @@
         "https://www.bbc.co.uk/weather/videos/c804wd3wwqpyo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261128de82844",
         "https://news.web.nhk/newsweb/na/nd-20261128de82839",
         "https://news.web.nhk/newsweb/na/nd-20261127de82632",
         "https://news.web.nhk/newsweb/na/nd-20261128de82831",
@@ -495,8 +496,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261125de81466",
         "https://news.web.nhk/newsweb/na/nd-20261125de81446",
         "https://news.web.nhk/newsweb/na/nd-20261125de81444",
-        "https://news.web.nhk/newsweb/na/nd-20261125de81162",
-        "https://news.web.nhk/newsweb/na/nd-20261125de81464"
+        "https://news.web.nhk/newsweb/na/nd-20261125de81162"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-neuralink-pivotal-study-fda-approval/",
