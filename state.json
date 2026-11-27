@@ -297,6 +297,7 @@
         "https://www.bbc.co.uk/weather/articles/cr3eg1py3gv5o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261128de82839",
         "https://news.web.nhk/newsweb/na/nd-20261127de82632",
         "https://news.web.nhk/newsweb/na/nd-20261128de82831",
         "https://news.web.nhk/newsweb/na/nd-20261128de82828",
@@ -495,8 +496,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261125de81446",
         "https://news.web.nhk/newsweb/na/nd-20261125de81444",
         "https://news.web.nhk/newsweb/na/nd-20261125de81162",
-        "https://news.web.nhk/newsweb/na/nd-20261125de81464",
-        "https://news.web.nhk/newsweb/na/nd-20261125de81346"
+        "https://news.web.nhk/newsweb/na/nd-20261125de81464"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-japan-ai-regulation-penalties/",
