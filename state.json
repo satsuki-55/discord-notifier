@@ -297,6 +297,7 @@
         "https://www.bbc.co.uk/weather/articles/cr3eg1py3gv5o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261127de82632",
         "https://news.web.nhk/newsweb/na/nd-20261128de82831",
         "https://news.web.nhk/newsweb/na/nd-20261128de82828",
         "https://news.web.nhk/newsweb/na/nd-20261128de82827",
@@ -495,10 +496,11 @@
         "https://news.web.nhk/newsweb/na/nd-20261125de81444",
         "https://news.web.nhk/newsweb/na/nd-20261125de81162",
         "https://news.web.nhk/newsweb/na/nd-20261125de81464",
-        "https://news.web.nhk/newsweb/na/nd-20261125de81346",
-        "https://news.web.nhk/newsweb/na/nd-20261125de81440"
+        "https://news.web.nhk/newsweb/na/nd-20261125de81346"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2611-japan-ai-regulation-penalties/",
+        "https://www.gizmodo.jp/article/2611-surface-duo-ios-install/",
         "https://www.gizmodo.jp/article/ev-car-wheels-2/",
         "https://www.gizmodo.jp/article/ai_data-center_midterm_election_texas/",
         "https://www.gizmodo.jp/article/character-ai_bankruptcy_user-data_sale/",
@@ -696,9 +698,7 @@
         "https://www.gizmodo.jp/article/toyota-robotaxi-china/",
         "https://www.gizmodo.jp/article/exped_camp-slipper/",
         "https://www.gizmodo.jp/article/2611-three-roll-mill-sampe-japan-2026/",
-        "https://www.gizmodo.jp/article/2611-klipsch-stratos-headphones/",
-        "https://www.gizmodo.jp/article/fbb0eccf-0c07-4582-840c-0e8781a170a0/",
-        "https://www.gizmodo.jp/article/2611-anker-usb-c-hdmi-cable/"
+        "https://www.gizmodo.jp/article/2611-klipsch-stratos-headphones/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "ZQuKT0hFy8E",
