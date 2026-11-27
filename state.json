@@ -297,6 +297,7 @@
         "https://www.bbc.co.uk/news/articles/ckg5rz4p7g68o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261128de82824",
         "https://news.web.nhk/newsweb/na/nd-20261128de82816",
         "https://news.web.nhk/newsweb/na/nd-20261128de82819",
         "https://news.web.nhk/newsweb/na/nd-20261128de82821",
@@ -495,8 +496,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261125de81440",
         "https://news.web.nhk/newsweb/na/nd-20261125de81436",
         "https://news.web.nhk/newsweb/na/nd-20261125de81409",
-        "https://news.web.nhk/newsweb/na/nd-20261125de81419",
-        "https://news.web.nhk/newsweb/na/nd-20261125de81388"
+        "https://news.web.nhk/newsweb/na/nd-20261125de81419"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/ev-car-wheels-2/",
