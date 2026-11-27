@@ -296,6 +296,7 @@
         "https://www.bbc.co.uk/news/articles/cw9879841ev7o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261127de82318",
         "https://news.web.nhk/newsweb/na/nd-20261127de82248",
         "https://news.web.nhk/newsweb/na/nd-20261127de82211",
         "https://news.web.nhk/newsweb/na/nd-20261127de82236",
@@ -494,10 +495,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261125de80921",
         "https://news.web.nhk/newsweb/na/nd-20261125de80919",
         "https://news.web.nhk/newsweb/na/nd-20261125de80903",
-        "https://news.web.nhk/newsweb/na/nd-20261124de80869",
-        "https://news.web.nhk/newsweb/na/nd-20261125de80911"
+        "https://news.web.nhk/newsweb/na/nd-20261124de80869"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/ringconn-gen-2-smartring/",
         "https://www.gizmodo.jp/article/2611-airpods-pro-3-amazon-black-friday-sale/",
         "https://www.gizmodo.jp/article/2611-m6-mac-mini-amazon-black-friday-sale/",
         "https://www.gizmodo.jp/article/nitori-projection-digital-clock-px5-bazzy/",
@@ -696,8 +697,7 @@
         "https://www.gizmodo.jp/article/2611-oura-ring-jet-lag-plan/",
         "https://www.gizmodo.jp/article/2611-xiaomi-clip-earcuff-earphones/",
         "https://www.gizmodo.jp/article/2611-alexa-plus-natural-conversation/",
-        "https://www.gizmodo.jp/article/2611-openai-compute-campus-datacenters/",
-        "https://www.gizmodo.jp/article/iphone-pro_design_rumors/"
+        "https://www.gizmodo.jp/article/2611-openai-compute-campus-datacenters/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "ZQuKT0hFy8E",
