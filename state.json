@@ -297,6 +297,7 @@
         "https://www.bbc.co.uk/news/videos/cj5y1p067kxno#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261127de82675",
         "https://news.web.nhk/newsweb/na/nd-20261127de82640",
         "https://news.web.nhk/newsweb/na/nd-20261127de82683",
         "https://news.web.nhk/newsweb/na/nd-20261127de82680",
@@ -495,8 +496,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261125de81107",
         "https://news.web.nhk/newsweb/na/nd-20261125de81118",
         "https://news.web.nhk/newsweb/na/nd-20261125de80969",
-        "https://news.web.nhk/newsweb/na/nd-20261125de81022",
-        "https://news.web.nhk/newsweb/na/nd-20261125de81052"
+        "https://news.web.nhk/newsweb/na/nd-20261125de81022"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-galaxy-s27-ultra-camera-leak/",
