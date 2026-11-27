@@ -296,6 +296,7 @@
         "https://www.bbc.co.uk/news/articles/ckr5gv4g0pmdo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261127de82369",
         "https://news.web.nhk/newsweb/na/nd-20261127de82351",
         "https://news.web.nhk/newsweb/na/nd-20261127de82364",
         "https://news.web.nhk/newsweb/na/nd-20261127de82352",
@@ -494,10 +495,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261124de80624",
         "https://news.web.nhk/newsweb/na/nd-20261125de80923",
         "https://news.web.nhk/newsweb/na/nd-20261124de80898",
-        "https://news.web.nhk/newsweb/na/nd-20261124de80899",
-        "https://news.web.nhk/newsweb/na/nd-20261124de80868"
+        "https://news.web.nhk/newsweb/na/nd-20261124de80899"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2611-ecoflow-delta-3800-gen4-blackout/",
         "https://www.gizmodo.jp/article/2611-1password-security-breach-vaults-safe/",
         "https://www.gizmodo.jp/article/2611-amazon-mastercard/",
         "https://www.gizmodo.jp/article/ringconn-gen-2-smartring/",
@@ -696,8 +697,7 @@
         "https://www.gizmodo.jp/article/2611-logicool-game-day-vacation/",
         "https://www.gizmodo.jp/article/2611-xbox-25th-next-gen-features/",
         "https://www.gizmodo.jp/article/orimouse_new-colors_and_art-design/",
-        "https://www.gizmodo.jp/article/2611-oura-ring-jet-lag-plan/",
-        "https://www.gizmodo.jp/article/2611-xiaomi-clip-earcuff-earphones/"
+        "https://www.gizmodo.jp/article/2611-oura-ring-jet-lag-plan/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "ZQuKT0hFy8E",
