@@ -297,6 +297,7 @@
         "https://www.bbc.co.uk/weather/articles/cr894e8dd7wqo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261127de82782",
         "https://news.web.nhk/newsweb/na/nd-20261127de82785",
         "https://news.web.nhk/newsweb/na/nd-20261127de82780",
         "https://news.web.nhk/newsweb/na/nd-20261126de82070",
@@ -495,8 +496,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261125de81302",
         "https://news.web.nhk/newsweb/na/nd-20261125de81264",
         "https://news.web.nhk/newsweb/na/nd-20261125de81284",
-        "https://news.web.nhk/newsweb/na/nd-20261125de81253",
-        "https://news.web.nhk/newsweb/na/nd-20261125de81327"
+        "https://news.web.nhk/newsweb/na/nd-20261125de81253"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/character-ai_bankruptcy_user-data_sale/",
