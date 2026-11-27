@@ -296,6 +296,8 @@
         "https://www.bbc.co.uk/news/articles/cx5y1987dyp6o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261127de82452",
+        "https://news.web.nhk/newsweb/na/nd-20261127de82442",
         "https://news.web.nhk/newsweb/na/nd-20261127de82226",
         "https://news.web.nhk/newsweb/na/nd-20261028de67172",
         "https://news.web.nhk/newsweb/na/nd-20261127de82221",
@@ -493,9 +495,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261125de80995",
         "https://news.web.nhk/newsweb/na/nd-20261125de80970",
         "https://news.web.nhk/newsweb/na/nd-20261125de80958",
-        "https://news.web.nhk/newsweb/na/nd-20261125de80935",
-        "https://news.web.nhk/newsweb/na/nd-20261125de80937",
-        "https://news.web.nhk/newsweb/na/nd-20261125de80931"
+        "https://news.web.nhk/newsweb/na/nd-20261125de80935"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/heel_jan-komasa_interview/",
