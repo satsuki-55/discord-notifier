@@ -297,6 +297,7 @@
         "https://www.bbc.co.uk/weather/articles/cr894e8dd7wqo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261127de82776",
         "https://news.web.nhk/newsweb/na/nd-20261127de82782",
         "https://news.web.nhk/newsweb/na/nd-20261127de82785",
         "https://news.web.nhk/newsweb/na/nd-20261127de82780",
@@ -495,10 +496,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261125de81344",
         "https://news.web.nhk/newsweb/na/nd-20261125de81302",
         "https://news.web.nhk/newsweb/na/nd-20261125de81264",
-        "https://news.web.nhk/newsweb/na/nd-20261125de81284",
-        "https://news.web.nhk/newsweb/na/nd-20261125de81253"
+        "https://news.web.nhk/newsweb/na/nd-20261125de81284"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/ai_data-center_midterm_election_texas/",
         "https://www.gizmodo.jp/article/character-ai_bankruptcy_user-data_sale/",
         "https://www.gizmodo.jp/article/2611-yanmar-bio-composter-yc100s/",
         "https://www.gizmodo.jp/article/lenovo_legion-go-beam_leak/",
@@ -697,8 +698,7 @@
         "https://www.gizmodo.jp/article/2611-klipsch-stratos-headphones/",
         "https://www.gizmodo.jp/article/fbb0eccf-0c07-4582-840c-0e8781a170a0/",
         "https://www.gizmodo.jp/article/2611-anker-usb-c-hdmi-cable/",
-        "https://www.gizmodo.jp/article/borslon-finger-gaming-mouse/",
-        "https://www.gizmodo.jp/article/staccs_cardgame/"
+        "https://www.gizmodo.jp/article/borslon-finger-gaming-mouse/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "ZQuKT0hFy8E",
