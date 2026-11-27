@@ -94,6 +94,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cw62pn8mdn39o#1",
         "https://www.bbc.co.uk/news/articles/cw62pn8mdn39o#0",
         "https://www.bbc.co.uk/news/articles/ckr5gr4g8gn5o#1",
         "https://www.bbc.co.uk/news/articles/ck792lq4xrero#1",
@@ -292,10 +293,10 @@
         "https://www.bbc.co.uk/news/articles/c3rrgqj2zx5yo#0",
         "https://www.bbc.co.uk/news/articles/cn8n5vnmjlzo#1",
         "https://www.bbc.co.uk/news/articles/cx5y1987dyp6o#1",
-        "https://www.bbc.co.uk/news/articles/c820qnznkrn4o#1",
-        "https://www.bbc.co.uk/news/articles/c6d917jn5gq7o#1"
+        "https://www.bbc.co.uk/news/articles/c820qnznkrn4o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261028de67172",
         "https://news.web.nhk/newsweb/na/nd-20261127de82221",
         "https://news.web.nhk/newsweb/na/nd-20261127de82417",
         "https://news.web.nhk/newsweb/na/nd-20261127de82399",
@@ -494,8 +495,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261125de80935",
         "https://news.web.nhk/newsweb/na/nd-20261125de80937",
         "https://news.web.nhk/newsweb/na/nd-20261125de80931",
-        "https://news.web.nhk/newsweb/na/nd-20261125de80929",
-        "https://news.web.nhk/newsweb/na/nd-20261125de80927"
+        "https://news.web.nhk/newsweb/na/nd-20261125de80929"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2610-audio-technica-monitor-headphone-fps/",
