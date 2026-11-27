@@ -94,6 +94,8 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c52e8k19y94mo#0",
+        "https://www.bbc.co.uk/news/articles/c6z9d3pv93glo#1",
         "https://www.bbc.co.uk/news/articles/ck2057x387ego#0",
         "https://www.bbc.co.uk/news/videos/c6evr2y40v0jo#1",
         "https://www.bbc.co.uk/news/articles/c9kgmd0ldy0lo#1",
@@ -291,11 +293,10 @@
         "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo#1",
         "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo#0",
         "https://www.bbc.co.uk/news/articles/c6z7407zrgwvo#1",
-        "https://www.bbc.co.uk/news/videos/cmz74l0yzzvyo#1",
-        "https://www.bbc.co.uk/news/articles/c6x2e0j3kx28o#0",
-        "https://www.bbc.co.uk/news/articles/c3qj57rkd2k1o#0"
+        "https://www.bbc.co.uk/news/videos/cmz74l0yzzvyo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261127de82195",
         "https://news.web.nhk/newsweb/na/nd-20261127de82198",
         "https://news.web.nhk/newsweb/na/nd-20261127de82199",
         "https://news.web.nhk/newsweb/na/nd-20261127de82164",
@@ -494,10 +495,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261125de80905",
         "https://news.web.nhk/newsweb/na/nd-20261124de80890",
         "https://news.web.nhk/newsweb/na/nd-20261124de80880",
-        "https://news.web.nhk/newsweb/na/nd-20261124de80879",
-        "https://news.web.nhk/newsweb/na/nd-20261124de80797"
+        "https://news.web.nhk/newsweb/na/nd-20261124de80879"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2611-security-goods-to-buy-on-amazon/",
         "https://www.gizmodo.jp/article/2611-cia-us-intelligence-hacked/",
         "https://www.gizmodo.jp/article/2611-insta360-toast-e-paper-badge/",
         "https://www.gizmodo.jp/article/2611-humanoid-robot-operator-tokyo/",
@@ -696,8 +697,7 @@
         "https://www.gizmodo.jp/article/2611-grapht-sale-gaming-monitor/",
         "https://www.gizmodo.jp/article/gizmart-workchair-pro-w930-1st/",
         "https://www.gizmodo.jp/article/nape-pro-se-ipad-mini/",
-        "https://www.gizmodo.jp/article/2611-anthropic-ipo-2-trillion-valuation/",
-        "https://www.gizmodo.jp/article/2611-chatgpt-accounting-plugin-invoice-automation/"
+        "https://www.gizmodo.jp/article/2611-anthropic-ipo-2-trillion-valuation/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "ZQuKT0hFy8E",
