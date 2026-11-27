@@ -95,6 +95,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cm5y1380q3vgo#0",
         "https://www.bbc.co.uk/news/articles/cm5y1380q3vgo#1",
         "https://www.bbc.co.uk/news/videos/cwq6e8pez0j7o#0",
         "https://www.bbc.co.uk/sport/boxing/articles/c539gd2x2ye1o#1",
@@ -293,10 +294,11 @@
         "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o#1",
         "https://www.bbc.co.uk/news/articles/ckx283y8wwwgo#0",
         "https://www.bbc.co.uk/news/articles/cq0md8g14zryo#1",
-        "https://www.bbc.co.uk/news/articles/cq0md8g14zryo#0",
-        "https://www.bbc.co.uk/news/articles/c3rrgqj2zx5yo#1"
+        "https://www.bbc.co.uk/news/articles/cq0md8g14zryo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261127de82789",
+        "https://news.web.nhk/newsweb/na/nd-20261127de82783",
         "https://news.web.nhk/newsweb/na/nd-20261127de82776",
         "https://news.web.nhk/newsweb/na/nd-20261127de82782",
         "https://news.web.nhk/newsweb/na/nd-20261127de82785",
@@ -494,9 +496,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261125de81042",
         "https://news.web.nhk/newsweb/na/nd-20261125de81070",
         "https://news.web.nhk/newsweb/na/nd-20261125de81344",
-        "https://news.web.nhk/newsweb/na/nd-20261125de81302",
-        "https://news.web.nhk/newsweb/na/nd-20261125de81264",
-        "https://news.web.nhk/newsweb/na/nd-20261125de81284"
+        "https://news.web.nhk/newsweb/na/nd-20261125de81302"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/ai_data-center_midterm_election_texas/",
