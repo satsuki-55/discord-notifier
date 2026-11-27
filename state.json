@@ -94,6 +94,8 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c670278qk879o#0",
+        "https://www.bbc.co.uk/news/articles/c9gklryvj24do#1",
         "https://www.bbc.co.uk/news/articles/cw8dv11dp2yeo#0",
         "https://www.bbc.co.uk/news/articles/cqx2wx89kg0eo#1",
         "https://www.bbc.co.uk/news/articles/cqvg2nlr8kd8o#1",
@@ -291,9 +293,7 @@
         "https://www.bbc.co.uk/news/articles/c6z74l1017zpo#1",
         "https://www.bbc.co.uk/news/articles/cvwy0rg343j7o#1",
         "https://www.bbc.co.uk/news/articles/ckr5gv4g0pmdo#0",
-        "https://www.bbc.co.uk/news/articles/cw9879841ev7o#1",
-        "https://www.bbc.co.uk/news/articles/cqpv9kjgy4jno#0",
-        "https://www.bbc.co.uk/news/articles/ckr5gv4g0pmdo#1"
+        "https://www.bbc.co.uk/news/articles/cw9879841ev7o#1"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20261127de82195",
@@ -498,6 +498,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261124de80879"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/apple-ipad-macos-test/",
         "https://www.gizmodo.jp/article/expand-sonos-27-products-to-build-a-home-theater/",
         "https://www.gizmodo.jp/article/2611-toyota-folding-ev-bike-bke/",
         "https://www.gizmodo.jp/article/2610-plaud-intelligence-review/",
@@ -696,8 +697,7 @@
         "https://www.gizmodo.jp/article/2611-diamond-to-graphite-impact-experiment/",
         "https://www.gizmodo.jp/article/2611-ps4-local-llm-qwen/",
         "https://www.gizmodo.jp/article/2611-japan-leaked-passwords-2026-ranking/",
-        "https://www.gizmodo.jp/article/2611-montbell-crima-air-light-fleece/",
-        "https://www.gizmodo.jp/article/2611-grapht-sale-gaming-monitor/"
+        "https://www.gizmodo.jp/article/2611-montbell-crima-air-light-fleece/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "ZQuKT0hFy8E",
