@@ -95,6 +95,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cm0jx92d07n5o#0",
         "https://www.bbc.co.uk/news/articles/cw4gnm3m9deno#1",
         "https://www.bbc.co.uk/news/videos/c6879eqe01e0o#1",
         "https://www.bbc.co.uk/sport/football/articles/c69q8y5x03ywo#0",
@@ -293,10 +294,10 @@
         "https://www.bbc.co.uk/news/articles/c3rrgqj2zx5yo#1",
         "https://www.bbc.co.uk/news/articles/ck9q8xp5r5pgo#0",
         "https://www.bbc.co.uk/news/articles/ckp80mjr9emyo#1",
-        "https://www.bbc.co.uk/weather/articles/cr894e8dd7wqo#0",
-        "https://www.bbc.co.uk/news/articles/cw4gn8lxj5r1o#1"
+        "https://www.bbc.co.uk/weather/articles/cr894e8dd7wqo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261127de82785",
         "https://news.web.nhk/newsweb/na/nd-20261127de82780",
         "https://news.web.nhk/newsweb/na/nd-20261126de82070",
         "https://news.web.nhk/newsweb/na/nd-20261127de82769",
@@ -495,8 +496,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261125de81264",
         "https://news.web.nhk/newsweb/na/nd-20261125de81284",
         "https://news.web.nhk/newsweb/na/nd-20261125de81253",
-        "https://news.web.nhk/newsweb/na/nd-20261125de81327",
-        "https://news.web.nhk/newsweb/na/nd-20261125de81277"
+        "https://news.web.nhk/newsweb/na/nd-20261125de81327"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/character-ai_bankruptcy_user-data_sale/",
