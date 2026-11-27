@@ -297,6 +297,7 @@
         "https://www.bbc.co.uk/news/articles/cw24e17v9e51o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261127de82241",
         "https://news.web.nhk/newsweb/na/nd-20261127de82753",
         "https://news.web.nhk/newsweb/na/nd-20261127de82748",
         "https://news.web.nhk/newsweb/na/nd-20261127de82743",
@@ -495,10 +496,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261125de81248",
         "https://news.web.nhk/newsweb/na/nd-20261125de81299",
         "https://news.web.nhk/newsweb/na/nd-20261125de81258",
-        "https://news.web.nhk/newsweb/na/nd-20261125de81219",
-        "https://news.web.nhk/newsweb/na/nd-20261125de81191"
+        "https://news.web.nhk/newsweb/na/nd-20261125de81219"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/jackery_homepower-1000-plus-v2_review/",
         "https://www.gizmodo.jp/article/2611-sanwa-hdmi-dp-hybrid-hub/",
         "https://www.gizmodo.jp/article/2611-amazon-blackfriday-mac-minim6/",
         "https://www.gizmodo.jp/article/elon-musk-spacex-stock-kids/",
@@ -697,8 +698,7 @@
         "https://www.gizmodo.jp/article/2611-robot-dogs-data-center-security/",
         "https://www.gizmodo.jp/article/fukui-oldest-fossil-snail-parenting/",
         "https://www.gizmodo.jp/article/how-to-make-custom-app-with-ai/",
-        "https://www.gizmodo.jp/article/tnf-mayflypack22/",
-        "https://www.gizmodo.jp/article/2611-spokeless-acrylic-wheel-bicycle/"
+        "https://www.gizmodo.jp/article/tnf-mayflypack22/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "ZQuKT0hFy8E",
