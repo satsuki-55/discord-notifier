@@ -97,6 +97,8 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/c65y1l9j7j9ko#2",
+        "https://www.bbc.co.uk/news/articles/c64gn8pe5eeqo#2",
         "https://www.bbc.co.uk/news/articles/ck792l9q07xro#2",
         "https://www.bbc.co.uk/news/articles/cq3dgp88p744o#2",
         "https://www.bbc.co.uk/news/articles/cr9309nyg2vno#2",
@@ -294,9 +296,7 @@
         "https://www.bbc.co.uk/news/articles/cm8x0ve4yd7wo#1",
         "https://www.bbc.co.uk/news/articles/ck24evd10rjlo#0",
         "https://www.bbc.co.uk/news/articles/c65y10j841jpo#1",
-        "https://www.bbc.co.uk/news/articles/c62l5j02lj0go#1",
-        "https://www.bbc.co.uk/news/articles/c9gkld2l38y6o#0",
-        "https://www.bbc.co.uk/news/articles/c0666rn4l5vo#1"
+        "https://www.bbc.co.uk/news/articles/c62l5j02lj0go#1"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20261128de82954",
@@ -501,6 +501,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261125de81522"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/ai-heavy-machinery-acrobatics/",
         "https://www.gizmodo.jp/article/harman_kardon-allure-2/",
         "https://www.gizmodo.jp/article/ev_black-friday_discount/",
         "https://www.gizmodo.jp/article/2611-anker-nano-universal-charger-100w/",
@@ -699,8 +700,7 @@
         "https://www.gizmodo.jp/article/citizen_attesa-death-star_watch/",
         "https://www.gizmodo.jp/article/2611-china-top-graduates-manufacturing-energy/",
         "https://www.gizmodo.jp/article/2611-xreal-aura-review/",
-        "https://www.gizmodo.jp/article/nape-pro-se-heavy-ball-custom/",
-        "https://www.gizmodo.jp/article/2611-lomography-lomo72-half-camera/"
+        "https://www.gizmodo.jp/article/nape-pro-se-heavy-ball-custom/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "ZQuKT0hFy8E",
