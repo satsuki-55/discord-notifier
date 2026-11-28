@@ -97,6 +97,8 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cm5y10yydln3o#1",
+        "https://www.bbc.co.uk/news/articles/cvwy08g70ldko#1",
         "https://www.bbc.co.uk/news/articles/cm1wrgqyq4d8o#0",
         "https://www.bbc.co.uk/news/articles/cm1wrgqyq4d8o#1",
         "https://www.bbc.co.uk/weather/articles/ckq5v8pgxx1qo#1",
@@ -294,9 +296,7 @@
         "https://www.bbc.co.uk/news/articles/c0666rn4l5vo#1",
         "https://www.bbc.co.uk/news/articles/cqlymky8kpzjo#1",
         "https://www.bbc.co.uk/news/videos/cvglrz5yr79go#1",
-        "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o#1",
-        "https://www.bbc.co.uk/news/articles/cmx2x4e0n5jro#0",
-        "https://www.bbc.co.uk/news/articles/ckn806qq760po#1"
+        "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o#1"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20261128de82954",
@@ -501,6 +501,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261125de81522"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/harman_kardon-allure-2/",
         "https://www.gizmodo.jp/article/ev_black-friday_discount/",
         "https://www.gizmodo.jp/article/2611-anker-nano-universal-charger-100w/",
         "https://www.gizmodo.jp/article/2611-yamasaki-jitsugyo-drain-net-holder/",
@@ -699,8 +700,7 @@
         "https://www.gizmodo.jp/article/2611-china-top-graduates-manufacturing-energy/",
         "https://www.gizmodo.jp/article/2611-xreal-aura-review/",
         "https://www.gizmodo.jp/article/nape-pro-se-heavy-ball-custom/",
-        "https://www.gizmodo.jp/article/2611-lomography-lomo72-half-camera/",
-        "https://www.gizmodo.jp/article/2611-underwater-mountain-taller-than-burj-khalifa/"
+        "https://www.gizmodo.jp/article/2611-lomography-lomo72-half-camera/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "ZQuKT0hFy8E",
