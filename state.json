@@ -297,6 +297,7 @@
         "https://www.bbc.co.uk/news/articles/ckjrel5vdj9zo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261128de82863",
         "https://news.web.nhk/newsweb/na/nd-20261128de82848",
         "https://news.web.nhk/newsweb/na/nd-20261128de82844",
         "https://news.web.nhk/newsweb/na/nd-20261128de82839",
@@ -495,8 +496,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261125de81481",
         "https://news.web.nhk/newsweb/na/nd-20261125de81491",
         "https://news.web.nhk/newsweb/na/nd-20261125de81466",
-        "https://news.web.nhk/newsweb/na/nd-20261125de81446",
-        "https://news.web.nhk/newsweb/na/nd-20261125de81444"
+        "https://news.web.nhk/newsweb/na/nd-20261125de81446"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-star-wars-galactic-racer-review/",
