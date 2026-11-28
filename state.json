@@ -298,6 +298,7 @@
         "https://www.bbc.co.uk/news/videos/c3x29v11ed1xo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261128de82900",
         "https://news.web.nhk/newsweb/na/nd-20261128de82879",
         "https://news.web.nhk/newsweb/na/nd-20261128de82897",
         "https://news.web.nhk/newsweb/na/nd-20261128de82874",
@@ -496,10 +497,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261122de79954",
         "https://news.web.nhk/newsweb/na/nd-20261125de81519",
         "https://news.web.nhk/newsweb/na/nd-20261125de81511",
-        "https://news.web.nhk/newsweb/na/nd-20261122de79936",
-        "https://news.web.nhk/newsweb/na/nd-20261125de81481"
+        "https://news.web.nhk/newsweb/na/nd-20261122de79936"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2611-mac-mini-docking-station-expansion/",
         "https://www.gizmodo.jp/article/2611-nape-pro-se-three-days-left/",
         "https://www.gizmodo.jp/article/2611-sodium-ion-mobile-battery/",
         "https://www.gizmodo.jp/article/2611-msi-27-inch-4k-monitor-deal/",
@@ -698,8 +699,7 @@
         "https://www.gizmodo.jp/article/apple-tv_video-podcasts/",
         "https://www.gizmodo.jp/article/2611-inkleaf-dual-screen-ereader/",
         "https://www.gizmodo.jp/article/2611-spacex-barista-job-starbase-redmond/",
-        "https://www.gizmodo.jp/article/2611-golden-boy-mummy-ct-scan/",
-        "https://www.gizmodo.jp/article/2611-gta5-sea-level-rise-los-angeles-simulation/"
+        "https://www.gizmodo.jp/article/2611-golden-boy-mummy-ct-scan/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "ZQuKT0hFy8E",
