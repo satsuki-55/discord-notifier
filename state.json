@@ -97,6 +97,9 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/ckp80jyz6dl8o#0",
+        "https://www.bbc.co.uk/news/articles/cm5y10yydln3o#0",
+        "https://www.bbc.co.uk/news/articles/ckp80jyz6dl8o#1",
         "https://www.bbc.co.uk/sport/football/articles/ck0ev91zlwgpo#1",
         "https://www.bbc.co.uk/news/articles/cq3dgp88p744o#0",
         "https://www.bbc.co.uk/news/articles/cwp83j2k31g3o#0",
@@ -293,10 +296,7 @@
         "https://www.bbc.co.uk/news/articles/c3qj5yl7vj2xo#1",
         "https://www.bbc.co.uk/news/articles/cqlymky8kpzjo#0",
         "https://www.bbc.co.uk/news/videos/cvglrz5yr79go#0",
-        "https://www.bbc.co.uk/news/articles/cm8x0ve4yd7wo#0",
-        "https://www.bbc.co.uk/news/articles/cqwy4377yxnlo#1",
-        "https://www.bbc.co.uk/news/articles/cqd01l9x8k48o#1",
-        "https://www.bbc.co.uk/news/articles/cmvg24j9wex2o#1"
+        "https://www.bbc.co.uk/news/articles/cm8x0ve4yd7wo#0"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20261028de67174",
@@ -501,6 +501,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261126de81564"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2611-dqm4-bianca-flora-switch2-sale/",
         "https://www.gizmodo.jp/article/2611-anker-soundcore-liberty-5-pro/",
         "https://www.gizmodo.jp/article/teva_hurricane-trail-setter-gtx_review/",
         "https://www.gizmodo.jp/article/nitori_range-grill_review/",
@@ -699,8 +700,7 @@
         "https://www.gizmodo.jp/article/openai-sued-california-ai-hacking-incident/",
         "https://www.gizmodo.jp/article/2611-zerokara-liquid-freezing-technology/",
         "https://www.gizmodo.jp/article/cuisinart_clear-view-air-fryer/",
-        "https://www.gizmodo.jp/article/2611-google-quaise-energy-geothermal-power-ai/",
-        "https://www.gizmodo.jp/article/mm6_salomon_collaboration_sneaker-boot/"
+        "https://www.gizmodo.jp/article/2611-google-quaise-energy-geothermal-power-ai/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "ZQuKT0hFy8E",
