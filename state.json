@@ -299,6 +299,7 @@
         "https://www.bbc.co.uk/news/articles/cq39gz99l1pyo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261128de83075",
         "https://news.web.nhk/newsweb/na/nd-20261128de83073",
         "https://news.web.nhk/newsweb/na/nd-20261128de83055",
         "https://news.web.nhk/newsweb/na/nd-20261128de83037",
@@ -497,8 +498,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261125de81527",
         "https://news.web.nhk/newsweb/na/nd-20261126de81572",
         "https://news.web.nhk/newsweb/na/nd-20261125de81438",
-        "https://news.web.nhk/newsweb/na/nd-20261126de81570",
-        "https://news.web.nhk/newsweb/na/nd-20261126de81554"
+        "https://news.web.nhk/newsweb/na/nd-20261126de81570"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-yibooom-magnetic-glasses-holder/",
