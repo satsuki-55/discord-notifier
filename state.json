@@ -299,6 +299,7 @@
         "https://www.bbc.co.uk/news/articles/cm8x0ve4yd7wo#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261128de83037",
         "https://news.web.nhk/newsweb/na/nd-20261028de67174",
         "https://news.web.nhk/newsweb/na/nd-20261128de83021",
         "https://news.web.nhk/newsweb/na/nd-20261128de82993",
@@ -497,8 +498,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261126de81570",
         "https://news.web.nhk/newsweb/na/nd-20261126de81554",
         "https://news.web.nhk/newsweb/na/nd-20261126de81566",
-        "https://news.web.nhk/newsweb/na/nd-20261126de81562",
-        "https://news.web.nhk/newsweb/na/nd-20261126de81564"
+        "https://news.web.nhk/newsweb/na/nd-20261126de81562"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-dqm4-bianca-flora-switch2-sale/",
