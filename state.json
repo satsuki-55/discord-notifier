@@ -299,6 +299,7 @@
         "https://www.bbc.co.uk/news/articles/ckn806qq760po#0"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261128de82943",
         "https://news.web.nhk/newsweb/na/nd-20261122de79954",
         "https://news.web.nhk/newsweb/na/nd-20261128de82910",
         "https://news.web.nhk/newsweb/na/nd-20261128de82908",
@@ -497,8 +498,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261125de81532",
         "https://news.web.nhk/newsweb/na/nd-20261125de81522",
         "https://news.web.nhk/newsweb/na/nd-20261125de81523",
-        "https://news.web.nhk/newsweb/na/nd-20261125de81508",
-        "https://news.web.nhk/newsweb/na/nd-20261125de81505"
+        "https://news.web.nhk/newsweb/na/nd-20261125de81508"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/2611-anker-nano-universal-charger-100w/",
