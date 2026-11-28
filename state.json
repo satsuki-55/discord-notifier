@@ -299,6 +299,7 @@
         "https://www.bbc.co.uk/news/articles/c65y10j841jpo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261128de82992",
         "https://news.web.nhk/newsweb/na/nd-20261126de81547",
         "https://news.web.nhk/newsweb/na/nd-20261128de82980",
         "https://news.web.nhk/newsweb/na/nd-20261128de82899",
@@ -497,8 +498,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261126de81564",
         "https://news.web.nhk/newsweb/na/nd-20261125de81518",
         "https://news.web.nhk/newsweb/na/nd-20261126de81559",
-        "https://news.web.nhk/newsweb/na/nd-20261125de81520",
-        "https://news.web.nhk/newsweb/na/nd-20261126de81560"
+        "https://news.web.nhk/newsweb/na/nd-20261125de81520"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/humanoid-robot_awa-odori_dance/",
