@@ -299,6 +299,7 @@
         "https://www.bbc.co.uk/news/articles/cmvg24j9wex2o#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261128de83021",
         "https://news.web.nhk/newsweb/na/nd-20261128de82993",
         "https://news.web.nhk/newsweb/na/nd-20261128de82992",
         "https://news.web.nhk/newsweb/na/nd-20261126de81547",
@@ -497,10 +498,10 @@
         "https://news.web.nhk/newsweb/na/nd-20261126de81566",
         "https://news.web.nhk/newsweb/na/nd-20261126de81562",
         "https://news.web.nhk/newsweb/na/nd-20261126de81564",
-        "https://news.web.nhk/newsweb/na/nd-20261125de81518",
-        "https://news.web.nhk/newsweb/na/nd-20261126de81559"
+        "https://news.web.nhk/newsweb/na/nd-20261125de81518"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/2611-anker-soundcore-liberty-5-pro/",
         "https://www.gizmodo.jp/article/teva_hurricane-trail-setter-gtx_review/",
         "https://www.gizmodo.jp/article/nitori_range-grill_review/",
         "https://www.gizmodo.jp/article/humanoid-robot_awa-odori_dance/",
@@ -699,8 +700,7 @@
         "https://www.gizmodo.jp/article/2611-zerokara-liquid-freezing-technology/",
         "https://www.gizmodo.jp/article/cuisinart_clear-view-air-fryer/",
         "https://www.gizmodo.jp/article/2611-google-quaise-energy-geothermal-power-ai/",
-        "https://www.gizmodo.jp/article/mm6_salomon_collaboration_sneaker-boot/",
-        "https://www.gizmodo.jp/article/citizen_attesa-death-star_watch/"
+        "https://www.gizmodo.jp/article/mm6_salomon_collaboration_sneaker-boot/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "ZQuKT0hFy8E",
