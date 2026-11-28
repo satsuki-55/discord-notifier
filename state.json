@@ -97,6 +97,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cvlyj7wy7j5go#0",
         "https://www.bbc.co.uk/news/articles/ckwy9rde8gyqo#1",
         "https://www.bbc.co.uk/news/articles/c920x6071g10o#0",
         "https://www.bbc.co.uk/news/articles/ckp80d8vz1ego#1",
@@ -295,8 +296,7 @@
         "https://www.bbc.co.uk/news/articles/cmn50ezxdnewo#0",
         "https://www.bbc.co.uk/news/articles/c98r7ydp7v0ko#0",
         "https://www.bbc.co.uk/news/articles/c2l9vvj097lo#0",
-        "https://www.bbc.co.uk/news/articles/cq39gz99l1pyo#0",
-        "https://www.bbc.co.uk/news/articles/cq39gz99l1pyo#1"
+        "https://www.bbc.co.uk/news/articles/cq39gz99l1pyo#0"
     ],
     "rss:nhk": [
         "https://news.web.nhk/newsweb/na/nd-20261128de83055",
@@ -501,6 +501,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261126de81566"
     ],
     "rss:gizmodo": [
+        "https://www.gizmodo.jp/article/306452-2611-amazon-cio-magnethenkanadaptor/",
         "https://www.gizmodo.jp/article/2611-trumps-social-media-early-access-api/",
         "https://www.gizmodo.jp/article/2611-top500-supercomputer-fugaku-security-incident/",
         "https://www.gizmodo.jp/article/2611-wind-turbine-blade-recycling-graphene/",
@@ -699,8 +700,7 @@
         "https://www.gizmodo.jp/article/2611-super-el-nino-wildfires/",
         "https://www.gizmodo.jp/article/science-prima-retinal-implant/",
         "https://www.gizmodo.jp/article/2611-yamashina-seiki-batasla/",
-        "https://www.gizmodo.jp/article/anthropic-ai-development-acceleration/",
-        "https://www.gizmodo.jp/article/anthropic-goes-for-microsofts-crown-with-new-claude-powered-office-tools/"
+        "https://www.gizmodo.jp/article/anthropic-ai-development-acceleration/"
     ],
     "youtube:UCJcyQ-N0sbvwjYpDNXP9tsw": [
         "ZQuKT0hFy8E",
