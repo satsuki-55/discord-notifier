@@ -97,6 +97,7 @@
         "MxZzeOJmwNI"
     ],
     "rss:bbc": [
+        "https://www.bbc.co.uk/news/articles/cvwy08g70ldko#0",
         "https://www.bbc.co.uk/news/articles/c65y1l9j7j9ko#2",
         "https://www.bbc.co.uk/news/articles/c64gn8pe5eeqo#2",
         "https://www.bbc.co.uk/news/articles/ck792l9q07xro#2",
@@ -295,10 +296,10 @@
         "https://www.bbc.co.uk/news/articles/cmvg2989wv74o#0",
         "https://www.bbc.co.uk/news/articles/cm8x0ve4yd7wo#1",
         "https://www.bbc.co.uk/news/articles/ck24evd10rjlo#0",
-        "https://www.bbc.co.uk/news/articles/c65y10j841jpo#1",
-        "https://www.bbc.co.uk/news/articles/c62l5j02lj0go#1"
+        "https://www.bbc.co.uk/news/articles/c65y10j841jpo#1"
     ],
     "rss:nhk": [
+        "https://news.web.nhk/newsweb/na/nd-20261126de81547",
         "https://news.web.nhk/newsweb/na/nd-20261128de82980",
         "https://news.web.nhk/newsweb/na/nd-20261128de82899",
         "https://news.web.nhk/newsweb/na/nd-20261128de82966",
@@ -497,8 +498,7 @@
         "https://news.web.nhk/newsweb/na/nd-20261125de81518",
         "https://news.web.nhk/newsweb/na/nd-20261126de81559",
         "https://news.web.nhk/newsweb/na/nd-20261125de81520",
-        "https://news.web.nhk/newsweb/na/nd-20261126de81560",
-        "https://news.web.nhk/newsweb/na/nd-20261126de81556"
+        "https://news.web.nhk/newsweb/na/nd-20261126de81560"
     ],
     "rss:gizmodo": [
         "https://www.gizmodo.jp/article/ai-heavy-machinery-acrobatics/",
